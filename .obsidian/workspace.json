@@ -11,10 +11,14 @@
             "id": "2846153f9647900b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Undergrad Notes/Year 4 Semester 2/ECON 319/Hayek Day 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hayek Day 1"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-04-12.md",
+                "file": "Undergrad Notes/Year 4 Semester 2/ECON 319/Hayek Day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-12"
+              "title": "Outline of Hayek Day 1"
             }
           }
         ],
@@ -166,10 +170,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5d0074b44444f944",
+  "active": "2846153f9647900b",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Other Notes/Testing Out Github.md",
     "2025-04-12.md",
+    "Untitled.canvas",
     "Undergrad Notes/Year 4 Semester 2/ECON 319/Sen Day 1.md",
     "Attachments/Sen-RationalFoolsCritique-1977.pdf",
     "Undergrad Notes/Year 4 Semester 2/ECON 319/Mill Day 1.md",
