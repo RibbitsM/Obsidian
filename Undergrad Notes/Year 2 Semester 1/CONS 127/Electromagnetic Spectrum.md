@@ -1,0 +1,35 @@
+- The main unit of radiation is the photon
+- Created when matter is excited thermally or during fission/fusion
+- Can be absorbed, reflected or transmitted
+- Most radiation we experience originates from the sun, which emits in almost every part of the EMS
+- Radiation makes up the entire electromagnetic spectrum, when we talk about radiation this includes heat, visible light, UV, gamma etc.
+- For calculation we assume the speed of light is 3.0 times 108
+- The sun emits in almost every part of the electromagnetic spectrum
+- Speed of light is equal to wavelength times frequency
+- As wavelength increases, frequency/energy decreases
+- Radio waves have the longest wavelengths, can become incredibly long
+- Astronomical objects emit radio waves, we capture these with radio telescopes
+- These telescopes must be physically very large to capture these long radio waves
+- More than one telescope is needed to get a full picture, we call these arrays
+- Microwaves are used by both communication and remote sensing satellites
+- Can see through clouds, haze and smoke
+- Microwaves are used in RADAR and are from 0.1 to 30 cm
+- Considered part of radio waves
+- Visible light spectrum goes from 380 nm to 700
+- Infrared is divided into near mid and far infrared
+- Far infrared is 8-15 microns, called thermal infrared, we use this to measure longwave emission from the earth
+- We can feel infrared radiation as heat
+- People emit infrared radiation as heat, that's how night vision goggles work
+- When objects are very hot like fire, they can emit visible light
+- Near infrared is just past the visible spectrum, and isn't heat
+- This can be detected by satellites and is very useful for detecting the health of vegetation
+- Ultraviolet radiation is invisible to humans, but can be seen by some insects
+- UV-C rays are very harmful and are blocked by the atmosphere
+- UV-B is what causes sunburns, and UV-A is what we use for space observation
+- X-rays are much higher energy, emitted by the sun, and we don't use them for space observation
+- Usually the higher the wavelength, the more it's blocked by the atmosphere
+- Using X rays and gamma rays for earth observation is a terrible idea, we tend to use visible light, microwave and radio, and occasionally near infrared to monitor vegetation and wildlife
+- Gamma rays are the highest energy, only emitted by radioactive elements, celestial bodies, lightning, etc.
+- Gamma rays have such short wavelengths they move between atoms and are very difficult to capture
+- Near infrared is 700-3000 nm, any more than this overlaps with earth's radiation signature
+- Radio waves can range from 30 cm to potentially kilometers

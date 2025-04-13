@@ -1,0 +1,20 @@
+- Tres fuentes principales
+- Aristótoles pensaba que el amor es una fuerza cosmico que aparece en todos criaturas
+- La biblia dice que el razón por amor es los niños, para reproducir
+- Y los médicos creen que el amor es un enfermedad que puede cura con los cuatro humores
+- El amor ovidiano viste amor como una arte que algo puede aprender
+- Ovid escrito un libro sobre como hombres pueden obtener los mujeres, puede también como las mujeres puede obtener los hombres
+- El tercero libro de Ovid, el de las mujeres, es principalmente olvidado
+- Amor físicamente, sexual
+- Un importante parte del amor ovidiano es la alcahueta, una vieja que es un profesional en amor
+- Parecido a Tinder, el gol es el satisfacción sexual, no emocional
+- Muy inmoral, muchas mujeres en mismo tiempo porque la celosía es bueno
+- En siglo catorce, muchas personas son sobrevivientes del la peste negra
+- No autoridad fuerte en la iglesia
+- El libro del buen amor es un ejemplo del mester de clerecía
+- Autores son clérigos, temas religiosas
+- Escritas en estrofas, con rima consonante y en cuaderna vía
+- Alejandrinos, catorce sílabos
+- El libro del buen amor puede ser un maqamat, pero no exactamente
+- Escrito por Juan Ruiz, Arcipreste de Hita
+- El tono es al mismo tiempo serio y humoroso, cambio constantemente

@@ -1,0 +1,6 @@
+- 30% memory, 70% application
+- Memory questions are multiple choice, specific facts and figures
+- Application questions are more like explaining your knowledge
+- For example, give two officers a crash course in peace operations
+- Doesn't have to be just text, you can add some graphs or other details if you want
+-

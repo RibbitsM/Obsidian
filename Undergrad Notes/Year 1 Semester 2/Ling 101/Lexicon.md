@@ -1,0 +1,58 @@
+Lexicon
+
+- A lexicon is a set of words in a language
+- Like a giant dictionary but exists only inside the minds of the speakers
+- Lexicons are highly individual, and are not uniform across an entire language
+- Affected by dialect, cultural transmission, generational identity
+- Knowing other languages can also affect your lexicon
+- Depending on how many words you have been exposed to, your lexicon may be larger or smaller than average
+- Overall, experience is a strong determiner of lexicon
+- Words that are useful or required are important in creating a lexicon
+- What do we do if we don't have a word to express our thoughts
+- Languages with gaps in their lexicons can generate words to fill these gaps
+- This can happen through borrowing (loanwords)
+- English uses many short independent words where other languages use very long words with lots of prefixes and suffixes
+- Often single words in other languages translate to several words in English
+- Brings into question the definition of a word and whether it is an appropriate unit of measurement
+- Words can also be created instead of borrowed, using word formation strategies
+
+Word Formation Strategies
+
+- Derivation is the creation of new words by adding affixes
+- Blending is the combination of the parts of two words into one
+- Compounding is the combination of two whole words into one
+- All of this is possible because of morphology
+- Remember that because of duality of patterning, words are made of morphemes
+- By looking at the morphemes in a word we can determine if it was borrowed, and where it was borrowed from
+- Morphemes can either be free or bound
+- A free morpheme is a morpheme that can stand alone as it's own word, while a bound one cannot
+- In bagel-s, bagel is free and s is bound
+- Morphemes can also be derivational or inflectional
+- A derivational morpheme is usually an affix (derivation) and can create a new word by adding it to a free morpheme
+- An inflectional morpheme adds information to a word but doesn't change the meaning
+- An example would be the different endings applied to verbs in spanish to change the subject (usted, tu, yo) that don't change the meaning of the verb
+- Mis- is derivational, adding it to the word fortune reverses it's meaning
+- The english word alligator was borrowed from "el lagarto" meaning the alligator in Spanish
+- By examining the morphology we can tell that the spanish word "el" was adopted into the English word, indicating that Spanish was the donor
+- An example of a change in affixes is the use of -gate to describe scandals, or adding e- to signify electronic
+- Word change through analogy is also possible, and includes things like blending
+- Analogy is when words are created based on similarities to other words
+- For example, the word "software" was created through analogy in relation to the existing word "hardware"
+- Hypercorrection is change through analogy when grammatical rules are confused, for example making wented the past tense of went
+- -ed is a common past tense ending, so children often add it to words to make them past tense, even when it is inappropriate
+- Change through analogy, wented is created in relation to other words like "created"
+- Folk etymology is when people misinterpret the origin of a word and create false etymologies based on how a word looks
+- It's a myth that hamburger is a combination of ham and burger, it actually comes from the city of Hamburg
+- People can also change words by misinterpreting loanwords, cherry as it exists now was created from the loanword cherise, where people removed the -se thinking it was an affix
+- Lexical gaps are an ongoing phenomenon, they are happening right now
+- New technologies and products are being developed that need words to represent them
+- An example of this would be boba tea, a concept that didn't exist in English (borrowed from cantonese)
+- Words can also gain new meanings
+- Dumpster fire went from a literal to figurative meaning
+- Historical thesaurus can find meaning over words over time
+- These are called semantic changes, can be lexical or semantic
+- Melioration is a positive change, pejoration is a negative change
+- Widening is when a word gains more meanings, narrowing is a loss of meaning
+- Girl used to mean any child, now specifically means female
+- Semantic bleaching is similar, and occurs when a word becomes more vague
+- Analogy is unconscious, but semantic change can be intentional

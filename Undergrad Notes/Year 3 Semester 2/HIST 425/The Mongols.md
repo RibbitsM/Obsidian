@@ -1,0 +1,144 @@
+- The Orkhon, a river valley in Asia, was the site of a decisive battle
+- Battle of the 13 nations, one side was Naiman and their allies
+- The other side were the Khamag Mongols
+- Led by Temujin, they had recently defeated the previous rulers of the river valley
+- Conflict was over dominance of the entire plateau
+- The Naiman were fighting on their home turf, and their horses were still lean from the winter (battle was fought in spring)
+- The Naiman greatly outnumbered the Khamag as well, and occupied the high ground around the battlefield
+- Temujin was used to fighting against larger forces, and relied on the Mongol strengths of mobility, intelligence gathering and preparation
+- His entire army had travelled 700 miles to fight here
+- The Khamag also had a unified command, and was trusted by basically the entirety of his tribe, decisions were consensual
+- Had also spread misinformation about the strength of their army ahead of time
+- Released a weak horse to look like it had escaped, and also lit 5 times the normal amount of fires before the battle
+- Naiman were confused whether they were fighting a strong or weak enemy
+- All his men were also well trained in complicated tactics
+- While the Naiman had the heights, they could only descend the mountain in certain places
+- Temujin's soldiers broke into many small groups that suddenly coalesced into a large group before engagement, attempting to box the enemy in
+- Squish enemy forces together to force a "reverse Thermopylae"
+- Used smaller force with mobility to prevent a larger force from spreading out and using its full strength
+- His archers would run in a circle essentially, with the archers at the front shooting and then retreating to be replaced by fresh archers
+- The chisel attack was a strategy where waves of heavy cavalry were sent at a single enemy weak point
+- The Naiman put up fierce resistance, but were eventually pushed back up the mountain
+- Jamukha, one of the two Naiman leaders, fled the battle
+- Jamukha used to be blood brothers with Temujin, which may explain this
+- As night fell, Naiman horses started to be injured
+- Eventually, the second Naiman leader was killed and his forces routed
+- This was a very eventful battle, but one you probably have never heard of
+- Marked the beginning of the Mongol empire
+
+**Who Was Temujin, and Who Were the Mongols?**
+
+- We may call these people Mongols, but really the Mongol people were created as a result of this victory
+- The Mongols lived on the plains of Mongolia, a massive plateau in East Asia surrounded by mountains
+- Also included the Eurasian steppes, that stretch all the way to Hungary
+- Basically the European equivalent of the prairies
+- Short, hot summers, little rain, and long, freezing winters
+- Not very good for farming compared to the prairies
+- However, it’s a great place for raising animals
+- Very long history of herding ruminants on the steppe
+- Many different languages on the steppe, today its split into Turkic, Mongolic, and Tungusic
+- Lots of groups labelled as "Mongols" actually spoke early forms of Turkish and Farsi
+- Situations where "Mongols" speaking Turkic attack "non-Mongols" speaking Mongolic languages
+- Commonalities were low population density, segmented societies with extended family groups, and seasonal nomadism
+- People belonged to social groups they were fiercely loyal to, think Gaelic or Scottish clans
+- Culture was quite egalitarian, especially compared to European feudalism
+- Climate cycles affected life greatly, if you did not have large swathes of grassland at all times your society would crumble
+- Very wide temperature swings affect availability of pastures
+- Instead of engineering ways to protect your crops, your only option is to follow where the grass is, and kill whoever is using it
+- This made pastoral people much more warlike, and feared by their neighbouring settler societies
+- A good example is the writings of Ibn Khaldun, a North African scholar that wrote about the pastoral people
+- Argues that the nomadic life creates 'asabiyya, or group solidarity
+- The "affection felt for a brother or neighbour when they are mistreated"
+- Aggressive solidarity allowing groups to effectively dominate an area
+- Nomads could not rely on the structure of their societies and the walls of their cities to protect them, only the assistance of their family
+- As a general rule, all nomads were brave, and always armed
+- This is what created great states, which he believed were mostly founded by pastoral people
+
+**Crises of the 12th Century**
+
+- During this time, conditions on the plateau were horrible because of ongoing droughts
+- Many different words used to describe groups like _oboq_ and _aimag_ and we're still not sure what they mean
+- Likely, most people before this time lived in fairly small 'camp circles'
+- These camps had no private ownership, cattle were communally owned
+- The droughts led to a breakdown of this system where herds began to be privately owned by noble heads of the camps, the _noyan_
+- Instead of a camp circle, the nobles and their families became the organizing principle
+- As these groups, _ayil_, competed, they began to form alliances they called _aimag_ which we think means "tribe" or "confederate"
+- Some claimed a shared ancestry, but likely most were just alliances out of necessity from fierce competition
+- These groups were led by a _khan_
+- Alliances were fickle, and often broke apart and realigned
+- In some cases, family groups would be split down the middle, joining different confederates
+- Some key groups were the Khamag Mongol, or "all mongols", the Tatars, the Kereyits, the Merkits, the Oirat, and the Naiman
+- Most important were the Kereyit and Naiman
+- No unified religion, some groups were Christian, Buddhist, and even Muslim
+- None of these groups has set territory, always on the move
+- Fundamentally liminal place, surrounded on all sides by more established societies
+- To the north were the hunter gatherers of the Siberian forest, to the south were the agrarian societies of the Xi Xia kingdom in modern Tibet, and the Jin dynasty, the predecessors of the Qing Dynasty in modern China
+
+**Tanistry**
+
+- Mongols used the idea of Tanistry, objected to leadership through inheritance
+- All male members of the extended family of the ruler were given a chance at leadership
+- The successor would not necessarily be the eldest son, but their "most capable" male relative
+- As a relative of the Khan, your entire life was a campaign to be their successor
+- Success depended on the size of your _nokur_, your immediate loyal band of followers
+- Charisma was seen as a sign of destiny or spiritual power, a sign you were destined to lead
+- Ability to protect your followers and your generosity were also factors
+- On one side, this system led to great leaders by rewarding talent and ambition
+- On the other hand it caused constant animosity and war between relatives
+- To prove yourself worthy, you had to be successful in war, and succession battles led to huge increases in wars
+- Before the empire emerged, conflicts were mostly fought for raiding livestock and abducting women, and for personal vendettas as well
+- No law enforcement, order was eye for an eye
+- Intergroup conflicts were also fought for succession reasons
+- There were also external conflicts with neighbours like the Jin
+- The Jin knew that if they ever united, the people of the plateau would be a huge threat
+- As such, they would support and beat down certain groups to prevent a single faction from unifying the Mongols
+- A good example of this was in the Khamag confederation, which was divided into two groups who had to intermarry
+- There were the Durlukin commoner clans, and the Khiyad elite clans
+- However, men from the Khiyad clans had to marry Durlukin women
+- In addition, only Khiyad men could become Khan
+
+**Yesukhei Baatur**
+
+- Yesukhei Baatur was a member of a Khiyad clan born in 1134, and had an alliance with the Kereyit
+- The two groups were looking to unify the plateau, but were sabotaged by the Jin
+- As a result of this, the Khamag clan was mostly broken up and sold into slavery
+- Baatur was supposed to be Khan by succession, but was passed over
+- He died in 1171 after being poisoned by the Tatars
+- He left behind a 9 year old son, named Temujin
+- Temujin was abandoned by his clan and enslaved for a time before escaping, terrible relationship with the rest of his family
+- Generally had a terrible childhood, but survived with his sense of self and destiny intact
+- He maintained his arranged marriage with a woman named Borte, and managed to marry her at 15
+- Began the process of setting up his household with the dowry from their marriage
+- She was abducted by the Merkits in 1183, starting a lifelong vendetta with the Merkits
+- This was because Baatur's wife was actually abducted from the Merkits, something they never forgave him for
+- To get back at the Merkits, he reached out for his father's former ally and blood brother, Toghrul, the khan of the Kereyids
+- Together, they staged a raid on the Merkits and freed Borte
+- After this, Temujin began to gain a respected reputation, and his band of supporters grew
+- Finally in 1185, he was named Khan of his group, fulfilling his father's bloodline
+- Not satisfied with this, he wanted to do what his father could not and become Khan of the Khamag Mongols
+- However, the Khamag were broken and scattered, and had to be reunified through war
+- This was a very difficult time in his life, but one after the other, the leaders of the other Khiyad clans were defeated by Temujin
+- Starting with the Yurkin clan in 1196, he started exterminating the rival clans
+- He also defeated an alliance led by Jamukha who he would later face again at Orkhon
+- Finally, this crusade ended with the battle we started the lecture with
+- In 1206, Temujin was elected "Chinggis Khan", in a show of centralization of power never before seen in the steppe
+- This new group had the goal of creating a "Great Mongol Realm"
+- The former broad bloodline eligible for Khan was replaced by the lineage of Yesukhei alone, the "Golden Lineage"
+- Effectively prevented any of his relatives who opposed him from gaining power
+- Temujin built his own adopted family of people who he trusted and served him in battle who mostly came from low-rank clans
+- Finally, he stated that all Mongols would be bound by a single code of law called the _Yassa_
+- This was the beginning of what we call today the Mongol Empire
+- He also divided the Mongol army into decimal units of 10, 100, 1000, and 10,000
+- Each of these units had its own commander, and were made up of members of several different clans
+- This system applied to every male in the society, to be a Mongol was to be a soldier in the Khan's army
+- Most soldiers were light cavalry armed with bows and arrows
+- Good treatment of horses was paramount, and were often emphasized over the lives of humans
+- Eating before you fed your horse was punishable by death
+- The Mongolians used composite bows made up of bone, wood, sinew, and more
+- They were small in size, but had the range and power of an English longbow
+- They also had specialized arrows for making noise, cutting ropes, penetrating armour, killing horses, etc.
+- The heavy cavalry wore metal helmets and metal armour sewed onto cloth, and fought with lance, halberds, sabre, and maces
+- They also often carried a bow just in case
+- These horsemen also had proper saddles in stirrups, allowing them to fight with heavy weaponry more effectively
+- The sabre was designed for slashing attacks from horseback, not like the stabbing attacks of the gladius
+-

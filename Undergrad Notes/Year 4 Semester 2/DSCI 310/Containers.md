@@ -1,0 +1,62 @@
+- If you want to create a docker container, it needs to be running on your desktop
+- When you create a new r environment, by default all installed packages are there but deactivated
+- However, when you create a new docker container, it's completely empty
+- It's basically a virtual computer with nothing installed on it except what you specifies
+- Someone else can use docker run to essentially get an exact copy of your machine where they can run code
+- Instead of just isolating packages like in an environment, this reproduces an entire computing environment and is used all across the computer science industry
+- Also useful for hosting things on AWS or a similar service and duplicating processes across multiple computers to horizontally scale your production
+- This is why we learn how to navigate files in bash, because when you're in a docker container you can't just use file explorer
+- To enter a machine type docker run --rm <org/container>
+- For example: docker run --rm rocker/rstudio:4.4.2
+- Rstudio as of 2024 is now an electron application meaning that it's actually a web app designed to look like a local program
+- One thing about web apps is that they run through ports, which is a specific location on the web
+- The relevant port is 8787 for Rstudio, which is uncommon for data science
+- Our problem is that our laptop needs to connect to that port in the docker container
+- To solve this we need to add -p 8787:8787 to our command
+- Once you do this, you can take the password given to you in git bash and go to localhost:8787 on your browser and input the password to log in to rstudio using the username rstudio
+- You can also add -e PASSWORD to your command to set a permanent password
+- Unlike rstudio on our computer, this web version will have no environments since we're loading an empty container
+- Another benefit of a container is that it always loads as the initial author created it
+- Whenever you reload the container it will be wiped
+- Jupyterlab uses a similar trick, but opens in the browser by default and uses port 8888
+- One thing that rocker does is that since tidyverse takes so long to download, they have a container called tidyverse that's just rstudio preloaded with tidyverse
+- When you change the first value in -p <port>:<port>, the port you are connecting from is the first value, and you're connecting to the second port
+- This way you can run rstudio (8787) from multiple ports at once if you want
+
+Creating Containers
+- So far we've only been accessing containers created by other people
+- A dockerfile is a specific file that tracks all of the necessary dependencies for a docker container
+- This file can do things like run arbitrary bash commands and install dependencies
+- To share this, you can submit it to DockerHub or just send someone the dockerfile
+- You can use a special command to create a docker image from a dockerfile
+- One question we need to solve is how to save the progress that we make while working in our docker containers
+- The solution to this is called "mounting" a folder to a container, which basically syncs our docker container to a local folder on our computer
+- Our docker commands are getting really long now, so we'll need to fix this
+- We can do this by making a docker-compose.yml file and putting our command in there in extended form
+- Remember, if you are making a dockerfile it has to be named Dockerfile exactly, no extension
+- Within a dockerfile, we can use the FROM command to start our docker container using another container like rocker/tidyverse:4.4.2
+- By using the RUN command in dockerfile you can execute arbitrary bash code
+- The docker images command lets you see all the different containers you have on your computer or have ever used in docker
+- Another useful command in dockerfile is COPY, which lets you copy files from your computer
+- When we are actually submitting our containers to dockerhub, we should do so in the format username/containername to ensure this container will be unique to you
+- So far we have just created the specifications for a container by borrowing from a previous one
+- The docker compose file tells us what container we want to run, how it will be mounted, the port, password, etc.
+- VSCode also has remote containers which is very cool, which lets us use vscode in our docker containers
+- Dockerhub is similar to github in the sense that unless you are regularly pushing your changes, other people won't be getting the same container version as you
+- We can make this easier with something called github actions
+- All repositories on github have github actions which allows you to automate certain processes when conditions are met
+- So, we can make an action that pushes to dockerhub whenever we push to github
+- This method uses a yml file to track whenever a push to github changes your dockerfile, it will automatically log in to docker hub and push your changes to dockerfile there as well
+- Our course textbook uses this method to constantly update the website whenever changes are made to the github repository
+- docker run --rm -it -e PASSWORD="password" -p 8787:8787 -v /$(pwd):/home/rstudio/pizza rocker/rstudio:4.4.2
+- Every time we create a docker container, it gets assigned a random name
+- However, we can name it using our docker-compose.yml file
+- This is done by adding your container name on the second line after typing "services:"
+- If a value in your docker-compose file can take in multiple options, you have to include a dash before writing your command
+- For example, we can have multiple ports so you'll have to write - "8787:8787" instead of just "8787:8787" after writing ports:
+- The same goes for mounting files after writing volumes:
+- For environment, you have to specify which environment variable you are modifying so instead of adding a dash you can just write the variable name and then what you're setting it to
+- Remember these files are public, so you don't want to put private info in them
+- Finally, to use this file we type in docker-compose up
+- You can use this file to run two simultaneous docker containers, as long as you repeat the process twice in the docker-compose.yml file and give them separate ports
+- Right now, we're just mirroring rocker/rstudio:4.4.2 to avoid having to install it through bash commands, but what if we want additional packages?

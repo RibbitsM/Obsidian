@@ -1,0 +1,32 @@
+- International humanitarian law governs the conduct of conflict, _jus ad bellum_ governs the recourse to war/use of force
+- Latter made up mainly of the UN Charter, particularly articles 2(4) and 51
+- This was initially conceived with states in mind, in the context of conflicts like WWII
+- IHL created to protect soldiers, main categories for wounded, shipwrecked soldiers etc
+- Bans particularly harmful weapons due to the unnecessary suffering they cause like chemical weapons, hollowpoints, etc.
+- International criminal law is also at play here, it definitely borrows definitions from IHL but it is still a distinct body of international law
+- Focuses on individual responsibility rather than state responsibility
+- However, ICL also draws on human rights law, from sources like the Genocide Convention that don't necessarily fall under the umbrella of IHL
+- The distinction is that humanitarian law applies more specifically to war, while human rights are more generally applied
+- Human rights generally are protections against states, they are individual-centric
+- The earlier categories like IHL and _jus ad bellum_ are very state-centric
+- All of these various branches are deeply interconnected, a state has an obligation to not violate the rights of individuals and the individuals leading that state can also be held personally responsible for the actions of the state
+- ICC also relies on states heavily, the principle of complementarity requires that the ICC only pursue cases that home states are unable or unwilling to carry out
+- Rules like the Genocide Convention are what is called an obligation _erga omnes_, meaning all states are responsible for each other
+- Even though Israel wasn't committing genocide against South Africa, they are still allowed to step in and challenge them in court
+- Pirates were a huge issue in the colonial era, and many states employed naval forces to try and stop them
+- However, there was an issue that it was difficult to prove if any specific pirate had committed violations against the country of the navy stopping them
+- As a result, piracy became subject to universal jurisdiction, meaning that ships from any state were able to attack and apprehend pirates
+- When piracy began to spike again around Somalia, there were Canadian frigates arresting pirates and handing them off to regional governments for prosecution
+- However, it is entirely possible that universal jurisdiction may also apply to crimes against humanity
+- For example, Pinochet was arrested in the UK on the orders of a Spanish magistrate despite not committing any crimes in the UK since the crime of torture allows for universal jurisdiction
+- There was also a treaty basis, as both countries had signed the convention against torture
+- Shows that when it comes to serious crimes, sometimes international organizations are not needed
+- Israel has used this too, that's how they justified the trial and execution of Adolf Eichmann
+- Often, extradition and domestic prosecution is one of the most powerful tools in international law
+- Extradition has limits too, for example Canada will extradite criminals to the US, but will not if they will be charged with the death penalty which doesn't exist in Canada
+- Israel clearly has the right to self-defense, this is unarguable
+- However, the real question is what limits this right has, is it pre-emptive, how long can this go on, what tactics and weapons can be used
+- Of course, since self-defense means engaging in armed conflict you also have to follow IHL
+- The entire war on terror was justified by an extension of the right of self-defense
+- Plus, the argument can be made that Israel's entire existence has been a constant war of self-defense
+- There is no clear definition of the duration an act or even war of self-defense can last

@@ -1,0 +1,21 @@
+- Predicted values from LR are random variables, since they depend on the sample data
+- Sample to sample variation also causes variation in predictions
+- Just like how we can construct confidence intervals for the estimated coefficients, we can construct intervals for predicted values
+- Two different types: confidence intervals for prediction and prediction intervals
+- Previously, most methods we have compare the predicted variables with observed sample data like with R2 and MSE
+- Remember, we never know the true population parameters so we simulate data to mimic this
+- This is not done in real data analysis, just for educational purposes
+- For confidence intervals for prediction, the uncertainty comes from the estimators
+- Since our estimated coefficients are estimating the true coefficients, this creates uncertainty in our predicted value
+- For our real estate example, we are 95% confident that our 95% confidence interval for prediction will contain the average property value of a given size of house in meters
+- This isn't the confidence interval for predicting a single property value, its an average value
+- For a given size, we are predicting the range of the average property value
+- We use the predict() function to do this in R
+- Input your data and LR model, interval = "confidence" and se.fit = TRUE will give you a confidence interval for every datapoint in the sample using your LR model (add level if not 0.95)
+- Example interpretation: with 95% confidence, the _expected_ value of a house of size 220 mts is between $671944 and $748198 (rounded)
+- We visualize this as a shaded cone around the LR line on the graph
+- With prediction intervals, we are predicting the value of a specific observation
+- This adds another layer of uncertainty
+- For CIP, the only uncertainty comes from our estimated model, but here we also have to consider that the actual observation value will differ from the population average by e (error)
+- Two sources of uncertainty, estimated coefficients and error term
+-

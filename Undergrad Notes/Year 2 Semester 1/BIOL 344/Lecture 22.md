@@ -1,0 +1,22 @@
+- The physical distance depicted by a map unit depends on the species
+- We divide possible gametes into groups, sorted by what crossover is necessary for those results
+- To create a map from a data set, look at pairs of genes
+- Trihybrid creates 8 genotypes
+- In a trihybrid we have four groups, no crossover, cross between genes 1 and 2, cross between genes 2 and 3, and two crosses
+- When examining a dataset, the most prevalent results are parental
+- Add up the number of recombinants and divide by the total number, get map units
+- By only looking at two genes at a time, you can map out the whole cross
+- First find distance between genes 1 and 2, then 2 and 3, then 1 and 3
+- Small map distances are more accurate
+- Gene order is arbitrary, only distances matter
+- Highest probability is usually no crossover, least probability is usually double crossover
+- Multiple crossovers result in 50% recombinance on average
+- molecular marker is a sequence of DNA, SNPs are an example
+- Used like genes for genetic mapping, but need alternate forms or "alleles" to function properly
+- Phenotypes of molecular markers are usually bands visualized with gel, the specific pattern is the phenotype
+- RFLPs are restriction fragment length polymorphisms, VNTRs are variable number of tandem repeats
+- Can use PCR, gels, or restrictive enzymes to detect these markers
+- Molecular markers are what distinguishes peoples genomes, we share 99.9% but these SNPs and other markers make up most of the difference
+- Restriction enzymes are revolutionary in DNA modification
+- Allows single strand overhangs to be created and merged
+-

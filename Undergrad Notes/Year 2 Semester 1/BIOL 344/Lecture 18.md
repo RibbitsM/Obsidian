@@ -1,0 +1,13 @@
+- Cis allele configuration is when both the recessive or the dominant alleles for two traits are on the same chromosome
+- Trans allele configuration is when a recessive and dominant allele for the different traits are on the same chromosome
+- If recombinance doesn't occur 100% percent of the time, there will be more parental genotypes than recombinant types
+- Genes that are farther apart can pretty much guarantee at least one crossover per meiosis
+- Genes that are closer together cannot
+- If out of 100 offspring you get 20 recombinants, they genes are 20 mu (map units) apart
+- One map unit is equivalent to a 1% chance to cross over
+- Once two genes are at least 50 mu apart, they independently assort
+- 50% recombinants, 50% parental
+- Most chromosomal mutations arise from recombination
+- Mu are calculated incrementally, two adjacent genes cannot be more than 50 Mu apart
+- If two genes are more than 50 mu apart, they aren't genetically linked
+-

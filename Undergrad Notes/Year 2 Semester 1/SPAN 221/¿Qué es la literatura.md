@@ -1,0 +1,11 @@
+- La palabra "literatura" viene de la palabra "littera" en latin, que significado letra
+- Literatura y escritura son conceptos distintos
+- Literatura es una obra escrita
+- No todo escrito es literatura, y no todo literatura es escrito (como las historias oral de los pueblos indígenas)
+- La literatura existen cuando un lector lee un texto, y está activado por el lector
+- El texto es como un instrumento que espera un lector para entenderla
+- Información es comunicado del escritor al lector
+- Literatura es una forma de comunicación, información, y arte
+- Mucho del tiempo, arte función en tres grupos
+- Arte por el arte, arte con un fin docente, y arte comprometido
+-

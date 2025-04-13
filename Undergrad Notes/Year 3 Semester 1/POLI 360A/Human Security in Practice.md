@@ -1,0 +1,47 @@
+- Since the end of the Cold War and the rise of human security, we have seen several atrocities
+- Examples are in Rwanda, Syria, Myanmar, and Bosnia
+- The Rwandan genocide in 1994 is an example of the failure of human security, 800,000 people were massacred
+- A similar situation occurred in 1995 when the Bosnian Serb army invaded Srebrenica which was supposed to be a UN protected safe haven
+- In 2005 at the World Summit, the principle of responsibility to protect was created
+- Named four crimes, genocide, war crimes, ethnic cleansing, and crimes against humanity
+- States had a responsibility to protect its population from these four crimes
+- In addition, the international community has a responsibility to help states do this
+- If a state is committing one of these crimes or is failing to protect its citizens from them, the international community will intervene with peaceful means, and later with force
+- R2P goes against a lot of long held concepts in the international community, especially absolute sovereignty
+- Basically gives a state unlimited power within its borders
+- Different from divine authority, but are quite similar in practice in terms of the power granted to leaders
+- Thinkers in the 16th century thought that leaders were not allowed to rule arbitrarily because they had responsibility to God
+- Absolute sovereignty began to be questioned during the 18th century
+- Thought emerged that sovereignty was derived from the population of a state, authority comes from the consent of the governed
+- This consent can be withdrawn if the sovereign treats their citizens poorly and violates their rights
+- Article 2(4) of the UN Charter suggests that war should be outlawed as a tool of state policy
+- In addition, the principle of non-interference was introduced in Article 2(7) to protect the sovereignty of postcolonial states
+- The idea of basic human rights was also put directly at the center of the UN Charter
+- States must practice tolerance, but should also promote universal human rights
+- Contradicting ideas, states should not interfere with each other but also need to uphold a universal doctrine at the same time
+- What happens when human rights require states to be antagonistic to another state?
+- Humanitarian intervention conflicts with the ideas of non-interference and sovereignty
+- The memory of the Cold War led to non-interference being the dominant paradigm in the years following, especially in the case of the newly created postcolonial states
+- The Rwandan genocide was the first shock to this idea, suggesting that violating sovereignty may sometimes be necessary to protect human rights
+- In addition, the NATO bombing of Yugoslavia in 1999 to stop the killing of Kosovar Albanians happened without UN authorization due to Russia and China vetoing
+- Two key questions:
+- Can states act without UN authorization?
+- How many people must be killed before we intervene?
+- This second one was the reason for Russia and China's objections, not enough people were at risk in Kosovo
+- Thinkers such as Francis Deng argues that sovereignty requires accountability
+- If a state is struggling, it can either cooperate with global authority or give up its sovereignty
+- However, this implies the existence of a stable and effective higher global authority
+- Canada established the ICISS to investigate connections between human right and sovereignty, and coined the term responsibility to protect
+- 2001 report argues that R2P yields to non interference when societies are unable to protect their citizens from catastrophic harm
+- In addition, the global community does not just have the responsibility to react, but the responsibility to prevent and rebuild
+- R2P was generally accepted by Canada, the UK, and Germany, but the US felt that the established thresholds for intervention were too restrictive
+- Russia and China were skeptical, thinking it might violate the charter
+- The NAM also rejected R2P, especially in the aftermath of the Iraq invasion
+- Later, Kofi Annan denied that R2P could legitimize interventions not authorized by the UNSC
+- In 2009, Ban Ki Moon, released a report called Implementing the Responsibility to Protect
+- Three pillars: state responsibilities, international responsibilities, and timely assistance to states
+- The first time R2P was properly implemented is the case of the Libyan civil war in 2011
+- No veto power used in UNSC, China and Russia abstained
+- Started as a limited operation, but the problem was that the result would basically be a forced regime change in Libya
+- Obama stated that NATOs goal was simply to stop Gaddafi from killing civilians, but at the same time said that humanitarian crises in Libya would continue as long as Gaddafi was in power
+- The next year, a similar situation happened in Syria, but Russia and China vetoed

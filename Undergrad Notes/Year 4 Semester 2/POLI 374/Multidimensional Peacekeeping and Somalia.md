@@ -1,0 +1,35 @@
+- Somalia just before the 2000s was a classic example of a failed state
+- Had gained it's independence in 1960, and was led by Siad Barre starting in 1969 until his regime was overthrown in 1991 leading to a massive power vacuum
+- Although there were two major opposing forces in Mahdi and his Manifesto Group and Aidid and his Somalia National Alliance, Somalia had many other smaller groups and stakeholders
+- Somalia is a deeply clan-based society, and as a result many of the prominent political groups are predominantly controlled by specific clans
+- Mahdi belonged to the Abgal clan, and Aidid was from the Habr Gedir clan
+- At the same time, the devastation created by the war was amplified by an unprecedented drought
+- This kind of overlapping situation is what we call a complex humanitarian emergency
+- Meaning any sort of solution would have to deal with both the armed factions as well as the natural disaster
+- When the Red Cross tried to come in for drought relief, they were attacked by armed groups and had to pay for protection from local clans to be allowed to operate
+- To fix this, the OAU tried to secure a ceasefire but failed, which was followed by another failed attempt from the League of Arab States
+- The issue was then referred to the UNSC in 1992, which imposed an arms embargo on Somalia
+- This was also ineffective, but a later Secretary General mediated ceasefire caused a brief pause that was then broken
+- Finally, in April of 1992 a second attempt at mediation succeeded in reaching a ceasefire
+- A second UNSC resolution is adopted to create the United Nations Operation in Somalia (UNOSOM)
+- Consisted of 50 unarmed observers to be deployed into the capital
+- This was obviously an insufficient solution, but it was the only thing that the warring factions would agree to
+- The first mandate extension came in August and quintupled the size of the mission
+- Idea was that these new soldiers could control the port of Mogadishu and allow aid ships in
+- A second extension in September added many more soldiers, allowed them to operate in more areas of the country with the goal of providing relief and disarming warring factions
+- However, none of the pledged forces arrived in Somalia
+- Finally, the US agrees to step in and lead a coalition operation into Somalia
+- This happened during the rise of neoconservative interventionism, when the US was trying to position itself as a global policeman
+- Also, while Somalia had no real natural resources it was still in a very important position for shipping routes
+- But the real reason was because CNN was broadcasting footage of the brutality in Somalia which drove the American public to push for an intervention
+- The Unified Task Force (UNITAF) was authorized by UNSCR, and the Secretary General laid out their mandate
+- Deploys in December of 1992 with 37,000 personnel, and was authorized to use "all necessary means" or in other words, use of force
+- Most personnel were Americans, but a broad variety of other countries, including Canada, contributed forces as well
+- This was notable, because Canadian soldiers were found to be carrying out racialized violence against the local population in Somalia
+- While UNITAF had a number of operational problems, they did succeed in ensuring the delivery of humanitarian aid and enforcing a ceasefire
+- However, disputes emerged over whether or not the mission should assume peacebuilding duties as well
+- Eventually, the mission was handed off to UNOSOM II, and the mission once again was being handled by the UN
+- Aideed saw UNOSOM II as a threat and began to distribute anti UN rhetoric, and Mahdi began to follow suit by bombing aid trucks
+- The US goes in with special forces to assassinate Aideed, and we got the Blackhawk Down incident
+- We got the reverse of the earlier sympathy for Somalis, and America quickly pulled out
+- The result was a heavy dose of skepticism for the UN's abilities

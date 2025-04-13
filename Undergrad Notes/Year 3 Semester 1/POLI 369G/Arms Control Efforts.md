@@ -1,0 +1,104 @@
+**Arms Control and Disarmament**
+
+- The goal of arms control/disarmament is to restrict the development, production, stockpiling, proliferation, and use of weapons
+- Disarmament is about the abolition or drastic reduction of certain categories of weapons
+- Arms control simply seeks to reduce existing stockpiles or restricting use
+- Generally disarmament is a lot more severe
+- Arms control is usually done through diplomacy, and treaties are written up based on what was politically possible
+- Participating states that sign a treaty are called signatories, and those that have ratified them are parties
+- Treaties come "into force" or are enforced when they are ratified by either all or most of the signatories, depending on what the treaty says
+- In order to ratify a treaty, it must be passed in the domestic legislature of that country and is enshrined in domestic law
+- As for the motives of arms control, a main one is to deal with the security dilemma
+- Reduces frequency of war by getting rid of destabilizing weapons
+- Can also mitigate arms races by creating limits on arms
+- Spreads goodwill and promotes trust between countries
+- In the event that war does break out, the destructiveness of war is limited
+- On the other hand arms control has many issues
+- For one, there must be a way to verify that all parties are actually obeying a treaty
+- This is often very complicated and intrusive, big problem
+- There's also the related issue of cheaters who simply violate the terms of a treaty
+- The knowledge of how to build a weapon is always there, they can be built again in times of war
+- Also future developments in technology can render treaties obsolete
+- Of course treaties only apply to the countries that have signed and ratified them
+
+**Treaties**
+
+- Three key principles of arms control agreements
+- Not necessarily always followed
+- The first is transparency
+- For two sides to succeed in arms control, each must be aware of the situation
+- Each side must contribute info on aims, intentions, doctrines, and current and future capabilities
+- The next is verification
+- This is the process of installing the means to verify if the terms of a treaty are being followed after its ratification
+- Big issue with nuclear arms control specifically
+- The final principle is irreversibility
+- Harder to ensure, basically arms control agreements should take measures to make them difficult to break and also that they persist into the future
+- These issues have been at the core of nuclear arms control agreements since WWII
+- If an agreement falls through, its usually due to a deficiency in one of these three categories
+- An early important treaty was the Antarctic Treaty in 1959, banning the militarization of the Antarctic
+- Example of a treaty that was signed easily because noone really had any intention of breaking it in the first place
+- The next was the Hot Line Agreement in 1963, established after the Cuban Missile Crisis
+- Established a cable teletype connection between the US and USSR
+- The Limited Test Ban Treaty in the same year influenced by US opposition to testing and bans nuclear tests in the atmosphere, underwater, and in space
+- Similar to the Antarctic treaty, the Outer Space treaty in 1967 banned nuclear weapons in orbit, on the moon, or other celestial bodies
+- Latin American Nuclear Free Zone treaty signed in 1967, banned manufacture, acquisition, testing, deployment and use
+- Finally we have the landmark Non Proliferation Treaty in 1968
+- This was the centerpiece of action against nuclear proliferation
+- Motivated by fear of proliferation at the time, current nuclear states believed that 25-30 states would have them in 20 years
+- Wanted to create obstacles for non nuclear states to get nuclear weapons
+- Non nuclear states just wanted to get civilian technology like nuclear power and assistance from nuclear states
+- Also wanted to get commitment from nuclear powers to disarmament
+- Signed July 1 1968, went into force March 5 1970
+- Used to be renewed every 5 years but was extended indefinitely in 1995
+- Has 189 parties, with the exception of India, Israel, Pakistan and North Korea who withdrew as well as South Sudan which is just a new state
+- Article I states that each nuclear state must not transfer nuclear weapons to any other country
+- Article II states that non nuclear states must not receive nuclear weapons from another state
+- Core bargain between the two categories, one won't give and the other won't take
+- Article III involves accepting "safeguards", meaning the IAEA will be allowed to perform verification and inspection to ensure compliance
+- Article IV argues that signatories can still develop civilian nuclear technologies and are entitled to information on peaceful tech from nuclear countries
+- Article V states that the potential peaceful benefits of nuclear explosions would be shared with non nuclear states
+- This one aged poorly, as it turns out there were no such benefits
+- Article VI states that parties will negotiate effective measures to cease nuclear arms races and eventually disarm
+- Article VII allows the creation of nuclear weapons free zones
+- Again, it is only binding for parties, and countries like Israel can reject requests from the IAEA freely
+- In addition, some NNW states have developed nuclear capability regardless, namely Iraq, Iran, and North Korea
+- Not supposed to happen, especially North Korea
+- On top of this, the NSWs have not fulfilled their commitments which is often quoted as the reason why some countries have not joined
+- The enforcement mechanism of the treaty is quite weak, the IAEA has no way to punish states if it finds they are in violation other than telling the UNSC
+- However, the existence of the NPT upholds the norm that proliferation is bad
+- Puts significant political costs on the process of acquiring a bomb
+- While a committed cheater can avoid them, the system of safeguards does make acquiring a bomb much more difficult
+- It is also near universally accepted, having more signatories than any other arms control treaties
+- Continuing after the NPT, the next treaty was the Seabed Treaty in 1971, banning nuclear weapons on the ocean floor within 12 miles of the coast
+- The first SALT in 1972 significantly froze the numbers of ballistic missiles and banned ICBM silos while allowing more SLBMs
+- Next was the ABM treaty in the same year, eliminating the ability of both countries to build BMDs and limited them to current systems
+- The Threshold Test Ban Treaty in 1974 was another bilateral treaty limiting underground tests to 150 kt
+- SALT II in 1979 was never ratified but basically followed, and further limited numbers of ICBMs, SLBMs, and bombers
+- The South Pacific Nuclear Free Zone Treaty signed in 1985, also banned dumping of nuclear waste in the zone alongside usual provisions
+- The Intermediate Range Nuclear Forces Treaty in 1987 banned missiles with ranges between 300 and 3500 miles, also bilateral
+- Eliminated a lot of very destabilizing systems based in Europe
+- The Ballistic Missile Launch Notification Agreement in 1988 gave 24 hours notice in the event of a US or USSR missile test/launch
+- Next was the first START in 1991 set a new ceiling for warheads and delivery vehicles and included Belarus, Kazakhstan and Ukraine
+- START II in 1993 further reduced the ceiling
+- African Nuclear Weapons Free Zone Treaty in 1996, alongside the CTBT in the same year
+- The Strategic Offensive Reduction treaty was signed in 2002 between the US and Russia, limited strategic warheads
+- International Convention for the Suppression of Acts of Nuclear Terrorism in 2005
+- New START in 2010, even further limited warheads and delivery systems for US and Russia (1550, 700)
+- The Zanggar Committee in 1971 banned sale/export of nuclear technology
+- The Nuclear Suppliers Group in 1975 banned a wider range of sales
+- The Missile Technology Control Regime in 1987 restricted exports of ballistic missile technology
+- For other agreements there was the Proliferation Security Initiative in 2003, rather controversial agreement preventing shipment of WMB tech
+- Controversial because it allowed for seizure of international shipments
+- The Nuclear Terrorism Convention in 2005 was a UN treaty emphasizing cooperation to prevent nuclear terrorism
+- As you can see from the New START, often arms control can have significant effects
+- Compared to peak of Cold War, US and Soviet warheads have been significantly limited
+- The CTBT or Comprehensive Nuclear Test Ban Treaty bans all nuclear explosions
+- Opened for signature in 1996, never ratified
+- Needs to be ratified by all countries possessing nuclear technology to come into force
+- Missing ratification from China, Egypt, India, Iran, Israel, North Korea, Pakistan, and the US
+- India, Pakistan, and North Korea have also not signed
+- Three components of verification
+- International Monitoring System listens for seismic shockwaves indicating nuclear explosions, and detects hydroacoustic signals and radionuclide particles in the atmosphere
+- International Data Centre receives, processes, and distributes the data collected by the IMS within 2 hours of collection
+- On-Site Inspections can be requested by member states once the treaty goes into force and will collect on the ground data about events detected by IMS
+- IMS can also be used for other purposes such as tracking meteorological events and giving tsunami early warnings

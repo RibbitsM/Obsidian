@@ -1,0 +1,25 @@
+- Emerged first in mesopotamia
+- Cuneiform clay tablets used for exchange
+- Also emerged separately in China and Mesoamerica
+- Went from tokens, to pictograms, to logograms
+- The rebus principle dictates that logograms can be combined to create new words
+- Standardized systems of writing languages are called orthographies
+- Stricter rules than in spoken language
+- The smallest units in writing systems are called graphemes
+- In alphabetic systems like written English, graphemes are single letters
+- Sometimes they can be more than one letter, like how the affricate in chat is depicted as ch
+- In this example, graphemes represent phonemes
+- Different languages have different alphabets, and depict the same phonemes differently
+- Some alphabets are featural scripts, meaning that the symbols not only depict the phoneme, but it's properties as well
+- More information than the usual system
+- In abugida writing systems, the symbols represent vowel and consonant sequences
+- Abjads on the other hand, represent consonants, but not vowels
+- Syllabic writing systems have symbols representing each syllable
+- Logographic systems go one step further and represent an entire word with one symbol
+- The word symbol can be exchanged for the word grapheme
+- Depending on how closely the graphemes match the phonemes, an orthography will either be opaque (doesn't match) or transparent (does match)
+- This differs within types of writing system, and between writing systems themselves
+- For example, logographic systems are usually more opaque than any other kind of system
+- Oral language often changes faster than the written system can keep up with
+- Before the invention of the printing press, English spelling wasn't standardized, and more closely resembled pronunciation
+-

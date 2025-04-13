@@ -1,0 +1,8 @@
+- Hypotheses for difference of means look different than normal
+- EX: u1 - u2 = delta 0 or u1 - u2 < delta 0 where delta 0 is the hypothesized value of the population mean
+- When we are creating a test statistic for a difference in means where the population variances are equal, we need to use pooled standard deviation
+- Instead of the usual formula, on the bottom put sp * sqrt(1/n1 + 1/n2) where sp is pooled standard deviation
+- Also adjust degrees of freedom to n1 + n2 - 2
+- Remember, standard deviation is just the square root of variance
+- When asked to graph "1 versus 2", 1 goes on the y axis and 2 goes on the x axis
+-

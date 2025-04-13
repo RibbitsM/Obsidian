@@ -1,0 +1,14 @@
+- As we attempt to make prediction models more complex, they also become more biased
+- This means that they adhere closer and closer to the sample data and become less useful for values outside of the sample
+- However, a model that is too simple will bear little resemblance to reality
+- Because of this, we want to try and find a complexity level in the middle that doesn't fall into either trap
+- This is also specific to each dataset, different problems require different levels of complexity
+- We can also have issues with inference
+- One problem can arise in the algorithms we use to choose our variables, are stepwise algorithms always the best choice?
+- In these algorithms our variables are either in or out, meaning the coefficient is zero or the coefficient is not zero
+- But is there an alternative? Can we include variables but somehow reduce the weight of their coefficients depending on their importance?
+- Beyond variable selection we have other questions to answer about our models
+- One important one is our approach, depending on which method we use we will get different results
+- For example, linear regression models and KNN models use completely different metrics and assumptions
+- KNN has no assumptions, where linear regression has many
+-

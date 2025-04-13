@@ -1,0 +1,62 @@
+- Suez canal opened in 1869, owned mainly by the French and partially by the British, located in the Sinai in Egypt, key trade route between the Atlantic and Indian Oceans
+- Nasser came to power in Egypt in 1956 overthrowing the Britain-backed Sheikh Farouk, and nationalized the Suez Canal in July of the same year as part of a larger Egypt-first program
+- Main motivation was to raise money to build the Aswan High Dam after the World Bank withdrew funding from Egypt as a result of the coup
+- Tolls from the Suez Canal would make up for this lack of funding
+- Also motivated by the larger pan-Arabist movement and desire for Egyptian independence
+- Triggered heavy backlash from the UK and French governments, current British PM Robert Anthony Eden saw the move as a huge blow to British interests in the Middle East
+- Was compared to the annexation of Czechoslovakia by Hitler, Suez Canal was the "windpipe" of the UK and Eden demanded the destruction of Nasser's government
+- The French PM Guy Mollet was similarly incensed, driven by animosity towards Nasser because of his support of Algerian independence groups
+- Eisenhower's position was that no force should be used, and the status of the Canal be determined by negotiation and diplomacy
+- The US was trying to create a wall of allies in the Middle East to halt the progress of the USSR
+- Stated that Egypt had the inherent right to nationalize the canal as long as they could run it well
+- Didn't want to create more anti-western sentiment in the region to encourage Soviet expansion
+- Israel also had economic interests with the Suez canal, and wanted to stifle the pan-Arab movement by launching a pre-emptive strike to stop a second Israel-Egypt war
+- This isn't the exact scenario you would get on an exam question, but this is the kind of info you would get for a written response
+- What to do next, how can you start peacemaking process and how will that set the groundwork for a peacekeeping or observer group to be deployed
+- Peacemaking is the first step in a situation like that, peacekeepers need a peace to keep
+
+**Peacemaking Efforts**
+
+- The effort began with the Suez conference taking place in London
+- 22 countries were invited, not including Egypt
+- Agreed to put out a joint statement calling on Nasser to hand over the canal to an impartial international organization, but Egypt rejected this
+- The matter then went to the Security Council, where the UK and France proposed the same thing again which was opposed by Egypt and vetoed by the USSR
+- Finally, Hammarskjöld invited representatives of the countries involved to the Secretary General office and came up with the six principles to deal with the situation
+- Must be free transit through the canal, Egypt must have autonomy, operations should be insulated from politics, tolls would be agreed by Egypt and users, with some of those dues going to development, and all disputes would be arbitrated by a third party
+- However, unbeknownst to these representatives, Israel, the UK, and France were meeting to plot a fake invasion from Israel that would prompt an intervention from the UK and France
+- The European powers would seize the canal and demand the withdrawal of Israel and Egypt, and use the opportunity to regain control of the canal
+- We could also end the example at this point, setting up a more precarious situation to reclaim peace from
+- The US went to the Security Council on the day of the invasion and called for an Israeli withdrawal and asked all involved countries to refrain from use of force or assistance of Israel
+- The UK and France promptly vetoed this resolution, and Yugoslavia proposed taking the vote to the General Assembly instead
+- The UK and France tried to stop this, but as a procedural matter they could not use their veto
+- General Assembly debated the proposal of a ceasefire and Israeli withdrawal
+- However, this proposal did not include any kind of monitoring or enforcement mechanism
+- Lester Pearson brought up the proposal of the creation of a UN force designed to supervise the ceasefire called United Nations Emergency Force I
+- Egypt was supportive of the motion, and while the UK and France were reluctant, they were facing pretty severe domestic backlash both domestically and from other Commonwealth countries
+- The key factor was the anger of the US administration over their neglect to inform them
+- Not just went against US interests in the region, but was also disrupting domestic elections
+- Exerted pressure by threatening to sell all US holdings of pound sterling which would dramatically devalue the currency, as well as supporting an oil embargo imposed by Saudi Arabia
+- Ironically, the UK and France went to the US specifically asking for oil because of this embargo, and the US offered it to them on the condition that they withdraw from Egypt
+- Reluctantly, they backed down and gave their consent to establish the mission
+- Thus, the first UN traditional peacekeeping mission was established
+
+**UNEF Deployment**
+
+- The resulting deployment would be impartial, be contingent on the consent of Egypt, and would consist of forces from impartial countries like Canada, India, Norway, and Pakistan
+- These troop supplying countries would be responsible for the pay and equipment
+- Basically set the groundwork for all future agreements
+- The mandate would be to secure cessation of hostilities, facilitate withdrawal of Egyptian and Israeli forces, and to serve as a buffer in the aftermath of withdrawal
+- Despite the fact that Pearson proposed the idea in the first place, Nasser was hesitant on allowing Canadian soldiers to deploy because of their ties to the UK
+- Initially, only a few Canadians were deployed until resistance thawed
+- The Canadian force commander, Lieutenant Burns, organized the combined military forces, and supervised the negotiations between Egypt and Israel
+- The buffer troops were deployed along the Egypt-Israel border, as well as in the Gaza strip
+- Troops were exclusively on the Egyptian side of the border, as Israel denied permission
+- Border was set up, and observation posts established along its length
+- Resistance was still present, especially in Gaza between Israeli and Palestinian residents
+- While the Egyptian army had been basically decimated, the result was a political victory for Nasser
+- Later, in 1967 the second Israel-Egypt war broke out and UNEF I was disbanded
+- Broadly considered the first non-observer peacekeeping mission
+- Used consent, impartiality, and the non-use of force, was design to interpose between parties to the conflict and fulfill observer duties but with a larger and better-equipped force
+- This model is generally considered to be defunct, but still exists in the minds of diplomats
+- Currently being considered for use in Ukraine and Gaza
+- Other similar missions at the time include UNYOM in Yemen, UNIFICYP in Cyprus, UNIFIL in Lebanon, UNOC in the Congo, etc.

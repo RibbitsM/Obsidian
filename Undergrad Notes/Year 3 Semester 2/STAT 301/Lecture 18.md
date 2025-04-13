@@ -1,0 +1,38 @@
+- Logistic regression is used when you have a binary response variable
+- Each case is called a Bernoulli trial, where we have a probability of success
+- Basically a coin flip since there are only two outcomes
+- In our example dataset we have two continuous variables and two binary variables
+- Our response variable is default, which is binary
+- Sometimes, our response won't be in the dataset so we'll need to construct our own
+- If this was put in a linear regression model, we would be trying to find the coefficient of default
+- But what we are trying to find here is the probability of default being true
+- Changes the conditional expectation
+- E[Ydefault|Xbalance] = pdefault
+- Response variable follows a Bernoulli distribution where mean = p and variance = p(1-p)
+- Linear regression cannot model this properly, we need a logistic curve
+- Substitutes the conditional expectation with a formula we can plug our coefficients into
+- Still uses elements of linear regression, p equals e^B0 + X1B1/1 + e^B0 + X1B1
+- This works for multiple explanatory variables as well, there's always only one p
+- The log of our successes divided by failures should be equal to the linear conditional expectation
+- Also called logit, or the logarithm of the odds of success
+- We use log because the log of 1 is zero
+- When we do the same linear model but with glm instead of lm, we get a much smoother curve
+- We don't use least squares in logistic regression, we use Maximum Likelihood Estimation
+- For lr, the intercept is the mean of the response and the slope was the difference between mean of the response in the treatment group vs reference group
+- For MLE, intercept is the log odds of the reference group and slope is the difference in log odds
+- Use e^intercept or e^slope to find odds and odds ratio
+- If our odds ratio for the example data is 1.499, this means that the odds of defaulting were 49.9% higher for students compared to non-students
+- Can calculate this using glm, just add family = binomial and tidy() the results to make it more readable
+- We want to look at the exp.estimate column, or add exponentiate = TRUE in tidy to do this automatically
+- When we have multiple variables, B1 will represent the increase in odds per 1 unit increase in X1
+- To explain negative odds, do 1/B1
+- For example, if B1 is 0.524 then since 1/0.524 is 1.908 the odds of non-default are 90.8% higher for that group compared to the base value
+- We can also use logistic models for inference
+- Since the variance of our response variable is a function of the estimated mean, our standard deviation is not going to be accurate which makes creating confidence intervals difficult
+- To solve this, we have to set family = quasibinomial
+- This estimates something called the dispersion parameter which we can use to fix our standard error values
+- Another kind of regression is the Poisson regression which is used for cases where our response variable is a count
+- In a poisson distribution, our mean and variance are both represented by the variable lambda
+- This means that anything affecting the mean will also affect the variance
+- Lambda is always positive and represents the risk of an event happening in a time or place
+- The log of lambda for a certain value of explanatory variable i is the conditional expectation for a linear regression

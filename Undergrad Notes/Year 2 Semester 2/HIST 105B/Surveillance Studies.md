@@ -1,0 +1,70 @@
+- Existed as a field for a long time, but exploded in popularity after 9/11
+- Surveillance as a structural concept, more than just looking and observing
+- Subordination, control, cataloguing and categorizing is also a part of surveillance
+- Different kinds of surveillance emerge from different contexts
+- Foucault's panopticon is a huge concept in surveillance studies
+- Based on a hypothetical prison drafted by Jeremy Bentham
+- The idea is to create social control by creating the illusion of constant surveillance to keep people under control
+- People cannot tell if they are being watched or not, and therefore always act like they are being watched
+- The structure of society causes people to practice "self-surveillance" and correct themselves automatically
+- This is similar to the moral authority of many religions, since an omniscient god is constantly watching you, it creates a sort of panopticon
+- Changes in technology over time have drastically changed surveillance since Foucault wrote about it
+- Also all these theories assume a sort of "colourblind surveillance" that operate the same independent of race
+- In reality, a lot of the time surveillance was focused on racial minorities
+- Surveillance has a long history of upholding racial hierarchies and segment and segregate populations
+- A good example of this is in Black America, with surveillance appearing in slavery laws, against the black panthers, and today with BLM
+- Lantern laws demanded that black and indigenous people had to carry lanterns with them when walking around at night
+- Makes a certain group of people more visible and easier to track
+- Slave passes were used in a similar way to control the movement of these populations
+- The FBI used wiretaps and other surveillance methods to arrest Black Power movement members and to sabotage their actions
+- Categorization of BLM activists as harmful or not harmful, who is allowed to spread their voice
+- Online surveillance done through analysis of social media presence
+- Many of these methods used are like unconstitutional
+
+**Colonial Surveillance**
+
+- Colonial thinking centered around a nexus of knowledge and power
+- Racialized surveillance was heavily used in colonialism to categorize and collect information about populations
+- Expanded greatly in colonial settings and were then imported into colonies governments
+- This mainly came in the form of bureaucratic information gathering
+- Fingerprinting, taxation, census systems, education systems focused on certain populations
+- Residential schools were used to tell the "good" indians from the "bad" indians
+- Not just used in white settler colonial states, but in other places like the ottoman empire
+
+**Modern Surveillance**
+
+- Leakers like Assange have exposed the extent to which we are currently surveilled
+- Workplace surveillance is on the rise, and government spyware is becoming more and more advanced
+- Canvas is actually a known surveillance tool that can gather a lot of information on students
+- AI is also creating advances in surveillance, especially in prisons
+- For the current generation surveillance has become normalized and rationalized constantly
+- Surveillance systems, even those targeting racial groups, are explained as being necessary for the safety of society
+- Mainly used for criminal control, which is already a racialized field
+- Terrorism surveillance regimes are tied to racialized crime like the war on drugs
+- Obviously the US Patriot act is a good example of this rationalization
+- Also affects Latino communities through systems devoted to finding illegal immigrants
+- Many different marginalized communities are impacted by surveillance through multiple initiatives
+- Not just happening in the western world, but globally
+- The threat of terrorism to society is being used to justify increased surveillance in many places, including Muslim countries
+- States partnering with private corporations to collect data is another ongoing trend
+- Meta and Google are two of the main cooperators
+- Funds technology to be used for surveillance purposes, but can also be used for marketing and profit
+- This is also connected to Israel, whistleblowers have talked about how tech companies hire Israeli cyberwarfare specialists
+- Many startups focused on improving surveillance methods and spyware
+- Muslims are not a visible minority or a racial group
+- However, they have been racialized, with general descriptions of people who are "Muslim-looking" being created
+- Muslims are disproportionately surveilled both online and in real life
+- Increased harassment by state authority, vigilation from other community members
+- Muslim community centers and mosques are also put under surveillance
+- All of this done to distinguish between "good" and "bad" Muslims, similar to the goals of colonial empires
+- Need for police groups to produce results, encourages arrests based on little evidence
+- Pre-empting crime, try to find out who might hypothetically commit criminal acts and then entrap them
+- FBI encourages Muslims to commit criminal acts so they may arrest them
+- China is also a hotbed for surveillance technology
+- China is likely the global leader in surveillance, and mainly tests its technology on its Uighur Muslim minority
+- This includes Smart Cities, AI racial profiling, facial recognition, and smartphone monitoring
+- Citizens are often complicit in surveillance too
+- Smartphone videos are an important source of surveillance and can even be turned against the state
+- Also called sousveillance, documenting abuses of the state
+- Attempts to prevent citizens from filming police brutality and other abuses of power
+- We are also self-surveilling, be aware of how you are controlled

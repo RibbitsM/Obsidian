@@ -1,0 +1,12 @@
+- Garcilaso de la vega fue un poeto mestizo, con parientes de España y Italia y murió joven
+- El muere cuando se tiró a su muerte desde un torre en Francia
+- Idea de los caballeros, los jóvenes, nobles, etc.
+- Ello fue enamorado con Isabel Freyre, una dama de la reina que también murió muy joven de parto
+- Empiezo a escribir poemas sobre Isabel antes de su muerte
+- Introducir poesía Italiano a España, con endecasílabos, los sonetos y mucho más
+- También introduce el clasicismo, mencionar las figura de mitología en su poesía
+- Pero, el nunca usa los nombres, y solamente hace referencias
+- Usa elementos de la naturaleza, y proyecta sus emociones en la naturaleza (pathetic fallacy)
+- El poeto Petrarca vivé en Francia, y amo a su marida Laura, y escrito poemas ambos antes y después de ella morirse
+- Tiene dos aspectos, la renacimiento y el barroco
+-

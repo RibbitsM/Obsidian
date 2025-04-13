@@ -1,0 +1,8 @@
+- Neurolinguistics is a subfield of linguistics
+- Related to the study of language and the brain
+- How is language handled in the brain and what injuries affect language
+- Experimental, use fmri and eye tracking
+- In historical linguistics, migration is a significant factor
+- A migration is when a language separates into a new variety
+- Conglangs
+-

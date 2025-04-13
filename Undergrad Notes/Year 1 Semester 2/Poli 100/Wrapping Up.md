@@ -1,0 +1,10 @@
+- Short answers are knowledge based, just like midterm
+- Essay questions are thinking and argument based
+- Short answers are marked mostly on content, every aspect of the question must be answered
+- Also marked on the flow of your writing, must connect
+- Is capitalism a necessary ingredient for democracy
+- Charles Tilley argues that war risking and state making are comparable to organized crime
+- Explain MAGA
+- Proudhon argues that governments have no right, knowledge, or virtue to control their subjects
+- Is breaking the law ever acceptable, and what effect does wealth have on this?
+-

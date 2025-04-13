@@ -1,0 +1,5 @@
+- Mentions of honour, what if the invader was a gentleman?
+- Multiple cuts, not everything happening in one place
+- Characters introduced very quickly and not named
+- Dramatic irony from the very beginning, we see the intruder in the first scene
+- Injury to honor, quote "La opinion de una mujer sin casar"

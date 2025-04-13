@@ -1,0 +1,33 @@
+- Next case study is based on a paper by Zvi Griliches from 1960 about the economics of hybrid corn, published in Science
+- The main innovation here is productivity per acre, hybrid corn allows for a substantial increase in yield per acre
+- In fact, the yield has increased over sixfold from the 19th to the 21st century, going from 24 bushels per acre in 1867 to 155 in 2012
+- Today, it's about 175
+- This is partly because of hybrid corn and genetic modification, but other technological innovations as well
+- In economics, diffusion represents the speed with which new technology is adopted into the economy
+- Represented by slope on a graph with adoption percentage on the y axis and time on the x axis
+- A general pattern of diffusion would have the derivative increasing slowly and then peaking around 60% adoption or so and then falling back down
+- The main terminology we use is the slope, but also the origin and ceiling which refer to the bottom and top of the graph respectively
+- Mansfield calculates the "rates of imitation" of technologies in several different industries and plots them on graphs to show the size of the slopes
+- Data from iron and steel industries, seeing similar patterns now in fast-developing countries like Brazil, China, and India that are investing in heavy industry
+- Revealed that diffusion was slow in general, but varied widely
+- Unsurprisingly, the rate of diffusion was faster the more profitable the innovation and the smaller the investment cost
+- Other important factors were the expansion rate of the industry (number of firms entering) and the durability of the alternative equipment
+- Griliches's work is mostly an expansion of this methodology
+- However, he investigated specifically corn growing to discover why diffusion was faster in some reasons and slower in others
+- Different regions of the US were experiencing different rates, and was previously explained by social factors (Southern farmers are dumber)
+- Griliches sought to find economic reasons for this
+- In this paper, the origin is considered the date when 10% of the corn acreage in a region was hybrid corn
+- This was likely because the dates when hybrid seeds became available varied greatly from region to region
+- Mainly came from laboratories or private seed companies
+- But the seed producing firms would mainly enter markets where the expected profits would be the highest and sell hybrid corn there
+- Discovered that what divided good and bad areas was the density of the market, measured by the number of corn pickers on farms
+- Areas that employed more corn pickers per acre were considered denser markets, and thus more attractive for entry
+- Overall, barriers to entry were much lower close by experimental farms where hybrid seeds were being tested
+- Also depended on whether seeds suitable for the region's climate had been developed yet, this led to diffusion spreading faster latitudinally as opposed to longitudinally
+- Spread faster in the North vs the South
+- The rate of adoption should depend on the expected profits from the switch
+- This depends on average farm acreage, hybrid corn benefits more from economies of scale and also the superiority of the hybrid
+- The equilibrium level here is the ceiling, where adoption stops increasing
+- Different ceilings were reached in different regions
+- Most of this variation can be explained by differences in advantage of the hybrid, and number of acres planted per farm
+- Both of these factors were determiners of the additional profit gained from switching

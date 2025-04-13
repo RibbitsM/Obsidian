@@ -1,0 +1,27 @@
+- What is political culture?
+- Respect for authority is part of culture, different countries assign different levels of respect to instructors
+- In China and Turkey, students are discouraged from interrupting the instructor while in Canada students are encouraged to ask questions
+- This is an example of political culture because it ties in to how authority is treated in those countries, a political concept
+- So what is the difference between culture and political culture?
+- Political culture is a subdivision of culture, and is the norms and values created by political beliefs in a country
+- Political culture is the culture of a country/people/regime
+- Tends to make essentialist statements, can easily produce stereotypes
+- Culture is extremely fluid, and attempts to make blanket statements about culture can create dangerous situations
+- Double edged sword, can create incredible amounts of utility for political science
+- What is an acceptable sample size to make a generalization about a population?
+- The generally accepted number is 2,500 people per 20 million
+- Sample percentage that would be unacceptably small in other fields, is recommended for political culture studies
+- Seemingly innocent generalizations can be precursors to more harmful assumptions
+- More examples of political culture are respect for elders, self-sacrifice for the community, value of individual freedom, equality of citizens, etc.
+- An important one is trust of outsiders, how accepting of people from other countries/how xenophobic is a political culture
+- The textbook defines political culture as applying to authority, discipline, government, education, and family
+- Encompasses a surprising amount of society, is not limited to only bureaucracy but also invades personal life
+- Assumes that the political system of a country represents the values of the population
+- In authoritarian countries there is much more respect for authority
+- How leaders are treated changes drastically depending on the political system
+- As obvious as political culture gets
+- A mismatch in values often leads to unrest as values must naturally be aligned
+- Either the public rises up and changes the government or the government enforces values on the public
+- The culture and the regime are not the same thing, but they interact and negotiate with eachother
+- Constant give and take between the two forces
+- This is why it is important to understand what the political culture is precisely

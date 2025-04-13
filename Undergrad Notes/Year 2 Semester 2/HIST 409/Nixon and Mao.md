@@ -1,0 +1,64 @@
+- Nixon's visit to China was not meant to distract from Vietnam, but to appease Mao
+- Prior to 1949, the typical Chinese community had a small number of landlords alongside a small number of rich peasants
+- 10% of the community owned 80% of land and capital
+- The rest were poor and middle class peasants or hired labourers
+- Basically serfdom
+- Much of the population lived in a constant state of debt to his landlord
+- Difference between class were drastic and insurmountable
+- Conditions in the cities were not much better, with government corruption leading to unequal distribution of food
+- After their victory against the Kuomintang, the Chinese government met with Stalin to make a deal
+- Eventually signed a military treaty that also guaranteed safety
+- All over China, rich peasants and landlords were mocked and executed
+- The increasing power of China worried the US
+- The US continues to support Taiwan, providing them with protection and troops
+- At the time, there were 5 nuclear powers when the NPT came out
+- France and China refused to sign, signifying that they would continue
+- China saw US nuclear weapons as a serious threat and continued to build their capacity to retaliate
+- Other countries are beginning to recognize the PRC as the legitimate govt on China, including Canada
+- Over time, US opposition to China loosened, and eventually restrictions between the US and China in the 70s
+- Throughout Nixon's presidency, Vietnam was a constant and pressing issue
+- The breakthrough in US-China relations came as a complete coincidence
+- In 1971, a member of the US national ping pong team boarded the wrong bus after a tournament in Japan and ended up with the Chinese team
+- They made quick friends and exchanged gifts
+- As a result, China invited the whole US ping pong team to visit alongside a few journalists
+- First group of Americans allowed into China since the revolution
+- Also ended the information blockade
+- Unforeseen breakthrough in foreign relations
+- China demanded that the US withdraw from Taiwan in order to continue talks
+- Nixon proposed that Kissinger secretly visit China and bang out the details of the presidential visit
+- At the same time in April of 1971, John Kerry makes his speech before the Senate Foreign Relations Committee alongside other Vietnam vets
+- Kissinger visits Beijing and shakes hands with Chou En-Lai in July 1971
+- The main issue in discussions between the US and China was Taiwan
+- The US had made promises to Chiang Kai-shek earlier to protect Taiwan from China, but were considering going back on their word
+- The other main issue was Chinese support of North Vietnam
+- They had been aiding them in South Vietnam since the 1950s, expending over 20 billion dollars
+- They were providing Chinese soldiers to free up troops in North Vietnam, and supplies to help fighting in South Vietnam as well
+- Worst US trade deficit since the 19th century
+- Resulted in the Nixon Shock due to sudden protectionist economic policy
+- Called as such since people weren't expecting it
+- Stopped the Bretton-Woods System preventing the US dollar from being converted into gold
+- Stopped foreign currency speculators from relying on the US dollar
+- Also imposed taxes on imports to reduce balance of trade
+- Imagine comes out while US is secretly moving into Cambodia
+- Nixon visited Beijing alongside his wife and some officials in 1972
+- Nixon shaking hands with Mao signified a cooling in East-West relations
+- Goal of the meeting was to get China out of Vietnam
+- Made withdrawing from Vietnam more doable
+- Set up the framework for future US-China diplomacy
+- This scared the Soviet officials, who were already feeling the strain between China and the USSR
+- China signalled they had no ill will towards the US, but still wished to control Taiwan
+- Mao demanded that the US withdraw its military entirely from Taiwan
+- They refused any sort of compromise or any decision that did not involve one China controlling Taiwan
+- The American response was incredibly ambiguous, but they have severed official links between the US and Taiwan
+- By the end of 1972, the US was still bombing Vietnam even though peace talks were in progress
+- Nixon's hope was that continued bombing would pressure the North into making a deal
+- It worked, and a deal was signed where Northern troops would remain in the South
+- Known as the Christmas Bombing, was the heaviest bombing throughout the entire war
+- Criticized for being basically unnecessary to end the war
+- US troops leave Vietnam in March 1973, peace agreement signed in January
+- Kissinger and Le Duc Tho won the Nobel Peace Prize for their peace agreement, but Tho refused to accept it
+- There was no peace, North Vietnam overran the South and renamed Saigon to Ho Chi Minh City in 1975
+- US cut relations immediately with Vietnam after the unification
+- Around the same time, the Khmer Rouge took over Cambodia and Pol Pot rose to power
+- Kissinger was a hero at this time, but soon he would be regarded as a war criminal
+- The US had finally gotten out, but at what cost?

@@ -1,0 +1,17 @@
+- The motive of non proliferation is to avoid the spread of nuclear weapons to new states and non-state actors
+- There are two immediate challenges with this
+- The first is to prevent current NPT members from acquiring nuclear weapons and breaking out of the treaty
+- This is mainly just Iran right now
+- The other is to prevent proliferation by nuclear arms states not in the NPT
+- Those concerns are with North Korea and Pakistan
+- The long term challenge is to strengthen the NPT mechanisms
+- This can come in the form of enhancing safeguards and giving the IAEA more power for enforcement
+- Can also strengthen non-NPT mechanisms like improving export controls on fissile material and expand nuclear weapons free zones
+- There have been numerous concerns about countries not complying with the NPT
+- These incidents include Iraq, Romania, North Korea, Libya, Iran, and Syria
+- Of course North Korea was found to be cheating and later withdrew from the treaty entirely
+- There has also been major diplomatic disputes within the NPT, especially in the case of some countries being targeted
+- Arguments over whether the NPT should focus its resources on countries with a higher risk of proliferation or treat all equally
+- As for the CTBT, the number one priority is to ratify it to enter it into force
+- North Korea, India, and Pakistan have not signed it, and China, Egypt, Iran, Israel, and the US have not ratified
+- Also, Russia, US and UK all perform subcritical tests despite upholding a moratorium on testing

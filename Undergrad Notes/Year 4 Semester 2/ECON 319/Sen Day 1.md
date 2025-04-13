@@ -1,0 +1,69 @@
+- Indian, born in the 30s
+- Professor at Harvard since 2004
+#### Rational Fools
+- Criticism of rational choice theory
+- Aristotle's notion of rationality means choosing the most effective means to one's desired ends
+- Focuses primarily on the means, but ignores the ends
+- People rely on heuristics to rank choices in the moment, and will have to refer to these rules frequently
+- The act of referring to heuristics is sub-optimal and therefore sub-rational
+- Sen's hypothetical survey identifies three views on the theory of rational behavior
+- First, rational behavior theory is unfalsifiable
+- Second, it is falsifiable but has so far been unfalsified
+- Third, is is falsifiable and is false
+##### Rational Choice Theory
+- The core of mainstream economics, holds up the general equilibrium theory
+- All economic agents will seek to maximize utility/welfare and will order their preferences to do so optimally ^fae753
+- The postwar period was defined by an emphasis of positivism in science
+- Metaphysics was discarded, Einstein was studying time using clocks, and Skinner observed the mind through actions
+- Same thing happening in economics
+- References to utility were too metaphysical, we needed to emphasize preferences and indifference curves
+- Individuals have limited resources, and seek the best outcome given those resources
+- Paul Samuelson was a notable thinker in rational choice theory
+- Believed that rational agents have preference sets that are complete, transitive, and continuous
+- We can only determine preferences through observation
+- This idea comes from the WARP or weak axiom of revealed preference
+- Among options in the market, we can assume that the one an actor picks is the one they most prefer
+- A SARP would be if the actor chooses the same choice whenever it appears
+##### Issues
+- No guarantee that an agent prefers the specific item, may just be the class of items
+- Someone buying soup may not be preferring that particular kind of soup, just soup in general
+- Also doesn't mean they like that specific can more than other cans of the same kind of soup
+- Preferences may change, and therefore can be intransitive
+- Also does not address the issue of indifference
+- There is also always the issue of [[Hayek Day 1|incomplete information]]
+- This means that no agent can have a truly complete preference ranking
+- Also ignores the possibility of strategic actions, for example people may choose sub-optimally in a situation like a [[Moloch|prisoner's dilemma]]
+- Even though cooperation is ideal, both actors will act in their self interest
+- Sen argues that in reality people do not always act in self-interest, they will honour an agreement to not squeal
+- Edgeworth proposed egoism as a core axiom based on the idea that the first principle of Economics is self-interest
+- Similar to [[Mill Day 1|Mill's]] idea of maximizing wealth and minimizing work
+- Sen argued that this can be counterbalanced by the altruistic forces of sympathy and commitment
+- Sympathy can be consistent with egoism, as people enjoy the pleasure of others and feel the pain of others as well
+- This makes it similar to a market externality, a side effect created by self-interested actions
+- To incorporate it into the theory of value like we would incorporate other externalities into an economic model is quite difficult
+- Commitment is non-egoistic, examples like boycotts or making sacrifices to help the environment
+- People do things as a matter of principle, not necessarily because it gives them utility
+- Incorporating commitment into the General Model would be even more difficult
+- This is because it damages the assumption of revealed preferences
+- Creates the possibility of preferring less to more, antithetical to economics
+- We can see commitment in private acts like boycotts, but also the preservation of public goods
+- Egoism works in the opposite direction, damaging public goods by creating [[Chapter 16#^15b2b0|free riders]] 
+- Commitment is actually in excess supply, people tend to act honestly and obey the law even when there are no systems of punishment in place
+- Economics ignores the existence of social norms
+- Also applies to production in the form of work ethic
+- [[Agriculture and Economic Development#^5e67c0|We take pride in a job well done]]
+- This is where the term "rational fool" comes from
+- If someone truly did act solely in their own self interest, we would see them as an anti-social idiot
+- People are not as simple as this
+- Sen advocates for agents that have more complex and sophisticated meta-rankings of preferences
+- Given enough work, commitment could theoretically be implemented into economics
+- Ethics is an example of a discipline that uses these meta-rankings
+- For example, people can have rankings of ideal preferences, like wishing you liked vegetables more
+##### Conclusion
+- Economics has to separate rationality from self-interest
+- Need to account for norms, principles behavior, and looking forward to the future
+- Rationality should look more like a developed system of ethics and less like ethical egoism
+- We don't need to be more moral or noble, just depict agents in economics closer to the way they act in real life
+- Behavioural economics has somewhat vindicated Sen's view by creating more realistic models of economic agents
+
+![[Sen-RationalFoolsCritique-1977.pdf]]

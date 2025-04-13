@@ -1,0 +1,33 @@
+- Visible light reflects off of objects and into your eye, creating an image
+- Not all of the light is reflected, some is absorbed or transmitted
+- This pattern of reflection, absorption, and transmission creates a spectral signature
+- A spectral signature is visualized as a graph that plots the percentage of radiation reflected at different wavelengths
+- Green vegetation reflects little visible light, but much more near-infrared radiation
+- All surfaces reflect unique amounts of radiation
+- Water only reflects visible light and absorbs all near-infrared radiation
+- This distinguishes it from soil and green vegetation, soil reflects mid-infrared and green vegetation reflects near-infrared
+- This allows us to analyze the makeup of a surface from far away
+- The more wavelengths we plot on the graph, the more obvious the separation is
+- This is why we focus on multispectral analysis, as it is the most efficient sensing process
+- We have an in depth graph used to analyze radiation reflection by leaves
+- Certain dips in the graph are due to water in the atmosphere absorbing radiation
+- We look at leaves palisade cells to see how visible light is reflected, mesophyll cells for near infrared reflection, and the amount of water in a leaf when looking at reflection of mid-infrared radiation
+- The palisade cells contain chlorophyll, and determine the visible light reflection of a leaf
+- Chlorophyll absorbs substantial amounts of blue and red light
+- This is the dominant pigment in healthy leaves
+- However, there are several other pigments found in leaves
+- The mesophyll cells are just below the palisade cells, and have lots of gaps between them
+- These air pockets creates areas where near-infrared radiation bounces around and scatter
+
+Summary
+
+- From .4 to .75, pigments are the determining factors, chlorophyll when it's healthy, and beta carotene when it's under stress
+- From .75 to 1.35 the scattering of NIR radiation by the mesophyll is the cause
+- From 1.35 to 2.8 the water content of the leaf determines reflection
+- The SR or simple red ratio is the first spectral derived vegetation index
+- Larger SR means healthier
+- NDVI or normalized difference vegetation index is the current best metric
+- Both metrics use the same process
+- Healthy vegetation has higher NIR reflectance, and lower red reflectance
+- Unhealthy vegetation reflects more visible light because of change in pigments and less NIR reflectance because of atrophying leaves
+-

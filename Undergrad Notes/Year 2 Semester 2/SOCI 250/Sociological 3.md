@@ -1,0 +1,93 @@
+- Conflict perspective exists in contrast to the functionalist perspective
+- Functionalist perspective sees policing and crime control as a method of preserving order and integration
+- Benevolent force, exists for the good of all citizens
+- Meanwhile the conflict perspective sees it as a tool of the powerful
+- Questions if all citizens really benefit from crime control and who defines what is and isn't criminal
+- Situates crime in the context of economic and social issues
+- Critical perspective, emerged to criticize the dominant structural explanation
+- Examines connection between class, crime, and control
+- Class is mainly determined by income, education, and occupational status
+- Another main focus is upward mobility, how easy is it to move between classes?
+- Marx argues that every class has it's own specific interest that have potential to collide
+- Upper classes have more power, and control the law to restrict the lower classes and control the conflict
+- Conflict criminology looks at how the political and economical environment affects how justice is applied
+- Having high economic and political status gives you a huge advantage in the CJS
+- Very difficult to charge rich/powerful people with any sort of serious crime
+- Definitions of crime also favour the people who control the justice system
+- For example, drug trafficking laws establish a set amount of a substance that is illegal
+- But people with more resources can simply hold that substance in small amounts in many different places and avoid being charged
+- Also analyzes how social conflict affects modern society
+- Justice is skewed, sentencing varies across gender, race, etc.
+- Why does this happen and how can we remedy it?
+
+**Origins**
+
+- Began in the 1960s
+- Official crime data wasn't showing real crime-class correlation data
+- Self reported studies revealed that upper and middle class people committed much more crimes than expected
+- For example, drug use in college students and businessmen was not appearing in official data
+- Criminal used to impose moral values of the upper class
+- Argues that criminals are the product of the economic system and not social anomalies
+- People who have money and people who don't commit distinct kinds of crime
+- The definition of crime and control of the police belong to those with political and economic power
+- Crime is a political concept first and foremost, and exists to protect the upper class at the expense of the lower class, not benefit all of society
+- Lower income crimes are referred to as "street crimes" and are the most visible kinds
+- This includes theft, robbery, break ins, etc.
+- Middle class crimes are much less visible, like lying on your taxes
+- Arguably these crimes have more negative outcome, it's just disconnected
+- Upper class crimes are often not defined as crimes but probably should be
+- Often these are crimes done to increase profits that are only punishable by fines
+- For example, dumping toxic waste may incur a fine, but it's offset by the money made by dumping
+- Illegal business activities are often lightly policed like this and merely represent the financial cost of committing a crime
+- Marxist criminology looks at the connection between crime and capitalist conceptions of property
+- Surplus value is the profits created by labour which is collected by business owners
+- It is very common for workers to be paid less than the value of what they produce, this is the surplus to the producer
+- Producers can use these profits to increase efficiency and reduce reliance on wages
+- The resulting unemployment leads to an increase in (street) crime rates
+- A good example of this is Detroit, which used to be a huge hotbed for auto manufacturing
+- However, advances in technology automated many processes, and lower wages in Mexico led to outsourcing of labour
+- This created a large population of unemployed, low skill workers in Detroit
+- Created the high crime rate population of Detroit we see today
+- This process is called marginalization, displacing workers and pushing them out of the mainstream
+- In an experiment, three groups of workers were told different things
+- One group was given a pay cut without explanation, one was given a pay cut with an explanation, and a control group
+- Both pay cut groups stole more during the cut, with the no explanation group stealing way more
+- When people feel like they are being treated unfairly, when they feel alienated and unseen they are more prone to rule break
+- Some of the limitations are that in modern society theft is mostly for luxury, not survival
+- People don't steal staples like food, they steal luxury items
+- It also overlooks the social reform efforts of capitalism and safety nets established in the economic systems of many countries
+- An example of this is the DTES which has incredibly high rates of unemployment and drug use, but also has a very high rate of safety nets, free resources and non profits
+- Ignores the marginalization of socialist states, reform from above and corruption of government
+- Collectivization becomes much more impersonal when you expand it to a large scale
+- Is it really possible to implement Marx's ideas on a large scale
+- Also overlooks harmonies between capitalism and socialism like Denmark and Norway
+- How much is a result of cultural values and how much is a result of social structure
+- Which comes first? The culture or the structure?
+- Is the potential for upward mobility really a good thing if it breeds a culture of greed?
+
+**Peacemaking Theory**
+
+- Branch of conflict theory
+- Emphasizes conflict resolution and mediation as a way to fight crime
+- Linked to restorative justice, a development in Canadian crime policy
+- Aims to reduce recidivism, resolve the issues with crime rather than explaining why it happens
+- States that crime is not defined by a violation of the law, but rather by the harm it causes to people, communities and relationships
+- Not everything should be handled by the legal process, the community and the victims get a say
+- Outcomes should be a product of collaboration between victim and offender, not forced on either individual/group
+- Outcomes are fair and proportional to the harm done
+- Research suggests that restorative justice measures noticeably lower the rearrest rate for youth offenders
+- Other branches of conflict theory are feminist, power control, left realism, and postmodern theory
+
+**Feminist Theory**
+
+- Links gender conflict to economic struggles related to industrial society
+- Linked to marxist theory, compares women to proletariats in capitalist society
+- Explains why women are more often victims of crime and when they do offend it is for less serious offenses
+- Like the proletariat they are powerless and vulnerable to the system
+- In capitalist societies, one social class dominates all others
+- The ideas of that class become the defining values of the whole society
+- In feminist theory, men are this ruling social class rather than the upper economic class
+- The defining values of society socialize men to be dominant, aggressive and competitive
+- Conquest and control over others is a marker of success
+- Therefore, sexual violence against women becomes normalized, creating rape culture
+-

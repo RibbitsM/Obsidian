@@ -1,0 +1,123 @@
+- Command and control systems are the systems that determine how nuclear weapons are released
+- All nuclear weapons are part of some sort of command and control system
+- We know varying amounts of each countries command and control systems
+- They do two main things
+- First, the political authority to release nuclear weapons is clear and verifiable
+- Nuclear weapons are only released when it is authorized clearly by the political leaders
+- Second, they also need to be released fairly quickly
+- In the event of an opposing strike, you have very little time to react and launch your own strike
+- Extremely compressed timeline
+- Launch systems must be very secure, but also have to be rapid
+- An insecure command and control system leaves you exposed, but so does a slow one
+- In order for effective deterrence, both sides must have effective command and control systems
+- We don't know if MAD was actually the reason why the US and Russia never fought directly during the cold war
+- Therefore deterrence has never been definitively proved to work
+- In order for deterrence to work, a nuclear threat must be real and credible
+- The paradox is that by making your threat more credible, it makes nuclear use more likely
+- Two states in a state of deterrence are also in a state where nuclear war is a possibility
+- Deterrence assumes both states are acting in a perfectly rational matter, and makes decisions based on a sound cost-benefit analysis
+- However in reality, this is not always true, and definitions of rationality vary
+- The cost benefit equations on opposing sides may be quite different
+- Some leaders may begin to consider using nuclear weapons in certain situations
+- Finally, technology is always advancing and has the possibility to unbalance deterrence
+- For example, new delivery systems like hypersonic glide have the possibility to bypass deterrence by delivering a strike before the opposing side can retaliate
+- It is crucial for deterrence that both sides think that it is impossible to get away with a first strike
+- We are currently seeing a situation in the invasion of Ukraine where Russia may consider that making a nuclear strike would be a rational and advantageous decision
+
+Warhead Inventories
+
+- There are roughly 13,000 nuclear warheads in the world currently
+- Secrecy is very common in nuclear programs, so it is difficult to get exact counts
+- The vast majority of these are held by the US and Russia
+- Many of these warheads are retired or in stockpiles
+- Since the Cold War, global warhead inventory has declined drastically
+- At the peak of the Cold War, there were approximately 70,000 nuclear warheads in the world
+- In 2020, the nuclear states spent about 72.6 billion dollars on their nuclear weapons
+- This includes development of new weapons, maintenance of stockpiles, etc.
+
+Starting a Nuclear War
+
+- There are five generally accepted scenarios for starting nuclear war
+- First is the surprise attack, in which one power launches an unprecedented attack on another state to destroy their leadership and destroy their military control systems
+- The idea is that if your strike eliminates the political authority and command and control systems, you can avoid a retaliation
+- However, once early warning systems were developed, surprise attacks became less likely
+- Of course, we will soon be seeing technologies that can bypass early warning systems
+- The pre-emptive attack is slightly different since it is based in the belief the opponent will launch an attack
+- If you believe the opponent is about to attack, then you launch an attack to pre-empt their attack
+- Of course there is no way to know completely for sure that the other side intends to strike
+- It is also possible that both sides are trying to pre-empt the other
+- Third is escalation, it has been considered the most likely threat of nuclear war since the cold war started
+- It is what might happen between the US and Russia, India and Pakistan, or Russia and Ukraine
+- Say Russia launches a conventional assault on western Europe
+- NATO is forced to use nuclear weapons in order to stop from being overwhelmed
+- Russia responds with it's own nukes, prompting NATO to nuke Moscow
+- Russia launches a huge assault on western Europe and the US in response, triggering global nuclear war
+- This is the same scenario we're seeing now, Putin is being pushed back in Ukraine and may escalate with tactical nuclear weapons
+- Nothing on the escalation ladder is guaranteed to happen, but is likely
+- The same scenario can be applied to conventional conflict between India and Pakistan
+- Escalation was and still is one of the most likely reasons for nuclear war
+- Next is an accidental or unauthorized start to a nuclear war
+- This is when neither side intends to start a nuclear war, but it happens anyway
+- This could be because of political miscalculation, or technical failure
+- A technical failure actually happened in the Soviet Union during the Cold War
+- A soviet military officer detected an incoming american ballistic missile, but chose not to activate the soviet nuclear response
+- The warning turned out to be false
+- The final scenario is a catalytic event
+- This where an event occured that wasn't triggered by any state, but is perceived as an enemy attack by nuclear states
+- A nuclear weapon is detonated by a third party, triggering a nuclear war despite neither side making a move
+- Usually associated with terrorist groups gaining nuclear technology
+
+Missile Defense
+
+- An early idea was that MAD could be avoided by defending yourself against incoming ballistic missiles
+- Early ABM (Anti-Ballistic Missile) technology didn't work very well, and failed to provide a possible solution to a first strike
+- The technology at the time couldn't properly predict the paths of incoming missiles in order to intercept them
+- So the idea was to just put another nuclear warhead on your ABM so that you could intercept an incoming missile without actually hitting it
+- This was understandably a stupid and destabilizing technology, and was banned by the ABM treaty
+- Lasted until the strategic defense initiative, which was satellites equipped with lasers that could intercept ballistic missiles from space (Star Wars)
+- This wasn't implemented since the Cold War ended
+- In 2002, the US pulled out of the ABM treaty in order to build a proper missile defense system to defend against a possible launch from North Korea
+- Sensors in space track an incoming ballistic missile, and sends course corrections to an interceptor missile that is built to hit the incoming missile directly (kinetic kill system)
+- This system is not guaranteed to work, and hasn't been extensively tested
+- The BMD system also defends against short and intermediate ballistic missiles, with interceptors launched from aircraft carriers
+- They also have ground based interceptors for short/intermediate range missiles
+- Israel has a similar technology called Arrow, but more even more advanced, it intercepts missiles outside of the atmosphere
+- The US has exported missile defense systems to many other countries (the Patriot PAC-3)
+- This is for ballistic missiles, different from Iron Dome
+- Soon, Israel will deploy Iron Beam, the first laser based missile defense system
+- These new missile defense systems have the possibility to destabilize deterrence
+- With a devastating enough first strike, most warheads can be eliminated pre-emptively
+- Whatever warheads are left over, could be countered by missile defense systems
+- This creates a scenario where the US could reasonably win a nuclear war against Russia
+
+Nuclear Proliferation
+
+- Prior to the Cold War, projections of the future promised many more nuclear weapons than we have today
+- The problem is that the more countries have nuclear weapons, the higher the risk of nuclear war
+- The chance of unstable leaders launching nukes increases, accidental detonation increases, and theft of nuclear weapons increases
+- However, some thinkers argue that proliferation increases peace, and we should send nuclear weapons to certain countries to balance power
+- If both sides have nuclear weapons, conventional warfare will not occur
+- However, most people agree that this is a bad idea
+- Nuclear weapons are attractive for the prestige and potential security they bring
+- They can also limit your reliance on other nuclear powers, and fuel ambition
+- Domestic interests have effect of nuclear weapons, in India the military and scientific community had significant influence on the creation of a nuclear program
+- Can also be in response to a perceived threat
+- The first thing you need to build a nuke is political will
+- Canada and Japan both have the resources to build nuclear bombs, but choose not to
+- Japan retains a large stock of plutonium despite not needing it for its civilian reactors
+- You need the knowledge and manufacturing infrastructure necessary to construct a warhead
+- You also need fissile material, which is very difficult to acquire unless it naturally occurs in your country, or you have civilian nuclear reactors to produce plutonium
+- You need to be able to weaponize it, have a delivery system
+- And in order to publically announce that you have nuclear weapons, you need to test them
+- Uranium is enriched to be used a nuclear fuel rods in a reactor, which can be enriched further to make HEU
+- In addition, the plutonium produced by nuclear reactors that is normally disposed of as waste can be used to make nuclear weapons as well
+- This is how North Korea acquired nuclear weapons, via their civilian reactor system
+- They have recently detonated a 150 kiloton bomb, which suggests they now have a hydrogen bomb, or fusion bomb
+- Iran also has the nuclear fuel cycle necessary to make nuclear weapons on short notice
+- Both of these countries have the ballistic missile range necessary to hit any of their main enemies
+- One possible path towards arms control is by expanding missile defence
+- Theoretically, if all countries had very robust missile defense systems, nuclear weapons would be irrelevant
+- Pre-emptive conventional strikes are also possible, destroying key facilities can prevent countries from becoming nuclear
+- We may see Israel attack Iranian uranium enrichment facilities if the Iran Deal does indeed fall through
+- Of course, negotiation is the ideal method to reduce proliferation
+- This goes hand in hand with arms control policies and deals

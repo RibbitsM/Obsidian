@@ -1,0 +1,4 @@
+- Measures the geographic amount of land under human use
+- Can be assessed with many different variables, population, size of urban centers, etc.
+- Seeks to assess the impact of human activities on the planet
+- Used for making decisions on conservation, resource allocation, etc.

@@ -1,0 +1,12 @@
+- Escrito por Sergio Vodanovic
+- Fue "padre" de la telenovela chilena
+- Croata, pero crecía en Chile
+- Teatro social y comprometido
+- Su primero telenovela fue "Una Familia Feliz", pero el más famoso es "Los Títeres"
+- Generación 50
+- Escrito sobre la justicia social y los clases bajas
+- Realismo, fue crítico de las estructuras sociales
+- La obra comenta sobre la desigualdad socioeconómica
+- Mensaje de fin es las ricas y las pobres son el mismo
+- También hay elementos del contraste y conflicto entre el campo y la ciudad
+-

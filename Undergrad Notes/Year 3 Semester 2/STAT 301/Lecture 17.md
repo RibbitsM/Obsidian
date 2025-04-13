@@ -1,0 +1,26 @@
+- Stepwise algorithms are what we call methods like forwards and backwards selection
+- These only consider the partial contribution of variables, and once they select a variable it cannot be reevaluated
+- Also doesn't work when n < p
+- Can be used with categorical variables but it doesn't work with the regsubsets package
+- Regularized methods consider the contribution of all variables jointly
+- Don't permanently select or discard variables, and works when n << p
+- Also doesn't have categorical variables implemented with glmnet
+- A new method we can use is the hold-out method
+- The way this works is instead of splitting the set into testing and training data, we just subset the data to make some of it training data and remove it during prediction
+- The estimate created from this process is quite variable, since the estimates depend on how the dataset was split
+- Since we are shrinking the sample size, the population error is overestimated
+- So what we can do is repeat this process several times and calculate the root mean squared error for each of them, and then take the mean of all rmse values
+- Another option is cross-validation, or the kfolds method
+- This divides your data into k amount of folds, makes one the test set and then trains the model on the remaining folds
+- We then repeat this k times until all folds have been used as the test set
+- This is the method glmnet uses to calculate lambda
+- MSE is the sum of MSE values for each fold divided by k
+- Can calculate rmse by calculating cv-mse first and then square rooting it, or by calculating cv-mse with the rmse of each fold
+- A special version of the kfold method is the Leave-one-out CV or LOOCV, also called nfold cv
+- This is when number of folds is the same as the number of observations in the sample (k=n)
+- In this case, our test set is only one observation and the rest of the sample is training
+- This is a rare case where there is no variability in splits, its the same every time
+- However, since the test set is only one observation, the estimates for each fold are extremely variable
+- When we try to do cross validation with lasso instead of ls, things get more complicated
+- We need additional arguments for lasso like lambda, and more cross validation is needed
+- The result is a nested CV model, where for every fold we have to do CV on the training set to determine the lambda, very computationally intensive

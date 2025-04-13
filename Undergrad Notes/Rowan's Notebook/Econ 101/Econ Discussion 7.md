@@ -1,0 +1,5 @@
+- Small, ==large==, small, ==large==, large, large, large, large, large, small
+- Yes it has, because marginal cost is above average variable cost
+- This means it is experiencing both average and marginal returns
+- It is experiencing diminishing average returns but may or may not be experiencing diminishing marginal returns
+-

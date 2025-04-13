@@ -1,0 +1,77 @@
+- Started as just a quick operation, not expected to last as long as it did
+- Spanned many different administrations, usually against their will
+- Seeds of the Vietnam War started in the 1940s, when Vietnam changed hands from the French and was occupied by the Japanese
+- Ho Chi Minh organized to resist the Japanese, who retreated after the bombs were dropped
+- When the French tried to reassert their authority, they found Vietnam controlled by the Viet Minh
+- Determined to resist French authority for personal reasons too, they imprisoned his sister for stealing weapons from the French military
+- The French were eventually defeated in an embarrassing battle at Dien Bien Phu in 1954
+- The Americans withdrew support from the French after realizing how outmatched they were
+- Part of an ongoing pattern of French colonies revolting successfully against colonial force
+- US invokes the rhetoric of the domino metaphor, saying that they must remove the communist influence of Vietnam so it doesn't spread
+- Similarly to Korea, the country was divided into two halves along the 17th parallel
+- Elections would be held and monitored by the ICC (International Control Commission), including Canada, but no elections were held even after the expected date of July 1946
+- The elections were opposed by Britain and the US, who feared that if put to a vote the Communists would win
+- Canada served as the eyes and ears of the US in Vietnam via the ICC
+- The US favoured Ngo Dinh Diem in the South, and pumped money into the region to oppose Ho Chi Minh's regime in the North
+- Saigon was the capital in the South, and Hanoi in the North
+- Diem was not popular at all, he imprisoned and killed many political opponents including innocents, and was protested heavily by local groups
+- Buddhist monks even set themselves on fire and burned to death in protest of his policies
+- In reaction, the government imprisoned thousands of Buddhists, sparking more protest
+- Khrushchev wanted to ally himself with those opposed to colonialism, and as such reached out to Ho Chi Minh who had been educated in Moscow
+- Diem was assassinated and the government overthrown in November 1963, and 3 weeks later JFK was also assassinated
+- The coup was sponsored by the CIA, but they claimed to be ignorant of how violent it would be
+- Canada was heavily complicit in the Vietnam War, even after the ICC became irrelevant Canada was sending bombs and weapons to the American forces
+- The British were sent in to train South Vietnam troops in jungle warfare since they had been fighting rebel groups in Malaya to keep control of rubber plantations
+- Malaya was incredibly profitable for the British empire, and as such they sent in tons of military force into the country to control the local population
+- This is where the idea of using a defoliant (like agent Orange) began, they were first used in Malaya
+- Another technique brought in by the British was the resettlement of villagers into "Strategic Hamlets" that contained civilians to prevent the Vietcong from recruiting or killing them
+- At this time the National Liberation Front was seeking out villages sympathetic to Diem and destroying or converting them
+- The Strategic Hamlets were little better, locals hated them and resented the Americans and British
+- These were first set up under the Kennedy administration in 1960
+- Britain and MI6 was heavily involved in funneling arms into the country via Hong Kong and Malaya
+- Television had an immense influence on the course of the war, the assassination of JFK was mainly announced through television broadcasts
+- Immediately after, LBJ is sworn into office on November 22, 1963 and inherits the Vietnam War
+- This is where American pacifist movements start to rise, Masters of War by Bob Dylan is one of the first examples of a Vietnam protest song
+- Protest culture in America thrived, media allowed the idea of pacifism to spread like it never had
+- At this point there were no American soldiers on the ground in Vietnam
+- LBJ wanted 'more flags' in Vietnam, but traditional allies like Britain and Canada were hesitant to get more involved in Vietnam
+- Taiwan and the Philippines helped a little, but it was mostly symbolic
+- The US was still carrying the vast majority of the burden in terms of outsider countries
+- The Gulf of Tonkin incident occurred in August of 1964, although it has been alleged that it was mostly fabricated
+- Allegedly, two US warships were attacked unprovoked by the North Vietnamese and allowed the US to start a full-scale armed conflict in Vietnam
+- The Tonkin Gulf Resolution was not based on a full accurate portrayal of facts, but allowed the president to start armed conflict in Vietnam
+- Technically Vietnam was never a war because no war was declared, only an armed conflict
+- LBJ did not want to sacrifice American lives in Vietnam, he just wanted the war to be over with
+- Lyndon B Johnson was from Texas, and is often depicted as a cowboy in political cartoons
+- He was notorious for intimidating political opponents, being very physically confrontational, much more than your average president
+- He wanted to focus on America domestically, but also refused to give up Vietnam to the communists
+- His election campaign was heavily based on opposition to war, but ironically ended up in one anyway
+- Attempts to find a replacement regime in Saigon were failing, generals just kept getting overthrown and replaced by slightly more corrupt generals
+- After the North Vietnamese attacked an American airbase, Johnson started Operation Rolling Thunder, a heavy bombing campaign intended to last 8 weeks
+- The idea was to bomb the North so heavily that they capitulated immediately, or at least were willing to negotiate
+- Instead, the campaign lasted for 3 years
+- Dow Chemical Company created napalm for this bombing campaign, a liquid fire that could not be extinguished by traditional means
+- They stopped producing napalm in 1969 due to intense protesting from American students
+- In addition to napalm, Agent Orange and Agent Blue were also implemented, Orange removed the jungle canopy and Blue wiped out agricultural crops that fed civilians and soldiers
+- Canada was closely involved with Agent Orange, it was tested in New Brunswick and shipped by Canadian officers
+- It was later shown to cause major birth defects in the children of mothers exposed to Agent Orange
+- Even now, Agent Orange is causing defects since the effects of the dioxin in Agent Orange can be passed down through genetics
+- Lester Pearson spoke out at a Philadelphia university against the bombing campaign, and called for a pause in Rolling Thunder
+- LBJ was furious about this, and harassed Pearson physically when they met after the speech
+- Ongoing lectures called "teach-ins" were held to educate students on what was happening in Vietnam and were often even publicized or televised
+- Johnson also used television, offering a 1 billion dollar grant to the North Vietnamese if an end to the war was achieved in a speech at John Hopkins
+- Most of these peace proposals were taken as insincere given his continued bombing
+- Record-breaking protests were held in Britain advocating for peace, and many "teach-ins" and debates were held in universities
+- McNamara presented a memo to the president with three possible actions to take in Vietnam
+- The first was to withdraw, the second was to continue, and the final was to expand the war
+- His recommendation was to expand, since withdrawing would be humiliating, and continuing would just give them another choice to make later on
+- The longer the war went on the harder it would be to withdraw since all the casualties up until that point would have been in vain
+- Soon after the first ground troops landed in Vietnam, the American embassy in Saigon was bombed
+- This attack was blamed on encouragement from the Chinese, although the Soviets were more involved
+- From their perspective, the Vietcong were fighting against a foreign incursion from the US and needed military assistance to win the war
+- The draft further exacerbated ongoing racial tension in the US, with the civil rights movement around its peak at the time of the Vietnam War
+- Black Americans were disproportionately drafted since they just had less options to avoid it
+- This was the time of James Baldwin, MLK and Malcom X, who fuelled the civil tension even further
+- This was very expensive war both economically and socially, for every 10 dollars spent the Americans did 1 dollar of damage to North Vietnam and the war was incredibly unpopular
+- The US forces had a very hard time fighting the Vietcong, they fought with booby traps, disguises and camouflage, they would dress up as civilians and had no official uniform
+- They rarely knew where the enemy actually was, and they had no idea who was a civilian and who was an enemy

@@ -1,0 +1,27 @@
+- Classification of a language by source or origin of the language and it's similarities to other languages
+- Language families are based on one "mother language" from which all languages in the family evolved
+- Two examples of language families would be Salish and Indo-European
+- All Salish languages evolved from Proto-Salish and all Indo-European languages emerged from Proto-Indo-European
+- English is on the Germanic branch, while French is on the Italic branch
+- English is actually closer related to Norwegian than to French
+- Comparing these early versions of languages to their modern versions is called a diachronic approach
+- Since languages change over time, they can eventually split in two
+- Like when we discussed mutual intelligibility, dialects can become two different languages
+- When a language splits, they are part of the same language family because they share a common ancestor
+- Say if language A splits to become languages B and C, they would all be related and language A would be the proto-language or mother language
+- Large language families like Indo-European are separated into branches
+- Dutch, Danish, and English are Germanic, while French, Italian, and Portuguese are italic
+- Germanic splits further into west and north Germanic
+- The more recently two languages shared a common ancestor, the more closely related they are
+- When languages don't have a genetic relationship between any others, it is a language isolate
+- This could be because all other languages in it's family or branch have gone extinct
+- An example of this would be Basque
+- Artificial languages do not have language families because they did not emerge from other languages
+- Sign languages do have families just like oral languages
+- The problem with classifying by language families is that we have incomplete information on the history of language
+- There are many languages we have no evidence ever existed, and even more that are oral only with no living speakers
+- We can trace the development of Old English to English, but there is little real evidence of Proto-Indo-European, it's mostly just hypothetical
+- The comparative method is used to reconstruct languages by looking at cognates
+- This allows us to make a hypothesis to if and how two languages are related
+- However some theories are too difficult to prove, like a global mother language
+-

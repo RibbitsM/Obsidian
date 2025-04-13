@@ -1,0 +1,26 @@
+- The Stationary State is the point where the population approaches it's maximum capacity, and capital accumulation ceases to produce effectively
+- Inevitable outcome, but is delayed by technology and globalization
+- Ricardo believed that this would occur when the profit rate permanently fell to equal the interest rate
+- Malthus famously advocated for slowing population growth to delay the arrival of the stationary state
+- However, Mill embraced the idea of the stationary state
+- Basically, it marks the end of capitalism and the constant push of progress
+- Capitalism fosters greed, but the stationary state would enable us to cease pursuing ever growing production and instead be content with what we have
+- Eventually, we will transcend the constant struggles of capitalism
+- Would also reduce or eliminate the prevalence of war
+- We should try to amend education to make people less greedy?
+- People really just pursue wealth to be admired, it's a means to an end
+- Less developed countries should focus on improving production, but in Britain we should pursue distribution of wealth
+- Place a 100% tax on inheritance, no one gets a head start
+- Without the incentive of passing it on, no reason to accumulate more money than can be used in a single lifetime
+- May not solve the issue of population growth
+- Also, the stationary state will not be reached until all land is brought into cultivation
+- May curb the flourishing of the human spirit between the lack of nature and abundance of people
+- Mill loved romanticism, and believed in the inspiring power of nature and solitude
+- Because of this, we should try to preserve nature and biodiversity before we reach the stationary state
+- Criticized the purely beneficial nature of technological progress
+- It may not be making our lives easier or better, just making the rich richer
+- However, the process of accumulation may still leave to significant progress in philosophy and "The Art of Living"
+- Mill was a utilitarian, but did not see all pleasures as equal
+- There are lower and higher pleasures, and we should strive to fulfill higher-order and more sophisticated pursuits
+- Better to be smart and unsatisfied than dumb and content
+- Classic academic thing to say lmao

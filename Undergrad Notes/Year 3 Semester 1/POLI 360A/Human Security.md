@@ -1,0 +1,55 @@
+- Idea tied to a certain time period, less popular nowadays
+- Criticism of state-centered security
+- Cold War dominated by state security, end of the war opened the door for human security to be popularized
+- Early 1990s, bipolar world fell apart and threats were no longer as firmly attached to states
+- Post Cold War era will bring peace because communism was defeated and liberal ideas were being adopted in places like Eastern Europe
+- In the absence of state security concerns, people started to turn to human security as the main idea
+- Realism gained a resurgence post-9/11, and further with conflicts in Europe and the Middle East
+- Human security tied to the UNDP 1994 Development Report and the "Responsibility to Protect"
+- Human security was popularized by the Human Development Report and was deeply rooted in the time period of the mid-90s where post Cold War optimism was at it's peak
+- Aimed to change security thinking away from state dynamics and towards human rights and development
+- Goal was to enact change in academic and policymaking thinking
+- Human security refers to the interests of the common people, not limited by what state they are from
+- This big shift towards human security never really happened, state security is still the dominant framework
+- Many have argued that the theory is not clear enough, especially compared to theories like realism
+- Focuses on widening and deepening security, widening in terms of broadening the focus to new areas of politics and deepening in terms of which actors matter
+- Looks at daily and ordinary threats to security like disease, crime, and hatred
+- Does not disregard the importance of threats like war, but widens the focus
+- Four essential characteristics
+- Human security is universal and applies to people of all classes and nationalities
+- Interdependent, extends beyond local and international bounds
+- Easier to ensure via prevention rather than intervention after the fact
+- Human security is "people-centered" as opposed to state centered
+- Overall definition of human security is the "freedom from fear and freedom from want"
+- Looking at this you can see why it is criticized for being vague
+- UNDP report specifies 7 areas of challenge: political, personal, food, health, environmental, economic, and community
+- Economic security is defined as a guaranteed source of income, meaning safety net policies
+- Food security is having sufficient access to food both physically and financially
+- Health security is having sufficient access to medical care and medical prevention measures both physically and financially
+- Environmental security is its own whole discipline, focusing on conservation efforts
+- Personal security is safety from violence coming from other states as well as your own state, including ethnic, sexual, or gendered discrimination
+- Community security refers to having a sense of belonging in your community
+- Political security involves upholding human rights and democratic principles, advocates against political repression and control of media/speech
+- This is a massive scope, gives no clear idea of what needs to be prioritized
+- Failed to provide any sort of significant direction to advocates of human security
+- For two examples of states adopting human security, let's look at Canada and Japan
+- Canada focused on physical threats and creates policy for crisis prevention and conflict management, narrowing security to only "freedom from fear"
+- Japan established the Commission on Human Security in 2001 with the stated goal of "protect(ing) the vital core of all human lives in ways that enhance human freedoms and fulfilment"
+- Adopts the freedom from fear concept, but also freedom from want and a new concept of freedom for future generation to inherit a healthy world
+- Still insists on the role of the state, human security is seen as a complement to state security
+- Advocated for difference in thinking on terrorism, we should be preventing factors that breed terrorism like armed conflict and poverty rather than addressing it with military force
+- Hoogenson describes it as the freedom of an actor to identify threats to their values and to discuss and mitigate those threats with other actors
+- Differences between human and state security are entirely situational, and often align
+- The term "securitas" was coined by Cicero and refers to peace unaffected by emotions of anger or fear, where one is allowed to focus solely on their own development
+- Philosophers like Hobbes, Bentham, and Smith all theorized from the perspective of the individual
+- Later thinkers who placed the state as the main actor argued for a form of "trickle-down" security where a state that is safe from the outside keeps its citizens safe
+- Post-Cold War era was defined by a lack of state conflict, and an excess of marginalization, violent civil conflicts, and economic and political division between global north and south
+- In many situations, these civil conflicts were caused either directly by the Cold War or fuelled by Cold War era small arms proliferation
+- The 9/11 attacks were a huge blow to human security, the Bush doctrine was an explicitly state-based document with a focus on punishing states for the actions of terrorist organizations
+- The idea of state-sponsored terrorism adapted what could have been a flagship issue for human security into the state security umbrella
+- Human security has a lot of synergy with constructivism, especially with the focus on a wider range of agents and referent objects that have the power to define security
+- From this perspective, security can be understood by asking what values are prioritized in the construction of security, and who decides this?
+- Two opposing views on human security and the state
+- Some scholars tried to narrow it's scope, but this was criticized as losing its emancipatory potential
+- Runs the risk of putting security back in the hands of states
+- Challenged the authority of the state, it should only have conditional security

@@ -1,0 +1,5 @@
+- Need to collect demographic and infrastructure data, preferably by neighbourhood
+- Started in Soho district, so we should check there first
+- Cholera is spread mainly through poor sanitation so getting information on sewage systems and water treatment will be important
+- If we're sorting by district, then faceting will probably be required
+- Have one plot for Soho, then compare to all other districts in London

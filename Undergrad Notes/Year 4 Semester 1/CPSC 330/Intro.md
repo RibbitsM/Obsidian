@@ -1,0 +1,10 @@
+- Four main kinds of ML
+- Supervised, unsupervised, recommendation, and reinforcement
+- Supervised machine learning is similar to prediction algorithms, you are given a training set and use it to create an algorithm that can predict the labels of an unseen test set
+- Without having to explicitly program in the functions, the idea of machine learning is that the program will discover patterns on its own
+- This saves time, and can also uncover patterns that may not be noticeable to humans
+- We can also use machine learning for non-discrete response variables, not just applying labels
+- Example is predicting housing prices via regression
+- Usually the supervised ML workflow starts with a key question you want to answer
+- The next steps are to collect, clean, split, and explore your data to prepare it for modelling
+- The "features" of a model are basically just the input variables

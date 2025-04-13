@@ -1,0 +1,42 @@
+- Iron is a naturally occurring element, found in many places in the world
+- Steel is not an element, and consists of many different grades of steel depending on the chemical composition and the combination of iron and carbon or other chemicals used to make it
+- For example, stainless steel is an alloy containing chrome among other things
+- First evidence of wrought iron comes from the Middle East about 4000 years ago
+- Likely smelted in a "bloomery", a small clay furnace used in Egypt
+- This process refers to heating raw ore in a furnace to melt the metal and separate it from the other elements in the ore with different melting points, called "slag"
+- Early steel or iron produced this way was usually just used for tools or weapons, very small batches of metal
+- As technology evolved, the main issue was how to produce iron that was usable for manufacturing
+- The first step in the process was pig iron, which is the product from the huge blast furnaces used to melt the ore initially and had a high carbon content
+- Generally made from a combination of ore, coke/charcoal and limestone
+- On the other hand cast iron was developed later in Belgium and created much more product and higher quality compared to pig iron
+- This was used for cooking equipment like Dutch ovens and frying pans, as well as for fireplaces, cannons, and grave slabs
+- Could also be reheated to be turned into wrought iron
+- Iron and steelworks were selected mainly for their location, since slag heaps had to be located nearby
+- Charcoal obviously required wood as well, which led to mass deforestation around metalworks
+- In fact, furnaces were built specifically just to burn wood for charcoal
+- While this usually caused deforestation, there were sustainable practices called coppicing that were sometimes used to ensure that not too much wood was burned
+- Henry Bessemer created the process of making steel in the 19th century, initially for mainly military purposes since steel had a much higher melting point
+- A special furnace was used to convert iron to steel by melting it and mixing in other elements
+- Forensic evidence suggests that older steel, like the steel used to make the hull of the Titanic, had much higher levels of phosphorus and sulphur which reduced its durability
+- Modern blast furnaces are much less mechanical and use much faster heating methods
+- Over time, steel production has increased and reduced in many countries, with Germany and the US/UK being the initial main producers but giving way to the Soviet Union and Japan over time
+- Today, China and India produce a ton of steel, but Japan and the US still produce significant amounts
+- Iron and steel have obviously created many benefits like manufacturing, heavy industry, rail networks and ship-building, but have also caused many negative externalities
+- Increased deforestation and CO2 production from heavy industry have drastically altered Earth's carbon cycle, partly due to iron and steel production
+- Previously, we used to learn about iron and steel because it was a major technological turning point in history, but today we learn about it because of its connections to climate change
+- Climate science is going to be very influential on the future of economics, we are being faced with the question of how to construct policy going forward
+- How can we mitigate the effects of industrialization while doing it in an equitable way?
+- Most wealthy countries already went through industrialization, so should we be cracking down on the countries that are industrializing now and emitting the most?
+- This is a problem mostly constructed by the older generations, and now has to be solved by the younger generation
+- Some don't know about the issue, some think that they won't be affected in their lifetime, and others believe that technology will allow us to adapt
+- From an economic perspective, some have called climate change a market failure, the worst one in history
+- We should consider the externalities of economic activity, it is unethical to produce a good or service that imposes costs on another without accounting for those costs
+- The Pareto Principle tries to avoid this by defining efficiency as a state where reallocating resources will make someone worse off
+- Remember that one of the assumptions for perfectly competitive markets is that there are no externalities, but this is highly unrealistic
+- Since consumption in the past is causing negative effects now, there has been a market failure
+- Often, the costs of production do not affect those who benefit from that production
+- These issues are at the root of the many ethical concerns around climate change
+- Sir Nicholas Stern, an economist, wrote a comprehensive paper about the climate crisis seeking to address these exact issues
+- He argued that some regions are much more vulnerable to climate change than others, and often these regions were the ones who benefitted the least from industrialization
+- The question is if we can prevent climate change, or just mitigate its effects
+-

@@ -1,0 +1,15 @@
+- Tres preguntas cruciales de la clase
+- Los héroes, el amor, y la pobreza
+- España no existe en el siglo de oro
+- Antes de español, las lenguas principales fue como Latín, Íbero, Vasco, y mucho mas
+- España fue colonizado de los romanos, y mucho de la cultura de España es del origen Romano
+- Los leyes, la lengua latina, los ciudades, todo es de los romanos
+- Más pueblos vienen a la península antes, incluyendo los visigodos, los vándalos, y mas
+- Cristianismo llegue a España con los visigodos y los hispano-romanos
+- En año 711, encuentre con los musulmanes, y el comienzo de este y oeste empieza
+- Van a empezar con un voz musulmán, no de los héroes
+- El first rate intelligence de Fitzgerald en Latín se llama coincidentia oppositorum
+- Andalucí: un musulmane que vive en Andaluz
+- Mozárabe: un cristiano que vive debajo de España en los países musulmanes, escribió las jarchas
+- Mudejar: un morisco, o un cristiano que vestir y vivir como un musulmane (no puede ser un musulmane en España entre 1492 y 1609)
+- Sefardí: judíos que son conversos

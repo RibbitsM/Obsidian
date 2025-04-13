@@ -1,0 +1,29 @@
+- Person and Mcfaul paper, What Putin Fears Most
+- Response to the 2014 Mearsheimer article, written in 2022
+- Argues that there are two flaws in Mearsheimer's argument
+- The first is that NATO is only a variable source of tension between Russia and the West
+- Second is that what Putin actually fears is democracy, hence the name
+- Blames the 2014 article for popularizing the explanation of NATO enlargement as an excuse for Putin's actions
+- Notion has been repeated in other articles and by leaders as well
+- Realist solution is to take NATO membership off the table for Ukraine
+- Two flaws with this solution, the same as above
+- Putin already has blocked NATO expansion by invading Georgia, suggesting that there is another motivation
+- Argue that Putin will constantly attempt to undermine and overthrow democratic regimes on his borders
+- Putin seeks to install an autocrat in Ukraine, and denazification is just a façade for this goal
+- The article does not attempt to deny that Moscow fears NATO expansion, just that the fear has taken different forms
+- In 1997, Yeltsin agreed to the Russia-NATO founding pact, and even considered joining in the future
+- Other alliance have been formed between the US and Russia, such as after 9/11 to combat terrorism
+- The US and Russia have long cooperated on issues in Afghanistan
+- Even allowed the US to establish bases in Uzbekistan and Kyrgyzstan
+- Putin has on several occasions conceded the necessity of NATO and allowed other states such as the Baltics to join NATO
+- At the 2010 NATO summit, Medvedev discussed cooperation again and talked positively about the alliance
+- In addition to this, as the 2000s continued, NATO forces were shrinking and Russia's military was growing, despite the territory gains by NATO
+- Historical record does not support the thesis that NATO expansion is the only thing to blame
+- Argues that the cause of tension from 2014 onwards is the democratic breakthroughs of the 2000s
+- Beside the Arab Spring, there were protests and movements in Serbia and Georgia alongside several in Ukraine and even a pro democracy movement in Russia
+- When Milosevic was overthrown in 2000, Putin was upset but did nothing until the Rose Revolution in 2003 where tensions escalated until the invasion of Georgia in 2008
+- The Orange Revolution happened in Ukraine in 2004, but was a larger threat
+- The colour revolutions in former Soviet republics compromised Putin's sphere of influence in Eastern Europe, causing Russia to ultimately lash out
+- Mass protests erupted in Moscow and other cities after the 2011 elections, and relations worsened further when the regime change in Ukraine occured and Russia annexed Crimea
+- Ukrainian democracy is propped up as the main reason for Putin to fight, NATO is just a cover
+- Argues that NATO does not pose a threat to Putin since it's a defensive alliance

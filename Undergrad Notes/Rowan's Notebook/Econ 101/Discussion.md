@@ -1,0 +1,7 @@
+- Govt must have monopoly of violence
+- Tool of control, keeps the peace
+- Free Market vs Govt Control
+- Formal and informal defence of free market
+- Formal defence is that if prices are not regulated, they will naturally settle to an equilibrium
+- This creates both allocative and productive efficiency
+- Informal defense is that it increases coordination among firms

@@ -1,0 +1,104 @@
+- Sometime in 1920, Strasbourg was under siege from a large Asiatic army consisting of Chinese, Japanese, and South Asian troops that marched all the way from China
+- They had arrived at the Alps, were broken up by a landslide from Mont Blanc, and somehow made their way north towards Strasbourg
+- But this never actually happened, it was a story called The Battle of Strasbourg, written by Jules Lermina
+- This was not the only story written about Europe being taken over by Asian troops, but is probably the most sympathetic one
+- Emile Driant wrote a similar book called the Yellow Invasion which is quite different, lacking the sense that France had it coming present in The Battle of Strasbourg
+- He wrote many other books speculating about future wars, mainly about France being invaded by several ethnic groups
+- These were just part of a growing genre of "invasion literature" which was particularly popular in Europe
+- Appears in England, France, Germany, and even China and Japan
+- Quite a few of these were written explicitly as warnings to influence domestic military policy
+- One of the most famous examples is The War of the Worlds, written by H.G. Wells
+- Wells's depiction of aliens are inherently hostile and profoundly inhuman and merciless
+- There is a clear divide between the humans and aliens, with insurmountable differences and no avenue for dialogue or compromise
+- These are total wars, resulting in no or few survivors
+- On the other hand, most stories result in the invaders being eliminated almost entirely, sometimes with weapons of mass destruction
+- Thought at the time revolved heavily around existential struggle, either in Darwinian evolution or Marxist class warfare
+- Europeans expected wars of the future would be short, decisive, and destructive, fought between fundamentally different groups
+- While these would be extremely costly, they would somehow be worth it in the long run
+- Ironically, one of the most accurate predictions came not from a military man, but a Polish financier names Ivan Gotlib Bloch
+- He predicted that new technology would vastly increase the size of battlefields and require entrenchment, since close formation would be deadly
+- Attacking would be significantly more difficult, and wars overall were much deadlier
+- The costs would be immense to both sides and cause major long term environmental and economic damage
+- Because of this, war would inevitably become impractical and obsolete
+- This was all calculated from publicly available information, but was widely rejected
+- After the 1870 war, France decided to update its border defenses with a new system of walls and forts
+- Used steel and concrete for construction and consisted of outer and inner layers
+- But at the same time, artillery was advancing much faster than defensive techniques
+- For example, when the forts were first designed they were built with bricks, but by the time they were completed, shells could demolish brick walls
+- France had a long history of conscription at this time, so the Third Republic continued this pattern
+- Ironically, this new system was copied almost directly from Prussia, but they would never admit it
+- Not quite universal conscription, was moderated pretty heavily
+- This was due to concerns of revolution, but also budgetary constraints
+- Theoretically anyone could be called up to serve, but not everyone would
+- Soldiers were either career professionals or conscripts, professionals were obviously preferred but conscription was necessary to compete with Prussia
+- At the time, all major states except for Britain had mandatory conscription, and army sizes were growing significantly, especially France and Germany
+- Soldiers were becoming more and more respected, for example there's a photo of Tsar Nicholas II wearing a soldier's uniform, something that would never happen a few decades ago
+- In 1906, a Prussian con man leveraged this by buying a corporals uniform and started just ordering men around at a soldier's post
+- He took them to a small town, ordered the men to arrest the mayor, and stole all the money in the town hall
+- The French army was overall in a pretty bad state, especially considering its reputation
+- In 1894, French intelligence discovered there was a spy high up in the French military
+- Captain Alfred Dreyfus, an Alsatian and Jewish officer was court-martialled and punished horribly for being the spy, but it wasn't him
+- When the leaks continued after his imprisonment, the military realized their mistake and tried to cover up his false imprisonment
+- The coverup ultimately failed, and Dreyfus was pardoned and returned to the military but not before a national scandal broke out
+- All across French society, people were identifying themselves as pro or anti-Dreyfus, indicating your support of the Republic and the Armee
+- Opinions on the army were divided between the left and right, the left saw the conscripts as the core of the army while the right supported the professionals
+- The main assumption was that conscripts could only effectively fight defensively, and offense required much more training
+- This was particularly problematic considering the vision of future wars as fast and aggressive
+- Thinkers turned to Clausewitz and other romantic Prussian military writers, which led them back to examining Napoleon
+- In the search to copy the Prussians, they realized the Prussians were just copying Napoleon
+- Until the 1890s, most French military historians hadn't tried at all to study Napoleon's military achievements
+- The resulting discovery was that the French army worked best on offense when they could leverage the morale of conscript troops
+- This pattern was also recognized in their offensive successes in Algeria and their defensive losses to a more aggressive Prussia
+- There were three prominent scholars in particular, with one of them being Col. Charles Ardant du Picq
+- He believed strongly in the power of the human heart, the solution to war is within human psychology, not with weapons
+- He studied this by asking veterans to fill out a qualitative questionnaire that asked specifically about their battle experience
+- The main problem he identified was fear, both of failure and death which was amplified by new developments in weaponry
+- Du Picq believed that this fear could be mitigated by discipline and mutual confidence and solidarity
+- The other major thinkers were Marechal Ferdinand Foch and Lt Col. Louis Loyzeau de Grandmaison
+- Loyzeau believed in the power of aggression, when working towards a specific goal this would augment the esprit d'corps and confidence of the men
+- On the other hand, Foch argued that mathematically speaking, advances in technology actually favour the attacker
+- Overall, attacking was easier and helped manage fear and defending was less efficient and worse for morale
+- This view has been dubbed "Offensive a Outrance" or aggression to the extreme
+- Military men were increasingly adopting a view directly opposing Bloch's predictions
+- Even the French commander-in-chief of the army subscribed to this view, enshrining it in the Field Regulation for Large Units in 1913
+- This was essentially saying that artillery gets in the way of the offensive to let the soldiers move better
+- On the other hand, Germany was just building their guns bigger and bigger
+- French military doctrine was basically to go apeshit and maximize offensive action the second war broke out without regard for casualties
+- Generally horrible idea, especially considering what Germany was doing and the fact that Europe was on the brink of war
+- Tsar Nicholas II's minister of the interior saw this coming and cautioned against war since it would inevitably ruin both sides
+- France had been planning war against Germany since immediately after the Treaty of Frankfurt, and by 1914 they were up to Plan XVI
+- This was remarkably forward thinking, since it expected German forces to go through Belgium and was designed to intercept German forces around Brussels
+- This would have directly countered the Schlieffen Plan, but was too defensive and resource intensive and was rejected
+- Plan XVII completely ignored Belgium, and focused entirely on the Luxembourg and Rhine regions
+- The rationale was that to go through Belgium they would have to integrate their conscripts with the main army (which Plan XVI told France to do) and they would never do that (they did that)
+- On the Prussian side, the same aggressive rationale was being utilized but to much greater effect
+- The famous Schlieffen plan depended on Russia mobilizing much slower than France, and used 80% of the army to take France via Belgium in 6 weeks
+- It was a genius plan and also quite insane, and was tweaked slightly by Alfred von Schlieffen's successor, Helmut von Moltke
+- He decided to not send any troops through Holland, and left a few more troops in Alsace-Lorraine
+- Down in Austria-Hungary, the elites were coming to the decision that all of the country's problems could be solved through a big war
+- Instead of diplomacy, Austria should go full Darwinist mode and let warfare decide the status quo
+- The Austrian Chief of General staff, Franz Conrad von Hotzendorf advised that aggressive foreign policy would unite the divided country, and war was inevitable anyway
+- Encouraged the emperor to initiate several pre-emptive wars on Austria's neighbours, almost every year
+- His successor, Blasius von Schemua, was even worse, being a member of the Order of the New Templars, basically a giga-racism aryan supremacy occult group
+- Finally, in 1914 in Sarajevo the spark that this massive political tinder pile needed arrived in explosive fashion
+- Despite being murdered in his own country by his own people, the assassination of Franz Ferdinand was immediately blamed on Serbia
+- To try and force Serbia to war, they sent them a list of ridiculous demands which they almost agreed to
+- Then on July 28, Austria declared war on Serbia and everything went to shit
+- On August 6 they also declared war on Russia, activating a complex series of military plans and alliances
+- Almost immediately, the French military plan failed horrifically
+- The German defenders had a massive advantage, and their advanced artillery absolutely demolished French forces
+- 1/6th of all French casualties happened in the first month of the war
+- On the German side, the Schlieffen plan wasn't going very well either
+- The plan did not include any room delays or incidents, and their numbers and supply lines were significantly short according to the plan
+- When France stopped Germany at the Battle of the Marne in September, the last chance of Germany making their 6 week deadline disappeared
+- This resulted in a system of fixed battle lines stretching from the English channel to Switzerland
+- Von Moltke gave up almost immediately, declaring that the failure of the Schlieffen Plan meant that Germany was doomed
+- The result was exactly what Bloch had predicted, the two world wars were long, drawn out, destructive, and ultimately devastating to all parties involved (except for the US)
+- This was all very contrary to what people expected, no importance of morale but instead a focus on industrial production and firepower
+
+**The End of War**
+
+- Wars are inherently anti-social activities, but driven by social factors
+- War has had an enormous impact on society, especially the structure of states and societies in terms of capacity for warfare
+- Impossible to study the state without ignoring war as its main function
+- Also shaped cultural paradigms from Herodotus to Marx

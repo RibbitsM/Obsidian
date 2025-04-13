@@ -1,0 +1,35 @@
+- Recessive epistasis is another possible form of gene interaction
+- This happens where multiple genes act on eachother
+- When gene A is dominant, it makes a pigment pink instead of white, and the gene B makes the pigment blue
+- When both are dominant the result in blue, when both are recessive the result is white
+- In recessive epistasis the B gene is acting on the A gene
+- If A is recessive but B is dominant, the result is still white
+- B only acts on the result of A
+- This is the basis of epistatic interactions, a previous result needs to happen for another gene to function
+- Epistasis means "stepping upon"
+- This creates a 9:3:4 ratio rather than the traditional dihybrid 9:3:3:1 ratio
+- Of course this assumes that gene A creates a distinct genotype, it could also just enable or disable gene B without creating a visible difference
+- If the pink pigment was also just white, you'd have a 9:7 ratio instead of 9:3:4
+- Think of it as an aqueduct with three doors
+- If the first door is closed, nothing happens
+- If the first door is open but the last door is closed, it flows differently and so on
+- We can also have two genes combine to create a distinct result
+- If you have a gene that creates a red pigment and a gene that creates a blue pigment, the result is purple
+- Therefore a red parent and a blue parent can have a purple child
+- Effects of the genes are additive
+
+Polygenic Inheritance
+
+- Variation in continuous genes are usually a bell curve
+- Extremes either way are rare, and most are in the middle
+- This is caused by multiple different genes acting on a continuous phenotype
+- When looking at continuous variation in a single gene, we usually see incomplete dominance
+- This is when the heterozygous genotype gives a different result than either homozygous type
+- Looking at the population, you'll see that most individuals have a phenotype similar to the heterozygous result
+- Phenotypes vary with lifestyle, environment etc, but are still distinct in extremes
+- There are usually as many heterozygous individuals as homozygous
+- Say a homozygous dominant flower that is dark red mates with a homozygous recessive flower that is white, what will the result be?
+- Mendelian genetics would say dark red, but in reality its just normal red
+- 1:4:6:4:1 ratio, matches the distribution of a bell curve when plotted on a bar graph
+- Think of each dominant allele as one dose of pigment
+- Only in the case that both genes affect the same pigment

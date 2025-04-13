@@ -1,0 +1,69 @@
+- Focus is on why Kyiv persisted in pursuing pro-western foreign policy leading to the invasion
+- Ukraine civil society has driven the country to democratize
+- Ukraine is often depicted as a puppet stuck between Russia and the west
+- Many realists and neorealists see the crisis as a consequence of geopolitics and NATO enlargement
+- Focus on international dynamics, not domestic ones
+- Argue that Ukraine is just another front for the ongoing conflict between Russia and the West
+- These structural and geopolitical arguments are top-down perspectives
+- This method overlooks the agency of Ukraine in this issue
+- Even many liberal theorists still look at the conflict from the perspective of Russia
+- Ukraine has been consistently restricted and constrained by the international structure
+- It poses kind of a paradox, many assume that the thriving democratic movement in Ukraine is the fault of the West, but it emerged in spite of the West
+- Ukraine has always been treated as an outsider to Western society, always being a neighbour or partner state, but never a member
+- European Commission President Romano Prodi compared Ukraine's chance of EU membership being similar to New Zealand's
+- Gunter Verheugen compared accepting Ukraine into the EU as making Mexico part of the US
+- A common theme in democratic movements in Ukraine is a pleading for help from the West
+- NATO allies blocked Ukraine's application to the MAP, citing risk of war with Russia as the reason
+- For years, in the mind of many in the West, Ukraine was never a practical ally since they were a part of Russia's sphere of influence
+- So how did pro-Western movements emerge regardless in Ukraine?
+- For this we need to go beyond the neorealist blinders and look at Ukrainian civil society
+- In 2001, only 25% of Ukrainians trusted CSOs, and few people were involved in civil public activity
+- Trust in Ukrainian civil society was quite low prior to the Orange Revolution, mostly due to autocratic Russian legacy
+- Following the revolution, bureaucratic blockades on civil society were lifted
+- Even after this, vibrant civil society movements did not emerge since citizens were not very interested, Ukraine needed international aid not civil groups
+- After the Euromaidan in 2014, Ukraine began to stand out among the former Soviet states as a candidate for democratization
+- The cause for this can be found in Ukraine's protest culture
+- Western Ukraine used to be under the Austrian-Hungarian empire where a sense of agency developed under the liberal government
+- Eastern Ukraine was under the control of the Tsarist empire where they were denied participation in basically any form of politics
+- This is why East Ukraine has mostly Russian speakers, since Ukrainian was banned under the Tsar
+- Under Gorbachev's thaw in the 90s, many Ukrainians freed from the Gulag formed the Rukh
+- The revolution on granite, the first Maidan, led the groundwork for protests against Kuchma in 2001
+- Even before the Orange Revolution, Ukraine had an established history of protest
+- The revolution had little sway in the East, and ended with many unfulfilled promises which paved the way for Yanukovych to come to power
+- Despite little evidence, these revolutions have been depicted as the fault of the West
+- Yanukovych's corrupt state led to a brewing resentment among the public and sought to escape autocracy by going to the EU
+- Despite the weakness of CSOs in Ukraine, clearly the public is capable of mobilizing together to fight government corruption when possible
+- Refusal to cooperate with Russia was mainly an aversion to corrupt government
+- The Euromaidan was truly national, uniting the entire country including the East
+- Three main ways it shaped the government
+- Break with the corrupt political system
+- Decentralizing the power structure
+- Volunteers to support national security efforts
+- The Maidan has become the heart of Ukrainian politics
+- Ukraine was not embraced by the West not because of a lack of democratic will, but constraints imposed by geopolitics
+- The West would not accept Ukraine to avoid war with Russia, who see Ukraine as their territory
+- Very difficult and uncomfortable to explain this to Ukrainian society, and if Ukrainian leaders tried to explain this they would be deposed by the public
+- For example, when Kuchma and Yanukovych chose the pragmatic option of siding with Russia, mass protests were sparked
+- Fundamentally Ukraine does not wish to be under Russia's influence, and were punished by the international structure which came in the form of the annexation of Crimea
+- A similar case happened in Georgia when they tried to control South Ossetia, thinking the West would come to their aid
+- The west did not really respond to this issue, instead normalizing business relations with Russia and building Nord Stream 2
+- Of course the West will impose sanctions and disapprove of the invasion, they do not intervene
+- Despite the punishment, Ukraine has not surrendered, and formed a long term strategy to fight Russian aggression instead of capitulating
+- Putin did not like Poroshenko, he was stabilizing Ukraine and building it's economy, so he welcomed the Russian speaking Zelensky
+- He sought to find a diplomatic solution in Donbas, which was perfectly compatible with Russian influence
+- Criticized Poroshenko for antagonizing Putin and building up military, and the people listened and elected Zelensky who campaigned for peace
+- Established an advisory council between Kyiv and Donbas separatists, meaning Ukraine was essentially negotiating with terrorists with Russia as a mediator
+- Despite Russia promoting the conflict in the first place, Donbas may become a separate region
+- However there was backlash from western Ukraine, and Zelensky moved back to Poroshenko's plan
+- Again, a pragmatic solution from the leadership was blocked by civic society
+- Zelensky also saw the truth of the situation and realized that Putin was never his friend
+- Russia began to amass troops on Ukraine's border, and gave a list of demands to Ukraine
+- When the demands were rejected war started in February 24, 2022
+- Similar punishment as the first time, but now Putin would not stop at Crimea, he sought to destroy Kyiv
+- West imposed harsh sanctions etc, but similar responses to 2014
+- Western countries also offered Zelensky asylum, sign of acceptance of the invasion
+- Basically offering him the chance to give up and form a government in exile
+- Instead, Zelensky chose to stay and ask for military assistance instead of evacuation
+- In a disruption of the expected outcome and the national structure, Ukraine defeated Russian forces at the battle of Kyiv in March
+- In addition, Boris Johnson came to visit Kyiv the next month, a sign of change in West-Ukraine relations
+- The West expected Kyiv to be taken within days, but when they saw that Ukraine was resisting the invasion, they began to consider Ukraine being independent from Russia

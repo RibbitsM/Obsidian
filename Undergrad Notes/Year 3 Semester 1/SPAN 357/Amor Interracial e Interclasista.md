@@ -1,0 +1,15 @@
+- En siglo XV, mucho pasa
+- La creación de España, no mas feudalismo
+- Creación de la inquisición y el expulsión de los judíos, España es una país cristiano
+- Y llegada a América
+- También, el fin de caballería con el polvero y las noblezas ahora son cortesanos
+- Poesía es primaria cancioneros y romanceros
+- Prosa es sobre las caballerías, y el nacimiento de La Celestina, la personaje de la alcahueta
+- El teatro es muy religioso y cristiano
+- El romancero es el tipo de poesía fundamental en España
+- En español, todo es octosílabas, las música, la poesía, y cuando hablar
+- Poesía no estrófica, rima asonante, anónimos
+- Ser cantados, y pasado generación a generación por memoria
+- Son fragmentos, solamente parte de un grande historia
+- Muchos tipos, históricos, moriscos, fronterizos, y bretones
+- En siglo XVI las poetas grandes aparecen y escriben poesía con sus nombres

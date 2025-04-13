@@ -1,0 +1,90 @@
+- The 101st Battalion of the National Guard were an unruly citizens militia in Paris, an arm of the proletariat bent on rooting out the bourgeois of Paris
+- In the aftermath of France's war with Prussia, civil conflicts were extremely common, usually fuelled by the ideals of the French Revolution
+- The enemies of the National Guard were not another country, army, nationality or religion, but another class
+- Class warfare occurs between socio-economic groups and their allies, and is distinctly different from "class struggle"
+- Usually fought over access to economic resources or political power, and doesn't necessarily have to be violent as long as it's deliberately identified as war
+- Violent class warfare was very real at the time and often was in the form of urban or irregular warfare, although France had some examples of regular warfare
+- Really only appeared in the aftermath of the industrial revolution
+- Could also be used to describe individual acts of violence as part of a larger "war"
+- In France specifically, the first signs came from the revolutions of the 1830s to 60s
+- This evolved into full regular warfare in the aftermath of the Franco-Russian War
+- In the 1880s, assassinations became the common expression of class warfare, also called Propaganda of the Deed
+- Initially, the French Revolution was less economic but more defined by the feudal system, specifically the 3rd Estate vs the 1st and 2nd estates
+- Goal was to rebuild the French nation according to democratic values as opposed to absolutism
+- As time went on, the wealthiest members of the 3rd Estate began to separate from their poorer brethren and realized their interests aligned closer with the monarchs and aristocrats
+- By 1850, the lower class were pretty bored of the revolution and began to develop their own identity
+- The enemy of the people slowly expanded from the nobles to the rich
+- This was also the time of the Industrial Revolution and all the plights of the workers that came with it, leading the way for unions and workers rights
+- New revolutionaries argued that Liberty, Equality, and Fraternity had not been assured by the revolution
+- Louis Auguste Blanqui was a very important figure in the French worker's movement despite being more middle-class by birth
+- Karl Marx called him the head and heart of the French Worker's Party, basically a professional revolutionary
+- He was part of the Social Democracy movement which asked for a democratic republic but without the elements of free market capitalism
+- Believed that the full potential of the revolution would not be achieved without social control of the means of production
+- All means of creating wealth were participated in by everyone
+- Keep in mind most socialists did not believe in violence, but a certain sect thought that violent confrontation with the upper class was inevitable and necessary
+- The leading thought was that they just had to get the problematic kings out of power and then everything would be fine, but capitalism turned out to be a lot deeper engrained than expected
+- According to Marx and Engels, this was because social conflict is inherent to capitalism, and in all non-communist societies
+- Marx believed that conflict is a natural element of these societies because it is necessary for social change, so it can evolve towards its final form
+- Ties in with the paradigms of Darwinism and natural selection, just in economics vs biology
+- While Marx wasn't specifically talking about violent conflict, this was often interpreted as such
+- Blanqui believed in this, that even when it wasn't apparent there had been a constant state of war between the rich and the poor for centuries
+- Since theft from the poor was built into the fabric of life, the rich were the aggressors
+- Resorting to arms was the only way for a worker to defend themself from the system and get what they deserve from the state
+- Blanqui was no stranger to this, he was involved in many violent revolutions, creating whole rebellions and secret societies, being arrested many times
+- Once common method of revolutionaries was to barricade the streets, usually by ripping up the paving stones and then piling up furniture to block the street
+- A surprising amount of books and articles were written on revolutionary and urban warfare, even by Blanqui himself
+- These emphasized the creation of secret societies to fight the state from the shadows until you could get the sympathy of the people to form full citizens militias
+- But as military technology developed, the mood towards the viability of guerilla warfare soured
+- Revolutionaries needed to begin organizing for street warfare to directly challenge armies
+- Barricades needed to be tactical and well-engineered to withstand cavalry and artillery, and battles should be mapped out ahead of time
+- The 2nd Empire was not a good time to be a worker, Napoleon III was particularly hard on the left
+- At the same time, Prussia under Kaiser Wilhelm and Otto von Bismarck were expanding rapidly, and went to war with Austria to decide the fate of the German states while France stood by
+- Napoleon III believed that Prussia would help them annex Luxembourg in exchange, but this didn't happen
+- In addition, Prussia beat the Austrians in devastating fashion, which no one expected
+- The German Confederation was dissolved, and France got nothing in return
+- Prussia gained the northern German states, but still needed the south
+- Wilhelm's idea was to make France look like a threat so that the southern states would unify with Prussia to defend themselves
+- In 1868, Queen Isabella II of Spain was overthrown by a military uprising, and while they wanted her to be succeeded by a monarch, they didn't want another Bourbon
+- One major option was Prince Leopold Hohenzollern-Sigmaringen, who was a relative of the Kaiser
+- France did not like this at all, and demanded that he be removed from candidacy and also that no relatives of the Kaiser would ever be allowed to lead Spain
+- This request was also delivered in a fairly impolite manner, but Bismarck was able to spin this to both upset the German-speaking world, but also the French
+- The result was the declaration of war between France and Prussia in July of 1870, unifying the German states and France didn't bother to find any allies for the fight
+- Despite having superior arms and a better railroad system, France lost the war quickly
+- Prussia was able to summon a much larger army much faster than France, and overwhelmed the French defenses with their speed and aggression
+- The current French army relied on professional soldiers that were occasionally backed up by conscripts, but they had to mobilize many more citizens than usual
+- Even worse, Napoleon was captured during a battle and forced to sign an armistice and carted back to Prussia
+- Almost immediately this caused revolution in Paris, and the 3rd French Republic was formed
+- The new government did not accept the armistice, and continued to fight as Prussian troops approached Paris
+- The city was sieged, blockaded and bombarded for months, and while the aristocrats were able to leave, the workers were forced to remain inside the city
+- By 1871 both sides agreed that they should just give up, as the Prussians had no desire to conquer all of France, and the French were tired of fighting
+- Elections were held, and the new representative Adolphe Thiers agreed to the loss of Alsace-Lorraine and allow the unification of the German states alongside an indemnity of 5 billion francs
+- In addition, German troops were marched through Paris and the new Prussia was formed in Versailles to add insult to injury
+- This naturally enraged the French people, and sparked a desire to get revenge
+- The left, and many of their allies believed that the current government was defeatist and the real way to destroy Prussia was with the might of the people, not the military
+- Despite the republican character of the government, the populace were worried they might reinstate the monarchy
+- Also, most of these civilians had guns and even cannons that were provided to them to defend against the Prussians
+- When Adolphe Thiers gave the order to send troops to reclaim these cannons, the militia National Guard began to fight back
+- They saw it as a sign that the bourgeois Republicans were trying to disarm the working class, they revolted violently, shooting conservative generals
+- Without an army to defend themselves, the remaining government officials abandoned the city, leaving the National Guard to rule Paris
+- Elections were held for the Commune, the new government of Paris where all people living in Paris were allowed to vote
+- Most of the new elected officials were workers, and Blanqui was elected symbolic president
+- Women were granted suffrage and right to education, private ownership of means of production was abolished, all citizens were expected to fight in the National Guard, etc.
+- For many, this was the very first Worker's Government in history
+- Major landmarks in Paris were set on fire, both to set a smoke screen for the National Guard to hide them from the army and also to fight back against the bourgeoise
+- The participation of women in the Commune as fighters was one of its most significant aspects, and was heavily criticized by mainstream French society later on
+- On April 6, the Versailles Army invaded Paris and the revolution was brutally suppressed
+- In just one week, ten of thousands of Parisians were executed and hundreds of thousands were deported to various corners of the French Empire
+- This crushed the morale of leftist movements, reality set in that civilian militias just couldn't compete with the state
+- Began to move towards Gramsci's war of position, where the focus was put on making socialism the dominant idea through ideas instead of by force
+- While some still continued to use violent demonstrations to achieve this, it was not outright war but more like terrorism
+- Ties back into the propaganda of the deed, intention was to convince people to join the cause by exposing the oppression of the government
+- An example was the bombing of the Chamber of Deputies by Auguste Vaillant, an anarchist
+- He did this to frighten the bourgeois, to declare war on those responsible for social issues
+- Sparked an age of political assassinations mostly carried out by revolutionaries or anarchists
+- Generally not done because of something the figure did specifically, more like what they stood for
+- Public places were also targeted, anywhere where the bourgeois would congregate
+- Emile Henry, who bombed a Cafe in Paris in 1894, depicted the class struggle as outright war and he was just fighting back for his imprisoned and killed comrades and relatives
+- Dynamite was the chosen tool of these revolutionaries not for its lethality, but more for its spectacle and structural damage
+- Also represented innovation, it had only been invented recently by Alfred Noble
+- While Europe was technically at peace at the time, this was an unsteady peace enforced by arms
+- Marx and Engels predicted in 1870 and 1888 that Europe was moving towards disaster, and the increased aggression of Prussia would lead to continental war

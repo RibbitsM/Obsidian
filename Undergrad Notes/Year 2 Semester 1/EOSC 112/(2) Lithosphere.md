@@ -1,0 +1,23 @@
+- Rock gets older as you move away from a mid ocean ridge
+- A subduction zone is when an ocean lithosphere plate bends underneath the continental plate
+- Oceanic ridges appear at the boundary of two ocean plates, trenches appear at the boundary between ocean and continent plates
+- Mid ocean ridges are an example of a divergent boundary
+- Subduction of an oceanic plate underneath a continental one is an example of a convergent boundary
+- When two continental crust collide, one is forced up which creates mountains
+- Oceanic crust is heavier than continental crust, so it always goes down in a collision
+- Divergent boundaries on land are rarer, but an example is the east African rift valley
+- An ocean to ocean convergence is present off the coast of Japan, the Eurasian plate is forced up to form the islands
+- Which plate subducts depends on the density of each plate
+- Density depends on age, older rock is denser
+- Remember, rock gets older the further away you go from a mid ocean ridge
+- In continental convergences, neither plate subducts, creating mountains
+- Volcanoes can be found at both divergent and convergent boundaries
+- At mid ocean ridges the plates pulling apart allows magma to rise between the cracks
+- In subduction zones, the subducting plate is partially melted in the asthenosphere and bubbles up to the surface
+- When the rock melts it becomes very buoyant, warmer rock rises
+- There is also a third kind of plate boundary called a transform fault, where two plates are rubbing together moving in opposite directions
+- This causes no geographical signifiers, but causes earthquakes
+- Also called strike slip faults
+- Low magnitude shallow earthquakes occur at divergent faults
+- Continent-Continent collisions also associated with shallow earthquakes
+-

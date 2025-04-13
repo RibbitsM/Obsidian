@@ -1,0 +1,80 @@
+- The plains of Marathon were the site of an immense battle between the Persians and Athenians
+- Huge army from besieged and destroyed Eretria met a tiny Athenian and Plataian army
+- Entire population was deported back to Persia
+- The proportion would have been equivalent to the current US army fighting the current Greek army
+- The Athenians knew the Persian fleet was coming, and which way they were coming from, they were looking for a place to disembark their great army
+- The fleet chose the bay in front of Marathon as their landing location
+- Disembarked on the beach, and set up a camp
+- The Athenians and Plataians were already set up waiting for them
+- The actual beach was rather small, not enough room for the full Persian army to set up
+- Meanwhile the Athenians waited on the road, where days were spent waiting for each side to make the first move
+- Eventually the Persians decided to leave before the Athenians could get reinforcements
+- As they did, the Athenians charged
+- The resulting battle ended with only 200 Greek casualties to 6000 Persians
+- Persian army was routed and retreated to take the boats to Athens
+- When they got there, the Athenian army had marched across the peninsula and were waiting in formation
+- At this point, the Persians gave up and left
+- This was very early in Athenian history, start of Greek fame
+- Herodotus wanted to know just how this happened, and wanted to launch an inquiry (historia) into why
+- Hence the first historical text is born
+- The ultimate answer he reached was freedom
+- The Greeks loved freedom more than the Persians, and that's why they won
+- Without the Greco-Persian wars, Greek society may not have been able to properly embrace and understand the idea of freedom
+- War was intricately linked with freedom
+- Freedom was envisioned as being a dichotomy, master and slave
+- Also associated with government, tyranny was initially defined as government with a lack of freedom
+- Athens has been settled for a very very long time
+- Initially began as a few villages clustered around a fort
+- Over time, the government of Athens tended towards more civic freedom
+- Started with a monarchy, which fell apart to make way for an oligarchy
+- Especially hard time for poor people, much slavery
+- Eventually reforms became clearly necessary to avoid civil war
+- The factions came together to find a compromise and got Solon to create the new laws of the society
+- Created the social pyramid we know today, and banning debt slavery
+- Still didn't solve everything, factions was still there
+- A cousin of Solon seized power and became a tyrant
+- This wasn't necessary a bad government, the tyranny was actually popular
+- Peisistratos, the tyrant in question, was genuinely liked by the citizens and eventually died in office of old age
+- This is part of why tyranny was not initially a bad term
+- His sons were much less popular, and his successor, Hippias, was swiftly overthrown
+- This made way for democracy to emerge as the next system
+- However, this did not necessarily look like modern democracy
+- Every month, all citizens who wished to, would come together and discuss recent issues
+- "Voting" was generally decided by the volume of the response
+- Any motion could be raised by anyone
+- Once per year, a 500 person council that met every month would be elected from the assembly
+- They would rule for a year, and then were never allowed back into the council
+- There was also a smaller 50 person council called the Prytaneia
+- Archons were chief officers of the state, with the most important being the Polemarchos, the commander of the army
+- Archons were elected
+- Councils were usually determined by random lots, not by voting
+- For courts, 6000 jurors would be chosen by random who would debate the innocence of the criminal along with their punishment
+- All male citizens were required to serve 2 years in the army when they turned 18, and could be called back any time after that
+- This allowed Athens to summon a large army on short notice
+- Also, the decision to go to war was effectively decided by the soldiers themselves
+- Soldiers also benefitted personally from success in war, either by plunder or being paid by the state
+- Several classes of warriors from projectile throwers to cavalry
+- Most important were the hoplites, the spear and shield fighters
+- They would fight in a phalanx, or shield wall
+- The phalanx is very strong from the front, but weak from the side
+- Since most fighters are right handed, phalanxes would tend to move to the right when going forward
+- Also always nervous about being flanked, temptation to keep your phalanx as long or longer than on the other side
+- For example, at the battle of marathon, the right and left sides of the phalanx were thicker, 8 men deep but the middle line was thinner
+- This would allow the weak middle to buckle and the flanks would sandwich the Persian forces when they pushed forward
+- Echoes sporting events in a way, even playing field and same formation
+- Many other cultures saw the Greek way of fighting as ridiculous, why would you intentionally try to make war equal
+- Commonly assumed that the hoplites exclusively served under democracies, but they appeared under tyrants and kings too
+- There was a stark dichotomy between democracy and empire, Persia was seen as a culture of obedience
+- Greece on the other hand was a culture of freedom
+- In a scene in Herodotus, there is a deliberate decision to rule the country as an absolute monarchy since it is more efficient
+- There was also the assumption that Persia was going to impose this government on them
+- Many city states conquered by the Persians had tyrants imposed on them
+- Constant theme of other cultured being surprised that the Greek were able to make war without a monarch
+- Becoming more efficient in war was never a goal of democracy, just a side effect, bravery came from a lust for freedom
+- Also evidence that embracing democracy made Athens more bellicose
+- After becoming democratic, spending on war eclipsed all other state expenses
+- Politics of arete, Athens had a taste for the spoils of war and wanted more
+- Another possible explanation was simple greed
+- War brought honour to all of Athens, not just a single leader
+- Led to the rise of the demagogues, politicians who were able to sway large portions of the population through warfare and talk of honour
+- War as a means for acquiring political power

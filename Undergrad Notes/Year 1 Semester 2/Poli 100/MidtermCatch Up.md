@@ -1,0 +1,8 @@
+- Everything is political, it infiltrates all aspects of life
+- The state is the highest form of authority and has an unprecedented level of power
+- Power and authority are different but related concepts that are found everywhere
+- Democracy is a system that was designed to spread political power, is under threat
+- There are positive and negative freedoms, and some ideologies prefer one or the other
+- Justice can be referring to equality of opportunity or outcome, and there is debate on which is better
+- There are many political ideologies and it is important to understand the definitions of each
+- Format is three short answer questions (answer 2 in one page each) and two essay (answer one with four pages max)

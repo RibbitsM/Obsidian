@@ -1,0 +1,23 @@
+- The Russian Empire was substantially larger prior to WWI
+- The Soviet Union reclaimed this lost territory
+- According to principles of self-determination, the Baltic states became sovereign nations
+- This included Ukraine, but for only 4 years
+- The Soviets invade Poland in 1939 and expand to their original lines
+- Reclaiming the Baltic states were a key goal of Stalin
+- Conquered a significant amount of territory, pushing borders outwards
+- Clear interest in spreading boundaries and influence, occupied many republics that were taken from Nazi Germany
+- Established regimes sympathetic to the Soviets in many of these states by supporting local Communists
+- Promoted mobility within Soviet states, but prevented exit
+- Military occupation constantly present during the Cold War
+- Used for defense against western powers and to support local Communists
+- The KGB ensured that these states were not threatened
+- The Warsaw Pact was created as a counterpart to NATO, an alliance between Eastern European states
+- Reactionary, created in response to West Germany joining NATO
+- After Stalin dies, Hungarian Revolution occurs and Hungary promises to leave Warsaw Pact
+- Soviet military intervenes and kills many and displaces and jails many more
+- Sent a message to other states in the alliance to avoid the same fate
+- Khrushchev sought to step away from Stalinism and authoritarianism
+- The Prague Spring was a series of reforms made by the Communist Party of Czechoslovakia in 1968
+- This was met with a violent response from the Soviet Union and the rest of the Warsaw Pact
+- No resistance, the govt quickly undoes the reforms
+-

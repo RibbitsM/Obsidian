@@ -1,0 +1,76 @@
+- Two rival blocs, Athenian (Diluian) and Sparta (Peloponnesian)
+- Both wanted to ally with Boeotia, who had previously sided with the Persians
+- In 424, the Athenians plotted to knock out Boeotia who were allied with Sparta
+- Plot failed horribly, planned uprisings never happened so Boeotian forces were not drawn away from Attica
+- Despite this, Hippocrates still decided to invade and fortify the temple at Delion
+- On their way home back to Athens, the light infantry split apart from the hoplites who were ambushed by Boeotian forces
+- Pagondas, the general on the opposing side, arranged his men so that the right side was significantly stronger
+- This was not immediately apparent to the Athenians since the enemy stood on a hill
+- The Athenian right side surrounded a Thespian contingent and in the confusion, started killing eachother
+- At this time, Pagondas sent his cavalry around the hill, prompting them to flee
+- Simultaneously, the supercharged right Boeotian flank drove into the center
+- This battle was a catastrophe, single largest loss of Athenian life and about 14% of their army was lost
+- In the end, the Boeotians also laid siege to the fort at Delion with a primitive flamethrower
+- This battle was actually the first recorded example of tactics being used
+- Also first recorded instance of friendly fire
+- These statements should be taken with a grain of salt, there's likely a similar example in Chinese history
+- Example of experimentation with the phalanx
+- Marks warfare as a _techne_, basically an art or science that can be learned and perfected
+- Two separate _techne_s, _taktika_ or arranging troops, and _strategika_, how to be a general
+- _Taktika_ refers only to battle, _strategika_ refers to all aspects of being a general such as supply lines, morale, marching, etc.
+- Businesses established teaching people to be generals and books and manuals written on military science
+- The legacy of Delium was long lasting, the Athenians were forced to beg the Boeotians to retrieve their war dead
+- They were refused for 17 days since the Boeotians were so upset that the Athenians had fortified a temple
+- A play by Euripides called _The Suppliants_ was produced about a year after the incident and was set in Homeric times, but has similar themes
+- In the play, the Argives are refused when asking the Thebes to have their war dead back and the play is about their grief
+- Also about the horrors of war in general
+- Near the end of the 400s, works about the horrors and tragedies of war start popping up more often, urging peace with Sparta
+- Aristophanes was one of the main proponents of this
+- Compared to the war with Persia, which was for the liberation of Greece
+- Another notable work is Thucydides's History of the Peloponnesian War
+- Good comparison with Herodotus, war is rooted in greed instead of struggle for freedom
+- Doubts begin to emerge about how war should be fought and are troubled by the decisions made in war
+- Widespread feeling that this war was injust and should be stopped
+- Raised questions about how war was supposed to be, because clearly this was wrong
+- According to Socrates, Plato, and Aristotle, ideal societies should always be ready for war
+- However, they would also fight according to natural laws of virtuous behaviour
+- Plato was born among the survivors of Delion, and was heavily influenced by it's memory
+- A lot of the people Plato chooses for his dialogues are actually veterans of Delion
+- Another character is Sure-Strength, a stonemason who was also a veteran of the Peloponnesian war
+- Honoured by the Oracle of Delphi, name is roughly similar to Socrates in Greek
+- Plato was the founder of the first academy, and was a student and friend of Socrates
+- His academy included women, and unusual gesture at the time
+- Authored many dialogues
+- Created the thought experiment of the Kallipolis or Good City
+- Three layer structure
+- At the bottom is the Producers, people who are happiest carrying out the work they are best at producing
+- These producers will require protecting from envious outsiders and will be protected by the Guardians
+- Watchdogs who are obedient to the producers
+- The soldiers, the Auxilaries would be controlled by the Rulers who were the wisest of the soldiers
+- The producers represent the body, and the virtue of moderation
+- The Auxilaries represent the emotions, and the virtue of courage
+- The Rulers represent the mind, and the virtue of wisdom
+- These rulers would of course be philosopher-kings
+- Plato argues that a true ruler would not want to rule, and would have to be convinced to do so
+- An important part of the Kallipolis would be public education
+- Especially important for the Guardians
+- There would be no private property or families for Guardians, women would also be educated
+- Not just philosopher-kings, but philosopher-queens
+- War was still central even in this hypothetical utopia
+- Believed that a permanent state of war existed between all polis
+- The army of Kallipolis would be a virtuous republic, and would be correctors not enemies, and would not enslave or plunder
+- Benevolent army, huge reevaluation of the role of soldiers
+- For an example of one of Plato's students, we look at Aristotle
+- More of a Macedonian than Greek, and travelled to Athens to study under Plato
+- Eventually founded the Lyceum to oppose Plato's Academy
+- Pioneered formal logic, biology, physics, metaphysics, politics, poetics, and meteorology just to name a few
+- Most of his work has been lost
+- Worked on basically every imaginable topic
+- In his book Politika, Aristotle talks about war as an essential activity that can also be a profession
+- Describes war as an art of acquisition and compares it to hunting
+- Linked military and political power and thought they should be combined
+- Soldiers impose their benefits on others, they should not be forcing people to give them a use
+- Soldiers often justify their own vocation through force, doctors do not force people to let him cure them, they come to him
+- Aristotle frequently states that it is ok to go to war against people who "deserve to be enslaved", meaning barbarians
+- Overall, Greeks should be strong and prepared for war, but to treat other polis with respect and virtue
+- Treat others as you want to be treated

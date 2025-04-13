@@ -1,0 +1,28 @@
+- Spatial arrangement of targets or features can also affect spatial resolution
+- Low res is more than 100 m, medium res is less than 100 m, high res is less than 10 m, very high is usually planes or drones
+- Spectral resolution determined by number, location, and bandwidth of bands
+- Temporal resolution determined by orbit and swath width
+- Close elliptical orbits are usually polar/near polar orbits or sun synchronous orbits
+- A polar or near polar orbit is when a satellite orbits perpendicular to the equator, passing over the poles or very near them
+- This means that due to the earth's rotation, the satellite will pass over a different spot every orbit
+- A sun synchronous orbit means that the satellite passes over each spot on it's orbit at the same local time on every orbit
+- This means one complete orbit takes 24 hours
+- It also uses the same orbit as the polar orbit, but passes over the equator at the same time every day
+- Landsat is an example of a satellite that uses a sun synchronous orbit
+- Geostationary orbits can only cover a certain amount of the earth's surface
+- MODIS has a 2330 km swath width (wide) and covers the globe in about 1-2 days
+- Mounted on Terra and Aqua
+- 20 bands in visible and near infrared
+- 16 bands in mid infrared and ultraviolet
+- Moderate spatial resolution
+- Can observe thermal energy, wind patterns, cloud cover, ocean color, vegetation health etc.
+- Landsat has a 185 km swath width
+- Longest running public satellite program
+- Briefly private from 1985 to 1992
+- Uses the Thematic Mapper, Enhanced Thematic Mapper, and Operational Land Imager and Thermal Infrared Sensor
+- Worldview is a series of satellites owned by a private company
+- They specialize in high spatial resolution, so high that the images taken by worldview can even be used to determine the height of buildings
+- Typically, high spatial resolution satellites have low temporal resolutions because of their thin swath widths
+- However, the worldview satellites are able to angle their sensors at steep angles which increases their swath width significantly
+- Technically it does have daily temporal resolution, but only on specific targets
+-

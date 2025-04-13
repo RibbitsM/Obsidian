@@ -1,0 +1,6 @@
+- MODIS has fine temporal resolution but coarse spatial resolution
+- Landsat is the oldest program, has data from 70s to 90s
+- Moderate spatial resolution, moderate to fine temporal resolution
+- Worldview is private and has the finest spatial resolution
+- IceSat uses LIDAR and measures elevation, ice, clouds etc.
+-

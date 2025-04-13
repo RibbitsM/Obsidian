@@ -1,0 +1,124 @@
+**Lecture 1**
+
+- Overall, Asian countries have especially successful in economic terms
+- Japan has never been classified as an LDC but it also doesn't necessarily fit into the Western model
+- Most of the success of Japan and the Asian tigers has been due to government policy and powerful MNCs
+- While these countries are considered LDCs or at least they once were, they are certainly very different compared to other countries in the so-called "Third World"
+- Basically all success stories in South Asia did it by following the Japanese model of ISI
+- The fact that development within LDCs has been so uneven calls into question the logic of the entire category
+- Remember that the only thing these states really have in common is a history of colonization
+- There were periods of Third World unity as in the Non-Aligned Movement and the NIEO, but especially the NIEO and Group of 77 really exposed the inequalities among LDCs
+- States moved in vastly different regulatory directions mainly because of their histories with MNCs
+- In fact, some LDCs like Singapore have per capita GDP surpassing many advanced industrial states
+- These countries aren't just places where MNCs go, but now where they come from
+- China, which was supposedly a developing country for most of its history, is now a superpower
+- The key thing to keep in mind that none of this was a miracle of market forces or pure chance, it was the result of government policy
+- Almost all Southeast Asia countries have pursued ISI, but the Asian Tigers are the most successful at it
+- Special Economic Zones, also known as Export Processing Zones or maquiladoras in Mexico, are extremely common in Asia
+- Mostly exist to attract FDI, basically didn't exist until the post-WWII period
+- Generally seen as a phenomenon in the developing world, but the first SEZ was actually in Ireland
+- SEZs account for 22% of China's total GDP, 60% of its exports, and 46% of it's inward FDI
+- SEZs have to be separated geographically from the rest of the country, and are usually located in coastal areas close to major shipping ports
+- The point is to provide deregulated areas where FDI can come in, use the region for low value-added manufacturing, and then ship off the products as exports
+- Labour comes from the local area, but the investment mainly comes from MNCs
+- Attract FDI by reducing or eliminating taxes, labour rights and other regulations/restrictions, and provide extremely cheap labour
+- Called Export Processing Zones because the goods are being manufactured are not meant to be distributed to the host country
+- In fact, most plants in these areas are actually pre-fabricated, when an MNC leaves an SEZ they just leave the factory there and another company can take its place to manufacture their goods
+- Also quite common in South and Central America, Mexico and Guatemala are prime examples
+- This is generally what people are referring to when they say "sweatshop"
+- Majority female workforce, usually between ages 14-25
+- The textile industry is especially prevalent in these zones, practically all textiles that are currently being produced come from these zones
+- Sporting equipment and consumer electronics are also common in these areas
+- Higher-tech goods like laptops and phones generally are assembled elsewhere, but as diffusion continues eventually more and more complex electronics find their way into SEZs
+- The main benefit for the host country is the money gained from exports
+- This can lead into a trap where the country becomes overwhelmingly dependent on exports without actually developing, but Japan and China managed to solve this
+- China is also creating its own SEZs in other countries, mainly in Africa
+- Dependency theory addressed this issue, saying that LDCs should prioritize developing domestic manufacturing capabilities to avoid becoming dependent on FDI
+- Latin American context led to repressive authoritarian governments, while Asian countries mostly moved towards hyper-liberalized trade economies
+- In Latin America, MNCs inherited the imperialist system of development
+- But the conditions in Asia allowed Asian MNCs to develop their own domestic industries post-colonization
+- We can see this in the disparity between the Philippines and the rest of ASEAN
+- The Spanish model of colonialism basically destroys the country entirely and is very difficult to recover from
+- But the former British colonies were left with much more competent governments
+- There's also the political environment, South America was subject to the US policy of containment during the Cold War
+- Also happened in Southeast Asia, but in a very different way
+- To promote market capitalism in Asia, the US allowed them to pursue a neo-mercantilist policy for the purpose of containing communism
+- In South America, this basically just meant maintaining anti-communist dictatorships
+- America allowed Japan to develop independent of the US for political reasons, when they would have pushed back heavily outside of wartime
+- The Cold War was the perfect time for these countries to pursue a state-centric policy, because the political climate of the time was right
+- Japan is a developed country, but it did industrialize much later than most countries
+- Militaristic culture lasted right up until the end of WWII
+- Japan had pursued neomercantilist policy for most of its history, but it really ramped up following US occupation
+- Two important policies: Import Substitution Industrialization and Export Promotion
+- Coming out of WWII, Japan had absolutely no resources to trade or any sort of comparative advantage
+- But these policies allowed them to create their own comparative advantage
+- By creating a massive bureaucracy called the Ministry of International Trade and Industry, Japan was able to achieve ISI
+- When Macarthur became the ruler of the occupation government in Japan, the first thing he did was break up the zaibatsus
+- Within years, the began to reform, but no longer family owned
+- He was going to break them up again to try and reform the economy, but US said to let Japan recover to avoid slipping into communism
+- Japan heavily subsidized industry and accepted limited FDI to copy high value-added products and make them cheaper through heavy subsidies
+- Basically created a robust manufacturing industrial sector via heavy government involvement and artificial manipulation of currency values etc
+- Once these sectors had developed, Japan switched to Export Promotion by taxing Japanese goods very heavily domestically to encourage increased exports
+- Final phase was multinationalization, eventually the keiretsus were allowed to expand outside of Japan
+
+**Lecture 2**
+
+- After the zaibatsus reformed as the keiretsus, some of the largest retained their former names
+- Some important names were Mitsui, Mitsubishi, Sumitomo, Fuyo, Sanwa, and DKB
+- Another group was formed called the independent corporate group, made up of several household names like Toyota, Hitachi, and Sony
+- MITI was formed in 1949
+- Prior to the creation of the US department of Homeland Security, this was the biggest bureaucracy ever made
+- Contrary to the free-market model of economics, this was a producer-oriented system
+- MITI decides who produces what and how much, not the market
+- Initially pitched as a way to revive the Japanese economy
+- Similar process to what Russia did at the end of the Cold War, instead of becoming a global actor right away they had to rebuild and restructure
+- Unlike Canada, Japan definitely does have a clear industrial policy, and MITI is at its heart
+- If Toyota was growing in the US at the same time, it almost certainly would have been broken up, but MITI encouraged this behaviour
+- Did not ignore competition entirely, but manufactured it
+- Sectors weren't run by monopolies, but by a specified number of competitors
+- Coordination of foreign and domestic economic policy with business growth
+- Exports were heavily controlled in the early years, capitalized on the dual structure of the old agricultural industry and new manufacturing industry
+- Intentionally tried to keep old dying industries from disappearing to ensure domestic stability
+- Eventually, the most polluting industries were moved to countries with more lax standards
+- MITI also coordinated and helped fund private R&D to offset risks
+- Reorganized into METI (Ministry of Economy, Trade, and Industry) in 2001 and shrank significantly
+- No longer as concerned with foreign economic policy, at this point the "infant industries" had fully matured and were allowed to conduct their own activities abroad
+- Also once the Cold War ended, the US began to put more pressure on Japan to liberalize
+- By the 80s, US-Japan relations had deteriorated significantly, mostly because of MITI
+- While the Japanese state had some control over MITI, a bureaucracy that large is not dismantled easily
+- Took them until 2001 to cut it down to size
+- Keiretsu were no longer family-run, but now characterized by an association of companies, usually formed around a bank
+- These banks formed the core of the Keiretsu, usually with an accompanying trading company
+- Also includes an insurance company, investment firm, etc.
+- All these companies would be interlinked, sometimes sharing assets
+- Some are integrated horizontally, but some like Toyota are vertically integrated
+- In this case, there's the Toyota Motor Corp at the top, and then its smaller banks and trading companies are underneath it
+- So large, Toyota has formed its own city in Japan specifically for automotive production
+- Instead of the decentralized production we have in America, everything is done in one place
+- Closely tied together not just through production lines but also sharing of assets
+- Not necessarily the same company, just a bunch of smaller companies tied together
+- Some examples of horizontal keiretsus are Mitsubishi and Sumitomo
+- Not independent keiretsus like Sony and Toyota, but an association of many different diverse firms
+- Once export promotion begins and Japanese products start flooding foreign markets, MITI really starts to become a symbol of aggressive Japanese economic policy
+- FDI into Japan was very small, but generating massive trade surplus
+- Essentially economic warfare, and America really isn't in the mood for it after Vietnam
+- Recall how OPEC oil shocks led American consumers to switch from gas-guzzlers to Japanese compacts
+- In June 2006, FDI was only 2.5% of total GDP, where in places like Britain, France, and Canada it was around 30-40%
+- This is all after heavy restructuring done in the 90s
+- Core issue for America was that American companies were not being allowed into Japan, and on top of that they were outcompeting American domestic industry through export promotion
+- Began lobbying Japan heavily to liberalize, but seemingly got no response from Japan
+- The structure of the Japanese bureaucracy meant that Japanese politicians sympathetic to American pressure couldn't do much to change anything
+- Most liberalization in Japan has not been a process of American influence, but MITI's own priorities
+- Japan's FDI does emerge as keiretsus are allowed to expand globally, but much slower than trade expanded
+- Outward FDI from Japan grows fairly rapidly in the 80s, and by 1988 Japan is producing a car every 5 seconds and General Motors is becoming extremely worried
+- At the time, General Motors was the largest private corporation in history, with a stock of capital exceeding the entire nation of Denmark and Toyota easily surpassed them
+- Japanese cars are now beginning to surpass American cars in quality as well, and start to break into the luxury market as well
+- A flashpoint in US-Japan relations was when Sony bought Columbia Pictures in 1989
+- The next year, Matsushita buys MCA, another major American production company
+- Compared to other multinationals, Japanese MNCs tended to invest very aggressively
+- Instead of just entering an industry, they try to take over the industry by controlling every part of the process
+- For example, Sony created the Betamax to get into the physical movie industry, but they also wanted to own the production companies making the movies as well
+- The first movie Sony created was the Last Action Hero, and almost immediately sold Columbia
+- The same thing happened with MCA, which actually got sold to Seagrams
+- Panic around Japanese MNCs infiltrating American culture began to ebb a little once everyone realized they didn't really know what they were doing
+- Rise in Japanese FDI also rose after tariffs were put on Japanese goods, leading MNCs to jump the tariff and just start producing in the US instead

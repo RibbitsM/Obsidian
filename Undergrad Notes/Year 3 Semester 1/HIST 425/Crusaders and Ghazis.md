@@ -1,0 +1,93 @@
+- The Ottoman empire took Nikopol fortress in 1395, another toppled city in their vast expansion from Thrace into modern day Bulgaria
+- This invasion gave them a stranglehold on the banks of the Danube and placed them on the borders of Serbia and Hungary
+- The King of Hungary appealed for aid in 1392, particularly to the King of France
+- Connections at the time between Luxembourg and France
+- Asked for a Christian army to come support the battle against the Muslim Ottomans
+- The pope wrote a papal bull, invoking the tradition of the "crusades"
+- Would forgive the sins of those who agreed to join an armed pilgrimage
+- The Crusades were not exclusively against Muslims, although many of them were
+- Also crusades against orthodox Catholics, heretics, and pagans at times
+- Idea of holy wars where knights could act as men of God without joining the clergy
+- Popular interest, tens of thousands of Frenchmen, Burgundians, Hungarians, Croatians, and Wallachians all signed up
+- Venice also donated a significant contingent of ships
+- Instead of just defending borders, crusaders had a vague goal of pushing the Ottomans back towards the black sea
+- Hit their first obstacle at Nikopol as the army had no siege engines
+- While the crusaders were attempting to starve out the citizens of Nikopol, an Ottoman contingent arrives
+- Both sides of the conflict were fundamentally religious warriors
+- Sultan Bayezid saw his soldiers as a holy army as well
+- Sigismund suggested that they send out Balkan scouts to soften up the enemy and get a better view of their array
+- However, the western knights insisted on being the first in the charge
+- Bayezid had expected a heavy Western cavalry charge and arranged his troops as such
+- Question is how groups make war for religious reasons over the long term as crusades, jihad, etc.
+- Also how islamic ideals and Turkic traditions created a new state
+- Turk means someone from Turkey, Turkic is a linguistic term, and Turcoman is a category of pastoral nomads
+- Clear distinction between the Turcomans and Turks, but they have extremely similar names
+- We are going to talk about the Oguz Turks who lived in modern Turkmenistan
+- Had a very similar organization to the Mongols
+- The term Sultan emerged after the takeover of the Abbasid Caliphate by the Seljuks
+- Two big problems, one was the migration of people to the middle east
+- Now that the Seljuks were the status quo, more turkic people migrating it was a threat to them
+- Instead, they sent them towards Constantinople and the remnants of the Roman empire
+- Their border defenses mostly kept the Turcoman raiders at bay, but over time retreated from modern day Turkey after several defeats
+- Massive influx of Turkic peoples into Anatolia
+- The Seljuks themselves were struggling greatly to create stable leadership and began to splinter
+- A branch of Seljuks created the Sultanate of Rum in Anatolia and established relations with the Eastern Roman Empire
+- This was when the Mongols showed up, spelling disaster for the Seljuks
+- When they didn't surrender to the Mongols, they attacked
+- They were allowed to keep their capital, but the Sultanate was basically shattered
+- Turcoman chieftains began to gain more influence and act as warlords
+- Osman was the heir to a small territory in Anatolia, and was second generation Muslim convert
+- Received a vision as a young man saying he was destined to rule the world
+- Attracted soldiers with the promise of constant war as the Roman empire was a days ride away
+- He built his empire and eventually died being succeeded by his son Murad
+- When Murad finally fought his way into the Balkans, he found the entire territory devastated by years of war
+- Romans, Bulgarians, Serbs, Bosnians, Moldovan, Wallachians, etc. had been fighting bitterly for centuries
+- The Serbs and Bulgarians were defeated, especially important event was the battle of Kosovo
+- Sultan Murad was assassinated in this battle, but was succeeded by his son
+- Eventually, the Ottomans were able to conquer basically the entirety of the Balkans, and hold onto most of Central Asia
+- But how did they do this?
+- The Ottomans had no technical advantage, secret weapon, etc.
+- A word that was very special for the Ottomans was _ghazw_
+- Initially applied specifically to Bedouin warfare, raiding for plunder
+- Distinguished clearly from vengeance and territorial conflict
+- Also applied to the expeditions of the Prophet, giving it a slight religious meaning
+- _Jihad_ was another important word, and meant to struggle, strive, or fight for the sake of God
+- A _mujahidin_ was one who fights, and could be used ethically as in one struggling for self betterment or to mean war against enemies of Islam
+- For the Turcomans, _jihad_ was the same thing as _ghazm_
+- Took the idea of Bedouin raiding and making it sacred
+- This led to the formation of the Ghazi thesis
+- Basically establishes that Osman and his successors were nobodies, and all they really had was faith
+- Forging a frontier empire under the banner of Islam and _jihad_
+- Key holding everything together was the appeal to Muslims
+- Allowed the Ottoman Empire to incorporate the best Muslim fighters in the region
+- Plenty of evidence of the Ottomans as holy warriors in Ottoman texts
+- However, most of this is from the 1500s
+- During the 1300s, they were much more accepting of non-Muslim peoples
+- Idea of _istimalet_ or alignment, constructing an empire by accepting all new peoples who wanted to join
+- Interestingly, there is even evidence of large numbers of Christian Ghazis
+- After being defeated, the Romans and Serbians did not disappear, they often joined the Ottomans and were allowed to collect taxes
+- Many Serbian and Byzantine knights fought as soldiers in the Ottoman state
+- In fact the son of the last Serbian czar was also one of these soldiers
+- There were also volunteered or levied fighters who were Christians
+- In some cases, non-Muslims were preferred over Muslims for these volunteer forces
+- Often these soldiers were nominally Muslim, but this was merely performative
+- The reason Bayezid sometimes preferred Christians because often the army would be fighting Muslims which the Muslim troops objected to
+- Bayezid was an infamously poor Muslim, and a notorious drunk
+- Ghaza appealed to both the Turcomans and the more educated Muslim scholars (ulema)
+- It also appealed to non Muslims, it was a very profitable venture
+- Several founding fathers of the Ottoman
+- Osman, a second generation Muslim convert
+- Turahan, a Muslim Turcoman
+- "Beardless" Michael was a converted Byzantine officer
+- Finally there was Evrenos who was likely a converted Serb/Catalan mercenary
+- It appears that it may have been possible that the Ottomans were never devoted Muslims but just in it for the plunder
+- In the case of the Ottomans, religion was a force multiplier and augmenter
+- This "plundering confederacy" borrowed Islamic ideas of _jihad_ to create a state based on _ghazm_ that resulted in a Christian crusade
+ 
+Dec 1:
+ 
+1. In these texts, how is the success of a gazi measured?
+ 
+2. What connections can we make between the success of the Turks and Khaldūn's theory of ʿaṣabiyyah, if any?
+ 
+3. In each of these four texts, what does religion mean to each gazi?

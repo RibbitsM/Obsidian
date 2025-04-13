@@ -1,0 +1,31 @@
+- El siglo de oro fue el siglo XVI, el siglo dieciocho
+- No hay los reyes Católicos, pero el Imperio de los Habsburgos de Austria
+- Sigue dos modelos de expansión, en América y en el Mediterráneo
+- El imperio no es un invención de España, aparece con la autoridad de los Habsburgos
+- En América hay conquista total, en la forma Castellano
+- El expansión en Italia sigue el modelo Aragon, con esclaves por comercio
+- La decadencia aparece en Siglo XVII, con ruina económica
+- Todo el dinero fue gastado en las guerras, y pobreza es frecuente
+- Muchas desocupadas, mendigos, etc.
+- Por el religión, estamos después de el expulsión de los moriscos y conversos in 1609
+- Erasmo de Rotterdam creía el Erasmismo y vuelta al Evangelio
+- Después, Lutero creía la reforma protestaste con el ayuda de la imprenta
+- Las erasmista y los iluminados son sospechosos para la Inquisición
+- Por eso, el autor de Lazarillo es anónimo
+- España se cierra a Europa, nada estudiantes puede salir
+- La novela es muy popular en España, Lazarillo es un ejemplo de una novela de "El picaro", y Don Quijote es un ejemplo de una novela de "El caballero", pero un satirio
+- También hay novelas sentimental, pastoril, italiana, moriscas, y bizantinas
+- Lazarillo es diferente, no es un mundo perfecto o ficcional, pero represente la realidad fea
+- Lazarillo es la primera novela picaresca, y inspiran Cervantes para creer Don Quijote
+
+**Lazarillo**
+
+- Autor anónimo
+- Lo ordinario como extraordinario
+- Una historia de un niño creciendo en la pobreza
+- No presenta toda la realidad, pero tiene temas y personajes de la realidad
+- La estructura es epistolar, es una carta
+- Autor escribe todo su vida como una analepsis
+- Lazarillo fue dirigido por "vuestra merced"
+- Los hidalgos no trabajan, pero necesitan que mantener honra y apariencias
+- Hidalgos son nobles, pero no tenían el dinero de un noble

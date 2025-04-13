@@ -1,0 +1,45 @@
+- First photos from space were from an American V2 rocket
+- An unmanned rocket that was launched into orbit
+- Captured the photos on film and ejected it in a capsule
+- Showed the curvature and horizon of the earth
+- After this, more programs devoted to taking photos of the earth from space were pioneered by the US military
+- The CORONA satellite was the first of these projects to orbit the earth successfully
+- The first environmental earth observation satellites were weather satellites
+- Today most weather satellites are geostationary
+- MODIS is one of our best research imaging technologies
+- It is on the Terra and Aqua satellites, and has a 1-2 day return period
+- This gives it very fine temporal information, but coarse imaging
+- Landsat is another common satellite we use, it's considered one of the most valuable satellite systems for earth observation
+- It has a 30m pixel resolution and a 16 day return period
+- This gives it moderate imaging and moderate temporal information
+- Landsat is a series of 8 satellites, and it is the oldest earth observation data set we have
+- It was actually 9 satellites, but Landsat 6 never made it to orbit, the newest is Landsat 9, launched in 2021
+- The original dates back to 1972
+- MODIS and Landsat data is open source, meaning it is free to access for anyone
+- In contrast, DigitalGlobe is a private satellite company that has launched several fine imaging satellites
+- Their most recent satellite, Worldview-4, has spatial imaging so fine it can see pixels down to 30 cm wide
+- The ICESat uses LIDAR instead of traditional imaging technologies in order to measure elevation of ice, clouds, and land
+- Very small swath width, only 70m
+- Used for building accurate 3d models of the earth's surface
+
+Canada
+
+- Canada has a great need for earth observation, it has a wealth of natural resources to monitor
+- Canada has made four key contributions to earth observation
+- These are contributing astronauts, Radarsat, the Canadarm(s), and Urthecast
+- Chris Hadfield took over the ISS in 2012, the first Canadian to do so
+- He was also the first Canadian to walk in space, and installed the Canadarm 2
+- Roberta Bondar is a neuroscientist who researched effects of microgravity on the human body on the ISS
+- Canadarm 1 was installed on the NASA space shuttle in 1981, 5 were made and mounted on various space shuttles
+- Canadarm 2 is permanently mounted on the ISS and is an evolved second generation arm, there is only one
+- Radarsat is a satellite that uses RADAR (C-band radiation) instead of traditional imaging
+- This means it uses radio waves to image the earth, and it's used to monitor ice, wind, pollution, ecosystems, and ships
+- There are two Radarsats, the first was launched in 1995 and the second in 2007
+- It was the first civilian RADAR satellite
+- The main advantage of Radarsat is that it can see through clouds and can image sea ice and snow
+- There is also the Radarsat constellation which is launched by SpaceX, and is a series of three satellites working in tandem
+- It has a much higher spatial resolution, down to 3m
+- Urthecast is a Vancouver-based company that operates a video camera mounted on the ISS
+- Takes HD videos from low earth orbit and can track objects on earth
+- The company is now called EarthDaily
+-

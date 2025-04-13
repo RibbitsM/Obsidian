@@ -1,0 +1,91 @@
+- All enforcement requires chapter 7 authorization which can be vetoed by any member of the P5
+- Outcasting is usually presented as an alternative to real enforcement, but is less effective
+- No enforceable requirement for states to recognize the jursidiction of the ICJ
+- There is a notable double standard in the international system, UNSC can authorize use of force without the consent of the state in question
+- Armed responses are carried out by coalitions of forces from member states
+- Article 2(4) bans the use of force, but it's unclear exactly what use of force consists of
+- This is partly contradicted by article 51, which allows the use of force for self-defense
+- Article 51 also provides for collective self-defense, other states can ask for aid or answer calls for aid
+- Only applies to UN member states, and this overrides Article 2(4)
+- A major question here is whether or not pre-emptive self defense is allowed by article 51
+
+**War in Ukraine**
+
+- The major question is whether or not Russia's invasion of Ukraine violates international law
+- Russia has certainly attempted to justify its actions
+- Crimes of aggression are given significant weight, but have not been prosecuted since the Nuremburg trials
+- There is a certain threshold to be met, minor violations of territorial integrity are not considered sufficient to be crimes of aggression
+- Some conflicts are not intense enough to be considered "conflicts"
+- According to the Tadic trial at the ICTY, a conflict needs to surpass this threshold for war crimes to be prosecuted
+- This also applies to proxy wars, to be an active participant a state needs to be planning and supervising operations, not just providing support
+- Formal declaration of war is irrelevant, what really matters is what's happening on the ground
+- Threshold is determined by frequency, duration, and seriousness of conflict
+- This includes considerations of casualties, types of weapons used, forces deployed, and involvement of governments
+- Purpose of this is to distinguish armed conflict from riots or random acts of violence
+- Cyber attacks are a weird middle ground, international law has yet to determine how to handle new kinds of warfare so for now they are considered outside of war
+- Russia uses intervention by invitation to justify invading Ukraine, similar to how they justified their involvement in Syria
+- The real question here is whether Luhansk and Donetsk can really be considered independent states
+- Self defense is also beholden to the principles of necessity and proportionality
+- Being attacked does not give you a blank check under international law, your response must be necessary relative to the attack and proportionate to the damage caused
+- This does not mean equating casualties, "eye for an eye"
+- Principle of necessity comes from customary international law, and requires the state to seek any other means of preserving peace before resorting to war
+- Ironically, this is also where the justification for pre-emptive self defense comes from
+- Gets even more murky when we try to apply these principles to non-state actors
+- In a 2021 UNSC meeting Russia argued that to justify invoking article 51 in response to a terrorist attack a state must receive permission from the state where the attack came from to be justified
+- However, this only applies if the state in question has been shown to actively combat these terrorists and has openly cooperated with other states to do so
+
+**Specific Russian Claims**
+
+- First, Putin has advanced the claim that historically speaking Ukraine is part of Russia and the people of Ukraine are brainwashed Russians
+- The second claim was the recognition of the Luhansk and Donetsk Peoples Republics, which immediately requested military assistance from Russia
+- Russia has also claimed that Ukraine committed genocide against Russian-speaking people in Eastern Ukraine and brought the case to the ICJ
+- As a provisional measure, Ukraine requested cessation of all hostilities for investigation to occur
+- Because of the Genocide Convention, Russia cannot use its P5 veto to get around Ukraine bringing in the ICJ to investigate
+- However, invoking Chapter 7 would mean all-out war and Russia has nuclear weapons to deter other states from getting involved so Russia ignored this
+- Finally, Russia blames NATO expansion for the reason why any of this started in the first place
+- This is more convincing than their other claims, but hardly serves as justification for attacking Ukraine in pre-emptive self defense
+- While historically economic sanctions could be considered a declaration of war, this is not true today
+- The same thing that happened with Donetsk and Luhansk happened with Crimea, except the Crimean government just asked to join Russia instead of requesting military aid
+- However, there was not a monitored referendum and force was used by Russia to complete the secession
+- No recognized international right to unilaterally secede from a state
+- Russia has not been able to prove the extreme conditions required for remedial secession to occur without the consent of the home state
+- Similarly, there has been no notable evidence admitted to prove their allegations of genocide, especially in terms of proving intent from the Ukrainian government
+- Accusations of genocide from Ukraine rely mainly on evidence of mass deportations, transfers of children out of occupied Crimea, and systematic bombing of civilian infrastructure and targets
+- To link these acts to intent, Ukrainian legal scholars point to the systematic denial of Ukraine's existence as a real state and ethnic group
+- In the ICJ proceedings, the court mandated Russia to cease all military operations in Ukraine as provisional measures for the investigation
+- Russia ignored this and claimed the ICJ had no jurisdiction
+- All enforcement measures rely on the UNSC so the Russian veto shut down any attempts to push back on this
+- However, this does not prevent states from placing sanctions on Russia
+- This also lead to a UNGA resolution condemning Russia to be passed by an overwhelming majority
+- As some examples of other outcasting consequences Russia was banned from the G8, Council of Europe, and funnily enough CHL hockey (as well as the olympics but they were already banned)
+
+**International Humanitarian Law**
+
+- The goal of IHL is not necessarily to prevent war, but the minimize the effects of war on civilians
+- Geneva Convention was the first document to establish the principle of proportionality
+- Four different Geneva Conventions
+- First is for treatment of wounded soldiers, second is for the safety of shipwrecked combatants, third addresses treatment of POWs and the final convention is about war crimes and crimes against humanity
+- Emphasize the protection of those not involved in hostilities
+- Other conventions like the 1907 Hague convention deal more with what is acceptable in terms of the means/methods of warfare
+- Article 28 states that the existence of protected persons may not be used to make sites immune to force
+- Basically establishing that military necessity trumps the need to minimize civilian casualties
+- Not all countries subscribe to the Additional Protocols, but there is a convincing argument that it has rose to the status of CIL
+- Protocol I Article 51 is specifically focused on protecting the civilian population by banning indiscriminate attacks or attacks directly on the civilian population
+- Certain tactics and weapons are considered to be indiscriminate such as carpet bombing, cluster munitions, etc.
+- Civilian objects are also protected by IHL which includes places of worship, culturally important sites and especially UNESCO-protected sites
+- Argument has been made for cultural genocide due to the number of Orthodox Churches damaged by the Russian military
+- The concept of proportionality does not rely on any numbers, but rather a reason test
+- If you can reasonably claim that an action is proportionate, it is
+- The military commander is responsible for deciding in the moment if an attack is proportionate or disproportionate although this may be re-evaluated after the fact
+- We don't look at the results of an attack and then determine whether it was proportionate or not, what's important is the process that led up to ordering the attack
+- Proportionality has two main aspects
+- Distinction between civilians and combatants, and in the case of a mixture of both, the value of the military target compared to the expected civilian casualties
+- Ukraine and Russia are party to several treaties relevant to the laws of combat, but both can just choose to withdraw if necessary
+- Neither countries are ICC members, they only have jurisdiction because of the Genocide Convention
+- You can't prosecute a non-member state without a referral through the UNSC which Russia would just block
+- Just because a country commits war crimes is not sufficient evidence for them to be convicted of those war crimes
+- There has to be evidence of intention to commit these crimes and understanding of their consequences
+- Domestic prosecutions are generally insufficient, foreign officials and heads of state cannot be prosecuted in foreign domestic courts
+- Ukrainian law does allow trials in absentia, but it's unlikely trials like these would be recognized anywhere outside of Ukraine
+- Zelensky has expressed a desire for a special criminal tribunal for Ukraine to the UNGA, but of course this vote is not legally binding
+- In order for Putin to ever answer for his crimes a lot of conditions would have to be satisfied first

@@ -1,0 +1,23 @@
+- Causal questions are when we ask whether a certain input variable or group of variables causes a change in a certain output variable or group of output variables
+- Some examples would be "does smoking cause cancer?" or "do lunch support programs raise student test scores?"
+- Occasionally we also find reverse causality, that the opposite of our question is true
+- Simpson's paradox refers to the phenomena where we may see a flip in a correlation when dividing a population into smaller strata
+- For example, UC Berkeley admissions data suggested a bias against women, as they seemed to be rejected at a higher rate than men
+- However, women tended to apply to more competitive programs than men, and when examining the population divided by program, the opposite was true
+- A confounder is a variable that causes changes in the response variable and at least one input variable
+- This can cause a false correlation between an input variable and the response since the input variable affects the confounder, and then the confounder affects the response variable
+- In reality, the real correlation is between the confounder and the response variable
+- For example, when examining the relationship between the amount of on bases gotten from balls and runs, a higher than expected correlation between bases on balls and runs
+- This was because of a confounding variable, home runs
+- Experiment design allows us to control our experiments to an extent, allowing us to control many variables
+- Completely randomized design or CRD is when experimental units are randomly distributed throughout the data
+- This means there would be no correlation between observations, balancing observed and unobserved confounders
+- This makes it the best possible option for causal inference
+- Randomized block design or RBD splits the units into blocks to prevent variation, and then randomly assign treatments to each block
+- However, all blocks must be the same in every way except for the treatment
+- In RBD, observed confounders are balanced but not unobserved ones, so only average effect of treatment can be observed
+- In observational studies, data is simply collected, nothing is controlled
+- Since we have no treatments or any sort of control, we generally cannot establish causal relationships in this way
+- Observed confounders can be included, but it's likely there will also be unobserved ones
+- To attempt to remedy this we usually stratify to avoid a confounding effect like the Simpson's paradox
+-

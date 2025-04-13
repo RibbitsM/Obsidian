@@ -1,0 +1,15 @@
+- We want our file names to be machine readable, human readable, and easy to order
+- For example, a great convention is to start with the date created, add an underscore, and then write the file name
+- The underscore lets you separate the date and title easily with code, the date lets you order them easily, and the title lets a human know what is in that file
+- Having consistent names and spellings is important to make searching easy
+- Make sure you and your team have a consistent file naming convention
+- Naming scripts in the order they should be run makes them machine readable, but tells you nothing about what they actually contain
+- A slug filename is a technique where you keep the same name for similar files, but add a hyphen for longer descriptions
+- For example, data.csv, data-cleaned.csv, data-test.csv, data-test-cleaned.csv
+- Make sure if you're using dates in your file names, use a consistent date format
+- Some people use year month day, others use day month year, etc.
+- The generally suggested format is ISO 8601
+- Another ordering convention is the order in which they should be run, like we used earlier
+- Make sure that if these numbers will exceed 10, you'll need to left pad your single digits with a 0
+- A computer won't know that 2 comes before 10, but it will know that 02 comes before 10
+- Another thing you can do is count by 10s, so that if you need to insert things between files you won't need to do decimals or reorder everything

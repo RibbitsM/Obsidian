@@ -1,0 +1,50 @@
+- Languages are constantly in a state of change
+- How did we end up with so many languages?
+- Important theme of linguistics
+- Languages are constantly evolving constructs
+- Language change is a normal part of language
+- Small generational changes compound over time and lead to large changes and divergence of language
+- Languages change through transmission and diffusion
+- Transmission is when language is passed from adults to children
+- Diffusion is adapting how you speak depending on who you're talking to
+- Can be a change to become similar or different depending on the context
+- The balance between these two forces in controlled by incrementation and generational identity
+- Incrementation is the process of embracing changes at a gradual pace to prevent the language from changing too much
+- Generational identity is the process of how new slang develops in isolation in a generation, language develops within a certain group and those in that group are best at using it
+- An example of this is the overuse of the word "like" in modern language
+- It's become a common filler word, used to substitute pauses and bridge ideas
+- Considered wrong by older generation's standards
+- Language change can split languages into groups
+- If a group is split in two, each languages changes gradually in isolation
+- After a long enough period of time, they will become distinct languages
+- This can repeat for the newly created languages
+- The origin of the idea of "the first language" came from
+- Small changes are driven by how children learn the language
+- Children tend to learn by making generalizations, which leaves similar aspects even within languages that split long ago
+- When speakers of languages that split come back in contact they can create a pidgin
+- A more irregular combination between two split languages that are cobbled together from mismatched parts
+- Once children start learning pidgin at birth, it can develop over time into a creole
+- A creole is just a more regular version of a pidgin, and some are considered their own languages
+- Languages are never in a steady state, only languages considered "dead" are in steady state
+- Languages of isolated populations like Icelandic change less than languages of populations with heavy contact like indigenous languages
+
+**Language Loss**
+
+- Languages do stop being spoken, and is also called language death
+- However this phrase is discouraging to language revival efforts
+- Also called dormant languages or sleeping languages
+- A language having no speakers now does not imply there will never be more speakers
+- Efforts to teach and revitalize languages have been effective in the past for Hebrew and many indigenous languages
+- With institutional support, language revival is possible
+- Possible to call Latin a dead language because of how long ago it "died", but despite this it is still taught commonly and has much institutional support
+- Gaelic got down to the point of being extremely endangered and almost extinct, but is now at a point where there is a healthy amount of Gaelic speakers
+- Calling indigenous languages "dead" is considered problematic by some for reasons of colonization's influence in the decline of these languages
+- The Irish Gaelic language was considered dead but was able to be revived due to strong cultural identification with the language and established Gaelic schools
+- Recent revitalizations in Scottish Gaelic are focused on pairing new speakers with fluent speakers to "mentor" them and teach them the cultural and social applications of the language
+- The Manx language is in decline, but there are efforts for revitalization in the works
+- Most of the focus on revitalization is focused on Scottish Gaelic, but there is also a Canadian dialect centralized in Nova Scotia
+- There has been enough divergence to consider the Canadian variant a separate dialect
+- Steady decline over the 20th century but revitalization is ongoing
+- Why would we do this? Canadian Gaelic is not a practical language at all
+- This is because language is social and marks your identity
+- Can help you reclaim your heritage or identity, reconnect with your ancestors

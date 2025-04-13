@@ -1,0 +1,90 @@
+- Lasted from 1945 to 1958
+- Most momentous of the cold war revolutions
+- Restructured China's relationship with the rest of the globe
+- Centered around the chinese civil war between the CCP and the Guomindang
+- Guomindang ruled China from 1928 to 1949
+- Chiang Kai-shek led anti communist military in 1933, intensifying the war
+- This war was a product of Japans attack on China in WWII
+- Called the resistance war, during which the communists were almost wiped out by Chiang kai shek
+- When the Chinese government gave in, the communists had amassed a large army in North China
+- WWII provided the context for the communists to gain a second wind
+- Chiang and Mao were lifelong enemies
+- CCP were essential in China's Liberation War
+- Japanese army controlled significant amounts of China including key city ports
+- Chinese communists had many small bases established in Japanese territory
+- Nationalists controlled most of China and more importantly controlled the coastal regions
+- Most powers recognized the nationalists as the leaders of China, including Russia
+- Believed Chinese peasants couldn't have a proper marxist revolution
+- Pulled out diplomats to prevent from being blamed for the revolution
+- Provided minor support to communists at this time
+- Maintained diplomatic connections with Nationalists
+- Tenuous ties between russian and chinese communists
+- Communists won out because of the weakness of the nationalists due to recent conflict with Japan
+- Central and Northern regions of China were previously damaged greatly
+- Peasants had deep mistrust of soldiers
+- Most of the population was neutral in the war, just wanted peace
+- Communists were better at providing assistance to the public and gained popular support
+- Land reforms got support from peasants and landlords alike
+- Manchuria was the main battleground of the war
+- Nationalists made several strategic mistakes during the war
+- Lost trust of the people due to corruption and rigidity
+- US sent George Marshall to negotiate a peace, but Chiang did not trust him and wasted the US aid
+- Communists gained advantage in 1948
+- Leadership fled to Taiwan and established a new base
+- Became a divided state in 1949
+- October 1st 1949, Mao Zedong establishes the PRC
+- Established closer relations with the Soviet Union
+- Made a visit to Moscow in 1950
+- Negotiated a treaty of alliance
+- Named Japan and it's allies as rivals to China and Russia
+- Discouraged an alliance between Japan and the US
+- Chinese soldiers began to move into Sinkiang and Tibet in 1950
+- At first Stalin wanted to keep the treaty the Soviets had with Chiang
+- Eventually the Soviets came around
+- Power of the CCP came from mobilizing the peasants rather than coming from the city like the Bolshevik's power
+- In 1949 80% of peasants had not experienced land reform
+- CCP passed many large scale reform acts and allowed wealthy peasants to rent land and hire employees
+- Eliminated the power of landlords and distributed their property to the peasants
+- Created a land holding system based on family owned farms
+- Borrowed Soviet technique of nationalizing industrial production
+- Both anti-bourgeois and anti-capitalist
+- First five year plan announced in 1953
+- Banned private property, nationalized industry and established a command economy
+- With soviet support, built 156 factories
+- Emphasis was good sino-soviet relations and promote agricultural productivity
+- By 1956 450 million peasants were in collective farms
+- All changes occurred without much resistance, used less state violence than Soviets
+- However it was poorly planned, the peasants were not skilled enough to effectively cooperate
+- Huge famine created by the "Great Leap Forward"
+
+Sino-Soviet Relations and Normalization of Relations between the US and China
+
+- 1972 was a key moment in this process
+- Tensions developed after Khrushchev delivered a speech critical of Stalin, leading to disagreements with Mao
+- China ignored some of Stalin's major flaws however
+- In 1958 Mao and Khrushchev disagreed about creating a joint naval fleet on China's coast
+- Khrushchev withdrew all soviet advisors and ceased monetary assistance to China
+- The two states had become enemies
+- China developed the atomic bomb in 1964
+- As part of the Chinese border along the Ussuri river was the site of a conflict that almost led to nuclear war between the nations
+- The key city involved was Khabarovsk
+- There was an island in the middle of the river that both countries laid claim to
+- During this conflict, Nixon showed signs of seeking alliance with China due to hostilities with USSR
+- Mao Zedong and Zhou Enlai entered talks with the US
+- As a result, the PRC got representation in the UN security council
+- Up until this point, Chiang and his Taiwanese government filled that seat
+- Established as one of the 5 big powers and was granted veto power
+- After Mao's death, full relations between the US and China were established
+- Before this, the US did not recognize the PRC as a legitimate state
+- Nixon was crucial in this process, especially his article titled "Asia after Vietnam"
+- He believed that China must be accepted back into the world community as a developed nation
+- Henry Kissinger practiced realpolitik, the idea that pursuing national interest required geopolitical analysis
+- The US government refused to participate in talks during the civil war
+- They sided with Taiwan, protecting it during the Korean war
+- The Sino-Soviet split gave the US an opening to use China to help contain the Soviet Union
+- The Ussuri border conflict occurred after US talks had begun already
+- This marked a change in US foreign policy alongside retreating from Vietnam
+- Realpolitik highlights the limits of foreign policy, being founded only on short term observations
+- However, the US and China did discuss wider issues like war and peace rather than short term gains that come from Realpolitik
+- Mutually assured destruction and China's weakness at the time led China to conclude that nuclear weapons were useless for China's purposes
+- Called them a great waste of resources

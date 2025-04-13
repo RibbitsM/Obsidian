@@ -1,0 +1,53 @@
+- Depicts the history of economics as the result of pure genius
+- Other options are linking specific events or scientific/philosophical pursuits
+- Also could depend on the political climate
+- Each of these options has issues
+- The working class was subjugated horribly for most of history
+- Only in the 18th and 19th century did conditions improve
+- Economics was a source of hope that people could control the economy
+- 19th century saw huge rises in average wages and increases in life expectancy
+- Economists continued to observe the change in the workforce and advocate for higher wages, better education, and more rights
+- Beatrice and Sidney Webb studied the poor, also founded the LSE
+- Advocated for social democracy and eventually a state-planned socialist economy
+- Studied alongside mainstream economists like Jevons and Marshall
+- Wrote books on poverty, unions, and social justice
+- Beatrice wrote *The Minority Report* in 1908
+- Overall advocated for public works, increased social security and reduced poverty
+##### Keynes
+- Saw the pre-war prosperity as a paradise
+- Rule of law, free trade, and gold standard led to huge economic growth
+- Economy recovered after WWI and food prices lowered, but Keynes did not see progress as a given
+- Fisher convinced Keynes that money mattered, and inflation/deflation would not cure itself
+- Advocated for price stability vs exchange stability, exact opposite of what Keynes did with Bretton Woods
+- Fisher wanted to predict business cycles and dampen them with macroeconomic policy
+- Started tracking the purchasing power of money weekly
+- US govt eventually adopted this process
+##### Currency
+- WWI ruined the gold standard, used to be 5$ to 1 pound, and both equalled a troy ounce of gold
+- Similar to the Napoleonic wars, Britain had to go off the gold standard during WWI
+- Churchill really wanted to reinstate the gold standard but Keynes told him no because the economy was much weaker now
+- Bro did it anyway and the economy tanked
+- Unemployment was over 1 million for the entire interwar period
+- Consistently mogged by US industry
+- Insane growth rates in the US economy, major manufacturing hub and 1 in 5 families owned a car
+- Per capita income grew 20% from 1921 to 1929
+- Fisher predicted most of this, also said that life expectancy would be 82 by 2000
+##### Great Crash 1929
+- Stock market allowed shares to be purchased with loans
+- Keynes said that the cure was encouraging spending by lowering the interest rate, instead the UK govt cut unemployment benefits
+- Interest rate tanked and banks failed, in the US output contracted by half and unemployment skyrocketed
+- Some blamed Fisher for his optimism
+- In the postwar period Bretton Woods would bring back world trade and stabilize currencies, led by Keynes
+- Created the IMF and World Bank
+- Another Keynes project, the Marshall plan totally revitalized Germany and Japan into the economies they are today
+##### Cold War
+- Hayek and Schumpeter were rabid anti-communists, while Joan Robinson supported communism and visited Mao and Stalin
+- Robinson taught next generation like Arrow, Solow, and Sen
+##### General Notes
+- Nasar incorrect on state of living in pre-industrial Europe
+- Industrialization brought about harm as well as good
+- Over time economists have become more respected and empowered
+- Not until the Great Depression and after that governments really listened to economists
+- However, they were still active in policy debates in the 18th century
+- Nasar points to economists as voices of truth when politicians try to suppress facts
+- Future holds growth, stability, and social improvement

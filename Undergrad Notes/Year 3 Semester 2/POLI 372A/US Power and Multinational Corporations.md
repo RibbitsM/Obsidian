@@ -1,0 +1,121 @@
+**Lecture 1**
+
+- We need to find the difference between the American national interest and the corporate interest
+- Do companies have different goals than the state? Do they directly conflict?
+- How do ideologies form foreign economic policy? Do they?
+- How much do corporations influence this foreign policy?
+- Some argue that America does not have it's own foreign economic policy, but is rather just a puppet of the large corporations
+- A great example of this was the first and second Gulf Wars in 1991 and 2003 respectively
+- The internet allowed for the spread of protests across the US, mainly focused on the way US foreign policy has obeyed the whims of oil companies
+- OPEC forms in 1973 and raises oil prices dramatically, putting pressure on oil multinationals
+- When Iraq invades Kuwait in 1990, the US isn't particularly concerned
+- The main players that take issue with this are Margaret Thatcher and many of Bush's advisors
+- Concern was that if Iraq takes Kuwait, Saudi Arabia is next
+- So Bush goes to war, and pushes Hussein out of Kuwait in 6 weeks
+- But the public consensus is that they went to war for the oil multinationals, to break up OPEC and drop the prices back down
+- Generally speaking, there is not a ton of evidence that MNCs played a big role here or in any implementation of US foreign policy
+- Corporations do matter in US foreign economic policy, but they don't control it
+- At the highest levels of the US government, realist foreign policy and realpolitik still reigns supreme which gives little value to economic assets like oil
+- Gilpin is certainly interested in the interaction between MNCs and the state but he doesn't conclude that MNCs entirely hurt or help US foreign policy
+- Does raise concerns that offshoring jobs could do real damage to US industry
+- Could also help America by spreading American culture and influence and give the state access to key natural resources abroad
+- When MNCs go overseas, their jobs go with them but this can be remedied through tax, trade and investment policy
+- Currently these policies lead these corporations to hold taxes offshore, depriving the US of crucial revenue and distributing it to foreign countries
+- This has been a common concern in America for years, this anti-outsourcing, anti-immigration, isolationist feeling was particularly well harnessed by Lou Dobbs, and then Donald Trump
+
+**Mainstream View**
+
+- From the common liberal view, MNCs are a huge boon to America
+- Even if they are getting rid of some manufacturing jobs, they're creating high skill high paying jobs
+- Invest more capital into the US economy and put a lot of money into R&D
+- Some macroeconomic studies even suggest that MNCs going offshore brings in more money for the US
+- Activities in foreign countries is a complement to their activities in America, not a substitute
+- Despite this, slamming MNCs is often seen as a good political move, there is a lot of public unrest towards MNCs and politicians will tap into that
+- But this has the potential to deter MNCs from investing in your country so they must walk the line
+- Some countries have tried to leverage their American identity, American car companies appealed to an All-American image to compete with Japanese import cars
+
+**Lecture 2**
+
+- Popular links between business and politics, George Shultz and Caspar Weinberger are both examples of prominent businessmen in politics
+- Weinberger was the VP of the Bechtel corporation and Shultz was the president
+- Bechtel was also heavily involved in water privatization in Bolivia
+- Construction company specializing in postwar reconstruction, profited immensely from the aftermath of the Iraq War
+- Both men served under Reagan, Shultz was Secretary of State and Weinberger was Secretary of Defense
+- Argument to be made that the national bourgeoise has just become international through MNCs
+- No distinction to be made between national and corporate interest, they're the same
+- David Korten talks about a future where corporations "rule the world"
+- Not directly, but through strong influence on the state and other important institutions
+- Corporations like the IMF and OECD tend to serve corporate interest, for example the IMF pressuring Bolivia to cave to Bechtel
+- For Korten, the interests of American multinationals dictate the interests of the US state
+- Spirit between the occupy wall street movement, to divorce corporate influence from politics
+- Occupational hazard of having global reach, you get blamed for global problems
+- MNCs serve as a lightning rod for public criticism, hence why unpopular rulers tend to deflect blame towards big corporations
+- Going back to the Santa Clara County ruling in 1886, this sense of unfairness is augmented since MNCs have legal protections preventing them from full accountability
+- When FDI is happening between OECD countries, it's less of an issue than when MNCs are dealing with less developed states
+- Compared to the earliest years of MNCs, their power is being less overstated as governments push back
+- Recall the example of the OPEC cartel pushing back against resource extraction MNCs
+- 70s was a period where MNC power was especially exaggerated
+- More than in any other decade, this was the time of nationalization where states were pushing back
+- We know this only in retrospect, so are these corporations exaggerated about now?
+- Gilpin would think so
+- Occasionally MNCs will be able to exert their influence to change political decisions to their benefit
+- But this is the exception, not the rule
+- They are powerful instruments for securing materials and share in foreign markets, but instruments that are ultimately wielded by the state
+- MNCs are sources of American power overseas, they spread American influence and fund overseas military and political commitments
+- Gilpin said this in 1976, may not still be true today
+- What we have is a Venn diagram of national and corporate interest, with a significant overlap
+- In general the interests of the US and its MNCs overlap, both groups seek the furthering of a liberal world economic order and cooperate to achieve it
+- The proximity of US foreign policy and US business is a coincidence due to shared values, not a symptom of some hidden conspiracy
+- Many politicians are businessmen and vice versa not because the industries are linked but because they attract similar people
+- Corporate expansion was not planned or orchestrated by the American state, but rather American politicians realized that they could harness the MNCs for government purposes
+- This was not the plan from the start, American policymakers and MNCs grew together over time
+- Prior to the spread of MNCs American foreign economic policy was aggressively mercantilist, think of General Perry's gunboat diplomacy opening the Japanese market
+- The efforts of statesmen to convert the aims of MNCs towards American interests were often not well received by the businessmen
+- 9/11 was the inflection point for this, cemented the reality that US foreign policy was indelibly linked to American corporations
+- Wasn't just an attack on America, but an attack specifically on it's corporations
+- For at least the following decade, it was much easier for US policymakers to get MNCs on board
+- Many corporations cooperated extensively with the War on Terror, the Patriot Act would never have succeeded without corporate data
+- From their very nature, MNCs are much better at operating across boundaries than states
+- But they don't want to be tools of the state, they just want to make money
+- America rules the world **through** it's corporations, not the other way around
+- There is the question of why exactly there is so much overlap between political and corporate elites, they all come from rich families, attended ivy league schools, etc.
+- Here you can see where the global elite illuminati freemason theories come in
+- At the end of the day the US remains autonomous, while the states receiving FDI may not be, America continues to function above the influence of MNCs
+- This is still up for debate, Brooks for example argues that US is not autonomous in terms of security due to influence from foreign defense contractors
+- The days of the military-industrial complex being an all-American ecosystem are coming to an end
+
+**Ideological Perspective**
+
+- What you think about how the state works ultimately comes down to what perspective you look at it from
+- A Marxist and a Liberal will draw very different conclusions from information such as the fact that corporations pledge huge amounts of money to presidential candidate campaigns
+- A Liberal might see this as a form of lobbying, a natural feature of the economic and political system while a Marxist would interpret it as collusion between economic elites to further their collective influence
+- Statists argue that policy comes from inside the state, not from the outside
+- The factors deciding policy aren't advocacy groups or MNCs but the thoughts of the policymakers
+- Because of this, depending on the organization of the state, policy will change
+- The governmental setting is what matters, policy is dictated by the "national interest"
+- This is some sort of ethereal value system that must not be interfered with
+- Statists would argue that since it's inception America has a very strong sense of its place in the world and as a result, its core national interest
+- Many describe this as being based on Lockean ideals, the idea of private property, separation of powers, the rugged individual are all core elements of the national interest
+- This is consistent over time, the heart of American foreign policy
+- Heavy influence from Locke, and little to no influence from MNCs
+- An alternative view is that the context of policy is decided by civil society, not just the government
+- Especially in the US, the legislative branch, the Congress is incredibly powerful
+- If a leader doesn't have support from Congress, their ability to enact change is extremely limited
+- This view is often called pluralism, but really they're almost the same as the statists
+- The only difference is that pluralists consider a wider range of interest groups
+- Attribute political influence to lobby groups like the NRA
+- The head of state is more like a referee, dictates which groups get to have their influence represented
+- Policymaking is not consistent over time but is reliant on the influence of varying groups
+- The power of MNCs is then dictated by their ability to lobby, which incidentally they are very good at
+- Even foreign MNCs can do this, Japanese firms would align themselves with likeminded American firms and help them lobby, or contract lobbyists to do it directly for them
+- Yet another subschool, the neopluralists, argue that some of these groups like MNCs or massive lobby groups like the NRA are much stronger than others
+- In a bizarre example, at one point one division of Dupont was lobbying for protectionism while their other division was lobbying for free trade
+- Finally for Marxists, the key setting is also at the civil society level, but instead of individuals and groups exerting their influences, its classes
+- The state is a tool for class power, and the same class that runs the state runs the corporations
+- State has zero autonomy, it is controlled by the whims of the bourgeoise class
+- Highest level of MNC power, they have full control over the state
+- Realism: Statism, Liberalism: Pluralism, Marxism: Instrumental Marxism
+- Structural Marxism has attempted to make a more reasonable variation of this
+- In this model, the ruling class will bring in enough concessions to workers to ensure that the revolution will be delayed indefinitely
+- While the state is still controlled by the ruling class, they may give occasional concessions
+- Short term concessions against their interest ensure their long term survival

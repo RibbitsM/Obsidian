@@ -1,0 +1,41 @@
+- El romanticismo es un reacción contra la Ilustración
+- Es controla por las pasiones y emociones, no es racional como la ilustración
+- Es subjetivo, culto al yo
+- Encanta la libertad y la búsqueda de la libertad
+- Obra abierta, nunca perfecta simplemente el proceso de haciendo arte
+- Gusta la fantasía y horror, los leyendas y la historia como lugares antiguas, ruinas y castillos
+- Hay dos épocas de romanticismo, el de ingles, y el de alemán
+- El primero habla más sobre el libertad, creada por Lord Byron y es asociada con el liberalismo política, las poemas son escribiendo sobre figuras marginales como bandidos y piratas
+- El posromanticismo del alemán (empieza con Heine) es más sobre el conservación social, y las poemas son más intimistas, con temas folclóricas y fantasías, pero más líricos y con lenguaje sencillo
+- La saeta: Antonio Machado
+- Machado es costumbrista como Larra, viene de Sevilla y tiene mucha interesa en la identidad española, parte de generación 98
+- Buscaba los errores cometidos de España como el colonización y el Inquisición y como puede avanzar de esos
+- Una saeta es un canción religiosa, canta sobre la Pasión de Cristo
+- La poema referencia "El cristo de los gitanos", un cristo con pelo negro creada por los gitanos
+- Es un redondilla, con cuartetos octosílabos de rima abrazada (abba abba)
+- La tema es del concepto de más de uno cristo, y la posibilidad por grupos a venerar cristos diferentes
+- Este unifica con el concepto de los errores de España, y Machado esta sugiriendo que España necesita sigue un cristo diferente que en el pasado
+- El prendimiento de Antoñito el camborio: Federico García Lorca
+- Lorca fue un gran filosofía y pensador, nació cerca de Granada en España
+- Poeta y dramaturgo, fue un parte de Generación 27
+- Escriba obras populares y vanguardistas, con romances y obras surrealistas
+- Muchas de sus obras tiene la tema de opresión, escriba sobre los gitanos, los negros, los mujeres, y el LGTB
+- La poema es sobre un gitano que llamo Antonio, y es detenido por la guardia civil por robar limones
+- Ellos arrestan a Antonio porque el es un gitano
+- La poema tiene temas de herencia y discriminación, habla mucho de estereotipos y las asunciones personas tiene sobre Antonio porque el es un gitano
+- El fin de la poema tiene temas de injusticia, y la falta de sociedad
+- La poema es un romance, no estrofas, octosílabos y un esquema rima de xaxaxa
+- Meciendo: Gabriela Mistral
+- Mistral es un seudónimo, su nombre verdad es
+- Mistral fue criado por mujeres, su mamá y abuela
+- Por eso, tiene un gran imaginación y un interesa en religión y las cosas espirituales
+- Su primero novio suicidio, y por eso ella dedica su vida a los hijos
+- Las poemas de Mistral advoca por los desvalidos y desamparados
+- Temas de amor de madres, Dios, y amor apasionada
+- En la poema, mecer tiene tres significados, mece el bebe, mece del mar, y mece del barco
+- La poema tiene temas de maternidad y el amor de madre
+- Personifica el viento, mece el mar como un madre mece su hijo
+- Es un lullaby, creado por cantar a tu bebé para que se duerma
+- Tiene versos de nueve sílabos
+- El momento más grave del día: César Vallejo
+- Arte poética: Vicente Huidobro

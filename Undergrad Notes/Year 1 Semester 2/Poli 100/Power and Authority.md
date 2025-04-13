@@ -1,0 +1,107 @@
+- Politics is at the heart of all social activity
+- All things are political
+- The state is the highest form of authority
+- Many equals, but none above it
+- Large spectrum of states from night-watchman to developmental
+- Exists from liberal democracy to totalitarianism
+- 4 major theories of the state
+- Power and authority are central concepts in politics and life alike
+- Parents have both power and authority over their children
+- Friends may have authority over eachother but usually not a lot of power
+- A robber with a gun has power over you, but not authority
+- Because they have a gun, you give them your money and continue
+- Same thing happens but it's a toll booth
+- Because they have authority, you give them your money and continues
+- A toll booth officer has authority over you but not power
+- The second case is usual, first case is unusual and special
+- If you are stopped in a forest by men with swords, they have power over you
+- But if they represent the local lord, it is suddenly more authority?
+- Power and authority is known as "the dark forest we get lost in"
+- Impossible to discuss politics without power and authority
+- How is it possible that one person's level of power and authority differs from place to place?
+- Power is usually associated with coercion
+- Authority is usually associated with consent
+- States possess both, but usually prefer to exercise only authority
+- Say you are stopped by a policewoman because you are speeding, here she is exercising authority
+- If you refuse to stop, you might be stopped later by several heavily armed police who are exercising power now
+- The same institution responds to deviance with authority first, and then power
+- Power incentivises certain behaviours, can encourage deviant behaviour when people realise they are too powerful to face punishment
+- When you concede to someone's authority, you are conceding to the institution they represent, not the person
+- Institutions can store, delegate, and take away power
+- Power from institutions is loaned, it can be taken away at any moment
+- Once you graduate from UBC, your professors no longer have power/authority over you
+- Authority and power is temporary, and is dependent on whatever institution lends it
+- Converting power into authority requires legitimacy
+- Recognition of power as legitimate makes it authority
+- A US soldier suppressing citizens during a war is power, but one checking passports at the border during peacetime is authority
+- A teacher does not have the same legitimacy as a substitute
+- Legitimacy differs in place and time
+- Also differs from one person to another
+- Just because a ruler is generally considered to be legitimate doesn't mean everyone accepts them
+- There are people who refuse to accept anyone's authority
+- The ideology of anarchy rejects the idea of legitimacy, and rejects all authority
+- What makes a ruler legitimate?
+- Beliefs about legitimacy come from society, but society is shaped by the rulers
+- Creates a circular echo chamber of beliefs
+- Many political theorists have considered legitimacy an inescapable phenomenon
+- Weber called it morally neutral
+- Political power creates it's own legitimacy
+- This is the dark forest, where the confusion occurs
+- Are no authorities justified or are all authorities justified??
+- Legitimacy is written by the power that it grants authority to
+
+Ideology and Power
+
+- Ideological control is one of the most potent forms of power
+- This created the concept of hegemony which is the language we use to talk about politics
+- Created by an Italian philosopher imprisoned by Mussolini
+- Political systems produce themselves by justifying their own actions
+- Quick definition of hegemony is when the ruled believe that the rulers are acting in their best interest
+- An example is capitalism, where the elites are the rich
+- The ruling class is made almost entirely of millionaires
+- The society remains capitalist because the rulers are rich
+- What a society champions is what that society produces
+- Nationalism champions war and creates war
+- Like how the Turks hate the Greeks, Armenians, Russians, Iranians etc.
+- All Turks know that every country surrounding them are their enemies
+- Society established on hostility creates hostility
+- Most countries are nationalist and capitalist
+- Citizens of a country are socialized to love their society and champion its values
+
+Power vs Force
+
+- Power is often expressed through force
+- But some argue that use of force means power has failed
+- Power represents more than just force, it is coercion
+- Power is not necessarily good or bad
+- A good example is how Mao used his power to eradicate all sparrows in China, which resulted in a huge famine
+- Power was used effectively, but with poor results
+- Power has been used to construct pretty much all of humanities significant monuments
+- Three dimensions of power, theorized by Steven Lukes
+- The first dimension of power is coercion, making someone do something they wouldn't otherwise do
+- The second dimension of power is to determine which issues can be discussed and which issues can't be discussed
+- This is called setting the agenda
+- Extremely influential on politics, if an issue can't be discussed, it can't be solved
+- Can be seen in the US, where most political discussion is irrelevant
+- This is also inadvertently exercised by social media algorithms by only showing issues that match your viewpoint
+- These dimensions assume actors are aware of their interests and needs
+- This is the dimension that Lukes invented
+- The third dimension of power is when the elite can determine what people perceive to be their interests and wants
+- An example of this is how much teachers are paid is set mostly because teachers don't recognize that they should be paid more
+- Also how workers from different countries hate eachother on national lines while being the same on class lines
+- This is a clear example of ideological control
+
+Can we Eliminate/Control Power?
+
+- Power when concentrated is extremely dangerous
+- Stated that elites have concentrated power and should be dismantled
+- Foucault said that power is an inescapable part of society and pervades all interactions
+- Some societies attempt to spread political power by making it task based
+- In most indigenous societies, power is limited to leading in achieving a specific task
+- Power is temporary, and no one is obligated to follow someone once a task is completed
+- Weber theorized 3 types of authority
+- The first is traditional authority, where authority is based on past or traditional customs
+- Can be like the monarchy or divine right of kings
+- The second is charismatic authority, which is based on the personal characteristics of the ruler
+- Usually associated with authoritarian and totalitarian societies
+- The third is legal-rational authority is based on authority/status within a system or institution

@@ -1,0 +1,119 @@
+**Nuclear Arsenals**
+
+- Inventory is an issue for numerous reasons, it's relatively hard to ascertain how many nuclear weapons exist
+- First of all, you need to get around the secretive nature of many countries nuclear stockpiles
+- Second, it's difficult to say what we should count, do warheads mounted on missiles count the same as those in storage?
+- What about warheads that are planned to be decommissioned but could be reactivated?
+- This leads to a lot of estimation and variability
+- Currently Russia has 5977 and the US has 5,428, making up 90% of the world supply
+- Russia, India, Pakistan, and the UK all plan to increase their arsenals in the future, as does North Korea
+- These are estimated totals, and only one count by one organization
+- Warheads can be non-deployed, strategic, in reserve, planned for dismantlement or non-strategic
+- The total of deployed weapons between the US and Russia is much smaller than our numbers above
+- We have seen a large decline in the number of warheads worldwide, mainly due to disarmament efforts between the US and Russia
+- Still, there are approximately 14,000 nuclear weapons in the world today
+- Delivery systems are also hard to count for many of the same reasons
+- In addition, many delivery systems are dual use, meaning they are not exclusively used for nuclear payloads
+- Five official nuclear armed states under the NPT
+- Russia currently has 336 ICBMs, meaning they have a range of more than 5,500 km
+- These are planned to expand, alongside with new hypersonic glide tech
+- These are either silo based or mobile
+- They also have 150 dual use medium range missiles, 137 bombers, and 11 submarines armed with 166 missiles
+- The US has 400 ICBMs, with new ones in development
+- They also have 66 bombers with the new B-21 in development, and 14 subs with 280 sub missiles, with a new submarine class in development
+- China has 104 silo based and mobile ICBMs and 190 medium range with 110 being dual use
+- 20 bombers, and 6 subs with 72 missiles
+- UK only has submarines, 4 of them with 32 missiles with new missiles in the works
+- France has 20 cruise missiles, and 4 submarines with 64 missiles
+- There are four non official states which also have nuclear weapons
+- India has no ICBMs, but 54 medium/short range missiles and 1 sub with 4 missiles, and potentially have cruise missiles
+- Pakistan also has no ICBMs, but 60 plus medium range, 36 cruise missiles, and no subs
+- Israel has 24 mid-short range missiles, and unknown number dual use ground attack aircraft, and potentially submarine missiles
+- Finally, North Korea might have about 8 ICBMs, maybe 40 launchers and 290 mid range missiles, 80 bombers, and 1 sub currently in testing
+- Behind each of these arsenals are massive organizations keeping these weapons operational and ready to go at any moment
+- Nuclear weapons are very expensive, the nine nuclear states spent about $72.6 billion on their arsenals in 2022
+- The biggest spender was the US, followed by China and Russia
+
+**Delivery Systems**
+
+- Nuclear weapons are the combination of a nuclear warhead and a delivery system
+- Politically, the discussion of nuclear weapons usually involves both
+- Both are kind of necessary to create a threat
+- The capabilities of delivery systems also matter
+- They affect arms control negotiations greatly, and determine how a nuclear war would start/develop
+- Many weapons systems can carry either nuclear or high explosive payloads
+- While proliferation of warheads is one thing, the proliferation of delivery systems is also a great concern
+- This is why we are always analyzing what kinds of missiles other countries have
+- The first method is the bomber, the first delivery system ever used
+- Extension of the strategic bombing idea, readily available, but has a declining role in the modern age
+- Bombers are slow, expensive to maintain, and can be easily shot down
+- The exception to this is stealth bombers, which are very much still used
+- The B-52 Stratofortress is an iconic aircraft, entered service in 1955 and is still used to this day
+- Huge payload, and can be configured to drop anything, including launching nuclear cruise missiles
+- The B2 stealth bomber is also significant since it's radar signature is almost non-existent, allowing it to carry out nuclear strikes with little warning
+- The US is the only country with this capability
+- The Mirage 2000 D/N series is a French bomber that is also nuclear capable, showing that the US air force does not have a monopoly
+- The period immediately following the discovery of nuclear weapons was characterized by looking into tactical uses for them
+- These are mostly mounting nuclear warheads onto conventional weapons, and end up being rather impractical
+- First is nuclear artillery, which was conceived as being used to destroy key areas from a distance
+- Of course, tactical nuclear war has yet to come to be due to the immense yield of nuclear warheads
+- The main example of this is Atomic Annie, a specially designed artillery piece that could fire 15 kt nuclear shells up to 32 km
+- This was tested at a range of 11 km and is the only example of a nuclear artillery shell being used
+- There were other attempts at miniaturization of nuclear weapons, with the W54 warhead being a notable example
+- It was an implosion bomb with a weight of only 23 kg but a yield of 0.01-1 kt
+- 400 were produced and remained operational until 1971
+- It was the lightest nuclear device created by the US
+- Technology like this opened the door for delivery systems noone had considered before
+- One of the most infamous was the Davey Crockett, a recoilless gun that could fire W54 warheads and was mobile
+- They were produced in fairly large numbers and mounted on vehicles
+- As the cold war went on, rockets became the preferred delivery method
+- The FROG-7 was a dual use unguided rocket with about a 70 km range which became the preference for tactical nuclear weapons
+- A stranger development was atomic demolition munitions
+- The W45 warhead was also very small, with a variable yield
+- First used on missiles, but was also placed in a transport container
+- This was the infamous backpack nuke that could be carried by a single soldier and influenced the "suitcase bomb" idea
+- This could be carried in behind enemy lines and used to destroy key infrastructure, or placed during a retreat
+
+**Ballistic Missiles**
+
+- Ballistic missiles are significant since they give countries the ability to strike their enemies from significant distances
+- They have significant range since they don't fly under their own power all the way to their destination
+- Hence the name, they just need enough to get into their ballistic trajectory and will travel via gravity the rest of the way
+- They are also very fast, able to reach continents away in less than an hour
+- Carry much larger payloads compared to other missiles
+- Ballistic missiles originated during WW2 with the V2 rockets
+- Werner von Braun was the father of rocket science and creator of the V1 and V2 rockets
+- He was captured by America at the end of WWII and joined NASA, eventually designing the Saturn V
+- With the launch of Sputnik in 1957, the USSR signalled that they had intercontinental rocket capabilities
+- The Minuteman III was one of the most widely used rockets with a range of 13,000 km, there are 450 still in service with payloads exceeding 300 kt
+- Another innovation in ballistic missile tech was the MIRV
+- Stands for Multiple Independently-targetable Reentry Vehicle
+- The Minuteman is capable of carrying 3 warheads, but are not equipped as such due to arms control agreements
+- As the name implies, the MIRV lets you target a much wider area by splitting into different warheads and hitting different targets
+- The rocket splits when all its stages have been exhausted and it has reached it's ballistic trajectory
+- Then the different warheads re-enter the atmosphere in different areas
+- The Agni III is a missile in the Indian arsenal and is a medium range ballistic missile with a max range of 5000 km
+- We're not sure on what warhead they might carry, but it could be up to 250 kt
+- The North Korean Taepodong II missile is a big question mark, while it likely cannot reach North America currently but the III might be able to
+- Submarine launched ballistic missiles are significant mainly to due mobility and stealth
+- Not only that, but they are very hard to attack
+- Therefore even if a first strike is carried out, it's almost guaranteed that SLBMs will still be able to retaliate
+- For an example, the US Ohio class sub can carry 24 trident rockets with up to 12 MIRV warheads that each have a 300 to 475 kt yield
+- An incredible amount of destructive potential can be achieved with just one submarine
+- These submarines are usually also powered by nuclear reactors
+- Missiles can be fired either at or below the surface
+- Cruise missiles have become more useful recently, with bigger ranges, stealthier designs, and faster speeds
+- New cruise missiles can travel over 5 times the speed of sound
+- Cruise missiles can be launched from the ground, sea or air
+- These missiles are different from their ballistic counterparts in the sense that they fly like planes, and don't leave the atmosphere
+- They can also be guided through GPS and fly low to the ground with a contour matching radar system
+- This makes them even harder to intercept, and more accurate
+- Many cruise missiles are dual capable as well and are increasingly common
+- They are uniquely suited for first strikes, unbalancing deterrence
+- Another new technology is boost glide systems, which are glide rockets launched from ballistic rockets
+- There are two main kinds, hypersonic glide, and orbital glider release
+- Since hypersonic gliders fly much lower to the ground compared to ICBMs, they can avoid radar for longer
+- This of course creates first strike incentives since they are very hard to detect and intercept
+- Orbital glide is different, they can orbit for long periods of time and go entirely around the globe before dropping down to attack
+- Orbital glide release systems effectively have unlimited range because of this
+- Proliferation is less of a risk now since so few countries are even researching them, but it could be in the future

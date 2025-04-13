@@ -1,0 +1,26 @@
+- We can start by considering a pretty normal binary classification problem
+- We want to create a predictive model to predict whether or not a customer of an online service will "churn", meaning if they will leave the service that month or not
+- You can just use a logistic regression model or any other strategy we generally use for binary classification, but this is not necessarily the best way to handle this problem
+- A problem is that we aren't just trying to predict whether or not a customer will churn, but also when they will churn
+- The true goal is to predict how much longer the customer will continue to use that service before they churn, so we can send out promotional material at the right time
+- This kind of question is called right censoring, and some other examples are the time until a disease kills a host, time until equipment breaks, etc.
+- Our data is incomplete because it only covers a certain time period, our response variable only shows if the customer churned in that period regardless of when they started using it
+- The real response variable is the "tenure" column which shows how many months the customer has stayed with this service
+- Rows with customers that have already churned aren't very useful, so let's just extract the examples where the customer churned
+- However, this biases our sample and may result in underestimation of the true tenure values
+- We could also just assume everybody churned at the end date, but this falls into the same trap
+- To do this properly we need to perform survival analysis, a form of prediction that focuses on the time until an event happens
+- We use the package lifelines to do this, using something called the Kaplan-Meier Survival Curve
+- This will provide our dummy model since it only looks at tenure and churn, but lifelines also has something like a ridge model which will take features into account
+- The curve shows you the probability a customer does not churn as a function of the number of months they've spent with the service
+- In our example, there is a sharp drop in survival in the first few months, and then the curve gradually decreases
+- There are multiple different ways to visualize the survival curve, we can do a histogram, a line plot with error bars, etc
+- The regression model we use is called the Cox Proportional Hazards Model, and similar to Ridge it uses a regularization hyperparameter called 'penalizer'
+- Since this is a linear model, we can extract the coefficients from our fitted model to see which features are being used for prediction
+- Basically the higher the coefficient, the higher the likelihood that someone with a high value of that feature will churn
+- For example, the highest risk predictor here is having a month to month contract, while yearly or biyearly contracts are predictors of very low risk
+- Finally, this model also has a predict method
+- This gives a survival curve for a specific customer, instead of the data as a whole
+- By looking at these curves we can determine who is more or less likely to churn in the near future
+- You can also calculate survival probability at specific times, what is the likelihood of churn if a customer starts 20 months from the beginning of data collection
+-

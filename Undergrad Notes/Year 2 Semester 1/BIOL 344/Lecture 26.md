@@ -1,0 +1,7 @@
+- A PCR reaction requires a sample of target DNA, free nucleotides, a segment of primer DNA, and taq polymerase
+- PCR reactions begin by heating the mixture to 95 degrees to denature the DNA
+- Then after the mixture has cooled slightly, the primers bind to the target DNA and the taq polymerase begins duplicating the target
+- Taq polymerase is used because of it's heat resistance
+- If the target DNA is present, it will be visible as its been duplicated so much, if its not present, then you won't see anything
+- Molecular markers are considered to be codominant, there is no dominant and recessive relationship
+-

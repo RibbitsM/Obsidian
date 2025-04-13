@@ -1,0 +1,62 @@
+- Many new African leaders were young
+- States gained independence around the middle of the Cold War for various reasons, some peaceful some not
+- Faced major issues in creating nations out of the ashes
+- Main problem was unity
+- Most states were made out of many warring factions because of how Britain drew borders
+- Felix Houphouet-Boigny and Kwame Nkrumah were significant leaders
+- Felix led the Ivory Coast, and Kwame led the Gold Coast
+- Kwame renamed the Gold Coast to Ghana, a kingdom that existed several hundred miles inland
+- Because this was a famous kingdom rich in gold that Kwame sought to recreate
+- Adapted the cultural practices of his political rivals, kente cloth
+- Kwame believed in Pan-African Unity, crucial in creating the OAU
+- Held in Ethiopia, one of the only uncolonized states
+- Decided to maintain the boundaries set by the colonial powers
+- Allowing the borders to be changed would only cause more problems
+- In a recent speech this was compared to Russia's immobile borders
+- Authenticity of states was questioned and debated
+- How to separate true African influence and British domination
+- No one knew what African tradition truly was, so they could not rely on it
+- African history wasn't recorded anywhere in the world at this point
+- Important part of the continent being validated alongside the state-making process
+- Many leaders concerned about neocolonialism
+- Economic dependence on Europe wouldn't leave Africa in a much better place then they were earlier
+- Africa first was necessary for economic policy going forward
+- Colonies weren't allowed to build their own economies because they existed only to serve the metropole
+- Infrastructure was constructed not to connect population centers, but to connect resources to ports
+- System constructed to only benefit Europe
+- Different countries met these challenges differently
+- The French colonies kept close relationships with France, still pay colonial tax
+- Nationalist leaders were not pressing for independence like other leaders were
+- Instead, they sought an equal relationship with France with economic and political power equal to the mainland
+- This fell through as the French refused to value these Africans as much as they valued their own citizens
+- As a consequence, these countries maintained their colonial economies much longer
+- Ghana was one of the world's largest cocoa producers alongside the Ivory Coast
+- Kwame and Felix made a bet to see who could make the most money, with Kwame taking a socialist approach and Felix using a free market economy
+- This strained the relationship between Kwame and Britain
+- Pushed him towards Soviet influence while Felix remained with France
+- Despite this, Ghana and most other countries remained non-aligned, part of the non aligned movement
+- Development was also a significant struggle for African nations
+- The justification of subjugating Africans for civilizing purposes had fallen apart
+- Instead, it was now based on inferiority in modernization
+- Most states in Europe were modernizing rapidly, rolling out large scale agriculture, hydroelectric power etc.
+- Large scale and produced according to formula were both core features of modernization projects
+- Local knowledge and tradition discarded in favor of scientific approaches
+- Agricultural planning policies in Tanzania fell apart because of this split between scientific thinking on the state level and local wisdom
+- African leaders were desperate for modernization and industrialization
+- Had seen the successes of the USSR and the US and wanted to replicate them
+- Suppress development of peasants and buy cheap land to pay for industrial technology
+- Top down development, decisions come from experts in the government
+- No matter if a country was free market or communist, these aspects were present
+- Julius Nyerere, the leader of Tanzania, sought to break this mold
+- Believed that industrialization was a loan trap that poor African countries could not afford to fall into
+- Also didn't want to exploit the lower class
+- Told his citizens to reject both capitalism and communism
+- Created Ujamaa, his version of African socialism
+- Focused on the family level and emphasized small units
+- Became an economic program based on convincing citizens to live in smaller villages and work cooperatively to maximize agricultural production
+- Also allowed for government to provide medical aid easier
+- Land selected for these government villages wasn't productive
+- Included a top down approach and foreign borrowing
+- Complete disaster, actually reduced agricultural production
+- However, life expectancy increased dramatically and education levels raised as well
+- Prioritized equity over growth, earned Nyerere the respect of the Tanzanian population

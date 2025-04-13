@@ -1,0 +1,69 @@
+- The word "apartheid" comes from Afrikaans and means "apartness"
+- Series of laws maintained between 1948 and 1994
+- Created by the afrikaner national party and were created for the purpose of maintaining white supremacy
+- As power slipped, relied more and more on repressive practices
+- Represented Afrikaner interests more than english-speaker interests, but were complicit
+- The goals of apartheid were maintaining stability and economic growth for the white minority
+- Maintained the existing system of maintaining white supremacy, reducing protests
+- System of laws, not just one
+- Created a registry to categorize people into these different racial categories
+- Categories were White, Coloured, Native, and Asian
+- Prohibited interracial marriage and sex
+- Created segregated living areas where different races lives in different neighborhoods
+- Important part was the time period, was expanding racial segregation where it was being challenged elsewhere in the world
+- Created a reserve system for self-government of native populations
+- Effectively removed citizenship from many native Africans and moved them outside of urban centers
+- The UN noticed that all this was happening while the world was moving in an opposite direction
+- Doubling down on existing law instead of changing them
+- Decolonization was also on the rise at this time
+
+Protesting New Regime
+
+- Fierce resistance from the very beginning
+- The ANC began shifting it's efforts to fight apartheid in the early 1950s
+- The youth league of the ANC held many young leaders who persisted for the whole of apartheid
+- This included people like Nelson Mandela and Peter
+- Government outlaws public dissent and gives increased power to the police
+- Used violence indiscriminately and detained citizens without charges
+- Uses language of the cold war and justifies this as "suppression of communism"
+- Defines communism very loosely, can be applied to anything challenging the government
+- Specifically mentions conflict between races, something that has nothing to do with communism
+- The Freedom Charter was a foundational document in the apartheid protests
+- Joint work between the ANC, South African Indian Council, white Congress of Democrats, and Coloured People's Congress
+- Called for a non-racial society and legal equality for all groups
+- Also demanded fair share of land and wealth
+- The South African government responded by arresting 156 leaders in the movement for treason
+- Beginning of using jail time to fight protesting
+- Aligned with the greater movement for decolonization in Africa
+- Some members of the ANC split off to work with the Pan-African Movement
+- Inspired by Nkrumah's work in Ghana
+
+Domestic and International Pressure
+
+- The world already was paying attention to South Africa due to an economic boom in the 60s
+- High growth area, attracted a lot of foreign investment and immigration
+- Government felt pressured to assure stability by putting down these protests
+- Most of the public was still opposed to the regime, but all the leaders were in jail
+- As early as 1953 there were foreign organizations devoted to challenging the South African regime
+- The Anti-Apartheid Movement sought to boycott the South African government and challenge their power
+- Nobel Peace Prize was given to a jailed opposition leader in 1969
+- Other African nations exerted diplomatic pressure on the state
+- The UN also had several councils and committees devoted to apartheid
+- All of this backlash was sparked by local resistance and mainly played a supporting role only
+- By the 1970s apartheid was a hot topic in Europe and North America
+- Named monuments and streets after leaders, boycotted South African goods
+- Nelson Mandela came to represent the struggle
+- Concert was held in his honour at the Wembley Stadium in 1988
+- Mandela overshadowed the actual president of the movement because he was in jail
+- Black trade unions finally began to grow in the 70s and played a key role in challenging the government
+- Were mostly illegal before, but grew enormously
+- Strike days also increased, putting more pressure on the government by challenging their desire for economic stability
+- In 1986 these unions renew a pledge to overthrow white supremacy alongside the ANC
+- Many US companies pull out of South Africa and US banks stop offering loans
+- IMF and World Bank also withdraw their loans
+- In light of this the South African government cracks and agrees to make reforms
+- Happening alongside similar labour movements in Poland
+- The govt unbans the ANC and many other parties in 1990
+- A massive national strike follows and thousands are killed in political violence over the next 4 years
+- In 1994 the first free elections are held and Nelson Mandela is elected president of South Africa
+-

@@ -1,0 +1,6 @@
+- Most people write functions by writing the function first, testing it after, and then checking to see if it works or not
+- Test-driven development starts by writing your tests, and then developing your function to match your tests
+- The problem is that if you need to make a change to your function, you likely won't go and check your changed function on all the values you tested it with before
+- The function stopifnot() can be used to wrap a test, which will output nothing if the test is true but will cause an error if the test is false
+- The testthat library can help us further by creating different checks that go beyond true and false
+-

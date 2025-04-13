@@ -1,0 +1,10 @@
+- Este obra dramático es un entremés, una obra de solo un acto que ocurre en el medio del obra más grande, durante el entreacto
+- Las protagonistas son de clases populares, cuando las obras mas grandes tiene protagonistas de clases altas
+- La trama de los entremeses son comedios
+- Miguel de Cervantes Saavedra tiene un vida casado muy interesante
+- Tiene una hija con una criada cuando fue casado, y divorcio a su mujer
+- También él fue cautiva de piratas por cinco años
+- La obra tiene un fin cerrado, y el mensaje final es contra el divorcio
+- La estructura fue inspirada por el Carnaval, los cuadros aparece como un desfile de personajes
+- Los mujeres tienen nombres, pero a los hombres se refieran por sus profesiones o edades
+-

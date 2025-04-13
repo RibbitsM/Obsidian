@@ -1,0 +1,34 @@
+- Tres pasos para calcular cómputo silábico
+- Identificar si el verso es llano, agudo, o esdrújulo
+- Determina las sinalefas o licencias poéticas
+- Contar las sílabas
+- La licencia poética es cuando el poeta conjuntar dos recursos para mantener el número de sílabas en cada verso
+- Hiato es el opuesto de la sinalefa, dos vocales que están separados
+- Sinéresis es un diptongo falso, y es una licencia poética
+- Diéresis es el opuesto de sinéresis y es una licencia poética cuando se rompe un diptongo para añadir una sílaba
+- Heptasílabo: 7 octosílabo: 8 endecasílabo: 11 alejandrino: 14
+- Si tiene 8 sílabos o menos, es un verso de Arte Menor
+- Nueve o más es Arte Mayor
+- Para marcar rima usa letras Mayúsculas o minúsculas
+- Mayúsculas es por arte mayor, minúsculas es por arte menor
+- Si el fin de frase repetir las vocales Y consonantes, es la rima consonante
+- Rima asonante es cuando solo repiten las vocales
+- La palabra final del verso tiene los mismos vocales
+- Puede ser solo un vocal o parejas
+- También hay versos libres o sueltos, que no rimen con nunca verso
+- Marcan estos con un equis
+- Hay muchas esquemas de rima que usan, pero hay cuatro más importante
+- Rima abrazada: abba o cddc
+- Rima encadenada/cruzada: abab
+- Rima gemela: aa,bb.cc etc,
+- Rima continua: aaaa
+- octosílabo
+- Abacbc
+- Arte menor
+- Un cuarteto es un estrofa de cuatro versos, un terceto tiene tres versos
+- Un sonneto tiene catorce versos en dos cuartetos y dos tercetos, siempre con rima abrazada
+- Primer estrofa presenta la tema, segundo elabora la tema, la tercera estrofa tiene el mensaje, y la estrofa final es el conclusión
+- Una letrilla es una poema de arte menor y rima asonante o consonante que tiene una estribillo (refrain), un frase que repite regularmente
+- Una redondilla tiene cuartetos octosílabos con rima abrazada o a veces rima cruzada
+- El romance no tiene estrofas y siempre tiene versos de octosílabos y una esquema rima de xaxaxa con rima asonante
+-

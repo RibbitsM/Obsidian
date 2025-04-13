@@ -1,0 +1,57 @@
+- Just like languages, sounds can evolve over time
+- An example would be in the word "bagel" where the vowel height is changing in BC English
+- Younger speakers are pronouncing the word differently
+- Normally we examine sound change on a much larger timescale
+- An example would be the difference between a proto-sound and a reflex
+- The change of the proto-romance /k/ to the french /l/is a fronting and spirantization process
+- Some sound changes are more common than others
+- In the cognate set with p, b, b, and v we hypothesized that the original sound was b, and became a p in Italian
+- But unvoiced sounds becoming voiced is more common than devoicing, so it's also possible that the original sound was p, and became a b in Spanish and Portuguese
+- Sound changes are written in a specific way: A>B / C_D
+- A is the sound changing, B is the result, and C and D are the environments before and after the change
+- C or D may be omitted depending on context, and even both can be omitted
+- A null sign is used to indicate a sound being removed: A > 0
+- Can also use this to show sounds being added out of nowhere
+- When a change is at the end of the word, we mark this with a #: A > B _#
+- K > l  
+Types of Sound Changes
+
+- Assimilation is when sounds become similar to sounds adjacent to them
+- Can be total or partial, meaning how alike they become
+- Partial regressive contact?
+- _r means regressive as its in the second slot and it is contact, _...r would be distant
+- Dissimilation is where sounds move away from their adjacent sounds
+- Less common, and is more often distant
+- In Shuswap, the ejectives change like this: k' > k / _...C'
+- Deletion is when a sound is removed or deleted
+- Called Syncope if deleted from the middle, Apocope is from the end, and aphaeresis if from the beginning
+- All these are deletion of vowels
+- Cluster reduction is the deletion of one consonant from a group of adjacent consonants
+- Like knight in old vs modern english
+- Epenthesis is the opposite, when a sound is added
+- Standard Finnish says nelja, eastern dialects say neleja
+- 0 > e / l_j
+- 0 > b / m_r, but the e > 0 / m_r change happened first, this is syncope
+- This is an example of two sound changes happening in order, its important to understand which came first
+- In order to add the b, the e had to be removed first
+- More common sound changes include final devoicing
+- Sounds at the end of the word becoming voiceless
+- Intervocalic voicing is when voiceless sounds become voiced between vowels/voiced sounds
+- Therefore sounds tend to be devoiced at the end of a word, but become voiced in the middle
+- Nasal assimilation is when a nasal sound takes the place of articulation of it's following sound
+- Spirantization is when stops or affricates become fricatives
+- Debuccalization is when sounds lose place of articulation and become glottal
+- Fronting is when the place of a sound moves forward, like velar to palatal
+- Debuccalization is more likely than fronting when you have to decide between a proto sound being velar vs glottal
+- Sound changes are either phonemic or non-phonemic
+- Non-phonemic is a change in pronunciation only where the phoneme inventory is unaffected
+- A phonemic change adds or removes sounds from the phoneme inventory or even changes an existing phoneme
+- Mergers are a phonemic change where two sounds that were formerly contrastive are no longer contrasting
+- A non phonemic change would be fronting, like how some English dialects front the /u/ in goose
+- A conditioned change would be raising the vowel in bag, the previous example is non conditioned because it doesn't have a set environment
+- A chain shift is when a change creates more change in adjacent sounds
+- A pull chain shift is when a sound changes and "pulls" another sound in to replace it
+- An example of this would be caught and cot
+- As a result of the vowels merging, /e/ and /i/ are pulled down
+- A push chain shift is when a sound changing causes adjacent sounds to move away, becoming less like the changed sound
+-

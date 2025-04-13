@@ -1,0 +1,7 @@
+- Los actores representan el texto del dramaturgo
+- No siempre hay un texto
+- El actor junto con el texto creía el personaje
+- Actores tienen papeles concretos y contribuye a la acción
+- Puede representa personas
+- Los actantes realiza actos pasivos o activos, pero no tiene papeles concretos
+-

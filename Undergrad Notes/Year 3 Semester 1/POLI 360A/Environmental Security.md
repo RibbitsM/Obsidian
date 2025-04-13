@@ -1,0 +1,40 @@
+- Insecurity is defined as the risk of something bad happening to something that is valued
+- If something you value is at risk, you are experiencing insecurity
+- Under this definition we can consider threats to the environment to be security threats, assuming the environment is valued
+- Broadens the concept of security by expanding the definition of what poses a threat to things beyond war
+- Also establishes the environment as a new referent object and climate change as a legitimate security risk
+- Earth system boundaries framework seeks to establish how much the Earth's climate can vary before there is real danger
+- Nine key ecological boundaries
+- First is climate change
+- Second is the biosphere, specifically species variety
+- Third is the ozone layer
+- Fourth is the acidification of the oceans
+- Fifth is the increased levels of agricultural minerals in the water
+- Sixth is increased land use
+- Seventh is the interruption of water systems for human use such as dams
+- Eighth is the transformation of the atmosphere via aerosols and other chemicals
+- The ninth and final boundary is the introduction of new compounds into the environment like microplastics
+- Currently live in the Anthropocene, but climate is being destabilized
+- Securitization of the environment started before the post-Cold War era
+- Some scholars brought up resource scarcity as a potential reason for state insecurity
+- Fairfield Osborn in 1948 is one example, another is Richard Ullman is 1983
+- These both talked about how scarce resources might be a motivation for war in the future but the referent object was still the state
+- Notable events related to this were the Suez Crisis, the 1973 Oil Crisis, and the Carter Doctrine
+- Closer to the 90s, George Kennan and Jessica Matthews both published articles in Foreign Affairs discussing the potential threat of resource depletion
+- Kennan especially placed the impact of industrialization as equally concerning as the threat of nuclear war
+- By the 90s, resource scarcity was being seen as a motivating factor in several violent conflicts
+- Examples are water wars in the middle east, and predicted more wars would be fought over water in the future
+- Five main ways climate change may increase the chance of conflict
+- Insufficient resources, uninhabitable land, disease/disasters, refugee movements, and increased competition
+- Study observed that countries affected by El Niño in the past 50 years were twice as likely to be involved in a major conflict
+- Environmental stressors are a surprisingly reliable indicator of civil strife, Peru was hit by El Niño the same year as the Shining Path insurgency
+- Several international conferences/agreements held on the topic
+- 1987 World Commission on Environment and Development popularized the term "environmental security"
+- The Swedish PM Olof Palme was a key figure in the early years of environmental security, encouraging UN members to embrace "common security"
+- Some of these early scholars also began to construct environmental security specifically in opposition to traditional assumptions about security
+- Notable concerns include population growth/overpopulation and resource scarcity
+- Some specific issues mentioned like DDT in food chains
+- Common theme is criticism of politics overwhelmingly focusing on national and state security and ignoring environmental security
+- 60s and 70s saw the birth of several important environmental NGOs like Greenpeace and the WWF
+- All these factors enabled the eventual "securitization" of the environment, basically just the idea that protecting the environment is a major concern of state and human security
+- Overpopulation, resource scarcity, and environmental degradation all pose significant threats to the world and are not addressed by state security

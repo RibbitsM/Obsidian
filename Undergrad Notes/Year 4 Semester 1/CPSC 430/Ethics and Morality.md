@@ -1,0 +1,5 @@
+- Morality is essentially the study of what people should and should not do
+- Ethics can be understood as the study of morality
+- This is extremely important for arguments because ethics can help us understand what people value and what actions to take
+- An ethical model can be a very useful tool for making decisions
+-

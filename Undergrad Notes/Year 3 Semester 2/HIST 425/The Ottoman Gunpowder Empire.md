@@ -1,0 +1,112 @@
+- The steppes of Europe actually extend pretty far into Western Russia
+- End is around the Iron Gates on the Danube, which was a massive gorge difficult to cross on horseback
+- Past this, we have the Panonian Basin where modern Slovenia, Romania, and Slovakia are, surrounded by the Carpathians and the Balkan Alps
+- Here is the Great Hungarian Plains, a fantastic place for a nomadic horseback society
+- On the banks of the Danube, the armies of Hungary, Croatia, and Bohemia met the Ottomans on their way upstream to attack Buda in 1526
+- The combined force were made mostly of Hungarian heavy cavalry, with Czech, Polish and German infantry
+- Classic knights, but supplied with more modern gunpowder artillery and firearms
+- This army was led by King Lajos II, whose kingdom was greatly diminished by his weaker father
+- There were reinforcements coming from Croatia, but for whatever reason Lajos chose not to wait for them
+- On the other hand was the Army of the Sultan led by Suleyman and his grand vizier Ibrahim Pasa
+- Second time Suleyman had invaded Hungary, but this expedition was not a conquest attempt, but a plundering expedition
+- Also could have been a favor for his French ally who was captured by the Spanish Habsburgs
+- Brought a massive army, over twice the size of the Hungarian array with the usual sipahis and janissaries alongside a contingent of Crimean tatars
+- Also had thrice the artillery of their opponents with over 300 cannons
+- Used arquebuses more efficiently, janissaries were trained in rotating musket drills
+- Ottoman forces were forced to arrive to battle in pieces, coming down the hill in four battalions
+- The Hungarian cavalry took the initiative, immediately attacking the oncoming sipahis before reinforcements could help
+- In response, the Ottomans feigned retreat, fooling the Hungarian cavalry
+- This also exposed a solid line of 150 cannons alongside the janissaries and their arquebuses
+- As opposed to the Hungarians who had distributed their firepower throughout their forces, the Ottomans concentrated all their power in one place
+- The battle was a catastrophe for Hungary, with almost the entire army entirely destroyed including King Lajos II and almost his entire cabinet
+- The entire ruling class and government of Hungary was all dead
+- Mohac is considered the moment that marked the fall of Hungary as a state, and its subjugation and humiliation for the next 400 years
+- The Ottomans had no idea the significance of their victory, and waited for the next wave of enemies for 3 days
+- Suleyman did not intend to conquer Hungary, but accidentally had killed the entire Hungarian army and ruling class
+- After sacking Buda with no resistance, they simply left and went back home
+- Suleyman gave Hungary to the Voivode of Transylvania, named Szapolyai, but the Habsburgs argued that they also had a claim
+- Szapolyai could not defend against the Habsburgs, and Suleyman was forced to take a portion to act as a buffer
+- The country was split in three, with Archduke Ferdinand of Habsburg controlling a third, and Szapolyai holding the eastern third
+- Suleyman was forced into holding the middle third, which was a massive drain on the empire
+- Despite being almost entirely accidental, it was later seen as part of the glorious 'Magnificent Century' that lasted from the sacking of Constantinople to the death of Suleyman
+
+**How did Gunpowder Affect Societies?**
+
+- Gunpowder did give the Ottomans an immediate edge over most of its neighbours
+- Enabled the massive expansion of the state in the mid 1500s
+- Gunpowder also empowered the central Ottoman government, but created new financial and logistical challenges
+- The prosperity it created also eventually turned to disaster
+- Adam Smith wrote on gunpowder in _Wealth of Nations_, speaking about the increased costs of warfare
+- Firearms give a massive advantage but are extremely expensive
+- Gunpowder and musket balls are not reusable like arrows and are much harder to manufacture
+- As a result, richer nations more than ever have significant advantages over their poorer neighbours
+- This also elevated the scale of war, which further augmented the authority of the state since only they could now effectively fund war
+- The historian Michael Roberts places this "military revolution" in the period from 1560 to 1660
+- This thesis mostly omits developments outside of Europe, assuming that European militaries are a model for the rest of the world
+- What he depicts as being unique to Europe can be seen in the Ming Dynasty, Mughals, Tokugawa Japan, and of course with the Ottomans
+- Marshall Hodgson expanded this concept to the idea of "Gunpowder Empires" that shared Chingissid ideas of empire
+- Instead of horses, these empires would use gunpowder to form more concentrated and bureaucratic states
+- Hodgson's empires take place a century earlier, from 1450-1550
+- Clifford Rogers argued that there was not one revolution but several:
+- The Infantry revolution in the 1300s, Artillery in 1400s, Fortifications in 1500s, Small Firearms from 1580s to 1630s, and finally in army size from 1650 to 1715
+- The infantry revolution had little to do with gunpowder, and m ore to do with the general fall of cavalry
+- Horses had dominated since the fall of Rome, infantry simply weren't able to resist cavalry charges
+- However, the 1300s created methods for infantrymen to resist these charges, with the first being the revival of polearms
+- Similar to the Macedonian phalanx, closely packed infantry with long polearms were very resistant to cavalry
+- The other method was through ranged weapons, which could take out cavalry at a distance
+- Longbows, crossbows, and arquebuses were all used for this method
+- But these methods were most useful in combination, leading to new "pike and shot" formations
+- Spain used this the most with their _tercios_ formation with crossbowmen at the front that would retreat behind the pikes when cavalry came close
+- As gunpowder became more common, more crossbows were replaced with arquebuses
+- The Ottomans were early adopters of gunpowder, but didn't feel the pressure to adapt to cavalry given their excellent horsemen
+- These innovations were mostly concentrated with the janissaries
+- Noone liked being demoted to gunpowder infantryman, despite its effectiveness so this was limited to their personal slave troops
+- Over time, the janissaries turned from an elite corp to a key part of the Ottoman army
+- They were early to use guns, but late to rely on them
+- Mostly relied on shortbows, which worked just as well, janissaries were trained in bows late into the 1800s
+- Guns were almost always used by janissaries, so as they grew so did the use of gunpowder
+- While pike and shot formations were common in Europe, the Ottomans used their light cavalry and mobile barriers to protect their rangers
+- Classic strategy was entrenchment, securing a position with stakes to ward off horses
+- They would also chain their cannons together to clothesline any horses trying to charge them
+- As far as we know, Ottoman use of fortified wagons likely came from nomadic traditions
+- Surprisingly, a similar strategy was also used in Bohemia in the early 1400s to combat heavy cavalry with nothing but infantry
+- This knowledge then spread to the Hungarians who used it against the Ottomans who further adopted it, called _tabur cengi_ in Turkish
+- Next was the artillery revolution, with more mobile cannons firing iron balls that could effectively take down the small castles and fortifications that were so powerful in the Middle Ages
+- Broke down the division of Europe making it harder for warlords to effect control from a single small stronghold
+- Any monarchs rich enough to invest in these new cannons would be able to easily conquer their neighbours
+- This innovation was mainly concentrated in France, which were employed by Charles VIII to tear through the Italian peninsula at the end of the 1400s
+- However he was unable to finish the job, prompting the greatest engineers of the time living in Italy to search for countermeasures
+- The way fortresses were constructed had to be totally reimagined, replacing high impressive walls with more complex, low, and think fortifications
+- Moats also became much deeper, and earth banks were created
+- Called _trace italienne_, it adopted a star shape to avoid providing attackers with an unprotected horizontal wall to fire upon
+- Emphasis on sloped angles, and using dirt to absorb cannon fire
+- Spread all across the world, and was especially adopted by the Habsburgs in Hungary
+- As for the Ottomans, they were aware of _trace italienne_ and became proficient at attacking them, but they never adopted it themselves, with most large Ottoman forts being classically built
+- On the Hungarian frontier, most Ottoman forts just employed wooden palisades that used some aspects of _trace italienne_ and were called _palanka_
+- Now that muskets were becoming more widely adopted, systematic uses for them needed to be found
+- Compared to archery, they were much quicker to learn
+- Another benefit was that when arranged in a long line, muskets could dispense a lot of damage at once without clumping up
+- Volley fire was another innovation, drilling would allow for a near constant fire rate
+- While long associated with northern Europe, it has been discovered that the Ottomans were likely one of the first countries to use volley fire strategies
+- Looking over time, Ottoman warfare was becoming more industrialized and state centered
+- Compared to the independent warrior upper class cavalry that were paid in land grants and personal plunder, we now had slave infantry armies paid and trained by the state
+- Even in the late 1400s, the Ottomans still faced challenges from neighbouring Turcoman states
+- Once they defeated these foes, they found yet more enemies in the Safaviyya Sufi movement led by Shah Ismail
+- Alarmed by the spread of Safavid sympathizers in Anatolia, the Ottomans were forced to put down multiple Shi'ite revolts on their eastern borders
+- In 1512, the janissaries revolted, deposing Bayezid in favour of his much more militant son Selim
+- Selim was ruthless to the Turcomans, even securing a _fatwa_ to exterminate all _kizilbas_ or rebels
+- Followed by a military expedition against the Safavids between Ottoman gunpowder weapons and traditional steppe horse archers
+- At the battle of Caldiran in 1514 the Ottomans brought somewhere between 100-500 cannons against the Safavids 0
+- Continuing on, Selim then secured another _fatwa_ against his only remaining regional rival, the Mamluk Sultanate
+- He accused them of allying with European heretics, which was likely just an excuse
+- Recall that the Mamluks had defeated the Mongols, these guys were no slouches but they also still leaned more towards horse archery versus gunpowder
+- Early battles were all decisive Ottoman victories, with nothing going well for the Mamluks
+- They retreated to Egypt and attempted to regroup, but despite trying to mimic Ottoman strategies the Mamluk Sultanate fell
+- In only a decade, Selim had eliminated his two main regional rivals and nearly doubled the size of his empire
+- By capturing Egypt, the Ottoman empire had also significantly increased their economy
+- This also turned the state into a Muslim majority, adopting the title of Caliph and protector of the Hajj
+
+**Conclusion**
+
+- Overall, gunpowder gave the Ottomans immense power and prosperity, skyrocketing their territorial and economic expansion
+- Centralized the Ottoman state, and made war more reliant on the state as a whole across the world

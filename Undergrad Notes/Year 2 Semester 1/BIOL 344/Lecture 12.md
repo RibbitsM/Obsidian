@@ -1,0 +1,10 @@
+- 3/32 plus 3/32 plus 3/64 equals 15/64
+- Not all creatures have their sex determined by chromosomes
+- In humans, females have XX and males have XY
+- Sex linkage means X-linkage in humans
+- Drosophila has the same determination, XX and XY
+- When writing genes for sex chromosomes, always write the sex gene, but leave the superscript blank if it is unknown
+- For example, XD X_ is okay, but XD _ is not okay
+- X and Y chromosomes in men have pseudo-autosomal regions at their tips, and pair like any other chromosome
+- Wild-type is the most common phenotype in nature, and is signified with a superscript +
+-

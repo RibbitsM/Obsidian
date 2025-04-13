@@ -1,0 +1,114 @@
+- Conflict occurs near constantly in global politics, whether between states, states and non state actors, or within non state actors
+- In the vast majority of cases, these conflicts are solved peacefully, and armed conflicts never erupt
+- Armed conflicts are much more conspicuous than conflicts that are solved diplomatically
+- War, or armed conflict, is a central problem in the study of international relations, maybe the most important problem
+- Armed conflict must be socially recognized, and have a purpose
+- Collective killing, for a collective purpose
+- The core elements of war are recognition, violence, purpose, and involvement of groups
+- Definitions of war can vary from very general to very specific
+- The Stockholm International Peace Research Institute requires the use of weapons in war, and for at least 1000 people to die from battle per year
+- There also must be at least one government involved and it must be prolonged
+- This is an example of the arbitrary coding requirements that databases have
+- Keep this is mind when looking at data from organizations like SIPRI and others
+- UCDP or Uppsala Conflict Data Program requires only 25 deaths in a year
+- The UCDP also counts one sided conflicts as armed conflicts
+- A battle death is a fatality caused by one of the warring parties, this includes civilian fatalities
+- Don't confuse this with casualties, which includes wounded, missing, and captured
+- There were 56 active armed conflicts in 2020, a record high since 1946 (UCDP)
+- There were 8 ongoing wars in 2020 (SIPRIS)
+- The majority of conflicts are intrastate, meaning not between two states
+- Almost half of intrastate conflicts are internationalized, meaning an external actor is influencing it
+- The total number of deaths from organized violence was approximately 80,100
+- Total number of state based violence deaths was approximately 50,000
+- The 2020 data set is the most recent complete set we have
+- By looking at where these deaths are concentrated, we can determine where security issues are most severe
+- By looking at historical numbers, the overwhelming majority of battle related deaths are from major interstate conflicts
+- Even though intrastate conflicts are more common, they are much less deadly
+- Over time, battle deaths have consistently decreased since 1946
+- Things are much better than they used to be
+- Over the past few years, internationalized intrastate wars like the Syrian War have caused the most deaths
+- There seems to be a correlation between foreign involvement in war, and peaks in fatalities
+- Since 1989, the kind of violence leading to the most casualties has been one-sided violence
+- Because of the Rwandan Genocide, all other types are overshadowed by the enormous spike in one sided violence in 1994
+- Ignoring this outlier, state based violence is the biggest killer
+- Most armed conflicts have been concentrated in Africa, Southeast Asia, and the Middle East in that order
+- The study of conflict is overwhelmingly defined by data
+- The goal is to determine patterns in global conflict, and answer questions about trends
+- Data is less useful for determining causes of war
+
+Causes of War
+
+- Researching causes of war has roots in many different disciplines
+- Sociologists and anthropologists have long examined whether human aggression is learned or programmed
+- Aggressive humans are the most likely to survive, succeed, and mate
+- The forces of evolution resulted in creating a population of inherently aggressive people
+- Konrad Lorenz hypothesized that humans naturally become aggressive when faced with frustration
+- Bandura believed that aggression was learned
+- Humans born into a society that rewards aggression, will become aggressive
+- He created an experiment where kids would watch an adult beat up a boppo the clown doll
+- The kids were then put in a room with the doll, and they attacked it
+- The conclusion was that violence was learned
+- There are several issues with the experiment, and it has been mostly discredited
+- The 1986 Seville Statement came from a group of researchers discrediting the naturally aggressive theory
+- It is made of five points, stating that is it scientifically incorrect to say a variety of statements supporting learned aggression
+- This dominated the discourse until Stephen E. Leblanc wrote the book "The Evolution of Violence"
+- His argument is that warfare was so essential and pervasive in early human life, there is no other answer than that it was adopted into the human psyche
+- Psychologists examined the personalities of several leaders who started wars and diagnosed them with narcissistic personality disorder
+- Other researchers attribute war to cognitive failures and miscalculations
+- If both leaders involved in a conflict made the sensible and fact based decisions, war would never erupt
+- For example, Putin deciding to invade Ukraine is a huge mistake caused by cognitive failure
+- There are many examples of terrible decision making by countries leadership that resulted in war
+- Looking at the group/state level, the main cause is often attributed to power
+- A desire or ambition for power is the motivation behind conflict
+- States want empires, freedoms, homelands, holy lands, independence etc.
+- Saddam Hussein had an ambition to seize oil production in Iran, and to dismantle the current order
+- Ian Morris argued that war existed as a means to an end, a tool for the state
+- Materialists argue that war is fought to meet human needs
+- Wars of gain, resource wars, desire for economic control
+- Wars have often been fought over things like oil, trade routes, farmland etc.
+- No matter how far back or recent we go, there are wars fought over resources
+- Economic grievance or marginalization can motivate a state to go to war
+- Wars can be fuelled by ideas
+- Religious messianism, spreading democracy, fascism, all of these have sparked wars
+- Looking at the structural level, wars are fought for self defense and security
+- The anarchy of the global system drives states into fights for survival
+- When a state fears for it's well being, it may have to fight
+- Some argue that wars are just part of a natural cycle of war or peace
+- Looking at the history of technological innovations in human history, there is a crunch appearing
+- Every new revolution happens faster, at an exponential pace
+- What is the correlation between these advances and conflict breaking out?
+- Wallerstein superimposed these periods of technological advance onto a chart showing the fatalities of armed conflict from 1500 to 2000
+- Each economic peak seemed to coincide with a peak in fatalities from a major war
+- When the world is at it's most successful, people tend to go to war
+- In times of struggle, countries focus on their own affairs
+- Others believe in hegemonic cycles, or the concept that war is caused by the rise and fall of hegemons
+- After a peak in power, a hegemon declines until it is defeated and a new hegemon takes it's place
+- Occasionally, the hegemon will win the war and will be restored for another cycle
+- In the case of the United States, the role of hegemon was simply handed to it after WWII
+- Our rising challenger in this cycle is China, and at some point in America's decline, a war will erupt between hegemon and challenger
+- The winner will determine the hegemon in the next cycle
+- Climate change is another possible cause of wars
+- As global temperatures rise, arable land and fresh water are becoming more and more scarce
+- Lack of resources will turn to conflict as states turn to violence to acquire resources
+
+Trends in Armed Conflict
+
+- Hybrid warfare is becoming more and more common over the past few years
+- It is defined as a combination of conventional warfare, irregular tactics, economic warfare, information warfare, and terrorism
+- Hybrid warfare was implemented in Syria, Ukraine, Iran, Crimea etc.
+- This is much harder to respond to than conventional warfare because it targets weaknesses
+- Conventional military power is less and less useful
+- Propaganda and support of local unrest groups undermines a group from the inside
+- We are seeing a trend towards wars on multiple fronts, a much more flexible form of war
+- Cyberwarfare is defined as actions in cyberspace by a state or non state actor that poses a serious security threat
+- Information warfare can be against systems, military, people, and civilians
+- It can include hacking of crucial systems, gathering intelligence, controlling how people act through manipulation of information, disrupting lines of command, etc.
+- This concept has been around for years, but we only have the technology now
+- Cyber warfare has been implemented in armed conflicts several times over the past few years
+- One of the first major cyber attacks was in Iran in 2009, where a spy delivered a virus via USB key to Iranian centrifuges spinning uranium which caused them to destroy themselves
+- As for the lack of cyber attacks in the invasion of Ukraine, the main theory is that Ukraine knew Russia's propensity for hacking and hardened their defences
+- Military officials have stated their belief that AI and robotics are the future of conflict
+- UAVs are very common already, and semi-autonomous and fully autonomous combat robots are in development
+- Some believe that space is also a possible frontier for war
+- Famously, the United States created the Space Force recently
+- Their missions include control over satellite operations, control of nuclear command, space support of land operations, missile warning, etc.

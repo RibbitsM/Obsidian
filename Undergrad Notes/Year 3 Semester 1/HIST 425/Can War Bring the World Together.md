@@ -1,0 +1,129 @@
+- The city of Baghdad was situated on the Tigris river
+- Extremely civilized place, largest library in the world and tons of offices and other political structures
+- The city was surrounded by walls and protected by the Tigris river which fuelled Baghdad's many gardens and fountains
+- Contains one of the oldest universities in the world
+- City founded in 762 CE by the Islamic Caliphate
+- Capital of a world empire stretching from Algeria to Afghanistan and into Central Asia
+- Centre of Sunni Islam and Arabic culture
+- Perhaps largest city in the world at the time and certainly most cosmopolitan
+- The Abassid Caliphate was reduced by a series of infighting wars, reducing their empire greatly
+- However, their religious and cultural prestige persisted
+- On January 29, 1258, an army of 100-150,000 Mongols alongside 20,000 Christian allies, 1,000 Khitan engineers, and some local Muslim allies appeared at the walls of Baghdad
+- Long time coming, Chinggis Khan drew up plans for war with the Caliphate
+- However, even after the Great Khan died, his plans persisted
+- Despite attempts to appease them, the Mongols wanted war
+- At the time, Mongke Khan, the grandson of Chinggis was the current Khan
+- Tasked his brother Hulegu to destroy remaining resistance in Persia
+- Included a siege on the stronghold of the Order of Assassins in modern day Iran in Alamut, in the Elborz mountains
+- He asked the Caliph for assistance, which he declined
+- Hulegu addressed an ultimatum to the Caliph asking him to destroy his defences and abdicate the throne in exchange for peace
+- The Caliph responded condescendingly, essentially threatening the Mongols
+- Mongols exerted basically a universal claim to authority, every kingdom belonged to the Mongols
+- Generally declared state of war with all those who opposed them
+- The Caliph was not able to raise really any sort of forces to defend him against the incoming Mongols
+- The battle was basically a forgone conclusion, Baghdad surrendered to the Mongols who did not care and slaughtered most of them
+- The city was occupied and sacked soon after
+- Hundreds of thousands of Sunni were slaughtered, but the Christians and Shi'ites were spared
+- Many of the great landmarks of Baghdad were destroyed, and the Abassid Caliphate was basically completely gone
+
+**Questions**
+
+- How did the Mongol wars of unification become wars of conquest?
+- Crucial period was the time between the creation of Chinggis Khan and his death (1206-1227)
+- Important points were a desire for universal Mongol law and a cosmic sense of entitlement
+- Chinggis had unified the plateau, but being a Khan meant being a war leader
+- Mongol culture was defined by a state of constant war, unifying the tribes did not change this
+- In addition, there were many enemies still surrounding the plateau
+- Chinggis also needed to provide for his followers via plunder
+- War was the primary mode of gaining wealth
+- Honor and vengeance were still core values, and Temujin still had a lot of grudges to settle
+- Many raids were carried out against the Xia, first unified Mongol campaign
+- The Xia had units called cataphracts, basically fully armored horses and riders
+- The Jin also had cavalry like this, fairly common in southern steppes
+- Much more difficult than the Mongols expected, eventually laid siege to Zhongxing
+- First Mongol experience with siege warfare, and were having little success
+- Instead of sieging the city, the Mongols attempted to redirect the Yellow River to wash away the walls
+- This backfired, and the resulting flood was disastrous for the Mongols
+- In the end they could not breach the walls, but the Emperor conceded
+- In addition, the nearby Uighur king also submitted to the Khan
+- After this, the Mongols led campaigns against the Jin
+- The Jin were an old enemy who importantly had the protection of the Great Wall
+- However, Chinggis had made a marriage alliance with the Ongud who controlled a section of the Wall, allowing them to pass through
+- Again, the Mongols struggled to lay siege to the capital of Zhongdu, and only succeeded due to infighting within the Jin
+- Jin retreated to Kaifeng and agreed to pay tribute
+- They obviously intended to bide their time and attack later, but this would be after the death of Chinggis
+- Going back to the story of the Naiman, the Kara Khitai were sheltering the son of the Naiman's defeated Khan, Kuchlug
+- He had been embraced into the Kara-Khitai, who he launched a coup against
+- Disliked by his people, clearly driven only by revenge with the Chinggids
+- Chinggis had to be constantly concerned about a potential Kara-Khitai attack
+- In 1216 the Kara-Khitai attacked a Mongol-allied city, incurring their wrath
+- Much more like traditional Mongol warfare, Chinggis made short work of the Kara-Khitai, killing Kuchlug
+- Mongol's rapid expansion had brought them into contact with the Khwarazmian Empire
+- These were not old enemies, the two empires had never met before
+- Chinggis never meant to go to war with the Khwarazm Shah, when they were attacked by their forces the Mongols retreated at nightfall
+- Willing to overlook this one incident, but this was not all
+- At the time, the Mongol Empire was fairly disconnected from trade routes
+- When they did try and trade with the Khwarazm, their caravan was executed
+- Sent a caravan of traders with a friendly letter, but the Shah was suspicious and thought they were Mongol spies
+- Disastrous decision for the Khwarazm Shah, incurred the full wrath of the Mongols
+- Chinggis was livid, and demanded vengeance against the offenders, especially when the envoy he sent demanding reparations was also killed
+- Otyrar, the city where the merchants were killed, was razed to the ground
+- The Shah had completely misjudged the situation, and instead of trying to fight the Mongols he attempted to flee
+- With no resistance, the Mongols simply went town to town destroying
+- Near the end, they would only kill military personnel but would ransack cities
+- Overall, they were harsh but predictable
+- Cities that surrendered were treated better, but all opposition were murdered
+- Things got really bad when surrendered cities rose up again, the populations of these towns were systematically killed en masse
+- Around this time, the Tangut or Xixia Empire had decided to stop sending troops to the Mongols, since they were so overextended
+- Chinggis would remember this insult, and once his campaigns against the Jin and Khwarazm ended, he returned to conquer the Tangut
+- Before his death he granted land to each of his sons with Borte, and established his son Ogedei to be the next Khan
+- Ogedei continued the Mongol expansion, overseeing campaigns into Korea, Hungary, and more
+
+**The World Chinggis Made**
+
+- Now is a good time to look back and examine the extent of the Mongol Empire at this time
+- One thing significant about the Mongols were their complete lack of relativism paired with surprising tolerance
+- Everything was seen through a Mongol frame
+- The world of Mongol politics were very personal, hence why they were called the Chinggisids
+- The term _irgen_ was used which refers to a leader, his family, and his subjects
+- People are grouped not by ethnicity, but by their leader
+- Other common word was _ulus_, which today means "nation"
+- However, the original meaning was more like "herd" and that herd's grazing grounds
+- Refers both to the subjects of a ruler and the territory they occupy
+- However, this was a moveable concept, these were nomadic people
+- Much less geographically orientated compared to Chinese or Greek ideas
+- Based on bloodline, not state, and people, not territory
+- Mongol foreign policy was also very personal, the personal characteristics of the ruler were reflected in the entire polity
+- This is the root of the importance of revenge and retribution
+- Culturally enshrined duty of eye for an eye
+- Private vendettas were compulsory, order was upheld via revenge
+- Remember, no law enforcement in Mongol society
+- Vendettas were passed down generationally, lasted very long
+- Endless cycle of blood feuds, hence why Mongol leaders preferred to stamp out entire bloodlines at once to avoid vengeful sons surviving
+- Going to war over honor and vengeance was expected
+- Another important concept is the Mandate of Heaven
+- Chinggis's destiny was preordained, he was always destined to rule the world
+- Most official documents started with the phrase "By the power of Eternal Heaven, by the protection of the Khan's bright fortune"
+- Divine extension about the idea of charisma
+- Mongol religion involved shamanism and devotion to a single Sky God named Tenggeri
+- They also saw no real difference between Tenggeri and God/Allah, hence why they tolerated Abrahamic religions
+- Debate over whether or not Chinggis's ideology came from this or not
+- We really have no idea what Mongol religion looked like prior to Chinggis
+- All people were classified into people who submitted to the Mongols and those who did not
+- Within those who rebelled, some were people who were targets of vengeance
+- Rebelling against the Mongols == rebelling against the will of heaven
+- A good example is an interaction between the son of Ogedey and Pope Innocent IV
+- Ogedey sent a letter to the Pope demanding that by the order of God, the Pope and his bishops should come to Mongolia
+- Basically informing him that he should be a subject of the Mongols, and that they conquered Hungary because they were their rightful subjects
+- Dangerous combination of a manifest destiny with Mongol vendettas
+- Allowed Mongols to regularly justify the massacre of entire cities
+- Relations with foreign powers were often very poor, Mongols were not very diplomatic
+- They did not respect the sovereignty of other countries and only really practiced diplomacy reluctantly
+- Usual process was to send a letter to the leader demanding surrender, ending with a thinly veiled threat
+- Only real diplomacy was practiced between Mongol groups
+
+**Conclusion**
+
+- War was sometimes justified by individual circumstances like the war against the Kharazm Shah
+- Domestic system required constant war to function
+- International order dominated by Mongol lack of relativism, and a worldview where Mongols had cosmic dominance

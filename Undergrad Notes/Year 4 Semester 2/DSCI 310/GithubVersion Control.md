@@ -1,0 +1,41 @@
+- Two main systems you need to consider with a Github repository: your computer and the cloud
+- You'll be using git on your machine, and github is hosted on a server somewhere
+- One important thing to remember when cloning your git repositories is to make sure that the folder you are cloning the repository into isn't already a repository
+- The origin branch is the branch hosted on github, not on your computer
+- A useful command is git restore <file> which lets you revert a file to the last committed version
+- You can also type git restore --staged <file> to unstage a file
+- When you're committing, the command is git commit -m (to add a message) and then your message as a string
+- Every time you "commit", that's a new version on Github
+- If you want to include all of your changes under one commit, then just add all of the changed files and commit them in one session
+- Often, it's better to add and commit in smaller steps so you have more granularity in what versions you can go back to
+- Also, remember that you don't have to push every time you commit, Git will save all of your commits until you're ready to push
+- When you are pushing or pulling, you have to specify what machine you are targetting, and what branch you are pushing/pulling to/from
+- Generally if you are behind remote, just merge
+- Run git remote update to make sure git knows what is going on before checking status
+- There is a hidden file you can create called .gitignore, where you can specify which files in your repository that you don't want git to track
+- All you do is just write the name of the file you want to ignore in .gitignore, no formatting
+- Keep in mind you will still have to track .gitignore, but all files listed in it will no longer be tracked
+- Git doesn't track empty folders, which can be a problem
+- A good idea is to just make a readme file in the new folder to describe what it does and to give git something to track
+- Another convention that people use is just make a file called .gitkeep in that folder which is an empty text file to just let people know the folder is supposed to be empty and is still tracked
+- A common github issue is that even if you and your teammates are all working on separate files, it's hard to regularly commit because your teammates will also be pushing
+- This doesn't create merge conflicts, but it is annoying and slows down the process
+- Branches solve this issue, and let you push your commits in a separate environment from your teammates where you can merge everything together at the end
+- You can add extra parameters when checking git log
+- Git log --oneline condenses the info, and adding git log --oneline --graph shows branches and merges as well
+- You can also type git log --oneline --graph --all to get a graph of all branches
+- When you're pushing on a branch make sure you run git push origin <branch>
+- We've covered making commits and changes to a single file, but what if you're working on multiple things at once?
+- One scenario is trying multiple different approaches on the same file
+- You can use ls -a to see hidden files in bash
+- Another useful tool is making bash scripts
+- By making a .sh file and writing bash commands in it, when you run that script with bash <script name>, those commands will be executed
+- When you have conflicting pull requests, Github won't know that they conflict until you try to merge
+- The branches only know that main updated, not that there's another branch
+- This is why gitignore is important because you can make sure irrelevant files don't cause conflicts
+- To solve this, we need to use rebase
+- This is a command that moves a branch from it's original location and adds it as a commit onto the most recent version of the target branch
+- Basically stapling an old commit onto the current version
+- You could do this all in the web browser, but you'll probably need to do some testing of the code so it's unlikely that would work all the time
+- This isn't guaranteed to avoid merge conflicts, but it works most of the time
+-

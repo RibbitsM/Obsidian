@@ -1,0 +1,35 @@
+- The goal of machine learning is to generalize beyond our training data
+- We generally improve this by tuning our hyperparameters through cross-validation
+- Finding the optimal values for hyperparameters is extremely important for the generalization process
+- There are a couple ways of doing this, both manual and automated
+- Manual optimization is good when you know your data very well, but is not reproducible and probably harmful with complicated data
+- We can also just search through all values possible and test them, but this is usually unfeasible and too time-consuming
+- This is the way we have been optimizing our hyperparameters so far
+- However, this requires us to go through the entire process of preprocessing, cross-validating, fitting, and scoring for every value we chose to check
+- This gets even worse if we have multiple hyperparameters to optimize because we also need to find the best combinations
+- If we do this, the best way to visualize it is through a heatmap
+- Even if we are just doing 5 fold cross validation to test 6 values each for two hyperparameters, that's 180 models you need to fit
+- This is so common that there are automated ways to do this entire process
+- One option is GridSearchCV()
+- To use it, just import the package and input your pipeline to the function and then you can fit and score the grid object
+- You'll also have to add which parameters you want to check, generally as a dictionary
+- When you're naming your parameters, start the name by writing the estimator it's used for, and then two underscores followed by the parameter name
+- Also make sure to add return_train_score=True for GridSearchCV()
+- Instead of grid search, we can also randomly search for the best hyperparameter
+- Normally we would list which values we want to check, but a random search would just pick random values which actually gives us a better chance of finding the optimal values
+- This is because our grid naturally has holes in it since we manually filled it out, but random search could hypothetically pick any value so it has no hole
+- To do this in Python we use RandomizedSearchCV()
+- Instead of passing a grid, you pass a distribution of values for each hyperparameter instead and set a number of iterations to perform on each distribution
+
+**Optimization Bias**
+
+- Another important question to ask is why we never use the full set for cross-validation
+- This is because we can also have overfitting in the optimization process
+- There is always the chance that we have a bad hyperparameter, but for other reasons it still results in a good score
+- Even though the cross-validation error was low, it may be much higher when you try to use the model on the test data
+- This is especially common when you have a small training set
+- We need to think critically as to whether the results of our optimization will actually generalize well
+- Overfitting of the validation data happens when our accuracy results are not representative of the test accuracy
+- This is why data splitting is so important, we always need a test set
+- If you run into this issue, you can try a simpler model and run the process again, and if you decide to keep it make sure you communicate that the validation data was overfit
+- However, the only real permanent solution is just having more training data

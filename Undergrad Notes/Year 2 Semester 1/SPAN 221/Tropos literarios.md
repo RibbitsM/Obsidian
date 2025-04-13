@@ -1,0 +1,14 @@
+- Metonimia es el proceso de sustituyendo el nombre de una cosa por un otro, relacionado, nombre
+- A mi me gusta mucho el oporto
+- Sinécdoque
+- Cuando la relación es entre el todo y la parte
+- También puede ser del género por la especie
+- Pierdo seis almas este día
+- Metáfora también es un tropo literario, pero es muy común
+- Sus dientes son perlas
+- Alegoría es una metáfora extendida, o un colección de varias metáforas para expresar un mensaje único
+- Un símbolo es una cosa concreta que explica un concepto abstracto
+- Parábola es un pequeño narración para enseñar un mensaje o un semejanza
+- Pensar de los fábulas de Esopo, o historias de biblia
+- El conde Lucanor es un parábola
+-

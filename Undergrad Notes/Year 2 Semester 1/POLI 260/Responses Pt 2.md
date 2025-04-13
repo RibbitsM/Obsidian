@@ -1,0 +1,56 @@
+- Paris agreement represented a significant step forward
+- In response, the IPCC released a special report in 2018
+- Stated that by reducing global warming to 1.5 degrees would be effective
+- Solidified a growing consensus around the 1.5 number
+- To do this, emissions would need to fall by 45% by 2030, and reach net zero by 2050
+- If all commitments made under Paris were met, emissions would still be 38% higher than required
+- EU created the European Green New Deal to reach net zero by 2050
+- The Climate Ambitious Coalition was created by 73 countries and also committed to net zero by 2050
+- The People's Climate Vote survey in 2020 sampled 1.2 million respondents, with a variety of ages and backgrounds determined that 2/3 of people see climate change as an emergency
+- Results by country were also fairly consistent, with most countries at 60% and above
+- Pressure to divest in fossil fuels is growing, many individuals and institutions including Black Rock have pulled capital away from fossil fuels
+- Increase in renewable energy like solar and wind
+- Many countries have made further voluntary pledges under the Paris agreement
+- Countries representing 90% of global emissions have made net zero pledges
+- Funding towards climate action still focuses on mitigation, but adaptation is growing
+- Many significant corporations have committed to using 100% renewable energy by 2050
+- Some of these seem to be greenwashing, but many are not
+
+Crisis
+
+- The world has already warmed by 0.8-1.2 degrees and will continue to rise by 2.7 by 2100 even if all NDCs are met
+- Projected 2030 emissions are to be reduced by only 7.5%, 30% is needed
+- No major emitters have a climate pledge capable of meeting the 1.5 degree target, although the EU and the UK come close
+- COP26 was delayed until 2021 and was held in Glasgow
+- Point of Glasgow was to build momentum towards strengthening NDCs
+- Major priority was to meet the 1.5 target
+- Last chance to make 1.5 possible, after 2021 the chance would be lost
+- For many vulnerable nations, the difference between 1.5 and 2 degrees is devastating
+- Political differences were still just as present as in Rio
+- Industrialized versus lower income countries were still arguing
+- Trying to include targets involving phasing out fossil fuels was difficult
+- Financing and liability of adaptation continued to cause problems
+- Outcome was the Glasgow Climate Pact which was signed by 197 parties
+- Resolves to limit temperature increase to 1.5 which requires a 45% reduction in emissions
+- First tangible statement that 1.5 is the target
+- Requires developed countries to significantly scale up adaptation financing and efforts
+- Recognized loss and damage of climate change and urged additional support, but did not create specific efforts for climate liability
+- Called countries to update NDCs every year instead of every five years
+- An earlier draft called to accelerate the phasing-out of coal and subsidies for fossil fuels
+- Almost made it in, but India and China demanded revisions
+- Final draft calls for the phasedown of unabated coal power and phaseout of inefficient fossil fuels subsidies
+- Also said support would be provided in line with national circumstances
+- AR6 released in 2021, and is the current up to date climate report
+- Again, states definitively the symptoms and causes of climate change and calls for action
+- Only 29 out of 194 countries strengthened their NDCs after COP26
+- Glasgow wasn't enough
+- In addition, the $100 billion Green Climate Fund still has not been formed
+- COP27 was held in Sharm El Sheikh in November 2022
+- Still too early to see the outcomes
+- Biggest win was the creation of a loss and damage fund, but no amounts have been announced
+- Pledges to the adaptation fund was increased
+- Countries pushed back on the 1.5 target, mostly due to COVID and Ukraine
+- No agreement was reached on fossil fuels or peak year which was supposed to be 2025
+- A clause mentioning low emissions energy could allow coal and gas power to continue
+- Little to no recognition of indigenous peoples
+-

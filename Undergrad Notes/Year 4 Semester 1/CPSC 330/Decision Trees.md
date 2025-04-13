@@ -1,0 +1,16 @@
+- The main machine learning framework we will use in this class is the scikit-learn framework
+- Training is the process of applying an algorithm to produce the best function for mapping data x to output y
+- In real life, the relationship between x and y is often much too complicated to represent mathematically, so our model is simply an approximation
+- To train a model like this, we need to first separate x and y from our data
+- We'll have two objects, X contains all the variables and y contains the true values of the target variables
+- Before we start building our model, we can establish a baseline like a dummy classifier that will classify every observation at the same level
+- Initially, your baseline will likely do a bad job of predicting y
+- To start looking for possible predictive factors, we can use decision trees to split the data
+- Come up with a question for each split, and group data by similar outcomes
+- A decision tree algorithm will try to find the best questions to ask at every step to best classify the data
+- Using the sklearn framework, we can apply this by using DecisionTreeClassifier as our model
+- Also, a decision tree with a depth of one is called a decision stump
+- There are metrics we can use to determine the usefulness of specific features like information gain
+- The parameters of a decision tree model are the questions asked at each node, and the hyperparameters are the settings of the tree itself, like the maximum depth
+- This is just one option, there are many hyperparameters to choose from
+- When adjusting the parameters, consider changing the threshold as well as the feature involved

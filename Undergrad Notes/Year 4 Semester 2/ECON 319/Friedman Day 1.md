@@ -1,0 +1,16 @@
+- Associated with the Chicago School
+- Initiated the practice on collecting income tax continuously from paychecks as opposed to all in one chunk
+- Advocated for economic stimulus through one-time rebates, like the COVID stimulus
+- Now infamous for his libertarian views, but also held some progressive standpoints
+- Worked with many female economists which was fairly uncommon at the time, and supported gay rights and limited drug legalization
+- Also was originally a Keynesian in his young age, but later began to push back on government intervention
+- Rejected the influence of the MPC, argued that people tend to plan consumption in the long term
+- People's consumption is not necessarily based on present income, but expected income
+- Developed the model of Monetarism, which advocated for a very small government approach to macroeconomics
+- Important to note that Friedman's "helicopter checks" were not necessarily sourced from the government, he was just noting the importance of economic stimulus
+- He was a staunch libertarian advocating for eliminating the government almost entirely
+##### Monetary Theory
+- Price level is a direct function of the money supply
+- In the SR, increasing money supply increases output and employment
+- In the LR, increase in money supply created inflation
+- This can be used to control the business cycle

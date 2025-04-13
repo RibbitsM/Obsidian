@@ -1,0 +1,54 @@
+- In point estimation, we estimate an unknown parameter by using a single number
+- This number is calculated from sample data
+- In interval estimation, we estimate an unknown parameter using an interval that plausibly contains the unknown parameter value
+- This is calculated form a sample and states how confident we are that the true value is captured
+- Hypothesis testing is something new where we make a statement about an unknown parameter
+- Then, we use data from a sample to provide evidence for or against our claim
+- If we assume a deck of cards in normal, then the proportion of red to black cards would be 0.5
+- Let's say we draw 10 cards, and the p of the sample is 1
+- Six steps to hypothesis testing
+- First, state your hypotheses, both the null hypothesis and alternative one
+- Then, set the significance level
+- Third is collecting the data, and fourth is calculating the test statistic
+- Then you calculate the p-value and finally draw your conclusions, rejecting or accepting your null hypothesis
+- For example, if Ho(the null hypothesis) is U = 10, the alternative hypothesis (Ha) would be U > 10, U < 10, or U != 10
+- The p-value is the likelihood of the null hypothesis being true
+- For example, Apple claims the Macbook Pro can go 20 hours without a recharge
+- If you sample a couple macbooks and leave them on until they die, and the average time is 19 hours
+- Since we don't know the sampling distribution, we can't say if this sample is representative or not
+- The null hypothesis for this example would be Ho: U = 20 hours
+- This hypothesis usually represents the status quo, or the established thought
+- In this example, it's Apple's claim that their laptop lasts 20 hours
+- We don't think its battery life is that good, so our alternative hypothesis is Ha: U < 20 hours
+- Start by assuming the null hypothesis is true, and then see if the data supports it
+- For testing, collect a sample and calculate our statistic of interest
+- This is our test statistic which is the point estimate we're going to use
+- Say we sampled 500 Canadians and the average age of graduation was 23 and we want to see if this has increased
+- Ho: U = 23, Ha: U > 23
+- Can use the equal or greater than/equal to sign for the null hypothesis
+- P-values summarize the evidence by showing how unusual the data would be if Ho was true
+- Probability of observing a result as extreme if Ho is true
+- Done by centering bootstrap distribution on the null value and observing where our sample parameter lies
+- In the case of our Canadian graduates, our p-value is 0.01, very small
+- Basically if we assume Ho is true, our sample is very unlikely, meaning Ho is probably false
+- We use significance values to evaluate our p values
+- Basically a cutoff where something is statistically significant or not
+- Usual significance values are 0.01, 0.05, or 0.1
+- If our significance value was a = 0.05, this p-value would be rejected and we would conclude the alternative hypothesis to be correct
+- If p <= a, then it is statistically significant and we reject the null hypothesis
+- Generally the smaller the p-value, the more likely the null hypothesis will be rejected
+- If we reject the null hypothesis and the reality was that it was true, this is a type 1 error
+- If we didn't reject it, but in reality the null hypothesis was false, we made a type 2 error
+- Ideally we want to reduce type 1 and 2 errors, but they are linked meaning when one is reduced, the other grows
+- Depending on the situation we will want to minimize either type 1 or 2 errors
+- For example in a court case lets say the Ho is that the defendant is innocent
+- In a type 1 error, we put an innocent person in jail, and in a type 2 error we let a guilty person go free
+- Generally speaking, type 1 would be the worse scenario here so we should reduce type 1 error
+- Probability of type 2 error is represented by b
+- Probability of type 1 error represented by a
+- In our example with the Canadian graduates, we rejected the null hypothesis so we're susceptible to type 1 error
+- We control type 1 errors by changing a, our significance level
+- However its harder to control the likelihood of making a type 2 error
+- 1 - b is the power of a test, and we want the power to be large
+- When we test the difference of two population means its similar except our hypothesis has one of three forms, left-tailed, right-tailed, and two-tailed
+-

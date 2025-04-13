@@ -1,0 +1,7 @@
+I had little religious instruction as a child since my parents are both atheists. I did however go to church in the summer when we visited our grandparents and we went at Christmas and Easter. My family is very Catholic so that was my first exposure to religion but I wasn't super aware of it.
+ 
+I attended Sunday mass for 2 weeks every summer and occasionally went on Easter and Christmas (not anymore). In the summer I would go with my grandparents, aunts, uncles and cousins but for Christmas and Easter it was just me, my sister, and my parents
+ 
+I don't really remember hearing many political statements related to religion outside of my dad explaining the concept of evolution denial which is hardly a political concept. I never really associated religion with politics until the 2016 election when I learned about voter demographics and how Christians were more likely to vote trump
+ 
+Yes, I think being raised atheist affected my view of the world greatly, especially teaching me he concept of critical thinking. One of the first times I learned to disagree with my parents was about the value of religion, I was always taught that religion was a distraction for lower-educated people, but I learned it's value. I don't think it was necessarily atheism specifically, any religion would have ended in a similar effect, but it was an important moment for me. I am still agnostic, if not atheist but my views on religion have gone from active dislike to more of an appreciative understanding.

@@ -1,0 +1,33 @@
+- Politics is the study of power and the distribution of power
+- Related to ethics and social studies
+- Structure of society
+- Polis means city in Greek
+- Polites means citizens
+- Politika means city things
+- Politics is the study of all things about a city
+- Greek cities had few citizens
+- Because citizens were only males who own property and participate in politics
+- The concept of citizenship was crucial to politics
+- All societies deal with 3 problems
+- Problem of authority/hierarchy, problem of resource distribution, and problem of conflict settlement
+- Politics is about solving the question of how shall we live together?
+- Punishment disproportionate to crimes sometimes
+- The key question of politics is "how shall we live together?"
+- Political power can be held by one person, a few people, or as many people as possible
+- One is monarchy, few is aristocracy, many is polity
+- When these are self serving, called tyranny, oligarchy, and democracy
+- These terms were invented by Aristotle
+- Politics is at the core of all collective social activity
+- Politics exists even in private circumstances
+- Social contract theory
+- Contract doesn't exist, merely a way of understanding society
+- Very new at the time
+- Politics is made out of people, but also independent of people
+- 3 main levels of political science
+- First is political theory: overarching theories about all of politics
+- Second is comparative politics, comparing processes between countries
+- Third is international relations, studying the relationships between countries
+- Special 4th one is regional specialization, studying a specific region
+- The state is a new invention, cities and kingdoms existed but states are a separate concept
+- States marked an unprecedented amount of control leaders had over their citizens
+-

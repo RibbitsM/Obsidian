@@ -1,0 +1,9 @@
+- In a simple model of the greenhouse effect, the atmosphere lets in all solar radiation, and absorbs all infrared
+- In this model, half of the radiation escapes and the other half is contained by the atmosphere
+- In a more advanced model, the atmosphere doesn't absorb all of the radiation, controlled by a variable represented by epsilon that's proportional to the amount of greenhouse gas present
+- Now the energy balance is (1-1/2 epsilon) x surface flux
+- With this new equation, the more greenhouse gas there is, the smaller the resulting energy balance is
+- However, the surface flux increases
+- Greenhouse gasses cool the upper atmosphere and heat everything below them
+- This is how we know warming is due to greenhouse gas and not other factors
+- Because of the greenhouse effect, the mean temp is higher than the radiating temp

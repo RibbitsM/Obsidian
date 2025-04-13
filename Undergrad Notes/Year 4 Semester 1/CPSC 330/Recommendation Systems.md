@@ -1,0 +1,32 @@
+- Recommendation systems are widely used by many prominent tech companies like Meta, Google, Amazon, etc.
+- Basically ubiquitous in any kind of online commerce or social media platform
+- General purpose of recommender systems is to automatically sort through immense amounts of information and present the best choices for a specific user
+- These systems can take the form of unsupervised or supervised machine learning algorithms
+- Collaborative filtering groups items by labels like ratings to find the most useful items
+- In content-based recommenders we are trying to predict how much a user will like an unseen piece of content based on metrics like interaction, reviews, dwell time, etc.
+- We will focus on content-based recommenders, but both approaches are common as well as hybrid approaches
+
+**Data in Recommendation Systems**
+
+- Our dataset will contain all users as rows, and all items as columns, with observations representing the interaction between a user and an item
+- This is called a utility matrix, and is often very sparse since one user will only experience a fraction of the items available
+- To train our model, we have to reshape our data because originally each row contains a user id, an item id, and the user's rating for that item
+- This is a traditional data structure, but is less interpretable than a utility matrix
+- We can split this data, and divide it into separate, more sparse, utility matrices for training and validation
+- Now we can use traditional supervised machine learning methods to predict the ratings of the users in the validation set using the training data
+- Our "dummy model" in this case is just predicting the global average for every case
+- We can try and impute these empty values with KNN imputer, but this is difficult given how little data we have to work with
+- To make things easier, we can incorporate outside data like the genre of the movies
+- This allows us to build a profile for each user, containing all movies they have watched with the genre of the movie, and what they rated each movie
+- We can keep these features in an outside dataframe, and create profiles by iterating through all movies watched by a specific person and adding them to the profile alongside their genres
+- We generally use RMSE to evaluate recommender systems but this doesn't guarantee the best recommendations
+- Since there is no way to measure if a recommendation is "correct" or not there are no concrete metrics to use
+- Also, remember that validation metrics aren't everything, the ensemble model that won the Netflix prize wasn't implemented because it was too hard to maintain
+- The model that performs the best isn't always the best model to use
+- Qualitatively speaking, we also want diversity in our recommendations
+- If we only recommend the nearest neighbours to the item, we'll end up with recommendations that may be too similar to the item being viewed
+- Also, this can prevent new items that may not have many ratings yet from being incorporated into the system since if they aren't recommended they might not get rated
+- We want to create recommendations that the users will trust, and we should be responsive to the actions of the users
+- If a user isn't interacting with your recommendations, that may be a sign you should switch them up
+- Social recommendations is another useful tool, people tend to like similar things to their friends so recommending things their friends have bought can be productive
+-

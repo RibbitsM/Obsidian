@@ -1,0 +1,21 @@
+- Z score= x-mean/sd
+- Here x represents one value of the variable, at the point where you want to place the z score
+- For a sufficiently large sample size we can assume that the sampling proportion will be equal to n(p, sqrt((p(1-p))/n))
+- Where we measure the p value depends on the alternative hypothesis
+- If Ha uses >, then calculate on the right side
+- If Ha uses <, then calculate on the left side
+- If Ha uses !=, then calculate on both sides
+- If sd is unknown we can estimate it with s/sqrt(n)
+- Then, follow a t-distribution with n-1 degrees of freedom
+- Degrees of freedom determines the height of the graph
+- With enough degrees of freedom, sufficiently large would be 50 plus, it would be identical to a normal distribution
+- T-distribution is bell-shaped, unimodal, and symmetric
+- Depending on degrees of freedom, will usually have longer tails compared to normal distribiution
+- Can use the functions pt() and qt() in R to calculate t-distribution
+- Pt() is for probability, qt() is for quantiles
+- Just input your p or q value for the center followed by the degrees of freedom
+- Use qt to find the quantile when you know the p-value, use pt to find the p-value when you know the quantile
+- Similar assumptions to the normal distribution
+- However, if the underlying distribution is close to normal, you can use t distributions even for small sample sizes
+- If we are estimating the standard deviation using s, replace the z score with the t score
+- If sample size is large, either will work

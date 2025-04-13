@@ -1,0 +1,3 @@
+This one is much more experiment based rather than looking at existing cultural resources. This is a study, with control groups and variables and data and charts and test subjects while the first paper drew from existing resources like other scholarly articles, but also media like music and books. The key difference is where the evidence comes from.
+ 
+Imrad: Intro, Method, Results, Analysis, Discussion, Conclusion

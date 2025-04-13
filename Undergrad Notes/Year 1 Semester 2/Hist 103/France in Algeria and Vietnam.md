@@ -1,0 +1,69 @@
+- French colonization was concentrated in Southeast Asia and Northwest Africa
+- The decolonization of these areas differed in significant ways
+- 1945-1975 was the peak of decolonization in the world, countries across the globe were challenging colonial rule
+- WWII and the Cold War uprooted the global hierarchy and provided the chance for countries to claim new spots
+- Many of the colonial powers suffered significant losses and had reduced influence
+- Colonial rule was lifted in many colonies during WWII and few people wished to go back
+- The colonial social hierarchy benefitted very few people and limited autonomy
+- Stripped regions of their resources and harmed local populations
+- Violence against citizens by the state was common in colonial regimes
+- The US and the USSR were the main global superpowers, places like the UK and France had much less sway
+
+Vietnam
+
+- France is conquered by Germany at the end of WWII
+- Colonies transfer hands partly to German authority
+- Accelerated decolonization by destabilizing France
+- Similar things happened to the UK and the Netherlands
+- Many more countries also had their colonial power weakened by the war
+- French Indochina was a historical territory that occupied modern day Vietnam, Laos, and Cambodia
+- Japan invaded French Indochina in 1940 and occupies it for five years, erasing French colonial power
+- Later fought against US and UK forces in other Asian colonies
+- France wants to go back to normal after WWII but this isn't going to happen
+- Immediately after the Japanese withdraw, there is a coup in Vietnam and Ho Chi Minh becomes the leader of Vietnam
+- Declares independence from France and names the Democratic Republic of Vietnam
+- Based on the US declaration of independence and even directly quotes it
+- Ironic, considering Vietnam's relationship with the US in the future
+- Asserts Vietnam's right to equality, liberty, etc.
+- Lists the horrors of the French colonial regime and justifies separation from France as they have denied them these rights
+- Promoted national unity as the country had previously been divided into three parts
+- France responded by creating the Associated States of Indochina which had a new structure, economy etc.
+- Attempt to stay in control by giving concessions to anticolonialists
+- This attempt failed as most people saw France as having no place in Indochina
+- By 1950, the USSR, China, US, and France recognize the Democratic Republic of Vietnam
+- French authority was stretched thin and could not hold on to all of it's colonies
+- Required constant presence of troops to maintain power
+- In a decisive battle, Viet Minh defeated France in 1954 and put an end to French influence in Vietnam
+- Split between North and South Vietnam
+- During this time the US was becoming more and more involved in the war and was continuously supporting South Vietnam
+- Also provided immense military support for France
+- US was generally against preserving European colonies and only did so to oppose the USSR and China
+
+Algeria
+
+- Directly south of France, and has much more geopolitical importance to France than Indochina
+- Several precedents set in the region, Syria, Lebanon, and Libya has achieved independence recently
+- Lebanon and Syria were also freed from French influence, while Libya was an Italian mandate
+- The reason France held on to Algeria more than Syria and Lebanon was because the French saw Algeria as "part of France"
+- Logic based on the experiences of French settlers in Algeria
+- Had the same rights in either country, but this only extended to French settlers
+- Ethnic minorities in Algeria not treated like minorities like Catalans and Basques in France
+- More than just a colony for extraction
+- Two tiered political system, Muslims had little political power
+- Reformed the political system to have two colleges, one for Europeans and one for Arabs/Berbers
+- Colonial rule was less disrupted by WWII than in Vietnam
+- The Vichy government in South France maintained control of Algeria during the war and even strengthened it's grip
+- The UK and the US occupy Northern Africa in 1943 to challenge the Vichy government
+- Algerian war of independence begins in 1954
+- Led by the FLN and it's goals were simply independence, not based on any ideology
+- Characterized by raids, guerilla warfare and sabotage
+- Mainly supported by the rural population
+- In response, colonial officials resettled a large portion of this population
+- Also an element of an international diplomatic war because of Algeria's ties to the Non-Aligned Movement
+- FLN representatives went to the Bandung Conference and gained powerful allies in the Middle East
+- Strong ties to Egypt and Nasir, received arms from the USSR and Czechoslovakia despite not being a communist group
+- Elements of socialism begin to emerge after tacticians go to China and Vietnam to learn strategies
+- Seeing these changes, France changes it's strategy and seeks to make compromises
+- In 1958 the FLN becomes more organized and establishes a provisional government
+- US does not support France and blocks it in several UN votes
+- In 1968 France gives Algeria full independence

@@ -1,0 +1,45 @@
+- Another useful EDA tool outside of describe() is pandas_profiling
+- We don't use it in our course environment in this class
+- It gives you a full overview of the dataset, as well as detailed information on every variable
+- This can give us information like variable types, # of missing cells, etc
+- Can also see min, max, distinct values, zero values, and outliers for all variables
+- Also returns stuff like correlations between variables
+- Remember that all of this is automatically generated and should be taken with a grain of salt
+- It finds the variable types just by looking at the value type which may not be accurate
+- For example, all strings are classified as categorical columns while some might be text columns or ordinal columns
+- It's always good to go through every feature and check them manually anyway
+- Remember, depending on your question it might be a good idea to transform some features into new ones
+- You'll need to name these new columns, as well as any columns that might be created via one-hot encoding
+
+**Metrics**
+
+- When we are graphing true positive rate and false positive rate, we want to maximize recall
+- Higher thresholds generally mean better recall but can increase the false positive rate
+- The AP curve only considers precision, the TPR graph only has recall, not precision, but the PR curve includes both metrics
+- Which graph you choose to find the ideal threshold depends on your question
+- Remember when we run into class imbalances, we should set class weight="balanced" on whatever estimator we're using
+- For regression, we can't rely on confusion matrices
+- Instead we calculate the error, or deviation from the mean
+- Once we've fit our regression line, we calculate the difference between each value in the test set and our predicted value from the line
+- The average of all these errors is the Mean Squared Error or MSE
+- A problem with this is that it's not easily interpretable by humans because it's squared
+- To get it back into the original units, we use Root Mean Squared Error (RMSE)
+- Another option is the R^2 score, which measures how much of the variability in results is explained by our model
+- Calculated by 1 - the sum of differences between the value and the mean squared over the sum of differences between the value and your model squared
+- One final metric we will use is Mean Absolute Percentage Error or MAPE
+- Even when we know our RMSE value, sometimes it is hard to understand whether having that much error is acceptable or not in relation to the units
+- A good way to evaluate this is to look at the percent error for each example
+- This lets us know how much the error would affect each observation
+- In our housing example, an error of $30,000 is negligible if most of our houses cost upwards of a million dollars, but is significant if they only cost $100,000 on average
+- This is where MAPE comes in, it's the average value of the percentage error across all examples
+- Also you can have positive or negative error, that's why we take the absolute value of the error
+- In sklearn we calculate this using the mean_absolute_percentage_error() function
+- We also may want to preprocess data for regression too
+- A common transformation is log transformation, this is a good way to make price or count data more normal
+- We are only changing our target variable here so our X data is unchanged
+- However, this has to be done as a separate step from ColumnTransformer()
+- The function we use is called TransformedTargetRegressor()
+- All these metrics can be integrated into GridSearchCV() and cross_validate() in the same way as we would for classification metrics
+- Only thing to remember is that MAPE is an error term, so we want lower numbers not higher ones
+- Same with mean squared error
+- There are built-in features in sklearn that let us make these metrics appear as negative numbers which help, you can pass "neg_mean_squared_error" or make a scorer with greater_is_better=False

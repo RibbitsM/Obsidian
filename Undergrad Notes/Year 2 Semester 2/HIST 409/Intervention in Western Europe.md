@@ -1,0 +1,66 @@
+- American isolationism decreased after much debate
+- Ultimately Truman decided to go through with the Marshall Plan, against the protests of his advisors
+- As opposed to other leaders, Truman tended to make decisions quickly
+- British retreat dragged America in
+- Churchill was replaced by Clement Attlee, a Labour candidate that was very different from Churchill's wartime leadership
+- Promised a socialist agenda with subsidized housing, public health, and national industries
+- This was very appealing in the wake of huge housing shortages due to the blitz
+- Many similar houses were rapidly created, but still not enough
+- Rationing continued for another 14 years as opposed to conditions in the US
+- Although the British did win the war, they reaped few rewards
+- PTSD issues among veterans caused issues domestically
+- Divorce rates increased dramatically in some places
+- The US extended a large loan at low interest to Britain on top of deleting their lend-lease account
+- This solidified Britain's reliance on American money, and signified the passage of power from Britain to the US
+- Food shortages became apparent worldwide, especially in East Asia and India
+- This was due to Britain deciding to divert food supply from India to support the war effort
+- It wasn't just a single reason that caused the food shortages, but many different issues
+- On top of transport difficulties, there were many issues impeding food production too
+- Queues for rations were enormous, and led to a sense of public resentment
+- It was at this time that Winston Churchill delivered a speech while receiving an honorary degree in the United States where he coined the term "Iron Curtain"
+- The division of Germany continued to be an issue, especially the division of Berlin
+- The decision was that delivering sufficient rations to Germany was essential, as if the Soviets were able to provide better treatment to their citizens they would become communist
+- Britain decided to start rationing bread, which remained unrationed through the entire war
+- Especially with the knowledge that rationing was being tightened to feed Germany, the enemy
+- Britain's capabilities to maintain its imperial empire was assessed, and the Labour government started talks about dismantling the colonies
+- This caused more unrest, discovering that the British had won the war and still lost its colonies
+- Gradually, people became more receptive to Britain no longer being an imperial power
+- Food shortages and other hardships led people to embrace communism as an alternative, especially in Italy and France
+- One of the worst winters in British history caused power shortages and infrastructure breakdowns
+- In a storm, the Thames flooded and flowed into the London Underground
+- Britain's relationship with the US had been cultivated, they had been isolationist for years but Britain dragged them into the spotlight to assist
+- Britain would use the economic power of the US for their own foreign policy goals and succeeded
+- The British pulled out of many colonies at once over the week of Feb 14-20 in 1947
+- They first left Palestine, leaving it to the UN and sparking fighting that continues until today
+- They also withdrew from Greece and Turkey, leaving an enormous power vacuum
+- The Truman Doctrine was drafted to fill the power vacuum left by Britain's collapse
+- Finally Britain withdrew from India, leading to the disastrous partition into India and Pakistan
+- The US did not seek to move in on Palestine or India, but they paid close attention to Greece
+- Since the three main powers were now reduced to the US and USSR, the fear was that if they did not move into Greece, the Soviets would
+- Therefore, America provided financial assistance to Greece in order to prevent civil war
+- This argument that intervention was necessary lest communist Greece spread its ideals through the region was parroted many times in future issues
+- Britain did also carry out some actions themselves, signing the Treaty of Dunkirk with France to ensure against any future attack on British soil
+- Truman declared the ongoing US policy of containment, and pledged immense amounts of money to do so effectively
+- America saw the general sense of hopelessness spreading across Western Europe and the increased rate of people resorting to communism and decided they had to act
+- George Marshall, the new Secretary of State, delivered a speech at Harvard declaring the need to resuscitate Europe from its economic hardships
+- The Soviets rejected the Marshall Plan as a consequence of Stalin's paranoia, who believed it was surely an American Trojan horse
+- Later on, Soviet intelligence discovered that the Americans never really intended for the Soviets to accept, it was only a political move to invite them
+- Czechoslovakia attempted to join the Marshall Plan, but were threatened by the Soviets
+- Jan Masaryk, the Czech Foreign Minister "fell to his death" after a communist coup was carried out
+- This money was not free, American influence and integration into the American economic system was expected
+- Between the US recruiting allies via the Marshall Plan and the Soviets exerting influence over their satellites, the battle lines of the Cold War were drawn
+- Around the same time, the Brussels Pact was signed, bringing in Belgium, Luxembourg and the Netherlands creating the precursor to NATO
+- The Marshall Plan was enacted in April 1948
+- Not just money was delivered, but also food, tools, and clothing
+- Greek farmers even received mules through the Marshall Plan
+- All stamped with the Marshall Plan logo, supplies to revive agriculture were delivered across Europe
+- America also received an economy boost from European countries buying American goods with their loaned money
+- Heavy industry was also invested in, rebuilding coal mines and other plants
+- To revive the German economy, a new currency was needed to replace the old currency that was so inflated that people opted to use cigarettes instead
+- The new Deutsche Mark was created as the new currency, but it was prevented from reaching Berlin due to the Soviets blocking rail lines
+- This led to the famous Berlin airlift, which lasted for 11 months
+- As an alternative to the Deutsche Mark the Soviets created the East German Mark to compete
+- In addition to this, the American, British, and French zones of occupation were unified to form the state of the Federal Republic of Germany, also called West Germany
+- On April 4, 1949, NATO was created as a result of secret negotiations between the three core members, Britain, the US, and Canada
+- It provided an insurance policy both against the Soviets but also against a potential revived Germany
+-

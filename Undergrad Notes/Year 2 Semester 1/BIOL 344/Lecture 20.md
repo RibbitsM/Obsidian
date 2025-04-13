@@ -1,0 +1,9 @@
+- Ideal way to achieve independent assortment is to have genes physically linked to their own chromosomes
+- However, that's way too many chromosomes so we have recombination
+- If crossover doesn't occur in EVERY mutation, there will be more parental than recombinant genotypes
+- This is how you know there is genetic linkage
+- If the progeny of a cross is 20% recombinant genotypes, the genes are 20 mu apart
+- Once you reach 50% recombinance, it will be indistinguishable from independent assortment since the ratio of parental and recombinant genotypes are equal
+- Gene distance doesn't change across chromosomes, no matter what strain you have the genes will be the same distance apart (except for mutations)
+- A and B are 60 mu apart, predict genotypes and frequencies
+-

@@ -1,0 +1,20 @@
+- La silva es un verso común en la barroco y el renacimiento
+- Versos endecasílabos alternen con versos heptasílabos
+- No forman estrofas
+- Verso libre no tiene estrofas ni rima o medida, pero usa el lenguaje literario de la poesía
+- Donde el renacimiento es mucho más linear y simplemente, la barroca tiene mucho detalle y es complicado
+- Forma abierta, profundo, exuberancia
+- Renacimiento usa contraste donde Barroca usa repetición
+- Luis de Góngora ha creado el culteranismo, y junto con el conceptismo de Francisco de Quevedo, forma el estilo Barroca
+- Los dos son rivales, y odiaban mutualmente por años
+- El culteranismo usa mucho hipérbaton y vocabulario difícil qué a veces incluyen neologismos
+- También juego con los sentidos, habla del olor, luz, y tacto
+- Referencias a mitología griega y romana
+- Mientras que por competir: Luis de Góngora
+- Muy barroca, usa muchos tropos literarios incluyendo gradación, asíndeton, metáfora, anáfora, epíteto, hipérbaton
+- Un soneto, tiene dos cuartetos y dos tercetos, endecasílabos con rima abrazada (abba abba cdc cdc)
+- La poema es sobre la idea del juventud, la belleza de un mujer joven y la belleza temporaria de la naturaleza, habla de los flores y también cosas humanos como el cristal
+- También habla de ideas sobre la muerte, y el fin de las cosas bellezas
+- La poesía hispánica sigue dos caminos, la postmodernista y la vanguardista
+- La postmodernista es la búsqueda de una poema pura, y incluye Machado, Jiménez y Mistral
+- La vanguardista es la búsqueda de una poesía creadora y rupturista, y incluye Lorca, Vallejo, y Huidobro

@@ -1,0 +1,12 @@
+- Can measure sunspots going back to 1610 due to Galileo
+- Drops in sunspots match up with the Little Ice Age
+- Carbon 14 and Beryllium 10 are produced when cosmic rays interact with the atmosphere
+- This carbon becomes CO2 and is fixed in tree rings
+- This way we can measure solar irradiance by measuring carbon 14 levels in tree rings
+- Beryllium can be found in ice cores and measured that way
+- The sun creates solar wind that protects the earth from cosmic rays
+- An increase in cosmogenic isotopes indicates lower irradiance, because the solar wind lessened
+- Solar forcing is linked to medieval warm period and ice age
+- Models based on natural forcings are only accurate until about 1850
+- After this, must account for human activity
+-

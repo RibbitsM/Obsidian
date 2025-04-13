@@ -1,0 +1,96 @@
+- Centers around fiscal policy, multiplier and budget balance
+- Multiplier in differences in tax rate and tax collection
+- Able to measure the effect of policy
+- Fiscal policy manages AD
+- The more involvement a country has in the economy, the more of the GDP is made of government spending and revenue
+- Countries like Sweden, France, and Canada have high involvement (40-50% of the economy)
+- Meanwhile the US has a huge government but is only 35% of the economy
+- These more involved countries tend to use fiscal policy more, if G spending is a significant part of the economy than a change will have more effect
+- Tax revenue comes from many different sources, but is mainly made out of income tax and GST
+- These include taxes on personal income, profits, capital gains, sales taxes, and payroll taxes
+- Taxes also go to social contributions like the CPP and social security
+- This money is spent mainly on three things
+- It's spent on wages for government employees, purchasing goods like health care and education, and for providing social benefits
+- The government can control AD through avenues other than spending
+- In the expenditure approach the government directly influences G, but can also affect C and I
+- Can increase C by providing citizens with additional disposable income via transfer payments
+- Can also reduce taxes to increase disposable income, at the cost of a negative budget balance
+- Government can also affect I by supporting investment in target sectors like environmental technology
+
+Fiscal Policy
+
+- Government adjusts taxes, G spending, and transfer payments to alter demand
+- Increase when economy is in a recessionary gap
+- Decrease when economy is in an inflationary gap
+- Increasing output is called expansionary policy and involves lowering taxes and increasing G spending and transfer payments
+- Lowering taxes and raising transfer payments increase disposable income for consumers and raise consumption
+- Raising G spending will have beneficial effect on real GDP
+- Contractionary policy is just the opposite of all of these factors
+- The goal is to put AD in equilibrium by either moving it left or right
+- Of course this is not always successful, fiscal policy can overshoot its mark and cause a recession/inflationary period
+- Three main criticisms of fiscal policy
+- Some critics argue that increased government spending will crowd out private spending
+- Depends on the argument that there is a fixed amount of income in all sectors
+- Therefore an increase in G spending must take that money from somewhere else (taxes)
+- There is no meaningful difference, just shifting money from G to C
+- However, in a recession there are underutilized parts of the economy, meaning the fixed amount of income has some breathing room
+- So it is possible to raise G spending without taking money from C
+- Critics also argue that government borrowing in the LFM crowds out private investment spending
+- Sometimes during a recession, the government must borrow money to increase spending
+- In turn, this raises interest rate and reduces planned investment spending
+- However, increased spending raises real GDP, which always raises disposable income
+- Third argument in called Ricardian equivalence
+- Argues that when the government runs a budget deficit, private spending is reduced
+- Expansionary fiscal policy tends to increase the budget deficit
+- This means the government needs to borrow more and more, decreasing the amount of money available to households
+- In order to pay these debts, the money must come from the consumers
+
+Multiplier
+
+- An increase in government spending will create cascading increases in C spending
+- Equation is change in equilibrium real GDP divided by the change in government purchases
+- If G increases by 20 billion, and AD increases by 28 billion, the multiplier is 1.4
+- This multiplier relies on increasing disposable income, therefore it is affected by MPC
+- Disposable income is equal to real GDP minus tax times real GDP equals one minus tax times real GDP, assuming tax is a variable between zero and one
+- Disposable income is one minus tax times real GDP
+- Tax reduces the size of the multiplier
+- So the final equation is 1 divided by one minus MPC times 1 minus t
+- Say normally MPC is 0.6 which would give a multiplier of 2.5
+- But if we add the tax rate of 0.2, this is reduced to 1.33
+- This is the effect of the government expenditure multiplier
+- But to determine the actual effect we need to take SRAS into account
+- An increase in GDP also increases price level
+- Reduces the increase in real GDP even further
+- Depending on MPC, increasing transfer payments may be more or less effective than increasing govt purchases
+- If MPC is 0.5 and you can either put 50 billion into G or into C, putting it into C will have half the effect
+- When the MPC is 0.5, the multiplier is exactly one, so putting 50 billion into C will result in a rise of exactly 50 billion
+- If MPC is larger than 0.5 the result will be more than initial, if MPC is smaller than 0.5 the result will be less than initial
+- Therefore you should only increase transfer payments when MPC is more than 0.5
+- In general, increasing govt spending tends to increase real GDP more than increasing transfer payments or reducing taxes
+
+Active vs Automatic
+
+- Automatic stabilizers are rules put in place by the govt that activate policy depending on whether income is increasing or decreasing
+- Can detect whether policy is expansionary or contractionary by looking at budget balance
+- Budget balance can be adjusted without direct action
+- A recession will reduce tax revenue, and make the budget balance worse
+- Tax revenue increases and decreases according to the state of the economy
+- Inflation will increase TR, and the budget balance improves
+- Constantly present transfer payments like employment insurance apply too
+- In a period of expansion, unemployment is low so little money is spent on employment insurance
+- But in a recession, spending on transfer payments like unemployment insurance increase because unemployment rises
+- On the other hand, discretionary fiscal policy is active changes in G, t, and TR by the govt
+- Worsening of the budget balance means deficit increases, improvement means it decreases
+- Govt savings is equal to T minus G minus TR
+- Recessions require for less T and more G/TR, which creates a deficit
+- Therefore budget balance is a sign of fiscal policy
+- This is not always reliable
+- The effect of policy on the budget is not the same as it's effect on the economy
+- For example, increasing G spending will affect AD more than increasing TR payments
+- In addition, the changes in budget balance may be the result of change, not the cause
+- Because of this, a method of calculating budget balance regardless of business cycle exists
+- Also removes the influence of automatic stabilizers
+- Called cyclically adjusted budget balance, represents budget balance if GDP was at potential output
+- If there was a recession, add the tax revenue lost to recession and deduct the money spent on transfer payments
+- Do the opposite in the case of expansion
+-

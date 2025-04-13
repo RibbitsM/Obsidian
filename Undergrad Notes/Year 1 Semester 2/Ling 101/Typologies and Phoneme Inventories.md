@@ -1,0 +1,49 @@
+- There are two ways of categorizing languages
+- One is language typologies and the other is language families
+- Families are classified by source, while typologies are classified by structure/features
+- Language families depend on a common ancestor, and we look at their relationships with other languages in the same family tree
+- These languages are usually associated with a certain geographic area
+- Meanwhile typologies don't need any kind of ancestor, and just have similar features
+- This similarity can exist at different levels of grammar
+- We don't only look at similarities but also differences
+- For example, we could examine how several different languages handle plurals
+- Syntactic typology examines sentence structure, phonological typology examines sounds
+- Very broad term, can be used for almost anything
+- For this course we will focus on sound systems
+- An example of a question would be how many sounds are found in a phoneme inventory?
+- Examine the average size of inventories alongside how big or small they can get
+- Are there sounds found in every inventory or no inventory?
+- What features are shared between certain languages?
+- We will focus on oral languages, but sign languages also use phonological grammar
+- This is an example of how completely different languages can have similar characteristics, sign language imitates the grammar of oral language
+
+Phoneme Inventory
+
+- Phoneme inventories are sets of sounds used in human language
+- Speech sounds are sounds that are part of speaking a language and are unique from non related sounds like baby babble
+- Speech sounds from outside your language usually sound strange, like clicks in Zulu
+- There is a finite number of speech sounds in all of the world languages, and each language uses some combination of those sounds
+- Phonemes are discrete and contrastive, if you change the phoneme in a word you change that words meaning
+- The sound of a phoneme is depicted in square brackets like [k]
+- The target of the phoneme is in slant brackets like this /k/
+- Pat and spat have the same /p/ but one is a different sound [sp] vs [p]
+- We can describe sounds in many ways, such as consonants vs vowels
+- Can be categorized through airflow, obstruction of airflow, vibration of vocal cords
+- This inventory is a system and can grow or shrink
+- Sounds are affected by place and manner
+- Place can mean where do you place your tongue, cuts off air earlier or later depending on where
+- Manner means how you are affecting the air, can be stopping it or allowing air through a small opening
+- Basically different ways of obstructing airflow
+- Vibration can be viewed as "voiced" or "unvoiced"
+- Creates difference between cuh or zuh
+- Compare phonemes with minimal pairs
+- Two words that differ by only one phoneme, like bat vs cat
+- This is an example of difference in place
+- An example of difference in manner would be yes vs yet
+- Pat and Bat are differences in voicing where bat is voiced and pat isn't
+- This allows us to describe variations in consonants
+- Say we have 3 different places, 3 different manners, and 2 voices
+- This adds up to 18 possible combinations
+- This is our phoneme library
+- Some consonants are unlikely or physically impossible to produce
+-

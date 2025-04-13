@@ -1,0 +1,65 @@
+- Starts January 1945 in the aftermath of WWII
+- Auschwitz is liberated on January 17, 1945, Holocaust Memorial Day
+- A vast majority of the liberated prisoners died of starvation, they were beyond help
+- Meeting of the "Big Three" at Yalta in February
+- Post war world being divided between Churchill, FDR, and Stalin
+- Resulted in the formation of the UN, division of Germany, Stalin agrees to fight Japan etc.
+- The infrastructure of Europe was decimated, disease rates rising
+- Transport networks were especially hard hit, France was unable to receive supplies or export coal for heating and energy
+- The war ends on April 25, 1945 with the meeting of the American and Soviet soldiers in Germany
+- Hitler and his wife supposedly committed suicide in his bunker on April 30th, but theories circulate that they escaped to South America
+- Although the war in Europe is over, fighting continues in the Pacific
+- In France, women who had relationships with German officers were beaten and humiliated publically, and their families were heavily stigmatized
+- Around 200,000 children were born in France with German fathers
+- The same thing happened in Belgium and the Netherlands, called "horizontal collaboration"
+- American soldiers returned home, as did the Soviets
+- Stalin ordered the Red Army to feed the surviving Berlin residents, but looting and raping happened anyway
+- Japanese soldiers often preferred death over dishonor and defeat, they continued to fight despite overwhelming odds and refused to be taken prisoner
+- Japan had been fighting for 15 years at this point since the Rape of Nanking in the 30s
+- In 1945 the Americans finally landed on the Japanese islands and encountered many civilians who had committed suicide
+- Many Japanese troops died of starvation, American troops constantly sunk supply ships
+- The survivors of the Battle of Okinawa were surprised after being captured, their fear of the enemy had been so great
+- Japanese POWs were rather well cared for although the war was ongoing
+- The atomic bomb was first tested successfully in July 1945
+- The new Big Three with Clements and Truman met again at Potsdam and delivered an ultimatum to Japan
+- One bomb was dropped on August 6th, the other on August 9th
+- The bombing of Japan was so heavy that many civilians were left homeless, about 9 million
+- The post war period was incredible for America, the economic depression was over and the countries GNP doubled in just 6 years
+- The Soviet Union did not de arm in the aftermath of WWII, and kept most of its weapons and army
+- On August 15th, Emperor Hirohito announced the defeat of Japan in a radio broadcast
+- Shortly after, the American occupation began and the Japanese decided to implement "comfort centers" to ease the occupation
+- These were essentially government operated brothels for American officers
+- Women were encouraged to enlist in the Recreation and Amusement Association (RAA) with over 1000 women signing up in the first two weeks
+- Similar to the situation in Germany, women under occupation saw having a relationship with an American as a way to ensure a better life given America's prosperity
+- Becoming a prostitute was framed as an honour, similar to how young Japanese men were recruited into the army during the war
+- In addition, they would be provided with clothing, food, and housing in exchange for their services
+- The RAA was effective in its purpose, although those involved were making a great sacrifice the incidence of rape during the occupation was low, those not involved were protected
+- More than anything else the defeat was symbolic, children saw the occupation positively and chased after Jeeps that would hand out chocolate and gum
+- Whatever soil was available was put to use growing crops
+- The disastrous harvest led to crop prices spiking and fear of starvation
+- Major cities had large black markets for food, makeshift tools and utensils made of metal
+- Most of these markets were run by gangs to get around the need for a vending license
+- Panpans (prostitutes) would bring American goods from GI s to sell at the market
+- Food was shipped in from America, but this only temporarily alleviated the starvation
+- Children were sent to catch frogs and grasshoppers for extra protein
+- There was frenzies to ride to the countryside to buy goods from villages where prices were lower
+- The RAA was abolished in January 1946 due to the spread of STIs, only lasting a couple of months
+- The newly unemployed prostitutes found it difficult to find employment, they were stigmatized and outcast by the rest of society
+- Red line districts were designated, but prostitution was not as common as it was during the RAA era
+- The relationships between Americans and Japanese women had an emasculating effect on the Japanese men, they felt disheartened by their lack of money and goods
+
+**Germany**
+
+- The situation in Germany was similar, children adored the Jeeps and relationships between American soldiers and German women were common
+- Before the soldiers were sent to Germany they were warned not to associate with the Germans
+- The suspicion was that Nazi sentiments of superiority remained, and that animosity towards Americans remained and they may attempt to kill Americans
+- Germany was demilitarized and the occupying powers were ordered to feed the Germans
+- Other than the US, most countries were impoverished and unwilling to sacrifice food for the enemy
+- There was a removal of all military elements from Germany, all signs of Nazism were scrubbed from German government and society
+- German civilians were unable to honour the dead soldiers, and feel pride about their achievements
+- It was difficult to those who were and were not sympathetic to the Nazis
+- Germans needed to fill out long questionnaires to determine their alliances
+- However, all efforts to re educate the Germans largely failed, those forced to watch denazification films turned their heads away
+- Most school teachers were fired and history classes were banned, and all Nazi symbols were destroyed
+- Mass malnutrition and starvation was common in Russia and the Ukraine, although the Soviet Union projected an outward appearance of prosperity
+-

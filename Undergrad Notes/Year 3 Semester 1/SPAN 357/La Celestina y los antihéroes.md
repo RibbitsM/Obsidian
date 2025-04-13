@@ -1,0 +1,11 @@
+- En mismo método como Trotaconventos convierte a Celestina, El Cid convierte a el Pícaro, y finalmente el antihéroe Don Quijote
+- Fernando de Rojas, el autor de La Celestina, se escrito muy joven, cuando fue estudiante
+- Rojas fue un converso, y vivió en Salamanca
+- Puede ser comedia o tragedia
+- Personas del clase alta y baja mezclan, en cosas del sexo y dinero
+- Celestina no es una alcahueta, ella es LA alcahueta
+- Ella es muy psicológico, y es un antihéroe, el primer antihéroe femenina
+- Don Quijote leía libros de los caballeros y querían ser un caballero
+- Entonces, el no puede ser un caballero, solo es loco, el tiene problemas mentales
+- El puede ser un tonto, o un héroe trágico
+- Es como una parodia de un caballero andante

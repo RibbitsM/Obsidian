@@ -1,0 +1,7 @@
+- 4 main problems in data science
+- Predicting a class or category for a new observation/measurement, like classifying a tumour as cancerous or benign
+- Predicting a value for a new observation/measurement
+- Discovering subgroups in the data, like products frequently bought together
+- Estimating an average from a sample group and applying it to the whole group
+- Absolute paths start with a backslash, relative paths do not
+- Can also download data from the web using a URL

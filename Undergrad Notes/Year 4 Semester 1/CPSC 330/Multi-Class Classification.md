@@ -1,0 +1,33 @@
+- So far we have focused on binary classification, but this isn't very realistic
+- In real life, many classification problems have multiple classes
+- Some of the models we have used already are able to handle multiple classes like KNN, but others like logistic regression are limited to binary classification only
+- However, there are ways to manipulate logistic regression to work with multiple classes
+- If you get the model to find a probability for each individual class, we can use the same logistic regression approach but with multiple different classes
+- Say we have three classes, logistic regression will be performed for each individual class and the resulting scores are evaluated by softmax which returns the probability distribution of the three classes
+- This method replaces sigmoid which is used in binary LR
+- From this distribution we can make predictions
+- This is called multinomial logistic regression and mainly differs from binary logistic regression since it assigns a weight and bias term to each class and each feature where binary lr only assigns a weight and bias to each feature
+
+**Image Classification**
+
+- Image classification is difficult for many reasons, but mostly because of the incredible density of the data as well as the many possible correct and incorrect labels
+- Plus, objects that humans recognize to be the same thing can be photographed in many different ways with different lighting, background, angles, etc.
+- To solve these issues, we use neural networks
+- Specifically, most image classification is performed using Convolutional Neural Networks or CNNs
+- Basically, a neural network is somewhat similar to a linear model, with multiple inputs that are weighted appropriately and the result is analyzed to determine the output
+- Neural networks add an additional layer between the input and output
+- Say the input of each feature is put into a logistic regression, and the output of that model is the input for an additional model and so on
+- The result is a huge network of simple models working together to optimize the results
+- Similar to the concept of stacking, but much more powerful
+- We can also think of this as a transformation process, but instead of using preprocessing functions to modify your data you're using a layer of linear models
+- There are multiple models in every layer, and multiple layers in a network
+- This is what people are talking about when they mention "deep learning", the depth of a network is the amount of layers it has
+- We can also control the amount of features our data has at each layer because every model represents one feature
+- Neural networks work well on structured data like tabular data, time series or images but need massive amounts of data to run properly
+- While the main hyperparameters are the depth and size of layers, there and thousands of more hyperparameters to adjust since every individual model can be tweaked
+- Deep learning is also very computationally intensive and require high end GPUs to run properly
+- The two main software branches used are Pytorch and Tensorflow which are used extensively in the data science industry
+- Even if we can't build these models ourselves, we can still take advantage of pretrained models available online
+- Using a method called transfer learning, we can use the predictions of other models as inputs for our own models without having to build a neural network
+- Your results will vary depending on how closely the data you're using matches the data that model was trained on or understands, but the method is still useful
+- Another common method is to use a pretrained model as a feature extractor

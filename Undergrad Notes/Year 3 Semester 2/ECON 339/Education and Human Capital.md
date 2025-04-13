@@ -1,0 +1,11 @@
+- This paper by Stanley Engerman focuses on human capital, and the distinction between it and physical capital
+- Optimistic view, technological change and education are seen to go hand in hand
+- Technological change has shifted labour demands from lower skilled to higher skilled workers
+- Education is important, it's number 4 on the UN SDGs as Quality Education
+- In Canada post-secondary participation is quite high, with about 40% of young people are in college or university, but this isn't true in many countries
+- Similar to things like physical capital, education is an investment with costs and benefits
+- Costs can be tuition fees and other direct fees, but also the opportunity cost of not working
+- There are private benefits to the student themself, but also social benefits to the state
+- Recall the residual in our growth model, one of the factors that may be part of that is the human capital and skills brought in by immigrants
+- Internal migration is also a factor that allows for more efficient allocation of labour
+- Publicly funded education creates significant positive externalities

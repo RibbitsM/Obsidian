@@ -1,0 +1,83 @@
+**Gulf War**
+
+- Often seen as a war for oil
+- Critiques of the Gulf War often focus on the economic motives
+- Employment of many workers in oilfield provinces and states depended on the outcome of the war
+- Pretty publically rationalized as being a conflict over oil prices
+- Cold War is over, less clear who are the main enemies of the United States
+- Saddam Hussein as a new "US Boogeyman"
+- OPEC in 1990 had 11 members, Saudi Arabia, Iran, Iraq, Kuwait, Venezuela, Qatar, Libya, UAE, Algeria, Nigeria, Ecuador, Gabon, Angola, Equatorial Guinea
+- The Congo was added in 2018
+- Organized effort to coordinate oil prices and give consumers a fair price
+- When OPEC elevated production in the 80s, it had a noticeable effect on oil prices abroad
+- Hussein(Iraq) took issue with this, and wanted to shut off the taps and use oil as negotiating leverage
+- At this time, Iraq was in a lot of debt from the war with Iran, and invading Kuwait would give them a ton of money to pay off that debt
+- On several occasions he had signified that he was unhappy with how he was treated by Kuwait and the UAE
+- Kuwait was guarded by a British treaty and was a part of the UN, giving it effective political protection
+- In February of 1990, Hussein contested US power in the Gulf and asked that other Arab countries reduce oil production to force the US out
+- A few months later, a British journalist was publically executed in Iraq
+- Hussein declared that Iraq had advanced chemical weapons and made threats against Israel in July
+- A week later he met the US ambassador to Iraq where she signified that the US would not interfere in a conflict between Arab countries, like say between Iraq and Kuwait
+- This was essentially a green light for Hussein
+- On August 2, 1990, 120,000 troops with tanks stormed into Kuwait and annexed the territory
+- The UNSC met and immediately demanded Iraq to the withdraw, imposing economic sanctions, an air blockade, and documentation of rights violations
+- These sanctions were strong, greatly limiting the food supply of Iraq
+- George Bush Sr. immediately declared that the US military would be deployed to protect Saudi Arabia and the Gulf emirates in Operation Desert Shield
+- Saddam Hussein was depicted as a thief and rapist, triggering ideals of consent to justify the need to control and intervene in Kuwait
+- The importance of the resources in Kuwait were also emphasized in the same speech, highlighting the economic motives for the war
+- Hussein held several foreign hostages in Iraq to deter intervention from other countries, and suffered from the UN sanctions
+- Iraq refused to withdraw from Kuwait and signified that they would be willing to go to war to defend it
+- By November, the UN passed a resolution allowing the use of "all means necessary" to remove Iraq from Kuwait
+- Iraq was given a grace period to comply with their earlier demands before the resolution came into effect
+- The UN mechanics were working and appeared to be fully enforcing UN collective security
+- Canada was one of 31 countries contributing troops and vehicles to the conflict
+- When Operation Desert Storm did begin, it was carried out mostly through air strikes as opposed to ground troops
+- Bush Sr continued to appeal to the public using analogies of theft to justify involvement in Kuwait
+- Depicts the issue as literally black and white, a simple issue of moral justice
+- Many in Canada were opposed to the conflict, and protests were held to argue against Canadian involvement in the war
+- The fear of chemical/biological weapons led the UN forces to administer anti-nerve agents to troops entering the conflict which resulted in a variety of harmful side effects
+- This, alongside the stresses of the war led to many soldiers coming back with 'Gulf War Syndrome', which was later redefined as PTSD, but was also connected to these chemical side effects
+- Operation Desert Storm began on January 16, 1991 and consisted of mainly aerial assaults against key targets in Kuwait
+- This aerial campaign was extremely effective, the retreating Iraqi forces were essentially annihilated by US forces
+- These were mainly conscripts, the main fighting force was recalled before the coalition arrived
+- The Iraqi forces were not prepared at all to fight an aerial conflict
+- We have a lot of images of things we likely aren't supposed to see, like the victims of Kuwait and Tiananmen Square, mostly due to journalists like the Turnley twins
+- Iraqi casualties exceeded coalition casualties by many orders of magnitude
+- All things considered it was a very clean and effective war from the American perspective
+- After a month, Kuwait was liberated, the cost was shared between the coalition, and the US had official UN backing and justification for its actions with little backlash
+- However the consequences were great in Iraq, where economic sanctions killed an estimated 600,000 children via starvation
+- Was it really worth all the destruction to lower some gas prices?
+
+**Rwanda**
+
+- Back in the Vietnam era, Clinton was a draft dodger
+- He was staunchly anti-war, and is now in a position of power where he could implement his idealistic policy and worldview
+- Rwanda was a test of Clinton's resolve towards freedom and idealism
+- Rwanda had been under German control until WWI where it was handed to Belgium, who controlled the region for several decades
+- Rwanda was split into two main groups, the minority Tutsi group that was propped up by Belgium as a ruling class, and the Hutus who were mainly lower class and much greater in number (85%)
+- This was a product of Belgian eugenics, who saw the Tutsi's as physically more "European" and therefore more suited to rule
+- In reality, not much really distinguished these groups and the divisions were mainly artificial
+- Many post-colonial thinkers warned of the dangers of leaving vacuums of power in colonies given sudden independence
+- The Tutsi's were widely hated by the Hutus, who resented them as being tools of the oppressors and perpetuating the ethnic class system
+- 18 Americans were killed in Mogadishu, Somalia soon before the Rwandan genocide in the Blackhawk Down incident
+- This led to a general fear of intervention in Africa as a whole
+- In late 1993, peacekeepers arrived in Rwanda but had no mandate to intervene and only existed as observers to the genocide
+- This was frustrating to many, especially the Canadian leader of the mission
+- The killings began hours after the plane carrying the Tutsi president of Rwanda was shot down
+- The first people to die were mainly Hutu moderates, and were killed in a systematic manner
+- The entire genocide seemed to be meticulously planned
+- Social structure broken down almost immediately, looting began quickly and the cities descended into complete anarchy
+- Foreign nationals were evacuated soon after, but Rwandans were offered no out
+- With no foreign military willing to help, they had no choice but to stay and try to survive
+- Many knew exactly what was about to happen, but the risk of losing troops deterred countries from intervening
+- With the knowledge that metropole casualties would lead to an evacuation, those organizing the genocide began by targeting peacekeepers stationed outside the home of the president
+- The main debate over whether to intervene or not was the definition of genocide
+- After 100 days of debate on if it was a civil war or a genocide, 800,000 Tutsis were dead
+- Even those who escaped to neighbouring countries like Zaire still faced persecution
+- Clinton deflected the blame by emphasizing that it was not only the US that chose not to intervene, but rather the whole international community
+- Part of a continuing theme of opposition to ground warfare in foreign conflicts
+- There was certainly things that other countries could do by jamming airwaves that were being used to spread hate messages about the Tutsi's
+- There were also shelters for victims like schools and churches that could have been guarded but peacekeepers were directed to only stand by
+- During the genocide, Rwanda barely appeared in the news, the main story at the time was about a figure skating controversy
+- Romeo Dallaire, the leader of the peacekeeping force resented the policy makers in the UN preventing any interference
+- In an interview after the fact, Clinton defended the US response by stating they were the only country to actually apologize

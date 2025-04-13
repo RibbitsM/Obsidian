@@ -1,0 +1,20 @@
+- If two parameters are plotted with identical slopes, there is no interaction between them
+- If we believe the slope of a parameter will change between levels of the categorical variable, we have to add them as interaction terms
+- In the formula this is done by multiplying the parameter in question by the categorical variable
+- EX: y = b0 + b1x + b2w + b3xw + e
+- In this case w is our continuous parameter and x is the categorical
+- If dummy variable is 0: y = b0 + b2w + e
+- If dummy variable is 1: y = b0 + b1 + b2w + b3w + e
+- This way we get different slopes depending on the level of categorical variable
+- If there was no interaction, our model would just be y = b0 + b1x + b2w + e
+- This is represented in our R formula by adding the * symbol between response variables that have interactions instead of the + symbol
+- There must be a separate coefficient for every combination of response variables if you assume they have interactions
+- While they may look complicated, at the end these formulas boil down into simple regression lines
+- For example, the formula we had above was y = b0 + b1 + b2w + b3w + e when dummy variable is 1
+- This simplifies to y = (b0 + b1) + (b2 + b3)w + e which is just a simple regression line
+- In this case b0 is the intercept of the reference, b1 is the difference in intercepts, b2 is the slope of the reference line and b3 is the difference between slopes
+- B3 shows us how strong the interaction is, if b3 is 0 then there is no interaction
+- Additive models are often more popular than multiplicative models since they are simpler and easier to interpret
+- However, this means we have to assume that the change rate of a variable does not depend on other variables, which may not always be realistic
+- Generally when we're doing hypothesis testing you just choose your coefficient and then test if it's significant or not
+-

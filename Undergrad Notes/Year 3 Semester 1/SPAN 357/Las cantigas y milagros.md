@@ -1,0 +1,7 @@
+- Las cantigas son sobre Santa María y sus milagros
+- Experiencias multimedios, con un canción y iluminación alrededor el texto
+- 420 cantigas en total
+- Los milagros empieza como formas de la devoción a Dios, y son regalos del Virgen cuando ella función como madre, abogada, obstetra, o ginecóloga
+- Luego, los milagros son donaciones a la Iglesia, el turismo
+- Milagros también son castigos, un forma de control ideológico y guardar el estructura de clase
+- Usan para combatir las herejías

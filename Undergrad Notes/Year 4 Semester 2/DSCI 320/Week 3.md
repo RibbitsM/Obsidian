@@ -1,0 +1,11 @@
+- When we're using a method that isn't super discriminable by humans to depict something, we should try and limit our bins
+- For example, it's hard to visually distinguish minute differences in colour hue or the size of objects
+- You want your visualization to be easy to parse by the average person
+- Bad example, map of the US with reading scores, writing scores, and income with CYM colours
+- Requires you to parse what combination of shades and colours are present in different areas
+- If we want to represent groups in our data, they need to be visually separable
+- More channels means more information, but makes it harder to separate things
+- Do your best to leverage universal constants, most people see green as a positive colour and red as a negative colour
+- However, this isn't going to work for all cultures, in places like China red is the positive colour
+- Emergence is the ability to aggregate information from seemingly meaningless pieces and perceive a meaningful whole
+- This is generally what distinguishes humans and machines, and is the principal that captchas are based on

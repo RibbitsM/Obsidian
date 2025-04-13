@@ -1,0 +1,99 @@
+**Nuclear Fuel Cycle**
+
+- The process of developing nuclear fuel for reactors has several points that provide proliferation risks
+- It's entirely possible to siphon off some portion of the fuel for weapons purposes
+- Uranium is a fairly common element, but is only found in higher concentrations in certain areas
+- Most of the worlds uranium is produced in Kazakhstan, followed by Canada
+- Canada is a major world producer of uranium, and plays a part in the nuclear fuel cycle
+- In mines, uranium ore is extracted and processed into a concentrate
+- This is called Uranium Oxide Concentrate or "Yellowcake"
+- Commercial product produced by mines, about 80% uranium
+- You can't make a bomb out of yellowcake, but it's an important step
+- Next, yellowcake must be converted into uranium hexafluoride, enriched, and then turned into fuel
+- Ordinarily this is only enriched to reactor grade, but can be enriched to weapons-grade
+- Natural uranium less than 1% U-235, reactor uranium is 3-4% U-235, and weapons uranium is 90%-235
+- This is why enrichment technology is so important for proliferation
+- This is done using a gas centrifuge that separates the heavier U-238 atoms from the lighter U-235 which is sent to the next centrifuge
+- The more centrifuges you have, the more you can enrich
+- They vary in size from about 1.5 m to massive
+- If you can't buy whole centrifuges then you can import the parts, which is what Iraq did
+- Leads us to proliferation concerns about even the parts that make up centrifuges
+- The next step in the process is the Nuclear Fuel Assembly or "Fuel Rods"
+- This is the fuel that is actually put into the reactors
+- After these rods are "spent" they are sent to a facility for reprocessing
+- This is where our third proliferation concern occurs
+- In reprocessing, uranium is recovered and sent back into the enrichment process
+- However, a side effect of this process is the creation of plutonium
+- This gives us two things to worry about, recovered uranium being used for weapons and plutonium being used for weapons
+- The rest of the spent fuel is buried as nuclear waste
+- Plutonium makes up about 1% of spent nuclear fuel
+- Overall we have three areas of concern in the nuclear fuel cycle
+- In the mines, in enrichment, and in reprocessing
+- This is why counting and inspection at these points is so important
+- The risks are the spread of yellowcake, illegal enrichment of uranium, and the use of plutonium from processing for weapons
+
+**IAEA and Safeguards**
+
+- IAEA mandate was to encourage the peaceful use of atomic energy, implement safeguards to prevent proliferation and uphold safety standards
+- Comprehensive safeguard agreements with 182 states and Taiwan
+- 128 of these states also have an Additional Protocol, an optional extra safeguard step
+- Over 1200 facilities under IAEA safeguards
+- Safeguard system has two components:
+- Providing design and blueprints of nuclear installations
+- Verification inspections of nuclear inventory and flow including surveillance of safeguarded material
+- Inspection rights can be regular or special
+- Countries under safeguard agreements are obligated to accept IAEA inspection teams by request
+- If a breach in compliance is found, it is reported to the IAEA Director General who reports to the board of directors
+- The violation is then reported to all IAEA members, the UNGA, and the UNSC
+- A number of technologies are used for these safeguards and inspections
+- This includes surveillance cameras installed in many IAEA inspected facilities
+- Also has laser scanners for 3d imaging to confirm the design of reactors and their facilities
+- This allows the inspectors to detect unreported changes in construction
+- HM-5 Spectrometers allow the detection and measurement of gamma rays and residual radioactive isotopes (particularly uranium and plutonium)
+- For a broader range scan, they use a mini multi channel analyzer that detects other non radioactive chemicals
+- In less severe situations, material will be sealed in boxes marked with an adhesive seal
+- For situations with more risk, a metallic seal is used that if opened damages the internal coating of the seal
+- Certainly not tamper proof, so the modern solution is a fiber optic seal
+- Inspectors take a photo of the fibers when installed, and if they are found to have moved, this is evidence of tampering
+- IAEA has 245 inspectors that carry out about 2000 inspections per year
+
+**Arms Control Challenges**
+
+- North Korea is in close proximity to South Korea and Japan, two major US allies
+- It's main ally is China, which has limited influence on North Korea but has a vested interest in keeping North Korea as a buffer for South Korea
+- We know that North Korea started it's nuclear program in the 1980s with secret facilities at the Yongbyon reactor
+- Ratified the NPT in 1985, but did not accept safeguards until 1992
+- North Korea has a complete nuclear fuel cycle including uranium mines, enrichment facilities, reprocessing facilities, and reactors
+- IAEA inspectors visited North Korea in 1993, and found evidence that the safeguards agreement had been violated
+- North Korea thought they had covered their tracks, but didn't hide their excess of plutonium development
+- 1994 Framework agreement led to North Korea admitting having a bomb program
+- Agreed to dismantle it in exchange for two new light water reactors
+- Framework Agreement fell through in 2002 after North Korea gained access to Pakistani nuclear tech and shipped Uranium Hexafluoride to Libya
+- Withdrew from the NPT in 2003
+- Six Party Talks (ROK, US, PRC, Russia, Japan, and DPRK) went on from 2003 to 2009
+- Famous incident of insisting on a hexagonal table instead of a square one
+- North Korea conducted first test in 2006, second in 2009
+- Withdrew from six party talks in 2009
+- Agreed to suspend enrichment and weapons tests in 2012 in exchange for food aid
+- Agreement broken months later after long range missile test
+- Fear that North Korea could have a nuclear arsenal capable of striking North America
+- Little knowledge of the North Korean nuclear programme
+- Sanctions doing little to change position of DPRK government
+- 2017 test suggests that North Korea may also have a hydrogen bomb (140+ kt), magnitudes more powerful than previous tests
+- North Korea has many ballistic missiles with varying ranges, with newer systems having intercontinental capabilities
+- DPRK missile program has ramped up significantly since the 90s
+- Primary motive for developing weapons is deterrence
+- Gives the government leverage in international negotiations, prevents a conventional attack on the regime
+- Also legitimizes the Kim regime, and is supported by bureaucratic politics
+- Nuclear program closely attached to Kim Jong-Un, features heavily in North Korean propaganda
+- US-DPRK relations have declined significantly, especially with the Hwasong 14 proving ICBM capabilities in 2017
+- Numerous insults traded between Trump and Kim
+- In late 2017 a nuclear test site collapsed and led to a freeze in nuclear tests
+- Kim met with Moon Jae-In, the South Korean prime minister in April of 2017, and also participated in the 2018 Olympics
+- Trump-Kim summit in Singapore in June of 2018, unprecedented meeting resulting in joint statement declaring denuclearization of the peninsula
+- No details, timelines, testing or verification procedures discussed
+- Also no pledges made to join NPT or CTBT
+- Tensions deteriorated once again in 2021 when the Yongbyon complex reactivated after the collapse in 2017
+- Test of a nuclear capable cruise missile and hypersonic glide missiles in September of 2021
+- Future will likely hold more tests of delivery systems, a resumption in nuclear testing, but also potential negotiations
+- Likely that sanctions will be ongoing, and failing that we may see military action and possible war

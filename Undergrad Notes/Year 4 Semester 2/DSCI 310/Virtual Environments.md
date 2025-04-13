@@ -1,0 +1,11 @@
+- Ideally, our base python environment should be empty
+- Different projects will require different packages, and we should have separate environments for these
+- If you had a project that doesn't require dataframes, you probably don't need pandas
+- The less packages you have, the less likely something is to break
+- Environments allow you to insulate your packages from errors caused by other packages
+- Having a clean environment also streamlines the installation process for more packages
+- You can run conda export env to produce a document containing all your packages
+- However, make sure you remove the prefix line if you are doing this to share your environment
+- Python dependencies also may vary from OS to OS
+- Exporting your environment lets you put it on github where teammates can clone it and replicate your environment on their machines
+-

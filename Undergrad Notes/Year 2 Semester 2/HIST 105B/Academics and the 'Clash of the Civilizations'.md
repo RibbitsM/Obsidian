@@ -1,0 +1,76 @@
+- American academia has a history of serving the state
+- Mostly area studies, especially Middle East studies
+- Another issue is links between American academia and the state
+- Focusing on Samuel Huntington, a US political scientist
+- Carnegie and Rockefeller Organizations were philanthropic organizations dedicated to "promoting well-being of humanity"
+- In reality, these organizations were created with ulterior motives like improving image and avoiding taxes
+- However, the most important motive was the adoption of an internationalist view/agenda
+- People began to think about America's responsibilities in the world
+- Get America more involved in the world, and it will benefit rich elites
+- This was done by investing in academics and getting things like the Foreign Policy Association created
+- These were academic organizations created to promote American interests globally
+- Fusing of academia and the state, funded by elites
+- Expanded rapidly during and after WWII
+- US and Britain were trying to understand other parts of the world and divide it up into chunks
+- This created a huge demand in the government for social scientists
+- Carnegie and Rockefeller organizations were vocally seeking to expand and merge with the state
+- This led to the creation of area studies and extensive language programs in colleges and universities to train future state employees
+- Programs considered beneficial to the state were funded heavily
+- Strong focus on the social sciences
+- The OSS (later CIA) also became involved, training academics to do research for the organization
+- The first great area studies department was created in the OSS
+- Grad students trained by the OSS were sent back into academia where they pioneered new area studies programs
+- Calls for more connection between universities and governments
+- Academics should serve the state with the main aim of taking and using power
+- Specific kinds of scholarship were emphasized, and skewed academia in many sectors
+- New committee was formed, Joint Commission for Area Studies and Robert Hall, the commissioner, called for a need to divide world by civilization
+- As the Cold War began, more focus was put on the USSR
+- Scholarship that could help combat communism was prioritized
+- Princeton's Near East Studies program was heavily funded by the government and is now the best in the world
+- Seen as a feeder program for military/state jobs
+- Funded by the foundations and oil companies
+- Faculty made up of ex-OSS officers
+- Those who spoke out against academic involvement with the govt were barred from academic society
+- This was the environment where Clash of Civilizations was written
+
+**Clash of Civilizations**
+
+- Samuel Huntington popularized the term, but did not invent it
+- There was a long history of both arguing that wars are between civilizations and also of misrepresenting Islam in academia
+- Ongoing sentiment of Islamic backwardness and the need to impose American values on the Middle East
+- The term was coined by Bernard Lewis, a Orientalist scholar at Princeton, after the Suez War
+- Saw the clash between the West and Islamic world as the reason for conflict
+- The West and Islam are diametrically opposed, and Muslims are the reason for most issues in the Middle East
+- Wrote "The Roots of Muslim Rage", which was incredibly inflammatory towards Muslims and influenced the Bush administration
+- He was a key part of justifying the invasion of Iraq and the GWOT as a whole
+- Huntington was a political scientist at Harvard, and had no expertise in the Middle East or Islam
+- Worked with the government extensively under Jimmy Carter and was an advisor in apartheid South Africa among other places
+- In a scandal in 1985, Huntington was proven to be receiving undisclosed funds from the CIA at Harvard
+- While he was writing "Clash of Civilizations", he was an advisor at the Pentagon
+- Written soon after the fall of the USSR and during the search for a new enemy for the US to conquer
+- Deemphasized politics and ideology to focus on civilizational conflict
+- Potentially motivated by rivalry with other scholars looking for predictions on the post-Cold War world
+- The main theory is that the US was searching for a new enemy
+- Earlier, Huntington pointed out Japan as a potential rival for the US
+- Partly ideological, but also continuing to justify the existence of the military industrial complex
+- Wars will no longer be motivated by politics and ideology, but by culture
+- Western civilization comprises North America, Western Europe, and Australia
+- US is the leader of the West that will lead it to victory against all other civilizations
+- Not just West vs Islam, but West vs Everyone
+- The West is depicted as Civilization fighting against barbarism
+- This was all written before 9/11, but took on new meaning afterwards
+- Orthodox world was considered a threat alongside the Confucian world, but Islamic civilization was the largest threat
+- Lumps all Islamic countries into the same category
+- Depicts Islam as being in conflict with many different groups in different countries
+- Also depicts them as being at fault in all places, including in the Balkans and Israel
+- Islam primarily depicted as barbaric
+- 3 main outcomes
+- Culture is more important than politics/ideology
+- Most significant differences between worlds is political ideals
+- West loves democracy, others don't
+- Differences in beliefs leads to conflict worldwide
+- Islam is anti-democratic and prefer authoritarians
+- Has "bloody borders", is an inherently violent religion
+- Attack the West for cultural differences, hate freedom and democracy
+- Muslims hate the West since they are Muslim
+- America must lead the West in defeating Islam

@@ -1,0 +1,19 @@
+- When convergence occurs, a "hill" will be created that increases the pressure below it, pumping water down below the influence of the wind
+- The pycnocline is the name of the boundary between water affected by wind and deep water
+- About 40-100 m deep
+- Upwelling is necessary for the transport of nutrients in the ocean
+- Phytoplankton that sink below the photosynthetic layer are carried back up by the upwelling currents
+- This is why the sea looks greener where upwelling currents are present
+- More marine life around the equator than in the tropics
+- Divergence and convergence creates a pressure gradient
+- In the case of divergence, there is high pressure on the outside and the low pressure in the middle
+- Water tries to move to the center but is affected by the Coriolis effect, so it moves in a spiral
+- Water diverging makes low pressure, converging makes high pressure
+- Same pressure patterns as the atmosphere, called dynamic topography
+- Geostrophic flow is determined by looking at the PGF caused by the high and low bands, and applying the Coriolis effect
+- Wind determines ekman transport, ekman transport creates a pressure gradient, the pressure gradient creates geostrophic flow
+- Off the coast of peru, wind blows south to north, pulling water away from the coast
+- This creates upwelling along the coast creates nutrient rich waters
+- Coastal waters in Peru are cold because of this, but across the Pacific ocean in Indonesia there is very warm water
+- Creates a phenomenon across the Pacific called the Walker cell
+-

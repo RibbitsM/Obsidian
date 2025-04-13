@@ -1,0 +1,106 @@
+- Sinope was once of the best natural harbours in the Black Sea, and as such it was valued highly by the Ottomans
+- Generally used as a rest stop for patrol ships
+- At the time, the Ottoman Empire was not friendly with Russia, and were supplying Circassian insurgents in the Caucasus mountains
+- This fleet was actually commanded by a Briton, named Osman Pasa
+- The Russians were posturing aggressively at the time, performing reconnaissance to plan an attack on Sinope
+- A surprise attack was imminent, and neither ship could get back in time to warn Istanbul
+- This was all during a nasty storm, and Osman decided to stay behind and shelter at Sinope
+- The Russians arrived with several heavily armed ships, waiting offshore for three days
+- Instead of surrendering, the Ottomans simply lined up in front of the town to stand in the way of the Russians
+- The shore batteries of Sinope were all destroyed by the Russian ships, and all but one Ottoman ship were sank
+- Ottoman forces lacked coordination and preparedness, as well as lacking firepower
+- The Russians were also using explosive shells instead of cannonballs which requires special Paixhan guns much more advanced than the smooth bore cannons the Ottomans had
+- Marks the first naval battle where shells were used
+- In Western Europe this sparked an outrage, creating mass opposition to Russia
+- For years, the Ottomans and Russians were on the edge of war, including the Russians occupying the territories of Wallachia and the exchange of several ultimatums
+- War was finally declared on Oct 4, 1853, but the Ottomans were still reluctant to make the first move, didn't cross the Danube until Oct 28
+- This was heavily influenced by British and French outrage, the Ottomans hoped they would come to their aid
+- With the crucial developments in Sinope, both nations decided to join the battle and started the Crimean War, the most important conflict of the whole century
+- Also the most deadly international conflict, although civil wars in China and America killed more
+- Despite its importance, its been heavily understudied
+- Likely because of how slowly and unclearly it started
+- Almost none of the parties involved wanted to go to war, and protested heavily almost the whole time but the war happened anyway
+- Blattman attributed this to five factors in his book _Why We Fight_
+- First is unchecked leaders, accountability in leadership reduces bellicosity
+- Next is intangible incentives like pride and national identity, makes it harder to come to a compromise
+- Misperceptions and faulty information are also a factor
+- Also uncertainty, basically not knowing if the other side will fight or not
+- Finally we have commitment problems, which can make creating compromises very hard
+
+**Causes of the War**
+
+- One of the last religious wars, sparked by conflict between Ottoman Christians and Orthodox Russians
+- Russia initiated mainly to keep the status quo in check, but Britain and France escalated the conflict
+- Almost became WWI before peace accords were signed
+- The Congress of Vienna was intended to rebuild Europe after the Napoleonic wars, and took almost a full year
+- During this time hundreds of thousands of elites and diplomats moved to reside in Vienna
+- Austria used this opportunity to spy on the other major countries, as most negotiations took place informally
+- Most deposed kings were reinstated, and buffer states were put into place around France like the Netherlands, Luxembourg, Baden, Switzerland, Piedmont
+- Democracy was allowed to stay in France, albeit in a much more restricted form
+- Finally, an alliance of Prussia, Austria, UK, and Russia was formed
+- Created the concert system to try and uphold in international system with yearly meetings of the great powers
+- No agreement was created on intervention in the affairs of other nations, Northern countries were in support of this and formed the Holy Alliance to uphold it but Britain was not
+- Also did not address unstable or failing states, no mechanism to deal with internal collapse
+- The people were not included at all for this, meeting of elites alone
+- In the following years, many uprisings and revolutions were attempted, but always contained
+- Collaboration between the great powers allowed the maintenance of peace
+- Only exception was Greek War of Independence, Christian powers came in to protect revolutionaries against the Ottoman government
+- But in 1848, Europe experienced a spontaneous series of revolts across the continent, all inspired by the French Revolution
+- All of them succeeded, but failed within a matter of months
+- But the consolidation of the elites held strong, instead of taking advantage of one another the major powers collaborated to put down these revolutions
+- One of these was in France, the 2nd French Republic was created with Napoleon III on the throne
+- Naturally, this was violently opposed by the monarchs who still recalled the French Empire
+- Russia was the greatest power at the time, lead by Tsar Nicholas I
+- Nicholas was a staunch conservative, believed in an Orthodox and Autocratic state
+- Not only put down all liberal movements in his own country, but in Europe as well, often called the "gendarme (policeman) of Europe"
+- Once allies, Britain and Russia became suspicious of each other
+- As Russia became more conservative, Britain was becoming more liberal
+- Britain was also concerned that Russian expansion would threaten their interests in India and the Ottoman Empire
+- Janissaries were disbanded in 1826, and new western-style troops had been extremely ineffective
+- Lost several wars to both the Russians and Egyptians, almost collapsing completely three times over
+- It was clear a massive power vacuum was about to open up in the Ottoman lands
+- Russia was within marching distance of the Danube and had proven they could easily beat the Ottoman army on several occasions
+- Also had protected Istanbul, giving Tsar Nicholas political sway with the Ottomans as well
+- Religion played a role too, many Ottomans were actually Orthodox Christians who had a previous relationship with Russia
+- Even more important given that the Ottomans roughly divided their population by religion, with each group loosely governed by their church
+- Church collected taxes, run courts and prisons, schools, hospitals, etc.
+- Religious leaders were very important people and even had janissary bodyguards
+- All this power was in the hands of Orthodox bishops sympathetic to Russia
+- Of course Britain and France had some influence with the Protestants and Catholics respectively, but this was a much smaller share of the population
+- In an attempt to remedy this, the British embassy sought to reduce Russia's influence in Istanbul
+- Secured military agreements and a free trade convention between London and Istanbul
+- Also encourages Ottoman reformers to reduce the power of non-Muslim communities
+- Tsar Nicholas for his part was amenable to most of these efforts, and even agreed to sign the agreement banning them from the harbours of Istanbul during wartime
+- But this effort to reduce the power of the Orthodox Church was one thing he could not stand
+- Deeply offensive not just to the Tsar but to Russian society as a whole
+- This came to a head with the disagreement over the Holy Places, namely the Church of the Holy Sepulchre in Jerusalem
+- The dome of the church was damaged in the 1830s, and the Orthodox Church offered to rebuild it
+- However, Franciscans were concerned that this might create a Russian claim to the church
+- Napoleon attempted to take advantage of this concern to win Catholic support and vigorously supported their claim
+- On the Russian side, a large number of Polish rebels they had been pursuing were given asylum by the Ottoman Empire
+- On all sides, Russia saw the Ottomans trying to repel their influence and started assembling an army
+- But he stopped, and decided to send a mission to Istanbul and try to solve the conflict the old way
+- He invited the British ambassador for a conversation to settle the matter without war
+- Offered to divide the Ottoman lands equally since the empire was obviously failing
+- Seymour, the ambassador, was horrified by this and saw it as a sign of Russian aggression towards the Ottomans
+- In 1853, Alexander Menshikov was dispatched to Istanbul in the hope that his military rank would help intimidate the Ottomans in negotiations
+- However he was not a very friendly person and more well-versed in war compared to diplomacy
+- Also did not help that at the same time he arrived, Russian forces were performing maneuvers on the border
+- Despite all this, Menshikov was able to solve the Holy Places dispute but could not secure a special relationship between the Orthodox community and Russia
+- With British support, the Ottomans refused to bend to these demands
+- Russia delivered another ultimatum, threatening to seize the Danubian principalities
+- All attempts at a compromise failed, simply because the Ottomans would not accept any bilateral agreement that gave Russia influence in their territory
+- This went directly in the face of the concert system, and was fueled almost entirely by British and French insistence that they would support Istanbul in any potential conflict
+- Russia saw itself as merely upholding the status quo in its own backyard, but Britain and France saw it as aggressive expansion
+- After the attack on Sinope, Britain and France joined the war in 1854
+
+**Why They Fought**
+
+- Looking back at Blattman's criteria, almost all apply
+- Nicholas I and Napoleon III were both almost entirely unchecked
+- Religious loyalty was a key incentive, as well as competition between empires
+- There was a massive lack of communication between the west and Russia, and what communication happened was misinterpreted
+- The resolve of all states involved was consistently underestimated
+- And finally, everyone involved recognized that the fall of the Ottoman empire was a once in a century opportunity that needed to be acted on immediately, meaning long-term agreements were not an option
+- On the micro level the war was caused by religious ties in the Ottoman Empire, but on the macro level it was impatience with the status quo
+- Russia sparked the war, but France and Britain instigated it

@@ -1,0 +1,25 @@
+- Passive remote sensing is recording natural emissions, active is sending out radiation and recording how it responds to the terrain
+- These natural emissions are usually from the sun, recording how the sun interacts with the surface
+- The difference is active remote sensors generate their own radiation, passive remote sensors don't
+- Active remote sensing is weather and sunlight independent
+- Can penetrate vegetation, snow, clouds etc.
+- However, it has a limited amount of spectral information because it relies on the limited amount of radiation the satellite emits
+- Meanwhile a passive remote sensing system is limited only by it's spectral resolution and by what kind of radiation the atmosphere transmits
+- Active remote sensing is usually done with RADAR (HF radio or microwaves), LiDAR (laser light), or SONAR (sound waves)
+- RADAR stands for Radio Detection And Ranging
+- Transmits microwaves or radio waves towards a surface, measures the backscatter and make inferences about the surface
+- We usually talk about RADAR detection, not ranging
+- Microwaves can penetrate clouds and can be used at night
+- The response of the backscatter is affected by the roughness of the surface, the dielectric content, and the moisture content
+- Corner reflectors have high reflectance and return the backscatter to the sensor (buildings)
+- Diffuse reflectors scatter the radiation in all directions, depending on angle (choppy water)
+- Specular reflectors usually just bounce normally (roads)
+- Corner reflectors would return the most backscatter, diffuse reflectors return the least, and specular reflectors return a normal amount
+- The more moisture content, the better the reflector
+- X-Band is the smallest microwave wavelength used, P-band is the largest
+- C-band is on the smaller side, L-band is larger
+- The general rule is that the smaller the object your observing, the smaller the band used
+- When examining rain droplets use X-band, when looking at leaves use C-band
+- Radarsat uses C-band radiation
+- Dry soil is easier to penetrate than wet soil
+-

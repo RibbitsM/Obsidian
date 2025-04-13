@@ -1,0 +1,11 @@
+- Russia has the capability to disrupt the Starlink system in Ukraine just like they did for Viasat, but they haven't
+- They have the knowledge and capability to either blow up an existing piece of space junk or distribute tiny ball bearings among the constellation to disrupt them
+- Some potential explanations for why they haven't done this are they don't want to harm Elon Musk, or they just don't want the problem of clogging up LEO
+- Also, RADARSAT-2 is being used to support Ukrainian intelligence and targeting, does that mean its a legitimate target?
+- And if it is struck, how would Canada respond?
+- Feeds into the larger issue of how liability relates to private companies in warfare
+- Hypothetically, since RADARSAT-2 is Canadian property this would be an attack on Canada, which invokes the collective defense portion of NATO
+- Russia keeps advancing legal arguments despite most states remaining unconvinced since it keeps options open
+- Even if the majority of states condemn the invasion, there are still key states like Iran, India, and China that keep associating with Russia
+- It's always prudent to at least try to justify your actions
+-

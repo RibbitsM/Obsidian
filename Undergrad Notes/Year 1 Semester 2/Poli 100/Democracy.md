@@ -1,0 +1,47 @@
+- So far we have discussed the state, power/authority, and the constant presence of politics
+- Today we will discuss what democracy is
+- Democracy is a contested concept, can be viewed differently by different groups
+- For example, the DPRK isn't very democratic by western standards
+- Democratic standards are heavily cherrypicked by authorities to fit their needs
+- For example, Assad has been elected unanimously in every election ever held, but because citizens can't vote for anyone else
+- Democracy is associated with elections, consent of the ruled, and the regular and peaceful change of the government
+- The purpose of democracy is the transfer of power, this is often where they fail
+- Individual freedoms/equality are also important for democratic regimes
+- An example would be how the Canadian government allows it's citizens to critique and protest the government
+- Political power is distributed as widely as possible in a democracy
+- Leaders must also be accountable, meaning they can face consequences for their actions
+- The fact that people are able to voice their bad opinions means that democracy is working
+- Allowing people to spread their beliefs is better than silencing them
+- Also important is good governance
+- This means that decisions are made as closely to the opinions of the people as possible
+- However this leads to inefficiency, China was able to contain COVID much more efficiently than any democratic state
+- Depends whether you value democratic or quick decision making
+- The "good" in good governance is only one understanding of good
+- Democracy operates on decision by majority and respect of minorities
+- This is the purpose of basic rights, inherent properties that cannot be violated by democratic decisions
+- However, this is frequently violated in western democracies
+- Major important part is facilitating peaceful and regular change of government
+- For almost all of human history, change of power is always violent
+- Democracy is the only system based around change of power
+- Most democracies have inbuilt triggers to remove someone who stays in power for too long
+- Discussion and debate of politics is encouraged in democracy
+- The goal of democracy is widespread political engagement
+- No society has ever matched this definition, but we get as close as possible
+- Government of the people, by the people, for the people
+- Laws are changed to reflect popular opinion but not private interests
+- Remember, undemocratic decisions can be made through popular vote but this is an example of populism, not democracy
+- Has a perfect democracy ever existed?
+- Jack Lively came up with 7 criteria for democracies
+- Number 7 is the most simple, from 4 onward is actually a democracy
+- 7 is that rulers should act in the interest of the ruled, very easy to meet
+- 6 is that rulers should be chosen by representatives of the ruled (indirect elections)
+- 5 is that rulers should be chosen by the ruled (elections do not make a democracy)
+- 4 is that rulers should be accountable to the representatives of the ruled (this makes a democracy)
+- 3 is that rulers should be accountable to the ruled (rulers must justify their actions or face punishment, where most modern democracies lie)
+- 2 is that all should be involved in crucial decisions (done through referendums like Brexit)
+- 1 is that every citizen should be involved in making laws, policies and administration
+- Switzerland is the only country in the world that does this
+- Switzerland is divided into cantons which are directly ruled by the people
+- The smallest swiss cantons have true direct democracy, for example a small village voted to remove someone's citizenship because they were annoying
+- On the opposite end you have a elective dictatorship where you elect someone every 4 years but they have absolutely no accountability
+- This is how the UK used to function

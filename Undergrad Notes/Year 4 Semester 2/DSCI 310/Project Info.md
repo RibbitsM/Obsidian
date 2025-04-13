@@ -1,0 +1,2 @@
+- We're learning how to use Quarto documents, which are kind of like Jupyterlab notebooks
+-

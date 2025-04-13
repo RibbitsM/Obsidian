@@ -1,0 +1,63 @@
+**Disarmament Initiatives**
+
+- New START is the latest in a series of bilateral US-Russia disarmament treaties post-Cold War
+- Consists of START I and II along with SORT (Strategic Offensive Reductions Treaty) and New START itself in 2010
+- These agreements successfully reduced the amount of warheads in the arsenals of both countries significantly, and as an extension warhead stockpiles worldwide
+- New START specifically limits the number of deployed strategic nuclear weapons, ICBM and SLBM launchers, and heavy bombers
+- Allows for inspection, and must be renewed every 5 years
+- Both sides stood by this agreement, and have remained compliant since
+- This came into question in 2020, as the Trump Administration was hesitant about it but was renewed the next year by Biden and Putin
+- It still will have to be renewed in 2026, and considering recent developments this is looking to be unlikely
+- The next modern disarmament efforts are the nuclear security summits started by the Obama administration
+- The goals of these summits are both to reduce and eliminate nuclear warheads, and a global ban on nuclear testing
+- The most immediate priority of the summits was preventing nuclear terrorism
+- Four summits held from 2010 to 2018 and focused on preventing terrorists from gaining access to nuclear materials
+- This led to a lot of division between countries believing this was an appropriate focus, and those who saw existing stockpiles as the bigger threat
+- These summits were promptly cancelled by the Trump administration
+- As opposed to Obama, Trump has consistently taken a favorable stance on nuclear weapons
+- Agrees that proliferation is a threat, but affirms the necessity of the US possessing nuclear weapons
+- US must remain the peak of nuclear capability
+- Despite their differences in approach, all recent US administrations have placed nuclear weapons as an important part of US security
+- The conference on disarmament is currently the only multilateral disarmament forum, established in 1979
+- Based in Geneva and is closely connected to the UN
+- Produced several arms control agreements, namely the NPT, BWC, CWC, and the CTBT
+- Has working groups on fissile material control and arms races in outer space
+- However it has been unproductive since the CTBT, due to the need for consensus
+- The Nuclear Weapons Ban Treaty is an ambitious document started by the UNGA in 2016 that seeks to ban and eliminate nuclear weapons entirely
+- On July 7, 2017, 122 countries agreed to the Treaty on the Prohibition of Nuclear Weapons
+- These states will not develop, test, manufacture, or possess nuclear weapons
+- Many countries have refused to participate in negotiations at all, especially all the current nuclear states
+- The justification for this is generally safety concerns, the US will not give up nuclear weapons as long as their enemies have them
+- Another new issue is subcritical testing which are experiments using enriched plutonium that never reaches criticality
+- These tests are not banned under the CTBT and are seen as a loophole for nuclear testing
+- The US, Russia, and China have all conducted tests like these since the implementation of the CTBT
+- Raises questions on whether we should or can ban these tests
+
+**Controlling Fissile Materials**
+
+- Trafficking of radioactive materials is a huge concern for the global community
+- We can see this by looking at the IAEA Incident and Trafficking Database, established in 1995
+- This database has 142 participating countries, and meets regularly during the year to provide updates
+- From 1993 to 2021, 3928 incidents were reported to the database
+- 320 of these confirmed malicious use
+- 12 involved enriched uranium, 3 involved plutonium, and 5 involved plutonium-beryllium neutron sources
+- A small number of these instances were in kilogram quantities, and this is potential weapons-grade material we're talking about
+- Fairly regular occurrence every year of these incidents
+- 1034 of the incidents had insufficient information to determine if they were trafficking or malicious
+- Three of these involved plutonium or plutonium-beryllium sources
+- 2574 incidents were unrelated to trafficking/malicious use, most of these were discovery, unauthorized disposals or shipments
+- All of this matters because of the risk of nuclear weapons proliferation to state and non-state actors
+- These are also extremely toxic materials that can also be converted into radiological weapons and poisons
+- Many calls for a Fissile Material Cut-off Treaty that would wholesale ban the production of highly enriched uranium and plutonium
+- There's quite a bit of fissile material in the world, about 1500 tons of uranium and about 500 tons of plutonium
+- Most of this material is held by nuclear weapons states, with Japan being a significant outlier
+- Due to the Japanese nuclear reactor program, they have a large stockpile of plutonium that they have been hoarding
+- This was intended to be used in civilian reactor programs, but has yet to be put into use
+- This plutonium could be used to build 5000 nuclear warheads
+- The US, UK, France, and Russia have all claimed to have stopped producing fissile material
+- China has also said this, but the rise of nuclear energy and planned increase in warheads in China raise some eyebrows about this claim
+- Under the NPT, non-weapons states are already banned from producing/gaining fissile material
+- However, a potential FMCT would impose further restrictions on weapons states
+- Also, NPT guidelines don't apply to Israel, Pakistan, India, and North Korea who are all non-signatories
+- All these states are opposed to an FMCT, along with many of the weapons states
+- In a consensus environment like the conference on disarmament, this has understandably created a significant issue

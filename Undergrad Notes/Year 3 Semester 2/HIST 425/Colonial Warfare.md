@@ -1,0 +1,13 @@
+- The French army sent 6,000 troops to take Al-Aghouat in Algeria, more than the entire population of the town
+- This was because of an uprising being led in the town by a religious figure
+- Used guns to blow open the defenses of the town, and invade the town en masse
+- Most citizens retreated to their homes and defended house to house
+- The France kept fighting, pushing the North Africans back
+- But they didn't stop, even after resistance had ceased entirely
+- Methodically, the population was massacred whether men or women, and by the time they stopped, over half the towns population was dead
+- Al-Aghouat was to be levelled, and the massacre covered up
+- But now there is a street in Paris named after the battle, remaining to this day
+- Colonial wars can either be wars of conquest, or pacification
+- Unique because of the asymmetry, fighting against countries that couldn't fight on the same scale as the Europeans
+- These wars were very cheap for the French, because most soldiers were recruited natives
+-

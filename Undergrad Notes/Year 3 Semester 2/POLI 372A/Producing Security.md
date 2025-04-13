@@ -1,0 +1,88 @@
+**Lecture 1**
+
+- How have MNCs changed how we think about security?
+- Have they made the world more or less secure?
+- Based on a book written by Stephen Brooks, not an economist
+- Political stability is a core issue for MNCs, but ideology is not
+- For example, lets look at the Philippines and Singapore
+- Both are physically ASEAN countries but Singapore is developmentally very close to the US, while the Philippines are much closer to the Latin American model
+- Governed by Ferdinand Marcos from 1966-86, infamous dictator
+- Right-wing general, opposed to land reform similarly to many Latin American leaders
+- On the other hand Lee Kuan Yew is the "democratically elected" leader of Singapore from 1959-1990, and led in the background afterwards until his death
+- Not necessarily an authoritarian state, especially compared to the Philippines but it is also not democratic (rigged elections)
+- As a former British colony, Singapore inherited a very efficient bureaucracy, but the Philippines got a former Spanish-American bureaucracy
+- What FDI does exist in the Philippines is mostly American, and exists as a form of neo-colonial control supported by Marcos
+- Part of the US policy on containment, the country also holds two major US military bases which were recently recommissioned to contain China
+- If you are an MNC and you have to pick between these two countries, you're going to go to Singapore
+- Ignoring economic factors like Singapore's import substitution economy, the political environment in Singapore is just much more stable and valuable
+- It has the infrastructure, the efficiency, a fairly benign leader and a stable political position
+- MNCs don't concern themselves with whether Yew is a fairly elected leader or not, just whether he is a good one
+- He is also not likely to turn to expropriation, a major concern for MNCs at the time
+- Sure your assets probably won't be seized by the government in the Philippines, but you will be exposed to the constant military coups and rebel uprisings
+- Even if the current state is friendly, that doesn't mean the next one will be
+- Think about that compared to Singapore's one party democracy
+- Security for MNCs means security for their assets, they are risk averse
+- The only reason they would expose themselves to instability is because that state has something they can't get elsewhere
+- Most common for extractive MNCs, for example Talisman Energy in Sudan
+- LDCs pose higher risks but also higher rewards
+- Low cost labour and valuable natural resources are the two main motivators
+- But on the whole, most FDI is conducted between politically stable states, mostly OECD countries
+- Even among the LDCs, investment is concentrated in the most stable states
+- Developing countries are not a monolith, and have a diverse range of regime types
+- In the 90s Singapore was considered a developing country and Portugal wasn't, despite Singapore having almost twice Portugal's per capita GDP
+- What determines whether a country is "developing" or not has nothing to do with the economy, its about colonization
+- We would never compare Portugal to Singapore or Canada to Columbia because we see them as fundamentally different countries because of their colonial experiences
+- Weirdly enough, Canada can't really be considered a first world country
+- It is a former colony, but also has most characteristics of an industrialized state
+- However it has an incredibly dependent economy reminiscent of Latin American states, but does not have the matching unstable political structure
+- As much as we think that these labels are based on economic factors, they are really the result of political factors, race, colonization, etc.
+- When looking at FDI flows by Cold War alliances, most are between first world countries but at least a third is in developing non-aligned countries
+- The lowest numbers are in the second world, mainly due to stability concerns
+- MNCs are almost everywhere on the planet, and as such will inevitably be involved in violent conflict
+- They may be unknowingly supporting a repressive regime or knowingly supporting one
+- Talisman Energy entered Sudan in the middle of a civil war, but the Chretien government did not have to tools to stop them from doing so
+- The Canadian foreign policy minister sat down with the CEO and explained that Canada does not back either side in the government, but Talisman was directly supporting the state via FDI
+- At the time, the Sudanese government was carrying out a genocide in Darfur
+- Canada wanted them out not just because it was a human rights violation but also because they were embarrassing the government
+- But Talisman thought that they were impartial and were just there to do business, its "just business"
+- Even if they were impartial, there was a perception that they were supporting a genocide
+- Not a good look, by 2000 Talisman is bought out by Repsol, a Spanish energy company (this is why we have the Repsol center in Calgary lol it used to be the Talisman center)
+- We don't know if Talisman had any effect on the conflict, in fact the war has started up again, decades after they left the region
+
+**Lecture 2**
+
+- MNCs can also exacerbate violent conflict by hiring security contractors, if those security personnel end up harming or killing people it's the MNC's fault
+- Negative environmental effects can contribute to conflict by causing resource scarcity or population displacement
+- Finally, they can also exacerbate social tensions through discriminatory hiring practices
+- On the other hand, war has many negative effects on the local population which can harm MNCs by reducing the labour pool and consumer numbers
+- Also causes devastation of key infrastructure to supply chains like roads and telecommunications networks
+- In particularly bad situations, the rule of law can break down entirely which is terrible for all firms
+- The only exception is in cases like Burkina Faso where the MNC is there specifically to uphold the rule of law
+- In the case of firms like Talisman, the main risk is more to their reputation rather than their direct operations but these factors still play a part
+- MNCs are also affecting the way we think about security as a whole
+- A great example is the UNHDR from 1994 which introduced the concept of human security
+- Response to the popularity of realist thought, tries to make people the unit of analysis instead of the state
+- Security isn't measured in terms of army size in capability, but in terms of development indices
+- It also explicitly invites MNCs to participate in human security, all kinds of capital flow are included in development, not just government aid
+- Fits into larger theme of MNCs being "invited" into global governance, collective management of the planet by states and firms alike
+- Clashes directly with the responsibilities of the state for realists, but is ultimately a response to worldwide threats like climate change
+- The title of Brooks book is very relevant to this, MNCs often don't set out with the goal of producing security but they often do so accidentally
+- He ultimately comes to the conclusion that MNCs have overall produced security in some zones but harmed it in other zones
+- Commercial liberalism theory states that countries that are economically interdependent will not go to war, but this has pretty consistently been shown to be untrue
+- A great example is WWI, most of the European states were interdependent and we know how that ended
+- But Brooks says that this is true some of the time, a good example is Brazil and Argentina
+- He argues that the key to the liberal peace isn't trade, but foreign direct investment
+- Today, FDI is more important than international trade, its now the defining unit of international economic activity
+- Plus, the majority of trade is also technically investment since its all trade between affiliates of an MNC
+- But even when we think about commercial liberalism with investment instead of trade, it still doesn't apply to all countries
+- Brooks singled out China as the exception, in 2007 China was not involved in any regional agreements but this has since changed
+- Overall, he concludes that globalization of production has the potential to create peace
+- Firms are also not just becoming more integrated with states, but also with each other
+- Alliances between major firms are becoming more and more common, especially in R&D-heavy industries like electronics
+- Modern semiconductors would simply not exist if we didn't have multiple companies coming together to share the production costs together
+- IBM, Siemens, and Toshiba collectively put up 1 billion USD to produce a new semiconductor in 1992
+- This also applies to the defense industry, the US is a great example
+- For years, the US and many other countries have sought an autarkic defense production strategy
+- But America, the country with the most developed military industrial complex in the world is now having to enlist foreign defense contractors
+- Production is so globalized and so interconnected that the most powerful state in the world has to globalize its most sensitive industry
+- There are still countries pursuing autarky, but they pay enormous opportunity costs to do so

@@ -1,0 +1,39 @@
+- Acknowledges importance of prevention and forward thinking
+- Peace and development are linked, development creates peace and vice versa
+- Reduced costs of prevention rather than cure a common theme
+- Emphasis on sustainability over pure growth, buzzword that recurs often
+- Seeking action instead of theory, always a plus in human security
+- Potential disadvantage: goes against conventional thinking by deemphasizing hard power in terms of security
+- Distinctly 1994 post-Cold War perspective, what still applies today?
+- Innovations being presented as purely beneficial, written years before the effects of globalization truly set in
+- Introduction of freedom from fear and freedom from want
+- Emphasis on the inability of the UNSC to truly ensure security
+- Preventative measures can be a weakness, relies on early detection systems being foolproof
+- Centralization and widespread cooperation are very difficult objectives to achieve
+- Expansion of the concept of aid beyond the purely financial
+- Advantages and disadvantages to broadening and deepening security
+- Pretty crazy ideas that never came to fruition like global taxation
+- 6 point agenda is good, nothing too controversial/unreasonable
+- Hard to understate how impactful SDGs have been
+- 13% of a countries budget going to aid is already very substantial
+- Again, the idea that a country could devote 20% of its budget purely to foreign aid is predicated on the political and economic state in 1994
+- Post recession and war on terror world is much less forgiving
+- Peace dividend has mostly expired
+- Supply of arms from the UNSC is still a relevant point today
+- Good point that spending on human security should be approximately equal to spending on state security
+- Universalism is generally a plus, hard for people to deny
+- Human quality of life as an end
+- Requires a fundamental restructuring of the world economic system
+- "Human security is a child who did not die, a disease that did not spread, a job that was not cut, an ethnic tension that did not explode in violence, a dissident who was not silenced"
+- "Human security is more easily identified through its absence than its presence"
+- This isn't necessarily a good thing
+- Issue of how to establish state and human security simultaneously
+- Yes, this is technically covered by personal security but not comprehensively
+- Consistent emphasis on preventing issues before they happen, but this is a strategy that only really works in a time not plagued by immediate issues
+- Some issues are beyond the capability of just one state
+- Some strengths can be weaknesses and vice versa
+- While we can discard most of the peace dividend stuff as an anachronism, the points about how military spending takes away from human aid is good
+- Disarmament saves lives not just because it reduces the destructiveness of conflict but also lifts the burden of the military off a state's budget
+- Small arms are criminally overlooked when it comes to disarmament
+- Preventative diplomacy sounds good if you don't think about it too hard
+- Another threat is global debt, the UN loves their spending

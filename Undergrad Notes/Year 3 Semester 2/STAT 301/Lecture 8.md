@@ -1,0 +1,29 @@
+- Linear models operate under several assumptions
+- First we assume there is a linear relationship between the parameters
+- Errors are also considered to be independent
+- This means that the value of an error does not depend on any other values
+- A good example of a case where this wouldn't apply is with a time series where data was collected at different times
+- We also assume the distribution of the errors is normal and they have equal variance
+- Finally we assume multicollinearity, which allows us to use multiple input variables
+- An easy way to test if a relationship is linear is to write it as an equation
+- A linear equation should not have any variables as exponents
+- Variables can be something like X^2 but any higher powers will make it a polynomial
+- We can also test our regression models by fitting higher degree models to test against our linear result
+- Higher degree equations are not necessarily more accurate
+- Errors don't necessarily have to be normal to produce valid results, so this isn't really a super important assumption
+- If sample size is large, CLT will fix this issue
+- Bootstrapping can also be used to approximate the sampling distribution
+- But if the conditional distribution of the errors is normal then the conditional expectation of the response will be linear
+- We can tell if the distribution is normal or not by making a Q-Q or histogram plot of the residuals
+- Generally errors don't have equal variance, but we assume that they do
+- We can usually fix this by log transforming the response variable
+- Call this problem heteroscedasticity
+- Ideally as we fit the values we want the variance to stay the same, but with heteroscedasticity the residuals will have more and more variance as we fit more
+- Multicollinearity happens when we have correlated input variables
+- This destabilizes the LS estimator, causing it to vary from sample to sample and inflates the SE
+- Happens because data from one variable can be masked by its correlated variable
+- When this happens we need to get rid of one of the variables, but its often hard to chose which one
+- In this case we generally ask an expert in the field to choose
+- There are ways to fix this without deleting variables, but we'll learn those later
+- We have equations to test for this like the variance inflation factors, but you can also just do pairwise comparisons between the explanatory variables
+- If using VIF, if the result is significantly larger than 1 then there is a multicollinearity in the variable you tested

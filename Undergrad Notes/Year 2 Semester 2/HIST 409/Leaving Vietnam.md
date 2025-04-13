@@ -1,0 +1,81 @@
+- Civil rights movement still going strong at this point
+- MLK has yet to be assassinated alongside Robert Kennedy prior to Nixon's election
+- Anti-war movement powered by the young population, supported by popular culture and music
+- Rolling Thunder continued to be ineffective, despite its purpose of ending the war quickly
+- Not only were the Vietnamese affected by the side effects of Agent Orange, but so were the US and Canadian military members that were exposed to it
+- The effects could even skip generations, hiding in bloodlines for years before finally being exposed
+- Still children being born today that show birth defects that are likely a result of these herbicides and defoliants
+- The number of US soldiers in Vietnam steadily increased to compensate for the ineffectiveness of Rolling Thunder
+- American personnel peaked at 543,400 in 1969
+- Soldiers were coming back with horrible PTSD, made even worse by the lack of understanding around mental illness and treatment
+- Veterans often suffered from physical disabilities, mental disabilities, or both
+- American bombing was actually heaviest in South Vietnam compared to the North
+- The number of bombs dropped on the South was double that in the North
+- The Vietcong preferred to fight hand to hand, and would force the US to fight mainly on the ground
+- The US would not hold territory, but helicopter in, attack a target, and helicopter out in a 'search and destroy" type mission
+- Soldiers often found it difficult to distinguish between enemy soldiers and civilians, and often killed civilians by mistake
+- Different kind of fighting than the Americans were used to
+- Fighting was even happening outside the borders of Vietnam, in Cambodia
+- The Vietcong also used booby traps and landmines extensively, allowing them to inflict casualties without even being present
+- This unconventional warfare had a disastrous effect on the mental state of most soldiers
+- Booby traps caused debilitating physical injuries and the confusion of not knowing where the enemy was and where they would strike was terrifying
+- Johnson was the main scapegoat for the conflict, and was protested in many countries
+- Civilians in the US could not understand why the military was still in Vietnam
+- Ho Chi Minh wrote many letters to LBJ demanding that the US withdraw from Vietnam, but no replies were given
+- The 'Summer of Love' happened in 1967, anti-war protest songs continued to top the charts with All You Need Is Love by the Beatles and For What It's Worth by Buffalo Springfield
+- Demonstrations began to be levelled against Dow Chemical Company in response to its production of napalm and support of the war effort
+- Around 50 to 100,000 students escaped the draft by moving to Canada, and were accepted openly by the government at the time led by Pierre Trudeau
+- The numbers are mainly unknown due to the no questions asked approach at the Canadian border
+- Canada could not really offer asylum to deserters like they could with draft dodgers since it was against international law
+- Sympathy for the anti-war cause in US and general anti-American sentiment led to draft dodgers being accepted basically universally in Canada
+- Americans weren't the only ones going to Vietnam, a significant number of Canadians volunteered to fight in Vietnam under the American army
+- America was offering tons of money to people who could go to Vietnam and build roads
+- Discreet and unofficial, these soldiers were not recognized as being Canadian
+- Several public figures dodged the draft, including Muhammad Ali
+- Flower power movement, the culture of anti-war protestors was varied and inspired by multiple protestors
+- A large group of protestors marched down the Potomac to protest in front of the Pentagon
+- Police formed a blockade and arrested several protestors, the protest was relatively well received by the public
+- The CIA took notice of the antiwar movement, and commented on the varied nature of the protests that were made up of many smaller groups with different motivations
+- MLK had already delivered his famous speech, and joined forces with Robert Kennedy to make a move into the political world
+- He was particularly opposed to the Vietnam war due to its effects on poor people in America, who were disproportionately affected by the draft
+- This soured his relationship with LBJ, who had previously been sympathetic to his cause that he sought to enact via the Great Society
+- In his speech "Beyond Vietnam", MLK lambasted the continued existence of Jim Crow laws in America while black and white people alike are sent to Vietnam together
+- Art was being weaponized by the black community to gather more people to the cause, Nina Simone, James Baldwin and more were doing this
+- Public opinion on the Vietnam war was declining sharply, almost half the country believed it was a mistake
+- Bill Clinton evaded the draft successfully by getting a student deferment due to his Rhodes Scholarship at Oxford
+- Other ways you could avoid the draft was by being a conscientious objector, meaning a religious pacifist, or by being homosexual
+- Canada was supporting the American defense industry under the table, exporting metals to the US alongside many other goods to fuel the war effort
+- Public opinion was affected heavily by the media, several iconic images came out of Vietnam including the photo of an unarmed Vietcong soldier being executed
+- Walter Lippmann fell out with LBJ, and wrote a book attacking America and talking about America's fall from grace and opposition to freedom
+- LBJ was obviously going to go, and Nixon was the favoured candidate on the Republican side after his defeat at the hands of Kennedy
+- Months after he announced his candidacy, the My Lai Massacre occured, where American troops executed an entire village of women, children and elderly people
+- This just threw fuel on the fire of public opinion on the war
+- Nixon posed himself as the "peace candidate" promising to end the war
+- His opponent, Robert Kennedy, promised the same thing but was even more popular, mostly due to his alliance with Martin Luther King
+- He had mass support from the poorer populations, especially black people who believed that he would not only end the war, but inequality in America
+- The day after he announced his presidential run, a protest in London became violent when the police horses became spooked leading to mass chaos
+- The Democrats were fine with LBJ not running again, and trusted Kennedy to secure the vote
+- Both sides of the political system were ready to leave Vietnam
+- Martin Luther King was shot in April, and Robert Kennedy was shot a few months later in June
+- Many conspiracy theories have circulated about who actually shot these two
+- With Kennedy and MLK dead, there was little standing in Nixon's way
+- Nixon was fully committed to pulling out of Vietnam, and was aided by his right hand, Kissinger
+- The draft was still in effect when Nixon came to power in the summer of 1969
+- The antiwar movement is still going strong with Woodstock and John Lennon and Yoko Ono
+- Of course one of the most important moments in US history also occured at this time, the moon landing which was broadcast live on television
+- There are also a number of conspiracy theories about the moon landing as well
+- With Nixon in power, he begins to slowly withdraw soldiers from Vietnam
+- Ho Chi Minh also dies of a heart attack in 1969, and is celebrated for winning the war
+- Saigon was renamed in his honour
+- Nixon gave a speech advocating for the Vietnam war to be left in the hands of the Vietnamese
+- This idea was often referred to as "Vietnamization" or "The Nixon Doctrine"
+- He had little choice in the matter, Nixon had to withdraw from Vietnam or risk ruining any credibility he had from his campaign promises
+- His strategy was to replace the withdrawing American soldiers with South Vietnamese forces, which were in complete disarray and basically didn't exist
+- The major problem was that although he was withdrawing from Vietnam, he was also moving into Vietnam
+- Secret bombing of the Ho Chi Minh trail in Cambodia began in 1969
+- In response to this expansion of the war, students at Kent State in Ohio buried a copy of the Constitution
+- Nixon condemned these protests, calling the students "bums" in an address
+- In response to the protests, the Ohio National Guard opened fire on a crowd of protestors, killing four students and wounding nine others
+- Watershed moment for the protest movement in America, alienated many young people in the US
+- This sparked even more protests, with universities closing down across America in response to the killing of these students
+- Neil Young wrote a song in memory of these students called Ohio in 1971, which was also a anti war protest song

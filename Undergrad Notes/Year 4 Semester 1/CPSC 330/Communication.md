@@ -1,0 +1,8 @@
+- When communicating your results in machine learning, make sure to explain all of the limitations of your model, and don't misrepresent your results
+- Some explanations are better than others depending on the context
+- For those with prior knowledge you can go top down, starting with the most important points and then describing details
+- To introduce someone who is less familiar you can go for a bottom up approach, where you explain concepts individually and build up to explaining your main point
+- Using examples and analogies is a great way to explain something new, you'll also want to split your information into chunks to make it easier to digest
+- You always want to show your results, don't just show your code without the results
+- Remember to only include things that you know will be useful or interesting to the reader, it's not about making yourself look smart it's about effectively communicating information
+- Concepts first, then labels

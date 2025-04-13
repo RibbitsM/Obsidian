@@ -1,0 +1,28 @@
+- A test statistic is a function of the data on which our decision to accept or reject H0 is based
+- The rejection region is the area of the distribution of the test statistic where we reject H0
+- A p-value represents the probability that H0 is true given the data
+- Basically shows how unusual our results would be assuming H0 is true
+- Significance level is the number where we reject H0 is the p value is less than or equal to that number
+- We take our observed test statistic from the sample and find it on the null distribution of our test statistic
+- Then, measure the p-value to see how extreme our value is
+- How we measure the p-value depends on our alternative hypothesis
+- If the p value is equal to or smaller than your significance level, reject H0
+- We can control the likelihood of getting a type 1 error by changing the significance level
+- However, the lower the significance level, the higher the chance of type II error
+- The critical value is the point on the x axis our null distribution where the shaded area under the curve to the right of the critical point equals our significance level (for right tail test)
+- The shaded area will be our rejection region, and unshaded area is the non-rejection region
+- If we take our observed test statistic and plot it on the x axis of the null distribution, the area under the curve to the right (for right tailed test) is the p value
+- Type II error depends on the effect size, the sample size, and the significance level
+- Effect size is the difference between null hypothesis and reality, say if our H0 mu = 10 and the real mu is 14, that would be an effect size of 4
+- Type II error can be visualized by charting two distributions simultaneously, the null distribution and the real one
+- Type II error is the area under the curve on the real distribution to the left of the critical value (in a right tailed test)
+- Effect size determines the difference between the centers of each distribution, larger effect size means less overlap
+- The power of a test is how well we can reject a false H0, calculated by 1 - Type II error
+- To find type II error, you need the real value of the mean
+- Take the critical value, and plug it into the test statistic formula, then put that value into pnorm to get the type II error
+- As effect size increases, type II error decreases and power increases
+- Type II error also decreases when sample size increases
+- It's also possible to have 100% power with a large enough effect or sample size
+- Power decreases for two tailed tests because it halves the size of the type I error region that the type II error region is interacting with
+- If we have a two tailed hypothesis test, the null hypothesis is rejected if the confidence interval doesn't include the H0 value
+- Remember, confidence interval is just 100- significance level

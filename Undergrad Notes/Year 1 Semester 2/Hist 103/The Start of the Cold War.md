@@ -1,0 +1,51 @@
+- Struggle between superpowers from 1945-91
+- Pursuit of allies on both ends
+- Technological competition
+- Can also be seen as the rise of the US as a world power
+- WW2 alliances break up, create tensions in Europe
+- Tension spreads to middle east Asia and Latin America
+- Many similar local struggles emerge
+- Battle between spheres of influence
+- Explicit goal of USSR, Implicit goal of America
+- Competition between political systems
+- America never named their strategy, but were clearly creating a sphere of influence
+- Tensions between liberal democracy/capitalism vs communism
+- In the aftermath of WWII USSR created communist governments in former German controlled nations
+- East Germany, Poland, Czechoslovakia, Hungary, Bulgaria, Romania, Yugoslavia, Albania, Korea
+- All communist governments established after WWII
+- Also reoccupied the Baltic states, eastern Poland and Moldova
+- Also reclaimed islands taken by Japan
+- Huge expansion of soviet power
+- The US also expanded to match the USSR during this time
+- Established strong alliances in Europe
+- Created the Marshall Plan, aimed at repairing the European economy through loans
+- These loans came with an agreement to ally with the US and lessen regulations
+- Precursor to the EU emerges called Organisation for European Economic Cooperation
+- Driven by goals to establish markets for US exports and contain spread of Communism
+- Sought to increase power of businesses and government to prevent worker uprisings
+- Important concept from the western perspective is the idea of the Iron Curtain
+- Pioneered by Winston Churchill, referring to the borders of Communist states
+- Accusing the USSR of something they were also doing themselves
+- Most of the cold war is mirrored, with both powers using similar strategies
+
+Germany as Ground Zero
+
+- Cold war was a global war, but Germany was where the tensions emerged first
+- Conflict over how Germany was to be managed led to breakup of WWII alliances
+- Germany divided into four zones, divided up among soviets and western allies
+- Berlin is also split into four parts
+- Early example of conflict was the Berlin Airlift
+- Lasted from 1948 to 1949, when western supply routes are cut off by the USSR
+- In response, Western Europe organises an enormous airlift and constantly delivered coal and food by air for a year before the blockade lifted
+- Heightened fears over war with USSR
+- Blockade was sparked by the Western allies bringing in a unified currency for Western Germany
+- Encouraged capitalism and hurt Soviet chances of influencing politics
+- US wanted to unify West Germany, and the USSR tried to stop it with hunger
+- Undermined by huge effort from the west, was a huge economic burden for Britain and France
+- Second example was the refugee crisis after WWII
+- After WWII millions of Germans are expelled from Poland, Czechoslovakia, Yugoslavia, Hungary, and Romania
+- Seen as collaborators in Nazi occupation
+- One of the fastest forced relocations in history
+- Many went to East Germany
+- Created the United Nations High Commissioner for Refugees
+-

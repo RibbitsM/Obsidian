@@ -1,0 +1,33 @@
+- Faint young sun paradox solved by high GHG concentration in Earth's early atmosphere
+- Four major glacial periods: Huronian, Snowball Earth, Permo-Carboniferous, and Pleistocene
+- The Huronian was created by a rise of atmospheric oxygen which drew down methane
+- Snowball earth caused by continents in the tropics and high weathering
+- Moving on the pleistocene ice ages
+- About 65 million years ago, the earth was in a warming period
+- The Indian plate was moving northward, and created CO2 as the old carbon rich crust was subducted underneath Asia
+- This created an increase flux of atmospheric CO2
+- Ever since the Indian plate collided with the eurasian plate, we have been in a long term cooling cycle
+- The collision result in the building of the Himalayas, leading to increased weathering , CO2 uptake, and cooling
+- We estimate past temperatures by examining the composition of carboniferous shells from the seafloor
+- Oxygen has 3 stable isotopes, with the most common being oxygen-16
+- When the temperature is colder, oxygen-18 is more common since it's a heavier isotope and oxygen-16 evaporates first
+- The higher the oxygen-18 concentration in water means there was more ice
+- Ice age cycles are becoming colder and more intense over time
+- The periods are also becoming longer
+- On average, the last glacier maximum was about 3-5 degrees colder than it currently is
+- We can look at moraines as geological evidence that ice sheets covered most of North America at this time
+- Glacial valleys and fjords, glacial striation, and erratics are also used as evidence
+- During this period the sea level dropped as much as 100 m in some places, exposing continental shelves and land bridges
+- The increased temperature gradient between equator and pole leads to stronger atmospheric and ocean circulation, increasing surface and high altitude wind speed
+- More upwelling and deep water formation
+- The theory is that ice ages are triggered when solar radiation at a certain spot falls below the threshold to melt ice
+- The first orbital parameter that can cause this is the eccentricity of earth's orbit
+- Earth's orbit is not symmetrical, it comes closer on one side than the other
+- The closer side is the perihelion, further side is the aphelion
+- Least solar radiation occurs at maximum eccentricity on the aphelion
+- The second parameter is the earth's tilt
+- The tilt of the earth can become more or less tilted due to cyclical variations
+- When the tilt is more pronounced, seasons are more drastic
+- This is also related to the aphelion and perihelion
+- The hemisphere that is tilted away at the aphelion and tilted towards at the perihelion experiences the most drastic differences
+-

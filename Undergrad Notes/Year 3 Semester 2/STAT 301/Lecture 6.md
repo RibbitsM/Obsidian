@@ -1,0 +1,24 @@
+- This week we cover multiple linear regression
+- Here we have multiple variables, beyond b0 and b1 we have b2, b3, etc.
+- With this we can use categorical variables with multiple levels as our input variables
+- Basically opens the capacity of the SLR
+- We can also have additive MLR with formulas like y = b0 + b1x1 + b2x2 + b3x3 etc.
+- Can also do things like y = b0 + b1x1 + b2x2 + b3x1x2
+- The formula for something like this would be y ~ x1x2
+- Allows interaction between continuous and categorical variables
+- For example, recall our cancer mortality exploration, with MLR we can now include categorical variables
+- If we filter our dataset to two states we can investigate differences between states
+- In this case our categorical variable would be the state
+- This way we can do linear regression of two continuous variables, one for each state and plot them simultaneously
+- Alternatively, you can just plot one continuous and one categorical by creating a dummy variable for one of the axes
+- lm() will do this automatically if one variable is a factor
+- In our case with two states, if an observation is from one state the variable would be 0, if it's in the other state it would be 1
+- The estimate gives the difference in means between the two categories
+- B0 is the mean of the level for category 0, the "baseline"
+- B1 is the difference in means between the categories
+- In this case, b0 is the mean death rate for state 0, and b1 is the difference in mean death rate compared to state 0
+- B0 - B1 gets you the mean death rate for state 1
+- If we had more than 2 levels, this just adds more dummy variables
+- If we had a third state, b0 - b3 would be mean death rate for state 2
+- The 0 level is always the baseline the other levels are compared to
+-

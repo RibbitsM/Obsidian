@@ -1,0 +1,29 @@
+- Robert Cox is a Marxist, and wrote "Labour and MNCs" in 1976
+- Adaptation of classical Marxism, but not directly
+- Attempts to update Marx for a new century by applying his ideals to a transnational world
+- At the time Marx was writing, there was no unified labour movement because labour was separated on state lines, but this isn't the case anymore
+- For Cox, the ruling class is now the transnational managerial class or the TMC
+- The erasure of national boundaries and globalization as a whole is directly in service of this group
+- As for the proletariat, he divides them into primary and secondary labour corresponding to their level of job security and protection
+- Primary labour means unionized jobs, well-paying factory jobs with plenty of benefits
+- Secondary labour is almost anyone else, mostly workers in non-union jobs
+- At the very bottom is the social marginal class, those who are destitute, unhoused, etc.
+- Almost completely disconnected from the means of production
+- There are limited amounts of class mobility in Cox's model, but its not impossible
+- Disgraced businessmen can fall out of the TMC class, just how primary labour workers can work their way up the chain to the top
+- For Cox, the primary labour class is doing quite well because of their efforts, because union leaders have worked hard to obtain protections for them
+- On the other hand, secondary labourers are those in the most precarious condition, always at risk of falling into the social marginal class
+- In some countries like Canada, the class structure follows a common ratio, with the TMC being the smallest, followed by the social marginal class, and then the primary and secondary classes
+- But in some countries, the social marginal class is the largest, and growing rapidly
+- This is because while the distribution of class is fairly even globally, its concentrated geographically
+- Cox was influenced pretty heavily by Gramsci, and was the first person to introduce his ideas to international political economy
+- All this ties in nicely with Export Processing Zones and the supply chains of MNCs
+- Three characteristics: relief from tax and duties, better infrastructure and less regulation plus streamlined administration
+- In many developing countries, despite the obvious exploitation of labour, working in an EPZ is a significant economic boom
+- Brings workers from the social marginal barely up to the secondary labour class
+- Because of the growth of primary labour in MNC home countries, manufacturing is moved to developing countries where the social marginal class is much larger
+- In the event that workers do manage to unionize, MNCs are able to just move and set up shop somewhere else
+- Local populations are victim to something called the "race to the bottom"
+- Thailand is a typical example of an EPZ zone, majority of workers are young, unmarried women
+- The preference for women workers is usually based on a sexist idea that women are more docile and faster workers and are thus less likely to unionize and cause issues
+- John Madley: Big Business, Poor People

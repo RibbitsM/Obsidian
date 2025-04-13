@@ -1,0 +1,31 @@
+- Holocene comparatively stable when looking at past climates
+- In around 6,000 BCE we had a thermal maximum of 1.5 C
+- At the start of the Holocene, the perihelion was on June 21st
+- This caused more intense seasons in the Northern Hemisphere
+- Warming was focused on the Northern Hemisphere, no homogenous heat gain
+- We know all of this by examining climate proxies
+- One of these is chemical compositions
+- This can be in coral, tree rings, stalactites, and varved sediments
+- We are especially looking at delta O18 which is related to ice and temperature
+- We can also examine ecosystems by looking at fossilized pollen and diatoms
+- Most of these paleoproxies come from the Northern Hemisphere
+- Ice cores only record summer temperature since there is no precipitation at the poles during the winter, so they only grow for half the year
+- Same with tree rings
+- Therefore, we mainly have summer data
+- The increased Northern Hemisphere humidity caused the ICTZ to move north
+- This also shifted the monsoon, with precipitation reaching as far as the top of Africa
+- At the beginning of the Holocene the Sahara didn't exist, there were many lakes and the entire region was savannah
+- All this was a result of just 0.5 degrees of warming
+- Early Holocene warming was a result of orbital forcing
+
+Historical Decades
+
+- Since the beginning of the common era, the earth has cooled until recently
+- We have many more proxies for the last 2000 years
+- Little Ice Age in Europe between 1400 and 1800, colder temperatures and modern warm cities received snow
+- Glaciers that existed in 1850 were gone by 1966
+- Volcanic eruptions launch SO2 into the stratosphere where it is converted to sulfuric acid, creating sulfate aerosols
+- This causes an increase in atmospheric albedo and promotes cloud formation
+- Results in short term global cooling (about 2 year residence time)
+- This has been proven to result in substantial cooling, 1816 was called "the year without summer" and led to crop failure because of the Mt Tambora eruption in 1815
+- Based on sulfate concentration in ice cores we can predict the effects of volcanic forcing

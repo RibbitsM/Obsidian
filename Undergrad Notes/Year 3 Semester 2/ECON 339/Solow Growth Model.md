@@ -1,0 +1,69 @@
+> [!caution] This page contained a drawing which was not converted.   
+
+- Why do the growth rates of different countries change over time?
+- In the post WWII period there was spectacular growth in many places, mostly due to the Marshall Plan and the reconstruction of Europe
+- Immense amounts of money were being invested into Europe at once, effectively upgrading all the infrastructure that was destroyed in the war at the same time
+- Economics isn't just markets, think of Malthus writing about population growth and Marx writing about class
+- We generally use Gross Domestic Product or GDP to measure growth
+- This measures the value added of all goods and services produced in an economy per year
+- We can have absolute and relative growth, either an increase in overall GDP or GDP per capita
+- Could also define development by the structure of the economy and society
+- Quality of life, education, health, and employment are all indicators of economic development
+- Can also have human capital, the intangible value of education/knowledge
+
+**Solow Paper**
+
+- Solow's case study was the US economy from 1909 to 1949, and tried to explain the per capita growth rate of 2.9%
+- Didn't include land in his calculation since almost all land in America had already been put into use
+- Growth could be due to growth in the labour force, capital accumulation, or technological change
+- Led to the development of the growth accounting framework that is used to determine the relative weight of factors in economic growth
+- The economic devastation of WWII made understanding what makes an economy grow very important
+- By finding the growth in output, capital, and labour you can infer the contribution of technology
+- A Cobb-Douglas production function with constant returns to scale would be able to model this
+- Used the function Y = AKaLbMy
+- Exponents represent contribution to output
+- Assumed that technological development was an external factor, just happened independently
+- Savings is an important factor in the economy, level of savings tends to indicate level of investment in capital
+- This was the motivation behind the Bretton-Woods System, to promote savings and investment in less developed countries which would provide stability
+- In Solow's model savings is 30% of total output which comes from Arthur Lewis's model
+- The production function has heavy diminishing returns on capital, investment will only get you so far
+- By taking the log of the Cobb-Douglas production function and differentiating it with respect to time we can determine the contribution of each factor
+- The result is dy/y = dA/A + a(dK/K) + b(dL/L)
+- Remember we got rid of M because of the assumption that it doesn't contribute
+- If you were analysing a more resource-reliant economy like Canada, this would likely be a bad idea
+- Rearrange to get technological change on the left and then solve to get the residuals by plugging in the data you have for capital, output, and labour
+- To find intensive growth (per capita growth) you just divide the original equation by L
+- Result is y = Aka where k is K/L and y is Y/L
+- When we take the log and differentiate this equation you get dy/y = dA/A + a(dk/k)
+- This shows us that intensive growth is a function of technological change and capital investment
+- But since capital has such strong diminishing returns we can conclude that most growth is due to technological change
+- In this example, 7/8ths of output growth was due to technology
+- A more accurate version of this equation incorporates capital depreciation with d and population growth with n
+- So firms will need to invest in capital just to replace depreciating capital
+- Plus when the labour force grows firms will need to invest in capital to keep the K/L ratio
+- We do have a formula for capital depreciation but in reality it changes from country to country
+- Machinery breaks down much faster in some climates compared to others
+- Think about how much longer a combine harvester would last on a prairie vs a desert region
+- Humidity and rain as well as corrosion from salt air can also accelerate depreciation        
+- Here our production function is blue, savings is red, and depreciation/population growth in green
+- We produce on the production function where national savings equals depreciation, meaning the money we have saved up will pay off the cost of depreciation
+- If we produce below this point that's fine since we have excess savings, but past this point savings can no longer offset depreciation
+- It also represents population growth so when savings is less than depreciation/population growth there is also increases in unemployment
+- The x axis is actually k not K, which represents the K/L ratio
+- The y axis represents y or national income/GDP
+- If population growth slows, the green line comes closer to the k axis, giving us more savings
+- The same thing happens if the savings rate rises
+- Of course capital is subject to diminishing returns so our production function flattens out as we use more capital
+- Interestingly this liberal approach to growth is very similar to Marx, who also saw technology as the key to continued growth
+- If our production function is f(k) and savings is sf(k), then with technology it's Af(k) and sAf(k)
+- Technology is a multiplier, allowing us to produce more with each unit of capital
+- With technological change the blue and red curves would be shifted up
+- Our production function is augmented by technology, and more output requires more savings
+- In this case the green curve would also shift up as if population grows at rate n and technology grows at rate a and requires capital investment, more investment is needed to maintain output
+- The equation would be (n+d+a)k where d is depreciation, and gives the amount of investment needed to maintain growth
+- However, this assumes that further capital investment is needed to implement the change
+- We also assume this is labour augmenting, not labour replacing
+- Can thing of this by using the equation Y = f(K, AL) as our ratio is really capital per effective worker
+- Without technological change, steady state growth is just enough to offset population growth and depreciation
+- Technological change increases output per worker, and thus should increase income as well
+- This is not a model that suggests the replacement of labour, rather that each labourer will become more and more effective leading to an increase in total output

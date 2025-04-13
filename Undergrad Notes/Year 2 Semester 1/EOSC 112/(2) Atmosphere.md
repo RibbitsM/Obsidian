@@ -1,0 +1,18 @@
+- Our previous model assumed the earth does not rotate
+- However the earth does, and it creates the Coriolis effect
+- The coriolis effect is an apparent force meaning it feels like a horizontal force but is a product of acceleration
+- There is no coriolis effect if there is no movement, like centrifugal force
+- Depending on where on the earth you are standing, you're moving faster or slower
+- Therefore the amplitude is proportional to the sine of latitude
+- It's also proportional to the speed of the object and the rotation of the earth
+- Objects get deflected to the right if you're in the northern hemisphere, and to the left if you're in the southern hemisphere
+- The deflection is always 90 degrees
+- Pressure differences cause the air to begin moving
+- The faster the air moves, the more effect the Coriolis force has
+- Eventually it reaches a point where the pressure force is equal to the Coriolis force
+- This is called a geostrophic wind, and it moves at a 90 degree angle along an isobar or constant pressure line
+- These isobars aren't always horizontal, they can be rings
+- This is why hurricanes have their shape
+- Because of the effects of friction, wind doesn't move at a perfect 90 degree angle
+- Therefore in the northern hemisphere, the wind comes from the North East
+- This is with no continents

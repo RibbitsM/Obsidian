@@ -1,0 +1,37 @@
+- About 500 km above Earth the density of the air becomes so little that it marks the transition into the vacuum of space
+- As you get higher above the earth, air pressure and density decreases exponentially
+- There is no distinct boundary between space and the atmosphere
+- 80% of the earth's atmosphere is contained within the first 16 km above the earth
+
+Orbits
+
+- An orbit is a curved path around a celestial object
+- A path is created from gravitational attraction between two objects
+- Basically an object in orbit is continuously falling towards Earth
+- This was first theorized by Newtons's cannonball experiment
+- He hypothesized that with sufficient thrust and altitude a cannonball could reach orbit
+- We focus on four orbits in this class
+- Low earth orbit, close elliptical orbit, far elliptical orbit, and geostationary orbit
+- The low earth orbit has a speed of 26600 kph and a height of 400km
+- The main thing in LEO is the international space station
+- Used for low earth observation, microgravity experiments, and human space flight
+- However, this is the most unstable orbit because it is so close to the earth it experiences quite a bit of atmospheric drag
+- Friction of air molecules on the ISS can cause problems like orbital decay, gradually slowing down the station
+- We remedy this by using thrusters to lift the ISS back to a safe altitude whenever it falls too far
+- The reason the ISS is so low is just so it's easier to send people and resources to and from the station
+- The close elliptical orbit has a speed of 27432 kph and orbits between 600 and 2000 km above earth
+- Mainly used for earth observation by satellites
+- The far elliptical orbit has a speed of 14000 kph and an altitude of 20182 kph
+- Mainly used for global navigation and GPS
+- Geostationary orbits have a speed of 10080 kph and an altitude of 35786 kph
+- This orbit keeps the satellite above the same point at all times, and are usually used for weather satellites
+- Internet and telecommunication satellites also use geostationary orbits
+- As the altitude of orbits increases, the speed decreases
+- There is an enormous amount of space junk and debris in orbit currently
+- Almost 95% of objects tracked by NASA are debris
+- This makes it harder to launch new satellites and makes spacewalks more dangerous
+- Scientists predict that the issue of space junk will continue to grow exponentially as the more satellites that are destroyed by debris, the more debris is created
+- Many technologies are being developed to deal with space debris, like debris-capturing satellites
+- This could be via nets or harpoons, and a system to drag that junk into the atmosphere
+- Another method is to provide new satellites with the ability to dispose of themselves, so that no additional junk will be created
+- These satellites would deploy a sail at the end of their lifespan that drags them into the atmosphere

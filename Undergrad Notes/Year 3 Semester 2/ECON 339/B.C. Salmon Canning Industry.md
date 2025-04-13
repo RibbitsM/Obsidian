@@ -1,0 +1,2 @@
+- Dianne Newell's paper on the industry doesn't just cover the physical technologies involved, but also the ways labour and the production process is organized
+-

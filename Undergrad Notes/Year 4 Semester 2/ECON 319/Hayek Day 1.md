@@ -1,0 +1,93 @@
+- The Austrian school of thought viewed economics as the science of human actions and decisions
+- Assumes perfectly rational actors
+- Can predict actions by examining the needs of humans and the ways in which they are satisfied
+- Emphasizes individual rights and autonomy, very individualist analysis
+- Founded in the 1870s by Menger who you may remember from the [[Jevons Day 1#^c11be1|Marginal Revolution]] 
+- Other notable members are Schumpeter and Morgenstern
+- Schumpeter famously placed great value on technological innovation and heavily endorsed free market capitalism
+- Hayek lived in England, the US, and Germany over his life
+- Also wrote philosophy
+- Emphasized the importance of the market and the need to resist totalitarian governments
+##### The Use of Knowledge In Society
+- Illustrates the issue of trying to create a system of economics given the assumptions required
+- This only works in theory, not practice
+- Economic data is not all known by a single person, gathering all that information would be completely unfeasible
+- Question of economics is not just how to use resources most optimally, but also how to do this using disparate knowledge
+- No single person will know the optimal use of all resources
+- We need to incorporate knowledge from multiple areas
+- All economic activity is planning, because planning is defined as making decisions on the distribution of resources
+- Planning is a collaborative activity incorporating knowledge from many different stakeholders
+- This will happen regardless, the question is whether or not this planning should be centralized or dispersed
+- Competition is essentially just decentralized economic planning
+- Monopolies are outsourcing planning to companies
+- Whichever system makes the best use of the available knowledge will be the most efficient
+- The prevailing theory is that we should give precedent to the experts, those who theoretically know the most about a given topic
+- This is because scientific knowledge is so venerated
+- However, this just changes the problem to be one of which experts should be in control of planning
+- Beyond scientific knowledge, there is the [[Standpoints|contextual and environmental experience]] of those on the ground ^346198
+- Most people become very specialized over the course of their lives
+- A worker likely knows much more about their occupation compared to anyone not in that occupation
+- This knowledge is often wrongly disregarded in favour of scientific and detached approaches to economics
+- Can help bridge the gap between theory and reality, untainted by assumptions
+- Hayek calls this knowledge "of the particular circumstances of time and place"
+- The key issue that he is identifying is the mismatch between this reality and the assumptions of economics
+- When we think of rationality as "given", we are assuming that people have much more information available to them than in reality
+- Also criticizes modern economists for disregarding the economic changes and decisions that happen on a micro level
+- Economic decisions are now relegated to major choices like building factories, not how those factories are run
+- These constant small changes and decisions are important, but often overlooked
+- As economists focus more and more on aggregate statistics, they will rely on the law of large numbers to explain stability
+- In reality, these factories are kept running by the multitude of tiny decisions made by their managers and employees
+- No central planner could possibly exert control that granular, and thus any theorist will have to defer to local expertise
+- If the problems of the economy emerge from these small scale actions, then we should not be the ones solving them
+- The decisions should be made by those in the factories
+- Connects back to [[Mill Day 1#^d67dec|Mill]]
+- These workers should be provided with all of the information absolutely necessary to perform their tasks
+- Price is the method by which these workers communicate across multiple industries
+- Similar to Jevon's [[Jevons Day 2#^e1da38|definition of a market]] 
+- Price only communicates the most crucial information, you don't need to know why the supply has changed but a change in price lets you know the supply has been affected
+- The actions taken by those actors cascade to spread the information further
+- [[Chapter 1#^dba783|No one actor knows everything]], but they are interconnected enough that information spreads through the whole system
+- As prices become more rigid, this process is disrupted
+- If we assume all actors have perfect information, we blind ourselves to the ways that the market propagates information
+- This is often taken for granted
+- Hayek advocates for an intentional move away from conscious control of the economy to harness this marvel
+- Kind of similar to [[Moloch]] in the sense that it is an inherently human phenomenon that emerges with no human input
+- Civilization emerged precisely because we came upon this method of transmitting information so efficiently
+- If we continue on the path of mathematical economics we can't assume that knowledge always equals facts
+##### Class Notes
+- If we have all information available, solving the "problem" of economics is simply a matter of logic
+- Economy can be reduced to a series of equations
+- Very similar to the system designed by Walras where the general equilibrium is defined by a series of simultaneous equations
+- Money has a price of one, and prices will tend towards a general equilibrium
+- The number of equations will match the number of unknown values
+- Therefore we will have m products, n producers, and mn production coefficients
+- This means we would have m-1 demand equations and m cost equations
+- We would also have n quantity equations for producers
+- Walras's Law states that if n -1 markets are in equilibrium, the nth market must also be in equilibrium
+- The excess demand/supply will clear the nth market
+- General equilibrium theory spread during the interwar period mainly due to Cassel and Lange
+- Leontief also developed input-output analysis during this time
+- It wasn't until the 1950s that Arrow and Debreu finalized the General Equilibrium Theory
+- This description of the economy allows us to represent every consumer, producer, and the total resources using equations
+- However, this requires us to fill in a lot of values that we do not know
+- Gives a system of calculus, but no solution
+- No one person has complete knowledge of the economy
+- Hayek sought out with the goal of developing an argument against central planning
+- Places emphasis on [[Hayek Day 1#^346198|local knowledge]] 
+- This knowledge can only be leveraged through decentralization
+- Prices act as signals to coordinate disconnected labourers
+- Together, all individuals form the market even if no single individual is aware of the entire market
+- If tin is scarce, then even without putting out an order to use less of it, millions of people will automatically start to use it less
+- Market is not designed by human hands, but created through spontaneous order
+- The price system gave birth to the division of labour through the evolutionary process
+- A key component of advancing civilization is reducing the amount of thinking we have to do
+- The market does this by relegating knowledge of supply and demand to the instinctual level
+- Critiqued Marxists by claiming that many of them have also recognized the superiority of the market
+- Criticized Schumpeter for assuming consumers knew production costs
+- Hayek's theory is not completely compatible with Walrasian theory
+- This is a solution created by many people with partial knowledge, but Walras's equations requires perfect knowledge
+- In real life market adjustments will not be mathematically perfect
+- However, this theory does have some intuitive appeal by not assuming that people will have perfect knowledge
+- Overall, Hayek sings the praise of markets, and by extension capitalism
+- It's hard to argue against the practical ability of markets, but that does not mean [[Marx Day 1|everything should be controlled by markets]] 
+- There are some things that money cannot and should not be able to buy

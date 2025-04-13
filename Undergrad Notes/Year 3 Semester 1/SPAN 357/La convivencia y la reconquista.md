@@ -1,0 +1,13 @@
+- La reconquista fue definido por actitudes anti-judías, anti-cristianos, y anti-musulmanes
+- Hay un crisis económica, y el chivo espiratorio fue los judíos
+- Algos judíos fue expulsado, otros conviertan
+- En Toledo, cuando nuestra cuenta tiene lugar (pre-1085), hay los musulmanes, que controla el gobierno, los mozárabes que son Cristianos, y los sefardíes que son judíos
+- Mucho de los musulmanes converso a los moriscos en 1502
+- Otras palabras por esto, los moros, mudéjares, andalusíes, o sarracenos
+- El expulsión de los moriscos ocurre en 1609
+- Literatura aljamiada aparece cuando los moriscos empieza a perder el árabe y no puede leer el Quran
+- Para preservar su lengua, ellos escribió en español, puedo con la alfabeto árabe
+- Es una forma de resistencia contra ellos que son tomando su lenguaje
+- Las aljamiadas son cuentos de hadas, pero con elementos del Islam
+- Una idea importante es la Shahada, las palabras que necesitan a decir para convertir a Islam
+-

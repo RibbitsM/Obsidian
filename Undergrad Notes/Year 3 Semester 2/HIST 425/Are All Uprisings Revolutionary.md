@@ -1,0 +1,92 @@
+- In 1797, a French revolutionary fleet arrived on the island of Corfu to inform them that they had now been granted rights, freedoms, and citizenship and were part of the French Republic
+- First of all, the French Revolution was disruptive simply because of the size and importance of France in European politics
+- The French government decided to remove all references to religion in the calendar by reforming it into a calendar of 12 months of 3 weeks each containing 10 days
+- Years were counted by how many years it had been since the revolution, and months were named by natural phenomenon like weather
+- This also required reform of time, each day had 10 hours of 100 minutes each
+- A change like this necessitates even more change like replacing all the clocks in the country
+- Naturally created huge social division as it was so hard to communicate between those using the Revolutionary Calendar and those using the Roman one
+- This clashes hard with our definition of group feeling developed by Ibn Khaldun, without common religion or relation, what would French identity be based on?
+- Any one person could have many different ties to things like their class, religion, king, family, city, ethnic group, position, political ideals
+- These things are all separate from the state, which was what French citizens were going to war for
+- Few parts of France shared any sort of common descent, made out of many different ethnic groups like Gauls, Romans, Franks, Germans, etc.
+- One theory at the time was that the aristocracy in France actually had a common ethnicity, they were all descended from the Franks that had long ago conquered Gaul
+- Some revolutionaries tried to adapt this, arguing that they should drive the aristocracy back to Germany and create a commoner Gaulish ethnostate
+- The church was also a major issue, it was a cornerstone of the old order
+- It held many privileges under the monarchy and was the largest landowner in France
+- The first thing the revolutionaries did was nationalize the churches land and sell it among the third estate
+- Also abolished the tithe, which was funding the church
+- The next year in 1790 they banned all monastic orders, and tried to make it more national by separating it from the authority of the Holy See and electing clergy with state salaries
+- Bishops were completely cut out, parishes would elect their own priests
+- Naturally, most Catholics hated the revolution because of this and were highly resistant to the government
+- The last resort then was to grant everyone citizenship, as long as you were a man who was 21 or older and born in France, you were a citizen of France
+- You could also just live in France for 7 years and own property and pay tax in France, marry a French woman, or fight in one of the revolutionary wars to become a citizen
+- Citizenship came with military service, all citizens had to be registered in the National Guard
+- Most Frenchmen rejected these attempts, division within France continued as people continued to choose their other relationships over their nation
+- Brittany, also called Breizh, was one of the most distinct regions in France
+- While most Britons spoke basic French, their native language was likely Brezhoneg, a Gaelic language, or Gallo, a strong dialect of French
+- It had also been autonomous for many years, only being absorbed into France in 1532
+- They had their own local laws, the 'Breton Liberties' and their own estate with 3,000 elected representatives
+- Also had their own sovereign court and the lowest taxes in France on top of the king not being able to raise taxes without their consent
+- Very similar to the relationship between England and Scotland
+- The Bretons were not friendly to the revolution, most were staunch catholic conservatives and lost their low tax arrangement with the king
+- In addition there were entire industries based on smuggling goods through Brittany due to the tax differences
+- Finally, the conscription during the War of the First Coalition also had damaged the region as well
+- Ironically, the Jacobins originated from the Club Breton in Paris, Bretons in urban centers generally supported the revolution
+- However, the estate of Brittany as a whole was firmly against the National Assembly, which they saw as a violation of their rights
+- Charles Armand Tuffin de la Rouerie attempted to become a general in the French army, and when being denied he went to America to serve as brigadier general under Washington
+- When he returned to France he was appalled by the state of the National Assembly and resolved the defend his Breton heritage by forming the Breton Association
+- This was an organization with the goal of posing armed resistance to the Revolution
+- Created a People's army similar to the _federes_ for conventional warfare, with muskets, gunpowder, and cannons
+- But putting together a full army is difficult, especially when you don't have the resources of a state
+- So instead, he had to resort to unconventional warfare
+- This usually means having several small and highly mobile units made up of lightly armoured militia soldiers, not professionals
+- This was not an unknown phenomenon, often called Fabian strategy after the famous story of Fabius slowing and harassing Hannibal during the Punic Wars
+- However, this was always thought of as auxiliary to traditional warfare
+- Some handbooks on how to do this, most generals of the time had at least some idea how to wage these "small wars"
+- Unfortunately, De la Rouerie died of pneumonia in 1793, before he could initiate any sort of partisan warfare against the French state
+- However, he did encourage a local salt smuggler known as Jean "_Chouan"_ Cottereau to organize some local resistance
+- This was basically on the village level only, and started as resistance to conscription
+- These small resistance groups were known as _chouans_ and were looking to eventually form together into a full army
+- Unrest was also rising on the lower Loire for many of the same reasons, but here the opposing forces were mainly led by aristocrats
+- Led to groups such as the Catholic and Royal Army which fell short mostly due to their strict adherence to chivalry, such as placing their leaders to lead attacks which led to many dead leaders
+- Overall lack of coherent leadership, no one could effectively shape the peasants into an effective army
+- Likewise, the _chouans_ never became anything more than an annoyance to France
+- Forced to basically work as bandits, ambushing tax collectors and assassinating lower level government officials
+- During all of this, basically every country in Europe was also trying to destroy France
+- Between their internal and external struggles, the French war machine was in constant overdrive
+- Extreme measures such as summary execution of any enemies of the state and revolutionary tribunals were common, as well as a constant state of _levee en masse_
+- By 1794 these policies began to pay off, and the army became populated more and more by some truly talented officers from the military schools
+- Carnot's strategies were working, he managed to effectively unify the professional soldiers with the conscripts and train them quickly
+- The French army was consistently more organized and more unified in purpose than any enemy they fought, making material sacrifices at rates far outpassing any other army
+- They were no longer defending, they were now expanding outside French borders
+- The justification for this quickly became one of liberation, these peoples needed to be given their freedoms and adopted into the revolution
+- Ironically, many of these territories were already republics such as the Northern Italian city-states
+
+**The Case of Spain**
+
+- By the late 1700s, Spain was a great power, but one that was struggling greatly
+- They were losing ground overseas, and they were going bankrupt at home
+- There was a dynastic relationship between the Spanish and French monarchies, and thus they were very unhappy when the Revolution occurred
+- This sparked the War of the Pyrenees from 1793-1795 which Spain lost, forcing them into an alliance with France
+- France then went on to use Spain as a political tool, going against Spanish interests to put them politically between France and their enemies
+- After a succession feud in Spain, Napoleon solved the issue by annexing Madrid, deposing both claimants to the throne, and placing his brother on the Spanish throne
+- Joseph Bonaparte then went on to abolish the Spanish Inquisition, feudal and regional privileges, tariffs, etc.
+- Also created a French-style constitution, administration and legal system
+- Some liked these changed, but the majority didn't
+- While attacking Catholicism was unpopular in France, it was insanely unpopular in Spain
+- In 1808, a insurrection rose up when a brother on one of the deposed monarchs was to be sent to France
+- King Joseph put down the revolution violently, but local _juntas_ rose up all across Spain in resistance
+- At the battle of Bailen, a French army contingent was sandwiched between Spanish forces and forced to surrender
+- This was the first Napoleonic army to suffer defeat at this time
+- In response, Napoleon led the Grande Armee into Spain and quickly mopped up the _juntas_, establishing martial rule
+- But this wasn't the end of the battle
+- The scattered Spanish units turned to irregular warfare, the _guerilla_
+- Ordinary people all across Spain relentlessly harassed the occupiers, attacking opportunistically
+- They killed French soldiers in hospitals, poisoned water supplies, etc.
+- While the French army constantly shut down these groups, more and more would rise to take their places
+- The drain on French manpower and money was insane, crippling the Grande Armee as a whole
+- These irregulars were mainly made up of either former soldiers, patriotic bandits, or just ordinary townspeople
+- The enemy could attack at anytime from anywhere, and looked indistinguishable from ordinary civilians
+- This allowed for the militarization of all aspects of society, meaning anyone and anything could be an attacker, a weapon, or a target
+- While the French never allowed the formation of female military units, the _guerillas_ had many
+-

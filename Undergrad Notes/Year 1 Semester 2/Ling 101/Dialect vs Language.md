@@ -1,0 +1,24 @@
+- A dialect is when language change has led to differences in a language but not enough that they aren't mutually intelligible
+- Languages are not mutually intelligible
+- Dialects are mutually intelligible but have different sentence structures, word choice and morphology
+- Accents are mutually intelligible and only have differences in pronunciation
+- Mandarin and Cantonese are an excellent example of dialects divided for political reasons
+- A dialect continuum is a series of dialects where dialects next to eachother are intelligible, but the first dialect cannot understand the last one
+- Can be thought of as two languages connected by progressively different dialects
+- Canadian English is not considered a different language than say American English
+- Even within Canada there is substantial variation in how people speak
+- In Canada the most spoken languages are English and French, making up around 27 million combined
+- About 800,000 people speak Aboriginal languages, and 7 million speak other languages
+- Vancouver has a substantial amount of language diversity
+- Second generation immigrants have been shown to speak English with features associated with Canadian or British Columbia English
+- Also influenced by other dialects present, for example Canadian English spoken in Cape Breton is closely associated with Scottish Gaelic
+- Important to find what is a delay in acquisition in language and what is a dialect or accent
+- Mutual intelligibility is not always the rule
+- Mandarin and Cantonese is not mutually intelligible but are called dialects
+- Scandinavian languages are mutually intelligible but are called languages
+- Most romance languages have regional languages that are considered dialects
+- These are usually for political reasons, Mandarin and Cantonese are lumped together to promote unity, and the Scandinavian languages are divided on country lines
+- People generally don't think they have an accent but recognize accents in other groups
+- Some dialects are better supported than others
+- For example, written language usually adheres to only one dialect
+- People are judged for speaking with an accent or speaking a different dialect even though it is universal

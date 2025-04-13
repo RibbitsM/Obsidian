@@ -1,0 +1,95 @@
+**Eurasianism**
+
+- The concept of Eurasia covers most of Asia and Europe, but not all of it
+- Eurasia became the primary subject of Russian geopolitical study
+- The idea is that the Russian civilization belongs to Eurasia, not specifically Europe or Asia
+- Wish to see Russia as part of the Western world
+- Emerged among Russian emigres in the West
+- This changed when the Bolsheviks came to power and Russia began to develop it's own distinct political culture
+- Rejects Asian and European lenses, look at multiple different civilizations as opposed to "The West and The Rest"
+- These thinkers emerged during the rise of the Soviet Empire, and were frowned upon by the communist regime
+- Strangely, some Eurasian thinkers were ok with Stalin's regime, likely because of how much land the USSR occupied at the time
+- Neo-Eurasianism emerged after the fall of the Soviet Union, propelled by Lev Gumilev
+- Believes in a Darwinist world where Russia is a super-ethnos destined to rule Eurasia, and must save the world from Western influence
+- Not against globalization, but Western influence and Americanization
+- When it became clear that Russia would not become a part of western civilization, Neo-Eurasianism appeared to oppose Western influence
+- Restoration movement that sought to re-establish Russia's imperial past
+- Emphasises a multicultural, multipolar world as opposed to a world monopolized by the West
+- We also have Aleksandr Panarin, another Neo-Eurasianist that emphasized Russia and China as "alternative civilizations" to Western domination
+- Argued that globalization should not be dominated by a single country
+- Also sought to revive Russian imperialism
+- Two worlds, the Russian World and the Collective West
+- Aleksandr Dugin is another prominent Neo-Eurasianist figure
+- One of the most radical proponents of the theory, much more Orthodox
+- Established the Eurasian Political Party in 2002 and the International Eurasian Movement in 2003
+- Alongside his theory, he is very politically active, recently suffering an attempt on his life that killed his daughter by mistake
+- Russia and Ukraine walked two very different paths in the aftermath of the Cold War
+- Ukraine dominated by grassroots movements, Russia dominated by elites
+- Ukraine moved towards a bottom up, civil society based approach, and Russia focused on a meritocracy built from the top down by mainly Russian elites
+- White Russian emigres were mainly nationalists, and had negative sentiments around Ukraine
+- For a few years under Yeltsin, a looser leash was given to Ukraine which was later rolled back
+- The vast majority of Russian political leaders wanted a return to Russia acting as an older brother figure for Eastern Europe, and resented Ukrainian independence
+- Out of the three Eastern Slavic countries (Russia, Ukraine, Belarus) only Ukraine sought independence
+- Ukraine held a parliamentary vote that had overwhelming support for independence
+- Belarus simply declared it's independence without a vote, and Russia was Russia and had no need to seek independence from itself
+- Three Russian nation building paradigms
+- First was the idea of distinct Russia and Ukraine, but Russia as a "big brother"
+- Second was to leave Ukraine to develop on it's own
+- Third was to return to imperialism and follow White Russian émigré ideas
+- The first and third identities united into a coalition called red-white-brown
+- When Putin succeeded Yeltsin, almost all Russian elites subscribed to one of these two ideologies, which translated into armed aggression against Ukraine
+- Putin and his allies became more and more obsessed with depicting Ukraine as a puppet state with no free will, implying it was being controlled by the West and should be returned to Russia
+- Very reminiscent of Neo-Eurasianist ideology
+- Ukrainian sovereignty was always conditional on their cooperation with Russia
+- Putin resents Lenin and the Bolsheviks who created Ukraine in the first place
+- Basically, Putin is not unique in his obsession with Ukraine
+
+**Grassroots of Putin Ideology**
+
+- Article written by Ivan Grek in 2023
+- Seeks to identify the roots of Putin's top-down elite ideology in conservative civic society
+- Identified three movements, the Writer's Union, the Russian Zemstvo movement, and the foundation of Saint Andrew
+- The Writer's Union is one of the most influential illiberal civic movements in Russian history
+- Prior to perestroika, they had little voice, but were unleashed after Gorbachev came to power
+- Three key ideas, the state as a metaphysical institution, right wing postcolonialism, and pan-Slavic essentialism
+- This essentialism focuses particularly on Orthodoxy as uniting the Slavic people
+- Takes on new meaning with Ukraine, which is mainly made up of Orthodox Slavs
+- Groups such as the WU see the Ukrainians as two groups, the politically convenient Ukrainians that can be seen as essentially Russians, and the _khokhly_ duped by the west
+- _Khokhol_, meaning "tuft", is an offensive term used to refer to Ukrainians who are seen as spoiling Russian blood
+- Ukraine is supposed to be part of Russia, but was colonized and confused by the West
+- Links into the idea of right-wing postcolonialism, Russia is victim to communist colonial racism that polluted their society with concepts like atheism and Hegelian nihilism
+- Different from ideas of postcolonialism in the West, more focused on culture
+- Some blame Peter the Great, and others blame the Bolsheviks
+- Another prominent NGO was the Russian Zemstvo Movement or RZM
+- The zemstvo system is a nineteenth century Russian system of local self-governance that Elena Panina, the businesswomen at the head of the NGO, sought to revive
+- Argues that Russia suffered a spiritual defeat, and nation-building through education in Slavic culture, religion, and history was required to fix Russia
+- Huge emphasis on nationalism, religion, and Orthodox ethics/culture
+- The final group was the Foundation of Saint Andrew, established in 1992 by a group of intellectuals
+- Many prominent elites were inducted into the FSA, including many of Putin's political allies
+- Yakunin became the chairman of the FSA in 2002, and believes in the state as a metaphysical entity
+- It doesn't matter what the actual state is doing, citizens have a duty to obey the state and to better it, even if this means changing the existing government
+- In conclusion, Russians probably really do believe that Ukraine is a puppet regime of Russians that have been fooled by the West
+- They really do believe that the West is an existential threat to the Russian way of life and that Ukraine rightfully belongs to them
+- This idea was not created by the Kremlin, but adopted from illiberal grassroots groups
+- Right-wing postcolonialism and Orthodox pan-Slavism are the explanations for why Russia invaded Ukraine
+- The 2014 Euromaidan was a victory of the West over Russian influence, bringing Ukraine under their control
+
+**Russian Media and Disinformation**
+
+- This article shows how the Russian government used these ideas to influence the public
+- Three sets of sources key to Russian media
+- First is the political elites and their speeches, Second is state funded television (RT), and third is other news agencies like RIA
+- They use similar discourse as in the previous article, colonialism, imperialism, and the imaginary west
+- Aleksei Khomyakov argues that Peter the Great was to blame for the cultural colonialism of Russia, polluting the culture of Russia
+- Advocates for the "de-Nazification" of Ukraine, alongside an elimination of pro-western influence from Russian media and culture
+- Russia positioned as the saviour of Ukraine from the colonial yoke of the West
+- Not only does this messaging resonate with Russian audiences but with people critical of Western influence worldwide, including the Western far-left
+- It was used widely by RT and spread worldwide
+- Imperial discourse was mainly limited to local Russian television, since it had negative connotation in other places
+- The terms of Russian empire and imperialism were given positive notions as opposed to US imperialism being depicted as bad
+- By depicting US imperialism and NATO encroachment as the main security danger, Russia united it's views with far leftists and anti-imperialists
+- Historical Russia was another frequently used term, arguing that they were claiming their own land by invading Ukraine
+- The Russian world includes Ukraine and Belarus, and advocated for their reunification
+- The imaginary west was another frequently used tool, constructing the West as "the other"
+- Constant coverage of the moral degradation of the west, focusing on LGBT and feminist movements
+- Says that the West is destined to fall, and the war in Ukraine will trigger it

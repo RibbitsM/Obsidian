@@ -1,0 +1,6 @@
+- Conservatism and nationalism
+- Conservatives believe that society is organic not mechanical
+- This is in line with primordialist thinking, where the nation is seen as an engrained part of society since it's inception
+- However, modernist thinking has a more mechanical view of nations which conflicts with Conservative views
+- Basically Conservatives value preserving the current order of society above all else, so they conflict with nationalism only when it promotes change
+-

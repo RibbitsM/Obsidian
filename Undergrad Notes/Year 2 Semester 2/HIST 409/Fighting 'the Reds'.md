@@ -1,0 +1,26 @@
+- US policy begins to become more imperialist, special responsibility to impose order abroad
+- Policy of containment becomes a mainstay in US foreign policy
+- Goals are to block further Soviet expansion, expose falsities of Soviet pretension, induce retraction of the Kremlin's control and influence and to foster seeds of destruction in the Soviet system
+- Korean War began on Jun 25, 1950 when North Korea invaded South Korea
+- The UN authorizes use of force to end the conflict after prompting by the US, and Truman intervenes almost immediately
+- By taking advantage of the Soviet boycott of the UNSC, America was able to get the UN to take opposition against North Korea
+- Britain extends compulsory national service to raise troops for the UN
+- North Korean offensive officially denounced by Truman
+- Canadian destroyers join the battle and set sail to Pearl Harbour on Jun 30
+- North Korean forces are quickly pushed back by the UN, all the way to the 30th parallel
+- MacArthur, the American leader of the UN forces, gives orders to push to the Yalu River in November which provokes China to intervene
+- Truman considers dropping an atomic bomb to end the war prematurely
+- Churchill returns to power in 1951 while the country is running a 521 million pound deficit
+- Quickly reverses Britain's rearmament program to ease the deficit
+- Eisenhower is sworn into office in January of 1953, 2 months before Stalin dies
+- Stalin neglected to choose a successor and is replaced by Malenkov, beginning the "thaw" of the Cold War
+- Stalin's death marked a decrease in the use of gulags, which had held 1.7 million prisoners in 1952
+- In addition, thousands of East Berlin citizens migrated to West Berlin upon learning of his death
+- Eisenhower delivers the Chance for Peace speech in April of 1953, demanding a truce in Korea, a treaty over Austria, and a reduction in armaments and release of WWII prisoners
+- Riots break out in East Berlin and are suppressed violently by the Red Army
+- Workers marched on government buildings and ransacked offices belonging to the Communists
+- Elaborate funerals were staged in West Berlin to commemorate the dead riot members
+- This was a result of the US's plans to martyrize the rioters to hurt the Soviet image
+- While the world was occupied with the riots, the Rosenberg's were quietly executed for atomic espionage against the US in June 1953
+- In Iran, the new government is nationalizing oil production which gets the attention of the US
+- Perceives the Iranian government as setting the stage for a communist takeover

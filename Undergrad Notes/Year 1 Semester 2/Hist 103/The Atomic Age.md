@@ -1,0 +1,66 @@
+- Copenhagen hosted many talented scientists that were divided by politics
+- The discovery of nuclear fission made nuclear research practical
+- Discovery was made in Germany and was publicly announced
+- Many countries saw the use in nuclear research
+- French scientists discovered that the critical mass of uranium was around ten tons
+- This reaction did not create explosive energy and had no weapons capabilities
+- Einstein sent a letter to Roosevelt that was composed by Leo Szilard that warned the government of the potential of explosive nuclear energy
+- Letter had little impact, only around 6000 dollars was allocated to the project
+- Einstein also had no idea at the time what the true power of the nuclear bomb was
+- Otto Frisch and Rudolf Peierls were the first to think up a practical bomb
+- They were treated with suspicion by the government because they were immigrants
+- Neither scientist was actually hired by the government
+- Their bomb would only need one kilogram of uranium, but actually required 50 kg
+- The British atomic bomb project began in 1940, called tube alloys
+- Ironically if the two scientists had known that they really needed 50 kg the project never would have begun
+- At this point no European countries had the capabilities to make an atomic bomb, and shared their secrets with America
+- This led to the creation of the Manhattan Project
+- The US was at peace at the time, unknown whether the bomb started being built before or after Pearl Harbour
+- Enrico Fermi and his team produced the first industrial reactor in 1942
+- "Big Science" was large scale government funded projects where researchers were backed by industrial factories
+- General Leslie Groves was in charge of the project, and overspent immensely to speed up the project
+- Groves's previous achievements included building the Pentagon
+- He likely would have been court-martialed if the bomb hadn't been dropped on Hiroshima because of the obscene waste of resources he led
+- The project cost the US and estimated 40 billion dollars
+- Several industrial sites were built for producing plutonium and uranium
+- As the project reached industrial size, atomic diplomacy began to emerge
+- Roosevelt was split between including or excluding the British
+- Churchill wanted to share the bomb between US and Britain
+- Several of Roosevelt's advisors also urged him to tell the soviets about the bomb but not to share how
+- Hiding the bomb would only lead to post war tensions
+- Churchill was heavily against telling the Soviets
+- In the end Roosevelt took Churchill's side
+- After the war the British were kicked out of the Manhattan Project
+- What the US and Britain didn't know was that the Soviets had already infiltrated the project through spying and knew about the bomb
+- The Soviet spies were mainly professionals who were British aristocrats, not Jewish Communists
+- Soviets relaunched uranium research in 1943
+- Alongside the spying, a Soviet scientist noticed that no articles relating to uranium were being published in American journals
+- Soviet research at this time was rather small scale, only one lab with few scientists
+- German uranium project was a failure, could not produce a bomb or reactor by 1945 and was small scale as well
+- This was ironic given how paranoid the other countries were about the possibility of a German bomb
+- The German analogue to the Manhattan project was the construction of the V2 rocket, which was ultimately impractical
+- Groves was dead set on finishing and dropping the bomb
+- He had enough information to know that the Germans had no bomb but did not tell his scientists
+- Bomb was finished after the war in Europe but war in the Pacific was still going on
+- The scientists who were deciding whether to drop the bomb had no military intelligence
+- Japan had no military targets left to bomb, the only things left standing were cities
+- Groves told the military to stop bombing cities so there were more targets for the bomb
+- At this point WWII had led to so many civilian casualties that bombing a city was widely accepted at this point
+- Similar amounts of devastation could be achieved by an atom bomb or just several normal bombing runs
+- Dresden and Hiroshima had similar amounts of devastation
+- The bombing of Hiroshima was considered the last act of WWII and the first act of the Cold War
+- Until this point, the USSR had no plans to create a project of a similar scale
+- 2 weeks after Hiroshima, a Soviet atomic bomb project similar to the Manhattan Project began
+- Generals at this time were not to concerned with the atom bombs destructive power, but recognized the immense political power it enabled
+- The Americans recognized this power and acted appropriately confident
+- The main restriction on Soviet bomb production was mining uranium
+- They had all the information needed but lacked the raw materials
+- Soviet Project progressed at a similar pace as the Manhattan Project
+- The best strategy to prevent a country from building an atom bomb was to deprive them of uranium
+- However, the Soviets had no way to deliver the bombs to the US, while the US could launch their bombs from Europe
+- At the beginning this was the asymmetrical power structure until ICBMs were invented
+- Eisenhower's cabinet tried to separate nuclear energy from nuclear weapons
+- Atoms for Peace initiative would allow nuclear power to be traded freely and used by any country
+- Canada benefitted immensely from this initiative
+- Soviets recognized that even a middle sized nuclear war would destroy humanity
+- Khrushchev's Peaceful Coexistence project stated that capitalism and communism should compete peacefully to avoid this outcome

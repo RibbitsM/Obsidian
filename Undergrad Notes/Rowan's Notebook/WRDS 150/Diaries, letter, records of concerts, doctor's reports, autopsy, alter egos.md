@@ -1,0 +1,1 @@
+Diaries, letter, records of concerts, doctor's reports, autopsy, alter egos

@@ -1,0 +1,88 @@
+- Mehmed II was the son of Murad and a slave
+- At the time he came to power, the Ottoman empire was fairly well established
+- However, the Turks had still not conquered their goal, Constantinople
+- Constantinople was extremely well defended by a complicated system of walls with underground aqueducts and supply routes to prevent siege
+- Within, it contained the riches of the Eastern Roman Empire and the Hagia Sophia, the largest building in the world until 1450
+- Many different armies had failed to take it, including Mehmed's father
+- He took two years to prepare for the siege, and constructed a castle on the narrowest point of the Bosphorus to prevent ships from breaking the siege
+- He also decided to invest in advanced gunpowder technology like large artillery pieces and cannons
+- He got a Hungarian gunsmith named Orban to build the worlds largest cannon to destroy the walls of Constantinople
+- The siege took years, but Mehmed persisted as the soldiers of the city were vastly outnumbered
+- The Christian world abandoned Constantinople after realizing they could not come to break the siege
+- The first wave of the final attack were Mehmed's Christian vassals, who took the brunt of the attack
+- Also most of the sappers assigned with digging under the wall were also Christians
+- These were not random volunteers, but an organized part of the Ottoman army called the Voynuks
+- Ottoman army also included the lightly armed 'bachelors' made up mostly of volunteers and peasant levies
+- Most were Muslim, but Christians fought in these groups as well
+- Basically cannon fodder who supported themselves through plunder
+- Next came the Sipahi, the heavily armored cavalry made up of social elites from different regions of the empire
+- The final group were the Yeniceri, the sultans elite troops armed with gunpowder weapons
+- With this, Mehmed had finally conquered Constantinople
+- But who were these Yeniceri?
+- Oddly enough, they were military slaves
+- These were unusual, because most armies were made up of free citizens, especially elite soldiers
+- But in the case of the Ottomans, their usual troops were not very useful
+- The Ghazis were often self serving, and was fine when it came to raiding but were not suited for large scale war
+- Also, most were religious warriors and would mostly fight only when religion dictated it
+- There was also no standard for equipment for Ghazis, and they were difficult to train or discipline
+- On the other hand, the Sipahis fulfilled all of these requirements, but were potentially more dangerous to leadership
+- The noble class was powerful, and could potentially pose a challenge to the ruling bloodline
+- What they needed were soldiers dependent on the empire
+- A great threat to the empire was the Chaghatai Khanate under the leadership of Temur-i Leng, an enemy of Bayezid
+- Depicted as enemies of the Ottoman Empire despite being Muslims
+- In the battle of Ankara, the Timurids fought the Ottomans leading to Bayezid being captured
+- Temur's army was much larger, and had convinced many of the Ottoman ghazis to switch sides mid-battle
+- This included a number of the Anatolian Sipahis
+- The troops that stayed behind were the Christian vassals, and the yeniceri
+- The aftermath was a four way civil war between Bayezid's children, with the winner being Mehmed I
+- He would go on to painfully reconstruct the Ottoman Empire, but with the memory of what happened at Ankara
+
+**Islamic Law and the Ottoman Empire**
+
+- Ottoman law was based off of the Hanafi school of jurisprudence
+- This school set out two regions or "Abodes" of law
+- The first was Dar al-Islam, where Islamic law is dominant
+- This is a society or region where Islamic law is the most important, not that it is the only legal system
+- The second was Dar al-harb, the abode of war
+- This is somewhere where Islamic law is not dominant
+- A key part of this belief is that this condition could spread
+- If a land is surrounded by regions in dar al-harb, this society os not secure
+- Duty for all Islamic rulers to ensure their state was dar al-Islam, and would seek to convert other surrounding dar al-harb states
+- Some people were considered Ahl al hudna, or people who had signed a truce
+- For example, the Ottomans signed a peace treaty with Venice, but it was not permanent
+- Next was ahl al 'ahd, or people who had signed a treaty
+- This is considered a more lasting state of peace, a region that has a long term understanding with the Ottomans
+- Finally there is the ahl al dhimma, or people of the covenant
+- These were non-Muslims who were subject to dar al-Islam, who were allowed to stay as long as they were subordinate and paid taxes
+- These taxes were specific to non-Muslims, but non-Muslim clergymen, nobles, and soldiers were exempt
+- Born Muslims were not allowed to be enslaved, and neither were non-Muslims who lived in the empire
+- Slaves were almost exclusively from dar al-harb territories, or offspring of slaves
+- Long precedent of slave soldiers coming from the mamluks of the Umayyad Caliphate
+- Universally practiced by many rulers across the middle east
+- Ottomans used personal slaves as a bodyguard detail, which was a tradition practiced by many dynasties
+- The sultan usually had a significant amount of slaves as they took one fifth of all plunder from raids
+- An unusual reading of Muslim law was the establishment of the blood tax
+- Periodically children of non-Muslims from the countryside would be "gathered" by the state and enslaved
+- This was usually focused in the Balkans as Greeks, Albanians, and Slavs were the primary targets
+- Jews, Catholics, and Armenians were very rarely collected in the blood tax
+- These slaves were called Kuls and were converted to Islam, circumcised, given new names and taught to speak Turkish
+- Those assigned to the inner palace were given first-class educations and taught to be administrative assistants
+- Those assigned outside of the palace would be raised on farms and then brought back to serve around the palace
+- After these apprenticeship periods were completed, they were assigned to a job, with some becoming Janissaries (yeniceri)
+- Janissaries had close bonds with their regiment mates as they lived and ate together, motivating them to fight
+- Veteran janissaries were even given retirement pay
+- Not forced to fight by force, but loyalty to your house and regiment
+- Kuls had surprisingly open career paths for slaves, and some even went on to become Viziers of the empire
+- Many important officials in the government were born to peasant families in the Balkans
+- One example is Sokullu Mehmed, a Grand Vizier who was collected from Bosnia at the age of 8, and used his power to help his remaining family in Bosnia
+- Mimar Sinan was the son of a Greek stonemason who ended up as arguably the greatest stonemason in history
+- The rise of the Kuls understandably drew a lot of resentment from the old Muslim aristocracy
+- As rulers came and went, the Ottoman dynasty balanced between the influence of the kapikullari faction and the Anatolian Muslim dynasties
+- Of course, the Islamic religious leaders were still all from old Muslim families
+- For the Christian provinces this was traumatic, watching their children be captured by the Ottomans and having their identities completely altered
+- While the benefit was more access to the upper circles of the state to Christians, this did not always weigh out the harm to their culture
+- Comparable to the residential school system in Canada, but with better career opportunities
+- As the number of kapikullari increased, the reliance on the sipahis declined sharply
+- Janissaries began to get more varied assignments as Marines, palace guards, falconers, etc.
+- They were also the primary musketeers of the Ottoman army as gunpowder weaponry became more and more common
+- The idea of slave soldiers came from Islamic history and law, and were preferred due to their loyalty and effectiveness

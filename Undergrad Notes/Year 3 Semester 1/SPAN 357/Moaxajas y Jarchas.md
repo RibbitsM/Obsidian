@@ -1,0 +1,5 @@
+- Jarchas son partes de canciones canté por los mozárabes
+- Usan en el fin de poemas, especialmente las moaxajas
+- Las moaxajas son poemas escrito a una persona del mismo sexo, y puede ser romántico o no
+- Las jarchas contiene muchas temas relevante ahora, los celos, la amor como enfermedad, y el espero de amor
+- Las jarchas represente el primer tiempo que una lengua romance aparece en liricos

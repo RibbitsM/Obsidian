@@ -1,0 +1,40 @@
+- STAT 201 focused on relationships between continuous and categorical variables
+- Linear regression allows us to make comparisons between continuous variables
+- This lets us test for relationships between these variables and predict the value of future observations as well
+- Estimation is when we estimate the relation between the response and input variables
+- Inference is when you infer info about an unknown relationship between variables
+- Prediction is when we try to predict the value of future observations
+
+**Regression Model**
+
+- A simple linear regression model follows the formula (Xi, Yi) : i = 1,...,n
+- Here n represents the size of the sample, and X and Y are our two variables
+- X1 is the first observation of variable X, Xi is the ith observation
+- For forming the data, Yi = B0 + B1Xi + ei
+- B0 is the y intercept, B1 is the slope, and e is the error
+- Linear regression includes a sloped line representing the sample mean calculated by B0 and B1, and the error determines how far away each observation is from that mean line
+- Of course this assumes a linear relationship between variables, which is not always correct
+- In our real estate example our response variable (Y) is the assessment value and the input variable (X) is the size
+- We can have multiple input variables but only one response variable, although this would require multiple linear regression
+- Our B0 and B1 values, or slope and y-int, are called regression parameters
+- These are generally unknown and non-random in the population so we estimate them with lm() in r from our sample data
+- As for the error, we assume errors are independent and identically distributed
+- This means all terms come from the same distribution (like a normal distribution)
+- If we assume e is a normal variable, this means Y must also be normal
+- This is because all assumptions applied to e also apply to Y
+- You can also have positive and negative error, but we assume that the number of positive and negative errors is balanced
+- Since our line is the mean, there is an equal amount of error (measured in squared distance from mean) below and above the line
+- Because of this, the total error would be zero since they average out
+- This is called the conditional expectation, and is represented by the simple linear regression model written above
+- There are multiple models of this, another popular model is k nearest neighbours
+- To find the best line we minimize mean squared error
+- This is the line that is as close as possible to every dot on the graph while still being linear
+- We call this the Least Squares method, or "ls"
+- The slope, or B1, represents the relationship between the input and response variables
+- For our example, B1 is 2.618 so we can say that an increase of 1m in size is associated with an increase in value of $2618
+- On the other hand, our B0 value represents the value of our response variable when our input variable is set to 0
+- We usually don't use this variable since it's often misleading, in this example it implies that a property of 90 sq metres would have a value of 0
+- Parameter is what we are trying to estimate from the population, in this case it's B1 (the relationship between input and response)
+- The estimator is the function that we use to get there, in 201 this was the sample mean but here we use the simple regression model
+- And our estimate is our final result
+- Recall we cannot study cause/effect between variables, just associations

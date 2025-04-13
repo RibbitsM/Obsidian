@@ -1,0 +1,39 @@
+- Self-definition is a mode of resistance against controlling images
+- A significant part of the oppressive power of controlling images is the restriction of the individuals ability to define their own identity
+- Engaging in self-definition disrupts this process
+- You're not just performing self-definition, you're taking the privilege of definition away from your oppressors
+- Self-definition is achieved through the critical knowledge gained from holding a standpoint
+- This does not necessarily mean having a positive sense of self
+- Having self-worth and being subject to a controlling image are not mutually exclusive
+- People are free to identify with the images imposed upon them
+- The factor that marks the presence of self-definition is the change of status from oppressed to resistant
+- An example of this process is feminism is the lesbian separatist movement
+- Argued that to define themselves, women must separate themselves from men
+- Frye proposed the idea of the Arrogant Perceiver, an actor that states their opinions in a way that presumes their veracity and sticking power
+- Oppressed people are often already socialized to defer to members of the dominant group, which often hold the position of arrogant perceivers
+- In any situation where an arrogant perceiver is present, an epistemological "vacuum" appears that erases the possibility of any other knowledge existing
+- If we have spaces free of these actors, we can engage in self-definition
+- The entire point of self-definition is to take ownership of yourself, not to defer to the opinions and views of others
+- Having semantic authority means being respected and treated as a source of knowledge, and having the characteristics we associate with knowledge and critical thinking
+- Semantic authority is assigned by the environment, it is not sufficient to just act as if you have this authority
+- Frye talked about how women can practice resistance through self-definition by changing their accessibility to men
+- Social relations are bi-lateral, if women change their identities by making themselves less accessible, this forces an adjustment from the male identity as well
+- However, there's no guarantee this adjustment will be positive or progressive
+- Frye assumes it would lead to positive social change, but it's more likely that it will lead to increased violence and oppression
+- Going back to epistemology, society not only defines who is allowed to produce knowledge, but also what kinds of knowledge are considered valid
+- For example, science is the dominant form of knowledge creation, which relies on objective observation and hypothesis testing
+- To do science generally requires a significant volume and variety of information, tends to exclude smaller factors such as individual lived experience
+- Also sets the precedent that knowledge should be value-neutral
+- Automatically delegitimizes any politically motivated analysis
+- An alternative to this is a community-based mode of knowledge production
+- Creates an environment where anecdotal experience can be legitimate
+- Supposed to remedy the double bind experienced by black women trying to share knowledge
+- Collins argues that if they speak about their experiences, it will be labelled as unscientific
+- If they do choose to engage in science, they are forced to set aside that context and experience
+- Oppressive systems tend to create people who perpetuate those systems
+- For example, hermeneutical injustices prevent subjects from understanding they are oppressed
+- To spread and defend your views, you need to have epistemic confidence in your abilities and knowledge
+- Gaining standpoint knowledge builds epistemic confidence
+- This can also have a cascading effect, because building epistemic confidence in your community can also enable others to gain a standpoint
+- Overall, self-definition plays a role in resistance, but it cannot succeed on its own
+-

@@ -1,0 +1,6 @@
+- We can use tidymodels to perform prediction on our linear models
+- Remember to split into training and testing data, use training data to make the model and perform prediction on the testing data
+- When using code to select variables, we will get different results depending on which metric we use
+- For example, the variable with the highest adjusted R2 might not be the same variable as the one with the lowest Cp
+- We also use Root Mean Squared Error instead of Mean Squared Error to compare models just because this makes the error proportionate to the response variable
+- For example, an error in home price of $1000 dollars would be a squared error of 1 million, but square rooting it would return it to normal

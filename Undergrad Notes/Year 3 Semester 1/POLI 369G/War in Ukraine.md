@@ -1,0 +1,31 @@
+- Putin ordered Russia nuclear forces on high alert after the invasion
+- No evidence this was ever done, likely just posturing by Moscow
+- The first main debate that emerged from the war was the no-fly zone
+- Russia held the advantage in long range strike capability and aircraft
+- Western countries made the argument that NATO ought to impose a no-fly zone over Ukraine
+- Implies that if this zone came into effect, it must be enforced by NATO air forces
+- This would bring NATO and the US into direct conflict with Russia, creating an opportunity for escalation
+- Still fear of escalation due to a stalemate, or fronts may be opened up in other countries
+- Also potential for Russian CBWs to be deployed in Ukraine
+- And of course there is still concern that the Russians may employ nuclear weapons
+- Russia's current nuclear doctrine allows for the use of nuclear weapons in the case of "aggression against the Russian Federation with conventional weapons when the very existence of the state is threatened"
+- While Russia does not have a NFU policy, this doctrine does not determine politics
+- Putin has clearly stated that any attack on annexed territories are part of Russia, and an attack on those regions is an attack on Russia
+- This territory would be defended by "all available means", including nuclear weapons
+- This includes Crimea
+- Ukraine has attempted to retake Crimea, without any Russian nuclear weapons being deployed
+- Putin has moved nuclear weapons into Belarus, which is commonly seen as a satellite state of the Russian Federation
+- Brings nuclear weapons closer to NATO capitals such as Warsaw, Berlin, and Paris
+- Russian media landscape often utilizes genocidal language against the Ukrainian people
+- These comments often advocate for the use of nuclear weapons to deter the West from further supporting Ukraine
+- Putin has gone on to state that there is no need to actually employ nuclear weapons in Ukraine, but just hint at their use
+- Nuclear weapons are still primarily thought of as political tools in Russia as opposed to military weapons for being deployed
+- Intense pressure to resume nuclear testing in Russia, likely US would do the same
+- Demonstration of the utility of Russian nuclear arsenal as a political instrument
+- Nuclear weapons could also be used as a warning shot detonated above the Black Sea
+- Multiple attempts on Zelensky's life could turn into a decapitation strike on Kyiv
+- Highly unlikely possibility
+- Another unlikely possibility would be a countervalue strike on Ukrainian cities
+- A more likely one would be a strike on Ukrainian military installations, or an attack on Ukrainian troops
+- A topic that has been raised in Russian media circles is the potential for strikes in countries supporting Ukraine, but this is mainly an extremist view
+- One possibility is an underexplored one which is the potential that if regime change does occur in Russia, Putin successors could make unauthorized use of nuclear weapons

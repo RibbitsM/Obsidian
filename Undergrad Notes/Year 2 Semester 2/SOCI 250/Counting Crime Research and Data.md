@@ -1,0 +1,93 @@
+- Most regions in Canada have their own police, but those without a local police department are covered by the RCMP
+- Significant portion of crime is unreported
+- If a crime is committed and noone sees it, did it still happen? Of course
+- Sexual assault is a good example of this, only about 20% of cases are even brought to police
+- Jaywalking is another form of crime like this that is rarely recorded
+- The actual number of crimes is usually much greater than the official numbers
+- Domestic abuse is another case of a crime that is usually unreported a majority of the time
+- The police are not omniscient, we have to imply how much crime is actually committed
+- Called "Dark Figure" crime, crime that goes unreported for whatever reason
+- These crime rates can be found through victim surveys or self reported data
+- A good example of self report sources is the National Youth Survey, that provides information on crimes committed by juveniles that often go unreported
+- The national crime victimization survey was created to try and capture this data
+- Not used for any CJS purposes, just for data and research
+- Victimization surveys also gather more detailed information on the victims vs official data
+- Of course, this is much less stringent than official data from the UCR
+- Not all crime studies are quantitative, observational methods are also used
+- For example, a researcher joined a gang to write about gang leaders
+- Data is not the be all end all of criminology research
+- Youth delinquency is another statistic that often falls between the cracks
+- Child offenders are often let off the hook for their age, messing with the overall statistics
+
+**UCR**
+
+- Both the US and Canada have UCR (Unified Crime Report) databases, but they have slightly different definitions
+- Researchers have argued that Canadians can use US data in studies but only for certain crimes
+- Very useful data since it's broken down into many intersecting categories
+- Can look at statistics by area, sex, race, and more
+- Has data available from 1985 to present
+- It even has detailed statistics about crimes like weapons used and losses due to theft
+- The NIBRS (National Incident-Based Reporting System) is an enhanced version of the UCR that provides many of the details
+- Many of the definitions are mostly the same between countries but the minor differences matter a lot
+- Gannon compared US and Canadian violent crime rates, overall crime and more
+- UCR is very standardized and comparable which is very important for examining differences between countries
+- If two different places have different collection methods, you can't really compare them
+- When counting crime our sources can be official or unofficial
+- The official sources are Police, Prosecution, and Prison
+- Everything is logged, standardized, and publically available
+- However, these official sources have a lot of dark figures
+- This is why we use unofficial sources like victim surveys
+- This is how we get numbers like 2 out of 10 women don't report sexual assault
+- Self-reported data is from the offenders themselves, this is usually used for youth offenders
+- Observational data is almost all unofficial, government sources usually don't deal in qualitative data
+- Official crime is the number of crimes officially recorded and collected, while actual crime is the real estimated number of crimes
+- The discrepancy between these two numbers is the dark figure
+
+**Crime Funnel**
+
+- This is the process by which the number of crimes goes down the more official you get
+- First we have the actual amount of crime, ex. The number of jaywalkers in a given month
+- Only a few of these will be detected, and even fewer will be taken to court and charged
+- At the very bottom of the funnel is the number of people incarcerated on a given charge
+- When we look at official data, we need to think about how big the actual number is in comparison
+- Arrest numbers will be smaller than the number of crimes detected, and much smaller than the actual numbers
+- This is why victimization and self-reported data is useful, since we can use it to estimate actual data
+- The police isn't the only organization that we can collect deviance data from
+- For example, say you want to find information on bullying and fighting, schools might have it
+- If you want to find data on specific violent offenses, like stabbings you could go to hospitals
+- Hospitals also have very good data on drug offenses since most overdoses end up in hospitals
+- You can also go to businesses to find data on things like shoplifting, most stores have an estimate of monthly shoplifting for liability and insurance reasons
+- Employee theft and shoplifting are often implemented into loss estimates for businesses
+- For especially accurate numbers on fraud/break ins, insurance companies have great data since people often report to their insurance companies more than the police
+- They also collect their own detailed data on break ins and vehicle theft in order to set premiums
+- For issues of cyber crime, look at internet service providers and tech companies since basically no cyber crimes are reported to the police since what will they do?
+- If you get a virus on your computer, you would call an IT service, not the police
+- For estimates on hate speech and cyberbullying, social media companies have the best data
+- Of course, all of these organizations are very stingy with their data while official data is public
+- In addition, places like local businesses rarely have standardized data, they just know about the immediate area and context
+- The data may be high quality, but it's not easily applicable to other places
+
+**Observational Data**
+
+- Getting data by going to the site of the crime
+- Two kinds, discrete or participatory
+- If you're actually there and talking to offenders they can be surprisingly honest about their activities
+- Of course with new ethics guidelines it is difficult to be discrete, you should always announce that you're collecting data
+- Advantages are very good data, but difficult to generalize and standardize
+- Observational data can detect crime that is rarely found by looking quantitatively
+- A good example of this is graffiti or "street art"
+- Graffiti artists are rarely if ever caught, you just see the aftermath and it gets painted over
+- Even if you can get to talk to one, you will never figure out their real name
+- Being part of the street art culture is the only real way to study graffiti and collect data
+- Another example is replicas, usually fake shoes, bags, clothes etc.
+- Very hard to track, and usually victimless because people knowingly buy fakes
+- You need to find where reps are manufactured and sold to get information
+- The last one is gang activity, it's such an important aspect of organized crime but so hard to study
+- Getting first hand information is very difficult, this is where things like Gang Leader For a Day come in
+- Observational data is obviously very time intensive, it takes years to get really good data
+- In criminology we also have to think about ethical concerns, you're usually going to be witnessing criminal offences and may or may not report it
+- It's also limited to mostly minor crimes, which are the ones official sources often miss
+- We can overcome accuracy issues by pooling your findings with other sources to get a wider variety of perspectives
+- This can help to eliminate the personal biases that crop up in observational data
+- It's also good to use different kinds of sources, a mix of qualitative and quantitative data from a mix of official and unofficial sources is ideal
+- We want our research to be multifaceted to get the best and most accurate results

@@ -1,0 +1,54 @@
+- Scales on maps allow us to look at areas much larger and smaller compared to one another with the same amount of space
+- For example, we use 1:50000 for cities vs 1:10000000 for countries
+- Questions could include guessing the subject of a map based on scale
+- A smaller scale will be more coarse, while the detail on a larger scale map is much more fine
+- Conic projection minimizes the distortion in the comparative size of countries and continents
+- Map projections perpetuated eurocentrism, by centring maps on Europe, making the northern hemisphere appear larger than the southern hemisphere, and putting the prime meridian through London
+- There are 1 million microns in one meter
+- A map with a scale of 1:1000 would be considered a large scale map
+- The meter was originally defined as 1/10 millionth of the distance from the north pole to the equator
+- It was previously defined by a metal bar held in storage, and is now defined by the distance light travels in a vacuum in 1/299,792,458th of a second
+
+Positioning
+
+- Positioning can either be relative or absolute
+- Relative means describing your position relative to other landmarks or features
+- EX: you can say that you're east of a building or 3 feet from a chair etc.
+- Absolute position is describing your position based on coordinates of a point in space
+- This requires some sort of tool to measure coordinates
+- On google maps you can get relative positioning by looking at what landmarks are adjacent to your destination, but it also gives you absolute positions in latitude and longitude
+- Before satellites, surveyors would navigate via triangulation, mostly in the case of sea voyages
+- Triangulation is based on the concepts of trigonometry
+- If you know one side and two angles of a triangle, you can calculate the remaining sides and angles
+- Triangulation is measuring angles, trilateration is measuring distances
+- Surveyors used an instrument called a theodolite to calculate these angles
+- It's essentially an extremely precise protractor that can measure angles at great distances
+- Geodetic surveys were conducted to create a network of fixed points with accurate relative and absolute positions that surveyors could use to determine the position of any other given point via triangulation
+- These were the basis for accurately mapping the earth's surface
+- Used for determining your absolute position by comparing your position to known geodetic points
+- However, this didn't work at sea as you can't really install physical geodetic points at sea
+- Sea travel used pilotage and dead reckoning for relative positioning and celestial and electronic navigation for absolute positioning
+- Pilotage was the first ever known method of navigation
+- Required traveling within sight of the coast and used landmarks to navigate
+- Used triangulation based on these known landmarks to determine position
+- Wasn't accurate, but enough to ensure that boats were somewhat safe
+- Tools used were only maps and nautical charts
+- Dead reckoning was used later, and is based on calculating current position based on estimated speed
+- Mark your last known point, and estimate your position based on that by moving that position based on your speed over time
+- Was accurate over short distances, but created cumulative errors over much longer distances
+- Voyages based on dead reckoning could last months or even years
+- Celestial navigation involved using stars as reference points for navigation
+- Most stars move over time, but it is always possible to determine your latitude by looking at the stars
+- At all times of the year, the North Star (Polaris), remains in essentially the same spot in the Northern Hemisphere
+- It is located directly over the north pole, so no matter what the rotation of the earth is like, it will be in the same spot
+- It's also so far away that it isn't affected by the tilt of the earth between seasons
+- At 0 latitude, the north star is on the horizon and at the north pole it is directly overhead
+- This made latitude very easy to calculate with navigation instruments
+- After many years of navigators having no method of calculating longitude, the chronometer was invented
+- The chronometer is essentially just a very accurate clock
+- By using the sun to determine the local time, you could compare the current time with the time from your starting longitude on the chronometer
+- Every hour of difference is equivalent to 15 degrees of longitude
+- This is because the earth rotates completely one every 24 hours, which divides down to 1 degree of rotation every 4 minutes
+- Electronic navigation is now used by using satellites as landmarks
+- As long as there are three satellites above the horizon at your position you can calculate your position with extreme precision
+- However, as a general rule, four satellites are required to ensure that no errors are occurring and your position is "verified"

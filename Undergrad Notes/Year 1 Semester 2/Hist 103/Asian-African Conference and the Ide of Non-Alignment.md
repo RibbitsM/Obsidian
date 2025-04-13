@@ -1,0 +1,50 @@
+- Many nations during the Cold War sought to take a neutral position despite Soviet and American attempts to spread their influence
+- However, this effort failed noticeably, and we will explore why
+- In 1945, the age of the nation state was just emerging from the colonial era and many countries were gaining independence
+- In 1955 a group of 25 Asian and African countries gathered in Indonesia
+- Many of the countries were newly independent and no gathering of this type had ever occurred before
+- Indonesia had recently declared independence from the Dutch only 5 years prior in 1950
+- Ambitious project from the Indonesian government to establish their status as an independent nation
+- Officially known as the Asia-African Conference or the Bandung Conference, named after the city it was held in
+- Sukarno used the phrase "to build the world anew" as the focus of the conference
+- The US, the USSR and the colonial powers were not invited, only Asian and African nations
+- The terms "Third World" and "The Global South" were not yet in widespread use
+- Most countries at the conference were prior colonies with China, Japan, Iran, and Egypt being the outliers
+- The conference was the direct opposite of the established world order where almost the entire system of international relations was controlled by European nations
+- Access to education and healthcare was very limited in Indonesia in the aftermath of their war of independence
+- Were excited to stand as equals with other countries on the global stage
+- The state prioritized human rights and spending on education and healthcare
+- In the final statement of the conference they showed support for the UN charter
+- Sought the equality of all nations and all races
+- Were against intervention and strongly supported sovereignty and territorial integrity
+- The overall theme was equality and respect, wanted to be treated as equals to the global powers
+- To achieve this goal, the conference determined that no countries at the conference could make alliances with the major powers or attack eachother
+- Instead, any international disputes should be settled by peaceful means
+- Indonesia and the other nations hoped that the UN would be a tool by which they could keep their sovereignty
+- The bloody colonial history of most nations involved meant none of these countries wanted anything like that to happen again
+- Nothing at the conference explicitly mentioned the Cold War and the non-alignment movement was never brought up publicly
+- The American writer Richard Wright attended the conference and wrote a book about it titled _The Color Curtain_
+- From his perspective the conference was centered on the topic of race
+- The problem with the conference's goals of avoiding alliances was that several members had already allied with global powers
+- The Philippines and Thailand had just made an alliance to fight communism with the US in 1954
+- Vietnamese natives had recently fought off the French colonizers in the country and established a communist government which the US had problems with
+- In addition, China was at the conference which was solidly part of the Soviet bloc at that time
+- The organizing community refused to invite the USSR even though it asked to join because the organizers saw it as a European country
+- However, delegations from North and South Vietnam attended
+- Sukarno and Nehru were non-communist but were willing to work with communists and anti-communists alike
+- The goal of the conference was not explicitly non-alignment, especially since many aligned countries were invited
+
+The Non-Alignment Conference
+
+- Another conference was held in Belgrade in 1961 by the same core group of Nasser, Nehru and Sukarno, with Tito of Yugoslavia joining them
+- The main concern was avoiding nuclear war between the US and the USSR
+- Existing military alliances like the Warsaw Pact and NATO were critiqued, saying that they necessitated occasional conflict
+- In 1963 Sukarno leads a campaign against Malaysia which we saw as an imperialist tool against Indonesia
+- He withdrew from the UN and pledged to make Jakarta the center for a new organization called the Conference of the New Emerging Forces
+- He also wanted to make his own version of the Olympic Games
+- Sought to ally with communist countries such as North Korea, North Vietnam and China to form an alliance to combat imperialism
+- Effectively abandoned non-alignment in favour of a more proactive approach to anti-imperialism
+- In 1965 the US sent troops to South Vietnam and carpet bombed Laos and Cambodia, ending the dreams of any Southeast Asian countries seeking neutrality
+- Basically exactly what the conference wanted to avoid
+- Thailand and the Philippines supported the US
+- In 1965 an army general named Suharto comes to power in Indonesia and slaughters hundreds of thousands of Indonesian communists with US support

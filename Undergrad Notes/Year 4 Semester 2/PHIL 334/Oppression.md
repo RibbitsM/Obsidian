@@ -1,0 +1,49 @@
+- To figure out what feminist philosophy is, you have to first determine what feminism is
+- No universal definition of feminism
+- Generally understood that it involves action against the oppression of women, but isn't necessarily restricted to only women
+- The main question to ask is who is represented by the feminist movement, whose concerns are represented by feminists
+- The obvious answer is women, it's kind of in the name
+- Women are an oppressed class, and therefore feminism is about ending the oppression of women
+- However, women are not the only class of people who are oppressed which is why other genders and identities are also often included
+- A major issue voiced by many feminists is that including these other groups dilutes the original purpose of feminism and goes against the original goals of the movement
+- This is where TERF groups and other similar offshoots of feminist thought emerge from
+- Feminist philosophy generally focuses on two different groups
+- First is the feminist history of philosophy, which focuses on the role of women in philosophy throughout history
+- The second is feminist analytic philosophy which applies philosophical ways of thinking to common feminist issues
+- Philosophy is an important part of feminism because it is a useful tool for uncovering some of the less obvious manifestations of gender oppression and gender ideology as a whole
+- Philosophy is particularly good at this because it deals with pursuing fundamental truths and thinking about norms in different ways
+- Feminist philosophy is also a product of the wider feminist movement of increasing female voices across all disciplines
+
+**Frye**
+
+- Developed the claim that women are oppressed by sexism
+- Frye mainly defines oppression as restriction, she specifically uses the example of a "double bind"
+- Defining oppression is important because without a definition you can't properly identify it
+- Oppression is not synonymous with suffering, not all disadvantages are the result of oppression
+- For a system to be oppressive, there has to be multiple sides
+- While a gendered system has disadvantages for all involved, there is still the issue of who is responsible for this system and who ultimately gets off easier
+- Oppressed people may not even know they are oppressed, and those who are not oppressed can easily feel like they are
+- Suffering is relative, ideally oppression should be an objective term
+- Frye uses the example of a birdcage where every individual wire does nothing to restrict the bird, but together make up an impenetrable cage
+- Any individual double bind may seem inconsequential and often people portray them in this way
+- But put together, all these restrictions create a much larger system of oppression
+- Oppression doesn't target individuals, but rather groups
+- It happens based on identity or membership to a group that is "marked for oppression"
+- Oppression is part of our material reality, we can look at the world and see where it appears
+- Legal and social restrictions create material limits on certain groups, like lack of access to abortion for example
+- The identities held by individuals and the groups they belong to indicate how other people interact and respond to that individual
+- More than that, these features and identities also justify this kind of treatment since it is in accordance with common social norms
+- The fact that human biases and norms mean that different people and treated differently leads to some groups being oppressed as a result of the social system
+- Gender is one of these markers, and the reason why some people are oppressed is because they are marked as women
+- Women are treated differently than men, look at the example of the door opening
+- Out of context this may seem logically inconsistent, but it makes sense to us because of gender norms
+- Frye talks about how oppressors also endure restrictions, but these limitations are different from those experienced by the oppressed because there is no double bind
+- The system of masculinity has borders, but there is no consequence for staying within those borders
+- For women, they are punished whether they follow the norms or deviate from them
+- This is one of the main issues with Frye's theory, the dichotomy of oppressed and oppressor
+- Frye describes men as maintaining a system of oppression for their own purposes, consciously and intentionally
+- However, in reality women are equally complicit in maintaining this system
+- Instead of actively being the oppressors, men are more like the privileged class between the two rather than being the direct architects
+- Social norms require the majority of people upholding them to keep going, so it doesn't make much sense to depict a system of oppression like a controlled hierarchy
+- This is how most modern theorists think about oppression, as a privileged-oppressed dynamic rather than oppressor-oppressed
+-

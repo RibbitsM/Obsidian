@@ -1,0 +1,47 @@
+- Iran has a complete nuclear fuel cycle including mines, conversion facilities, enrichment facilities, reactors, and reprocessing facilities
+- Iran has had a nuclear program since the 1950s when it was under Western control and received assistance until the Iranian Revolution in 1979
+- Nuclear weapons program began sometime in the 80s
+- This was centered in the Natanz and Arak facilities
+- Throughout the 90s and 00s, Iran acquired gas centrifuges for enrichment
+- Iranian government agreed to IAEA inspection and the Additional Protocol in 2003, resulting in some of its nuclear technology including centrifuges, being placed under IAEA seals
+- In August of 2005, Iran began converting uranium hexafluoride at the Isfahan Uranium Conversion facility in volumes far in excess of civilian needs
+- This led to the IAEA declaring a breach and the UNSC demanding Iran cease enrichment and conversion immediately
+- Iran then removed the IAEA seals on its equipment in 2006
+- UN sanctions were imposed on Iran, followed by many more in the following years
+- UN sanctions on Iran became a regular part of international politics
+- During the sanctions period, the IAEA continued to report continued enrichment activities and was blocked from inspecting Iranian facilities
+- Iran admitted to a secret enrichment facility in Fordow in 2009
+- Led to fear of an advanced Iranian nuclear program in light of uncertainty on said program
+- Similar to North Korea, sanctions were not affecting government policy
+
+**The Iran Deal**
+
+- The Joint Comprehensive Plan of Action or the "Iran Deal" was the product of extensive negotiations between the P5 + 1 and Iran over 2 years
+- On July 14, 2015, the deal was signed by China, France, Germany, Russia, EU, UK, US, and Iran
+- First segment was on enrichment
+- Restricted Iran to 5,000 centrifuges at Natanz and limited them at 3.67% for 10 years
+- 14,000 centrifuges were stored under the supervision of the IAEA
+- 1000 centrifuges allowed for medical use at Fordow, but no uranium was allowed at the site
+- Second segment was on fissile material
+- Iran's uranium stockpile would be reduced by 98% for 15 years
+- Arak reactor would be redesigned to reduce plutonium production, and plutonium created would be shipped out of the country
+- Iran also agreed to cease reprocessing for 15 years
+- Third segment was on verification
+- Iran would accept the IAEA additional protocol and provide the, with 24-hour access
+- Nuclear fuel cycle would be monitored for 25 years
+- Centrifuge manufacturing would be monitored, and IAEA access to all sites would be ensured under threat of resumption of sanctions
+- In terms of sanctions, the UNSC ruled that if the agreement was violated in anyway with no preventative action taken within 30 days, sanctions would be snapped back
+- Iran would also receive access to $50 billion in frozen assets
+- The deal was implemented, with both sides fulfilling their promises
+- Iran stockpile was eliminated and capped, and installed no new equipment/fuel in the Arak reactor
+- On the other hand, the US released the frozen funds and lifted sanctions
+- Critics of the deal claimed that Iran still had key fissile material capabilities and had the ability to cheat and break the agreement
+- Also claimed that the timelines were too short
+- Finally, lifting the sanctions would allow Iran to divert money to destabilizing neighbouring countries
+- The Trump Administration disapproved of the Iran deal, and reinstated sanction against Iran in 2018
+- In response, Iran began to violate the JCPOA and started stockpiling HEU beyond enrichment limits
+- Biden resumed JCPOA talks in 2021, but proved challenging due to mistrust, violations on both sides and a new Iranian government
+- Stockpiles of 20% and 60% U-235 in Iran have both skyrocketed
+- Plan B for the US is to snapback full UN sanctions and limits on Chinese oil purchases and UAE banking
+- Israel would continue cyber attacks and prepare for attacks on Iranian facilities
+- As of 2022, negotiations have stalled and antagonism between the IAEA and Iran have escalated with the removal of surveillance cameras and installing of advanced centrifuges

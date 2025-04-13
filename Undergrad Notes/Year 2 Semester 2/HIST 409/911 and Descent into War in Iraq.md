@@ -1,0 +1,52 @@
+- Round 2 of the Iraq War was already being discussed before 9/11
+- Labelled as part of the "Axis of Evil"
+- A lot of Americans simply did not understand why 9/11 happened, and why they would be targeted
+- Blowback from US foreign policy in the Middle East was explained as a possible explanation for the 9/11 attacks
+- The dominant idea was that the terrorists attacked because they hate America and its values, but it was more likely caused by foreign intervention.
+- Immediately all planes in the US were grounded and seaports and land crossings were closed
+- Canadian air traffic controllers diverted hundreds of planes to Canada
+- When the borders did reopen, customs greatly heightened inspections
+- Canada was accused of having lax border security which allowed the terrorists to enter the US
+- Tonnes of goods and products cross the US-Canada border every day, especially in the Ambassador Bridge between Windsor and Detroit
+- Tony Blair made a statement on 9/11 expressing British solidarity with the US, using the word 'evil' to describe the terrorists
+- Called for unification of democratic countries to oppose terror
+- Bush also used the same rhetoric, vowing to 'rid the world of evil'
+- Called on the UNSC to act in Afghanistan to find and bring to justice the perpetrators
+- NATO Article 5 was also invoked, declaring 9/11 as an attack against all members
+- The issue is that it was not invoked against any specific state, but on terrorism as a whole
+- Emotions were so high that any sort of action was wholeheartedly endorsed
+- Days after, Bush made a speech at the Joint Session of Congress thanking many countries, naming every country that lost citizens in 9/11 with the notable exception of Canada
+- Concern in Canada that relations and trade with the US would be harmed as a result of 9/11
+
+**Operation Enduring Freedom**
+
+- Goal was carrying out strikes against al Qaeda training camps in Afghanistan
+- Afghanistan was already a struggling country plagued by years of turmoil and past conflicts
+- The US Patriot Act was enacted in October, greatly increasing surveillance of American citizens
+- Bill C-36 followed in Canada to similar results, empowering police to find terrorists
+- Afghanistan was far from united at the time, it was not ethnically homogeneous at all but was mainly controlled by the Pashtun Taliban
+- Securitization was raised in most countries, the process of travel was slowed down drastically
+- In Bush's state of the union address in January 2002, Bush linked Iraq to the greater war on terror
+- Invoked discussion of biological weapons and assistance to terrorist groups, axis of evil
+- Linked government and terrorists, effectively pulling the Iraqi government into the war on terror
+- The language of the "pre-emptive strike" began to be used by Bush, advocating for an immediate attack on Iraq
+- Terrorists could only be deterred through pre-emptive military action
+- The UNSC approved increased consequences if Saddam Hussein didn't comply with inspections
+- The wording was very confusing, and left much room for interpretation
+- A Canadian citizen, Maher Arar, was detained at JFK airport, transferred to Syria, and tortured for months
+- He had no association with al Qaeda or Afghanistan, and had lived almost his entire life in Manitoba
+- This was not an isolated incident, many other innocent people were subjected to this
+- Recordings of Osama Bin Laden were circulated as explanations for the attacks
+- The European Union was experiencing a split between the new countries and the established NATO countries
+- There were two public letters addressed to the US, the Letter of Eight and the Vilnius Letter
+- Show of loyalty to the US and willingness to follow them into Iraq
+- France and Germany were notably absent from these letters, with France's opposition blocking any sort of UNSC resolution
+- Millions of people marched in protest against the war in Iraq in various countries across Europe, North America, and more
+- The largest demonstration was held in London with over a million people involved, record numbers
+- Contrary to the protests, the war went ahead anyway in March
+- The main justification for the war, Saddam Hussein's WMDs, were discovered to be nonexistent
+- Tony Blair's credibility was destroyed by his association with Bush when it became clear that Iraq was never justifiable
+- Soldiers were also beginning to question the legality and morality of the war and started looking for ways to avoid being sent to Iraq
+- However, this was not a Vietnam draft dodging situation, these were members of the US armed forces deserting a war
+- Harbouring deserters is against international law, and the Canadian government sent most of these soldiers back to the United States
+- Deserters were judged on a case by case basis, with few being allowed to stay

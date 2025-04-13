@@ -1,0 +1,119 @@
+**Social Disorganization Theory**
+
+- Theorizes that crime is a product of a social and spatial environment
+- Also known as the ecological school or Chicago school
+- Basically looking at people like in ecology, what survival strategies adapt to the environment
+- Looks at the distribution of phenomena in relation to the environment
+- Assumes that cities are made up of a series of concentric circles
+- You start at the city center, and each circle moving away from the center has a specific function
+- Usually zone 1 is mainly for tertiary employment, meaning the commerce aspects of businesses
+- Things like head offices, accounting, marketing, logistics
+- Zone 2 is devoted to secondary employment, meaning industrial production, located near transport routes like ports or rail yards
+- This is also where the poorest urban citizens are usually living, center for immigration
+- Zone 3 and 4 are working class housing, fairly cheap
+- Zone 5 is the residential zone where you have better housing, still fairly close to work
+- Zone 6 is the commuter zone, suburbs
+- 7 is just luxury housing
+- If you apply this to Vancouver, this checks out fairly well
+- Zone 1 is in downtown around Burrard station, this is where all the bank headquarters are
+- But if you just go a couple blocks away you have the port, bus station, trains, sugar mill, old Japantown, Chinatown, DTES
+- Checks out very well with concentric circle theory
+- A little further away is Little Italy and other European immigrant group areas
+- In Zone 3 you're across the bridge where housing is much nicer, and even further you're in neighborhoods where every house is 2 million plus dollars
+- Zones in transition have a few elements that promote social disorganization
+- First, most people here are low economic status
+- There is also many ethnic groups mixed into the same space, often speaking different languages
+- People are constantly moving in and out, small number of permanent residences
+- Most families are disrupted, with likely one or no parent, immigrant populations are historically almost all male with no families
+- Crime rates decrease as zone numbers increase
+- These factors cause concentrated poverty, mistrust, fear, and lower overall productivity
+- When there is constant conflict between groups, you are withdrawn from the community and less willing to intervene when issues arise
+- There is also often no institutional resources available to these people
+- Research was done on theft and violence in better and worse neighbourhoods, sorted by high vs low impulse
+- In both neighbourhoods, low impulse offenders are about the same likelihood to offend
+- However, high impulse offenders are more likely to offend in worse neighbourhoods
+- Intersection between personal and environmental factors
+- This theory assumes that all members are impacted in the same way but this isn't true
+- When a neighbourhood gets gentrified, it can remove the factors that cause crime, but it also displaces poorer people who can't afford the new prices
+- When this happens you have rich people living in close proximity to poor people
+- This causes a lot of relative deprivation, and even more relative stress
+- In addition, this theory was developed before WWII, land use patterns have changed
+- City living is not just for poor people, many people prefer to live downtown
+- Immigration is also now more high skill concentrated, lower skill labourers are no longer immigrating to Canada
+- In addition, ethnic groups in large cities have become much more influential
+- This theory works best for newer cities like in North America, and also assumes that there is a port
+
+**Cultural Transmission Theory**
+
+- When you have a group that lives in an environment like this for a long time, you have generations
+- New people born into this environment will learn norms differently
+- The knowledge of the myth of upwards mobility leads to demotivation towards the norms of society
+- More of a symbolic interactionism approach, focuses on interactions between people
+- Attitudes towards methods of success like education and work change
+- An entire different culture and approach to society is created in these neighbourhoods
+- The worse general attitude towards life in communities like this reinforces a negative worldview
+- Also generally higher rate of broken homes, meaning worse role models for children
+- This theory expands on social disorganization theory by looking at the social processes and interactions in these neighbourhoods
+- Social interaction in poor environments drive people away from the conformist approach and encourage subcultures of deviancy
+- Subcultures are a result of strain theory and social disorganization
+- People living in disorganized environments do not identify with middle class values and goals
+- Prefer immediate reward rather than making no money in the present to benefit in the future
+- Formal education is often unviable and costs too much money, making high paying jobs unattainable, money must be acquired in other ways
+- Insecurity, can't be as risk averse as middle class citizens since disorganization creates financial instability
+- New values are created called focal concerns, include toughness, fate, and autonomy
+- Focal concerns can give rise to deviant behaviour
+- Divide between middle and lower class values creates status frustration, further segregating the communities
+- Deviant values are rejected and marginalized by larger society
+- This is where gang culture and activities come from
+- Strain theory: different groups have differing access to wealth and power which causes frustration with the status quo and stress
+- Social disorganization theory: Power groups are segregated into communities with differing levels of stability, homogeneity, and social control
+- Both create cultural deviance theory
+- Deviant subcultures are created and reinforced by social strain and stress, and community disorganization
+- Creates values that oppose mainstream ideals, causes further persecution
+- Communities become "breeding grounds" for crime
+- Not perfect, crime can appear in good neighbourhoods as well
+
+**Broken Window Theory**
+
+- Based on an experiment by Zimbardo done in 1969
+- Two neighbourhoods with two cars left for three days, one good, one bad
+- Argues that the car in the bad neighbourhood would be trashed, the other was fine
+- However, try it again and break a window in both cars
+- This time, both cars would be trashed after three days
+- The broken window matters more than the environmental factors
+- When there is a signal that noone cares about this car, criminals will move in and act
+- This is why community members like to take down graffiti, it signifies that someone cares about that wall or that building
+- Sets the norm on what is okay and not okay to vandalize
+- This theory predicts that small crimes left unaddressed will lead to larger crimes later
+- Huge impact on community planning, argues that policing minor matters heavily will lead to a decrease in more sever crimes
+- Even though these crimes may be victimless, they set precedents for other offences
+- There was a project based on this in LA, where they removed the density of homeless camps on Main Street, which resulted in a drastic decrease in property crime and violent crime
+- There was no violent removal of anyone, just handing out citations and fines decreased crime
+- The problem with this theory is that its a band aid solution, it doesn't address the underlying reasons for crime and the motivations of the offenders
+- No deeper systemic reasons for crime are addressed
+- Also oftentimes the type of people who live in a neighbourhood is a better signal than objects
+- The demographic of witnesses is more important than the physical reality
+- There have also been mixed results of implementation, there have been several studies where it fails
+- Often used to justify a drastic increase in police presence in major cities
+- Norms can be prescriptive, meaning they tell us what to do, or proscriptive, meaning they tell us what not to do
+- Two main theories of social structure, consensus and conflict
+- Consensus thinkers see society as voluntarily constructed, people choose to participate in it as it is better than going it alone, society is one big group
+- Conflict thinkers see society as the framework in which several distinct groups are constantly vying for power, and is changed and shaped by those groups to serve them in this war
+- There is also a third approach called symbolic interactionism
+- This focuses on social interaction and process rather than the overall structure
+
+**Social Processes**
+
+- Social process theory focuses heavily on context and meaning, especially how the same act or object can be interpreted differently depending on context
+- The process of assigning meaning to actions is highly complicated and fairly unique to humans
+- The process of beginning to understand society is guided by agents of socialization
+- Your family is the first agent, school is next, then friends/peers, job, government, etc.
+- Different agents socialize you in different ways, your family is much more intimate and personalized while school is fairly uniform and regulated
+- Your peers provide a statistical approach, what is common/normal and what is uncommon/weird?
+- Socialization shapes our belief system and influences how we operate in that system
+- Criminologists look at three branches of social processes
+- Social learning, social control, and social reaction (labelling)
+- Differential association is related to social learning
+- This is the process through which we are exposed to attitudes that approve of criminal acts and violating the rules
+- Often attitudes that justify breaking the law
+- We look at four factors: frequency, duration, priority (how early on?), and intensity (level of connection with person?)

@@ -1,0 +1,6 @@
+- Inbreeding can cause rare recessive genes to show themselves as two members of the same family are likely to be carriers
+- If a carrier reproduced with someone outside the family, they are much less likely to also be a carrier
+- If you see an example of inheritance where a phenotype is passed from father to son, that means it cannot be x linked dominant
+- This is because the father always passes the Y chromosome to their son, never the X chromosome
+- A female who is homozygous for a recessive sex linked trait cannot have an unaffected son
+-

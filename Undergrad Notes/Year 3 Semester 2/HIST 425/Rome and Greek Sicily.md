@@ -1,0 +1,150 @@
+- Sicily was a huge focus of Greek colonization
+- Sicily was located in a strategic position at the tip of the peninsula, and had rich volcanic soil for agriculture
+- The Greeks sought it for their navy and farmers
+- The Phoenicians colonized some of it but was mainly occupied by Greece
+- Syracuse was the largest city in Sicily
+- Very prosperous city, around the same size as Athens
+- Started on an island and expanded onto the nearby plateau
+- Fended off a large assault from Athens during the Peloponnesian wars
+- Site of the start of the fall of Greece to the Roman empire
+- Chronicled by Polybius who was held captive by the Romans for many years
+- He was a huge admirer of Roman society and believed them to be the greatest military force in the world
+- Believed that conquering Sicily was the key to conquering the world
+- Before this, Rome and Carthage had fought over control of Sicily for years
+- In 214 BCE, Hieronymus decided to cut ties with Rome and side with Carthage
+- Rome decided to fight Carthage for control of the island, and besieged Syracuse
+- They thought this was only a few day long exercise, but failed to consider that the mathematician Archimedes was charged with defending Syracuse
+- First thing he did was set up a series of ballista that would hit the ships as they came in
+- Also created mechanical cranes to lift ships out of the water
+- Supposedly made a mirror weapon to burn Roman ships using the sun
+- After 2 years of siege, the city was conquered when the Greeks drank too hard during a feast and the city walls were breached while they recovered
+- The city was sacked, and the population enslaved
+- Seen as the beginning of the end for the Greeks
+- Over the next 2 centuries, each Greek city would fall one by one to Rome
+- Later, in 67 BCE Nero came to see the Panhellenic games, as he was a huge fan of Greek culture
+- He spoke Greek, loved Greek games, and Greek plays
+- He came to participate, and the games had to be reorganized for him
+- In the end, he said he loved Greece so much that he would set them free
+- The next year he committed suicide and this promise never came to pass
+- But the question is who really conquered who, and how?
+
+**A New Style of War**
+
+- During the 4th century, the kingdom of Macedon became much more prominent
+- Macedon is a kingdom, not a polis like we would find further down the peninsula
+- They fought using the phalanx, but distilled into a perfect form
+- Deep phalanx with long pikes (sarissa), alongside Theban cavalry and peltasts
+- Alexander the Great steamrolled through the east, conquering the entire Persian empire in a few years until he died in Babylon
+- He left no viable heir, and left his empire to "the strongest"
+- His successors grabbed whatever they could, and was divided between four generals
+- These four territories fought viciously for years
+- In the end, the Greek world was now more unified, the polis were no more, but less unified as well
+- Rome was supposedly founded by descendants of the Trojans, Aeneas specifically
+- Founded on the banks of the Tiber, not exactly on the coast
+- City made up of seven hills
+- Romans started up as a monarchy, and in 509 BCE established a pseudo democracy based on representation
+- Not direct democracy, more similar to what we see today
+- Executive power held by 2 consuls, and the Senate
+- All consuls and Senate members held the Imperium, or right to command
+- No enumeration was given for holding power, and none were allowed to serve for more than a year
+- Affairs of the elite, since it doesn't pay only the wealthy can serve
+- Early roman soldiers were much like Greek hoplites
+- Gradually unified the Italian peninsula over time, conquering the Etruscans, Samnites, and other neighbouring peoples
+- Motivations for war were often defensive or pre-emptive
+- Showed the Roman skill of striking compromises
+- Granted some conquered people full Roman citizenship
+- Something that the Greek NEVER did, citizenship was based on blood
+- Weakness of Sparta was not incorporating
+- Even those who were not given citizenship were allied or companion people
+- Not full Romans, but not Roman subjects either
+- Very good at integrating, especially working with local elites
+- Learned from trial and error in battle, often learning from their mistakes
+- Many greek phalanxes struggled with projectile throwers
+- The Romans incorporated two javelins, one for throwing and one for stabbing, and then had swords to move in for close combat
+- The pilum, the throwing javelin, was designed to bend or stick in on impact, so it could not be retrieved and thrown back
+- Replaced the round aspis shields with oblong scutum shields, and also adopted iron chainmail
+- Fought in something called the manipular legion, with several different components
+- Could line up in a solid line, or in checkerboard formation
+- Very useful because if the front line was in trouble, they could fall back and the next line could come forward
+- Four different divisions, the Velites, Hastati, Principes, and Triarii
+- Only really existed for the early Punic Wars and wars against the Greeks
+- The Velites were light skirmishers set at the front to harass
+- As the lines go back, the soldiers get better equipped and more experienced
+- Contrary to other formations where the best soldiers are at the front
+- As the less experienced soldiers falter, they can fall back and let the better fighters with better equipment come forward
+- Rome controlled the peninsula, but had no sea power to speak of
+- Carthage on the other hand were a naval power made up of mainly merchants, in what today is Lebanon and Syria
+- City state founded by the Phoenicians in 814 BCE, unfortunately we have little material about this group
+- The Punic wars were an existential struggle between Carthage and their many allies, against Rome
+- It seemed very likely that Rome would lose, fighting multiple fronts against the Celts, Macedonia, and Syracuse
+- Hannibal of Carthage was known as a famous military strategist who led 50,000 men through Spain to invade Rome
+- The Disaster of Cannae was the worst defeat in Roman history
+- The only thing that stopped him was a lack of domestic support, and the dictator of Rome (Fabius Maximus) managed to hold on
+- Fabius recognized that Hannibal was simply unbeatable, and sought to avoid giving full battle to Hannibal, simply harassing and buying time
+- Slowly whittled Hannibal's army down over 50 years, until he was forced to retreat
+- Eventually Rome succeeded, and Carthage was razed to the ground
+- Polybius recorded Scipio Aemilianus bursting into tears and reciting from the Iliad at the sight of Carthage burning
+
+**What Next?**
+
+- Instead of leaving things as is, Rome decided to march eastward
+- Strong leaders were emerging in the ruins of Alexander's empire, and may have been planning to reunify
+- During the wars with Carthage, Hannibal allied with Philip V of Macedon, earning Macedonia the ire of Rome
+- Rome whittled away at Macedonia over time by setting other Greek groups against Macedonia one after the other
+- There was back and forths, but in the decisive battles, Rome succeeded
+- Macedonia was eventually reduced to a Roman province and their Greek allies basically turned into puppets
+- The Greek city-states complained about this outcome, and called for the help of the Seleucid Empire
+- This was the biggest empire at the time, and they also had Hannibal on their side who had escaped Carthage
+- The deciding battle was between Scipio Asiaticus and Antiochus III at Magnesia, and Rome won
+- So how did Rome beat these battle-hardened, rich, experienced states?
+- First of all, the Greeks were always divided, there was always at least a few Greek states that would side with the Romans
+- Romans were good at appealing to the local elites, and delivered on their promises
+- In addition, the Romans had studied the Macedonian phalanx, and the Seleucids fought in similar ways
+- Punjab was actually the last free Greek kingdom, based in the Indus valley
+
+**Roman Imperialism**
+
+- There was a period of experimentation on how Rome would rule their empire
+- At first they would take a toll from the defeated state, but then restore the rulers and force them to ally
+- Couldn't be so weak that they couldn't keep order, but not so strong that they posed a threat
+- No placing of Roman colonies yet, it was too expensive
+- This strategy didn't work, and Rome was forced to annex and administer control more and more often
+- In 31 BCE, the Roman Empire was established with Octavian as the first sole ruler of Rome since Tarqus
+- Couldn't be called king, was called imperator
+- Greece was considered a very valued conquest, and were treated better by the Romans compared to others
+- Greece was often seen as more sophisticated compared to Rome
+- Of course they did not do this to Carthage, which they razed to the ground
+- Greek culture was of course a very formative influence on Rome
+- Large degree of exposure to Greek culture, and conquest just emphasized this
+- Many Greek hostages and slaves were brought to Rome, alongside teachers, artisans, and diplomats
+- Low point for Greeks, high point for Romans
+- Romans considered themselves more manly or superior to the Greeks, and were suspicious and jealous of the Greeks
+- Ironically, many Greek stereotypes of Orientals were now applied to them
+- Latin was the dominant language on the Italian peninsula, but in the East, Greek was dominant
+- Ironically, Greek culture was actually spread further by the Roman Empire
+- Unprecedented empire, and saw challenges in managing diversity
+- There needed to be a balance with universal institutions and letting in some people but not others
+- Some rely on an elite language for this, the Middle East used Farsi, Europe used French, and the Romans used Greek
+- People used Greek not to engage with the culture, but to get in with the Roman elites
+- Speaking Greek and knowing the "classics" was a sign of class
+- Cosmetic Hellenism, Greek culture was a tool, not a true culture
+- Romans loved Greek rhetoric, and would import Greek intellectuals to have debates for show in Rome
+- Rhetoric was no longer a key part of society as it was in Greece, but just as a sport
+- In addition, the appearance of Roman elites began to be more and more reminiscent of Greeks
+- Marcus Aurelius was educated by Greek tutors, and even wrote his Meditations in Greek
+- Greek culture moved to the cultural notion of Stoicism, pioneered by Zeno of Citium
+- Focused on a belief that the universe is one sentient being, and it has a plan and it's own logic
+- Success in life is based on living in harmony with this plan
+- Epictetus was a Greek slave, and was huge proponent of this
+- You cannot change the world, just your views of it
+- Emblematic of Greek views on their captivity, huge departure from previous proud Greek rhetoric
+- No more emphasis on arete, but obedience
+- Epictetus was actually freed for his thinking, and got to live a full life
+- Stoicism resonated heavily with both Greeks and Romans
+- Greeks strove to be the best and most respectful losers ever essentially
+- The importance of this encounter can be seen in the area where Greek culture survives best, which is where they were defeated
+
+**Conclusion**
+
+- Rome conquered the Greek world via military innovations and an incredible sense of compromise and incorporation
+- The greeks learned to accept Roman military superiority, but maintained Greek cultural superiority

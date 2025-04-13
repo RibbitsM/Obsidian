@@ -1,0 +1,101 @@
+- Conflict on the Korean peninsula at the outbreak of the Cold War
+- The Korean war was both an international proxy war and a civil war within Korea
+- Became pronounced in 1948, and international forces became involved around 1950
+- This international intervention led to the bitter outcome
+- Erupted due to the changing international system and the history of Korea
+- Key issues included the colonization of Korea by Japan
+- Korea was a protectorate/colony until 1945
+- Usurped the Choson dynasty who had ruled Korea since 1392
+- Colonialism was an awful experience for Koreans, they were treated horribly by the Japanese
+- Koreans organized a funeral for their dead king as a peaceful protest against the Japanese on March 1st 1919
+- These protests were repressed by the colonial government, strengthening Korean feelings of nationalism
+- They put in a petition for independence at the end of WWI
+- A Korean provisional government was established in Shanghai, led by Syngman Rhee who would eventually become the first leader of South Korea
+- He constantly petitioned the US government to free Korea from colonial rule
+- However, there was a divide in Korean nationalism caused by the impact of the national revolution
+- Some Koreans wanted to break colonial rule through a revolution
+- The Korean left was split between foreign citizens and those under colonial rule
+- Some of these Korean communists were active guerilla fighters including Kim Il Sung, who operated on the borders of Korea and worked closely with Chinese communists
+- Spoke frequently about invading Korea
+- Kim Il Sung became an officer in the Soviet army after fleeing Korea
+- There was no clean left right divide, and many Koreans had mixed views
+- This did not lead to the Korean war alone, but was spurred by the defeat of Germany and Japan in WWII
+- The most impactful actions were the detonation of the first atomic bomb and the 1941 Soviet-Japan neutrality pact
+- Stalin declared war against Japan, occupying Manchuria, Sakhalin, and Northern Korea
+- Historians have argued that the Soviets declaring war on Japan had more of an impact on their surrender than the detonation of the atom bomb
+- This development sent the US into a scramble attempting to limit Soviet presence in China and Korea
+- Two colonels were ordered to decide how to divide the Korean peninsula to limit Soviet expansion
+- They were given 30 minutes to decide and picked the 38th parallel, a line that would divide the landmass fairly equally while also keeping the Korean capital of Seoul on the American side
+- Stalin agreed to this dividing line in an attempt to appeal to the US to get a better deal in Japan
+- Showed a willingness to work with the US, and the two were allies at the point
+- Marked the beginning of the US's policy of limiting Soviet expansion with little to no input from the countries they were acting in
+- This had momentous consequences for modern Korea, the Koreans just wanted to be free from foreign rule, not just changing hands to two new powers
+- In the following 3 years after the split, Korean leaders on each side decided to unify the country via military means
+- Therefore the civil war was caused primarily by Japanese colonialism, the divided Korean nationalist movement, and the division of Korea along the 38th parallel
+
+The Korean War: From Civil to International Conflict
+
+- The Korean Peoples Republic was established in 1945
+- However, this was dismantled by the American occupation in the southern region
+- The Soviets worked with the peoples republic and almost gave power to a non-communist, but eventually settled on Kim Il-Sung
+- The US and Soviets created the Joint Commission to create a provisional government for the whole peninsula
+- Created a 4 power trusteeship to last for 5 years before letting Korea rule itself
+- However, this concept fell apart due to disagreements
+- Syngman Rhee led an anti-communist group that refused to agree with any joint settlement, and wanted a separate southern government
+- Helped consolidate his political power
+- Looking at the Chinese civil war, Rhee thought it necessary to separate the Korean communists before civil war broke out
+- His true goal was to create a unified non communist nation
+- Believed that the communists were just Soviet puppets and could be easily suppressed
+- The US planned to have a separate southern state early on
+- Ordered South Korean officers to seek out and expel leftists
+- Undermined the Joint Commission
+- Soviets only wanted to work with those who recognized the joint commission
+- The military was crucial to Kim Il-Sung's rise to power
+- A national North Korean army and military academy rose soon in the occupation
+- Korean communists had war experience from fighting alongside Chinese communists
+- US went to the United Nations to establish a separate southern nation
+- Initially wanted to hold elections in both halves but only ran one in the south, where Syngman Rhee was elected president of South Korea
+- Soon after, the DPRK was established to counter the South Korean government
+- Both claimed to rule the entire peninsula
+- The announcement of South Korean elections led to violent clashes on Jeju Island
+- Koreans supporting the Korean People's Republic revolted, and were massacred by the South Korean government
+- Called a politicide, or a mass killing of political opponents by many historians
+- Many refugees fled to Osaka, and eventually went to North Korea
+- Clashes on the 38th parallel were common during 1949
+- Both regimes turned to their superpower supporter for military assistance
+- Truman refused Rhee's request for guns and support, and so did Stalin at first
+- However, he changed his mind after seeing the success of the Chinese revolution
+- Stalin did not want to intervene directly and instead suggested enlisting the help of Chinese communist soldiers
+- The military crossing of the 38th parallel began on June 25, 1950
+- They almost succeeded on unifying the peninsula, but failed once the US called on the United Nations to enter the war
+- Chinese troops later entered the war, marking the first time Chinese soldiers fought against Americans
+- It is believed that the US entered the war for ideological reasons
+- Truman believed that the USSR was a totalitarian government similar to Nazi Germany, and thought of Soviet expansion as something that needed to be stopped
+- They also believed that Stalin started the war, not the Koreans
+- Believed that Soviet imperialism was the main motivating force for the war
+- The US had also recently signed the North Atlantic treaty for the purpose of containing the USSR
+- They had also recently signed NSC 68, which encouraged mobilizing the western alliance against the USSR
+- Has been described as a cataclysmic picture of ideological struggle
+- Led to a rapid buildup of US military in the Korean War
+- Significantly expanded the military industrial complex
+- The secretary of state of the US called the war "an absolute godsend" because it gave them an excuse to use their rearmament plans
+- Also connected to gaining the support of the UN to justify higher military spending
+- The UN was very useful to the US because the soviets were boycotting the UN at the time to protest China's spot on the security council
+- Therefore they were unable to use their veto
+- Neither Korea was a member of the UN at the time
+- Highlighted the irony of the war being a civil war
+- The UN commander commented on how beneficial the war would be to Japanese businesses
+- Backed by smaller forces from a variety of other UN nations including Canada
+- US crossed the 38th parallel in the summer of 1950
+- The Chinese government warned not to cross the parallel
+- Mao became concerned with US and UN soldiers reaching Chinese borders, and sent soldiers
+- Chinese soldiers occupied Seoul again
+- Battle lines stabilized around the original borders in 1951 and armistice negotiations began
+- By the time armistice negotiations began, millions of Koreans had been displaced and became refugees
+- Created a major humanitarian crisis which was worst in North Korea, due to US bombers considering civilians "enemy combatants" and leveled entire towns regularly
+- Even during the armistice negotiations, American bombers targeted important dams in North Korea, causing many more civilian casualties and crippling North Korean infrastructure
+- Marked as the most severe level of bombing ever seen up until this point, even worse than WWII
+- After Stalin's death, Americans threatened the Chinese and North Koreans with nuclear war if they did not sign
+- American magazines boasted that nuclear diplomacy won them the war, but likely was actually because of how crippled the Chinese economy was at the time
+- The war never truly ended and continues to this day
+- Also speaks to a legacy of decolonization with the Korean peninsula representing a nation frozen in a state of decolonization

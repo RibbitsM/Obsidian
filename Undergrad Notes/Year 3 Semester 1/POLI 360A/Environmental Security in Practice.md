@@ -1,0 +1,41 @@
+- Post-Cold War, the Clinton administration took an interest in restructuring national security, and took significant influence from academic advisors to create the 1994 National Security Strategy
+- Acknowledges the importance of non-military security risks including terrorism, drugs, and most importantly environmental degradation and overpopulation
+- Acknowledges the transnational effects of environmental threats
+- Influenced heavily by Clinton's advisor, Strobe Talbot
+- Widest approach to security to date employed by a US president
+- Russia also adopted environmental security into its security strategy
+- Early example of environmental security in diplomacy was when Olof Palme referred to the use of herbicides in warfare as "ecocide"
+- This was in 1972 at the UN Conference on the Human Environment and was a thinly veiled dig at the US's use of Agent Orange in Vietnam
+- Adoption of environmental security has become common among Western countries, mostly North America and northern Europe
+- Outside of the west these ideas mainly take the form of anti-capitalist doctrines and emphasis on Indigenous knowledge
+- Examples are the constitutions of Ecuador and Bolivia that enshrine nature's right to exist
+- Brazil has notably mobilized its military force to protect environmental security
+- National Environmental Security Force uses armed forces to combat illegal logging in the Amazon
+- Countries most invested in environmental security are low-lying island states like Tuvalu and Mauritius that may be wiped off the map entirely by climate change
+
+**Merits and Demerits of Securitization**
+
+- Three main views on this issue
+- First are the traditionalists who prioritize state security
+- These thinkers generally disagree on the true extent of the threat posed by environmental challenges
+- Impact is difficult to measure and is extremely uneven
+- Sometimes outright deny or ignore smaller scale impacts of climate change, Tuvalu for example
+- Some traditionalists may also just stick to a state and military-centric view of IR
+- If environmental issues can threaten the state or start a conflict then they are part of security, otherwise they're not important
+- Similar to early views on "resource wars" and overpopulation
+- The next view is those of advocates for securitization
+- These thinkers agree that security should be broadened, and that environmental threats are legitimate
+- Don't stick to the conventions of IR, and accept security challenges outside of the purview of the state and military
+- They agree that the environment should be a security concern for states
+- The last view is those of opponent of securitization
+- These thinkers agree with the second viewpoint about the extent of environmental threats
+- Not denialists, but disagree that environmental threats should be addressed by security measures
+- Could potentially lead to disproportionate military measures and unreasonable national security strategies
+- Traditional methods are appropriate for responding to environmental crises, no need to expand the definition
+- Little to gain from getting the military involved with natural disasters, could just cause more problems
+- Could also provide further precedent for aggressive intervention in the name of environmental security or military isolationism to protect resources
+- Environmental degradation may cause conflict and insecurity, but does not itself pose a security threat
+- In conclusion, opponents to environmental security are not only denialists but also environmental thinkers concerned about militarism
+- Immediate solutions, especially technological developments and reactionary policies are the most appealing
+- However, addressing root causes on environmental vulnerability is the real goal
+- Similar to the prescriptions of human security, prevention not cure

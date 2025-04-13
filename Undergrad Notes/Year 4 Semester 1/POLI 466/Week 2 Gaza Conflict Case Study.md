@@ -1,0 +1,6 @@
+- An important question to consider with the definition of genocide is where else it could apply
+- There have been multiple commissions in Canada that have determined that genocide has been and still is being committed against indigenous people by the federal government
+- It's not like Canadian leaders will be tried at the ICC or that another country will file a case against us, but Canada has an obligation to do everything possible to stop this
+- We didn't start the fire, but signing the Genocide Convention imposes a legal obligation on us to put it out
+- Entire swathes of the Canadian government like the RCMP, health care, or foster care systems contain systemic biases targeting indigenous people
+-

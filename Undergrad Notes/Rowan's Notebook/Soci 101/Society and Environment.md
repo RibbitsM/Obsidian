@@ -1,0 +1,71 @@
+- Critical and Optimistic perspectives
+- Treadmill of production, metabolic rift, and ecologically unequal exchange are critical
+- Ecological modernization, reflexive modernization, and world society
+- Critical perspectives generally focus on how human consumption cannot be satisfied by the environment
+- Optimistic perspectives generally focus on how climate crisis can increase unity and innovation
+- Critics see economy and environment as in conflict, optimists believe they can be in unity
+- Differences on the effectiveness of development
+- Perspectives are diametrically opposed
+- Metabolic rift: think of overfishing, more taken out than put in
+- Ecologically unequal exchange: electronic waste is not recycled in many countries, leading people in less developed nations to develop health issues while extracting resources from e-waste
+- Anthro-shift is a theory that lands somewhere in the middle
+- Poses that we need to wait to see how people respond to the climate crisis
+- Air pollution increases risk of mental illness
+- Microplastics in everything
+- Forever chemicals, can't break down and a vast majority of the population has been exposed to them
+- Many species at risk of extinction for several reasons including habitat destruction
+- Pesticides are affecting soil organisms
+
+Deforestation
+
+- Deforestation is a particularly significant issue
+- 10 million square km of forest lost since the 20th century
+- Beef, soy, palm oil, and wood products are usually why deforestation occurs
+- Rate of deforestation has decreased over time
+- Canada has 3rd highest rate of deforestation
+- Vast majority of deforestation occurs in South America and Africa
+- Increases in forest cover in other continents
+- Majority of forests are unprotected
+- Forest loss happens for different reasons in north and south america
+- Usually due to forest fires in north america, but is due to clear cutting in south america
+- Deforestation of the Amazon is reaching critical levels
+- Approaching a point where the Amazon will cease to be a rainforest and dry out to become a savannah
+- This will create incredible amounts of CO2
+- Climate change has made many forested areas unsuitable for trees, and when burned will not grow back
+
+Climate Change
+
+- Steady increase in atmospheric CO2 since 1960
+- Temporary drop in carbon emissions from pandemic has rebounded completely
+- Past 7 years were all the hottest on record
+- Per capita, Canada and the US emit much more carbon than places like China
+- Most oil producing countries also have high per capita emissions like Saudi Arabia and Kazakhstan
+- Current and pledged climate policies are still far from enough to limit global warming
+- Current climate data is inaccurate and could potentially be 23% worse than thought
+- Fossil fuel subsidies across the world are dropping but still very high
+- Support for fossil fuels in Canada is still very high
+- Canada's carbon emissions have risen 20% despite climate action policies
+- The earth will eventually reach equilibrium
+- This equilibrium is reached through much more violent means than initially thought
+- Possible that environment will again reach a point where trees can grow in Antarctica
+- Canada has enormous amounts of carbon stored in it's soil
+- Canada warming at twice the global rate
+- Northern Canada is warming three times as fast
+- Can lead to wildfires, food insecurity, extinctions, invasive species, melting ice
+- In the past 6 months BC has experienced a heat dome, record wildfires, and destructive flooding
+- Richmond and Delta could be underwater by 2050 due to sea level rise
+- Major political parties continue to ignore or deny climate change
+- Climate zones are being redrawn
+- 19% of the world could be uninhabitable by 2070
+- Tipping points for many issues instead of slope
+- Climate migration already occurring in US and Canada
+- Rate of kidney failure rising because of working outdoors in heat
+- Extreme wildfire events more common
+- Paradise, CA was one of the worst wildfires in history
+- Town wiped off the map, 85 people died
+- Caused a drastic population drop in Butte County
+- Housing costs skyrocketed in the area
+- Caused the neighbouring town's population to grow drastically, affecting infrastructure
+- Young adults are generally more concerned with climate change
+- Canadians are less concerned with climate change than most of the developed world
+-

@@ -1,0 +1,8 @@
+- Forming the essential meaning of the article
+- Done by writing the essential meaning of each paragraph
+- Reading strategy used to comprehend complicated sources
+- A method of preventing plagiarism as well, an alternative to writing straight from the text
+- Capture meaning of each paragraph but IN OWN WORDS
+- Not full sentences, usually just keywords
+- Simplify as much as possible
+- Use symbols like arrows, colons, etc. to connect ideas

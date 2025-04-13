@@ -1,0 +1,26 @@
+- Shrinkage or regularization methods are used to continuously shrink coefficients
+- We do this by adding a bound on their size, and we have two methods we use to do this
+- First is the ridge method which uses beta squared, and lasso uses the absolute values of beta
+- Ridge method is called L2-norm and lasso method is called L1-norm
+- This process will bias our estimated coefficients, but this is usually a fair tradeoff for a lower variance
+- When examining these processes on a graph, the ridge method appears as a circle of off-limits values while the lasso method appears as a square
+- This reduces the RSS by limiting the range of the errors
+- Generally, the shape of lasso is better for variable selection
+- Ridge does not shrink parameters to zero so we use it to solve multicollinearity instead
+- Lasso stands for least absolute shrinkage and selection operator
+- On the other hand, lasso does shrink coefficients to zero, meaning it can remove coefficients from a model
+- Also can simultaneously train a model
+- Mathematically, the equation is the same as least squares error, but subject to a restriction
+- This restriction is from the value lambda, which is called the penalty parameter
+- If lambda is zero, then it is functionally identical to the LS method
+- As lambda increases, all coefficients will go towards zero
+- With ridge, they would approach but never reach zero but lasso can go all the way
+- We can select lambda using the data through a process called tuning, which is done internally through cross-validation and doesn't use test data
+- To do this in R we need a new function, called glmnet() in the glmnet package
+- Set alpha = 1 to do lasso, and alpha = 0 to do ridge
+- By default, the function will give you a grid of lambda values and you can do cv.glmnet() to perform a cross validation to find the optimal value
+- Alternatively you can select your own lambda value
+- Btw this function only takes data in matrix form, not dataframes
+- Lasso is not always better than LS, and often the difference is quite small
+- We usually compare them by RMSE
+-

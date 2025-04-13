@@ -1,0 +1,7 @@
+- We can also use shrinkage methods with binary logistic regression
+- Use the Ridge loss function and try to minimize it by adding a penalty, functions similarly to lasso
+- Unlike in linear regression, we're not as concerned with reducing coefficients to 0, hence why we use ridge instead of lasso
+- We calculate performance using auc, or area under curve
+- Just like lasso we need to run cross-validation as well to find the lambda value
+- We can also use lasso, but depending on the model it might perform worse or better than ridge
+-

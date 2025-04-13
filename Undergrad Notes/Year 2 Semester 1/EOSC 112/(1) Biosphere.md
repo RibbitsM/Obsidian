@@ -1,0 +1,21 @@
+- Life on earth is not just shaped by the earth, but has a significant impact on the rest of the earth
+- Oxygen is not requires for life, some extremophiles live in anaerobic environments
+- Carbon, Nitrogen, Phosphorus and a source of energy are required for life
+- Another key part of the biosphere is the recycling process
+- These materials can be reclaimed from waste and dead organisms and brought back into the ecosystem
+- Timescale is much shorter than those of the lithosphere, hydrosphere, and atmosphere
+- Carbon and phosphorus come from the weathering of the lithosphere, nitrogen and oxygen come from the atmosphere
+- Liquid water is an essential ingredient for recycling
+- It also provides a method of transport for many nutrients
+- Liquid water can only exist at certain temperatures, limits life to certain conditions
+- Water has an excellent molecular shape for dissolving nutrients, and can traverse the cell barrier
+- It exists in all three phases on earth
+- Species in the biosphere interact with eachother in an ecosystem
+- Energy from the sun, C02, and inorganic nutrients are converted into biomass by autotrophs
+- Chemoautotrophs use processes other than photosynthesis to do this
+- Fix carbon into biomass
+- Autotrophs are eaten by herbivores, who are eaten by carnivores
+- Energy is lost as heat by all living organisms
+- Dead organisms are recycled back into the ecosystem by decomposers
+- 6 C02 + 6 H20 + trace elements + energy = carbohydrates (C6H1206) + 6 02
+- Oxygen is a by product of photosynthesis, used by heterotrophs for cell resp

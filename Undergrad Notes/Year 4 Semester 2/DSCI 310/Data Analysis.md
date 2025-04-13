@@ -1,0 +1,6 @@
+- All import statements should go at the top of your document, depending on the style guide these imports will be ordered differently
+- For your milestone one analysis, begin by cleaning your data before beginning eda
+- What you want to be able to do is split your analysis into several different R scripts
+- This way you can write a bash command that runs all of these scripts in order, and paste that into your readme to make it easy to reproduce
+- We have another special file we can use called Makefile
+- In this file, we can run bash scripts similar to a .sh file

@@ -1,0 +1,17 @@
+- Alternating bands of geostrophic flow create gyres
+- High pressure in the ocean is aligned with atmospheric highs
+- The ocean is not flat, there are real hills in the center of subtropical gyres
+- Currents flow in gyres around these hills
+- These gyres are not symmetric, they are crunched to the western side
+- Something called the conservation of potential vorticity causes this
+- This creates fast currents on the western side and slower currents on the eastern side
+- For example, the gulf stream on the coast of North America is much faster and narrower than the canary current along Europe
+- Fast boundary currents are also much deeper
+- Gulf stream carries warm water from equator to poles, canary current carries cold water from poles to the equator
+- On the eastern side of oceans, the water is much colder
+- This is because of both boundary currents and coastal upwelling
+- Plastic tends to accumulate in the center of gyres
+- Pacific garbage patch is mostly microplastics rather than large hunks
+- This is why cleaning is so difficult and consumption is so harmful
+- Currents are used to plot sea voyages, sail with not against the current
+-

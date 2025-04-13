@@ -1,0 +1,85 @@
+**Lecture 1**
+
+- MNCs have generally sought to escape from government issues, leaving governance in the hands of the state
+- With the rise of CSR the priority has shifted to encouraging MNCs to act within guidelines of social justice in exchange for a better public image
+- Many agree that MNCs are too powerful to effectively control via legal means, preferable to just lead them in the right direction with incentives
+- Even the strongest states like the US have realized they cannot govern MNCs on their own
+- In the earlier years of the 60s and 70s, MNCs were seen as objects of governance
+- Recently, this has shifted to include MNCs as a source of governance
+- Instead of controlling their behaviour, some have begin to think about partnering with MNCs to augment the capabilities of the state
+- Where governance used to refer only to states, MNCs and NGOs are now playing roles in global governance
+- The state is no longer the sole provider of authority and public goods
+- MNCs are not exactly enthusiastic about this, they see being a partner in governance as a diversion from their primary goal of generating profits
+- There must be a tangible incentive for MNCs to participate for them to be interested
+- Now that firms are much more sensitive to their public image, there is an effective way to motivate them
+- But who are MNCs supposed to be accountable to? And who are they holding others accountable to?
+- The usual answer is some list of principles, in the absence of any sort of higher global authority
+- The goal of the Global Compact is not just to set out these principles but to give the MNCs that sign on to it the power and knowledge to act on those principles
+- John Ruggie was the UN Special Representative for Business and Human Rights from 2005-2011
+- Produced a series of principles for businesses to follow to effectively uphold human rights, unanimously endorsed by the UNHRC in 2011
+- In his own words, the UN does not have the same kind of reach that businesses do
+- The UN is dependent on its member states, while MNCs can act unilaterally and globally
+- MNCs are not restricted by international borders, they do have to operate within the constraints and laws of states but they exist globally, across many nations
+- More than any other kind of international actor, MNCs have an inherently liberal and open view of the world, prioritizing free flow of information and capital
+- The product is a set of 10 principles, very simple and all drawn almost directly from the Universal Declaration of Human Rights
+- Divided into Labour, Environment, Human Rights, and Anti-Corruption
+- MNCs not only have the responsibility to uphold these rights in their own operations, but to promote them in the countries where they operate
+- For example, they do not only pledge not to commit human rights abuses, but also to not be complicit in them
+- MNCs should not employ child labour, but that also means they should not be including it in their supply chains
+
+**Lecture 2**
+
+- According to many liberal theorists, the trickle-down effect means that the mere presence of MNCs in a country will improve quality of life
+- But this is on the firm's terms, if local groups try to pressure MNCs to actively promote change they might simply leave
+- In summary, the mandate of the Global Compact is to promote CSR among IGOs, NGOs, and MNCs
+- Main criticism is the inadequacy of the obligations the Global Compact places on the MNCs
+- Worst sanction the Compact can impose is kicking the company out which just frees them from their obligations
+- Flawed logic, if a company can't follow the rules then there was no point in them joining in the first place
+- Really just a badge of approval for MNCs to adopt without doing anything
+- Concerns that this will end up discrediting the Compact and CSR as a whole
+- The acronym of CSR is new in the last two decades, but the idea of corporate responsibility is much older, dating back to the industrial revolution
+- Typically, the goal of corporations is solely to maximize profits
+- This is what Milton Friedman believes, that this is the sole social responsibility of all corporations
+- CSR is a new norm, it is very unlikely that right now corporations have moved away from this profit maximization behaviour
+- But this is not a fixed fact of life, if we continue to push the norms of CSR we can reshape the priorities of corporations
+- It doesn't matter that the Global Compact's Ten Principles are not having an impact right now, its what they do in the long run
+- According to most thinkers, namely Levy and Prakash, MNCs tend to evade international controls and prefer market enabling regimes
+- Domestic regulatory regimes are fine, but not international ones
+- But constructivists believe that CSR can change this
+- For skeptics, its quite possible that MNCs just see programs like the Global Compact as an opportunity to improve their public image without doing anything to damage their bottom line
+- Pre-empting regulation through symbolic politics, making themselves look better than they are
+- Ruggie is aware of this, and it is a major concern for the Global Compact
+- Global problems and the global agenda transcend national concerns, but are still constructed from national institutions and ideology
+- But what institutions and what ideologies dominate?
+- In Western philosophy this idea dates back to Plato and Aristotle, specifically Aristotle's comparative analysis of the constitutions of various Greek city-states
+- How can you measure the validity of one way of life compared to another?
+- Currently, our international system is based on the neoliberal economic order, which was constructed at the Bretton Woods agreements post-WWII
+- What we think of as a global ideology is just a blown-up projection of a state ideology
+- Recall that globalization is a double-edged sword, it poses opportunities and threats
+- Prior to 9/11, we usually thought about globalization as being about opening borders and shrinking the role of the state, but this isn't the case now
+- Another product of globalization is the projection of state ideologies onto the global scale, not just neoliberal ideals
+- We think of international relations as a non-space, almost every populated location in the world can be defined as a state or related to one
+- Therefore, all ideology inherently comes from a state context
+- We're currently seeing a shift from the international system being primarily based on states to a growing emphasis on non-state actors
+- Think about the pandemic, the vaccine would have taken years to produce without MNCs
+
+**Lecture 3**
+
+- Global justice model exists as an alternative to the neoliberal world over
+- World Economic Forum vs World Social Forum, which is more widely known and covered?
+- Once upon a time, international summits like this consisted of politicians and bureaucrats, but the WEF is made up of mostly international economic elites
+- A good example would be conflict between WTO Trade-Related Intellectual Property rights (TRIPs) and NGOs advocating for free access to HIV/AIDS medication
+- Economic vs social order
+- More recently, we can look at WHO campaigns against vaccine nationalism during the pandemic
+- MNCs have the ability to influence host governments, but are also influenced by the regulatory environment
+- During the Cold War (80s-90s), the regulatory environment was mainly negative to MNCs
+- Internally, MNCs were actively seeking to influence public policy in their home country as well as their hosts
+- FDI moving across OECD countries, but particularly concentrated in Japan and the Asian Tigers
+- After the fall of the Berlin wall, opportunities open up in the Baltic states and other former soviet states
+- Today, the regulatory environment is more positive and encourages economic integration and free trade
+- However, MNCs are now encouraged to act as partners to governments rather than independent entities
+- Internally, MNCs have expanded their capabilities in almost every aspect and seek partnerships with other states, exploit new governance structures and have reorganized to reflect globalization
+- Regardless of regime type states tend to attract FDI for economic growth
+- No longer concentrated in just OECD countries, happens all around the globe
+- Instead of firms seeking countries to influence, countries are actively trying to facilitate investment
+- Overall global policy is to enhance the strength of MNCs and encourage participation in CSR and other policy programs

@@ -1,0 +1,10 @@
+- El Cid es un buen ejemplo de una historia de ascensión social en España
+- La palabra hidalgo viene del frase "hijo de algo", significado algo importante
+- En el tiempo de Don Quijote, un hidalgo significa caballero andante
+- La novela es un género de ficción sobre una persona que es en una clase donde el o ella no pertenece
+- El Cid es un excepción, en muchas historias la protagonista es realmente un rey o príncipe, pero El Cid es realmente un infanzón que convierten como rey de trabajo y inteligencia
+- La nobleza necesitan dinero también, porque la burgueseria iban subiendo en la edad media
+- Hemos visto las protagonistas burgueses en LBA y más
+- El Conde Lucanor es prosa didáctica como LBA y enseña un mensaje, pero es más serio
+- No sátira, los morales son directos y simples
+-

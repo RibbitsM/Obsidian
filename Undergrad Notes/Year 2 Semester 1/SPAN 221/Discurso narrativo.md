@@ -1,0 +1,10 @@
+- Todas historias se tiene un argumento, pero también hay construyen de elementos lingüísticos
+- Este son las partes del discurso narrativo y incluyen descripción, diálogo, narración, el organización, y el tono
+- Diálogo no es solo entre dos personas, puede ser un monólogo, o un conversación interior, como un fluido de consciencia
+- Hay primero dos tipos de discurso
+- Hay discurso literal, y discurso figurado
+- El discurso literal es cuando el lenguaje refiera directamente al un objeto o persona
+- Discurso figurada refiera a símbolos, imágenes, metáforas, etc.
+- A veces un símbolo es tan común que todos recogen, este se llama un arquetipo
+- El discurso determina el estilo del autor
+-

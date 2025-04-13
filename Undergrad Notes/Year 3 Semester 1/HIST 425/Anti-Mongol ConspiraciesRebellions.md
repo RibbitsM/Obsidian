@@ -1,0 +1,98 @@
+- The Shaolin monastery infamously had martial artists tasked with defending the property
+- When the Yuan dynasty began to fall, bandits called the Red Turbans attempted a raid on the monastery
+- A monk rushed out of the kitchen holding a kitchen tool and suddenly appeared as a Bodhisattva, terrifying the bandits who ran away
+- This is an important part of the lore of the monastery
+- After the Red Turban rebellion the monastery was abandoned for about a decade, but was repopulated
+- The monks were called on many times by the Yuan to go to war
+- The cook monk from the story earlier was commemorated as the guardian deity of the Shaolin monastery
+- Zhu Yuanzhang was born into extreme poverty and most of his family passed away by the age of 9, leaving only Zhu and his brother
+- They relied on the charity of Buddhist monasteries to survive, but could not afford to be ordained as a full monk
+- When the Red Turban revolt occurred, his monastery was destroyed and Zhu joined the rebels to survive
+- He became the lieutenant and son in law of the proclaimed buddha incarnate rebel leader, Guo Zixing
+- Zhu eventually became the emperor of the Yuan after starting life as a Buddhist monk before joining the Red Turbans
+- This is one of the first examples of religious groups being used in war, with the Shaolin monks and their staff wielding protector as an example
+- Religion can multiply force, increasing the effectiveness of fighters
+- Religion can augment force, increasing the number of fighters
+- Religion can concentrate force, which can increase effectiveness in a certain area, concentrating troops in a single place
+- Overall, religions mobilize and coordinate people and are especially useful for insurgencies
+- Violent conflicts are often rooted in religion, as it is an important source of social identity
+- Often the dividing line between "us" and "them"
+- Going back to Khaldun, he also saw religion as a key tool for strengthening 'asabiyya or group solidarity
+- Unites people under a common purpose, making them stronger than an organization made of self interested peoples
+- Mongol rule was usually pretty tolerant of different religions, as long as you weren't openly anti-Mongol
+- They gave benefits and gifts to many sects, temples, and monasteries and gave tax exemptions to clergymen
+- However they were not always neutral, for example when Taoist and Buddhist groups came into conflict in China
+- The Mongol loved a debate and had them participate in an ongoing Great Debate, which the Buddhists eventually won
+- The Mongols then forced the Taoists to pay restitution and let the Buddhists have their temples back
+- Tibetan Vajrayana Buddhism was quite popular among the Mongol elites, and began to replace traditional Chinese Buddhism
+- In fact they liked it so much that Khubilai Khan gave the entire territory of Tibet to the Sakya sect of Buddhism
+- Predating the Yuan, there was a movement to make Buddhism less exclusive and bring it to the masses
+- Prior to this, "real" Buddhism was restricted to devoted monks whose whole life revolved around the religion
+- By making it less restrictive, normal people could participate without giving up significant parts of their life
+- "Pure Land" schools promised rebirth in a paradise instead of focusing on achieving enlightenment in your current life
+- This paradise was controlled by Amitabha Buddha and the Buddha that would be created here was Maitreya
+- Allowing laypeople into Buddhism allowed for plenty of innovation, for better and for worse
+- Especially compared to Abrahamic religions, the canon of Buddhist mythology is massive, with 84,000 plus texts
+- This makes it pretty difficult for the average person to tell if a Buddhist text is canonical or not
+- This led to a lot of heretical tests about the coming of the Maitreya Buddha or the "Bright Dharma King"
+- These texts depicted the world as a terrible place that would only become worse, until the coming of Maitreya who would establish a utopian peace
+- Around this time, the White Lotus school was founded which emphasized social activism, vegetarianism, and the worship of Amitabha and Maitreya
+- This sect combined elements from other sects like Taoism and potentially Manicheanism
+- Seems to be entirely orthodox, but many people who joined were heavily influenced by these heretical texts
+- One of these texts was the 5 Lords Sutra that had been banned several times, and focused on a messianic Bright King story
+- Strong influence of egalitarianism
+- Made the Buddhist establishment highly uncomfortable, and repeatedly asked the Yuan to ban the White Lotus
+- Qubilai was followed by a succession of 9 khans all with regimes troubled by war, corruption, assassination, civil war etc.
+- Lots of problems in the succession system along with external issues
+- Effective power was mostly in the hands of notable chancellors in the court
+- This was also the time of the Little Ice Age which was characterized by global cooling, especially in Europe and China
+- This disrupted the monsoon patterns causing long winters and droughts in the northern plateau and heavy rains and cataclysmic typhoons in the south
+- Plagues of locusts and disease also ravaged the region, especially in the already harsh plateau regions
+- Basically all animals on the Mongolian plateau died, causing a mass exodus into China looking to the state to support them
+- The Yuan spent enormous amounts of money on relief that basically emptied the state treasury
+- In fact, a lot of the infighting in the Yuan dynasty was Mongol princes fighting over the remaining money
+- The Yuan policy of donation and aid eventually led to their downfall
+- The Han Chinese were also suffering, and many still remembered the Song Dynasty fondly
+- This was made worse by an anti-Chinese government purge carried out by the Mongol government, proposed by Bayan the Merkit
+- An estimated third of the population of China died in this period, and reports of cannibalism were common
+- There was a massive flooding of the Yellow river, basically turning the central plains of China into an enormous lake
+- All of this misery provided the fuel of rebellion, all that was needed was the spark of leadership and the oxygen of a future vision
+- There was a mass exodus from North China to settle south of the Yangtse River
+- Many different bandit groups formed, rose, and fell
+- Smugglers and piracy were common off the coast
+- Lots of unrest, but nothing organized that posed a risk to the Yuan
+- The problem was that the scholar class that usually provided the framework for rebellion, were either in the Yuan's pockets, or terrified of the Mongols
+- Examining the Rebel's Dilemma, the risk of joining a revolt is much greater than the risk of shunning the revolt
+- Acting alone is suicide, but forming a group increases the risk of being discovered
+- Already an insurrectionist slant to White Lotus teachings, several White Lotus monks have denounced the Yuan saying that Maitreya was coming
+- The itinerant monk Peng Yingyu was especially good at radicalizing young men, and went around teaching the word of the White Lotus
+- Used religious meetings to see if people were open to insurrection
+- Religion as a pretext for revolutionary movement, connection to modern Islamic terror movements
+- By recruiting highly religious people, Peng Yingyu managed to keep his movement much safer than it other wise would have been
+- He would move town to town, leaving his recruits to spread unrest in his wake
+- The Yuan were beginning to see success in the central plains, carrying out massive engineering projects to deal with the flooding
+- Unfortunately, this was all done with corvee labour which made the government even less popular
+- At this time, Peng Yingyu came to the central plains in Anghui and began creating more cells
+- One person who may have been involved was Han Shantong, a White Lotus believer who planted a false prophecy on an idol that he buried next to the river
+- When the next flood came, the statue was unearthed with the supposed prophecy of Maitreya, spurring local people to rise up
+- With Han Shantong as the leader, he began to raise a huge rebel army, giving himself the title of Bright King
+- After Shantong died, leadership passed to his son Han Lin'er where it blossomed further, becoming known as the Red Turbans
+- The goal of the red turbans were to fight the army of demons and bring about the golden age of Maitreya
+- Conquered 200,000 square miles in the Middle Yangtse region, forming their own dynasty (Tianwen) led by Xu Shouhui (different from original group)
+- Egalitarian movement fuelled by religious fervour, no killing or plunder of non-combatants except for the rich
+- This uprising was an existential crisis for the Yuan, and turned to their only competent chancellor, Togtoq, to fight it
+- While public unrest was widespread, the Han Chinese gentry were still on their side due to the kill the rich mentality of the Red Turbans
+- Many Chinese elite formed local militias, which was supported by the Yuan
+- A new army was created, the "Yellow Army" which was an enormous force raised through conscription
+- Finally, there was a rotation of local commanders to prevent warlords from forming independent fiefdoms
+- Retook most of the cities taken by the Red Turbans, pushing them back into the country
+- Right before he was about to finally crush them, Togtoq was removed from power by his enemies in the court
+- China soon descended into chaos, as the Red Turbans retook their losses and began to fragment into rival chieftains who were less loyal to the religion
+- Without the rotation of commanders, gentry militias began to form warlord domains
+- The largest naval battle in history occured on Lake Poyang in 1363, involving 850,000 people
+- No Mongols involved, entirely fought between former Red Turban commanders, being Zhu Yuanzhang and the successor of Xu Shouhui
+- By 1367, Zhu Yuanzhang had united the anti-Yuan forces and renounced connection with the Red Turbans and their religion
+- With a now united secular army, he made a final push towards the North
+- The result was that the Yuan retreated to the mongolian plateau, and the Han Chinese Ming Dynasty was finally established in 1368
+- Zhu Yuanzhang was now Emperor Hongwu
+- Ming, meaning bright, echoed the Red Turban prophecy

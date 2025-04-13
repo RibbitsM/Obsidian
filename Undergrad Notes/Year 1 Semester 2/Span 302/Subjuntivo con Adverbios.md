@@ -1,0 +1,21 @@
+- Los adverbos modifican los verbos
+- Tambien habla de conjunciones
+- Son estructuras por conectores
+- El vuelo va a despegar en cuanto aborde el ultimo pasajero
+- Conjunciones adverbiales son adverbos que funcion como un conjuncion
+- El vuelo va a despegar cuando aborde el ultimo pasajero
+- Siempre seguida con subjuntivo
+- A fin de que, para que, en caso que, etc
+- Para y sin plus infinitivo no necesita "que"
+- Estudiar con las dispositivas
+- La diferencia entre para que y solo para es necesita usan par cuando hay un cambio en subjeto
+- Con de modo que y de manera que, usan subjuntivo cuando expresa intento y usan indicativo cuando expresa resulto
+- Aunque is muy comun, usan subjuntivo cuando algo es incompleto o un hipotesis
+- Tambien usan por el dudo
+- Usan subjuntivo cuando habla de tiempo, con antes de que, apenas, cuando
+- Cuando no hay que, uso subjuntivo
+- Hasta que nos registre vs hasta registrarnos
+- Cuando no hay que y no hay cambio de sujeto, es infinitivo
+- Cuando es un accion futura y pendiente, es subjuntivo
+- Cuando es accion completa, es indicativo
+-

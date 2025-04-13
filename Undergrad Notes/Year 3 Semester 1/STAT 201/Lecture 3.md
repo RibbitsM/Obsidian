@@ -1,0 +1,8 @@
+- Sampling distribution is the graph of a parameter of the sample
+- EX. Distribution of sample means, medians, variance, etc.
+- Given a fixed sample size and population, we know the sampling distribution of any given parameter, since it is determined by the sample size and population
+- Therefore, if we know the sampling distribution then we can use it to find the population parameter
+- The peak of the sampling distribution will be the population parameter, no need to estimate
+- The peak of the bootstrap distribution will therefore be the sample mean
+- Effectively the sample is the population, and the bootstrap distribution is it's sampling distribution
+- By the same logic, as the sample size increases, the bootstrap distribution narrows

@@ -1,0 +1,8 @@
+- Don Juan, agoniza
+- Don Juan duele?
+- Una problema porque es un mandato
+- Error de estilo?
+- La frase "Don Juan, Agoniza" es un mandato por Don Juan
+- La frase "Don Juan agoniza" es presente y indicativo
+- Ambos son correcto gramaticalmente, pero solo uno es apropriado por el contexto
+-

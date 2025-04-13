@@ -1,0 +1,34 @@
+- Final topic is analysis of variance
+- Also called ANOVA, tests the equality of three or more means by analyzing variances
+- If we have a test on four samples with quantitative response variables and categorical explanatory variables, we can do what is called a one-way ANOVA test
+- Say we have 4 machines that manufacture rubber, and we want to measure the tensile strength of 5 pieces of rubber produced by each machine
+- Total sample size is 20, made up of 4 samples of 5 observations each
+- This is a balanced test, since all samples are the same size, this is not necessary for ANOVA
+- We have four levels of factor (one for each machine) and 5 replicates for each level
+- Usually for multi sample analyses we calculate the different in statistics
+- However, this is difficult to apply to more than 2 groups
+- For how to construct the hypothesis test, H0 is u1 = u2 = u3 = u4 and our alternative hypothesis is that at least one mean will be different
+- When we have multiple groups we can test their means by comparing the variances
+- When doing ANOVA, k refers to the number of populations we are examining
+- Other alternative hypotheses could be all means are different, or two or three means are different
+- We assume that the distributions of these populations are identical and normal, with the same variance
+- We also assume this data is independent
+- We also use the notation yij where y is the jth observation in i population
+- For example, the 5th observation in the 3rd population would be y35
+- Variation is measured in sum of squares (variance)
+- We have variation between groups, and also variation within groups
+- The total variation is found by adding variation between groups (SSTr) and variation within groups (SSE)
+- Overall variance (SST) is the squared difference between every individual point and the overall mean
+- A potential test statistic is A, which is SSTr/SSE
+- When A is high, then variation between groups is high and when it is low, variation between groups is low
+- We also consider degrees of freedom
+- Can get mean squared error by dividing variance by degrees of freedom
+- SSTr/k - 1 / SSE/n-k gives us the f-distribution
+- Since variance is always positive, this is always a right tailed test
+- Rejecting H0 works the same as always
+- Degrees of freedom for the total is n-1
+- By dividing the sum of squares by the degrees of freedom, we get the mean square
+- In the end, ANOVA will only tell us that some groups are different, and not what specific groups are different
+- If we want to determine this we need to do multiple comparisons between different groups, ex. Group 1 - group 2, group 2 - group 3, group 1 - group 3, etc.
+- Remember we need to adjust our alpha value for this by dividing it by the number of tests to avoid increasing the risk of type 1 error (called Bonferroni Correction)
+- For r, we use two functions, aov() and lm() (because ANOVA is linear)

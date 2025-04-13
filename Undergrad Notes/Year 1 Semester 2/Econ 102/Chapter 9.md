@@ -1,0 +1,121 @@
+- About long run economic growth, and how it is measured
+- Look at growth rate, productivity and differences in growth rate
+- Growth creates benefits and costs to society
+- Growth means increased production of goods and services and net increase of the money in society
+- In general growth increases the standard of living, but also causes pollution
+- In addition it accelerates urbanization and demands more and more of agricultural areas
+- Increased agricultural production creates deforestation, destruction of natural environments etc.
+- According to Kuznet's curve, the environment will eventually improve as a product of growth
+- Simon Kuznet was an economist who analyzed data relating to inequality in society
+- He discovered a U-shaped curve where as income increased inequality increased to a peak, and decreased back to the original state
+- Economists hypothesized that a similar situation would occur with environmental problems
+- However, there has been no "peak" in environmental degradation observed yet
+
+Measuring Long Run Economic Growth
+
+- We use real GDP per capita to measure this as it is the most accurate measure of standard of living
+- The calculation used is real GDP divided by the population
+- Using real GDP removes the effects of inflation on nominal prices, and accounting for population eliminates the factor of population growth rate
+- For example India, China, and the US all have very strong economies
+- However, India and China have much higher population growth rates, so in the long run the US has a higher standard of living
+- This allows us to compare economies not just over time but between countries with different populations
+- Despite China and India having much higher growth rates than the US, they still are fairly behind the US in terms of real GDP per capita
+- A rule we use to calculate growth rate is the rule of 70
+- This helps us determine when an economy will double in size
+- The doubling time in years is equal to 70 divided by the annual growth rate of the country
+- For example Mao Tse Tung wanted to double the Chinese economy in 5 years, which would require a growth rate of 14%
+- Because 5 is equal to 70 divided by 14
+- Important to distinguish between an increase in real GDP and increase in the rate of change of GDP
+- It's generally assumed that economies are always growing, so an "increase in growth" usually means the rate of change increased
+
+Measuring Growth Rate
+
+- We measure annual growth rate with this formula: A(1+r)t= B
+- R is the average annual growth rate and t is the number of years
+- This formula is useful because the annual growth rate changes yearly and makes it difficult to calculate growth over several years
+- To measure average annual growth rate we take the geometric mean, not the arithmetic mean
+- For example lets say GDP grew by 2% one year and then 5% the next
+- To do this you take the square root of the final GDP over the original GDP minus one
+- The original method gets us 3.5% but this method gets us 3.49%
+- Not much of a difference, but compounds over a longer timeframe than just 2 years
+- However long run growth is not always consistent and may not reflect the data
+- Economies can stop growing or even shrink
+
+Productivity
+
+- Long run economic growth is closely related to labour productivity
+- This can be calculated by comparing output to number of workers or number of hours worked
+- Good labour productivity is crucial to maintaining growth
+- Examine average output per worker per hour, the average hours worked, and the population to employment ratio, also called EPR
+- When other factors are fixed it's easier to see the value of each individual variable
+- The production function is a description relating quantity of inputs to output
+- For example, the specific quantities of ingredients alongside the energy and appliances required to make a cake forms the production function of that cake
+- If quantity of ingredients and amount of workers making cake increases, production increases
+- Also a more efficient oven or mixer can also affect production
+- All ingredients used in the cake can be created via factors of production
+- Therefore, the production function is mostly based on labour and factors, because factors create raw materials
+- Real GDP is equal to technology times the function of capital, labour, and human or educational capital
+- Human capital usually refers to education, and capital is the technology and machinery assisting workers
+- Study suggests that increasing human capital may be even more important for growth than physical capital
+- This is called the aggregate production function
+- Increasing capital, labour, or human capital in an economy will increase production
+- Increasing technology will also increase production, but to a much more significant scale
+- Observational issues with human capital because it is difficult to separate labour and human capital
+- Technology is also called total factor productivity and suffers a similar issue
+- Since technology usually results in improvements in physical capital, the two are difficult to separate
+- Technology can also increase productivity due to small innovations like pre-cut cardboard boxes and post it notes
+- In fact service-based companies like Walmart have arguably contributed more to economic growth in North America than tech companies like Microsoft or Apple
+- Can also calculate the aggregate production function in per worker form
+- Instead of including labour in the function, divide real GDP, physical capital, and human capital by labour
+- An example of an equation like this was in a comparison of many large countries growth rates
+- The equation was GDP per worker = A x (physical capital per worker)1/3 x (human capital per worker)2/3
+- According to this, every 1% rise in physical capital per worker results in a 0.33% rise in real GDP per worker and 0.66% rise if it is human capital per worker
+- The ratios are to reflect the increased effect of human capital vs physical capital
+- This equation lets us analyze how much of the real gdp increase can be attributed to capital vs labour
+- Notice that A is not affected
+- We also assume that the function has the property of constant returns to scale
+- The ratios are always the same no matter how much the factors are increased
+- This is unlike in microeconomics where increasing capital is affected by diminishing returns to scale
+- However, it never reaches negative returns, there will always be some value gained
+- If inputs are increased by some proportion, outputs are increased by the same proportion
+- However, this is only if you increase all inputs
+- Increasing only one input will result in diminishing marginal returns
+- Increases in technology always raise productivity and shift upwards
+- Tech is very important, it accounts for a significant amount of economic growth
+- This leads to the paradox of technology, where today tech is always improving but the economy isn't growing proportionally
+- While you might think we're in the greatest time of growth right now, this isn't true
+- While computers and the information age are incredible, our productivity has stagnated since the biggest growth period between the 1960s and 70s
+
+Why Do Growth Rates Differ?
+
+- Three ways to increase growth rate
+- The first is adding to physical capital via high investment spending vs saving
+- However, in order to invest this much a country must have a strong source of savings, either domestic or foreign
+- You can also add to human capital by improving the education of a country
+- And finally promoting research to advance technology
+- Patent rights are important for encouraging growth because it ensures that companies can recuperate the money spent to create a new product
+- Designed to expire quickly so that it can be shared easily
+- The US was one of the first countries to actively promote research, and US businesses had R&D departments long before foreign countries
+- The strongest countries tend to do all three, we can see this with fast growing countries like Japan and China
+- Governments can promote growth through policy in a couple ways
+- The first is by subsidizing infrastructure, transportation and information networks are very useful for promoting economic activity
+- The next is by subsidizing education, this is one of the best ways to promote growth as human capital is crucial for growth
+- Subsidizing R&D can lead to increases in technology, improving growth across the board
+- A well functioning financial system is key to a healthy economy as savings and investment spending depend on strong economic institutions to function
+- Protecting property rights is also important in order to allow people to make returns on their work and innovation
+- This also extends to intellectual rights like patents
+- Finally, political stability and good governance are of course helpful to encouraging economic growth as they are essential for keeping things stable in the long run
+- Many Western countries take these things for granted, but many countries lack most if not all of these factors
+- Sustained growth can fail if a proper competitive market isn't maintained, like what happened to the Italian economy
+- Natural resources are a good indicator of a higher GDP per capita, like how the richest countries in the Middle East are those rich in oil
+- However, it is also easy for other rich nations to exploit countries rich in natural resources, which is why most of South America and Africa is in extreme poverty despite being rich in valuable resources
+- Instead, human and physical capital is a better indicator in the modern world
+- Although technology and capital has let us outrun population growth for the most part, we do live on a finite planet and there will be a time when further growth is impossible
+- Long run economic growth also increases damage to the environment, which can only be circumvented via policy as the market does not take into account environmental costs
+- Global climate change is even more difficult to avoid as it requires cooperation on a global scale
+- While rich countries historically have caused most carbon emissions, it is now the growing economies that pollute the most
+- This leads to disagreements on who should shoulder the cost of reducing emissions, slowing progress
+- The convergence hypothesis is that difference in real GDP per capita between countries will tend to decrease over time
+- Raises in GDP are often unequally distributed as growth increases, as metropolitan centres get richer with growth, rural communities that used to rely on mining or fishing fall behind
+- Following the same pattern, the richest members of society benefit much more from growth than the lower class
+- However, this is a pattern found mainly in rich nations, while globally growth tends to favour the middle class the most

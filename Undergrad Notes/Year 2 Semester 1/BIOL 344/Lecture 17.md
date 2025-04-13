@@ -1,0 +1,24 @@
+- Physical linkage occurs when genes reside on the same molecule/chromosome
+- Some chromosomes are larger or smaller than others
+- The human genomes has an estimated 20,000 genes, less than 1000 genes per chromosome on average
+- Genetic variation is important for a population, and physical linkage doesn't allow for much variety
+- Thus we have recombination and genetic linkage
+- Genetic linkage is when certain alleles co-segregate more often than expected
+- If recombination doesn't separate linked genes, they will segregate together
+- Rate of recombination isn't constant, is determined by things like distance between genes
+- Crossing over occurs at least once between each pair of chromosomes in meiosis
+- Frequency depends on species, drosophila melanogaster males do not cross over at all
+- Recombination occurs between pairs of non-sister chromatids
+- Crossing over occurs during prophase and is a physical exchange of genetic material
+- Can randomly occur anywhere along the length of the chromosomes
+- The further apart genes are, the greater the chance of recombination between them
+- Recombination can also occur within a gene
+- In independent assortment, genotypes matching a parent are parental
+- Recombinants are genotypes that don't resemble either parent
+- In a cross between an AaBb individual and an aabb individual, independent assortment predicts a 1:1:1:1 ratio
+- In reality, the parental genotypes are more likely than the recombinant genotypes, genetic linkage
+- In this case the parents were AABB and aabb
+- One parents chromosome had A and B, other had a and b
+- Therefore the AB and ab results are parental, and Ab and aB are recombinants because they require a crossover
+- If a crossover does occur, it gives an equal chance of all genotypes, same as independent assortment
+- If no crossover occurs, only parental genotypes are possible

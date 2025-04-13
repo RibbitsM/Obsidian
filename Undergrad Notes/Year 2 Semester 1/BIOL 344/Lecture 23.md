@@ -1,0 +1,18 @@
+- Electrophoresis uses a gel to separate molecules based on size
+- Smaller molecules get through the gel faster than larger ones
+- Molecular markers can be thought of as a "DNA fingerprint" that presents itself as a pattern of bands in gel or in an x ray film
+- Restriction enzymes recognize palindromes in the DNA and cut along them
+- They can either look for 4 nucleotide palindromes, 6 nucleotides, or 8 nucleotides
+- The larger the number, the less cuts it will make
+- The probability of finding a 6 nucleotide palindrome is (1/4)6 or 1/4096
+- A four string is 1/256 and an eight string is 1/65536
+- The difference between different enzymes is vast, an eight cutter will create large chunks and a four cutter will create tiny pieces
+- Of course you can modify restriction enzymes to not cut every time to prevent the chunks from getting too small
+- EcoR1 is an example enzyme that comes from E.coli
+- In the northern probe approach, an mrna sample is mixed with radioactive DNA probes of the target that bond to the mrna
+- When scanned with an x ray, the bound probes appear as black lines, creating the banding pattern
+- 80% of human dna differences are due to SNPs (single nucleotide polymorphism)
+- Sickle cell anemia is caused by an SNP that prevents the proper formation of amino acids fro creating blood cells
+- Most SNPs don't change the phenotype
+- These can also mess with molecular markers and restriction enzymes by destroying and creating cut sites
+-

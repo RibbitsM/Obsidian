@@ -1,0 +1,5 @@
+- When drawing a split chromosome, one allele goes on each homologue
+- You should never have two alleles of the same gene together on a homologue
+- 1/6
+- 2/3 times 1/4
+-

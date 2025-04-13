@@ -1,0 +1,9 @@
+- Most of course covers UN missions although many more organizations carry out peacekeeping operations
+- Rate of armed conflict has declined in previous decade, now increasing again
+- Major UN peacekeeping missions in Mali and the Congo dissolved
+- Three levels of analysis, state, group, and individual
+- Midterms aren't cumulative, final is
+- Problem sets on midterms are just applying peacekeeping knowledge to fictional conflict
+- First come first serve for group assignments
+- Jen Peterson peace studies professor
+-

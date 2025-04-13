@@ -1,0 +1,70 @@
+- First world climate change conference was in 1979
+- Created in light of the firsts signs of stresses on the Earth's climate
+- Also coincided with research into carbon dioxide emissions
+- IPCC formed in 1988
+- First assessment report released in 1990
+- This was the first declaration of certainty on the existence of climate change
+- Led to the second world climate change conference in the same year
+- "Earth Summit" held in Rio in 1992, UN division created
+- Negotiation forum represents a combination of the positions on climate change of all 178 involved nations
+- Some countries entered as groups with common positions, like the EU or AOSIS
+- UN provided the institutional framework for the discussion
+- In addition to intergovernmental conferences, NGOs involved in government positions on climate change are also represented
+- UN Framework Convention on Climate Change came into force in 1994
+- Parties were divided into Annex 1 and Non-Annex-1
+- Annex 1 parties pledged to reduce GHG emissions to 1990 levels by 2000
+- Non-Annex 1 parties had no such obligations
+- Not a single Annex 1 party met their obligations, including Canada
+- At Rio, all parties agreed to continue holding conferences under the same framework
+- Called "COPs" or Conferences of the Parties, and are held about once a year
+- In 1995 the AR2 was released, stating that several aspects of climate change were irreversible
+- COP 3 or the Kyoto Protocol was held in 1997
+- Involved 193 parties, and was an addition to the UNFCCC
+- Stated that each Annex 1 party was to reduce emissions to a percentage below 1990 levels by 2008-2012
+- The percentage differed from country to country, -6% for Canada and -7% for US as an example
+- Moved the end goal, but also the emissions goal
+- Infamously, the US pulled out of the Kyoto Protocol as a result of domestic politics
+- A resolution was passed 95-0 in the Senate during negotiations declaring that the US would not commit to any current or future treaties
+- Bush stated that the reasoning for this decision was a priority on American citizens
+- AR3 released in 2001, showing clear evidence of warming
+- Kyoto entered into force in 2005
+- Emissions dropped in Europe following Kyoto, but rose in many other places
+- AR4 dubbed global warming as "unequivocal" a rare act in the scientific community
+- In 2009 COP15 was held in Copenhagen to replace the Kyoto Protocol
+- Negotiations were very difficult, lasting two weeks in total
+- Key debates included developing countries, emissions targets, peak year, target dates, and financial assistance
+- The result was not a treaty but an accord
+- "Recognized" the goal of 2 degrees above pre industrial levels
+- Created the Green Climate Fund to provide money to assist poor countries
+- However, no decisions on GHG emission cuts were created
+- Following the US, Canada withdrew from the Kyoto Protocol in 2012
+- AR5 released in 2014, mostly reported observed changes and phenomena
+- Climate activism rose with the Peoples Climate March on Sep 21, 2014, and was followed by the UN Climate Summit a few days later that created consensus on IPCC science
+- US-China Joint Agreement resulted in reduction commitments from both parties
+- EU committed to cut GHG emissions by 40% below 1990 levels by 2030
+- Transnational climate change governance was created, forming networks of cities that collaborated to reduce emissions
+- Other forms involved NGO certification of products as green friendly or unfriendly
+- Partnerships between states and corporations on green tech like renewable energy
+- Institutional investors began investigating corporate carbon emissions
+- Businesses change behaviour to appeal to consumer desires for green products
+- 2015 brought about COP 21, the Paris Conferences
+- 196 parties, 19,385 delegates, 8338 observers, 8825 media
+- Paris Agreement aimed to hold global temp to well below 2 degrees above pre-industrial levels and to pursue the 1.5 degree target
+- Increase ability to adapt to effects of climate change and create climate resilience, tied in to the Green Climate Fund, but in a manner that doesn't affect food production
+- Make finance flows a pathway towards reducing emissions and resilience development
+- Also required parties to submit Nationally Determined Contributions that detailed how emissions would be reduced domestically
+- Fundamentally different way of determining commitment by states
+- For Canada, the target was determined as 30% below 2005 levels by 2030
+- Many other countries also moved the baseline from 1990, making comparison difficult
+- No peak year was determined in Paris, and was stated as just "as soon as possible"
+- Commitments must be renewed every 5 years and must be increasingly ambitious
+- Required developed countries to finance developing ones
+- Annex 1 and Non-Annex 1 were done away with and replaced with a universal focus with varying goalposts and leniencies for developing countries
+- Technically the Paris Agreement is not legally binding because it did not specify emissions targets
+- The goal was to use political pressure instead of legal language to ensure compliance
+- Instead of a one time treaty Paris is ongoing, with transparency measures and updated NDCs
+- Looking positively, Paris was more consistent with reality, moved enforcement to the domestic level, and was much more flexible
+- On the other hand, the reduction pledges were higher than before, there was no peak year, funding specifics weren't discussed, enforcement was light, and the developing/developed divide remains
+- Even more concerning, when adding all NDCs together, the result does not match the 2 degree figure, never mind 1.5
+- US withdrew from the Paris Agreement on June 1, 2017 under the Trump Administration
+- Technically they never left due to legal reasons, and were brought back under Biden, but the damage was done

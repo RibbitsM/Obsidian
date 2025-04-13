@@ -1,0 +1,11 @@
+- Fue escrita por Jacinto Benavente
+- Fue escritor y empresario, veía el dramaturgo como negocios
+- Tiene un monarquía homosexual pero fue conservador
+- Gana el Premio Nobel de Literatura
+- Comedia burguesa de costumbres
+- Este teatro quiere corregir costumbres
+- Por ejemplo, _La malquerida_ es sobre el amor incestuoso
+- Las personajes son de clase baja
+- El nietecito es un teatro de tesis, significa que es una obra que tiene un mensaje política para reformar algunos cosas
+- La tema principal y el tesis de teatro es respeto a sus mayores
+-

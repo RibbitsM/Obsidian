@@ -1,0 +1,26 @@
+- We can get residual standard error by taking the square root of the RSS multiplied by degrees of freedom (remember the df formula is different for multiple linear regression)
+- Very similar metric, just easier to understand
+- This is an absolute measure, a relative measure would be the coefficient of determination
+- Not good for hypothesis testing, but excellent for comparing models
+- You need a measure with a known distribution to do a hypothesis class, coefficient of determination doesn't have this
+- When we are testing two nested models against each other, we are measuring the significance of the additional variables
+- Our null hypothesis will be that these additional variables will not create a difference, and if at least one parameter is not 0 then that is our alternative hypothesis
+- This should help us quantify the benefit of using a larger vs smaller model
+- If the final explanatory variable in our reduced model is Xq, then our full model has q + s variables, so the additional variables are Xq + 1, Xq + 2, Xq + 3, etc.
+- Since B0 has no variable associated with it we can also say the model has q + 1 coefficients
+- In R we use anova to calculate the f statistic
+- In the case study of the genes, when breaking it down into gene-specific models the model was better than the null only half the time
+- Which gene the data was from was a confounding variable
+- Remember f-test tests multiple variables at a time, t-test only tests one
+- If we have an f-test with only one coefficient, the f-statistic will just be the t-statistic squared
+- Both are based on assumptions regarding normal distributions
+- R2 is used to compare different models, not variables
+- These are all different tools that should be applied depending on the situation
+- What we want to find out right now is which variables we should include in our model
+- One option is normal selection
+- This is where we start with a null model, and then create many more nested models, adding a variable each time and test each one
+- At the end, choose the model with the lowest prediction error
+- Backward selection is the opposite, we start with the full model and drop variables and test each time, choosing the one with the least error
+- Can also have hybrid selection that lets us add and subtract variables
+- However as number of variables increases, the number of possible combinations increases exponentially, if variables is p then the number of combinations is 2p
+- This means its often impossible to efficiently find the absolute best model so we often settle for the best model we can find given our resources

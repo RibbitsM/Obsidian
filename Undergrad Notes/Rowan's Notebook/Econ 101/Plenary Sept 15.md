@@ -1,0 +1,11 @@
+- Demand is willingness to buy
+- Nothing to do with actual purchase
+- If- then statement
+- Amount bought is dependent on price
+- Demand loosely equates to how much money willing to be spent
+- If price is 1 dollar buy 3, if price is 80 cents buy 5 etc.
+- Demand Function: interaction between demand and price
+- As price goes down, demand goes up
+- Not a flat line, this is an exponential phenomenon
+- Convex to origin
+-

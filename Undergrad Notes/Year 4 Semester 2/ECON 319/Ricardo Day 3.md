@@ -1,0 +1,55 @@
+- At the time, there was a robust understanding that the price was set where supply equalled demand
+- Graphs of prices that we see today weren't introduced until the 1860s/70s
+- Classical economists like Smith and Mill mostly focused on the supply side, ignoring most of the influence from demand until marginal benefits and costs were discovered in the 1870s
+- Ricardo believed that there was an underlying natural price that was reflected by the incidental market price that deviates from the natural price
+- Since there is no good that has equal supply and demand at all times, the market or real prices will fluctuate around the natural price
+- In the short term, demand changes according to culture and can also cause price changes
+- When the prices of goods change, this also affects the profits received on those goods
+- If the price of a sector rises and increases profits, capital will flow towards that industry and push up the supply, lowering the price back towards to natural price
+- Because capitalists always seek to maximize profits, the rate of profit in a single industry will tend to remain fairly constant over time
+- This shift of capital doesn't necessarily come from switching industries and selling physical capital
+- What usually happens is those with smaller profits will spend less on variable things like wages, and those with larger profits will borrow money to increase their variable capital
+- Ricardo gives the example of silk becoming fashionable, increasing profits in the silk industry
+- As profits increase for silk and decrease for wool, capital and labour will shift into that industry
+- The resulting increase of supply lowers the market price for silk, which would then lower silk profits back to the same level in the wool industry
+- Ricardo attributes the speed of this adjustment to variable capital, and by extension the banking system and the stock market
+- Since most manufacturers finance their businesses with loans or other forms on financial capital, they are subject to fluctuation
+- Ricardo is not saying that there is a uniform profit rate, but the relative differences in profit between sectors tend to stay the same
+- However, these differences don't necessarily come from monetary reasons
+- Not all capitalists will work in the same industry because they prefer some industries over the other for non-financial reasons
+- They may prefer that industry for personal reasons, or because it is safer, easier than the alternative
+- A cost or price represents the cost of what is needed to produce a good
+- Therefore, the natural wage would be the cost of labour, or what is necessary to live a life that allows you to work effectively
+- Alongside the natural profit rate, this completes the trifecta
+- Ricardo is mostly exploring the supply side, he believes that in the long run everything is determined by the cost of what is required to produce it, the supply side
+
+**Chapter 5**
+
+- Ricardo divides wages into several different categories
+- Real and nominal wage, natural and market wage, and long term and short term wage
+- Wage is simply the price of labour, and behaves like any other price
+- A real wage is your wage in terms of purchasing power, what it can buy for you
+- The nominal wage fluctuates based on the labour market and the market for the goods bought with those wages
+- As previously explored, the nominal wage can rise while real wages fall and vice versa although the first case is much more common
+- Generally speaking, nominal wages tend to rise over time in response to inflation, but rise much slower than the prices of goods do
+- Since we're talking about 17th century Britain, Ricardo measures the subsistence wage based on the price of wheat
+- For Ricardo, the price of labour is not just the money needed to survive, but also to reproduce and create more labourers to contribute to the market
+- The natural wage exists at the point where the population would not increase or decrease but stay the same year after year
+- However, the natural wage will increase over time because the price of producing wheat will increase over time if improvements are not made or it isn't imported
+- As industrialization intensifies, prices of most commodities will decrease as a result of more efficient production
+- The market wage fluctuates over time, but tends to hold in the short term compared to prices
+- Like any other good, the price of labour is determined by supply and demand
+- Wages are high when labour is scarce and vice versa
+- Ricardo believed that wages affect population growth as well, periods when wages are higher lead to increased fertility and increases the future labour supply
+- When there is this increase of supply, the wages will fall back down
+- The same goes for periods of poor wages, less children are born and future labour is more scarce
+- Ricardo says this happens with a lag of 10 years, since at the time 10 was the working age
+- As capital accumulates in all sectors, the market wage can remain above the natural wage permanently
+- This means that over time, the population will tend to increase which was already predicted by Malthus
+- Ricardo argues that accumulation of capital increases demand for labour because production increases overall and the surplus is simply exported
+- The new savings produced by the capital will push down prices and increase real wages
+- Over time, legislation adjusted to shorten work hours per week and raise the minimum age to join the workforce
+- As physical labour became less important, schooling began to be obligatory for all children up until a certain age
+- One core claim Ricardo makes is that the natural wage is relative to the customs and cultures of the era
+- What is considered a necessity and what is a luxury changes over time with the accumulation of capital
+- Ricardo advocated for higher wages, not just on economic grounds but humanitarian and utilitarian grounds

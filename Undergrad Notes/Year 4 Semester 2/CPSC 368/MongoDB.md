@@ -1,0 +1,14 @@
+- MongoDB is a type of document database, which uses id numbers to key documents
+- You can do the four basic query operations (CRUD) in MongoDB
+- In SQL, we create by running CREATE TABLE and then INSERT
+- But in MongoDB, inserting into a collection that doesn't exist will create a collection with that name
+- When inserting a document, if it does not already have an _id value, one will be randomly assigned
+- You can insert multiple rows at once with the insert_many command
+- We can query our database with the find command
+- Doesn't use as much natural language terminology compared to SQL
+- Can still do things like use in, and, or statements
+- The find function doesn't actually give you the results directly, it gives you a cursor that you can use to iterate through the results
+- Projection is when you want to query some columns based on criteria from another column
+- Can be done in MongoDB by adding two sets of curly braces in your query
+- First is the fields to be selected, second is the conditions
+- When updating values, we can either update the first document we hit, or every document that fulfills that condition

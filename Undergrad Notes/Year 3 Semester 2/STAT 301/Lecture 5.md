@@ -1,0 +1,23 @@
+- We know how to find the line in linear regression, but how do we interpret our results?
+- Similar to in 201, population B0 and B1 are fixed values but the sample values of B0 and B1 are random variables since it depends on the sample
+- A key question to answer is how much variation we will find from sample to sample
+- To find this we need the sample distribution
+- Population B0 and B1 are regression coefficients, B0 hat and B1 hat are regression estimators
+- Using the same estimators, different samples will give you different estimates
+- We can determine this by taking several samples and estimating the regression line, but we rarely do this in practice due to resource constraints
+- We can do this either through bootstrapping, or through a theoretical method
+- Variation from sample to sample is represented by standard error
+- Lm() does this automatically, and provides standard error when you run it using the theoretical method
+- When we do hypothesis testing with linear regression, often our null hypothesis will be that there in no relation
+- This is represented by a B1 hat of 0, meaning the slr line is completely flat
+- A negative B1 hat value implies a negative relationship, and a positive value implies a positive relationship, so set your alternative hypothesis accordingly
+- Can also do the same for B0 hat, a B0 of 0 implies that the line starts at the origin
+- By measuring how far our estimated coefficients are from zero, we get a test statistic
+- The formula is B1 hat - hypothesized value (0)/standard error of B1 hat
+- Test statistics and p values are also produced by lm()
+- However, we need the sampling distribution to determine the p-value, otherwise we have no frame of reference for how unusual our data is
+- The same is true for calculating standard error
+- Confidence intervals are also calculated the same as 201 with the formula sample estimate +/- SE * quantile of t-distribution
+- Degrees of freedom are different, it's n-k where k is number of regression parameters
+- Sometimes for linear regression to work we may need to use transformed data
+-

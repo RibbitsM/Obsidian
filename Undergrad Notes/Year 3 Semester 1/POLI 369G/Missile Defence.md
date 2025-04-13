@@ -1,0 +1,36 @@
+- Concept of missile defence comes from the early Cold War
+- When warhead stocks were lower, it was considered feasible to intercept incoming warheads
+- This is how ABM systems were created, but direct hits weren't feasible
+- Therefore, ABM missiles also had nuclear warheads
+- ABM treaty was signed in 1972 since both sides realized they were unreliable and somewhat ridiculous
+- Banned all ABM systems in the US and USSR
+- Both were allowed to keep some, but not nearly enough to make a difference
+- Renewed interest in the 80s with Reagan's huge space laser
+- Satellite-mounted lasers would shoot down incoming lasers
+- Lots of money was thrown at SDI, but nothing came out of it
+- Post Cold War, concerns about North Korea arose, prompting a renewed need for missile defence
+- Therefore, in 2002 the US pulled out of the ABM treaty to establish more missile defenses
+- The US National Missile Defense was started with the Ground-based Mid-course Defense
+- This consists of 44 ground-based interceptors in Alaska and California
+- These missiles are actually capable of direct hits against incoming warheads
+- Rely on early warning radar in space and Alaska
+- Basically hitting a bullet with a bullet, doubts on whether it will work
+- Also employs other systems like Aegis, which is deployed on US navy destroyers and some allied vessels
+- Can intercept short to mid range ballistic missiles prior to re-entry
+- Also has the Terminal High Altitude Air Defense, which is a road-mobile system intended for hitting short to mid range missiles in terminal phase
+- Israel has the Arrow System that can intercept out of atmosphere, operational as of 2000
+- A frequently used ABM is the Patriot PAC-3 and is used by many US allies, was operational in 2001
+- Many countries have BMD systems, but US has the most advanced one
+
+**Deterrence**
+
+- So what are the implications for deterrence here?
+- Let's say one country has BMD and the other does not
+- This is a clear difference, the country that doesn't have it has to ask whether or not their missiles can still ensure MAD
+- Gives an incentive for a first strike, if the BMD country strikes first and destroys enough warheads, their systems might defend them from counterattack
+- Therefore, it's in their interest to strike first and overwhelm the BMD system
+- Ironically, a missile defence system makes the country less safe
+- The country with the defence also has incentive to strike first since they could win without incurring unacceptable damage
+- Building BMD systems can also cause a missile defence arms race
+- Also undermines any treaties limiting warheads or delivery systems, and can hurt communication and confidence-building
+- Overall very dangerous in terms of stable deterrence

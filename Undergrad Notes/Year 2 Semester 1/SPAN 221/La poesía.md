@@ -1,0 +1,29 @@
+- No tiene párrafos, tiene versos (lines) y estrofas (stanzas)
+- Tiene rima o ritmo
+- Usa lenguaje literario mucho más que ensayos o narrativos
+- El cómputo silábico es el número de sílabas en cada verso
+- Hay tres pasas por calcular el cómputo silábico
+- Primer, buscar qué tipo de palabra es, llana (acento penultimo), aguda (acento al fino), y esdrújula (acento en antepenúltima sílaba)
+- Mirar qué tipos de palabras cierran cada verso
+- Si es llana, no hay más sílabos
+- Si es aguda, agrega un sílaba
+- Si la ultima palabra es esdrújula, la frase es esdrújula y necesita sacar un sílabo
+- También hay diptongos, como el "cuan" en "cuando"
+- Si es dos vocales, pero es uno sílaba
+- Sinalefa es la unión de dos vocales en palabras diferentes "Y a veces"
+- Casi todo el tiempo, sinalefa es entre dos vocales, o un vocal antes de "h"
+- Esto es también solo una sílaba
+- Si la ultima palabra es esdrújula, la frase es esdrújula y necesita sacar un sílabo
+- En español, los Romances fue de poesía oral al fin de siglo XV y XVI
+- Poesía no estrófica, versos de 8 sílabas, rima asonante, y anónimos
+- Son cantados y pasaba de generación a generación
+- Tiene carácter fragmentario y empiece abrupto y finaliza abrupto
+- Puede ser histórico o lírico-novelescos
+- Los romances son muy prevalentes y puede ser sobre cualquier esta de moda
+- El Enamorado y el Muerte: anónimo
+- Romance, rima asonante, octosílabo en tres estrofas, pero las estrofas son añadir después del origen de la poema
+- Rima continua con versos libres, axaxax
+- Sobre el muerte, al amor, y salvación
+- Temas de sueño y una lucha por vida
+- Símbolos de mitología
+-

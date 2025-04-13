@@ -1,0 +1,42 @@
+- Term was coined by Nicholas Onuf, comprehensive theory of IR
+- Book is called "World of our Making", suggesting the main theory of constructivism
+- Constructivist argue that their theory gives a more comprehensive understanding of the realist approach, theory suited for structural focus
+- Tackles issues like balance of power and the security dilemma
+- The core principles of constructivism are centered around the idea that security is socially constructed
+- Nothing about security is concrete or unchangeable since it is a product of society
+- No such thing as human nature or inherent characteristics of international relations
+- A traditional definition of security is the preservation of a groups essential principles
+- But this tells us nothing about the group, its values, its goals, or its challenges
+- Security is given meaning only in practice
+- The actions of nations are governed by norms and identities, same as in sociology
+- Some examples of international norms are non use of certain weapons, sovereignty, or the responsibility to protect
+- These norms have changed and evolved over time, and were not always the case
+- Norms are driven by norm entrepreneurs, political leaders or groups supporting the importance of a certain norm
+- Domestic variables play a huge part in determining the national identity which in turn affects a state's security policy and measures
+- State leaders tend to characterize other states as friends or enemies, and act accordingly
+- Western Europe is a great example of changing norms and conditions, where today the region is often seen as a unitary actor
+- In the past, this was a place of great unrest and conflict, but the security dynamics changed
+- The European Union has cultivated a shared identity, something once thought impossible
+- Concern around North Korea is a great example of perceived threat, their nuclear arsenal is significantly smaller than say Russia or the US, but are seen as more threatening
+- The idea of North Korea as a "rogue state" makes it much more threatening as a nuclear power
+- This is also the motivation behind denuclearizing Ukraine, Kazakhstan, and Belarus in the aftermath of the Cold War
+- Since security is context-specific, then it is a site of negotiation, not a set agenda
+- Constructivists reject the idea that bargaining between elites and the general public have little impact, and think that the public do have influence
+- Questions to what extent political leaders are linked to their domestic public
+- No fixed, consistent national interest
+- This concept runs into issues, especially in countries that are less democratically structured
+- Public opinion isn't a factor in some autocratic states
+- Security is a site of discussion if the public's will isn't represented
+- For example, despite having nothing concrete to gain or lose, there is a debate whether the Russia-Ukraine war should be a US security concern
+- Political elites play a major role, but other players have influence too
+- Especially media and popular culture have an influence on security, depending on how independent this media is
+- Security is constructed via a process of negotiation between all these different actors and influences trying to "sell" their values to the domestic audience
+- Agents and structures go together, the agents form the structures and the structure shapes the agents
+- Challenges neorealist theory by claiming that anarchy is not inescapable, and is merely the character of the structure we have created
+- Structural change is possible through the actions of agents
+- Key component of constructivist theory that ties in with liberal views, by conditioning state interests it is possible to create permanent peace
+- Since world politics is socially constructed, then change is always possible
+- A great example of this is the end of the Cold War, which was never predicted by the realists
+- The agent, Gorbachev in this case, changed the structure of the war with his reforms and eventually led to the change, the collapse of the Soviet Union
+- In addition, products of mutual distrust like the security dilemma are also not inescapable
+- These are merely products of our current anarchic system, which is prone to change over time

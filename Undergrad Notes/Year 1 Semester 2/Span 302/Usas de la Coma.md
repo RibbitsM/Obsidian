@@ -1,0 +1,6 @@
+- Español no tiene la coma oxford
+- No uses la coma antes de y or u, excepto cuando es repiten
+- El punto y coma significa una separación
+- Separan frases largas
+- Tambien usan por series largas y confundidos
+-

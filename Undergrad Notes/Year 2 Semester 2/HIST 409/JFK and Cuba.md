@@ -1,0 +1,79 @@
+- In the 1950s, the US supported several regimes in Latin America
+- Arbenz was disposed of in Guatemala and replaced with Armas, opening the way for the Banana Republics
+- Che Guevara witnessed this happen as he was growing up, shaping his ideology
+- In Cuba, the US was propping up Batista
+- In Panama, anti-communist forces were being trained by the US
+- Local militias in Guatemala were emboldened by the experience of watching their government overthrown
+- Guevara was changed by his trip around South America after seeing the prevalence of poverty
+- Believed that armed revolution was the path to major political change
+- Escaped to Mexico after failing to overthrow the government and met Castro, allying together
+- Cuba's economy was dominated by US owned enterprises, roughly 80% of trade was with the US, they owned most of the land, capital, and controlled quotas
+- After faced with guerilla warfare, Batista was forced to leave the country
+- Castro's father was a sugar cane farmer, motivating him to overthrow Batista's regime
+- The US attempted to find a replacement for Batista, but Castro got there first
+- Three nuclear powers now, the US, USSR, and Britain
+- Over the course of the 1950s, nuclear technology accelerated dramatically
+- The Americans led the race dramatically in terms of nuclear weapons, but were more advanced in delivery methods, winning the space race and making the first ICBMs
+- At this time JFK was talking about the 'missile gap' and advocating for defense spending
+- Criticized lack of Republican military spending, Eisenhower countered by establishing NASA
+- Britain was granted extensive access to American information and capital
+- The threat of communism in Latin America was becoming a more and more present issue
+- Fearmongering against the threat of communism was in full swing when Castro rose to power
+- Castro knew his goals were similar to those of Arbenz, and therefore would earn US ire
+- Upon meeting Khrushchev at the UN, Castro was offered oil from the Soviets
+- In response, the US cuts all ties with Cuba and begins planning with the CIA to kill Castro
+- Guevara described the Cuban Revolution as a response against a tyrannical dictator, not an explicitly class related or communist movement, but definitely against the US
+- There was also a sentiment expressed that the revolution would surely spread
+- In the 60s the USSR started a trade deal with Cuba, propping up their economy and eventually providing them with military equipment and loans
+- Dulles's plan was to sabotage Cuban industry, but was rejected by Eisenhower
+- The alternative was to train guerilla fighters to take down Castro's government, which was never implemented under Eisenhower, although he signed off on it
+- The Bay of Pigs invasion was already set up and signed, but would have to be put into action by JFK
+- At this point a full trade embargo was placed on Cuba by the US
+- Castro makes a speech disparaging the US, recognizing the PRC as legitimate and insulting Taiwan
+- At the UN meeting in New York, Khrushchev and Castro stayed in Harlem to inspire support for communism among Black Americans
+- For one of the first times in history a presidential debate was televised, where Kennedy basically mopped the floor with Nixon with his much better media appearance
+- Kennedy was helped greatly by television in his campaign, it was likely the deciding factor
+- Around the same time, Yuri Gagarin became the first man in space, a huge win for the USSR and a dramatic blow to NASA
+- The Bay of Pigs invasion was carried out by Cuban exiles trained by the CIA who failed to get through Castro's defenses
+- JFK opted not to provide air support for the troops to prevent direct US involvement
+- Through multiple interviews and speeches he maintained that the US was not involved in Cuba
+- Many more attacks were carried out on Cuba by the CIA, from bombings to sabotage
+- In response to the American attack, Castro finally declared Cuba to be socialist in order to secure Soviet assistance for the upcoming conflict
+- This failure was a humiliation for Kennedy, he had to quickly save face by firing Dulles and other government officials
+- He followed this up by pledging to put a man on the moon by the end of the decade
+
+**East Germany and the Berlin Wall**
+
+- East Germans are fleeing en masse, causing embarrassment for the Soviet leaders
+- Over the course of a decade, almost 3 million East Germans fled to West Germany
+- It took only 3 days for the Soviets to erect a wall between east and west Berlin
+- John Glenn became the first person to orbit the Earth, while the Soviets responded by sending the first woman to space the next year
+
+**Cuban Missile Crisis**
+
+- By May of 1962, the decision was made to place nuclear missiles in Cuba
+- The entire Cuban Missile Crisis took place over 13 days in 1962, very small timeframe
+- The Soviets justified placing missiles on Cuba by saying it was a way to protect Cuba
+- On October 14, an American spy plane discovered clear signs of nuclear missiles in Cuba
+- Since the USSR could not reach the US from their own territory, they had to place missiles in Cuba instead
+- The Soviet missiles had the range to hit basically every major city in the US except for Seattle
+- John Diefenbaker was barely consulted despite Canada being part of NORAD, not to mention that Ottawa was within range of the missiles as well
+- Khrushchev's perspective was that the USSR was already within American striking range, why shouldn't the US be in Soviet striking range?
+- Kennedy announced a quarantine around Cuba, essentially intercepting all Soviet ships travelling to Cuba, despite not having jurisdiction in international waters
+- The ships did turn around, but they did not have to
+- The initial US plan was to bomb Cuba and render the missiles inoperable
+- Robert Kennedy argued against this, saying it would irreparably damage the American image
+- The Soviets maintained that the missiles were purely defensive
+- The ultimate decision was on the quarantine rather than an airstrike
+- Kennedy made the choice to make this public to the world, making a broadcast informing the public
+- Khrushchev rejected Kennedy's demands and decided to prepare the missiles
+- In his letter to JFK, he pointed out the hypocrisy while the US had missiles in Turkey
+- On October 26, Khrushchev agreed to remove Soviet forces if the American invasion was called off
+- Another deal was struck, an agreement to remove American nuclear missiles in Turkey in exchange for removing the Cuban missiles
+- One of the American U2 planes was shot down and the SAM site was to be bombed, but it was called off by JFK
+- The missiles in Turkey were part of NATO, so a multilateral decision was required to remove them
+- On October 28, the message was broadcast that a deal had been struck, the Soviet missiles were withdrawn from Cuba
+- A few months later, the missiles in Turkey were removed by NATO in exchange
+- While the USSR did suffer a rather public defeat while the Americans never publically removed the missiles, it was a decisive victory for the Soviets in the end
+- To appease Cuba, a large supply package and funds were sent to Castro in exchange for the Bay of Pigs prisoners
+- Castro was furious, feeling that the Americans had gotten off scot-free and that the Soviets had abandoned them

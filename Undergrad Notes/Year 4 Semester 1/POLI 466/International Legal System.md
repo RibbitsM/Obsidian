@@ -1,0 +1,8 @@
+- Four sources of international law
+- Treaties, CIL, General Principles, Judgements and Publicists
+- ICJ statute is an annex to the UN charter
+- Article 2(4) establishes the sovereignty of states and freedom from attack/invasion
+- Article 51 establishes the right to self-defence in the case of a violation of Article 2(4)
+- General Timeline: UN Charter 1945, Geneva Convention 1949, Additional Protocols 197X, Rome Statute 1998
+- Fun fact the g77 has like 130 members
+- They were also key players in the formation of the seabed authority and the adoption of the 12 nautical mile rule

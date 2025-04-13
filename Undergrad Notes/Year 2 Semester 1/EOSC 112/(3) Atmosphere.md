@@ -1,0 +1,31 @@
+- Friction acts in the opposite direction to the wind
+- Changes it's direction slightly
+- If wind was always blowing towards the east it would slow down the Earth's rotation
+- Therefore we need alternating east and west winds
+- The Hadley cell aims to create a homogenous temperature, and moves energy towards the poles
+- This works very well, the tropics are pretty much all the same temperature most of the time
+- This conflicts with the polar cells at mid latitudes and creates storms
+- There is also the Ferrel cell, completing our set of three cells
+- The Ferrel cell is thermally indirect, which means energy is transported by the turbulent mixing of cold and dry air instead of temperature differences
+- Polar cells are at the poles, Ferrel cell is at the mid latitudes, and the Hadley cell is at the equator
+- Geostrophic winds assume no friction, the surface winds flow more towards the equator
+- In the southern hemisphere, winds flow more north facing, and more south facing in the northern hemisphere
+- Easterly winds near the equator, and the westerly winds are in the mid latitudes
+- At the dividing latitudes (30 degrees and -30 degrees) are the doldrums, where there is no wind
+- At the equator, hot air rising carries moisture to the high atmosphere creating a band of clouds at the equator
+- Temperature decreases with altitude alongside pressure and density
+- When air rises, it expands and cools, the rate at which it cools is called the lapse rate
+- Humid air cools slower than dry air
+- Condensation is the opposite of evaporation and occurs when humid air interacts with a cold surface or mixes with cold air
+- There is an equilibrium at which condensation is equal to evaporation
+- If there is too much water vapor, some will condense to reach the saturation pressure
+- Humidity is defined as how far away you are from the saturation vapour pressure
+- However this saturation point changes exponentially relative to changes in temperature
+- p/psat
+- This is why turning on the heat or the AC in a car with fogged windows defogs them
+- Heating the car increases the saturation point, allowing the air to absorb the condensation
+- Activating the AC brings in cool, dry air which dries out the windows
+- The hotter it is, the higher the saturation point
+- When the air cools, the saturation point decreases, and vapour condenses to compensate
+- Cumulus clouds have flat bottoms because there is a flat line where the temperature is low enough to form clouds
+- In the opposite order, descending air loses all it's humidity when clouds form, and it warms up as the pressure increases

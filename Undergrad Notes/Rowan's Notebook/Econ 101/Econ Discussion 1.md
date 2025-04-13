@@ -1,0 +1,12 @@
+- Price of Canadian peaches goes up following cold winter
+- Supply curve shifts to the left because of a decrease in production
+- Income increases, and price of restaurant meals increases
+- Demand curve shifts to the right, new equilibrium settles at a higher price
+- Tech improves in eBook publishing, price of eBooks falls and Qe goes up
+- Supply shifts to the right
+- Low carb diet becomes popular, price of bread falls, less bread sold
+- Demand shifts left
+- Right shift in demand for kale, little or no increase in price
+- Supply shifts right to follow
+- Qd= 10-2p Qs=5+3p
+- 1,9,120,2000

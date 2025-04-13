@@ -1,0 +1,5 @@
+- The key function of the pointblank package is create_agent()
+- Once you have created an agent, you can give them your data and a set of actions to perform, called a validation plan
+- To do the validation, you run the interrogate() command and from here you can use other commands to produce a report on the analysis
+- The validation rules are determined outside of the data, mainly from domain knowledge
+- Based on your validation rules, the agent will give you a report of how many rows passed and failed

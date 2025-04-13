@@ -1,0 +1,14 @@
+- La poema de mío cid fue escrito en romano primero, y fue traducido a español después
+- En la sociedad medieval hay una estructura social muy rígido
+- Periodo de guerra entre los cristianos y los moros
+- Hay el reino de León y el reino de Castilla, ciudades importantes son Valencia y Toledo
+- Ambos son reconquistado recientemente
+- La poema ocurre en el siglo XI pero fue escrito en siglo XII, 40 años después
+- En siglo XII, los almohades conquista Al-andalus, y lucha contra los musulmanes Españas
+- La poema de mío Cid fue escrito para movilizar el público para luchar contra los almohades
+- Probablemente Cid fue un hombre castellano real, que se llama Rodrigo Díaz de Vivar
+- El nombre Cid fue de árabe, del al-Sidi, la palabra musulmán por 'lord'
+- Cid fue un infanzón, la clase de noble más bajo
+- 3 partes del poema, el destierro, las bodas, y la afrenta de Corpes
+- Muchas versos repetidos porque es una poema oral
+- Lenguaje no muy sencillo, mucho mas simplificado

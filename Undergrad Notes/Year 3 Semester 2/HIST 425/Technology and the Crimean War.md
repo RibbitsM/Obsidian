@@ -1,0 +1,59 @@
+- Now that the war had begun, Russia became concerned as their bluff had been called
+- They withdrew from the Danubian principalities, leaving the Austrians to occupy them
+- This was terrible for the allied forces who were all stationed around the southern Black Sea to prepare for a Russian attack
+- Enormous concentration of British and French troops in the city of Varna which caused a disastrous cholera outbreak
+- The next challenge was to attack Sevastapol
+- Most allied troops were either with the Ottomans, or in Bulgaria
+- Amphibious attack like this had never been attempted before
+- Couldn't land on the mountainous southern coast of Crimea, and attacking Sevastapol directly was a bad idea
+- Instead, they landed in Kalamita Bay on September 14
+- The Ottoman forces especially were in disarray, being lead by the guy in charge of the tanneries since noone else wanted to
+- The one advantage they did have was that most Crimean locals were Muslim Tatars and as such were sympathetic to the Ottomans
+- Most of the Tatar population had been displaced by the Russians, but they still made up about 60% of the island
+- The commander of the Crimean forces was Menshikov, who predicted that the Allies would attack along the western coast
+- However, he did not predict that they would attack so late in the year
+- Menshikov decided he should just stall them until Sevastapol could be better defended or winter arrived, and chose the Alma River as the place to set up his defenses
+- While the Russian army was quite large, the number of men actually stationed on Crimea was only about 40-50,000
+- The river itself was fairly small, but its surrounding heights made a great place for the Russians to set up their cannons
+- Menshikov was quite confident he could hold the allies, even inviting elites to come have tea and watch the conflict
+- The Allied plan was for the French to take the left flank and the British to take the cliff on the right
+- This was great for the British who could just hang out in the grass, but the French were basically taking them head on
+- While the French were sniping at the Russians from the bushes, the British charged up the hill
+- The British light division managed to charge and take one position with heavy casualties, but were also immediately forced back by the rest of the Russian army
+- This followed with two more divisions until they refused orders to charge and instead just fired at the Russians
+- This was surprisingly effective, mostly because the Russians had very low quality guns
+- They were still using flintlocks and even their better muskets were dirty and clogged easily
+- Generally the Russian forces preferred bayonet charges, and were ill-suited to holding a long range position like they were
+- The British on the other hand had rifled barrels on their weapons, allowing them to shoot much more accurately over long distances
+- These guns were harder to load and fouled much more frequently, but were perfect for longer range engagements just like this one
+- Now that guerilla warfare was on the rise and wars weren't always just big battles, long range rifles for skirmishing like these were growing in popularity
+- Even had sights, longer barrels and better stocks
+- Used most in Spain and Portugal in the Napoleonic Wars
+- British make was called the Baker rifle, used in special regiments
+- The French make was called the Minie rifle, which used special bullets that jammed less in muzzle-loading rifles
+- These were shaped bullets, and caused much more damage and travelled further than musket balls
+- At similar ranges, a musket ball might cause a fracture where a minie bullet wound would require an amputation
+- Also, right as the Crimean war started the British developed the Enfield rifle, but at the time most soldiers didn't have one and likely didn't know how to use one
+- Overall, the effective range of a Russian musket was probably about 900 ft
+- On the other hand, the rifles were hitting targets 3000 ft away
+- The soldiers were figuring this out as the battle was going on, generals on both sides had no idea this was a thing
+- The Russian regiments literally couldn't approach the British or French, who could fire at them with impunity
+- Victory for the Allies came quickly, and the Russians were forced to flee
+- Throughout history, major developments in weapons have been pretty rare
+- Comparable events were the switches from bronze to iron, or from longbows to crossbows
+- These were all very slow to happen and were all very similar
+- Gunpowder changed this, causing larger and larger leaps in technology
+- Overall, the 16th century armies weren't incredibly different in terms of hardware from Napoleon's army
+- Industrial society really changed this, manufacturing allowed new weapons to proliferate quickly, and commercial R&D prompted innovation
+- The Minie bullet is a great example of this, being created by a private company
+- With the Russians routed, the Allies were free to head to Sevastapol
+- It was a fairly well-defended city with a strong wall arranged in a star shape around the city
+- Menshikov had an assistant, a young German colonel named Franz Eduard von Todleben who was in charge of the defense
+- He had an abundance of artillery, so many he couldn't mount them all, but he didn't want to just put up a static defense
+- Not only was his forces always repairing and rebuilding the walls, but also creating new defenses
+- In fact he is credited with inventing the rifle pit, or snipers nest
+- The French and English were also building, with a large network of trenches around the city used to avoid Russian artillery
+- The bombardment of Sevastapol was the worst in history at the time, with about 1.25 million rounds used by the Allies alone by the end of the siege
+- Producing this volume of munitions is not easy, and especially to deliver it from Britain or France on a consistent basis
+- But industrialized production and transport networks did it, alongside several state munitions works there were private workshops supplying the British as well
+-

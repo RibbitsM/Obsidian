@@ -1,0 +1,24 @@
+- The hydrological cycle describes how water flows continuously above and below the surface of the earth
+- 97% of water on earth is salt water
+- 2% is salinized groundwater, the remaining 2% is fresh water
+- Out of this 2%, most of it is ice
+- Most evaporation is from the ocean, and most of that falls back into the ocean
+- Evaporation leaves salt in the ocean
+- Places with high salinity are places where more water evaporates than falls as precipitation (red sea), and the opposite is true for low salinity (near amazon river basin)
+- To calculate the residence time of water, we divide the reservoir size by net flux
+- The residence time of the atmosphere is only about 40 days
+- Nansen theorized that the Coriolis effect is exerted on icebergs
+- This is how we discovered the Ekman spiral
+- The effect of the wind on water is deflected by about 20-40% by the Coriolis effect
+- Then the movement of the surface water moves the layer below it via friction
+- This is also deflected by about 20-40%, and then it moves the layer below and so on
+- Each layer loses a little more force via friction until there is barely any movement at all
+- This creates a spiral pattern we call the Ekman Spiral
+- Even though the surface is only deflected slightly, the net transport of water is deflected by 90 degrees
+- Called the Ekman Transport
+- On a rotating earth with no continents, the Ekman transport is 90 degrees from the angle of the wind
+- Depending on what hemisphere you're in, it'll either be 90 degrees to the right or left
+- At certain latitude lines we'll either have two currents converging or diverging
+- When two currents diverge, water from below wells up to fill the space
+- In upwelling areas the surface height of the water actually lowers, and creates a spiral pattern
+- When two currents converge, water is forced down and creates downwelling

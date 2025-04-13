@@ -1,0 +1,103 @@
+- The University of Jena was one of the first of it's kind in Germany
+- Famously, a notable patron of the University was Goethe
+- Another lecturer was Hegel
+- He was criticized by many of his students, including Schopenhauer
+- Wrote a book called the Phenomenology of the Mind
+- Argues that history is the unfolding of the mind over time
+- As the mind progresses from state to state such as graduating from simple perception to awareness of the self
+- This was also applied to societies as a whole, which develop to become more rational over time progressing towards ultimate knowledge
+- For Hegel, war was an inherent element of this process
+- He believed that this was caused by the temporary manifestation of the Geist or world mind in the body of a person
+- When Napoleon arrived in Jena in 1808 Hegel saw him for the first time and saw him as the World Mind incarnate
+- Many Germans, including Hegel had supported the French Revolution, but as Napoleon became more and more Caesarean doubts began to grow
+- In 1805 he became king of Italy, and dissolved the Holy Roman Empire and replaced it with the Confederation of the Rhine in 1806
+- During the last two Wars of the Coalition, Prussia had remained neutral
+- But when France started meddling in German affairs and "accidentally" crossed the Hanover border led to Prussia joining the coalition
+- However, Prussia was no longer the unstoppable military machine it used to be
+- Prussia issued an ultimatum to Napoleon to withdraw to behind the Rhine but failed to properly mobilize and call up their allies first
+- Prussia and it's local allies marched southwest with their full force of about 113,000
+- Their forces were directed by three commanders, all quite old at this point
+- War councils were generally divided, with no one being able to come to a decision
+- Troop concentration was crucial, being able to field as many troops at one battle simultaneously as possible was very important
+- However this created major gridlock, and some armies, including the French army, had a policy of never fielding more than 50,000 men to avoid this
+- Today, military operations can be divided into three levels: strategy, operations, and tactics
+- Strategy is the goals of the entire war, the biggest picture of the three
+- Operations is decided on a per campaign basis, set your objective, dates, path, and timeline
+- Finally, tactics is what takes place when the fighting actually starts, how to win your battles
+- But at the time, the operations phase was basically absent
+- Military commanders did not have a robust support staff, they were expected to do this all by themselves
+- France, Austria, and Prussia were beginning to build up their military staff but not much
+- France established the Topographic Bureau in 1794 which was responsible for collecting intelligence and drawing up maps for military campaigns
+- In the old order, desertion was a big problem so detaching units was uncommon
+- Fears of desertion also meant that foraging was uncommon so armies relied on rear provisions
+- This is what the Prussians were having issues with, moving the army is difficult when you have to keep everyone together to avoid desertion
+- The French army decided not to do this, they trusted their men enough that desertion was negligible
+- Army was divided into several smaller units like divisions, battalions, brigades, regiments, etc.
+- Importantly, these units were self contained and each one contained infantry, cavalry, and artillery rather than relying on several uniform units meeting up for combined arms maneuvers
+- Units were self directed and self sustaining, allowing much larger numbers of men to be moved fairly easily
+- Allowed French units to spread out along a larger front, but suddenly converge into concentrated columns at a moment's notice
+- Opposite to the Prussians, the French army was lead by several young generals who had proven their worth in previous battles
+- When they did ultimately meet in battle, the Prussian forces were helpless against the increased mobility of the French forces
+- Even when a smaller French contingent ran up against a much larger Prussian force, the combined arms approach allowed the smaller force to still pose a major threat
+- This was a disaster for Prussia, after major defeats in Jena and Auerstadt the French simply marched into Berlin and the Prussians surrendered
+- Not only had the famous Prussian army been defeated completely, but in only four weeks
+- Prussia lost half of its territory which was used to create the Kingdom of Westphalia, but also was forced to pay and indemnity to France
+- Massive humiliation for the Prussian state, and ensured that major military reforms were inevitable
+- The technology was equal, so the differences were clearly social and organizational
+
+**How Did the Napoleonic War Change Ideas and Values?**
+
+- Prussia sought their answers to how to reorganize in Jena, at the university
+- Looking at the figure in question, we should look at Napoleon's past
+- The Buonapartes were not originally from Corsica but migrated from a Genovese state
+- Napoleon's hero, Paoli was a Corsican nationalist fighting against the French administration, but his father Carlos changed sides to ingratiate himself with France when Corsica lost
+- While they were legally considered noblemen, this was based on a very questionable legal claim
+- Family was not homeless, but Carlos was a gambler and wasted the majority of his fortune
+- Napoleon really grew up on the margins of French society and prior to the revolution had little hope for a future
+- One gift that Carlos did give his son was a scholarship to L'Ecole de Mars where Napoleon was a major outcast
+- When he graduated from the Auxonne Academy, he was the only Corsican who had ever done so and ever would
+- We know he was a voracious reader and a prolific writer, became the walking embodiment of the decades of advancement in French military education and enlightenment thinking
+- Inherited the resentment of Britain left over from the 7 years war
+- Personally studied with some of the finest military minds at the time which greatly influenced his organizational thinking
+- Napoleon's first instinct was to return to Corsica when the revolution began
+- But with the overthrow of the monarchy, they began to see a future for Corsica in the Republic
+- After conflicts with the Paolistas in Corsica, the Buonopartes were exiled and sent to France
+- In the aftermath of the revolution, it no longer mattered that Napoleon was not French
+- He was anti-federalist and defended the Jacobins publicly, which secured him a job as an artillery officer and later a promotion to brigadier general
+- He later secured a new patron, the Vicomte de Barras which allowed him to survive the coup
+- This paid off in 1795 when Barras had to defend against a coup and Napoleon showed up to handle their artillery by firing grapeshot into the mob
+- Napoleon was then put in charge of the campaign in Northern Italy against Austria where he won a series of major battles and forced the signing of a quite punishing treaty
+- He seized power in a coup in 1799, and the many Napoleonic wars followed for the next 15 odd years
+
+**Napoleonic Warfare**
+
+- Just as Phillip of Macedon and Alexander the Great, Napoleon inherited a great army built by his predecessors
+- Effectively unified command, Napoleon was personally involved at almost every aspect of war
+- Emphasized mobility over all else, troops were often expected to walk 40 plus kilometers per day
+- Very offensive approach, believed in always taking the initiative and attacking first
+- While his campaigns would be meticulously planned ahead of time, his actual battle tactics were often improvised or reused
+- Usually used flanking maneuvers, or used the Strategy of the Central Position where you divide an army and defeat it once piece at a time
+- The downside of this was an unusually high casualty rate which was common in France at the time
+- Battles were also becoming more frequent, with 715 from 1790 to 1815 alone
+- This was almost triple the rate of the previous three centuries
+- These battles were also increasing in scale, almost every battle in the Napoleonic wars were the largest in European history with the greatest casualties
+
+**Military Romanticism**
+
+- In contrast to the military enlightenment, the driving force in this era was romanticism
+- Broad cultural movement with no clear start or end date, but critical of the enlightenment
+- Discarded social conventions for the search for authenticity, emphasizing emotion and intuition above reasoning
+- Heroism is created from expressing one's inner vision, not from your material outcomes
+- Napoleon was certainly the poster child of the movement, he was an infamous dreamer
+- As opposed to the ideas of war as science popularized by enlightenment thinkers, many theorists (mainly Prussians) began to question these
+- Argued that every conflict was unique and depended greatly on chance
+- As such, there was no universal scientific model for war, it must be an art
+- War was not determined by organizational principles, but by a battle of wills
+- Esprit de corps was a key factor, and the genius of the general
+- Again, Napoleon was the poster child for this, often he would be asked for his rules of war and he would deliver a different answer every time
+- The battlefield was the key aspect of war for romanticism, and was much more important than the logistics leading up to it
+- Every war was resolved in a decisive battle that determined the fate of civilizations
+- However, this resulted in a vast oversimplification of historical events, a great example was how Hegel wrote about the Battle of Marathon
+- In addition, the French Republic allowed ordinary men to achieve great honour through displays of will, usually in battle
+- Similar to other societies, war made glory and prestige available to all
+- War was an art, psychology, and hinged on apocalyptic battles that were heavily romanticized

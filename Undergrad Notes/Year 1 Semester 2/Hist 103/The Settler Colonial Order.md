@@ -1,0 +1,44 @@
+- Colonialism is defined as "foreign intrusion or domination"
+- There are many aspects of colonialism and settler colonialism is just one of these forms
+- In settler colonialism, the goal is the settlement and transformation of a territory
+- Focuses on eliminating the local population and replacing them with settlers
+- This can be achieved in several different ways
+- North Americans focused on mass immigration and outnumbering local population, not the case in Africa
+- Extractive colonialism is a system where the colonizers are looking for raw materials
+- Depends on the labour of the indigenous population, closer relationship
+- Often results in intermarriage between colonizers and indigenous people
+- Can become settler colonialism
+- Planter colonialism was a system unique to the Caribbean
+- Focuses on sugar, coffee and cotton and labour is imported via slavery/indentured labour
+- More agriculture than pure resource extraction
+- Trade colonialism is a coercive trade relationship with a foreign nation, appears in places like Hong Kong and early India
+- Sparked the opium war
+- Missionary colonialism is often part of settler colonialism
+- Goal of expanding a religion by converting native people
+- Forms a part of the imperial structure but with different motives
+- Not really a part of the metropole
+- Neocolonialism is the forces of colonialism present after a colony gains independence
+- Many arguments about what exactly this entails
+- Usually takes the form of a exploitative relationship
+- Important to understand the difference between settler colonialism and colonialism as a whole
+- Also between imperialism and colonialism
+- Imperialism is more of an ideology, colonialism is a practice
+
+Settler Colonialism
+
+- International phenomenon
+- Especially present in North and South America
+- Another good example is Israeli colonialism in the Middle East
+- Has taken place in Europe as well in places like East Prussia
+- Similar policies were seen in Japan's occupation of Manchuria and other places in Asia like East Taiwan
+- An ideology about race, modernity, capitalism, and the environment
+- Immigrants were a huge part in the success of settler colonialism, were necessary for replacing and outnumbering indigenous populations
+- Dutch settlers in South Africa relabelled themselves and Afrikaners, an attempt to indigenize themselves
+- In South Africa the indigenous population greatly outnumbered the white population
+- As apartheid persists, the white population dwindles while the native population continues to grow
+- Goal was not elimination, but land dispossession and exploitation of local labour
+- Resistance to colonialism was focused on maintaining control of land
+- Distinct subset of settler colonialism
+- South African Native Farmers Association was targeted by colonial policy
+- Urbanization leads to a growing black population in the cities which destabilized the existing system where cities were white areas
+- New series of laws were implemented to further enforce segregation

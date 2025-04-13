@@ -1,0 +1,99 @@
+- By the 1240s, the Mongols had created the largest empire in human history
+- Not even the Mongols themselves truly understood the extent of their territory
+- Guyug referred to himself as the Oceanic Khan, stretching from the pacific to the Mediterranean and Indian Oceans
+- After the death of Guyug, the system of succession began to fall apart as internal conflict tore apart the golden lineage
+- Kublai was able to secure the title of khan and rule from Beijing, but not the respect that came with it
+- Empire split into four different khanates controlled by different descendants of Chinggis
+- These were the Yuan in China, the Chaghatai in Central Asia, the Golden Horde in Russia and Ukraine, and the Ilkhanate in Persia
+- We're not sure what the term Chinggis could mean, but it could be a mispronunciation of the Persian word for ocean, Tengis
+- At one point in history, the Roman Empire had control of the Black Sea, but now the eastern reaches of the empire were all but gone
+- All around their territory, the Mongols were conquering everything
+- In addition, the city of Venice was beginning to spread its influence in the Mediterranean and was establishing colonies in the Balkans as well
+- Genoa also got permission from the church to expand and establish colonies, including around the coast of Crimea
+- Kaffa, in modern day Crimea was a huge trading centre and port, and existed right on the border of the Golden Horde
+- The city was twice the size of Moscow at the time and was surrounded by an impressive wall
+- One of the biggest cities in eastern Europe, sustained a large and multicultural population
+- Significant Christian, Muslim, and Jewish populations
+- This was made possible due to its connection to the Silk Road and the Mongol Empire as a whole
+- This was the time of Marco Polo and significant levels of commerce, including slave trading
+- Trade boomed under the Mongols, who had a constant supply of slaves from constant wars, receiving tribute in slaves, and specific slave raiding
+- Capturing slaves was a lucrative source of income for the Mongols
+- There was also a strong rise in demand for slaves, specifically from Egypt
+- The Ayyubid Sultanate began to rely on an army made up entirely of slaves, which were cheaper and more dependable than mercenaries
+- These slaves were called Mamluks, the Arabic word for property, and some of these were Kipchaks
+- At the time there was a significant Kipchak population in Egypt because of the slave trade, and rose to power after the death of the last Ayyubid Sultan in 1260
+- However this process started in 1250, Egypt basically run by mamluks
+- In a defining battle, the mamluks were able to convincingly defeat the Mongols in 1260 at the battle of Ayn Jalut in modern Syria
+- They did this basically by copying Mongol tactics and doing it better, these were Kipchaks who were born on the steppe and familiar with steppe tactics
+- In fact the horses of the mamluks were better than the horses of the Mongols, with even more endurance than the Mongol ponies
+- Of course the Mongols were come back, and the mamluks needed slaves to fend them off which would naturally come from the Black Sea
+- Problem is, the Mongols were the main supply of slaves to be bought
+- The good news was that the Golden Horde selling in the Black Sea were at war with the Ilkhanate that the mamluks were fighting and were happy to sell
+- This trade continued to enrich Genoa, making it one of the wealthiest cities in Europe
+- Despite the immense amount of money flowing, this was not all as secure as it seemed
+- The Golden Horde had second thoughts about the moral implications of the slave trade, especially given they were fighting other Mongols
+- Also concerns about some slaves being Mongols, and later when the Golden Horde converted to Muslim, concern about Muslim slaves
+- Relations with the Italian colonies were also not very good, in fact Toqta Khan even besieged Kaffa at one point
+- The citizens burned the city and evacuated, and when Toqta died they returned and rebuilt, but with better defenses this time
+- The next Khan, Janibek, also had poor relations with the Italian colonies
+- After an altercation where an Italian merchant insulted him, Janibek demanded another siege on Kaffa, was repelled, and besieged it again the next year to no success
+- In the end, the Mongol army was afflicted by a mysterious disease, ending the siege
+- As a last resort, the Mongols launched diseased corpses into Kaffa by catapult, with devastating results
+- Not only was the city infected with the disease, but it was spread to many other cities as well
+- This of course, was the beginning of the Black Death or the bubonic plague
+- The disease in endemic to the steppes, but had never spread before now due to the isolation of the steppe people
+- The plague was carried by the Mongol armies and spread to Kaffa, where the multicultural inhabitants spread it to most of Europe
+- It was also spread to other places the Mongols visited including Egypt, China, the Middle East, etc.
+- In terms of the human cost of the Mongol wars, its very hard to calculate
+- Very poor records from the time, and the Mongols fought so many different civilizations
+- Out of the data we do have, there's really no way to tell whether deaths were caused by the Mongols or not
+- Inconsistent claims from historians, numerous examples of claims being overstated by the Mongols
+- However, there's no doubt that the results were devastating
+- In the Jin Empire specifically, in 1207 there were about 7.6 million households
+- After the Mongol wars in 1235, this number went down to only 2 million
+- This is 10 million people that basically disappeared over the course of 30 years
+- The Mongols also sacked and destroyed many major cities including Beijing, Moscow, Delhi, Baghdad, Kyiv, etc.
+- According to a study, the Mongol Invasions also had an impact on the climate, causing so much depopulation that the decrease in land use dropped global CO2 levels
+- A common Mongol letter had 6 specific demands that were used in pretty much every example
+- All of these are related to the Mongol ability to wage war
+- First, they had to provide auxilary troops
+- Second, you must provide food and taxes to the Mongols
+- Third, you must accept a darughachi, or governor
+- Fourth, the rulers must send their children to the Mongol court as hostages
+- Fifth, you must become part of the postal/messenger system and host Mongolian messengers
+- Finally, you must agree to a census to calculate tax and troops
+- Just as all Mongols served in the army, vassals must send troops
+- Clergymen were exempt from this rule no matter what religion but were still expected to pray for Mongol success in battle
+- Nomads were preferred, but farmers and urbanites were still utilized either as labourers for the army or as garrison soldiers
+- All Mongol subjects were expected to do a certain amount of physical labour without pay per year alongside sheltering postal riders and pasturing Mongol horses
+- This was all in addition to any duties peasants had to their feudal lords
+- In many places this system of corvee labour was common, but especially in China this was seen as new, unpleasant, and very unpopular
+- Often, corvee labour was used to deal with natural disasters, which were extremely common in China
+- Frequently led to anti-Mongol uprising among Han Chinese populations
+- Census taking was a key part of the Mongol regime, and census takers were very important
+- To ensure cooperation, census takers relied on local elites and the darugachi of vassal states
+- This was always done by Mongols, never locals
+- These governors were basically universally hated and depicted as rich and rude in many stories
+- The Mongol system of government was often replicated by their non-Mongol successors, including Timur Lenk, the Crimean Tatars, the Ottomans, and the Mughals
+- Key parts of the political model were the mandate of heaven and the mixing of civil and military functions of the state, little separation between the two
+- Also the idea of the state as private possession
+- Out of all the successors, some have argued that modern China and Russia were greatly influenced by the Mongol model of government
+- In fact in the case of Russia, many have argued that the Russian Imperial dynasty would never have happened if they had not been conquered by the Mongols
+- Another product of the Mongols was a connection between Western Europe and East Asia
+- While they never came into contact directly, these regions all fought the Mongols at some point
+- These protected states such as in Japan, Eastern Europe, Southeast Asia, etc all had the factor of stiff internal competition in common as well
+- Depending on how vulnerable a population was to Mongol invasion they developed differently
+- The final commonality was coming up to solutions for fighting Mongol horse archers
+- Short term solutions were building strong fortifications and using scorched earth tactics
+- Another option was just imitating and copying Mongolian weaponry like the sabre and hiring your own horse archers, which was the solution of the mamluks
+- This was the most successful strategy, but this was not a cure-all
+- What was needed was new technologies that could challenge the range and mobility of horse archers
+- This took the form of trebuchets and Chinese gunpowder weapons like the firelances
+- It is known that the Mongols used gunpowder against the Chinese, it is less clear that they used it in Europe
+- At the time, gunpowder was seen as inferior to engineering solutions like trebuchets and siege weapons that had far superior range and were a European specialty
+- In summary, the effects took the form of several categories
+- The economic effects were an expansion of Eurasian trade networks
+- The demographic effects were mass destruction and displacement
+- The social effects were subjugation and militarisation
+- The political effects were the spreading of the Chingisid model
+- Finally were the military effects which was the kickstarting of the gunpowder age

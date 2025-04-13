@@ -1,0 +1,101 @@
+> [!caution] This page contained a drawing which was not converted.   
+
+- Ad curve is distinct from the micro demand curve because it includes all goods and services in one curve
+
+- Shifting to the left or right means real GDP is less or more at the same price level
+- Real GDP can be considered to be a form of quantity demanded by an entire economy
+- Can be caused by changes in expectations, changes in asset prices, stock of physical capital
+- Change in asset prices is caused by wealth effect, but is a shift while a change in the price level is just movement along
+- When physical capital is low, businesses will invest in more capital, increasing GDP
+- Unlike in macro, the curve doesn't slope downward because consumers switch to other goods
+- It's caused by the wealth effect and interest rate effect
+- Wealth effect occurs when price levels rise and reduce purchasing power, causing people to scale back their consumption
+- A rise in the price level also encourages people to borrow more money to maintain their purchasing power
+- This leads to a rise in the interest rate
+- This higher interest rate also discourages consumption similarly to the wealth effect, and we call this the interest rate effect
+- Can also be affected by fiscal and monetary policy
+- An upward shift in aggregate consumption caused by changes in expectations
+- For changes in asset prices see what would happen if Vancouver house prices dropped
+- Homeowners would feel much less rich than they do right now and would be less inclined to save (wealth effect)
+- Fiscal/monetary policy can be either expansionary or contractionary
+- Government can purchase goods and services to affect the economy, fiscal policy
+- The second way is through the tax rate, can raise or lower according to income
+- Finally they can use transfer payments to give money to households
+- Intervention can be expansionary (boost the economy) or contractionary (rein it in)
+- A government seeking to use expansionary fiscal policy, they would buy more, reduce tax rate and increase transfer payments
+- Shifts AD curve to the right
+- Monetary policy deals more with the banking system
+- Paul Walker used contractionary monetary policy to reduce inflation in 1995
+- Govts use monetary first, then fiscal if it doesn't work
+
+Aggregate Supply
+
+- Relationship between aggregate price level and aggregate output
+- Separated into long and short run
+- In the short run, input prices and technology are fixed
+- In the long run, everything is flexible
+- This is because input prices take longer to adapt to changes in demand than output prices
+
+- Calculated via profit per unit of output which is the output price minus cost per unit of output
+- If the price index falls, output prices will increase but input stays the same in the SR
+- To restore per unit profit, a firm must reduce labour to compensate
+- Output is reduces, but marginal productivity per worker and per unit profit increases
+- Anything that affects this per unit profit would be able to shift the SRAS left or right
+- This includes nominal wage, changes in productivity, and commodity prices
+- If worker productivity decreased, this would shift the curve left
+- In the long run since the firm can fully adapt, aggregate price level has no affect on output
+- Prices include costs of labour like nominal wage because in the long run firms can renegotiate labour contracts
+- Therefore the only determiner of the LRAS is the availability of factors of production in that economy
+- The potential output is the level of real GDP the economy could produce if all prices were fully flexible
+- Appears as a vertical line  
+- The only way for the LRAS to change is for the potential output to change
+- Say the labour force increases, and raises the economic potential of the economy
+- The SRAS tends to shift towards the LRAS
+- If the SRAS is producing above the potential output it will shift left, if it is producing below it will shift right
+- This is caused by changes in nominal wages, if there is low unemployment wages rise and shift the SRAS left, and the same is true for high unemployment
+- The SRAS should always have a price and output level that is present on the LRAS
+- Studies show that in times of high unemployment there is little change in wages
+- This means that there is a tendency for economies to go towards potential output with no outside intervention
+- The inflationary cap is the maximum point that real GDP can reach above the potential output
+- This is because at this point workers are overworked to the point that firms must raise wages, which shifts the curve back towards the left
+- This is challenged by the theory of sticky wages
+- Wages will not fall during times of high unemployment, therefore the SRAS will not shift back right
+- Using SRAS and AD we can find the equilibrium price level and real GDP
+
+Demand/Supply Shock
+
+- A demand shock is an event that causes a shift in the AD curve
+- Positive demand shock is a shift to the right, negative shock is a shift to the left
+- Changes in foreign economies can drastically influence demand
+- A recession in the US can cause a negative demand shock in Canada
+- Meanwhile if the economy is expected to boom soon, there would be a positive supply shock
+- Equilibrium moves along the positively sloped SRAS, meaning a shift to the left decreases real GDP and price level
+- A big enough demand shock can cause a recession
+- Supply shocks also exist
+- Shift to the right is positive, shift to the left is negative
+- Say a technological advancement reduces production costs and increases per unit profit, supply shifts to the right
+- Remember AS is determined by input and output prices, so an increase in input prices can cause a negative supply shock
+- When the SRAS curve moves along AD it changes real GDP and price level
+- A negative supply shock would raise price level and reduce real GDP
+- Two negative effects, both increases inflation and reduces real GDP
+- Supply shock is harder to manage and has worse effects, creates stagflation
+- Many policy strategies will only increase inflation or unemployment, must choose lesser of two evils
+- A positive supply shock lowers price level and increases real GDP
+- At long run equilibrium, LRAS, SRAS, and AD all intersect at equilibrium
+- If SRAS tends to settle at potential output and AD intersects with SRAS, all settle at potential output
+- A recessionary gap occurs when AD settles below potential output and an inflationary gap occurs when it settles above
+- In these cases an output gap can be calculated by subtracting potential real GDP from actual real GDP and dividing by potential real GDP
+- When there is a recessionary gap the output gap is negative, if there is an inflationary gap it is positive
+- Potential real GDP is also called natural rate of output
+- Say there is a negative demand shock in the long run and AD shifts to the left
+- Equilibrium would shift down and left, creating a recessionary gap and a negative output gap
+- In response, nominal wages fall and shifts SRAS to the right, centring equilibrium on the potential output, but at a lower price level that it initially was at
+- Now if there was a positive demand shock, maybe the government reduces tax rates (fiscal policy) which would create an inflationary gap and a positive output gap
+- In response, wages rise and shifts supply left, putting equilibrium back at potential output but at a higher price level
+- This shift can take a long time, even up to 10 years
+- This is how recessions and inflation periods happen
+- Stabilization policy is what we call using monetary and fiscal policy to prevent demand shocks
+- This helps the economy in the short run but racks up debt over time
+- In addition, it has no real answer to supply shocks
+- Can't fix rising prices and falling output at once, can only save one
+- Either leads to rampant unemployment or inflation, usually choose unemployment

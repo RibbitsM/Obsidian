@@ -1,0 +1,85 @@
+- What is the state and what does it do?
+- State is the "highest form of political authority" - equal only to other states and above all challenges
+- In theory, all states are equal
+- In practice this differs based on power of a state
+- There are exceptions, cartels can have more immediate political authority than the state
+- Highest means strongest in theory
+- Immediate authority can be more powerful
+- State replaced feudal structure and the church
+- Feudal structures were not considered states
+- All kinds of valuable personal information are known to several governments
+- The 5 eyes is an alliance of Canada, Australia, New Zealand, Britain, and the US
+- Share all private data and is stored in a server farm in Utah
+- This type of control and information about a person is unique to the state
+- Strongest form of political authority in history
+- The strongest king in history was Sun King Louis and he had less power than most weak states today
+- The US Patriot act was established after 9/11 and allows unprecedented amounts of surveillance on US citizens
+- Can pass laws without the public knowing about them
+- Created for the purpose of preventing terrorist attacks
+
+Where does the state come from?
+
+- It definitely has European origins, possibly Protestant or Calvinist
+- Can be seen through the 15th and 16th century, and emerged definitively in the 17th century
+- Oliver Cromwell led a coup against the king of Britain and established a theological commonwealth
+- Extremely puritan
+- Asked every single church in England to get the names of all of their parishioners
+- Can trace the life of every single person recorded afterwards and their descendants
+- First example of information collection on this level
+- Occurred in the 17th century
+- Didn't replace feudal system but emerged from it
+- Cromwell collected census information to enforce laws
+- State had rival forms of governance like empires, cities, communes etc.
+- The state won out as the dominant form of government
+
+Why did the state win?
+
+- How did the state win out against these long established forms of government?
+- Benefits of the state are better social cohesion and more social control
+- Bellicists argue that war makes states, and states make war
+- The state is very efficient in terms of mobilizing for war
+- As more wars erupted, being a state became more and more necessary
+- King cannot do this, the armies belong to lords not the king
+- Decentralized power, ruler does not directly control anything
+- Just one of many theories
+- Marxist theory argues that the key lies in the means of production
+- Upper class has much more control over production in a state
+- More control over production and allocation of land and goods
+- Contractualists argue that a social contract under a state inspires loyalty
+- Marx failed to foresee the strength of national loyalty when saying that the working class would unite under one struggle
+- States inspired national loyalty, turning workers against eachother
+- People living under the Ottoman Empire identified with religious groups more closely than with the empire
+- States were more efficient at answering the 3 key problems
+- The state was more efficient and organized on all levels
+- Established authority, deployed resources, and settled conflicts efficiently
+- Sturdier a political mechanism is, the easier it is to transfer authority from one ruler to another
+- Some states are countries, and some countries aren't states
+- The state and the country are distinct concepts even though they are often understood as the same thing
+- This is related to the power of a state, the more successful a state is the more often it is associated with the country
+- Nations are not states, nations are a cultural idea
+- Occasionally a state is successful enough that it represents a culture, but not often
+- What a state does depends on the state
+- What problems does each state face and what kind of state it is
+- In reality, types of states are blob-like, and are different depending on how involved a state is
+- Least that a state does is the night-watchman state
+- Rarely see the night watchman unless you are a criminal or a victim of a criminal
+- Ideal state for some US republicans
+- Minimum amount that the state is involved in our lives
+- State keeps us safe and that's it
+- Middle of the spectrum is the welfare state
+- Examples are Canada, France, and Sweden
+- Involved in civil society, provides employment insurance and free healthcare
+- Distributes resources to more disadvantaged members of society
+- Focus on maintaining, not pushing progress
+- Last example is the developmental state
+- State is actively involved in partnerships with society and business
+- State encourages factory building, supports companies, and works towards a specific goal
+- Examples are Japan and South Korea
+- Very rare to see a state that only does one thing
+- These are additive, all states are night watchmen, but do other things as well
+- None of these states are objectively better than the other
+- China is also a developmental state, think of the huge change China has gone through in the last couple decades
+- One of the most hardcore developmental states, uses enormous state power and control at every level to achieve societal goals
+- Five year plans are a good example of developmental states in action
+- Developmental state intervenes in society to promote economic growth
+-

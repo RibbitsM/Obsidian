@@ -1,0 +1,9 @@
+- RFLPs are detected by southern blots or with PCR and restriction enzymes
+- Amplify the target and use cutting enzymes to determine if the SNP is there or not
+- VNTRs are detected with just PCR amplification, the size determines the result
+- VNTRs take the form of repeats, different people have different numbers of repeats
+- If a person who is homozygous for 2 repeats has a child with someone with 5 repeats, then the child will have one of each
+- Every band in a child can be attributed to the mother or the father, this is how people determine the biological parents of a child
+- Two people may share the same bands on one locus, but everyone has a unique pattern of bands when looking at the whole genome
+- SNPs, RFLPs, and VNTRs are inherited just like any other gene
+-

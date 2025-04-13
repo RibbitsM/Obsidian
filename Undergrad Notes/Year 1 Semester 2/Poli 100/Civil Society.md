@@ -1,0 +1,70 @@
+- The essence of civil society is protest, expressed in terms of protest
+- Protest is the ability to affect policies made by the government by non-government agents
+- Considered "for the rest of us", political power for people who aren't government workers, policy makers, police officers, military officers
+- Not all government workers actually have power, most are still considered civil society
+- At the time the term was invented, things were much less complicated as governments were made up only of people with political power
+- Hardcore liberal concept, based on protesting government policies so obviously not related to authoritarian states
+- Created around the point of time where democracy was limited to rich landowners, much closer to the Athenian method
+- Even before the conception of civil society, the idea has been in practice for thousands of years
+- In the Dark Ages, peasants met with the lord and negotiated vacation days and wages
+- Power of civil society long before the 18th century
+- Evidence that Egyptian workers had unions
+- Western societies assume that individual and group rights to protest are a given
+- Not true in many countries in the world
+- Protest is not only allowed but also encouraged
+- Beyond this, civil society requires time
+- People must have the resources required to organize, they need money and free time
+- Therefore many lower-class people do not have access to the resources necessary to begin participating in civil society
+- No matter the desire to engage in politics, there is a resource barrier in place
+- The US Department of State took activists from many countries over the world and trained them in a two month workshop on practicing and encouraging civil society
+- From the perspective of the governments that these people belong to, civil society is a Western idea that is designed to undermine non-Western governments
+- Civil society is an inherently liberal and Western idea, and therefore is a divisive topic for the rest of the world
+- Easy to view these activists as Western agents, civil society is a Western tool
+- In some ways it is neutral, after all the US has it's own subversive civil society
+- Even those who genuinely believe in civil society can be seen as Western agents, and genuine believers can be turned into Western agents
+- Lobbyist groups are interest groups based on desire to affect policy, they are representatives of civil society
+- The KKK are an assembly of citizens trying to affect policy so they would be part of civil society, but terrorists and groups that use violence are generally not considered civil society
+- The Hezbollah is made of citizens organizing to carry out government functions when the government is found lacking, therefore they are civil society
+- However, they do have a military arm which is not considered civil society
+- The IRA had a similar role in the Irish Civil war, and also became part of the government
+- GONGOs are civil society because civil society does not always have to challenge the government, they can also support them
+- The mafia is not civil society as they commit crime, but sometimes replace the govt
+- For example the mafia helped Italy during the peak of the pandemic, and the Yakuza replaced government after natural disasters in Japan
+- Aspects of civil society exist in almost all interest groups
+- Churches, synagogues, and temples are all great examples of civil society as they represent gathering based on shared beliefs
+- Churches affected many, many political changes in history as they are one of the only places for community discussion
+- Any group of civilians that group together with a shared interest, even if they don't have any political involvement at the moment
+
+Corporatism
+
+- Corporatism is civil society in an authoritarian state
+- State seeks relationships with powerful interest groups in the country
+- All of these groups are assigned roles to further the greater good decided by the state
+- Works well with groups that benefit from the status quo as it further enforces it
+- Main interest groups adopted into the corporate system, other groups controlled
+- Closely associated with Fascism, invented by Mussolini
+- Infrapolitics is associated with people who have no political power and exist below the notice of society
+- Politics by the powerless and un-represented, who cannot engage in politics
+- An example would be illegal immigrants, who cannot interact with politics as they aren't supposed to be part of that system
+- These groups use the "weapons of the weak"
+- This includes poaching, squatting, desertion, hunger strikes, etc.
+- Most of these are self harmful or illegal
+- The US Civil War is a great example as the South collapsed due to desertion, weapons of the weak
+- Robin Hood is a classic literary example
+- Stealing from the rich and giving to the poor, weapons of the weak
+- Without this tool he would have been politically invisible
+- Koroglu formed a band of outlaws in the mountains of Turkey, used stealing as a challenge to the Sultan's power
+- Most people tend to resist their oppressors with violence
+- Infrapolitics tends to arise when violence is involved
+- Can easily be labelled as terrorists by the government
+- History tends to be written by the victors, unsuccessful infrapolitics tends to be labelled as terrorism
+- Therefore terror can be a weapon of the week
+- This doesn't endorse terrorism necessarily, but it is undoubtedly infrapolitics
+- Cannot be carried out by elites, feuds over power are not infrapolitics
+- Since 18th century, many more people have joined civil society
+- It used to be much more uncommon but now almost everyone is
+- Because of this, the definition of civil society is failing
+- Often no choice in being part of civil society
+- Civil society is no longer formed with the express purpose of enacting political change
+- Can work in terms of developmental aid, but often fails in terms of resistance
+-

@@ -1,0 +1,104 @@
+**Lecture 1**
+
+- No other advanced industrial state has more of its economy controlled by foreign investors than in Canada
+- Despite being an OECD country, it has many of the economic characteristics of lower-developed countries
+- It exports mainly natural resources, and what manufacturing it does have is concentrated in Ontario and Quebec and is made up mostly of branch plants
+- Not a single industrial sector in Canada is even primarily Canadian-owned
+- Despite having the world's longest undefended border with the world's largest economy, Canada does not have any sort of coherent investment policy
+- Canada also doesn't have an industrial policy
+- This isn't uncommon, but countries like Japan and the Asian Tigers have had massive success with a highly involved state industrial policy
+- For the more Marxist members of the NDP, Canada should implement an industrial policy
+- The "waffle faction" argues that Canada should nationalize all American companies and prevent the entry of more
+- The post WWII period was very good for Canada, the government under Pearson was very influential in international diplomacy
+- But this fell off quickly, and the country slid into more pessimistic mood in the late 60s
+- George Grant wrote a book called _Lament for a Nation_, basically saying its over for Canada
+- Kari Levitt said something similar in _Silent Surrender_ where she compared the country to South American countries using dependency theory
+- Overwhelming view that Canada was a passive puppet of America
+- But objectively speaking, this is not really true, just because Canada is primarily American-owned doesn't mean it is American-controlled
+- Canada still exercises a foreign policy that is fairly distinct from the US
+- A special issue that Canada faces is extraterritoriality
+- This is when Canada-based subsidiaries of US firms are subject to American trade law and policy, which causes a negative effect on the Canadian economy
+- An example of this would be Quaker Oats being banned from delivering grain to Cuba despite Canadian companies being allowed to do so
+- The response was the FEMA (Foreign Extraterritorial Measures) act in 1985 created under the Mulroney government
+- Makes it illegal for a company in Canada to obey US trade law
+- In the 90s, a Walmart store in Winnipeg was threatened with a fine for selling Cuban-made pajamas
+- But if they take the pajamas off the shelves, this violates FEMA
+- Walmart had to pay a fee either way, but paying the fee in CAD was cheaper so they sided with Canada
+- Pierre Trudeau compared Canada to a mouse sleeping next to an elephant, but in reality the US often knows that what they are doing will negatively affect Canada
+- Especially during the Vietnam War, the US was very unhappy with Canadian foreign policy
+- Multiple different instances of outright hostility in Canada-US relations
+- Canada has several different options when it comes to US MNCs
+- You can regulate them, you can deregulate them, or you can nationalize them
+- The third option is not exactly very feasible, economically or politically
+- But Canada did try it with the National Energy Program (didn't go well)
+- Looking at the regulation option, it's quite common to regulate FDI, at least to an extent
+- Until 1973-4 with the creation of the FIRA, there was no concrete FDI policy in Canada
+- This was the result of the Canada 1972 parliament being a minority Liberal government
+- Since they needed the support of the NDP to do anything, the Liberals had to take a more hardline approach against MNCs and foreign investment
+- The FIRA grew out of the Gray Report, and is a central agency
+- Canada has a lot of these centralized agencies, mainly to minimize fighting among provinces
+- Goal of the FIRA is simply to ensure that FDI benefits Canada
+- There is no plan to kick any established MNCs out, they were grandfathered into the economy
+- FIRA exists as a filter, not a wall
+- Most companies that apply to invest in Canada are admitted, and only those that would hurt, or at least help themselves a lot more than they would help Canada are rejected
+- The argument for public ownership is that it can reverse the effects of economic imperialism
+- Regulation can usually only prevent future exploitation, as is the case with FIRA
+- If Canada was to pursue a nationalization policy, they would do it slowly and with respect to the hosts of the MNCs by gradually buying out an industry
+- Unlike the South American model, but its still nationalization
+- This is what Canada did with oil and gas through the National Energy Program in Oct 1980
+- Remember, we had the minority Liberal govt in 1973, but also the first OPEC shock
+- In 1979, there was another minority Liberal govt and an OPEC shock the previous year
+- Canada was late to the nationalization party, one of the last states left with any sort of nationalized industry
+- NEP has three goals: energy security, pricing fairness and revenue sharing, and increased Canadian participation in the industry
+- Energy security is a pretty outdated goal, nowadays countries are moving towards pursuing sustainable energy policies
+- The second goal was also flawed since the main target of controlling oil prices was to make specifically Ontario consumers happier (largest voter base)
+- Needless to say this didn't go over very well with Alberta mostly, but anywhere outside of Ontario as a whole
+- For the third goal, this is how PetroCan was created
+
+**Lecture 2**
+
+- The third option of de-regulation fits into the ideas of pragmatism
+- This is what the Mulroney government chose, trade and investment regulation were greatly reduced in the 80s, including the signing of NAFTA in 1989 (just FTA at the time)
+- In retrospect, NAFTA has been very good for Canada but at the time the general public was very concerned about the Canadian market being dominated by US goods
+- This kind of thinking is resurfacing again, but on the other side
+- The original proponents of free trade were Mulroney and the conservative party, and it was opposed by Turner and the liberals
+- Today, the liberal government is pushing free trade in Canada and the UCP are pushing back
+- 1984 was also the end of the FIRA, but it lives on in the form of Investment Canada
+- Name change was mainly symbolic, "Investment Canada" sounds much more inviting than Foreign Investment Review Act, which sounds much more oppositional and bureaucratic
+- Moving forward, Investment Canada did approve more cases than FIRA did, but not significantly
+- Mulroney was not responsible for killing the NEP, it was already dead when he came to power
+- Post-1989, foreign investment in Canada increased fairly significantly
+- Basically from confederation onwards, there has been significant US FDI throughout the Canadian economy
+- Vast majority of Canadian trade is with the US, but not the other way around
+- This proportion has decreased, peaking with 86% of FDI coming from the US in 1950 to 57% today
+- Most of that investment has been replaced with investment from the Asian tigers and the EU
+- In the 1960s, 31% of all US FDI was going to Canada, but today it is only 15%
+- Despite the relative amount of FDI to Canada falling, it is still rising in absolute terms
+- Canada received 18.2% of global FDI in 1967, today it's only 8%
+- This isn't necessarily a bad thing, Canada can't compete with tax havens like Singapore and Luxembourg, or with economic giants like the US and Japan but it's a respectable figure
+- Overall, Canada's policy on investment has been pretty inconsistent, mainly just responding to global trends and political movements
+- Not much major concern about FDI, with the exception of FIRA there has been no policy created as a direct response to FDI flows
+- In terms of FDI outflow from Canada, there are a couple defining characteristics
+- The Canadian economy is quite small, especially compared to its physical size and to the other OECD countries
+- There are major Canadian companies, but they're not well known outside of Canada
+- Because of this, Canadian MNCs usually go abroad to exploit economies of scale by entering new, much larger, markets
+- Generally, inward FDI has greatly exceeded outward FDI for most of Canadian history
+- It's still imbalanced today but it has improved significantly, currently outward FDI is about 74-5% of inward FDI
+- People generally think of Canada as somewhere where MNCs go, not where they come from
+- Unsurprisingly, most investment from Canada goes to the US (about 58%)
+- Canada is the third largest investor into the US behind Japan and Britain
+- Highly concentrated in resource industries or related manufacturing industries, financial services, and certain tech-intensive industries like communication equipment
+- Out of the largest MNCs in North America, the vast majority are American (unsurprisingly), maybe about 10-15% are Canadian and about 1-2% are Mexican
+- Canadian extractive MNCs are notorious for being some of the worst offenders of environmental and human rights
+- While not as high profile as American MNCs, there have been multiple incidents involving Canadian MNCs, with Talisman just being one example
+- According to a 2010 study that was never published, from 2000-2010, 34% of incidents involving mining companies were Canadian companies
+- Concentrated in gold, copper and coal
+- Most of these incidents were in Latin America, alongside sub-Saharan Africa and Southeast Asia
+- In terms of Canadian policy on outward investment, similar to inward investment there's no real consistent policy
+- Canada has been fairly ineffective in controlling their activities abroad, for example the Foreign Affairs minister personally asked Talisman to stop and they declined
+- Similar to the case of inward FDI, there's just not a significant perceived need for an investment policy
+- Canada doesn't control their MNCs because on average, outward FDI helps our trade more than it hurts it
+- FDI doesn't replace trade, it enhances it and because of this, it gets lumped in with our trade policy
+- Canada also doesn't want to take a concrete side on MNC debates, they would rather that issues with Canadian MNCs are handled by the host countries
+- For example, when Alcan came to the Canadian government for help when Guyana tried to nationalize them and they declined to help
+- This is because Canada values its neutrality, and would rather not antagonize other countries by siding with their MNCs when they do something wrong

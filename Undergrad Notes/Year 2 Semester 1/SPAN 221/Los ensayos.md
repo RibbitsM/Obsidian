@@ -1,0 +1,37 @@
+- Hay cuatro tipos de ensayos
+- Argumentativos, narrativos, poéticos, y dramáticos
+- Ensayos argumentativos tiene una tesis, y quiere ganar el apoyo de los leídos
+- Usa ejemplos y la lógica para persuadir a los lectores
+- El ensayo narrativo tiene una historia, con personajes, tiempo, y lugar
+- Usa la estructura del cuento para crear un mensaje
+- Usualmente el mensaje es comunicar por la cultura o las costumbres del cuento
+- El ensayo dramático usa un diálogo para crear su mensaje
+- Tiene voces y portavoces como una obra de teatro
+- Mensaje es comunicar por ejemplos o similitudes
+- El ensayo poético usa lenguaje literario para comunicar su mensaje
+- El autor crea imágenes con sus palabras para expresa un argumento
+- Evoca mucho emoción, pero no tiene un conclusión definitivo
+- Mariano José de Larra: Vuelva usted mañana
+- Literatura costumbrista
+- Es sobre el "crisis" de España, un crisis social y moral
+- Ensayo narrativo
+- Larra suicido muy joven, en el ensayo refiere al suicide
+- Mucho burocracia, la pecado de perezosa
+- Rosario Castellanos: Y las madres, ¿Qué opinan?
+- Autor moderno, nació en 1925
+- Crítica mexicana, escrito sobre la opresión cultural de las indígenas en México y tópicos de género
+- Ensayo narrativa/argumentativo
+- Sobre la natalidad, y la opresión de las mujeres
+- Publicado en 1950, el control de la natalidad fue una tema importante
+- Muy relevante ahora
+- Rechaza el concepto de la perspectiva religiosa
+- La natalidad es una experiencia humana, y se tiene que tratar como eso
+- Evita Perón: Los obreros y yo
+- Se casó con Juan Domingo Perón, y fue activista y política
+- Muere muy joven, y fue santifica por la población de Argentina
+- Una figura populista, junta a Juan Perón los dos construye Peronismo
+- Su vida fue muy romántica, y hay una película que demuestre eso muy bien
+- El ensayo es sobre el demonstración en La Playa de Mayo para liberar Juan Domingo Perón
+- Es una obra de propaganda política
+- Evita habla como ella es parte de pueblo, pero ella es distintamente alta, "los obreros y yo"
+- Los descamisados es un concepto prestado de Francia, representa los obreros y revolución

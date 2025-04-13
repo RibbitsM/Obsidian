@@ -1,0 +1,29 @@
+- Machine learning uses data to solve problems, and works better with more data
+- Best problems for ML are issues where you have large datasets you want to find complex patterns or relationships in that humans struggle to identify
+- Not very good for issues requiring a lot of context, creativity or ethical judgement
+- ML algorithms function best in rule-based environments where decision-making is very structured
+- Parameters are set by the model without our input, but we set the hyperparameters
+- An underfit model is too simple to make good predictions from the training data, and an overfit model follows the training data too closely to the extent that it does worse on unseen data
+- The fundamental tradeoff is that as model complexity increases, performance increases until an inflection point where overfitting begins to occur
+- We want to find the model that fits the training data as closely as possible without overfitting
+- This is generally determined by hyperparameters which control how many layers a model has
+- Decision trees on their own are fast and easy to understand, but pretty weak for prediction
+- The parameters are the questions at each step and max_tree_depth is our most important hyperparameter
+- KNN is non-parametric which means it has no parameters, but this also means that it is slower at predicting since it needs to memorize the full dataset
+- Our main hyperparameter here is k, which determines the number of neighbours
+- Smaller values of k mean a more complex model and vice versa
+- The benefits are that it can create advanced decision boundaries but at the cost of computing time
+- KNN is also fairly easy to understand, but a weakness is that it's purely distance based so you can't look at the impact of specific features
+- SVM RBF has two main hyperparameters, C and gamma which both increase complexity at higher levels
+- Powerful model which creates complex smoothed decision boundaries and functions much better than KNN at higher dimensionalities
+- The main drawback of SVM RBF is that it takes a long time as is the case for most advanced models
+- For logistic regression the parameters are the coefficients and the hyperparameter for Ridge() specifically is alpha, but generally linear models don't naturally have hyperparameters
+- Alpha lets us control the weight of different coefficients to adjust their effect on the model
+- This also lets us control the complexity of the model by reducing the weight of certain features to near zero to "remove" them from the model
+- The same goes for traditional linear regression, the only difference is the kind of target being predicted
+- For CountVectorizer(), our most important hyperparameter is max_features because it controls the fundamental tradeoff
+- Also you cannot use features directly related to the target, as they may result in high training accuracy but don't generalize well
+- This is a violation of the Golden Rule, so is using information from test or validation sets to fit preprocessors
+- Pipelines are an important tool for reducing this leakage, because it lets us automatically apply fits and transformations in sequence
+- Column transformers lets us apply different transformations to different columns depending on the data type of the feature
+-

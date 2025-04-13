@@ -1,0 +1,41 @@
+> [!caution] This page contained a drawing which was not converted.   
+
+- Technology can be defined as the way we do things
+- Modification of the environment with the use of tools or technique
+- Not necessarily exclusive to humans, animals using tools can be considered technology
+- Technology was first developed for sustenance, for thing like hunting and fishing
+- As we go past the hunter-gatherer phase into settled agriculture societies, we see technology being used for crafts and trades to manufacture goods
+- The next evolution would be the application of the scientific method to the production of goods and provision of services
+- Embodied technology is when the technology in question is the equipment itself, mainly tools such as spears, looms, ploughs, etc.
+- On the other hand, disembodied technology refers to the techniques used in the production process, usually involving some amount of knowledge or skill
+- Techniques always have specific and well-defined methodologies, there is a proper way to do it
+- Technology is often seen as a path to higher societal well-being
+- First scholar to formally apply economics to technological change was Robert Solow
+- In economics technology is a multiplier, it allows an increase in output from a set amount of input
+- Often, technological change affects the factors of production unevenly, when we do have a situation where all are affected equally, it's called neutral technological change
+- Most traditional growth models assume technological change is neutral
+- Even if individual discoveries might be biased, over time they average out to be neutral
+- If it is labour saving or augmenting, it raises the productivity of labour and presumably lowers employment
+- A good example is the mechanization of agriculture, most farming processes such as harvesting were traditionally done by hand
+- Next is capital saving and augmenting technology
+- Usually economizes on existing capital, more output per existing unit of capital
+- Examples could be faster machinery or longer uptime, like a night shift
+- Multiple theories of how technology affects production functions
+- Two examples are the Cobb-Douglas production function and Leontief's Fixed Proportions model
+- The Cobb-Douglas constant returns to scale model is most frequently used
+- An example of a Cobb-Douglas production function would be Q = AKaLb where A represents technology, and a + b = 1
+- This gives more flexibility, allowing for change in factors of production
+- Meanwhile, a Leontief equation would be Q = min[aK, BL)
+- In this equation, there is a direct proportional relationship between technology and the factors of production, it's a straight up multiplier
+- Essentially, Cobb-Douglas is a variable technology model where Leontief's is a fixed technology model
+- When examining the isoquants, CRS isoquants give a curved shape
+- In this case, the marginal rate of technical substitution would be the negative of the slope of the isoquant (change in K over change in L)  
+- This is the rate at which labour/capital can be substituted while holding output constant
+- Neutral technological change, not prioritizing either output, would just shift the isoquants towards the origin
+- Labour-saving technology would move the isoquant towards the K axis and towards the origin, and vice versa for capital saving technology
+- Another way to think about it is that neutral change preserves the K/L ratio but capital-saving change would decrease the ratio
+- We can also have isocost curves representing all combinations of the factors that can be used given a budget
+- Cost is equal to the rental rate of capital x quantity of capital plus labour wage x quantity of labour
+- Slope of the isocost is - wage/rental rate
+- Firms will produce where isoquant is tangent to isocost, meaning MRTS = wage/rental ratio
+- Average costs are the per unit costs of production, marginal costs are the additional costs from each additional unit of output

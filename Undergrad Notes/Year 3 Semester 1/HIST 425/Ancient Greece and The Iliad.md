@@ -1,0 +1,108 @@
+- Epic poem written by Homer about the siege of Troy
+- The Achaean alliance consisted mainly of the two city states of Mycenae and Sparta, led by Menelaus and Agamemnon
+- Troy, or Ilios/Troias was located across the Aegean Sea in Anatolia, on the coast of modern-day Turkey
+- Presumably not Greeks, could have been Hittites?
+- Often thought to be a mythical place, but archaeological evidence has suggested that there actually was a fairly large city where Troy is depicted to be
+- Probable that the Iliad was based on actual events
+- Huge effect on Greco-Roman culture, especially thinking around wars
+- Model for thinking about warfare and the world as a whole
+- If Homer was the greatest poet, then the siege of Troy was the greatest war, and Achilles the greatest hero
+- While the Iliad seems to be a celebration of war at first, it offers many criticisms of it's heroes, especially Achilles
+- Strife (Eris) along with war and battles are not exactly portrayed in a positive light
+- Far from being a champion, Ares is depicted as being hated by the gods opf Olympus, especially Zeus
+- In addition, there are no resource motivations for this war, it is entirely driven by emotional and personal reasons
+- Helen runs away to Troy with Paris, abandoning her husband-to-be Menelaus, who raises the armies of the Achaeans in retaliation
+- As a result, Agamemnon and Hector are forced into warfare unwillingly to defend their family and allies
+- Security pact made, since all are jealous of Helen it is agreed that all kings would come to the defense of Helen's husband in the case of a crisis
+- Another layer was the cosmological aspects, the gods go to war against eachother and it is reflected in the war below
+- Athena and Hera want to punish Paris for picking Aphrodite over them, and Aphrodite wants to punish Helen for not offering to her
+- Each god has their pet favourite human they want to come out on top and squabble among themselves
+- Zeus especially holds much ill will towards humanity, keeping fire from them, sent Pandora to release strife, and finally sending a war to reduce the population
+- The Greeks acknowledged that while war seemed horrible to them, they may have greater purpose on a cosmological scale
+- War is seen as a universal and unavoidable part of life that not even the gods are immune to
+
+**Who was Greek?**
+
+- Herodotus wrote of a situation where the Persian general Mardonius sought to separate Athens from it's neighbouring states
+- The Athenians refused to take a bribe from the Persians for two reasons, revenge and duty
+- The Persians had burned Athens before, and the Athenians had a duty to those of the same blood, tongue, customs, and pantheon
+- However, land is not mentioned since Greece never really existed until 1830
+- Much of Greece is arid, rocky, and terrible for farming with the sole exception of the plain of theses
+- There was a shared language in ancient Greece, while there were several strong regional dialects, they were mutually intelligible
+- Aeolian, Ionian, and Doric were the main dialects
+- The most important thing was that all of these states shared the same literary base
+- The term Greek was never used until modern times, they were considered Hellenika
+- Anyone who didn't speak Greek was a Barbaros, the origin of the word barbarian
+- Began as only a linguistic term, but eventually evolved into what it was today
+- There wasn't really a greek religion per se, but there was a generally shared pantheon that varied drastically
+- One notable example is how there was no central god of war
+- There was Ares of course, but also Athena who served many of the same purposed
+- Aphrodite also had several aspects which represented war
+- Also there was two separate entities named Enyo and Enyalios who represented war, but were eventually absorbed by Ares
+- The Greeks also shared holy sites, like Delphi and Olympus
+- An especially important part of culture were the Panhellenic Games, which included the Olympics
+- You could not compete in these games unless you were free, male, and Greek
+- A good litmus test of if a state was Greek was if they were represented in the Panhellenic Games
+- No war was allowed to happen during the games, and courts would shut down
+- Greek values were highly gendered, they considered themselves especially manly (Andreios), notable compared to the effeminate southeastern cultures
+- Greeks were rational (Sophron), clever (Metis), and independent (Autarkes)
+- The clever part is especially important, compared to other cultures the Greeks praised lies and deception
+- The barbarians to the north were considered to be impatient, irrational, and ignorant
+- Full of courage, but lacking in understanding and culture
+- The southerners were considered to be more intelligent, but lazier
+- Debate on whether there was only one Greek race, or several divided into Aeonians, Dorians, etc.
+- No single authority in Greek society, constant war between city-states
+- In addition, these states had differing political and legal systems
+
+**The Polis**
+
+- Aristotle argued that humans are naturally attracted to civic society
+- Human nature is to organize themselves into cities (Polis)
+- Polis represents not just the city itself but it's people, culture, traditions, and patron god alongside the surrounding area
+- Idea unique to Greek culture, power does not extend beyond the city walls
+- Part of the word for civic (politikos), citizen (politis), and civilization (politismos)
+- There are at least 700 recorded city states, all independent and it's likely there were even more
+- Because of this, it's very difficult to make assumptions about all of them
+- In Athens, the upper class were the Demos, male citizens who paid taxes
+- This class was subdivided by wealth
+- The Metics were excluded from the demos, and were male greek speaking citizens who were not from Athens
+- Below them were women and children, and finally slaves
+- More Metics than citizens in Athens, very unusual
+- The backbone of most Greek economies were small scale private farms
+- Same idea applied to the cities, populated by small family owned artisan shops
+- Most Greek citizens were economically independent, and were socially and legally equal
+- There was no concept of serfdom or employment, businesses consisted of the male owner, his family, and a few slaves
+- There was a common association between farming and war in Greek society
+- Seen as being natural partners and equally noble
+- Early on, professional warriors were uncommon, and only associated with despots
+- Warriors had to supply their own weapons and armor, and weren't paid either
+- There was a war season, between the sowing and ploughing and the harvest in the fall
+- No extended campaigns, fought close to home
+- Lot of courtesy in warfare, there were set armies, places, and times to fight
+- While battles were hard-fought and brutal, if one side was winning the other side was allowed to collect their dead and run away
+- Prior to the Peloponnesian War, there was little fighting over land, merely small border conflicts
+- The causes of war were usually not thought of as necessity, but greed
+- Pleonexia was the word for the desire for more, used to characterize rich imperialist states
+- Another important word was Hubris, which directly translates to transgression, but has many meanings
+- Can be violation, arrogance, unearned pride, etc.
+- Wars were fought for honour, glory, and revenge, plunder was secondary
+- Land was a motivator, but not important land, usually just borders between states
+
+**Agon**
+
+- Agon was an immensely important word in Greek, which means struggle and contest, but also assembly
+- Competition was a key part of Greek society, anything could be a measure of Agon, whether physical fights, literature, debate, etc.
+- These competitions were open to all Greek citizens, and presumed to be fair
+- There is no prize, winning and status is it's own reward
+- Wherever there was a collection of Greeks, Agon naturally took place
+- Open encouragement of disharmony and conflict in society, extremely unusual for societies of the time
+- War may not be necessarily a good thing, but it was a form of Agon
+- Winning and excellence is the best thing in life, and strife is what creates excellence no matter what the task is
+- Clearly stated in the Iliad, this value of excelling is pervasive in Greek society
+- In the original Olympics there was no silver or bronze, just the winner and the losers
+- Anecdotes from Histories of the Persians learning that the Greeks compete only for the sake of winning and no material reward
+- Another anecdote is Solon's answer of who the happiest man he met was
+- He answered, Tellos of Athens, a relatively unimportant guy
+- His children were good and noble, and his grandchildren healthy
+- He had modest wealth, a respected name, and a glorious death in battle
+-

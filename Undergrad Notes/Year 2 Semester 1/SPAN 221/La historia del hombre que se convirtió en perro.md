@@ -1,0 +1,11 @@
+- Escrito por Osvaldo Dragún
+- Teatro del absurdo, inspira por Kafka
+- Dragún fue judío en Argentina, no soporte el peronismo
+- El teatro absurdo usa mucha repetición
+- No tiene lógico, no causa y efecto
+- No final claro, todo es en un ciclo
+- Humanidad es como marionetas, controla por sociedad
+- La conciencia social es un parte de eso, comenta el la alienación humana
+- Inspira también por el teatro de la crueldad de Antonin Artaud
+- Escenas de crueldad exista para crear "shock"
+-

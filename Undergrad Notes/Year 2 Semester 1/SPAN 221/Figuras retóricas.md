@@ -1,0 +1,12 @@
+- La hipérbole es una gran exageración
+- Por ejemplo, "erase un naricísmo infinito"
+- La personificación es el proceso de darle características humanos a objetos o animales
+- El apóstrofe es la invocación de cosas inanimadas
+- El epíteto es cuando algo agregar adjetivos innecesarios antes del nombre
+- La anáfora es cuando repitió un palabra al principio de la frase
+- El hipérbaton es invertir el orden del las palabras
+- Puede aparece como un adjetivo en un lugar impropio
+- Usa primario por énfasis de las palabras importas
+- Quiasmo es cuando dos palabras son invierten para formar un cruz
+- Feliciano me adoro y le aborrezco
+- Lisardo me aborrezca y le adora

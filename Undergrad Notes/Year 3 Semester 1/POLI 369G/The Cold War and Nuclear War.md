@@ -1,0 +1,62 @@
+- The primary objective of nuclear weapons is deterrence, but to make that credible your nuclear weapons need to be usable
+- For effective deterrence, you need to be able to fight a nuclear war
+- One of the paradoxes of nuclear weapons
+- Several ways in which a nuclear war might start
+- The first is a surprise attack or a "first strike"
+- This could be pre-emptive, or completely unprovoked
+- However, radar and satellite technology has limited the feasibility of this option
+- It’s still possible to launch an attack like this given the country being targeted has poor early warning systems
+- The next possibility is an accident, this can be through equipment error or simple miscalculation by one sides leadership
+- Popular scenario is that a sensing malfunction could cause a war due to launch on warning policy
+- Another possibility is catalytic war, which involves a third party
+- In this case two countries are at war, and an unknown third party detonates a nuclear bomb
+- Each side blames the other, and total nuclear war breaks out
+- Finally we have escalation, by far the most likely outcome
+- In this case we have a conventional war that one side is losing, and in the face of defeat fires nuclear weapons
+- Another possibility is through extended deterrence
+- In extended deterrence, a nuclear state uses their arsenal to protect a friendly nation against attack
+- However, this requires the nuclear state to risk causing nuclear war to defend another country
+- This was the motivation behind France and the UK building their own arsenals, they did not trust the US to protect them
+
+**Fighting Scenarios**
+
+- Several possible scenarios in a nuclear war
+- Say we have a state with a nuclear triad
+- A counterforce first strike aims to knock out as many of the opponents weapons as possible in a single strike
+- A countervalue first strike is similar, but targets cities instead
+- A decapitation attack focuses on command and control centers and at leadership buildings
+- Finally, a limited nuclear war is a scenario where the countries exchange only a few warheads at a time
+- The US has what's called the Operations Plan which was renamed from Single Integrated Operational Plan in 2003, and was founded in 1960
+- A good portion of this is readiness or defence conditions, which in the US is DEFCON
+- At DEFCON 1, nuclear war is imminent, which we have never seen
+- DEFCON 2 was put into place during the Cuban Missile Crisis
+
+**Command and Control**
+
+- Command and control systems have two primary motives
+- Ensure effective communication between commanders
+- Ensure political leadership has effective military control
+- Lot of research on this subject both during the cold war and afterwards
+- Several objectives for these systems
+- First, nuclear weapons can only be used with political authorization
+- Only those in the highest levels can launch
+- Next, if authorization is provided then nuclear weapons should be armed and launched quickly
+- Also, warheads in allied territory cannot be launched by those allies
+- Finally, military commanders should not be able to launch nuclear weapons
+- The duality of these systems is the tradeoff between speed and safety
+- They must be timely, but only available to those with authority
+- Both triggers and safety catches
+- The US model has the fundamental concept of the two person rule
+- No nuclear weapon can be authorized/launched by a single person
+- However, the president has the ultimate authority
+- But the secretary of defense must also give their consent
+- We don't actually know what would happen if the secretary objected
+- Once political authorization is given, a set of codes are needed
+- There are political authorization codes, which then enable the military launch codes when inputted
+- The military branch responsible is Strategic Command
+- For an example, let's look at ICBMs
+- Each warhead has a unique code called a permissive action link or PAL
+- PALs also enable the user to set destination, speed, yield, etc.
+- Warhead cannot be armed without the proper PAL
+- All warheads have several safety systems in place, including environmental sensors and tamper proof membranes
+- The final safety system is that two human officers have to twist keys simultaneously to actually launch the missile

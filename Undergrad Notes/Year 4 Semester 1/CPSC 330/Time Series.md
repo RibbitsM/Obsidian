@@ -1,0 +1,32 @@
+- A time series is simply a set of data organized in time worder
+- This is extremely prevalent and is one of the most-used types of data for machine learning
+- For an example, say we are running a bike share service and we want to find out how many people rent bikes at a certain time
+- Since our data is collected in three hour intervals, our real target is how many rentals will occur in the next three hours
+- The only data we have is the amount of bikes available at certain times
+- Time series data works differently because of inherent correlation over time
+- What happened yesterday will likely affect what happens today
+- This also means we need to be careful about how we split our data
+- If we don't split the data on a specific date, it will severely affect how validation functions
+- This is because time series data spanning multiple "cycles" often relies on consistent patterns for prediction, and a random split disrupts these patterns
+- One way that computers store time is with POSIX time
+- This is the number of seconds since the beginning of UNIX time which was January 1, 1970
+- We tried to run a random forest algorithm, but it was just predicting a single integer on our test data
+- This is because our time data was based on date, and randomforestregressor had learned to split time based on days
+- This meant that it could not do predictions on dates after the training data
+- To solve this, we can transform the time feature to simply say the time of day rather than a precise date
+- One advantage of using linear models for time series is that we can observe coefficients
+- For example, in our bike rental model 6 am on Sunday has a very negative coefficient because nobody is renting bikes on that day
+- These are feature crosses by the way, it's useful to split date time components into different features like time of day and day of week, and then create combinations like time and day
+- So we have a coefficient for Sunday, a coefficient for 6 am, but also a coefficient for 6 am on Sunday
+
+**Lag Features**
+
+- Recalling the fact that data that is close temporally is often correlated, we can create something called lag features
+- This is a feature that depicts what happened in the recent past
+- So each observation not only contains data from that time, but also the time step before it
+- This is also a really good baseline to evaluate your full model in comparison to
+- One downside is that this will create some NaN values early on in your data
+- Lag values don't have to be just the time step before, you can go further back as well
+- Often we will have lag features for multiple different features, for example did it rain yesterday? What temperature was it yesterday? Etc.
+- Another feature engineering concept to consider is what kind of information we can extract from our date-time feature
+- In our current example we're trying to predict rain, so a useful thing to do would be to calculate the current season for each date

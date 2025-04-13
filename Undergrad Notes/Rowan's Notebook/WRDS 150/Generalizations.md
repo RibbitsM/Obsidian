@@ -1,0 +1,7 @@
+- Be more specific, must be quantifiable
+- Tradition of inquiry
+- Set period of time and subject to narrow generalization
+- Attribute citations to others participating in discussion
+- Indicate that generalization is discussed by academic community
+- Called "securing" a generalization
+- EX: "in the past 20 years, there has been an overwhelming 70% rise in how many children select television over a book for entertainment (Puniya 65).
