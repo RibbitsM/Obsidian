@@ -87,13 +87,16 @@
 **Key Value Store**
 
 - Pretty much identical to a hash table
+- Think of it like a Python dictionary with key and value pairs
 - Faster query speed than relational, but can only access key values
+- Good for simple data, and can store a number of data types
+- Not very good for more complex data
 
 **Graph Database**
 
 - Similar to our ER diagrams, graphs are made up of nodes and edges
 - Good for understanding relationships, and many efficient algorithms exist to search them
-- Easy to add too, but only models specific things
+- Easy to add to, but only models specific things
 - Excellent for transactional and social data
 - Both relational and NoSQL databases have advantages, so there have been some efforts to produce hybrids
 
@@ -107,3 +110,11 @@
 - If a data lake becomes too unorganized, it can become a data swamp
 - A data lakehouse combines the properties of a data warehouse and a data lake
 - This allows you to set a schema when writing as well as reading
+
+|                    | Data Warehouse             | Data Lake                   |
+| ------------------ | -------------------------- | --------------------------- |
+| Workload           | Analytical                 | Analytical                  |
+| Data Type          | Structured/semi-structured | Same, but also unstructured |
+| Schema Flexibility | Fixed                      | Schema generated on read    |
+| Data Freshness     | Depends on last ETL run    | Depends on last refresh     |
+| Analytics Approach | Top-down                   | Bottom-up                   |

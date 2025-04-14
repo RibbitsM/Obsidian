@@ -1,4 +1,4 @@
-- Four main kinds of ML
+- Four main kinds of ML ^bccc1b
 - Supervised, unsupervised, recommendation, and reinforcement
 - Supervised machine learning is similar to prediction algorithms, you are given a training set and use it to create an algorithm that can predict the labels of an unseen test set
 - Without having to explicitly program in the functions, the idea of machine learning is that the program will discover patterns on its own

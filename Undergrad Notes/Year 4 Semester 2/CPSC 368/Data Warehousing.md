@@ -37,7 +37,7 @@
 - Another query you can do is called Roll-up
 - In this example, you replace a group in your old query with a higher dimension version of it
 - For example, instead of grouping by store ID you group by city, or instead of grouping by individual customer you group by customer age
-- As we roll up, the number of the dimensions remains the same but their size decreases
+- As we roll up, the number of the dimensions remains the same but their size increases
 - You don't have to keep all the dimensions though, you can discard them if you want
 - Drill down is the opposite of roll up, making your query more specific
 - Again, this is done by changing your group by clause
@@ -46,7 +46,31 @@
 - Going further, you can dice your data by putting limits on two dimensions
 - Two of the most popular schema options are star or snowflake
 - Star is generally much easier to work with, but not as powerful
+- Star schema means having one table for each fact, and then one table per dimension
+- Set up using Boyce-Codd Normal Form, meaning that every attribute in a table is associated with the entire primary key
+- However, this is only for the fact tables, dimension tables a relatively small and so are not normalized
 - Snowflake schema need a lot of joins, but can allow for more complex queries
+- In a snowflake schema, each dimension is a set of tables, usually with one table per level of hierarchy
+- If you have a time dimension, you'd have an 24 hour time table, a week table, and a month table
+- Doesn't require normalization, but makes queries harder because of all the joins required
+
+|                     | Star                                          | Snowflake                                                               |
+| ------------------- | --------------------------------------------- | ----------------------------------------------------------------------- |
+| Ease of Maintenance | Has redundant data, harder to make changes to | No redundant data, easier to change                                     |
+| Ease of Use         | Less complex queries                          | More complex queries                                                    |
+| Query Performance   | Fewer foreign keys, faster execution          | More foreign keys, slower execution                                     |
+| Joins               | Fewer joins                                   | More joins                                                              |
+| Dimensions          | One table per dimension                       | Multiple tables per dimension                                           |
+| When to use         | Default choice                                | Used when dimension tables are exceptionally large or need many updates |
+| Normalization       | Dimensions not normalized                     | Normalized dimensions                                                   |
+
+^0ae183
+
+- We can create a data cube in SQL by using the CUBE BY operator
+- Gives you a table with columns representing all possible dimensions and aggregate values, with Null values where a grouping is not present
+- Essentially starting with your full data and then rolling up on every dimension
+- When cubes lack data for some combinations, we call that a sparse cube
+- To find the size of a sparse cube, take the size of the cube assuming it was dense and multiply by the sparsity factor
 
 **Views** ^a2f3ba
 
@@ -69,3 +93,24 @@
 - Similar to SQL databases, except they take additional dimensions into account
 - Instead of selecting columns from tables, we're selecting columns, rows, or pages from cubes
 - Remember that cubes don't have to be 3d they can be 4d or more
+##### Learning Goals
+- Compare and contrast OLAP and OLTP processing
+	- OLTP mainly focused on transaction data, very customer focused and requires fast read and write capabilities
+	- Good for fast data storage and recovery, but poorly suited for deep analysis and data science
+	- Requires much more data from multiple sources and the ability to process more complex queries
+	- OLAP allows for more complex queries and views including trend analysis
+	- Unique in their ability to drill down and roll up on schema
+	- Usually used by domain experts
+- Explain ETL tasks for data warehouses
+	- Extract, transform, load
+	- We don't do much extraction or loading, as most of the data stays in the warehouse and doesn't move
+	- Create your warehouse in an initial upload and keep it like that
+- Explain difference between star and snowflake design, including performance tradeoffs
+	- See [[Data Warehousing#^0ae183|table]] 
+- Argue for the value of data cubes in terms of the type of data in the cube, the goals of OLAP, and the operations that can be performed
+	- Allows much more complex queries to be performed
+	- Able to nest more complex data within a single view or table
+	- Access multiple dimensions of data at once
+- Estimate complexity of a data cube
+	- Multiply the dimensions together to find cube size
+	- Also look for scarcity

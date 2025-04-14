@@ -3,7 +3,7 @@
 - Can predict actions by examining the needs of humans and the ways in which they are satisfied
 - Emphasizes individual rights and autonomy, very individualist analysis
 - Founded in the 1870s by Menger who you may remember from the [[Jevons Day 1#^c11be1|Marginal Revolution]] 
-- Other notable members are Schumpeter and Github test (Morgenstern)
+- Other notable members are Schumpeter and Morgenstern
 - Schumpeter famously placed great value on technological innovation and heavily endorsed free market capitalism
 - Hayek lived in England, the US, and Germany over his life
 - Also wrote philosophy
