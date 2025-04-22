@@ -1,0 +1,77 @@
+- [x] Chapter 11
+##### Administration
+- Focuses on transitional authority missions
+- The UN previously engaged with interim governments during decolonization, supporting new governments in El Salvador, Namibia, and Cambodia
+- Primary example of this happening was in the Balkans, where the UN set up administrations in Croatia, Bosnia, and Kosovo
+- For example, the UNMIK special representative had legislative authority over the judiciary of Kosovo
+- UN high representative for Bosnia could pass laws and hire or remove government officials
+- None have been created since 2000, despite these early examples all being fairly successful
+- Only time it has been seriously considered was South Sudan
+- Transitional administrations are technically a kind of peacebuilding considering they happen after a ceasefire and have the purpose of reducing or eliminating future conflict
+- Also all of these successful transitions occurred in the context of a global response and heavy influence from outside actors
+- In both the Balkans and Indonesia. there was huge pressure from the US and other Western countries to comply with the UN
+- Main criticisms of transitional authority missions is the overt colonialism of the strategy
+- Reforms are imposed unilaterally and top-down, usually focused heavily on neoliberal principles of democracy and free market capitalism
+- Draws heavy inspiration from the democratic peace theory
+- Overall, transitional authority missions hinge on the dynamic between needing to create stable governments without overreaching local influence
+- Also, these missions will often need to subcontract to large local regional organizations
+- [x] Chapter 15
+##### Use of Force
+- Focuses on the primary dilemma of UN peacekeeping operations which is if and when to use force
+- Despite being organized like an army, military peacekeepers will rarely if ever engage in large-scale combat
+- Some exceptions include AMISOM, ONUC, and MONUSCO
+- The ONUC mission was the first peacekeeping mission to regularly engage in combat
+- Mid 90s was the deadliest period for UN peacekeepers, with ISAF in Afghanistan being the deadliest with over 3,500 fatalities
+- Initially, peacekeeping was defined as responsive, prohibiting any initiative in the use of force
+- Over time, this became more permissive, allowing peacekeepers to employ force to defend their equipment and posts as well as defending civilian personnel
+- UNEF II was a landmark moment for this shift as it was authorized to use force to prevent attempts to limit its ability to perform its mandate
+- This opened the possibility of pre-emptive strikes led by peacekeepers
+- Another landmark decision was the 1992 Security Council Resolution 794 which authorized Chapter 7 enforcement by peacekeepers in Somalia
+- Based on a passage in *An Agenda for Peace* which advocated for the usage of peace enforcement in limited circumstances
+- The 2008 capstone doctrine reinforced this shift, noting that military force can form part of peace enforcement
+- Also introduces the concept of "robust peacekeeping" which emphasizes the ability of peacekeeping forces to defend themselves and their mandates
+- However, the doctrine states pretty explicitly that these measures are intended only as a last resort and only for defensive/deterrence purposes
+- Military force is generally seen as the weakest aspect of peacekeeping and is subordinate to political solutions
+- Any concentrated exercise of military force should be limited to certain times and circumstances
+- This approach was reinforced by the 2015 HIPPO report
+- Another report created in 2017 by former MONUSCO force commander General dos Santos Cruz pushed a different approach
+- This report focused on the increased numbers of peacekeeper fatalities, blaming this mostly on lackluster training
+- Mainly saying that the UN flag is no longer a guarantee of neutrality and will not protect peacekeepers
+- Only way to repel hostile forces is using force judicially and swiftly
+- Peacekeepers should use overwhelming pre-emptive force to eliminate threats before that can cause issues
+- A common criticism of peace enforcement in general is that it goes against the original three pillars of UN peacekeeping
+- Doesn't really affect consent unless there is Chapter 7 authorization, and the conflict with minimal use of force is obvious
+- However, the main concerns come from the risk to the impartiality of UN missions
+- While peacekeepers used to follow rules set by local actors, increasingly they are the ones setting the rules that all are expected to obey in a form of "assertive impartiality"
+- One area where people do tend to agree is on the importance of protecting civilians
+- Pretty much all the reports mentioned here agree that peacekeepers should do everything they can to protect civilian lives
+- Findlay identifies three different camps of peacekeeping reform
+- Traditionalists want to keep peacekeeping limited to observation and monitoring
+- Wideners want to use force for a broader range of objectives without affecting the core of peacekeeping
+- Peace enforcers want to use force as a way of engineering peace through top-down power
+- Finally, the definition of peacekeeping inevitably relies on the current face of warfare it is responding to
+- Instances of peacekeepers using offensive force is very rare, even in chapter 7 authorized missions
+- ONUC, MINUSTAH in Haiti, and MONUSCO are really the only exceptions
+- Advocates for this position are pretty rare, but they do exist
+- It's generally understood that situations where the best option to achieve a goal is military force is very rare
+- Another important constraint to consider is that UN peacekeepers often lack the material resources and training a real army would have
+- Sometimes they are not just unwilling to use force, but unable
+- At the tactical level, that ability just isn't there
+- The problem is not that the UN is not seeing the potential for force to support peacekeeping, but it is just not using it effectively
+- The final argument about use of force relates to the process of force generation
+- Often missions requiring force have to contract out to regional orgs
+- One proposed reform is to split operations into purely force-oriented contingents that would work with peaceful contingents
+- Using force can have its benefits, but also many drawbacks
+- It tends to escalate conflicts, making humanitarian aid more difficult and putting more civilians in harm's way
+- Also, can damage the reputation of the UN and its peacekeepers
+- Worst case scenario is if peacekeepers have to bunker up
+- [ ] Chapter 16
+##### Civilian Protection
+- 
+- [ ] Chapter 17
+- [ ] Chapter 18
+- [ ] Chapter 19
+- [ ] Chapter 20
+- [ ] Review Peace Reform
+- [ ] Watch Peacebuilding Lecture 1
+- [ ] Watch Peacebuilding Lecture 2

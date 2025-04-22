@@ -16,3 +16,16 @@
 - Definitely need to review data warehousing extensively because I missed one of the lectures
 - Probably won't be any coverage of ethics and if there is I don't need to study for it
 - Likely only going to be one section on [[Tree Indexes|hash tables and trees]], but should still review that
+##### Practice
+1. ``` 
+Select Count(*)
+From person p car c owns o accident a
+Where p.sin = o.sin and o.licensePlate = c.licensePlate and c.licensePlate = a.licensePlate and a.date Like '%2002%'
+Group By Distinct p.sin```
+2. ```
+Select Count(*)
+From person p car c owns o accident a
+Where p.sin = o.sin and 0.licensePlate = c.licensePlate and c.licensePlate = a.licensePlate and a.sin = p.sin ```
+3. ```
+Insert Into person
+Values (123456, Adam James, 123 Oak st)```

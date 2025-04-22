@@ -1,0 +1,4 @@
+- Refer to reading list for all content we need to learn for Part A
+- Part B I just need to do a lot of practice for and talk to my group mates about it
+- Maybe go to office hours to try and iron out what I was missing in Test 2
+- 

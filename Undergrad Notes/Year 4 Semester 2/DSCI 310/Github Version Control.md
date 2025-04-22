@@ -2,8 +2,8 @@
 - You'll be using git on your machine, and github is hosted on a server somewhere
 - One important thing to remember when cloning your git repositories is to make sure that the folder you are cloning the repository into isn't already a repository
 - The origin branch is the branch hosted on github, not on your computer
-- A useful command is git restore <file> which lets you revert a file to the last committed version
-- You can also type git restore --staged <file> to unstage a file
+- A useful command is git restore (file) which lets you revert a file to the last committed version
+- You can also type git restore --staged (file) to unstage a file
 - When you're committing, the command is git commit -m (to add a message) and then your message as a string
 - Every time you "commit", that's a new version on Github
 - If you want to include all of your changes under one commit, then just add all of the changed files and commit them in one session
@@ -24,12 +24,12 @@
 - You can add extra parameters when checking git log
 - Git log --oneline condenses the info, and adding git log --oneline --graph shows branches and merges as well
 - You can also type git log --oneline --graph --all to get a graph of all branches
-- When you're pushing on a branch make sure you run git push origin <branch>
+- When you're pushing on a branch make sure you run git push origin (branch)
 - We've covered making commits and changes to a single file, but what if you're working on multiple things at once?
 - One scenario is trying multiple different approaches on the same file
 - You can use ls -a to see hidden files in bash
 - Another useful tool is making bash scripts
-- By making a .sh file and writing bash commands in it, when you run that script with bash <script name>, those commands will be executed
+- By making a .sh file and writing bash commands in it, when you run that script with bash (script name), those commands will be executed
 - When you have conflicting pull requests, Github won't know that they conflict until you try to merge
 - The branches only know that main updated, not that there's another branch
 - This is why gitignore is important because you can make sure irrelevant files don't cause conflicts
@@ -38,4 +38,3 @@
 - Basically stapling an old commit onto the current version
 - You could do this all in the web browser, but you'll probably need to do some testing of the code so it's unlikely that would work all the time
 - This isn't guaranteed to avoid merge conflicts, but it works most of the time
--
