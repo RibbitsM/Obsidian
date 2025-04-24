@@ -1,5 +1,14 @@
 - [x] Chapter 11
-##### Administration
+- [x] Chapter 15
+- [x] Chapter 16
+- [x] Chapter 17
+- [ ] Chapter 18
+- [ ] Chapter 19
+- [ ] Chapter 20
+- [ ] Review Peace Reform
+- [ ] Watch Peacebuilding Lecture 1
+- [ ] Watch Peacebuilding Lecture 2
+##### Chapter 11: Administration
 - Focuses on transitional authority missions
 - The UN previously engaged with interim governments during decolonization, supporting new governments in El Salvador, Namibia, and Cambodia
 - Primary example of this happening was in the Balkans, where the UN set up administrations in Croatia, Bosnia, and Kosovo
@@ -15,8 +24,7 @@
 - Draws heavy inspiration from the democratic peace theory
 - Overall, transitional authority missions hinge on the dynamic between needing to create stable governments without overreaching local influence
 - Also, these missions will often need to subcontract to large local regional organizations
-- [x] Chapter 15
-##### Use of Force
+##### Chapter 15: Use of Force
 - Focuses on the primary dilemma of UN peacekeeping operations which is if and when to use force
 - Despite being organized like an army, military peacekeepers will rarely if ever engage in large-scale combat
 - Some exceptions include AMISOM, ONUC, and MONUSCO
@@ -65,13 +73,147 @@
 - It tends to escalate conflicts, making humanitarian aid more difficult and putting more civilians in harm's way
 - Also, can damage the reputation of the UN and its peacekeepers
 - Worst case scenario is if peacekeepers have to bunker up
-- [ ] Chapter 16
-##### Civilian Protection
-- 
-- [ ] Chapter 17
-- [ ] Chapter 18
-- [ ] Chapter 19
-- [ ] Chapter 20
-- [ ] Review Peace Reform
-- [ ] Watch Peacebuilding Lecture 1
-- [ ] Watch Peacebuilding Lecture 2
+##### Chapter 16: Civilian Protection
+- The first UN mission with an explicit mandate to protect civilians wasn't until UNAMSIL in Sierra Leone
+- Today, 90% of peacekeeping missions have this in their mandate
+- Originated from the experience of the Rwandan and Srebrenica genocides in the 90s showing the inadequacy of the UN
+- Protection of civilians was considered to be an effort undergone by the entire mission, from police to civilian to military
+- POC mandates came from a convergence of four different agendas being pushed at UN headquarters
+- Main actors were IHL lawyers, NGOs and humanitarian agencies, regional orgs in Europe and Africa, and R2P advocates
+- Unfortunately, all of these groups had varying priorities which was reflected in the often confusing mandates they created
+- The UN definition of civilian is pretty similar to the IHL definition which is any persons not part of armed forces
+- UN definition specifies that this also includes armed groups
+- The definition of protection also diverges from IHL
+- Security council refers to protection from the threat of physical violence, much less specific than IHL
+- Often civilians assume that all peacekeeping operations are mandated to protect civilians even though this may not be the case
+- For example, despite having "protection" in it's name, UNPROFOR was not mandated to protect civilians
+- The opposite may also be true, Romeo Dallaire directed his UNAMIR troops to protect civilians despite not being mandated to do so because he's the goat
+- These POC mandates were not unconditional, the security council specifically detailed caveats where protection of civilians may be waived
+- Each mission is obligated to protect civilians under different circumstances
+- These protections are also not intended to replace the duties of the host government
+- The definition of protection has always been notoriously vague and a problem for peacekeeping missions as a whole
+- One method of resolving this involves splitting protection up into multiple tiers
+- Tier one is protection through conflict resolution, ending the war that was causing the threat in the first place
+- Tier two is simple physical protection, ensuring civilians are not physically harmed
+- Tier three is creating a protective environment, mainly through legal protections and humanitarian assistance
+- The African Union adopted a very similar system, but added rights based protection as a stand alone tier instead of being part of tier three
+- One of the most emphasized aspects of POC is that it is the responsibility of all aspects of a mission
+- In fact, implementing all three tiers essentially requires help beyond even the peacekeeping mission itself
+- A notable effect of the adoption of POC mandates is that it immediately raised expectations for all peacekeeping missions
+- This also raised expectations for the peacekeepers themselves, and by extension the training required to produce an effective peacekeeping mission
+- Despite starting the initiative in the 90s, good training material for POC missions didn't come out until 2011
+- Not only would peacekeepers need to be more effective at understanding the issues and concerns of locals, but they would need better transport to respond rapidly
+- Also showed the gaps in information and medical capabilities among other things
+- Another issue with POC missions is the possibility of an exit strategy, because their successes often rely on their physical presence
+- When MONUSCO abandoned its base in North Kivu, local villages immediately saw a increase in physical and sexual violence
+- Also degrades UN impartiality as they adhere more and more closely to their preset liberal human rights playbook
+- Often, a mandate to protect civilians goes hand in hand with favouring the host state in a conflict
+- When the opposite is true, this can be even more difficult as the host government may retract consent if peacekeepers impede on their efforts to harm civilians
+- Legally, peacekeepers can fight the host government, but in reality this is rarely done due to consent concerns and differences in firepower
+- Peacekeeping is a political exercise first and a military exercise second
+- Can cause issues when promoting peace conflicts with protecting civilians
+- Common dynamic in Darfur, South Sudan, and the Congo
+- Also, POC mandates have the side effect of increasing risks to peacekeepers, making force protection more difficult
+- The missions with the highest numbers of peacekeepers killed in malicious acts all included proactive POC aspects
+- Often, UN forces will neglect to use force against a significant enemy even when threats are made against civilians
+- POC mandates are still relatively new, and are not implemented much outside of peacekeeping although some militaries do engage in POC
+- Also no current metric to evaluate POC success
+- This doesn't mean that UN troops do nothing, they have been shown to limit the length and geographic extent of conflicts
+- Overall increase the level of protection for civilians
+- Still many high profile failures, especially in South Sudan
+- Main issues are lack of clear performance standards, lackluster training, and missing capabilities
+- Two examples of solutions are the Kigali Principles on POC and the dos Santos Cruz report
+- Kigali principles are pledges for best practices in POC and are widely considered non-UN and voluntary but good to have
+- The dos Santos Cruz report mainly recommends more effective use of military power by the UN
+- These are coupled with initiatives to encourage cooperation between member states and bigger and better contributions from TCCs and PCCs
+- The HIPPO report goes in a different direction by recommending an increased focus on the political aspects of peacebuilding
+##### Chapter 17: Gender
+- Most of the discussion of gender and peacekeeping revolves around security council resolution 1325 on Women, Peace, and Security
+- Warfare affects men and women differently, and because of that we should take a gender-sensitive approach when addressing it
+- Res 1325 calls for increased participation of women in decision making, gender perspectives in training, increased protections for women in conflict, and mainstreaming of gender issues in reporting systems
+- More inclusive peace agreements with women negotiators tend to be more successful
+- WPS agenda has four main focuses
+- Prevention, meaning women are involved in conflict prevention
+- Participation, meaning women are participating in decision-making
+- Protection, meaning women's rights are protected during conflict
+- Relief and recovery, meaning women's rights are addressed via humanitarian and peacebuilding efforts
+- The UK is the penholder for WPS, and the US is penholder for sexual violence
+- Main issues with the fulfillment of this agenda is that is is primarily lip service
+- The UN does a lot of talking about WPS issues but rarely follows through
+- When they do, it is usually limited to just devoted gender teams and is mainly seen as an issue for women rather than a wholesale approach
+- HIPPO report raised most of these issues, and strongly advocated for the representation of women in peacemaking processes
+- Before the 21st century, there were very few women in peacekeeping
+- Hiring more women became a priority in the early 2000s, and numbers have shot up since then
+- First female force commander wasn't hired until 2014, which was in Cyprus
+- Number of female peacekeepers quintupled from 2005 to 2019
+- Percentage of female peacekeepers varies greatly from TCC to TCC, some countries hardly contribute any women at all, and some have all-female units
+- Current goals are for women to comprise 30% of police, 15% of contingent troops, and 25% of experts and observers by 2028
+- Ideal number is 50% for all ofc
+- Main motivations are that equality in peacekeeping will promote equality in host countries
+- Women can better engage with civilian women, and will improve ties between missions and local communities
+- Can also dampen instances of force against peacekeepers and increase overall legitimacy
+- Empirical evidence for these claims is currently lacking, but also there's no reason to assume men should do everything
+- Still many other debates over gender in peacekeeping
+- For example, should women be kept in all-female units or deployed in mixed units?
+- The first option may have minor issues with lack of diversity and struggle with things like riot control
+- Second option risks negating female voices entirely by diluting their impact
+- Also debate over whether the UN should provide incentives for TCCs to contribute more women
+- Huge barrier is the lack of women in many domestic militaries and police forces
+- Not exactly something the UN can significantly influence
+- The inherent barriers to women in the military as well as the conception of men as protectors and women as peacemakers makes gender balance in peacekeeping very difficult
+- Another major issue for gender and peacekeeping is the unfortunately prevalent practice of sexual exploitation and abuse by peacekeepers
+- 1993 was the first example of this, with the population of sex workers in Cambodia quadrupling in response to the deployment of UNTAC
+- Also resulted in widespread distribution of HIV in the region
+- Criticized intensely, but mostly waved off by UN personnel (boys will be boys)
+- Peacekeepers would also have children with local women, leading to the expected child support and dna testing issues
+- Peacekeepers have even been implicated in human trafficking operations
+- Finally, a zero tolerance policy for sexual exploitation was established in 2003
+- Definition focused on the power imbalance between peacekeepers and locals
+- Includes a lot of things, some of which are perfectly legal
+- Four main categories
+- Opportunistic sexual abuse is not planned or coordinated and is done for personal reasons and generally tolerated
+- Planned sadistic abuse is not for financial benefit, but is planned and coordinated
+- Transactional sex involves exchanging sex for money, food, or other resources. Not necessarily illegal, but definitely exploitative
+- Networked abuse and exploitation is human trafficking
+- The conditions for all four exist in most peacekeeping missions
+- Reports of sexual abuse first affect the individuals and communities involved as the immediate impact is felt
+- Next, this process can normalize abuse and exploitation at a structural level if it is consistently allowed and tolerated
+- Finally, it affects the operational level by lowering trust for peacekeepers and diverting resources away from other work and towards response efforts
+- Unsurprisingly the vast majority of these incidents are carried out by men, and rooted in gender power dynamics
+- Sexual exploitation is also not limited to peacekeeping, and comes from the broader context of military culture and economic exploitation
+- Most militaries condone or enable prostitution for their soldiers, which spills over into peacekeeping deployments
+- However, this does not explain the many incidents involving civilian peacekeepers
+- Most importantly is the culture of impunity the UN has built up, as prosecuting the perpetrators of sexual abuse and exploitation is often avoided and very difficult
+- Peacekeepers are unlikely to report their comrades, they may be protected under local laws, and victims are unlikely to speak out
+- Especially if civilians are engaging in transactional sex, they may rely on this system of exploitation to survive
+- These practices are especially prevalent in war-torn societies that peacekeepers are invariably deployed into
+- While UN rhetoric on the issue has dramatically improved, actual progress has been pretty slow
+- Reforms mainly consist of preventing misconduct, enforcing UN standards, and remedial action
+- They have become much more transparent on allegations and become bolder with punishment, even firing a special representative over abuse allegations
+- Curfews, policies, and uniform requirements as well as vetting processes for peacekeepers have also helped
+- Processes for helping victims have also improved, the UN started giving out DNA tests for local women who may have peace babies and facilitate paternity agreements
+- There is also a devoted trust fund for victims funded by the docked pay of perpetrators of sexual abuse
+- At the end of the day, unfortunately the UN can only do so much as they don't actually have jurisdiction over their personnel
+##### Chapter 18: Policing
+- UN police forces were first deployed under ONUC, first full police contingent was part of UNFICYP
+- Didn't become common until the 90s
+- Early police contingents were small and unarmed
+- Deferred to the host country forces, refraining from investigating or arresting suspects
+- UNFICYP officers mainly just observe incidents between turks and greeks
+- Under the UN regime in Bosnia formed by the Dayton Peace Agreement, UN police could fully function as police
+- Generally speaking, police contingents are smaller than military
+- Mainly serve as a way of enforcing rule of law as part of the transition towards peace
+- Also better than military at defusing violence at the local level
+- Old police were basically observers, now serve as coaches for local enforcement as well as stand ins
+- Initially, police were hired individually but as numbers grew that are now enlisted in contingents like the military
+- Called Formed Police Units (FPU)
+- Four kinds of police activities
+- Capacity building, traditional, multi-dimensional, and executive
+- Apart from the executive activities, any actions taken by UN police is with the authority of the host government, not their own
+- Very rare that UN police act on their own with sovereign authority, usually collaborate with or enhance local police
+- Police face most of the same issues as military contingents, but compounded by the fact that they rely on their local counterparts
+- Overall, police are common because they are a crucial part of multidimensional missions, and usually observe and assist with local law enforcement restructuring and operations
+- More rarely, they will serve as the de facto law enforcement in transitional authority missions
+- Are even harder to get contributions for than military as most countries have police shortages
+- Also makes cooperation even harder because of the variety of legal systems
+- UN tries to get police from straight up authoritarian regimes to do community policing
