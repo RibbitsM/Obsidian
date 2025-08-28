@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Undergrad Notes/Year 4 Semester 2/POLI 374/Final Reading List.md",
+                "file": "Undergrad Notes/Year 4 Semester 2/POLI 374/Peace Operations Reform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Reading List"
+              "title": "Peace Operations Reform"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "a0f75118967a7564",
@@ -170,16 +169,29 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2846153f9647900b",
+  "active": "5d0074b44444f944",
   "lastOpenFiles": [
-    "Undergrad Notes/Year 4 Semester 2/POLI 374/Final Exam Prep.md",
-    "Other Notes/Wouldn't It Be Fucked Up If.md",
+    "Law School Notes/Year 1/Public Law",
+    "Law School Notes/Year 1/Legal Research and Writing",
+    "Law School Notes/Year 1/Property",
+    "Law School Notes/Year 1/Treaty Rights",
+    "Law School Notes/Year 1/Criminal Law",
+    "Law School Notes/Year 1/Contracts",
+    "Law School Notes/Year 1/Torts",
+    "Law School Notes/Year 1",
+    "Law School Notes",
+    "Undergrad Notes/Year 4 Semester 2/POLI 374/Presentations.md",
+    "Undergrad Notes/Year 4 Semester 2/POLI 374/Disarmament and Peacebuilding.md",
     "Undergrad Notes/Year 4 Semester 2/POLI 374/Final Reading List.md",
+    "Undergrad Notes/Year 4 Semester 2/POLI 374/Final Exam Prep.md",
+    "Undergrad Notes/Year 4 Semester 2/DSCI 310/Github Version Control.md",
+    "Undergrad Notes/Year 4 Semester 2/POLI 374/Peacekeeping Process.md",
+    "Undergrad Notes/Year 4 Semester 2/POLI 374/Challenges in Contemporary Peacekeeping.md",
+    "Other Notes/Election Notes.md",
+    "Other Notes/Moloch.md",
+    "Other Notes/Wouldn't It Be Fucked Up If.md",
     "Undergrad Notes/Year 4 Semester 2/POLI 374/The Politics of Peacekeeping.md",
     "Undergrad Notes/Year 4 Semester 2/POLI 374/Peace Operations Reform.md",
-    "Undergrad Notes/Year 4 Semester 2/POLI 374/Disarmament and Peacebuilding.md",
-    "Undergrad Notes/Year 4 Semester 2/POLI 374/Presentations.md",
-    "Undergrad Notes/Year 4 Semester 2/DSCI 310/Github Version Control.md",
     "Undergrad Notes/Year 4 Semester 2/DSCI 310/Intro.md",
     "Undergrad Notes/Year 4 Semester 2/CPSC 368/Exam Prep.md",
     "Undergrad Notes/Year 4 Semester 2/CPSC 368/Hash Indexes.md",
@@ -193,29 +205,16 @@
     "Undergrad Notes/Year 4 Semester 1/CPSC 330/Review.md",
     "Undergrad Notes/Year 4 Semester 1/CPSC 330/Communication.md",
     "Undergrad Notes/Year 4 Semester 2/CPSC 368/Data Mining.md",
-    "Undergrad Notes/Year 4 Semester 1/CPSC 330/K-Means.md",
-    "Undergrad Notes/Year 2 Semester 2/SOCI 250/Counting Crime Research and Data.md",
-    "Undergrad Notes/Year 3 Semester 2/ECON 339/Agriculture and Economic Development.md",
-    "Undergrad Notes/Year 3 Semester 2/STAT 301/Lecture 4.md",
-    "Undergrad Notes/Year 4 Semester 1/CPSC 330/Regression Metrics.md",
     "Untitled.canvas",
     "Attachments/Sen-RationalFoolsCritique-1977.pdf",
     "Attachments/the-methodology-of-positive-economics.pdf",
-    "Other Notes",
     "Attachments/Exported image 20250409135206-2.png",
     "Attachments/Exported image 20250409135202-0.png",
-    "Attachments",
     "Attachments/Exported image 20250409135203-1.png",
     "Attachments/Exported image 20250409135207-3.png",
     "Attachments/Exported image 20250409135210-4.png",
     "Attachments/Exported image 20250409135211-5.png",
     "Attachments/Exported image 20250409135212-6.png",
-    "Attachments/Exported image 20250409135213-7.png",
-    "Undergrad Notes/Rowan's Notebook/WRDS 150",
-    "Undergrad Notes/Rowan's Notebook/Span 301",
-    "Undergrad Notes/Rowan's Notebook/Soci 101",
-    "Undergrad Notes/Rowan's Notebook/Hist 103",
-    "Undergrad Notes/Rowan's Notebook/Econ 101",
-    "Undergrad Notes/Rowan's Notebook"
+    "Attachments/Exported image 20250409135213-7.png"
   ]
 }

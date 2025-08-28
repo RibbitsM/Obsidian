@@ -1,0 +1,5 @@
+- Meet outside gym on the residential side
+- On my feet most of the day
+- Might rain during the morning
+- Probably won't have access to a fridge or kitchen
+- 

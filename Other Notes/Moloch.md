@@ -1,0 +1,5 @@
+- New Moloch just dropped: sports drafts
+- Incentives for immediate success in the form of short coach tenures means all teams draft inefficiently on purpose
+- System prioritizes short term success over long term growth
+- In an ideal scenario teams would always be trading draft picks to get better ones the next year
+- They don't do this because it delays success

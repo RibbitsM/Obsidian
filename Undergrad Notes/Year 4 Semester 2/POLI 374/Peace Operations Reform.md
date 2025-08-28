@@ -1,4 +1,17 @@
-- **REVIEW BRAHIMI REPORT AND GLOBAL GOVERNANCE**
+**REVIEW BRAHIMI REPORT AND GLOBAL GOVERNANCE**
+- Created August 17, 2000 by Lakhdar Brahimi
+- First notable peace operations reform effort
+- Five core recommendations
+- Military should be able to defend itself and protect civilians simultaneously
+- Security Council should consult closer with TCCs
+- A mission should not be authorized unless it has the ability to achieve its mandate
+- When planning operations, personnel should be recruited based on expertise and coordination should be increased
+- More women should be included in peace operations
+- To implement these changes, the Peacekeeping Doctrine was developed
+- Also establish executive committee on peace and security information
+- Timelines should be contracted to 30 for normal, and 90 for complex
+- DDR programs need increased funding and coordination
+- Coupled with the issue of global governance being insufficient for the tasks at hand
 - After the Brahimi report in the post-cold war era, the next period of significant overhaul came in 2015
 - Marked the first High Level Independent Panel on Peace Operations (HIPPO) Report
 - Other main review document was the Advisory Group of Experts on the Review of the Peacebuilding Architecture (Peacebuilding Review)

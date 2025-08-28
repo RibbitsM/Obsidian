@@ -2,9 +2,9 @@
 - [x] Chapter 15
 - [x] Chapter 16
 - [x] Chapter 17
-- [ ] Chapter 18
-- [ ] Chapter 19
-- [ ] Chapter 20
+- [x] Chapter 18
+- [x] Chapter 19
+- [x] Chapter 20
 - [ ] Review Peace Reform
 - [ ] Watch Peacebuilding Lecture 1
 - [ ] Watch Peacebuilding Lecture 2
@@ -217,3 +217,90 @@
 - Are even harder to get contributions for than military as most countries have police shortages
 - Also makes cooperation even harder because of the variety of legal systems
 - UN tries to get police from straight up authoritarian regimes to do community policing
+##### Chapter 19: Organized Crime
+- Organized crime is an issue that peacekeepers ultimately have to confront, but lack the capacity to deal with
+- Not really a peacekeeping issue, most states can't deal with this
+- However, still important to recognize because very prevalent in wartime
+- Since rebel groups are often criminalized, usually resort to criminal means to support themselves
+- Three relationships between crime and politics: predatory, parasitic, and symbiotic
+- Especially prevalent in Africa
+- UNPROFOR is an example of a mission that had to confront organized crime
+- UN didn't take a stance until 2010 when it established a task force for combatting transnational organized crime
+- Siege of Sarajevo basically created an enclosed market with huge potential for profits
+- UN peacekeepers key part of keeping this system alive with airlifts
+- Main impact of crime is weakening state control, making peace more difficult, and funding rebel groups
+- al-Shabaab is a great example of a mafia-style insurgent group
+- Guinea-Bissau example of a symbiotic relationship between crime and government
+- Made it more difficult to create change as the system resists
+- Haiti is much more of a predatory setup, where a weak government is supplanted by strong crime networks
+- MINUSTAH was basically an anti-gang operation
+- Kosovo is more of a parasitic situation, where the Serbian state resources are being drained by Kosovar criminals elected to office
+- Tension between need to cooperate with the state to bring stability and break up the mafia government
+- Stability was seen as the priority, UNMIK focused on community policing instead
+- Not all cases are cut and dry, Mali had predatory relationships between gangs and the federal gov, but were symbiotic with local governments
+- Peacekeepers can actually increase criminal violence because they reduce conflict, opening windows for opportunistic criminal groups
+- Also, DDR programs can push unarmed combatants to crime as they have no alternatives
+- Peacekeepers may take advantage of black markets as a way to funnel supplies to suffering communities
+- UN police patrols do address crime through deterrence, but rarely actively break it up
+- Deploying police and military together can mitigate the increase in crime
+- Peacekeepers have the option of ignoring, facilitating, participating in, or combatting crime
+- If your mandate does not specify crime, you can ignore it although many missions have addressed it anyway
+- Peacekeepers may facilitate or engage in crime by facilitating commerce, but also fund prostitution
+- Also been examples of peacekeepers trafficking goods for profit
+- Most efforts to combat organized crime by peacekeepers have been ineffective
+- Finite range of deployment both geographically and temporally is a huge issue
+- Also, it's rarely the most pressing issue
+- Finally, peacekeepers often lack the intelligence and regulatory tools needed to effectively fight organized crime
+- Also may cause friction with the host government in symbiotic cases
+- Criminal groups can be straight up adversaries like in Haiti, opponents willing to negotiate like M-23, or supporters of peace like criminal networks in Afghanistan
+- State-building efforts often synergize with crime-fighting, as many of the practices and tactics are very similar
+- Can still cause issues if crime is part of the government
+- Also, may not want to replace black market economies if they are working better than the legitimate ones
+- Tools available to JMACs have improved, making intelligence gathering on crime orgs more possible
+- Mandates can be adjusted to allow authority to interfere more directly in black markets
+- Peace operations can work with sanctions orgs and NGOs to shut down illicit cash flows
+- Overall, tough issue that many aren't sure should even be addressed by peace operations
+##### Chapter 20: Exit
+- Exit strategies for peace operations often begin planning early on, before the mission is even deployed
+- However, these plans will have to be modified depending on the actual exit circumstances
+- Primarily political issue
+- Especially for ad hoc operations, exit is not the biggest issue when deploying a peace operation
+- Concept mainly came from US engagement in Somalia in the 90s
+- Exit strategy is not the same thing as withdrawal
+- Mainly just getting the resources and situation required for the host to succeed on its own
+- Exit is not a discrete event but a process over time
+- Missions may take a very long time to exit, and measuring progress towards exit is difficult
+- Ultimately depends on the willingness to cooperate from local stakeholders
+
+| Exit Mechanism    | Description                                                           |
+| ----------------- | --------------------------------------------------------------------- |
+| Successor Mission | Some forces are transitioned into a new successor mission             |
+| Cut and run       | Authorities terminated mission prior to completion                    |
+| Expulsion         | Host state withdrew consent                                           |
+| Sequencing        | Withdrawal plan based on sequenced objectives                         |
+| Designated        | Withdrawal plan based on predetermined time period                    |
+| Benchmarking      | Withdrawal plan based on indicators of progress towards mission goals |
+- UNOSOM I and UNOSOM II examples of successor mission
+- Also AU missions transitioning into UN mission in Darfur, Mali, and elsewhere
+- UNOSOM II example of a cut and run after the US withdrew
+- Unfortunately many examples of expulsion, MINUSMA and MONUSCO being contemporary ones
+- AMISOM is currently using a sequencing plan
+- ISAF in Afghanistan used a designated timetable, were given a window from 2010-2014 to withdraw and hand control to Afghan forces
+- Doesn't always work, UNAMID was supposed to withdraw from Darfur by 2020 but the overthrow of Omar al-Bashir in 2019 prevented this
+- UNAMSIL in Sierra Leone was the first mission to use benchmarking
+- Common benchmark is free and fair elections, although many are usually used including weakening rebel groups
+- Not always clear when a benchmark is met, often up to interpretation
+- Example of a common political issue with withdrawal, knowing when a situation is stable enough to withdraw
+- Pretty hard to predict how local administrations will function without peacekeepers present
+- Sudden withdrawal can cause massive vacuums leading to anarchy
+- Missions like AMISOM lose legitimacy the longer they stay, but can't leave for fear of permitting al-Shabaab to move in
+- Especially difficult when corruption is rampant
+- Retreat also creates operational issues by emboldening local actors
+- Security sector may be dependent on peacekeepers or on illicit networks
+- Careful consideration at the tactical level is needed to dismantle bases in the proper order
+- Finally, successor missions often are less equipped than their predecessors, creating further issues
+- Economic pressures significantly impact withdrawal, often a lack of funding or support is the reason for exit
+- Donor fatigue tends to limit resources over time
+- Narratives showing the need for an operation are necessary to maintain support
+- The local economy created by peacekeepers may also be a factor, but is often negligible
+- However, there are some cases where local economies become dependent on peacekeepers, mainly UNMIL in Liberia
