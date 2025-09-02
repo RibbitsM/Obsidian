@@ -1,4 +1,6 @@
 {
   "propertiesInDocument": "visible",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true
 }

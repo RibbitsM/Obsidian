@@ -1,0 +1,9 @@
+- The province of British Columbia is the primary landholder
+- Granted a [[Fee Simple Interest|fee simple interest]] to UBC, which granted a 999 year lease to the VST
+- VST then sold land to developers in the form of 99 year leases
+- These developers built strata properties which were leased to rent-seekers and house buyers who would take out mortgages to pay for these properties
+- Mortgage agreements grant conditional ownership to the bank
+- Many of the purchasers would then rent out these properties to tenants who would receive exclusive access for a designated period of time
+- All of this is on unceded Musqueam territory
+- Trying to define who "owns" any piece of property in this overlapping set of agreements is quite difficult
+- In one apartment, BC has jurisdiction, UBC will be the ultimate owner once all other leases expire, the theological colleges will be the penultimate owner, the property developers likely have limited jurisdiction to enforce building rules, the purchaser has rights as a landlord, the mortgagees own most of the value until it is paid off, the tenants have exclusive access, and the Musqueam likely have little direct power but have ancestral claims to the land it sits on

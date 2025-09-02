@@ -1,0 +1,4 @@
+- Set penalty attached, usually a maximum fine/term
+- Gives right to trial
+- Tend to have higher penalties attached compared to a [[Summary Conviction]]
+- Also gives right to [[Appeal]], will be covered frequently but the vast majority of indictments do not result in appeals

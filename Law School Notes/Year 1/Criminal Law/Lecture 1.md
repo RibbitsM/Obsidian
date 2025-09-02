@@ -1,0 +1,45 @@
+## [[R. v. William Grant]]
+- R stands for Regina(Queen)/Rex(King), represents the Crown
+- Used to be Regina, but Lizzy died so now it stands for Rex
+- This title is called the [[Style of Cause]] and shows the parties involved in the case
+- Generally in Canada, criminal cases are almost always pressed by the Crown, the concept of individuals "pressing charges" doesn't really exist
+- A case will be reported to the police, and the indictment/conviction is advanced by the Crown
+- Cases can be initiated privately, called private prosecution but in the end the decision lays in the hands of the Crown
+- In the US, laws differ from state to state which is why they have a different bar for each state and why prosecuting cases over state lines is difficult
+- In Canada there are some minor differences between provinces but the overall [[Criminal Code|criminal code]] is consistent
+- Grant was a representative of the govt for "Indian Affairs" in Whitehorse, official title was "Indian Agent"
+- Charged with 6 counts of making false returns to the Department of Indian Affairs counter to [[Section 92]] of the [[Financial Administration Act]]
+- Charged signifies that legal proceedings have been commenced against him
+- Generally charges are either placed by the police or the Crown
+- The public can appeal by protest or lobbying against a decision by the Crown to not press charges, but there is no legal instrument to do this
+- The Crown can also choose to enter into plea negotiation as opposed to going to trial, which is how the vast majority of cases resolve in Canada
+- Interestingly, in France plea negotiations are almost never used somehow
+- Occasionally the police will just recommend charges to the Crown
+- 6 counts signifies the number of times the offence was committed
+- Generally in Canada people are not sentenced consecutively, theoretically sentencing could be the maximum for every count, but these sentences could be served concurrently and often are
+- The [[Financial Administration Act]] is a federal statute, provinces cannot create true criminal laws
+- Two main categories, [[Summary Conviction]] and [[Indictable Offence]]
+- This is an [[Indictable Offence]], main difference is it gives right to trial
+- Maximum penalty is $500 fine or imprisonment for 5 years
+### Charge
+- Bill viewed the conditions of the people living under his jurisdiction as deplorable, and wanted to improve their housing conditions
+- Does have access to an emergency food relief fund and wanted to divert it to housing, but request was rejected
+- Instead he got locals to ask for food relief and then send the money back to him to be used for housing projects
+- Created a co-op, general store, and other amenities as well as sponsoring local business ventures
+- This scheme was discovered, and he was set before Judge Parker in the Yukon Territorial Court
+- Lowest level of trial court in the Yukon Territory, called the BC Provincial Court in BC
+- Elevated level is called the BC Supreme Court, the the BC Court of Appeal (Appellate Court), and then finally the [[Supreme Court of Canada]] 
+- General structure remains the same with provincial court, local supreme court, then appellate court
+- However, in smaller regions like the Yukon, there are not enough cases for an appellate court and decisions are referred to nearby provincial appellate courts (BC in this case)
+- Judge finds Grant guilty on all 6 counts, evidence of the fraud is basically undeniable
+- However, he imposed a penalty of only $10 on each count
+- In addition to losing his job as a result of this indictment, he also lost his pension
+- Parker stated that he was making the people under his charge more self-sufficient through his actions
+- Appellate court tries to overturn this sentencing and impose a $500 fine and threat of imprisonment if the fine is not repaid on time
+### Defence
+- Defence focused on the wording of the term "willfully" in [[Section 92]]
+- Proving a criminal act usually requires proving *actus reus* which is the act itself, and *mens rea* which is proof the act was committed willfully
+- In this case, the defence attempted to argue that this was done unintentionally which was argued unsuccessfully
+- Today we have a defence called the [[Defence of Necessity]] which allows an individual to break the law in a situation where it is morally necessary
+- Very narrow defence, is rarely effective and was not available in the 1960s
+- Basically allows an out that lies outside the word of the law

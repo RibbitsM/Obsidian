@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00cda46cd97045a7",
+        "id": "be73d4c1965dee6e",
         "type": "tabs",
         "children": [
           {
-            "id": "2846153f9647900b",
+            "id": "3a3962a90583c7c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Undergrad Notes/Year 4 Semester 2/POLI 374/Peace Operations Reform.md",
+                "file": "Law School Notes/Year 1/Property/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peace Operations Reform"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Undergrad Notes/Year 4 Semester 2/CPSC 368/Tree Indexes.md",
+                "file": "Law School Notes/Year 1/Property/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tree Indexes"
+              "title": "Backlinks for Lecture 1"
             }
           },
           {
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,8 +170,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5d0074b44444f944",
+  "active": "3a3962a90583c7c4",
   "lastOpenFiles": [
+    "Law School Notes/Year 1/Criminal Law/Lecture 1.md",
+    "Law School Notes/Year 1/Criminal Law/Readings",
+    "Law School Notes/Year 1/Property/Lecture 1.md",
+    "Law School Notes/Year 1/Links/Summary Conviction.md",
+    "Law School Notes/Year 1/Links",
+    "test.md",
+    "Law School Notes/Year 1/Links/Section 92.md",
+    "Law School Notes/Year 1/Links/Indictable Offence.md",
+    "Law School Notes/Year 1/Links/Indictable Offences.md",
+    "Law School Notes/Year 1/Links/Financial Administration Act.md",
     "Law School Notes/Year 1/Public Law",
     "Law School Notes/Year 1/Legal Research and Writing",
     "Law School Notes/Year 1/Property",
@@ -179,7 +190,6 @@
     "Law School Notes/Year 1/Contracts",
     "Law School Notes/Year 1/Torts",
     "Law School Notes/Year 1",
-    "Law School Notes",
     "Undergrad Notes/Year 4 Semester 2/POLI 374/Presentations.md",
     "Undergrad Notes/Year 4 Semester 2/POLI 374/Disarmament and Peacebuilding.md",
     "Undergrad Notes/Year 4 Semester 2/POLI 374/Final Reading List.md",
@@ -197,17 +207,7 @@
     "Undergrad Notes/Year 4 Semester 2/CPSC 368/Hash Indexes.md",
     "Undergrad Notes/Year 4 Semester 2/CPSC 368/Tree Indexes.md",
     "Undergrad Notes/Year 4 Semester 2/CPSC 368/In Class Exercise.md",
-    "Undergrad Notes/Year 4 Semester 2/CPSC 368/SQL.md",
-    "Undergrad Notes/Year 4 Semester 2/CPSC 368/MongoDB.md",
-    "Undergrad Notes/Rowan's Notebook/Econ 101/Chapter 3.md",
-    "Undergrad Notes/Year 3 Semester 2/HIST 425/Are The People an Army.md",
-    "Undergrad Notes/Year 4 Semester 2/CPSC 368/Relational Model.md",
-    "Undergrad Notes/Year 4 Semester 1/CPSC 330/Review.md",
-    "Undergrad Notes/Year 4 Semester 1/CPSC 330/Communication.md",
-    "Undergrad Notes/Year 4 Semester 2/CPSC 368/Data Mining.md",
     "Untitled.canvas",
-    "Attachments/Sen-RationalFoolsCritique-1977.pdf",
-    "Attachments/the-methodology-of-positive-economics.pdf",
     "Attachments/Exported image 20250409135206-2.png",
     "Attachments/Exported image 20250409135202-0.png",
     "Attachments/Exported image 20250409135203-1.png",

@@ -1,0 +1,3 @@
+- Less serious offence, lower maximum penalty
+- Process and rights of accused are different, generally do not allow right to trial by jury
+- Lower process, lower penalties
