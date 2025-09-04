@@ -1,0 +1,21 @@
+- Three main sources of info, Lexis, Canlii, and Westlaw
+- Important to find the right version of a case, can do this by checking case history
+- Generally this will be the most recent case or the one in the highest court
+- Make sure to check what other cases have referenced this case
+- Especially important for legislation, want to see how cases have interpreted and applied your relevant piece of legislation
+- For legislative research, Hyde Law, Justice Law, and BC Law are all good
+- Two kinds of secondary sources, ones that you can use to find new primary sources and ones that you can use by themselves
+- Other sources may be useful for research like encyclopedias, but generally these won't be used as direct sources
+- Think if it like using Wikipedia, it can help you get your research started, but it should not be used as a reference
+- Legal dictionaries can also be very helpful for looking up words that you wouldn't recognize and may have special meanings in law
+- These are also available on the UBC library
+- There are also dictionaries of words and phrases that show the meaning and origins of different legal maxims
+- Legal digests can also help keep up to date on certain areas of case law
+- An important skill to learn early on is writing legal memorandums or memos, which are a common task for legal interns
+- Memos should be in the [[FIBLAC]] format
+- For the in class exam, we're mainly focusing on the analysis section
+- Closed world, so you have a specific set of information you can use
+### Legal Research
+- Usually want to alternate between browsing and searching to ensure you're getting a good breadth of information
+- When using legal dictionaries, some dictionaries may have very small definitions while other ones will go into depth on the same topic
+- 

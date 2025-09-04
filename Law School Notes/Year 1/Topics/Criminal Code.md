@@ -1,0 +1,16 @@
+- Has many different procedural rules, not just a list of criminal charges
+- In 1955, major amendments were made to the Criminal Code, specifically in Section 9
+- This sets out the principle of codification, basically states that no individuals can be prosecuted for offences under common law (with exceptions ofc)
+- Main issue is notice to the accused, means that individuals would not know in advance that they violated a law prior to the decision of the judge
+- People should know what is criminal beforehand and act accordingly
+- The one exception is that it does not affect the power of courts to punish contempt of court
+- This is the only common law offence that is not mentioned in the criminal code and is left up to the decision of the judges
+- Contempt of court is when anyone decides to act disrespectfully or contrary to the principles of court
+- This includes conduct in court, or attempts to disrupt the orders of the court
+- Judges can decide the punishment for contempt of court depending on their judgement, including terms in prison
+- A common one is imprisonment until they say sorry
+- These are still ordinary convictions that can be appealed like any other conviction
+- Section 8.3 states that any principles of common law that provides a justification such as common law defences like defence of necessity are preserved
+- We're concerned about removing agency from the accused by allowing common law offences, but common law defences enable agency for the accused
+- Statutes can still be created to alter or remove these common law defences
+- 

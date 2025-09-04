@@ -1,0 +1,11 @@
+- One main source comes from the [[Constitution Act of 1867]]
+- Specifies the division of powers for criminal law/procedure
+- In summary, the federal parliament controls all criminal law and procedure in criminal matters
+- Provincial legislatures can make laws for property and civil rights, but not for criminal law
+- The [[Criminal Code]] is another primary source of criminal law
+- Sections 8 and 9 of the Code codified Canadian criminal law
+- Specifies that the Code applies throughout all of Canada
+- Also mentions that common law can provide justifications for charges under any Canadian criminal law as long as the common law principle does not conflict with an Act of Parliament
+- Criminal offences in Canada are restricted to federal law, and cannot come from common law, Acts of other Commonwealth countries, or laws existing prior to Confederation
+- The [[Charter of Rights and Freedoms]], which is part of the Constitution Act, is also a primary source of criminal law
+- The Constitution of Canada is the supreme law of the country, which includes the Constitution Act of 1982, the Acts referenced within it, and any amendments to the laws within any of those acts

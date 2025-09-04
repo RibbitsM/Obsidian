@@ -1,0 +1,24 @@
+- A prime example of contract law was the Pepsi, Where's My Jet case in the US
+- Pepsi made an ad in the 90s that showed someone getting a Harrier jet for 7,000,000 Pepsi points
+- Obviously a joke, but could technically be legally binding
+- Contracts should be formal, enforceable, and free from extenuating circumstances like duress
+- Does an advertisement serve as a formal contract?
+- Beyond this, can Pepsi even fulfill the contract, and would it even be legal for a private citizen to own a fighter jet?
+-  Not all contracts are formally signed on paper, depending on the interpretation many things can be legally binding
+- John Leonard calculated that it would cost him 4.3 million to get enough Pepsi points to buy the jet by purchasing and storing Pepsi cans
+- However, the Pepsi catalogue also has an option to directly buy the items by converting USD to Pepsi points at an exchange rate of 10 cents per point
+- This cuts the cost down to only $700k
+- When trying to order the jet, the catalogue does not list the Harrier jet as an option
+- However, they still send the 700k to Pepsi indicating they wanted the jet
+- Pepsi didn't cash the cheque and instead sent it back with two coupons for free Pepsi
+- They specifically note that the jet was "just a joke" and there was never a real offer
+- Generally, advertisements are not considered to be offers
+- The Pepsi ad was not an offer because it did not provide a way to accept the offer of the jet
+- There were no definite terms specifying how many jets were for sale or how to buy them
+- Instead, an advertisement is simply an offer to receive other offers
+- The jet not appearing in the catalog is also another nail in the coffin
+- Another key question is whether a reasonable person would be able to recognize that the offer of the jet was a joke or not
+- Questionable specifically because the ad (and Pepsi advertising in general) was targeted towards kids
+- Also, the Statute of Frauds states that any offer exceeding $500 must require a contract in writing signed by both parties to be legitimate
+- Even if the commercial was an offer, and a reasonable person would recognize that, this statute prevents the offer from being binding
+- 

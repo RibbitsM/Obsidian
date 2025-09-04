@@ -1,0 +1,7 @@
+- Also covered by Blackstone
+- Argues that property involves many other rights besides the right to exclude
+- For example, the right to free use and disposal without any control from outside sources other than the law
+- You not only have the right to exclude, but also to use or transfer property
+- Other scholars such as Tony Honoré identified even more rights, up to eleven
+- These are possession, use, management, income, capital, security, transmissibility, absence of term (it won't expire), duty to prevent harm (prevent harm caused to others by your property), liability to execution (can be used as collateral), and residuarity (if anything is left over it is still yours)
+- The Supreme Court has also on occasion referenced the original trilogy of possession, use, and transfer

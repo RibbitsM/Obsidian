@@ -1,0 +1,6 @@
+- F stands for facts
+- I is issues
+- B is brief conclusion
+- L is law
+- A is analysis
+- C is conclusion

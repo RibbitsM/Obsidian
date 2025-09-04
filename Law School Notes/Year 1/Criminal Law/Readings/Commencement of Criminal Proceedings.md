@@ -1,0 +1,7 @@
+- Criminal proceedings begin when a police officers witnesses an offence or an offence is reported to the police
+- If an officer believes there is sufficient evidence to prosecute, they will fill out a document called an *information*
+- This officer then goes before a judge and swears they have reasonable grounds to believe an offence occurred
+- They then summarize this evidence, and if the justice agrees, they will *issue process*
+- This is how a judge compels the accused to appear in court
+- Can either be done by affirming a previous request to appear made by the officer, or issue a summons
+- Can also order the officer to arrest the accused where they may apply for bail prior to the trial

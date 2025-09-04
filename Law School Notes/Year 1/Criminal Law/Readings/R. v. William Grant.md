@@ -1,0 +1,32 @@
+- Originally took place in the Yukon in the 60s
+- Brings into question what we consider to be criminal conduct
+- Defendant was an "Indian Agent" in Whitehorse, tasked with dealing with the local First Nations groups
+- Policy was to not endorse self-govt and instead to care for the basic needs of First Nations
+- Indigenous population in Whitehorse was poorly housed, most ppl lived in tents or shacks with high infant mortality
+- Available housing was either denied to them or improperly built
+- Grant had small housing budget but an unlimited food relief fund
+- Tried to get money transferred to housing but was rejected
+- Instead issued relief money to locals and then used the money to build housing instead
+- In total, about 70k was diverted and he was eventually fired and charged with 6 counts of making false returns
+- Charged under [[Section 92]] of the Financial Administration Act
+- Convicted but only charged $10 on each count
+- Federal gov appealed the sentencing and succeeded in substituting the max penalty of $500 on each count and 1 year imprisonment in case of default
+- Judge Parker was impressed by Grant's conduct and viewed him as unworthy of punishment further than the loss of his career/pension
+- Generally admired him for taking the risk of punishment to help the people under his care
+- Also noted the efficiency with which he used the diverted funds
+- Received no personal advantage and kept no money for himself
+- Govt also made no effort to recover the funds indicating they approved of how they were spent
+- Other agencies had used funds from the same fund for non-food purposes
+- Also noted that being charged under this act was exceedingly rare and that many others had done the same thing
+- Defence argued it was not done willfully
+- Prosecution argued that despite the fact that others had done it without facing consequences, he still broke the law
+- Decision was sent to Yukon Territory Court of Appeal, which was actually the BC Court of Appeal
+- Noted that Judge Parker found Grant guilty but overall condoned the offences
+- Parker made special note of the insufficient funds allocated to housing for Yukon First Nations
+- Argued that the punishment should be modified as Grant clearly knew that what he was doing was against the law
+- This should not be mitigated by the results of this action
+- In the end, it was unauthorized by the Department of Indian Affairs
+- Also took steps to deceive other members of the Department to hide his wrongdoing
+- No matter the results, the courts cannot condone a civil servant acting in this manner
+- In the end, he was required to pay $450 for the first count and $10 for the following five, $500 in total with 1 year imprisonment on default
+- 

@@ -1,0 +1,31 @@
+- The right to exclude others is the fundamental underpinning of property
+- Property owners have other rights as well, but this is the one that all the others rely upon
+- The right of exclusion is what divides property and non-property
+- For example, a book in a bookstore is the property of that store in the sense that it cannot be used by others until it is sold
+- When this happens, that right transfers to the customer
+- The author also has rights in the sense that the copyright on that book is their property
+- The contents of the book is their property, even if that specific copy is not
+- You may briefly possess the book by flipping through it in the store, but you do not own it
+- The bookseller would likely ask you to put it down or buy it if you attempted to read the whole book in the store, as you do not have property rights to it
+- Property rights will generally supersede possessory rights
+- While the state is the primary enforcement mechanism, social pressure is also a strong enforcer of property rights
+- For example, you may have property rights to your room in a shared house, even in the absence of a legal agreement
+- It is socially understood that the bedroom is "your room" and others should not enter it without your permission
+- Property refers to the rights of individuals with respect to resources
+- These rights are distinct from and take precedence over possession
+- These rights are associated with an enforcement structure
+- This property can be [[The Meaning of Property#Common, Private, and State Property|private, common, or public]]
+### Three Schools of Thought
+- The previous statements represent the consensus on property, but opinions differ on the specific content of property rights
+- Mainly this involves disagreement on how important exclusion is
+- Three main schools:
+	- [[Single-variable Essentialism]]
+	- [[Multiple-variable Essentialism]]
+	- [[Nominalism]]
+- These of course are not the only options on how to view property
+- Jeremy Waldron argued that private property is a *general concept* that has various different conceptions represented by the theories above
+- In the case of each object, the individual attached to it determines how it shall be used and by whom, and this is upheld by society
+- This concept morphs to adjust to different contexts depending on the object in question, the legal system, ownership structure, etc.
+- Agricultural land will naturally be treated differently than personal items
+- This is a kind of combination of [[Single-variable Essentialism]] and [[Nominalism]]
+- The core concept mirror's Blackstone's argument of the right to exclude, but changes over time like the "bundle of rights"

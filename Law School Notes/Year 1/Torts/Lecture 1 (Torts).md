@@ -1,0 +1,15 @@
+- Four main outcomes
+- Explain what is tort law
+- Discuss functions of tort law
+- Discuss basis for [[Liability]]
+- Explain differences between [[Fault and No Fault]]
+- The word "tort" comes originally from Latin, and means "wrong" in French
+- Basically tort law applies to wrongs committed against an individual that fall outside the bounds of public law
+- Generally, penalties in tort law take the form of recompensation or reimbursement rather than fines or other criminal penalties
+- Wrongful interference with another's rights
+- One of the broadest areas of law, applies to your dealings with pretty much any person outside your immediate family
+- Torts are one of the primary branches of civil law, and apply to private wrongs, while criminal law covers public wrongs
+- Property law governs the acquisition and ownership of property, but this ownership is protected via tort law
+- Contracts governs the transfer of this property, tying the three fields together
+- Tort law does not designate the rights that it enforces, it just upholds the laws created in other fields such as Property and Contracts
+- 

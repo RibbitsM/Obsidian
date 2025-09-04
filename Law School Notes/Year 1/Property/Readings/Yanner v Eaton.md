@@ -1,0 +1,54 @@
+- Murrandoo Yanner was a member of the indigenous Gangalidda tribe in Australia, and was charged for killing two baby crocodiles
+- He was charged by a peace officer under the *Fauna Act* of 1974 which prohibits taking fauna without proper legal authority
+- He argued he was using his native title right to hunt under the *Native Title Act* of 1993 which allows hunting for personal and non-commercial needs even when prohibited by another law
+- His clan was held to have a historical connection to the area and demonstrated that hunting these crocodiles had cultural/spiritual significance
+- The counterargument was that the *Fauna Act* eliminated this right as these estuarine crocodiles were protected
+- Section 7 of the *Fauna Act* reads:
+```
+All fauna, save fauna taken or kept during an open seasonwith respect to that fauna, is the property of the Crown and under the control of the Fauna Authority.
+```
+- According to case law, a native title right is eliminated by the granting of a contradictory right
+- As such, Section 7 overturned this right as the *Fauna Act* made these crocodiles "property" of the Crown
+- If this means the Crown has full beneficial ownership, then it supersedes the *Native Title Act*
+- Yanner won the initial trial, but the Queensland Court of Appeal reversed the decision, and Yanner appealed to the High Court of Australia
+- In the laws of Australia, "property" refers not to the thing, but a legal relationship with a thing
+- Therefore, the term "property" in Section 7 is the most comprehensive way to describe ownership of something
+- This is the interpretation supported by the Commonwealth, that the Crown had absolute ownership over the fauna
+- However, Section 7 has some ambiguities about what specific fauna it applies to
+- For one, it deals with ownership of all fauna within Australia, but is that only for the time which they are located there?
+- For example, are migratory birds property of the Crown if they land on a beach in Queensland and then fly to Vietnam?
+- Also, what does it mean for the Crown to have absolute ownership of what is essentially a wild animal?
+- Surely this cannot be as comprehensive as owning a domestic animal
+- In common law, there could only be "qualified" but not "absolute" property in transient things like fire, air, water, and wild animals
+- For example, someone taking tamed wild animals or taking young animals born on the land who had never left would be charged with trespass
+- A land owner would have the exclusive right to hunt and kill wild animals on their land
+- Besides this, there was no precedent for an individual to hold property in a wild animal
+- The trouble is that the *Fauna Act* deals with absolute ownership of animals that historically could never be owned in this way
+- Wild birds are not in the possession of anyone, and possession is the beginning of ownership
+- This is a quote from *Missouri v. Holland* in 1920, a case from the US
+- Next, the ownership in the *Fauna Act* is conditional on the open seasons, meaning this ownership was not constant
+- Other provisions of the act suggest a less than absolute kind of property as well, like forfeiture of fauna to the Crown and that the Crown will not be liable for these wild animals
+- This is property without responsibility, clearly something less than absolute
+- Finally, we must consider the purpose of this act
+- It was put into law at the same time as provisions requiring royalties on the skins of animals taken in Queensland
+- Therefore, this legislation was likely created as part of a goal to create a royalty system in Queensland
+- This system was designed to mirror other royalty systems for taking natural resources like timber from the land
+- The *Fauna Act* was treating wild animals as a resource which the Crown naturally had a right in its exploitation
+- When this act was first put into place, the minister stated that the fur industry belongs to the people
+- The animals of the state belong to the people of that state, just as the other natural resources do and thus cannot be sold without permission
+- These are not subject to private ownership, but rather public ownership
+- This is explicitly outlines by Roscoe Pound, who describes wild animals as a common resource held by the state for the public
+- These rights are less than absolute ownership 
+- In summary, the *Fauna Act* was created to forbid the taking or keeping of fauna except in the case of a license, to protect fauna as a communal resource
+- In light of this, the Court of Appeal of Queensland accepted the appeal, and discharged the case
+### Dissenting Opinions
+- Some argued that Section 7 vests the right to deal with fauna only in the Crown, and dismantled all previous existing rights
+- In common law, the Crown and indigenous populations had similar rights due to Crown ownership of the land and native title rights
+- However, Section 7 reversed these common law rights
+- The argument is that Section 7 would be useless if all it did was establish public ownership of fauna, as that already existed
+- Property in fauna means absolute ownership, hence the use of the word "property"
+- Property in fauna always remains with the Crown unless they choose to dispose of it, or and individual ends that property in accordance with the act
+- This can be seen through the specific exemptions mentioned in the act, such as open seasons
+- If the appellants arguments were held to be true, the Crown would only have property in fauna when it is appropriated by a third party
+- This would mean the Fauna Authority cannot take steps to protect already living animals
+- There is nothing wrong with Queensland having authority over animals passing through it's boundaries, as it should have control over things within those boundaries

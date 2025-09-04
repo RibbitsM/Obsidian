@@ -1,0 +1,8 @@
+- Property has no fixed meaning, it just fluctuates according to the values and beliefs of the current legal system
+- The right to exclude is neither a necessary nor sufficient condition for property
+- It is commonly associated with property, but is not essential
+- Traces its origin back to the Legal Realist movement
+- Basically just arguing that it's a social construct (wow how innovative)
+- This is a pretty common view now, basically referring to property as the name for things that people possess
+- The definition of property has expanded and mutated so severely that it can no longer be accurately described as one thing
+- This is now the default view for most modern legal scholars, that property is a "bundle of rights" that can be made up of any number and kind of rights

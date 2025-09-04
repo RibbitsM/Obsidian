@@ -1,0 +1,9 @@
+- In each case, someone was injured by another player during an amateur adult sports game and their assailant was either charged or not charged
+- In two cases where the player was injured during normal play due to negligence or an instinctive/impulsive action from another player, they were not charged
+- In the third case, a hockey player accidentally hit another leading to an altercation where one fractured the other player's eye socket, and was criminally charged
+- This was specifically a non-contact hockey league as well
+- There seems to be specific reference to instinctive or impulsive behaviour coming from the way the sport is played
+- The soccer player was trying to kick the ball, the handball player was trying to guard her opponent
+- However, the hockey players just got into a fight unrelated to gameplay
+- Because of this, Pierre will likely be charged as gameplay had finished and his actions were clearly fairly considered
+- Emily will also be charged for similar reasons, she acted intentionally to harm the other player and had reason to target them

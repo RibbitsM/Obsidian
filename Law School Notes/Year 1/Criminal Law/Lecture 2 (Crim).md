@@ -1,0 +1,53 @@
+- Law comes from statutes passed by federal/provincial governments
+- First source of criminal law is the [[Constitution Act of 1867]], also called the British North America (BNA) act
+- Name was retroactively changed with the passing of the 1982 Constitution Act to repatriate the constitution
+- Most important part for us is Section 91, statute 27 which states that criminal law can only be formed by the federal government
+- If a province attempted to create a criminal law, it would be considered *ultra vires* or unconstitutional
+- The difficult question is what we should consider to be "criminal" law
+- Generally directed at public issues of safety and morality, but of course exceptions exist
+- Several cases where provincial laws have been argued to be *ultra vires*
+- Section 91, statute 13 grants provinces the right to pass laws related to property and civil rights
+- For example, one controversy was whether or not provinces can create firearms registries
+- Is this in the bounds of civil law or criminal law?
+- There can be areas of "dual competence" that are legitimately in the realm of both the provincial and federal government
+- For example, dangerous driving is a criminal offence under the federal law, but there are also laws relating to driving offences under provincial governments
+- These offences would not give you a criminal record, but regardless hold penalties
+- These penalties can be fines or imprisonment, same as with criminal penalties but are not true criminal offences (not indictments)
+- You can go to jail without ever technically committing a criminal offence
+- Doctrine of Federal Paramountcy states that if provincial and federal laws are incompatible, the federal law takes precedent
+- Once, impaired driving was prosecuted only under the criminal code, but this created problems as most people prosecuted this was had enough money to fight the charges
+- Over time, provincial governments began to take more authority to make things easier procedure-wise while removing the criminal aspect of the charges
+### [[Criminal Code|Codification]]
+- First criminal code was created in 1892
+- At the time, the common law existed in parallel and contained offences that were not explicitly written out
+- Canada is a Common Law jurisdiction, meaning we recognize the ability of judges to create law
+- Also called case law, judges can set out rules that will be a source of future decisions
+- Distinct from statutory law, which is created by Parliament
+- Can we have common law and statutory law in criminal law?
+- In Britain, there were offences written down, but also offences that only existed in case law
+- When Canada codified its criminal code, the question remained of whether we should keep these common law offences
+- For many years, it was unclear whether or not common law was part of the criminal code
+- In 1955, the decision was ultimately made to eliminate all common law criminal offences with the exception of contempt of court
+- The accused is just one individual against the enormity of the criminal justice system, and the law seeks to grant benefits to the accused to match this asymmetry
+- In this vein, all common law defences were preserved in the criminal code via section 8.3
+- However, Parliament reserves the right to pass laws that can eliminate these common law defences
+- The hierarchy of law is that common law is at the lowest level and is superseded by statutes, which are still dependent on the Constitution
+- One example of how these defences are created is the defence of entrapment, which is now recognized in Canada but was not until a defence counsel argued it should be in place as it exists in other common law jurisdictions
+- This proposal came with specific limits on how this defence could be used
+### [[Charter of Rights and Freedoms]]
+- Certain provisions of the charter are key for understanding criminal law
+- The fundamental freedoms are occasionally evoked in criminal law, but the most common are the legal rights, especially section 7
+- This provides the right to life, liberty, and security of the person except in accordance with the principles of fundamental justice
+- Some examples are provided in sections 8-13, but are not comprehensive
+- Apart from these examples, courts are free to develop new principles of fundamental justice which can also come in the form of statutes
+- Violation of any of these principles entitles you to a remedy if you successfully appeal to a court
+- For example, if evidence against you was collected in a manner inconsistent with the Charter (i.e. unreasonable search and seizure), you can appeal to have that omitted under the Charter
+- However, this is only if the admission of the evidence would bring the legal process into disrepute
+- For more general remedies, the Charter can trump any other laws that are found to be unconstitutional
+- Again, this is an example of Canada's legal hierarchy
+- Another key part of the Charter with regards to remedies is section 1
+- This states that all rights in the Charter are subject to the limits prescribed by law as can be demonstrably justified in a free and democratic society
+- This means that "reasonable" limits on your rights can still be allowed with justification
+- Section 33 of the 1982 Constitution is the Notwithstanding Clause which allows the government to violate your rights beyond reasonable limits for up to five years
+- However, you are still allowed to go to court to get a declaration that your rights were officially violated, which can be very useful politically
+- This used to be rarely used, but now it has become much more common

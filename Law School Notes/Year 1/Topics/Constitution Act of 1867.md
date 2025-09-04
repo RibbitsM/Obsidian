@@ -1,0 +1,12 @@
+- States that the Parliament of Canada has exclusive authority over criminal law
+- This comes from Section 91 of the act
+- Controls everything relating to criminal law except the constitution of criminal courts
+- Each province is responsible for creating the structure of their own courts, some provinces may divide offences between courts differently or have different appeal procedures/structures
+- Also controls the establishment and management of jails (91.28)
+- Each province is able to make laws controlling the establishment and management of prisons in that province (92.6)
+- Distinction is that there are provincial correctional facilities run by the provincial gov and federal facilities run by the federal gov
+- If your sentence is 2 years or more, you will be sent to a federal facility, otherwise you are sent to a provincial facility
+- This is why you often see people sentenced to 2 years minus one day in prison
+- Mentioned in Section 92
+- Also can determine property/civil rights, administration and constitution of provincial civil and criminal courts, and procedure in those courts
+- Provinces are also responsible for imposing punishment for the violation of said property and civil rights
