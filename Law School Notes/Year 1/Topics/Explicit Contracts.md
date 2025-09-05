@@ -1,0 +1,2 @@
+- These contracts can either be written or oral, and can be enforceable either way
+- Generally, written contracts are stronger than oral contracts, and some types of agreements can only be enforceable if put into writing

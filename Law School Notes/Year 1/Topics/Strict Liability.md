@@ -1,0 +1,3 @@
+- Usually no fault on the part of the defendant
+- Example would be if your pet bites or attacks someone, no matter what steps you took you are still liable
+- 

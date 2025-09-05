@@ -1,0 +1,9 @@
+- When it comes to the enforcement of a contract, the most important factor is consideration
+- Assuming the previous three factors are present, for a promise to be legally binding there must also be consideration for the contract to be binding
+- This means that the contract must have value exchanged between both parties
+- The law does not back up gratuitous agreements, for example if someone offered you $5000 for free and then didn't give it to you, that would not be legally binding
+- However, if they offered you that money in exchange for your car, that would now be legally binding and would constitute an enforceable contract
+- Each party must "give consideration" to the other party
+- Usually, this comes in the form of money going to one party, and a good or service going to the other party
+- Of course, there can be other forms of consideration like barter, or offering services for goods, or even promising to refrain from taking an action in exchange for something
+- In the *Hubbs v Black* case in Ontario, one party promised to not take a certain burial plot in a cemetery, which was considered sufficient consideration

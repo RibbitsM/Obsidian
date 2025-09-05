@@ -1,0 +1,6 @@
+- These contracts require no explicit language of a contract, and usually refer to commercial transactions
+- For example, buying a coffee at a café is always implicit, you signify what you wish to purchase, and pay the price of that coffee
+- This is still a contract, you are each exchanging value based on established terms
+- However, these terms are so widely understood that no oral or written agreement is required
+- Bartering is a weird side case of this, where an implicit transaction becomes converted into a [[Explicit Contracts|explicit contract]], usually an oral one
+- Implicit contracts can also be breached and enforced, for example dining and dashing or stealing is a violation of the implicit commercial contract

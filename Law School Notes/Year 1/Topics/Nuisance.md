@@ -1,0 +1,2 @@
+- Usually governs relationships between neighbors
+- Main example is loud music

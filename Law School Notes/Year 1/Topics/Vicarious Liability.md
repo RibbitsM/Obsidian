@@ -1,0 +1,3 @@
+- This refers to liability for the actions of people under your control during the time they are under your control, for example your employees or your children
+- Area of law that governs the liability of people that have not committed a wrong
+- Vicarious Liability is an example of [[Strict Liability]]

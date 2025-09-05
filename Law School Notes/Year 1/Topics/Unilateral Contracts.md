@@ -1,0 +1,6 @@
+- Promise made by a single party that can be fulfilled by an indeterminate second party
+- For example, a flyer looking for a lost pet offering a reward
+- The initiating party dictates all the terms of the agreement, and it is up to an unknown individual to choose to engage with the contract or not
+- Usually the initiating party will be seeking something and offering a reward
+- This means that the second party does not have the legal right to negotiate with the initiating party as they would in a bilateral contract
+- 

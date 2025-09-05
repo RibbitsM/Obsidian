@@ -1,0 +1,9 @@
+- In order to prove that a contract was formed, we need to establish that the parties involved intended to create a legally binding agreement
+- For example, agreements between family members are assumed to not imply a legally binding contract
+- This is not always the case, there can be evidence provided to show intention to contract even in these cases
+- Generally this is how the intention to contract is determined, by examining the nature of the relationships between the contractors
+- An example where evidence trumps presumption was the *Merritt v Merritt* case in the UK
+- A married couple created a written separation agreement where if the wife continued to pay for the mortgage on their home, the husband would transfer the property to her once it was paid off
+- The husband did not fulfill the terms of the contract, assuming it would be void since they were married when the agreement was made
+- However, the courts found that there was sufficient evidence to determine intention to contract despite their relationship
+- While not always a consistent rule, contracts where the terms of exchange are higher stakes tend to be thought of as more serious and more likely to be legally binding

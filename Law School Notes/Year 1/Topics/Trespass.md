@@ -1,0 +1,2 @@
+- Related to property rights, used in the case of unauthorized access to your property
+- Even if someone is trespassing on your property, you have a limited duty to prevent harm to them or you will be liable under [[Occupiers Liability]]

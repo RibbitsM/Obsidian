@@ -1,0 +1,9 @@
+- For a contract to legally binding, besides an offer and acceptance, its terms need to be sufficiently clear in order for it to be legally binding
+- Using the car example again, pointing in the general direction of the car you want to buy is insufficient, there is still ambiguity over which specific car you want
+- In the example of buying a house, a contract may not be legally binding if it fails to mention the date of transfer
+- In these situations were the parties conflict on the certainty of the terms, the court will attempt to remedy this by reading the contract
+- If the court cannot discern the precise terms of the contract by examining it, they may reach for common practice in transactions of this kind
+- These may come from past precedent, industry standards, etc.
+- Courts will not try to create new contracts for the parties, but will do their best to fill in the uncertain terms of the contract
+- If this cannot be reasonably done, the contract will have to be set aside
+- It is the responsibility of the parties to ensure that their contracts are sufficiently clear, and the courts cannot modify its contents without consensus

@@ -1,0 +1,37 @@
+- If a "wrong" is not wrongful interference under tort law, it cannot be remedied
+- Narrow set of wrongs that are covered by tort law
+- For example, noise complaints have to meet certain thresholds to qualify as wrongful interference
+- Music must be "very loud", and must continue for a protracted period of time
+- Other elements can be established as well, worse if it is a residential neighbourhood
+- Need to prove that this interferes with your enjoyment of your property
+- To prove wrongful interference, you must fill out the boxes set out by the law to receive a legal remedy
+### What is Tort?
+- Tort law generally provides you with monetary compensation
+- There can be other types of remedies as well
+- You can sue for damage to your property, your business, your environment, or your proprietary businesses
+- Needs to be a specific act of harm that you can point to
+- Can also be wrongs to your reputation or character (defamation), or violations of privacy
+- You can also sue the government for the handling of public health emergencies or any other perceived harms caused by government negligence
+- Many citizens sued the Canadian government for negligence during COVID, but they established a law giving themselves and many private nursing homes immunity
+- However, you can still sue for gross negligence
+- If successful, the outcome of a tort case is often paying [[Damages]], which is the word for monetary compensation
+- The court can also decide to issue an [[Injunction]], which is a judge order to prevent something from happening
+- Can be done to prevent trespass, construction, anything that was connected to the wrong
+- The opposite of an injunction is *Mandamus*, which compels someone to do something
+- Usually up to the discretion of the judge whether they want to issue damages or an injunction
+- The plaintiff is the person who has suffered harm and is seeking damages/injunction
+- The person alleged to have committed the action is the defendant, also called a tortfeasor
+- Usually, the plaintiff will have to sustain and identify an injury, but not in every area of law
+- An example where you don't have to would be [[Trespass]]
+- Generally, the defendant is the one responsible for compensating the plaintiff
+### Types of Torts
+- [[Strict Liability]]
+- [[Nuisance]]
+- [[Negligence]]
+- [[Trespass]]
+- [[False Imprisonment]]
+- [[Scienter Action]]
+- [[Vicarious Liability]]
+- [[Occupiers Liability]]
+- [[Medical Negligence]]
+- [[Defamation]]

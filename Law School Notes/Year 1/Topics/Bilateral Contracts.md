@@ -1,0 +1,3 @@
+- Contracts between two or more people, the most common kind
+- This is the kind of contract we usually think about, and covers most commercial transactions involving buying, selling, investing, etc.
+- The parties will exchange promises and come to a consensus on the terms of the agreement

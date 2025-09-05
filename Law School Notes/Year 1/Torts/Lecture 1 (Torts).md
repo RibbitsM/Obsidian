@@ -12,4 +12,3 @@
 - Property law governs the acquisition and ownership of property, but this ownership is protected via tort law
 - Contracts governs the transfer of this property, tying the three fields together
 - Tort law does not designate the rights that it enforces, it just upholds the laws created in other fields such as Property and Contracts
-- 
