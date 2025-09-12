@@ -26,3 +26,9 @@
 - The 2014 *Bhasin v. Hrynew* case determined that all contracts have a fifth implied element that it will be carried out with good faith and honesty regardless of the intentions of the party
 - This is something inherent to all contracts that you cannot escape
 - Helps protect against harms created by intentionally misleading contracts
+### Remedies
+- There's a couple of remedies for contract issues, and the only one we'll cover this semester is rescission
+- This is where the court annuls the contract, usually done in the presence of vitiating factors
+- Often, people going to court seeking to prove vitiating factors are seeking rescission as a remedy
+- Other three are Damages, Specific performance, and Injunction
+- Usually applied in the case where a term of a contract has been breached

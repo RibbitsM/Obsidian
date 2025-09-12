@@ -1,0 +1,3 @@
+- Largest property interest recognized by law in Canada
+- Essentially means you own the property forever, unconditionally
+- This is generally the interest in which people own their homes, and is distinct from a lease

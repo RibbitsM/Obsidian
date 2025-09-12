@@ -1,0 +1,44 @@
+- Quick context: The 1999 Nisga'a Final Agreement grants all Nisga'a lands to the Nisga'a Nation under a [[Fee Simple Interest]]
+- Even if the Nisga'a government or an individual loses control of a part of this land, the jurisdiction reverts to the nation
+- The effort to gain this control began in the 1860s when the Nisga'a nation sent emissaries to Victoria and Ottawa to begin arguing for control of their territory
+- This region is located in the Nass River valley of Northeast BC
+- Initial goal was to become landowners and administrators of this territory, which remained consistent until the signing of the Final Agreement
+- Basically allows the nation to administer their land without interference from Canada or BC
+- Went on to create a vast array of legislation allowing the nation to parcel up this land and grant it to individual citizens of the Nisga'a nation
+- This includes its own land title registration system separate from its Canadian equivalent
+- Also allows citizens to convert their own land titles into fee simple for no cost
+- The *Nisga'a Land Title Act* is the ultimate authority on the transfer of this land, and cannot be transferred unless in accordance with the act
+- All other methods of acquiring land are abolished, including common law
+- If any citizen wants to acquire rights against other citizens, they must file for an entitlement which will prevent any other person from getting fee simple ownership to that land
+- These fee simple parcels must be owned by the relevant village to be granted to a resident of that village, can only be zoned residentially, and cannot be larger than 0.2 hectares
+- Therefore, these fee simple estates cannot be used for commercial reasons, including commercial resource extraction
+- However, the nation itself is not subject to these restrictions
+### Rewards and Risks
+- The major benefit of this agreement is full autonomy of the Nisga'a Nation over their territory
+- The other goal of this is increasing the economic prosperity of the Nisga'a people
+- Decisions were heavily influenced by the theories of Hernando de Soto, who posited that a robust property regime is the key to stable economic prosperity
+- Poverty can be alleviated by granting the impoverished stable property rights they can fall back on
+- Because of the provisions of the *Indian Act* preventing investment in indigenous land without the approval of the federal government, indigenous groups have been unable to benefit from their land ownership
+- Generally, bands have relied on traditional systems of land ownership that reduce confidence in investors
+- The key is to have individually owned land that can be freely used without relying on a majority vote from a local council
+- Also, these systems also include a right for the band to revoke land ownership at any time
+- A fee simple system increases certainty for the owners, and also encourages investment by creating a familiar system for outsiders
+- de Soto recommended the systems of fee simple ownership, as well as the creation of a robust central title registry
+- However, this does not come without risks
+- By prioritizing easy investment and economic growth, this approach risks undermining the connection of indigenous groups to their land
+- For example, individuals under this system can lose ownership of their land by failing to pay a mortgage
+- The land is initially granted free of any mortgage, but this does not prevent the possibility of a citizen using that land as collateral
+- Other ways for individuals to lose land are failure to pay taxes to the Nisga'a government, and as the result of a civil judgement
+- Finally, land can also be lost as it is considered a family asset, since the BC *Family Law Act* still applies on Nisga'a territory
+- In the event of a separation, each individual is entitled to half of the property
+- In terms of the risks to the community, switching to individual ownership removes the previous right for members of an indigenous group to be entitled to land of that group
+- This agreement also opens the possibility for non-Nisga'a people to obtain land from the Nisga'a Nation
+- At present this is unlikely as the region is quite remote, but this is an issue that may arise in the future, or may be more severe if similar approaches are taken in other reserves
+- The main concern is that this would disrupt the unity of the nation
+- An even worse scenario would be the purchasing of Nisga'a land by absentee landlords, further disrupting the connection to the land
+- If an individual purchases mortgaged Nisga'a land and uses it for profit, those funds will likely never make it back to the community if the individual does not live there
+- Absentee landlords create many issues, as they often let their properties fall into disrepair, decreasing their value and creating barriers for the nation if they try to seek them out
+- Finally, this also opens the possibility of wealth concentrating in the hands of a few wealthy Nisga'a citizens to the detriment of others
+- After all, the most likely purchasers of defaulted mortgage land are their immediate neighbours
+- Also, considering that land titles under the *Indian Act* were disproportionately given to Nisga'a men, there may also be gender inequality to contend with
+- Overall, we will have to wait and see how this develops, whether the community will be disrupted or whether members will band together to advocate for reforms that more closely match cultural practices

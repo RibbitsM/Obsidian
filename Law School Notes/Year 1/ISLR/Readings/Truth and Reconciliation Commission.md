@@ -1,0 +1,103 @@
+- Early Canadian policy towards indigenous groups amounts to cultural genocide
+- This is defined as the destruction of structures and practices that define a group
+- In the case of Canadian indigenous populations, this meant seizure of land, restriction of movement, banning of languages, and disruption of spiritual practices
+- Even where treaties were negotiated, it was often done coercively
+- Populations were relocated away from valuable land, and confined to their reserves
+- Existing governance structures were replaced with band councils subject to the whims of the government
+- Those who did not discard their spirituality were jailed, and their belongings were confiscated
+- The most damning element of this project was the separation of children from their parents to be sent to residential schools
+- Designed to break the gap of generational knowledge and raise a new generation of children disconnected from the culture of their parents
+- This was explicitly stated as part of the goal for the residential schools
+- “our object is to continue until there is not a single Indian in Canada that has not been absorbed into the body politic.”
+- Missionaries also sought to ban many indigenous spiritual practices such as the Potlatch and the Sun Dance, as well as banning indigenous marriage practices
+### [[Residential Schools]]
+- These schools were mainly administered by the church
+- A wide number of denominations participated, including the Roman Catholic, Anglican, United, Methodist, and Presbyterian churches
+- Last federally supported schools ceased operations in the 90s
+- The education at these schools were fairly limited, as the government held a low opinion of the intellectual capabilities of the children
+- Most time was spent doing chores to run the school
+- Rampant cases of neglect and sexual/physical abuse of children
+- Entire project was infused with the idea that indigenous culture was inferior to European culture
+- The final goal of these schools was to eliminate indigenous culture by assimilating every indigenous person into white culture and religion
+- Despite these efforts, the government failed in fully eradicating indigenous culture
+### Reconciliation
+- The word reconciliation implies there was ever a conciliatory state between indigenous people and settlers in Canada
+- The TRC prefers to use it in the sense of reconciling with past events and establishing healthy relationships going forward
+- We must be aware of the past, the harm that has been inflicted, and act to remedy it
+- Reconciliation is supporting indigenous people as they heal from the actions of colonialism
+- Today, the relationship between indigenous people and the government is still worsening
+- Conflicts continue on the topics of violence towards indigenous women, the development of treaty land, and ongoing litigation on the 'Sixties Scoop' and school survivors
+- The vast majority of Canadians know little or nothing about the history of these conflicts
+- Reconciliation will take time, and we need to continue making a concerted effort to make it happen in the future
+- A key component of reconciliation is that it is a two-party process, both sides have responsibilities to uphold
+- Not only must the indigenous peoples heal, but we must recognize and come to terms with what we have done
+- Reconciliation is not about closing a chapter of the past, but learning about it and remembering it so we can create new pathways into the future
+- The "truth" part of "truth and reconciliation" is just as key, everyone deserves to know what really happened to make way for justice and healing
+- This doesn't just mean unpacking all the government documents, but listening to the lived experience of residential school survivors
+- Telling these experiences can be enlightening for those who listen, but also therapeutic for those who speak
+- One difficulty was creating dialogue between survivors and former school staff
+- Often, the approach is just to get the staff to listen to the stories of the survivors
+- Many former staffers claim to unaware of what was going on at these schools and argue they were simply trying to educate these children
+- Even more important to hear first-hand testimonies of the abuse that occurred
+- Three main steps to reconciliation
+- Repair damaged trust through apologies
+- Provide reparations
+- Fight for action that makes real societal change
+- Part of this process involves reviving indigenous legal traditions
+- Many of the vastly different indigenous groups across Canada have "peacemaking" processes designed for establishing relationships and repairing conflicts
+- This is often done through storytelling and ceremony
+- In this way, reconciliation can become part of ordinary life, not just in the context of residential schools
+- Reconciliation also means reconciling with the natural world, not just with your fellow human
+- This is a consistent argument from many indigenous elders and leaders, that reconciliation between groups is useless if the land is still being harmed
+- One key framework used by the Truth and Reconciliation Committee is the *UN Declaration on the Rights of Indigenous Peoples*
+- By implementing the principles of this declaration into law, Canada can work towards implementing reconciliation as part of tis identity
+- In the end, reconciliation is really about making and maintaining healthy relationships
+### Imperial Context
+- [[Residential Schools]] were just one part of the larger colonial project
+- Colonization was a joint enterprise between the colonial states and the Church, residential schools are a prime example of cooperation between church and state
+- European states controlled indigenous land through the practice of settler colonialism, and the process of mass migration began
+- Reshaped the racial demographics of the world through migration, indentured servitude, and the transatlantic slave trade
+- First wave would usually be explorers, farmers and prospectors who would pave the way for wars of expansion and the signing away of land under treaties
+- All across the globe, indigenous people were being put in residential schools and assimilated
+- Began with the Spanish conquest of the Aztecs/Incas which set the stage for a broader age of colonial conquest
+- Also gave an enormous boost to the European economy which would remain on top for the next few centuries or so
+- Empires were established through military force, and maintained through economic exploitation
+- The extinction of indigenous people was a part of this establishing process as nations sought access to the already occupied land of the New World
+- Treaties were often broken or signed to the disadvantage of the native populations
+- Settler colonies would eventually go on to gain influence, independence, and even surpass their progenitors
+- The arguments justifying this conquest mainly came from two sources
+- Religious justifications, and technological advantages
+- The Europeans had a duty to both spread the world of God to prevent the indigenous populations from going to hell and to spread civilization
+- These two goals often went hand-in-hand as the European notion of "civilized" was synonymous with being Christian
+- The Catholic papacy was integral in sponsoring early North American expeditions and legitimizing the colonial process
+- Pope Alexander VI issued the first "papal bull" in 1493, which was used to grant vast swathes of land in North and South America to European nations
+- Shaped legal arguments referred to as the "Doctrine of Discovery" which allowed explorers to claim occupied land in the Americas on the condition they converted the local populations
+- Not all European rulers recognized the Pope's authority to grant newly discovered land like this, but a similar model was usually adopted in most places
+- For example, the English believed that a claim to "discovered land" could be legitimized by *de facto* control
+- The lands of North America were considered *terra nullius* or "no man's land", completely ignoring existing ownership structures of indigenous peoples
+- The presence of Indigenous people was not considered to be a violation of *terra nullius* as they did not own the land, but simply occupied it
+- To truly "own" a land, you needed to exploit it using European agriculture
+- This was also at the peak of popularity of race science, where races were ranked hierarchically based on their traits, with Europeans at the top
+- These ideas were integral to global policy towards Indigenous peoples whether in Canada, the US, or Australia
+- Christian churches provided religious motivations for conquest, but also sent missionaries to actively convert Indigenous people
+- Christian missionaries provided a justification for the expansion of empires, and legitimized the use of force against populations that refused to convert
+- On one hand, missionaries protected indigenous people from most of the exploitation of imperialism by ensuring fair prices were set and aid delivered to vulnerable communities but they also had the express goal of destroying Indigenous spirituality and culture
+- Missionaries saw indigenous ways of life as obstacles to salvation and instead sought to introduce them to the "superior" European methods
+- Colonization was ultimately done to serve the interests of the colonial powers, while many sincerely believed in spreading Christianity, the real goal was to grab land
+- The Pope never had any authority to give away vast swathes of land or colonize already occupied lands
+- Indigenous people were never subhuman, and what was done to them was completely morally unjustifiable
+- Eurocentrism almost led to the complete eradication of countless alternative systems of government, agricultural and spiritual practices
+### Educating Lawyers
+- Criminal prosecution of residential school abusers was often challenging for the victims
+- Most lawyers who participated did not have the ability to deal with the challenges behind having witnesses recount some of the most painful memories of their lives
+- In some cases, survivors didn't even want to receive legal assistance
+- Proves that lawyers should have a greater understanding of indigenous history/culture
+- TRC made two calls to action requiring all Canadian lawyers to undergo cultural competency training, and for law students to learn about indigenous people and the law, including the history of residential schools
+- As the truth of residential schools began to emerge, civil lawsuits against the government and the church continuously piled up, with several congregating into class action suits
+- Many of these complaints resulted in the Indian Residential Schools Settlement Agreement which was finalized in May of 2006
+- This would put to bed a majority of the class action suits initiated against the Canadian govt
+- Settlement Agreement provided payment to all attendees of the schools listed in the Agreement, and an assessment process was put in place to compensate those who experienced physical or sexual abuse
+- This process was supposed to be preferably to litigation as it was done in private on a condensed time schedule
+- However, some survivors complained that this would not allow them to directly face their abusers
+- Additionally, this agreement didn't cover all abuse survivors, as many Metis students, day school students, and students from Newfoundland and Labrador were not included
+- Led to another TRC Call to Action to work with plaintiffs outside the Agreement to settle their grievances

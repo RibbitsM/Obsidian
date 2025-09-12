@@ -1,0 +1,6 @@
+- Most closely associated with Thomas Jefferson and Amartya Sen
+- Jefferson argued that private property was essential to the promotion of freedom
+- Private property is the founding element of all kinds of freedoms, and is crucial for a free and democratic society
+- Sen explored this in the context of the developing world, private property gives you the basis for which to participate freely in society
+- Your outlook on the world dramatically changes when you are able to actually own the things that you use
+- Similar to the importance that [[Lessons for Indigenous Property|de Soto]] places on the need for stable property rights to alleviate poverty in the third world

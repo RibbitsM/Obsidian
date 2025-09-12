@@ -1,0 +1,45 @@
+- Heard in June and concluded in September, very unusual for the Supreme Court
+- There are 9 judges in the Supreme Court, but only 7 sat on this appeal
+- Depending on the situation, there will either be 9, 7, or 5 judges present
+- In the US, there will always be 9 judges sitting
+- Moyer was initially convicted by Judge Cavarzan, which was appealed to the Ontario Court of Appeals and succeeded, and was counter appealed to the Supreme Court
+- Rosella Cornaviera represented the Crown, and Bruce Duncan was the defense counsel for Moyer
+- In this case, CJ Lamer made the decision and all other justices concurred
+- Case begins with describing Moyer meeting an individual named S.B. in Hamilton who was identified as a "skinhead" who asked to take photos with Moyer
+- The reason S.B. is referred to by their initials is because they are a young offender, and cannot have their name published
+- The names of other people in the cases, specifically the names on gravestones are also referred to by initial because their identities are not necessary for the case
+- Moyer and S.B. proceed to meet up in a local Jewish cemetery and take photos of themselves wearing neo-Nazi iconography and pretending to pee on people's graves
+- Of course these were film photos so they had to take them to a store and get them developed
+- The manager of the photography store turned the photos over to the police, and Moyer was arrested and charged with 6 counts of "indecently offering an indignity to human remains"
+- 6 counts as there were 6 gravestones identified in the photos
+- This charge comes from Criminal Code Section 182 (b), and carries an indictable offence with a maximum penalty of five years
+- Moyer chose to have his trial in the Ontario Court of Justice General Division which was at the time the superior court in Ontario
+- They have now changed the name to the Ontario Superior Court of Justice
+- This trial found him guilty on three of six counts
+- Moyer than appealed this conviction to the Ontario Court of Appeal
+- This trial did not unanimously agree to appeal, but the majority did
+- Trial judge made a legal error as making physical contact with human remains was necessary to "offer an indignity"
+- However, in this case there was no physical contact, just photos
+- Justice Catzman dissented, arguing that no physical contact was required, and this was still offering an indignity
+- This split in judgement gave the Crown an automatic right of appeal to the Supreme Court
+- Ordinarily, you must file an application for leave to appeal in order to get to the Supreme Court, and they will only accept if the matter is of national importance
+- However, if in a criminal case there is dissent on a legal matter in an appellate court, the Supreme Court has a duty to hear your case
+- Other circumstance is if you are acquitted at trial and your acquittal is overturned and the court of appeal enters a conviction
+- This is much rarer than the split on the question of law though
+- The Supreme Court ultimately held that physical contact is not required for offering indignities to human remained
+- One method they used for interpreting this was by looking at the French version of Section 182 (b)
+- Also focused on the presence of the word "or" in wording that implies that you can offer an indignity without interfering with a dead human body
+- Another key phrase is "whether buried or not", which suggests that indignities can still be offered to buried remains
+- Besides the physical contact issue, there is also the issue of whether Section 182 (b) applies to just human remains or to a memorial/monument as well
+- The limit is that human remains must be present
+- Later on, a new offence was added to the Criminal Code under Section 430(4.11) which applies to the vandalism of war memorials
+- Also important to note that Moyer did not actually do any of the interference, but he did direct S.B. in posing for the photographs, took the photos, and supplied props
+- However, the doctrine of parties allows all parties to an offence to be held guilty for it
+- The defence counsel interestingly chose not to invoke freedom of speech as around this time there were several cases of antisemitism where the defence counsel drew on the Charter
+- Likely smart as it would almost certainly have failed
+- So if the Supreme Court unanimously came to this decision, why did the Ontario Court of Appeals allow the appeal in the first place?
+- The Court of Appeals focused on the history of Section 182(b) to try and discover the original purpose of it
+- Consistently, previous applications of this law all required physical contact, with the phrase "buried or not" meaning it applied even if the body had yet to be buried
+- Basically a provision against improper gravedigging and grave robbing
+- However, the Supreme Court case didn't draw upon any previous cases at all, which is pretty unusual
+- 

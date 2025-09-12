@@ -1,0 +1,46 @@
+- First lecture covering [[Chapter 2 (Offer and Acceptance)]]
+- Especially important as these factors determine whether a contract exists in the first place
+- Key idea is mutual understanding, there must be knowledge on a contract of both sides
+- We call this *consensus ad idem* or "meeting of the minds"
+- This is often the first thing that is checked for in a contracts case
+- Point of these principles is to distinguish an agreement from negotiation
+- We always must have mutual agreement on the terms for a contract to be formed
+- Most of your time spent determining offer and acceptance is devoted to examining the conduct and communication of the bargaining parties
+- The goal of an analytical approach to contract law is to objectively determine the existence or lack thereof of an offer and corresponding acceptance
+- Subjective intentions are disregarded, most important thing is to examine the communication as a neutral outside observer
+- What you were thinking doesn't matter, the most important thing is what you said
+- This becomes a completely different case when both parties can't even agree on what was said
+- We can never really completely remove subjective factors, but at the very least they are given much less weight compared to the objective evidence
+### [[Chapter 2 (Offer and Acceptance)#Offers|Offers]]
+- Key elements of an offer are that they must be communicated to the offeree, must indicate willingness to enter a binding agreement, and must have specific terms
+- Discussions that do not meet this threshold are considered preliminary negotiations or even just invitations to bargain
+- Also called an invitation to treat, this is an invitation to make an offer
+- Don't forget the element of willingness to enter a binding agreement, this is what distinguishes simple bargaining from making an offer
+- In *Harvey v Facey*, Facey replied with only the price but did not indicate any willingness to enter an agreement
+- As such, the House of Lords did not consider this a binding offer
+- This is compared to a Canadian case, *Dyers v Burton*
+- Purchaser asked for the lowest price, to which the owner replied with the sum of $1650
+- 1.5 years later they asked again, and they replied that the last price was the lowest they were willing to accept
+- Purchaser saw this as an acceptance and sent the money over, but it was rejected by the owner
+- In court, the purchaser came out on top because of the statement of "the last price I gave you is the lowest I am prepared to accept"
+- Also important that they specifically mentioned that this price was specific to the purchaser
+- This was sufficient to be considered an offer
+- Based on this precedent, the courts have determined that quoting a price does not constitute an offer
+- However, a quotation plus a signal inviting an order does constitute an offer
+- As we saw, just a few extra words from the Canadian Dyers Association was able to elevate a quotation of price to an offer
+- As we saw with [[Lecture 1 (Contracts)|Pepsi, where's my jet]], advertisements are only invitations to treat, not offers
+- In *Dyers v Burton*, Canadian Dyers was under the impression that until the deed of sale was signed, the contract was not final
+- However, the courts held that the offer had already been made before a written contract
+- Another example was in *Storer v Manchester City Council* where a letter was sent from the city to Storer specifying that if he signed it and sent it back, the city would draw up an official deed of sale
+- Despite the fact that the city didn't draw up the deed, this exchange constituted a binding offer
+### Retail Sales
+- Generally speaking, displaying goods in a store does not constitute an offer
+- According to *Pharmaceutical Society of Great Britain v Boots Cash Chemists (Southern) Ltd*, the offer does not happen until you bring the article to the cashier
+- The displaying of the goods is an invitation to treat, it is up to the customer to take that good and present it for payment to make an offer
+- This is especially relevant to how we think of shoplifting
+- In the *R v Dawood* case, the accused removed a price tag from a piece of clothing before taking it to the register, reducing the price of their purchase
+- The question was whether they should be charged for fraud or theft
+- According to *Boots*, the offer was not made until the accused went to the register, meaning they were guilty of fraud by leading the cashier into a misleading contract
+- However, by entering into a contract he did not "steal" anything
+- Dissenting judge argued that he should be charged with theft by removing the price tag because they believed that the priced goods were the offer themselves
+- In this case, the court followed the precedent set by *Boots*, but this isn't always the case

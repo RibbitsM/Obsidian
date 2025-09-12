@@ -1,0 +1,7 @@
+- Argues that on average, society will be happier if resources are controlled primarily by individuals
+- Jeremy Bentham, the father of [[Jevons Day 1|utilitarianism]], named four things that private property affects
+- Equality, Security, Subsistence, and Abundance
+- Wealth is one measure of utility, but not the only one
+- People are encouraged to work harder when applying that work to their personal property
+- Adopts the common issues of utilitarianism, namely reducing happiness to a quantifiable metric
+- Plus, in a pure utilitarian theory no consideration is given to the few individuals in poverty

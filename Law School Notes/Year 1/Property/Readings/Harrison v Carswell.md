@@ -1,0 +1,44 @@
+- Respondent was Sophie Carswell, who was charged under the Petty Trespasses Act with four offences of trespassing on the Polo Park Shopping Center in Winnipeg
+- She was requested to leave by the appellant, Peter Harrison but continued to appear
+- The charges were initially dismissed at the Provincial Court, but she was tried again in the County Court and fined $10 on each count
+- This judgement was then reversed under the Manitoba Court of Appeal
+- Finally, Harrison appealed the reversal to the Supreme Court of Canada, and succeeded
+### Majority Opinion (Dickson J)
+- Argues that this case is identical to an earlier case (*Peters v The Queen*)
+- Only issue at hand is whether a mall owner has possession of the common areas within the mall sufficient enough to invoke the remedy of [[Trespass]]
+- In both this case and *Peters*, the respondents were picketing in front of store to support a boycott (In this case as part of a strike)
+- Carswell and eleven others distributed leaflets in front of their employer's store in an act of peaceful protest
+- As there is no reason to think that the decision in *Peters* was wrong, this case should follow its example
+- The trespass acts of Manitoba and Ontario are practically identical, as are the lease agreements for the stores in question in both cases
+- Only possible distinction is that the appellant in *Peters* was the president of the local labour council and not an employee, while Mrs. Carswell was
+- Distributing pamphlets in the Polo Park Shopping Center has never been permitted, and this includes employees of the center
+- As such, there is no evidence that the owner of the center was acting inconsistently by banning Mrs. Carswell
+- In fact, the right of shopping center owners to ban picketing has precedent in a Canadian Bar meeting on the topic of picketing in shopping centers
+- The argument of the defense was that the right of peaceful protest is greater than the rights of the owners based on social significance
+- However, it is not up to the court to decide the relative social significance of various rights
+- Real question here is the limits of judges
+- The judge is free, but not absolutely free as he is still beholden to the principles of the law
+- Judges are expected to deviate from convention on occasion, but only to adapt to new conditions, not arbitrarily
+- While the right to picket is certainly valid and valuable, fundamental freedoms like this have always been limited by the law
+- In this case, the Petty Trespass Act provided such a limit
+### Dissenting Opinion (Laskin CJC)
+- Agreed with the previous opinion but wanted to add context from *Peters*
+- Begins by questioning if the Court of Appeal has an obligation to follow its previous decisions
+- Also, what is the role of the Court in deciding what is essentially a tension between the ancient law of trespass and the novel right to peaceful protest
+- The shopping center is generally understood as [[The Meaning of Property#Common, Private, and State Property|common property]] despite being owned privately
+- If a shopping center is open to the public, the owner is granting right of entry to the public during business hours
+- Appellant argued that this license is revocable, but it is ridiculous to say that the owner could exclude someone coming to the center at the invitation of a tenant for business purposes?
+- Important to note that the owner of the store being picketed in front of took no action to prevent the picketing
+- Also protests the comparison to the *Peters* case as the key issue there had more to do with the extent of control the owner has over the shopping mall sidewalk
+- By arguing that this appeal should be dismissed because of the *Peters* decision is equivalent to only listening to one side of the issue and concluding it from there
+- Key issue here is that the center owner must have a proper reason for ordering a member of the public to leave
+- Despite breaking the laws of the shopping mall, Carswell did not break any federal or provincial laws, and as such was not trespassing
+- This is because the mall is common property, and to eject someone from common property there must be sufficient reason
+- We cannot think of trespass in a shopping center the same way we would consider trespass on private property, as they have more in common with public roads
+- It is not up to the owner to exclude people as they wish, especially when they provide no challenge to his possession rights
+- Members of the public are privileged visitors whose privilege is revocable only in the case of misbehaviour or unlawful activity
+- Mrs. Carswell is additionally protected as a peaceful protestor in a labour dispute with a tenant of the shopping center
+- In fact, due to the doctrine of abusive exercise of rights, the picketer has the greater cause for complaint compared to the owner
+- This is a sign of the age of trespass law, which was originally created with only private property in mind
+- Borrowing from examples of similar cases in the US, we can soundly reject the notion that the main issue is trespass rather than picketing
+- In summary, the owner does have some control over what activity is permitted within the shopping center during operating hours, but this does not exceed the right to protest

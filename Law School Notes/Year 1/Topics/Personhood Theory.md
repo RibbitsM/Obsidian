@@ -1,0 +1,11 @@
+- Most closely associated with Hegel
+- Based on Hegelian personhood theory
+- All peoples have the capacity for free will, but this is a capacity that we need to actualize via a property interest in our belongings
+- It is only through our ownership in the world can we express our free will, and by extent, our unique human-ness
+- At the same time, the ability of one person to own property is a reflection of their ability to recognize the similar abilities of others
+- Called the politics of recognition
+- Waldron characterized this as a general right, one that all peoples possess equally as opposed to Locke's special right requiring labour
+- Hegel's theory of property was further developed by Margaret Jane Radin who noted that pieces of property will mean different things to different owners
+- Some people will be much more attached to a piece of property compared to others
+- For example, the jeweler who made a wedding ring will own it for a period of time, but will have a much weaker attachment to it compared to the person that buys it
+- Demonstrates how your identity can be wrapped into your property, with those property rights becoming more important based on the level of entanglement

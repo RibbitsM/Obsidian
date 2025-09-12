@@ -1,0 +1,148 @@
+- Three factors behind the change in relationship between settlers and indigenous peoples in the late 1700s
+- First was the mass influx of European settlers, and the resulting increased resource use
+- In some places, indigenous people were outnumbered 10 to 1
+- Second was the decline of the fur trade, and as a result less economic reliance on Indigenous populations
+- More often land was being used for settlements and agriculture
+- This loss of land worsened indigenous living conditions
+- Third factor was the improving relationship between the US and Britain after the War of 1812
+- While indigenous relations used to be handled by the military, they were transferred to a civil role as they were no longer needed as military allies
+- This was a repeat of similar patterns in other colonial projects as the indigenous populations outlived their usefulness to the Crown
+- European nations began to use the colonies as the perfect place to dump their poorest populations where they could serve as low-wage producers
+- Indigenous peoples were displaced physically, but also socially as missionary activity ramped up and cultural genocide initiatives ramped up
+- Treaties still continued, but without the previous assumption of equality
+### Imposition of a Colonial Relationship
+- The end of the War of 1812 also marked the end of the Napoleonic Wars, and as such the British govt began to deport most of its former cannon fodder to North America
+- Treaties continued to be signed under the auspices of allowing native rights to land and self-government
+- However, the Crown saw these as little more than opportunities for land grabs
+- What was once a relationship where indigenous populations exchanged land for autonomy and co-operation began one where indigenous peoples were expected to convert
+- Reserves had been tried before, but now became the preferred method for settling indigenous populations
+- Across Canada both in Ontario, the northern territories, and the prairies, local authorities began to initiate conversion and civilizing missions
+- Most reserves were created by treaty but not all of them, for example most Quebec reserves were created by grants from the French Crown
+- There were no treaties made in Atlantic Canada as the Mi'kmaq and Maliseet had been long defeated and scattered
+- Since their creation, many of these reserves have been plagued by squatters, unauthorized logging and farming, etc.
+- British Columbia was a completely different solution, as there were insufficient funds to compensate indigenous populations for any treaty
+- Despite being urged to sign treaties anyway, the governor at the time refused and to date BC has very few indigenous reserves
+- Voluntary enfranchisement was offered to indigenous peoples, but was not very popular
+- Despite the extensive cooperation leading up to this point, enfranchisement was a line that many were not willing to cross
+- As far as we know, there was only one confirmed case of someone volunteering for enfranchisement in the 20 years following its enactment
+- Attempts were then made to break down indigenous governments and tighten the control of Indian Affairs officials
+### Forging of Metis Identity
+- New France had a deliberate policy of intermarriage with indigenous populations as part of a ploy to create a lasting presence in North America
+- French officials believed that marrying indigenous women would convert them to Christianity and hasten the assimilation of local populations
+- This would also strengthen ties with local bands that were essential to the fur trade
+- This worked a little too well, with influence spreading much further than the French could control
+- Also, there were many cases where French natives would simply go to live among the indigenous peoples, learning their language and settling down
+- Intermarriage was no longer sanctioned after the 1670s, but continued in practice
+- Over time, a large Metis population developed around the Great Lakes
+- Metis populations also began to develop in Newfoundland and Labrador as British fishermen began to live there year-round
+- The Royal Proclamation of 1793 did not take a clear stance on whether Metis were considered to be "Indians" or not
+- The thought process was that the Metis were settlers as they did not belong to a known Indian community, except in the cases of Metis living within an indigenous band
+- These populations were considered to be squatters, and not eligible for land as "real settlers" were
+- Of course, the center of Metis civilization was around the Red River, where the core of fur trading operations were
+- You could pretty much find Metis people anywhere the HBC operated, which was pretty much all of central Canada
+- Over time, as more fur traders retired and decided to settle down in the Red River area, Metis identity began to solidify in response to attempts to replace them with settlers
+- However, as the colonies began to fuse into a single entity in the form of the Dominion of Canada, the political landscape changed
+- It became clear that its goal was complete control of British North America, starting with the land controlled by the HBC
+- This led to the resistance led by Louis Riel and resulted in the Red River Rebellion and ultimately, the Manitoba act
+- Despite this, a self-governing Metis homeland never emerged as leadership mostly disbanded and the original Metis population dispersed
+- Metis in smaller settlements got even less, leading to the majority of Metis being largely landless
+- This oppression of Metis desires is best exemplified by the destruction of Batoche in response to the Saskatchewan Metis asking Louis Riel to form a provisional govt there
+- Going forward, the administration would offer Metis people the option to join a regional treaty or get a scrip good for a cash gratuity or a small plot of land, and nothing more
+- Metis rights were never acknowledged at more than an individual level, with the scrip system standing in for any sort of collective rights
+- This has not really been remedied besides the posthumous recognition of Louis Riel as one of the fathers of Confederation
+### Treaty Making in Ontario, the West, and the North
+- The end of the War of 1812 marked the beginning of an intense process of buying up indigenous land
+- They were recompensated for the sale, which was presumably sold as a way to keep their land safe
+- As this process continued, the indigenous populations were confined to smaller and smaller tracts of land
+- Many treaties in this region followed the theme of promises being made by earlier government officials, only for later different officials to come through and go back on the promise to grab more land
+- These treaties were often to acquire more land for settlement, but were occasionally also carried out to access natural resources
+- This was the case for the Lake Huron and Superior treaties, carried out after four years of mining incursions on Ojibwa territories
+- The Ojibwa chiefs are quoted questioning the authority of these incursions, arguing that the white people have no claim to their land as it was never conquered and no treaty was signed
+- Negotiations often began with the treaty commissioners befriending the local populations and eventually convincing them to give up whatever land the Crown needed
+- This often was done through misleading treaties that may have translation differences between the indigenous and English language versions
+- Usually negotiations were carried out verbally, and would eventually result in a paper treaty that would be signed by all parties
+- However, there were often core misunderstandings about the contents of these treaties
+- The indigenous nations saw these as agreements to share the land with these newcomers, not an agreement to surrender it entirely
+- Because of cultural differences concerning land ownership, this concept was often difficult or impossible to communicate in their native language
+- Usually agreements were made with the understanding that land would be shared, but there would be no change in the indigenous ways of life on that land
+- While most of the numbered treaties were initiated by the Crown, the first two actually came about as white settlers moved into Ojibwa land
+- The Ojibwa demanded a treaty as they refused to give up their lands peacefully without some sort of agreement/compensation
+- This agreement was made verbally and then written down, but several of the Ojibwa requests that were verbally agreed to did not make it in
+- Not all treaties went in the favour of the Crown, when Treaty 3 was to be negotiated with the Ojibwa west of Red River, they knew what they had and what the Crown wanted
+- In the end they got substantially more reserve land than most other bands, and better benefits
+- Unfortunately, the Plains indigenous groups had less negotiating power as they were also beginning to face starvation from overhunting of buffalo
+- Despite this, multiple groups such as the Blackfoot Confederacy were still a feared military power, and were treated with respect
+- Some of these treaties were also brought by the North West Mounted Police who had good relations with many of the Plains indigenous groups and were widely respected
+- As such, Treaty 7 and other treaties in the region were signed quickly with little negotiation
+- Similar to some of the early treaties, the Northern treaties were signed not because of settlement, but economic exploitation
+- The discovery of gold in the Klondike in 1897 made signing treaties with nearby indigenous groups a top priority
+- Because of the compressed timeline, the Northern groups were offered almost the same terms as the Southern groups, including farming equipment useless in the Canadian Shield
+- Treaty 8 was signed after extensive oral promises, but many of these promises never made it into the written treaty as usual
+- The Dene learned from this experience and were much less willing to negotiation when the government came to them seeking to sign Treaty 11
+- Oil had been found at Norman Wells, which at the time sat squarely in Dene territory
+- The most important promise requested was full hunting fishing and trapping rights that would be protected from all White competition as well as care for the old and sick
+- Ironically, the written text of Treaty 11 was almost identical to Treaty 8, despite the long oral negotiations
+### Differing Assumptions and Understandings
+- As mentioned earlier, many of the challenges in treaty signing and drafting came from linguistic and cultural differences
+- We know that the majority of Indigenous groups had no idea that the text they signed was different from what they had agreed to orally, even years afterwards
+- This is a violation of the [[Lecture 2 (Contracts)#Essential Elements of a Contract|essential elements of a contract]]
+- Clearly not much good faith and honesty going on here
+- Generally speaking, the vast majority of indigenous groups had similar desires and views when it came to treaties
+- They were mostly willing to share their land with the white people, on the condition that it did not affect their way of life
+- This meant no influencing their spiritual practices and government or restricting their hunting and foraging rights
+- Most groups expected that this would be a mutually beneficial relationship, as they would earn money from the economic activity of the settlers
+- This was a consistent theme throughout all of the eleven numbered treaties
+- In fact, if these groups actually knew what was going into the text of these treaties, they almost certainly would have rejected them
+- For one, they were listed as "subjects of the Crown" while they assumed they were considered equal partners
+- They certainly would have objected to a full surrender of their lands, as in their view they could not give up their own land as it was inherently connected to them
+- Rather, they were just allowing the settlers to use the land, not giving up ownership of it
+- Also, in several cases the written treaty infringed on oral promises to not interfere with fishing and hunting
+### Non-Fulfilment of Treaties
+- There were several fundamental flaws in the way these treaty agreements were carried out in practice
+- The first, and possibly most egregious, was that only the Crown's written version of a treaty was ever recorded, and future decisions were based on that
+- Second was that the Crown failed to establish laws to actually uphold the treaties it was signing
+- Unlike modern treaties, these treaties had no implementation clauses and the process was usually ignored as something to do later
+- However, as Canada became more concerned with other matters, these promises to look into implementation were forgotten and discarded
+- Additionally, unless the information was circulated widely, employees even within the Indian Affairs department would leave and take their knowledge of treaty promises with them
+- Treaty obligations were generally seen as an unnecessary strain on the budget that should be as limited as possible
+- Throughout all of this, indigenous people were absent or barely represented in decisions on what to do with what, by right, was still their land
+- There was never any government office responsible for fulfilling treaty commitments, and those who were charged with that role rarely had the power or ability to do so
+- This was especially difficult if there was some other more powerful faction whose goals contradicted those treaty obligations
+- To make matters worse, treaties were also never sanctioned by legislature, and as a result could be overwritten by new laws, with hunting and fishing rights being a prime example
+- As time went on, the *Indian Act* eventually became the only piece of legislature people relied upon in relation to indigenous affairs
+### Restoring the Spirit of the Treaties
+- Looking at the history of treaty negotiations, we can clearly see that Canada as it is today could never have existed without the treaties that were signed between the Crown and indigenous groups
+- These agreements linked individuals and nations together in mutual interest
+- However, as the indigenous leaders saw these agreements as a sign of mutual cooperation and co-existence, the British saw it as merely a way to acquire more land
+- This fundamental misunderstanding meant that treaties continued to be signed and power continued to be stripped away from indigenous groups
+- Eventually, the text of the agreements came to be ignored almost entirely, with the only provisions still being enforces being those that benefitted the government
+- But the spirit of the treaties, the idea of mutual cooperation and benefit, is still present
+- Instead of treating these documents as signs of surrender, we can use them as a model for what peaceful and productive cooperation with indigenous groups may look like
+### Extending Measures of Control and Assimilation
+- When Canada was confederated in 1867, not a single indigenous person was present or consulted as the meetings took place
+- John A MacDonald unilaterally informed parliament that Canada would assimilate the indigenous populations of Canada
+- This put the Canadian government in a similar position of fulfilling the "white man's burden" similar to the projects taking place at the same time in Africa and Australia
+- The duty to civilize was eventually legislated in the form of the *Indian Act* and its many amendments
+- Process began with the 1867 *British North America Act* which stated that the legislative authority of Canada extended to "Indians, and Lands reserved for the Indians"
+- This would be further developed by the disastrous 1869 *Enfranchisement Act*
+- Also contained provisions replacing traditional indigenous governments with a "municipal government", which provided only minor powers to actual band leaders
+- The subsequent signing of the 1876 and 1880 *Indian Acts* as well as the 1884 *Indian Advancement Act* seized further power from local governments
+- This would allow the government to control life on reserves including, but not limited to, constructing infrastructure for assimilation and enfranchisement
+- In the following years, the government would control elections, band councils, and government expenditures to achieve this goal
+- While non-indigenous settlers were free to live their lives, the original peoples of Canada were tightly controlled and restricted to their small reservations
+- Not all indigenous people were treated the same, Metis were not considered the responsibility of the government, and neither were the Inuit until 1939
+- There was also a difference between "status" and "non-status" indigenous peoples, a distinction that was decided semi-arbitrarily by the *Indian Act*
+- Status men could not lose their status unless they were enfranchised, while women could lose their status by marrying someone who did not have status
+- As time went on, additional restrictions were put in place preventing spiritual ceremonies, barter with any unauthorized traders, and more
+- As economic circumstances became more tenuous, these communities began to rely on the government more and more to simply survive
+- In 1930, control of natural resources in the prairie provinces was transferred to the provincial governments
+- As these governments had no obligation towards the indigenous bands, this meant that they now had to contend with licensing and game management programs when hunting or fishing off reserve
+- This gave additional control over reserve life as the government could simply threaten to cut off aid to anyone who went against Canadian social norms
+- In reservations, the Indian agents served as judges and made the final decisions on any punishment that was to be meted out to any resident of the reservation
+- Of course, the centerpiece of this plan of assimilation was the residential schools
+- The shift in the balance of power in Canada marked an unfortunate time for indigenous groups
+- Throughout this period, the Canadian government transitioned from being a beneficial partner to these groups towards being an oppressive adversary
+- Motivated by economic factors, political change, and simple belief in the civilizing mission, atrocities were committed that we are still reckoning with
+- Despite all this, indigenous communities were not destroyed, and most still persist to this day
+- Now that indigenous voices are finally being considered in decision making, we can move towards an indigenous policy that makes sense for Canada's future
+- 

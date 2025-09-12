@@ -1,0 +1,40 @@
+- Special topic: how to read a case
+- Using [[R v Moyer]] as an example
+- Canadian courts hear cases in both English and French, the official version of a case will in the language it was heard in and a translation will be provided
+- The dates at the top of a case show the date at which it was heard, and the date at which it was concluded
+- The "present" list shows the names of all the judges present
+- CJ stands for Chief Justice, and JJ signifies a group of ordinary judges
+- The Chief Justice gets to determine who sits on which cases
+- In Canada, judges tend to be pretty independent and don't vote predictably along partisan lines
+- However, this system is vulnerable to political manipulation by the Chief Justice
+- In Canada, when a justice retires people can apply for their open spot
+- We have representation by region meaning 3 judges from Ontario, 3 from Quebec, one from the Maritimes, and two from the western provinces
+- However, the Minister of Justice has the final say on appointments
+- When the judges go away to deliberate on a case, usually they don't give a decision from the bench
+- Instead, the decision is reserved for later discussion, starting with the most junior judge
+- Once everyone has expressed their opinions, they choose amongst themselves who will write the reasons and how many reasons will be written
+- After writing has begun, the other judges will collaborate to ensure they concur with the reason they have gravitated towards
+- Before we get to the decision of the case, there will be a series of italicized bullet points that give you an idea of what the case is about
+- Next we have the headnote, which is a short summary of the decision prepared by the Supreme Court editors
+- After this comes the Statutes and Authors cited in the case
+- Assuming this case came from another court, the history of the case will be written below the citations
+- Moyer chose to have his trial in the Ontario Court of Justice General Division which was at the time the superior court in Ontario
+- They have now changed the name to the Ontario Superior Court of Justice
+- This trial found him guilty on three of six counts
+- Moyer than appealed this conviction to the Ontario Court of Appeal
+- This trial did not unanimously agree to appeal, but the majority did with a 2-1 split
+- Trial judge made a legal error as making physical contact with human remains was necessary to "offer an indignity"
+- This split in judgement gave the Crown an automatic right of appeal to the Supreme Court
+- Ordinarily, you must file an application for leave to appeal in order to get to the Supreme Court, and they will only accept if the matter is of national importance
+- However, if in a criminal case there is dissent on a legal matter in an appellate court, the Supreme Court has a duty to hear your case
+- Other circumstance is if you are acquitted at trial and your acquittal is overturned and the court of appeal enters a conviction
+- This is much rarer than the split on the question of law though
+- Below this, the names of the counsel for both sides are listed
+- Also lists the name of the judge who delivered the judgement, in this case it was CJ Lamer
+- The following section describes the details of the case, noted under the roman numeral III
+- Next section is the analysis of the court's reasoning, labeled number IV
+- This section isn't always present, sometimes the court will be following the analysis of a previous case
+- In this case, the key issue was whether or not physical contact was required to offer indignities to human remains
+- When we look at the appellate case there are different lawyers compared to the Supreme Court
+- Often, lawyers will specialize in appellate decisions and may not want to sit in on an appeal of their own trial
+- 

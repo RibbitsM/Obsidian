@@ -1,0 +1,41 @@
+- [[Harrison v Carswell|Sophie Carswell]] was picketing indoors, on the grounds of the Polo Park Shopping Mall
+- To establish the wrong of [[Trespass]], you don't need to establish harm, just the fact that they were on your property
+- This is a challenge to the owner's possession by violating the right to exclude
+- Classic example is the case of *Entick v Carrington* which established that the act of walking upon private property is enough to warrant a remedy
+- This was a pretty significant decision, although the actual fine amount was tiny
+- Carswell was likely backed up by her union, as this went all the way to the Supreme Court
+- Another key issue is the idea of precedent, Laskin specifically makes reference to *stare decisis*, the obligation to make consistent decisions across similar cases
+- He rejects the idea of mechanically relying on precedent, and emphasizes the need to think deeper about what the court should do
+- Additionally, the facts of the *Peters* case is not the same as this case, Peters was protesting unfair labour practices at a company he did not work at, while Carswell was striking
+- Additionally, the *Peters* case originated from Brampton, Ontario, not from Manitoba
+- Under the Labour Relations Code, picketing is a right of the employees just as it is the right of the employer to lock out those employees
+- Dickson rejects the notion that the Supreme Court is responsible for weighing the relative importance of the remedy to trespass and the right to picket
+- Instead, he believed that the matter was best left to the legislature
+- To support this view, the BC Labour Relations Code actually resolved this issue in 1972 by specifying that action could not be brought against public trespass when picketing on ordinarily public land (for example, a shopping mall)
+- Ironically, this actually ended up being outdated after the Charter was implemented as the courts laid precedent for allowing secondary picketing as well
+- This means picketing in front of the suppliers of your employer
+- Secondary picketing is protected everywhere except for BC, because it was the only province that had tackled the issue of picketing locations already
+- On the other hand, Laskin wholeheartedly believed in the balancing role of the court
+- Key argument is that the shopping center owner does not have the same rights as a private property owner considering the public nature of shopping centers
+- Specified that strikers could still picket outside the store even if it was in a technically privately owned area
+- Additionally, Carswell has the right to picket as part of a lawful strike against her employer
+- Harrison requested that Carswell move to protest instead on the public sidewalk, which would make the strike much less visible
+- The Manitoba Petty Trespass Act would allow Carswell to be outside the mall, but still removed from her employer's storefront
+- For our discussion, the key part of this is how Laskin is reconstructing the right to exclude based on the unique context of the shopping mall
+### [[Whiteness as Property]]
+- Harris describes her grandmother's decision to pass as white to something equivalent to "self-annihilation"
+- Also starts with an epigram from *Plessy v Ferguson* to represent the inequality inherent in segregation
+- Uses this story to emphasize the existence of a property interest in whiteness
+- This property was so valuable that her grandmother faced this denial of self just to access the economic opportunities and privileges offered by whiteness
+- Shows how our understanding of property rights and the right to exclude emerges from this racial division of property
+- A key note relating to Harris's argument on indigenous land rights is that the original definitions of owning property were crafted to exclude indigenous use
+- The signifiers included ploughing, putting up fences, and sowing seeds, all hallmarks of the European agricultural system the indigenous groups did not use
+- White labour is what marks possession, not the indigenous concepts of stewardship
+- Harris makes specific reference to the [[Property and the Right to Exclude|right to exclude]] as being white protected you from being property
+- This is the critical aspect that makes whiteness a form of property
+- Also notes the inequality in how first possession rights are recognized
+- Just as how white labour was the marker of property ownership, white possession was seen as legitimate while indigenous possession was not
+- The main reason that slavery was less present in Canada had little to do with any moral compunctions, and more to do with the fact that there was no plantation economy here
+- However, they still benefitted from the transatlantic slave trade as part of the British Empire
+- Notably, the Allard motto comes partly from the Somerset v Stewart decision in which a slave headed for Jamaica was freed based on a decision that slavery has no basis in common law
+- 

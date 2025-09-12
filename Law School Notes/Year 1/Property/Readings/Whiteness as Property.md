@@ -1,0 +1,37 @@
+- Written by Cheryl Harris
+- Begins with the story of the author's grandmother, who was a white-passing woman with Black heritage who took a job at a retail store
+- Was originally a sharecropper in Mississippi, but was able to get a white job because she didn't "look Black"
+- Separated from the knowledge of her heritage, she was temporarily freed from her oppressed childhood
+- This exacted a heavy price, basically discarding her life and culture every day when she went to work, and eventually left her job due to the mental strain of doing so
+- Essentially made her complicit in her own oppression by not being able to talk back against the casual racism she saw expressed by her co-workers and clients
+- For her, being white-passing was an economic asset, something that provided access to economic opportunities she would never be able to access otherwise
+- In a racial caste-based society, whiteness is a valuable property that is zealously guarded by those who possess it
+- Those who did not possess it sought to obtain by fraud if necessary
+- American law recognized a property interest in whiteness that was protected and upheld by the law
+- As such, rights in property and contingent on and intertwined with racial identity
+- The origin of whiteness as property developed in tandem to the oppression of non-white groups
+- Whiteness and property share the key aspect of the [[Property and the Right to Exclude|right to exclude]]
+- Even after the dismantling of segregation, this has evolved into a new form based on the expectations of white privilege as the legal baseline
+- Also ties into the (insert islr link here) oppression of indigenous peoples via the appropriation of land, as the labour of Black people was appropriated
+- This appropriation and exploitation of labour was achieved by turning Black people into property via slavery
+- This is a system of property based on race, as only Black people were subject to this treatment
+- Similarly, the seizure of indigenous land is also a racial system of property, as only White claims to land were legitimized over indigenous claims
+- In early colonial times, race was not the primary division of labour, there were many white slaves alongside Black slaves
+- Over time, terms of service for white labour decreased as reliance on the Transatlantic Slave Trade increased
+- In fact, the system of plantation slavery was in part a response to the difficulties of controlling the white labour population
+- While not all Black people were slaves, almost all slaves were non-white
+- Eventually this was enshrined in law, as racial became a legal classification where being put in the category of "Negro" was sufficient justification for enslavement
+- The first laws on slavery emerged in the late 1600s, which also established differential treatment based on race
+- Over time, the legal landscape shifted from classification between "slave" and "free man" to between "Black" and "white"
+- In doing so, this tied race indelibly to property
+- Whiteness became a shield against slavery, insurance against the risk of becoming property
+- The absence of whiteness meant being considered property, and whiteness became the defining characteristic of the free
+- Similarly, the seizure of indigenous land created a property rights system where race determined the legitimacy of your possession rights
+- Whiteness had value, and in a sense became a form of property itself
+- Even if indigenous people had legitimate claims to land, their lack of whiteness overruled this fact
+- Only possession rights of white people were considered legitimate
+- This can be seen in the case *Lessee v M'intosh* where both parties claimed the same parcel of land through inheritance from different indigenous groups
+- The issue in the case was who indigenous groups were able to convey property to, either the Crown or individuals
+- The court came to the decision that they could only convey to the Crown as indigenous title rights were subject to the title of Crown, achieved by [[Doctrine of Discovery|conquest]]
+- Basically establishes whiteness as a prerequisite to enforceable property rights
+- Don't forget all this is in the US context

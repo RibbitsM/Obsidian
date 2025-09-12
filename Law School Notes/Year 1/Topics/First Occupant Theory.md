@@ -1,0 +1,4 @@
+- Straightforward justificatory theory, the first person to occupy or possess an object or parcel of land is the owner and has property interest in that land or object
+- Finders keepers, basically about as simple as you can get
+- People are entitled to own what they claimed before anyone else could
+- Doesn't include any sort of moral justification, operates on the logic that the time of possession determines the strength of a claim

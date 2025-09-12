@@ -13,4 +13,3 @@
 - Section 8.3 states that any principles of common law that provides a justification such as common law defences like defence of necessity are preserved
 - We're concerned about removing agency from the accused by allowing common law offences, but common law defences enable agency for the accused
 - Statutes can still be created to alter or remove these common law defences
-- 

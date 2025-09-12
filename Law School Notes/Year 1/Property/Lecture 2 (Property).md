@@ -64,5 +64,8 @@
 - Disagrees with Gleeson on a fundamental level because of their differing views on property
 - McHugh is a [[Single-variable Essentialism|single variable essentialist]] while Gleeson is a [[Nominalism|nominalist]]
 - In his mind, there is nothing else that property could mean except for exclusive ownership of the object(s) in question
+- Can also think of this of the judges interpreting the property interest in fauna held by the Crown as either private or state property
+- From the perspective of Gleeson, this is state property, and as such is held for the benefit of the people and is not absolute
+- On the other hand, McHugh sees this as private property, where the most crucial aspect is the exclusion of all others
 
 

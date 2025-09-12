@@ -1,0 +1,22 @@
+- Recall MacPherson's statement that property requires a justifying theory
+- When the new constitution of post-apartheid South Africa was being drafted in 1992, Carole Lewis was commissioned to research a theory to justify putting a [[The Right to Private Property|right to private property]] in the constitution
+- Important as South Africa was about to embark on an ambitious land reform project
+- Part of Nelson Mandela's vision of radical change without resolution
+- Lewis mentions six different justifying theories at least once
+- [[First Occupant Theory]], [[Labour Theory]], [[Personhood Theory]], [[Promotion of Freedom Theory]], [[Utilitarian Theories]], and [[Economic Theory]]
+- Arguably, Lewis is already making a normative decision by determining that private property requires a justificatory theory
+### Indigenous Private Property
+- Example of a community making private property to encourage economic growth is the [[Lessons for Indigenous Property|Nisga'a Nation]]
+- Three main kinds of land interest for indigenous peoples
+- The first is the indigenous reserves created by the *Indian Act*, this is generally uncontested and granted by the government
+- Second is aboriginal title rights, which theoretically exist but must be fought for legally
+- Third are treaty rights, which are even more tenuous than title rights in terms of land ownership
+- The Nisga'a Final Agreement was the first modern day treaty signed in BC, coming in 1999
+- Recognizes, land, resource, and governing rights to Nisga'a territory
+- Significant because this was the first example of an indigenous group holding a [[Fee Simple Interest]]
+- *Nisga'a Lands Designation Act* divided the fee simple interest to allocate land to each of the four Nisga'a Villages located within the nation
+- These allocations were also granted in fee simple
+- Then, each village was entitled to grant parcels of village land to individual members, called a village entitlement, done under the *Nisga'a Village Entitlement Act*
+- This entitlement can only be owned by a village member and can only be transferred within the village
+- Also did the same with nation entitlements under the *Nisga'a Nation Entitlement Act* which were transferrable within the nation
+- In 2009, the Nation allowed the village governments to convert village or nation entitlements to fee simple

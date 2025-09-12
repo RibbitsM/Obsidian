@@ -1,0 +1,44 @@
+- Written by Carole Lewis, specifically covering South Africa
+- At the time, there was debate on whether the constitution should enshrine the right to private property
+- Lewis then goes on to list a variety of theories justifying private property
+- The first of which is the doctrine of discovery, whoever discovers the object gains property rights related to it
+- Also notes that few if any things are yet to be discovered (written in the 1990s)
+- Second justification is the [[Labour Theory]]
+- Briefly mentions that some theorize that private property is key to the execution of free will, a theory pioneered by Hegel
+- Third is the [[Economic Theory]]
+- The last named theory are the multiple [[Utilitarian Theories]]
+- Then we come to Waldron's rights-based theory
+- He defines a rights-based argument as "one showing that an individual interest considered in itself is sufficiently important from a moral point of view to justify holding people to be under a duty to promote it"
+- To apply this to property, look at what interests it protects and consider whether that is worth enforcing property rights through the government
+- Looks at two rights-based arguments from Locke and Hegel
+- Locke argues that this is a right that must be earned through labour, while Hegel believes that all people have a general right to private property
+- Locke argues that when someone labours to acquire private property, the government has a moral obligation to keep this property in their hands
+- Even if someone is unable to labour, they still have a right to subsistence
+- Waldron thought this was an insufficient argument, and looked instead to a similar argument made by Robert Novick
+- Waldron's main issue is that this theory does not account for justice, and would create a fundamentally unequal society
+- Novick argued that noone has rights to property unless they acquire those rights through some sort of process
+- Does not even include a right to subsistence
+- For a general rights-based argument to succeed, Waldron requires for it to include some sort of justification for why we should allow people to hold property
+- This is something the two previous rights-based arguments lack
+- Any argument like this will be based on a fundamental right to freedom, going back to the notion that private property is necessary to live a free life
+- For someone to be truly free, they must not depend economically on others
+- Thus, private property is necessary to achieve economic independence
+- If subsistence relied solely on ones ability to manage their own resources, this would theoretically create a society of pragmatic, productive people
+- Still hasn't proven that private property would give more freedom than a common property system
+- People cannot be free unless their basic needs are met, but meeting these needs does not require ownership, just possession
+- But for someone to develop some sort of self-actualization, this may require ownership
+- The key problem with justifying property can be found in [[Proudhon's Strategy]]
+- With this, Waldron comes to the conclusion that it is insufficient for all people to just have the opportunity to hold property
+- By protecting private ownership under the South African constitution, all you are doing is protecting those who already hold property
+- Even if you manage to equally distribute property to all, there still remains the complication that you cannot interfere with people disposing of or transferring that property to create inequality
+- In fact, Marx argued that there cannot be equality under a system of private property
+- In the end, Waldron was unable to find a solution to these problems besides discovering that any system should at least meet the basic needs of all
+### Munzer
+- Claimed to have found a solution to the issues of private property
+- Created a pluralist theory where principles may sometimes conflict, but can be resolved using priority rules
+- Basic principles are as follows:
+- Utility and efficiency
+- Justice and equality
+- Desert based on labour
+- By following all these, you can have a theory that maximizes efficiency to create the greatest product, one that is just and equal, and distributes based on merit
+- Concludes that the best system justifies some private property that remains subject to government regulation

@@ -1,2 +1,5 @@
 - Usually governs relationships between neighbors
 - Main example is loud music
+- Sustained activity amounting to unreasonable and substantial interference with the use and enjoyment of land
+- Can also be defined as
+- Unlawful interference with the right to the use and enjoyment of land

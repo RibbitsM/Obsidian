@@ -1,0 +1,40 @@
+- Key component of tort law is [[Liability]]
+- Determines who is responsible for what acts and to what extent
+- All torts contain elements of the action, that must be present in order to establish the presence of that tort
+- We can think of these as boxes that contain the elements of different wrongs
+- Often, some elements will overlap between different areas of tort law
+- For example, lets see we have an issue of trespass
+- If we can establish that the action was intentional, we know we are in the category of intentional torts
+- With [[Nuisance]] we have to consider whether the act is direct or indirect
+- If the interference is direct we will likely put it under intentional torts, but if it is indirect it will likely be considered a nuisance
+- If a tort doesn't fit in one box, throw it in another box
+- If it still doesn't fit in that box, try another one
+- Do this until you run out of torts, which means your case will be thrown out
+### History of Tort Law
+- Heavily influenced by common law
+- System of precedent, we inherit the decisions made in previous cases
+- It's important to [[Harrison v Carswell#Dissenting Opinion (Laskin CJC)|think critically about the law]] as we consider the validity of this precedent
+- Sometimes, you are going to find conflicting judgements as common law is not as rigorously curated as federal statutes
+- Also means that tort law can develop incrementally over time depending on the values of the judges and the legislative environment
+- Can be a drawback by making decisions less clear, but also an advantage as it ensures that tort law evolves to meet the current situation
+### Fault vs No-Fault Debate
+- First of all, it compensates the victims of the wrong
+- Making this compensation fault-based ensures that the person who is not at fault receives the award, and the person at fault is punished
+- The rationale is that this will deter the wrongdoer from further misconduct
+- Compensation is not the purpose of tort law, but rather an apology to the wronged individual
+- Occasionally, all that is needed is an official reprimand
+- The true goal is to deter civil misconduct
+- Makes tort law part of the civil justice system
+- People don't always sue because of the money, they sue because they want to right a wrong
+- Especially in many negligence cases, the plaintiffs sue because they need closure or satisfaction
+- As the most flexible aspect of law, developments in tort law can indicate changes in legislation that need to be made to the legislature
+- However, there are still a couple criticisms of tort law
+- First is the No Fault Compensation system
+- Argues that victims should always receive compensation regardless of whether the defendant was at fault or not
+- Tort law also may not be successful in its goals
+- How can someone be deterred by the risk of lawsuit if they don't understand tort law?
+- Additionally, someone may choose to take risks anyway because they are covered from any losses by insurance
+- Plus, doesn't insurance also fulfill the role of compensating individuals in these cases?
+- No fault advocates say that instead of focusing on fault, we should just focus on fairly compensating the victims
+- Even if your goal is appeasement and vindication, that is only possible if you have good lawyers and are willing to go through the long arduous process
+- Difference between the fault and no fault system are mostly ideological

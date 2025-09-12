@@ -1,0 +1,3 @@
+- Process where the police submit charges to the Crown for approval
+- Gives the police an opportunity to amend the charges and evidence to ensure that there is actually a good chance of conviction
+- Also needs to be considered if proceeding with this case is in the public interest

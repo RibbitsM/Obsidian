@@ -1,3 +1,7 @@
 - Less serious offence, lower maximum penalty
 - Process and rights of accused are different, generally do not allow right to trial by jury
 - Lower process, lower penalties
+- Generally speaking, summary conviction can only hold a max penalty of 2 years minus one day imprisonment and a $5000 fine, unless otherwise specified
+- In theory this could exceed the traditional term, but there are no examples of this
+- In fact, summary conviction used to have a maximum penalty of only six months, until an effort was made to reclassify some indictable offences as summary convictions
+- For example, if we look at section 454 which deals with the manufacturing of objects intended to be used in place of a coin, it is considered a summary conviction

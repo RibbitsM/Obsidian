@@ -1,0 +1,15 @@
+- All individuals are entitled to the produce of their labour
+- Same problems as in the [[Marx Day 1|labour theory of value]], very few things are produced by the labour of one person, especially now
+- Mainly used as a component of broader justifications for property
+- Also doesn't account for inheritance or transfer
+- Comes originally from Locke's 1690 book "Of Property"
+- Created a thought experiment where initially the world existed in a pure state of nature
+- At some point, God granted humanity a common property interest in the world
+- Because of this, by mixing our labour with that common property we can convert it into private property, labour is the key ingredient
+- Based on this idea, the purpose of society is to protect these property interests arising from labour
+- Similar idea is brought up in the *Entick v Carrington* case, the same case that established that trespass does not require harm
+- Locke established two limitations for private property
+- First is that you must leave enough and as good for others
+- Loophole for this is that you can argue that privatizing will create overall greater productivity, which will increase the amount available for others
+- Second is that life inevitably spoils, while money does not
+- Waldron also developed a moral version of this, arguing that individuals are morally entitled to the product of their labour

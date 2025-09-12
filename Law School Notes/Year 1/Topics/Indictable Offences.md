@@ -1,0 +1,7 @@
+- Set penalty attached, usually a maximum fine/term
+- Gives right to trial
+- Tend to have higher penalties attached compared to a [[Summary Conviction]]
+- Also gives right to [[Appeal]], will be covered frequently but the vast majority of indictments do not result in appeals
+- Always contain the maximum penalty for the offence within the offence
+- For example, section 458 criminalizes the manufacturing or ownership of a device for making counterfeit money is punishable by a maximum sentence of 14 years
+- 

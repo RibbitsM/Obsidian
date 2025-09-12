@@ -1,0 +1,16 @@
+- Argues that private property is good because it creates the greatest productivity
+- blah blah blah [[Chapter 16|tragedy of the commons]]
+- Solution to this issue is either regulation of common property, or privatization
+- The idea is that doing so will create incentives for people to use their property wisely lest they overdraw resources and fall behind the others
+- Very closely related to the [[Utilitarian Theories]], but focuses mainly on the interpretation of utility as a measure of productivity
+- Places abundance as the greatest priority, distribution is less of a concern
+- The person who makes the greatest profit is the person with the greatest ability to foresee demand
+- Couple problems with this
+- First, this really only applies to less limited forms of private property, becomes harmful when applied to land ownership
+- Also tends to create inequality as those more fit edge out those who own less property
+- Finally, this promotes the accumulation of profit over the public good
+- Richard Posner argued that for property to be productive, it must be exclusive, transferable, and universal
+- This means we have sharply defined boundaries, we know who owns what
+- Second, the owner must be able to use this as a resource by transferring it in the market
+- Finally, there should be little restriction on what can be exclusive and transferrable
+- By following these steps, we create the most productive environment

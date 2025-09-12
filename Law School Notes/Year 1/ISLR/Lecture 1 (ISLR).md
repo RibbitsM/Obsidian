@@ -1,0 +1,111 @@
+- The first example of a TRC was in Chile in the 1990s, used to deal with the aftermath of the Pinochet govt
+- Other commissions were established in Argentina, Bolivia, and most famously in South Africa
+- Mission is to forge social unity by recognizing past abuses and creating a healing path going forward
+- However, historically these commissions have failed to implement the most important part which is genuine change going forward
+- Also tend not to focus on punishment or justice, instead focuses on forgiveness
+- How can we join this practice with the need to return Indigenous land
+- Only recently, [[Fee Simple Interest|fee simple interest]] private holdings are being returned to Indigenous authority in cases like the Cowichan case
+- Key issue for reconciliation is understanding the dual existence of Crown authority and existing indigenous land claims
+- Reconciliation is not decolonization, which is mainly a political practice while reconciliation is legal
+- Also reconciling Canada's legal system with existing indigenous legal orders
+- A couple different ways to view the word "reconciliation"
+- First is reconciliation in the form of an apology, reconciling our differences
+- The second is reconciliation in the form of resigning yourself to the current system
+- Finally, we have this weird murky sense of reconciliation that we imagine will unify the indigenous and Canadian approaches to law and politics
+- Primary sources for this information are the Report on the Royal Commission on Aboriginal Peoples of 1996, the reports of the TRC, and the final report of the National Inquiry into MMIWG
+### History Lesson
+- Start with Eastern North America in 1763
+- British and French were competing for influence over Eastern North America, and at this time they each had their own territories
+- Eventually, the British would defeat the French and the colony of New France in Quebec surrendered to the British
+- There were also the Thirteen Colonies to the south, but in Canada Quebec was part of the British Empire as well as Nova Scotia and the middle territory of Rupert's Land
+- The British realized that most of the indigenous groups were pretty happy in their relationship with the colonial powers, as they enjoyed the position of military allies
+- British needed to keep their allies happy and placate the former French allies as well
+- To do this, they issued the *Royal Proclamation of 1763*
+- Describes several indigenous groups as living "under their protection", specifically referring to them as "nations"
+- Another key term is the acknowledgement of the territory held by these groups and the need for the British Crown to protect that territory
+- As a result, no force except for an Agent of the Crown would be allowed to acquire land from these groups
+- According to the Royal Proclamation, land cannot be granted via fee simple interest until that land had been first ceded to or purchased by the Crown
+- Creates an issue in non-treaty regions such as British Columbia where according to the Royal Proclamation, the vast majority of land still belongs to the indigenous nations
+- The framework for acquiring land set out by the Crown was the structure used to sign most of the numbered treaties
+- Overall a very messy document as it had the dual goal of placating their indigenous allies, but also with the goal of establishing authority over these groups
+- On one hand they are referred to as "nations", but also as the protectorates of the Crown
+- Ties into the Doctrine of Discovery which was the notion that the European powers had the right to seize control of the land and peoples of any place considered to be "uncivilized"
+- Discovery gave the right of sovereign authority over any land considered to be *terra nullius* which they defined as any land not occupied by European Christians
+- Similar to how the papal bulls gave land to the early Spanish explorers in South America
+- In the next few decades, up to the 1830s, a new independent nation began to emerge around north-central Ontario and the prairie provinces
+- These were the Metis, a new distinct people and political entity that had distinct language, culture, and government separate from both indigenous and settler groups
+- Question still remains what rights the Metis actually have, and this is still being worked out by the government
+- Was there ever a Metis nation and where would it be located?
+- Some argue that there was a single centralized Metis nation located on the Red River in modern day Winnipeg, and others argue for a number of smaller nations
+- How do we reconcile prospective Metis land rights with the presence of competing territorial rights from local indigenous groups?
+- Are there in fact Metis nations or communities in BC that could have constitutional rights that are yet to be settled?
+- Early to mid 1800s marked a significant power shift as a result of the British crown gaining sufficient military and economic power to impose their will on the indigenous peoples
+- Before this, they had the numbers advantage and were much more organized
+- However, decades of smallpox, other diseases, and increased settler populations put them at the mercy of the British government
+- The govt began to assert their power based on the white man's burden, passing legislation aimed at civilizing the local indigenous populations
+- First, needed to sign a series of treaties to affirm their control over these groups
+- Agreements were made in the Maritime regions, but without any sort of language of land surrender
+- Called the "peace and friendship treaties", these mostly focused on cooperation and living together, nothing to do with land use
+- Southern Ontario also had some pretty messy treaty-making, they were early on in the process
+- Called the Robinson, William, and Southern Ontario treaties, bore some resemblance to the later numbered treaties but were less standardized
+- Key issue is whether or not these treaties should be considered true "land surrender" agreements
+- Likely that indigenous groups did not understand what exactly they were signing
+- Despite the major role of history in this subject, indigenous law is very much a new and actively developing field of law that you will likely encounter in your life
+- Litigation on treaty rights, entitlement to annuities, and more are all ongoing cases
+- For most of the numbered treaties, land was "surrendered" in exchange for annuities, reservations, and regular supplies of goods and other promises
+- Based on the precedent of the Robinson treaties
+- However, in most of the numbered treaties the annuities were not fixed, but tied to the extraction of treaty land resources
+### Making Sense of the Treaty-Making Process
+- At the time, Canada was already taking the position that the indigenous peoples were under their sovereign authority
+- Given this, why would they decide to sign all these treaties?
+- The British had a tendency to follow through with promises they made in the past, even if it no longer made sense
+- This policy was already set out in the *Royal Proclamation*, so they were obligated to do it
+- Also, international law at the time stated that treaties were needed for the Crown to crystalize their authority over these groups
+- In order to make land grants and develop the land, they still needed to legally own it
+- Many treaties were made for economic reasons, Treaty 11 was prompted by the discovery of oil in Norman Wells
+- Indigenous groups were enticed into these agreements based on the promise that they would live as they did before
+- The threat of settlers coming from the East led most groups to conclude that this was their best bet to protect their way of life
+- Served as basically a promise to not interfere with the dealings of the indigenous groups in exchange for land
+- This is a fundamental issue of the treaty process, this was an agreement that was basically ignored
+- Almost impossible to hunt and fish in most treaty regions, for example if you are placed in a random location within treaty 8 territory, there's an 80% chance you're within 200m of an oil and gas facility
+- Most indigenous groups thought of these treaties as similar to the ones that they would sign with neighbouring groups
+- These relationships were framed in kinship terms, to become brothers and sisters with your neighbours
+- In fact, most of these agreements would end with intermarriage between young members of each group
+- This was the lens that most of these groups saw the treaties offered by the Crown, while they saw it as a material transaction
+- Before the ink was even dry on most of these agreements, the Crown was not fulfilling its promises
+- Recall that the *Indian Act* is still in place, and has been since 1876
+- Basically an entire piece of legislation dedicated to controlling the lives of an entire category of people, their education, economic activity, travel, living conditions, etc.
+- The government determines who is and is not indigenous, controls traditional ways of living through Fish and Wildlife authorities, controlled reservation economies, and more
+- While the Inuit did not fall under the *Indian Act*, the government still sought to assimilate them by putting Inuit children in residential schools
+- To do this, they tied family allowances to residential school attendance
+- At the time, Inuit people had become accustomed to trading with the fur companies and began to use money to buy goods like guns and flour
+- When the fur economy was down, allowances were often the only way to access money
+### Justification
+- How did all this happen, and how does to continue to happen?
+- The Doctrine of Discovery was a big reason, and played a key part in the early stages of colonization
+- There's no other way to think about this other than a law based on ideas of religious and racial superiority of the European nations
+- The British were more technologically advanced than the indigenous groups, and thus more important and superior to them
+- Ignored the possibility that there were multiple ways to successfully structure a society
+- The Doctrine of Discovery continues to play a role in indigenous law
+- Most of the major indigenous cases come from BC, the Musqueam nations engage frequently in the law
+- For example, the case *Guerin v The Queen* came in response to the proposed building of the UBC University Golf Course
+- The developer went to go to the Crown and request a transfer of land away from the Musqueam
+- In the end, they did get some compensation but not nearly enough
+- They discovered this in the 1970s, and went to court in 1984
+- Carried on to the *R v Sparrow* case where Sparrow was fishing around the Southern tip of Richmond and sought to challenge Canadian fishing law
+- In both of these cases, the Supreme Court acknowledged the fact that Crown land came originally from the Doctrine of Discovery
+- Despite its origins, it has been accepted as "the way that it is" now in Canada
+- Supreme Court of Canada recognizes the Crown as the *de facto* sovereign power, but may not be the *de jure* sovereign power in non-treaty land
+### Questions
+- How did the Crown assert *de facto* sovereignty across Canada
+- How did they achieve *de jure* sovereignty, and have they?
+- If you were a British official in the 1800s, how would you justify this authority?
+- If you are a government official today, how will you justify this?
+- Given all this, what is an appropriate response to this history?
+# Small Group Notes
+- 5% of attendance will be 5 people randomly? chosen to write a journal entry on the readings
+- The other 10% comes from a day where you lead the class discussion with 4 other students
+- Half of that comes from the group mark, other half is from an individual reflection submission
+- You'll have to do the journal on a different week than the class discussion
+- You should consider the supplementary readings in your journal/discussion, but the required readings will take precedent
+- 

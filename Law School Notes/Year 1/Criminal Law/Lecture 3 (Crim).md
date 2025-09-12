@@ -1,0 +1,73 @@
+- Take the example of two 15 year old boys, one charged with a DUI on a kick scooter and uttering a vulgarity (Barney) and the other charged with assault (Fred)
+- Neither is convicted, why?
+- For the DUI charge, we have to consider section 320.11 of the [[Criminal Code]]
+- This defines a "conveyance" as a motor vehicle, vessel, aircraft, or railway equipment, which does not apply to a kick scooter
+- Shows that all the information on an offence is not necessarily contained in the text of the offence
+- Another issue is the bilingual nature of the criminal code
+- All federal statutes are published in both English and French, and both are equally authoritative
+- Can help solve ambiguity in one translation of the text
+- Sometimes, there may not be a definition for a term mentioned in the code
+- In this situation, we look to previous cases to see if a judge has created a definition for the term
+- Of course, recall that as lawyers our obligation is always to make an argument, which can come from any number of sources
+- Barney was also not charged with uttering a vulgarity because this is not an offence listed in the criminal code
+- Even if the act you committed meets the definition of another offence that was not in the charge, if you were not charged with that offence you will not face penalty for it
+- Both Fred and Barney are still able to be charged for criminal offences since the minimum age for criminal liability in Canada is 12
+- However, they are still subject to the [[Youth Criminal Justice Act]]
+- Fred would not be charged despite his actions matching the provisions of the fictional Get Tough on Young Punks Act since it is considered *ultra vires*
+- According to the reading, this was a provincial act, but it basically expands the definition of the federal offence of assault
+- This is not allowed, and as such would be considered void in court
+- Another situation where the charges matter more than the act, as if he was charged under the traditional offence of assault, he would likely be convicted
+- The charges can be amended, but it has to be done before the case goes to court
+- In Canada we have a procedure called [[Charge Screening]]
+- Even if this fictional act was a federal statute, you could also make the argument that it is [[Charter of Rights and Freedoms|unconstitutional]] based on discrimination on the grounds of age
+### Criminal Process
+- Besides the classification between [[Summary Conviction]] and [[Indictable Offences]], we also have to consider other aspects of the [[Classification of Offences]]
+- The minimum penalty that can be applied is a discharge, which is essentially letting the accused off with a warning
+- Sometimes these discharges can be conditional on the fulfillment of some requirement set out by the court
+- Not all offences allow discharges
+- The next level of penalty is probation, which is also not always available
+- Many offences in the criminal code are considered Hybrid Offences (insert link here)
+- In these options, the Crown is given the choice of proceeding as either a summary conviction or as an indictable offence
+- An example of this would be section 271 which deals with sexual assault
+- Anyone who commits sexual assault is either guilty of a summary conviction or an indictable offence, which carries a specific penalty
+- Interestingly, the maximum penalty for a summary conviction under this charge is currently 18 months, lower than the traditional maximum
+- This is a residual effect of raising the summary conviction maximum from 6 months, as traditionally sexual assault is the most serious summary conviction
+- Recall that a summary conviction must be charged within a year, while indictable offences have no statute of limitations
+- If both options are available based on timing, the Crown will consider the seriousness of the offence and the desirability of following summary vs indictment procedure
+- Especially in the case of sexual assault, we consider the impact on the witnesses that may be forced to testify multiple times in an indictable offence case
+- For a summary conviction, the charging document is called the [[Information]]
+- This document contains the information on the act, and the charges being applied
+- The trial will take place in provincial court, in front of a judge alone
+- For many serious offences, there will be a preliminary inquiry but this does not apply to summary convictions
+- Vast majority of criminal cases operate with this procedure
+- You are entitled to counsel, but some low-level cases where there is no risk of jail time are not eligible for legal aid, which is where LSLAP and pro bono organizations come in
+- If an accused is charged with an indictable offence, they generally have the choice to either face trial before a jury or a judge alone
+- Can also choose whether to go to the provincial or the superior court
+- Trial by jury is only available in the superior court
+- One difference between trial by judge alone in provincial vs superior court is the right to the preliminary trial
+- Generally, provincial court is faster and cheaper but defence counsel make seek to take the case to a specific court to get a judge they know better or would be more sympathetic
+- Until recently, all indictments in the superior court gave the right of preliminary trial
+- This option was usually taken by the defence because it gave the prosecution the chance to see the Crown's case
+- However, the Charter now includes the right to full disclosure, making this mostly unnecessary
+- For the sake of the witnesses/victims, and the resource toll, the government has cut down on the volume of preliminary trials
+- Now, preliminary inquiry is only available if the max penalty is 14 years imprisonment or more
+- Exceptions to this rule is as follows
+- Section 469 lists offences in the exclusive jurisdiction of the superior court, the most common of which is murder
+- It is possible for these cases to proceed by judge alone, but only if the Crown and the accused agree to do so
+- The vast majority of murder trials are carried via trial by jury
+- In some provinces, the Crown usually agrees to trial by judge alone, but in others they almost always refuse
+- Currently debates are going on whether this is unconstitutional or not
+- There are also a list of offences in Section 553 which are indictable offences, but are in the exclusive jurisdiction of the provincial court, mostly theft under $5000
+### [[Outline of a Criminal Trial]]
+- After the mode of trial has been selected, the trial process starts
+- Starts with the plea, which may skip the entire trial in the case of a guilty plea
+- The Crown presents their case first, in order to give the greatest opportunity to the accused
+- The accused has the right to silence, as they are presumed innocent and it is up to the Crown to prove their guilt
+- Evidence is introduced via the witnesses, who explain the relevance of the evidence
+- After this, the defence can argue no evidence if the Crown case was considered insufficient
+- This is typically only done if something clearly goes wrong during the Crown's case, for example if a witness doesn't testify as expected or fails to appear
+- This can prematurely end the trial and acquit the accused
+- The order of closing arguments depends on if the defence presented evidence or not
+- If they did not prevent evidence, they are allowed the final closing argument
+- In the case of a jury trial, the judge will explain the charges to the jury, occasionally in consultation with the counsel
+- 

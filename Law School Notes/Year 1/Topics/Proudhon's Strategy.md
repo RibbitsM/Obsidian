@@ -1,0 +1,7 @@
+- States that if freedom is essential for all people, and private property is required for this, then everyone should have equal access to property
+- This kind of equality is incompatible with a system of private property
+- If someone holds no property, having a right to hold private property does not benefit them
+- If it is wrong for someone to take property from another, it should be considered equally wrong for someone with no property to be unable to acquire some
+- In a case like this, the distribution of property is key
+- Is it enough for everyone to have just enough to achieve independence, and should the surplus (if there is any) also be distributed equally?
+- 
