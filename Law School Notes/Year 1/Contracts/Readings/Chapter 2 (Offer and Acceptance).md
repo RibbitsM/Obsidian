@@ -1,4 +1,4 @@
-                                                                                                      ### Objective Theory
+## Objective Theory
 - Basically determining whether parties have reached a mutual understanding
 - Without understanding and intention from both sides, you cannot have a bargain
 - Acceptance must always perfectly match the terms of the offer

@@ -1,0 +1,55 @@
+- According to Haudenosaunee tradition, every part of the world has a specified role and seeks to achieve that role the best it can
+- Can consider this the "law" of the natural world
+- Humans are but one piece of this law
+- Importance placed on consensus, gatherings should seek to create a [[Lecture 1 (Contracts)|meeting of minds]]
+- The Great Law of Peace was initially created by the Peacemaker, who bound together the Mohawk, Oneida, Onondaga, Cayuga, and Seneca
+- For peace, all members must be rational and accept the rationality of their peers
+- Assumes peace is that natural state of rational humans
+- Great Law also recognizes that peace is an ongoing process that needs to be maintained
+- Implements metaphors that would be familiar to the Haudenosaunee
+- First element of the law is rationality, and family is the second element
+- All people are kin, and kin should not spill the blood of kin
+- Great Law of Peace seeks to connect tribes through kinship even in the absence of blood relations
+- Family remains essential, but this is a fundamentally civic society, not an ethnic one
+- Not only do family not hurt eachother, but they work together to support their kin
+- Law requires constant maintenance, like keeping a longhouse in working order
+- System of checks and balances, but focused on the balances
+- Partners are an enduring symbol, the Peacemaker worked with Hiawatha
+- Key concept was that law should be forward-looking, lawmakers were stewards of the land who sought to ensure prosperity for the seventh generation
+- The story of the Peacemaker is fundamental to understanding Haudenosaunee law, through stories it tells the principles of natural law
+- Most importance part is the ceremony of Condolence, which is the main tool for peacemaking
+- While nation building is an effective way to stop internal conflict, it often just serves to enable external conflict
+- If all members of a community dedicated to peace are not themselves dedicated to peace, the organization as a whole is doomed to fail
+- There is also a more technical aspect to the Great Law
+- Chiefs have distinct responsibilities, there are specific checks and balances between the five nations, and there are set decision-making processes and gender roles
+- This also inspired the US Constitution, although they failed to incorporate many of the soft principles like the rational mind, and importance of families and future generations
+- Also creates a democracy, but one in which absolute equality is not assumed
+- Tasks are delegated in according to ability, and elections are not present
+- Confederation is also asymmetric, not all nations share the same responsibilities
+- Each state has a set authority, but also a matching responsibility to uphold
+- In Canada, we have a distinction between "indigenous law" which is the law of indigenous nations, and "aboriginal law" which is Canadian law regarding indigenous groups
+- Aboriginal law has changed significantly in Canada, including to begin to recognize the legitimacy of indigenous law
+- However, this mainly takes the form of vague promises to incorporate indigenous perspectives
+- Racism is still embedded in Canada's legal system, often aboriginal law is made on specific racial divides or relies on interaction with European concepts
+- The doctrine of discovery is still the underlying justification for Canadian land rights
+- Ongoing movement to restructure treaties to lie within the indigenous legal context, mainly based Haudenosaunee practices
+- Very few examples of written versions of the Great Law of Peace, and most academic study on the topic has been done by non-indigenous scholars
+### Oral Tradition and the Rememberers
+- Memory and the ability to memorize and retell stories and events is highly prized in Haudenosaunee tradition
+- This was typically the role of Haudenosaunee women, to recall and retell these events
+- We can adopt these practices, for example while a group of law students may not be able to recall full sections of the criminal code from memory, if they have European heritage they almost certainly know Goldilocks and the Three Bears
+- Oral tradition is inherently flexible, it naturally adapts to changing circumstances
+- The power of memory has faded in the age of written information
+- It is also tradition to acknowledge the passing of your ancestors when reciting information, to recognize that you will not tell it exactly as they once did
+- As opposed to writing, the Haudenosaunee used wampum
+- This is a mnemonic device that assists with retellings by signifying important concepts through coloured beads
+- Not a form of writing, more like a memory aid
+- Can be used to symbolize a treaty, but is nor a record of the treaty itself
+- Unlike in the European context where a treaty is the agreement signed at a specific point in time, the Haudenosaunee saw the ongoing relationship as the true representation of the treaty
+- In some ways, the common law system of England is a reflection of oral tradition
+- As opposed to the strict codification of Roman law, Saxon law was allowed to evolve freely over time, remembered through the past decisions of communities
+- The law of Canada is enshrined in writing, but also the customs and memory of its practitioners
+- One advantage to the Haudenosaunee system is that since the law is grounded in memory, those subject to those laws must keep it in their minds always
+- A prominent example of written indigenous law would actually be the transcriptions of treaty council meetings with the French, Dutch, and English
+- Another way to keep the law in the minds of the people is to meet frequently, usually every five years, to recite and reaffirm the Great Law of Peace
+- Can be seen as the origin of the practice of regular Parliament meetings and the renewal periods often associated with treaties

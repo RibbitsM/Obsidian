@@ -1,0 +1,88 @@
+- Paper centers on the Nêhiyawêwin (Plains Cree) word kitimahkinawaw, which means "to take pity on someone"
+- This is a positive sense of the word pity, and described how a person acts when they show compassion towards others
+- We should use this approach towards the poor, homeless, and sick as well has those who may be harmful to society
+- Kitimahkinawaw exists to mitigate the struggles of marginalized people
+- Similarly, the word kitimahkisin means "a pitiful person"
+- Describing yourself in this way recognizes dependence on the land, the Creator, and eachother for sustenance
+- We are all kitimahkisin and all come with specific gifts that must be used to benefit others
+- These two words are key legal principles of the Cree that guide the relationships between the stories and characters of Cree epistemology
+- Uses the practice of kiskeyihtamowin which means the pursuit of learning and knowledge as the basis for a Cree research methodology
+- This is a relational methodology, meaning all knowledge gained from it is understood to be contained with the relationships between living beings
+- For the author, this knowledge comes from his heritage, language, spirituality, and experience living and spending time with his Cree relatives
+- Mentions a metaphor created by Darcy Lindberg that uses braiding as a metaphor for writing about indigenous law
+- By taking multiple different sources of law and weaving together, you can create a single robust analysis that is stronger than the sum of its components
+- Adopting this strategy, the author seeks to combine Cree narratives, language, and existing indigenous legal theory
+- Two main kinds of narratives in Plains Cree, one is legends that take place at an indeterminate time and contain no verified characters
+- These legends are only told in the winter, and generally have many more supernatural elements like talking animals
+- The other kind of narratives refer to stories that happened in modern times and can include personal anecdotes, news stories, or historical accounts
+- Often this dichotomy is described as being between fake versus real stories
+- However, these legends hold an important place in Cree culture and are foundational to Cree identity, and thus should be approached with a certain degree of respect
+- Both of these kinds of narratives are primary sources of Cree law
+- For example, some modern stories may record historical disputes that are used as precedent for decision-making
+- On the other hand, legends contain implicit legal norms that shape decisions in the story and are later applied to modern situations
+- This is rarely if ever done explicitly, meaning they can be interpreted in any number of ways
+- To avoid misunderstanding these stories, it is important to engage directly with the community that you are studying
+- Cree language is also key to understand as it contains many words that have inherent legal meanings
+- Finally, there is also pretty extensive literature on Cree law, including examples of adapting it to address issues faced by non-Cree indigenous groups
+- Many of these theories have been directly developed by Cree scholars
+### Analytical Framework
+- Four main frameworks used to interpret indigenous law
+- The first is the linguistic method, that uses HLA Hart's theory of primary and secondary laws
+- In this case, primary laws are the words used to represent legal concepts, and the secondary laws are state laws
+- Second is the "sources of law" method
+- Identifies five categories which are sacred, natural, customary, deliberative, and positivistic law
+- Third framework is the 'single case' method which examines a specific narrative to use as a case study on indigenous law
+- Fourth is the multi-case analysis that takes collections of narratives and creates a series of briefs on these narratives that are cross-referenced to find common trends
+- These trends are then used to infer legal principles
+- Author examines three narratives, but doesn't rely on premade collections as the initial multi-case method was created for non-Indigenous use
+- Also partly draws on the linguistic method by using Plains Cree words as a focus point for legal principles in the narratives, mainly kitimahkinawaw and kitimahkisin
+- However, no effort is made to associate these concepts with Canadian law
+### Âpakosîs
+- Story tells of a mouse going on a vision quest
+- Meets a blind raven and a blind cougar, and gives one eye to each of them
+- At first is unsure of what vision they are supposed to see because they are blind now
+- Ultimately, the mouse comes to the conclusion that it must see with its heart
+- Story teaches us the importance of faith through the journey and commitment of the mouse, and the importance of care through the gift of the eyes to the raven and cougar
+- Also shows the humility of the raven and cougar for being willing to ask a mouse for help
+- Another key aspect to this relationship is that they help each other despite being different species
+- Giving the second eye to the cougar is also important, as in this moment the mouse is putting itself at the mercy of the cougar
+- Shows the importance of trusting and seeing the best in others
+- I lack the wisdom to understand why there is suffering in this world, yet it is an experience that transcends time
+- Kitimahkinawaw exists to address imbalances in suffering, those who are thriving take on the suffering of those in a worse position than them
+- From each according to their ability, to each according to their need
+- Throughout the story, all three animals suffer from blindness at some point
+- However, through the process of kitimahkinawaw, they are all able to accomplish their goals
+- The mouse shares its abundance, and enables the success of the raven and cougar
+- It's important to know that this compassion does not extend to condoning violence, but taking steps to stop violence that are respectful of both the actor and victim
+### Omikiy-mihkwâkan
+- This story involves a boy described as really ugly because of a scab over his face who is ridiculed by the daughter of the chief who leaves his village
+- He comes upon a house inside a mountain where a beautiful wealthy family takes him in, heals his face, and gives him a fine robe, weapons, and a horse
+- He then returns to the village to live with his family, rejects the advances of the chief's daughter, and becomes a great warrior
+- Pretty archetypal "ugly duckling" story with some extra nuance
+- Important aspect of the story is the impact of words, especially the harm caused by the mockery of the protagonist
+- Ordinarily, harmful individuals were cast out of Cree villages, but in this case an innocent casts themself out to escape a harmful environment
+- The main moral of the story is one of tolerance towards all
+- A smaller sign in the story is that it starts with the protagonist watering his grandmother's horse, showing the importance of caring for the elderly
+- Another key detail is that he is directed to the house in the mountain by an ant that talks to him
+- Shows us the importance of listening to the signs in nature
+- Finally, the protagonists rejection of the chiefs family emphasizes the importance that he should use his new gifts to benefit the poor, not the rich
+### Wekimagansah
+- Protagonist is the least favoured of the chief's two wives
+- Finds a talking rock that tells her to take it with her
+- At night she dreams the rock told her that if her village battens their tipis and stays inside them all night, the buffalo will come back
+- She tells this to the favorite wife and both with the chief tell the village to do so
+- Some others do not listen because the protagonist was low class
+- Her prediction is right and a huge storm comes, whoever didn't batten their tipis dies
+- In the morning there are thousands of buffalo outside
+- Also shows the principle of looking for signs in the natural world (talking rock)
+- The fact that the premonition came in a dream is also very important, as they are considered a key connection to the Creator
+- Dreams are seen as conveying law in the forms of metaphor
+- In this story the dream is pretty explicit, but this is pretty rare
+- Main conflict is the skepticism surrounding the truth of the dream
+- Applies to the modern day, as in the Canadian context creating law based on a dream you had sounds pretty ridiculous
+- Important note is that interpreting dreams as law requires extensive deliberation
+- Messages are first received through a dream, interpreted by the dreamer, and then become reality as they are communicated and debated over with others
+- Also exposes elements of inequality, the protagonist is not trusted due to her status and gender, and the community suffers as a result
+- Serves as a reminder that the Creator speaks to those in poverty or bad situations
+- Somewhat unrelated, but the Cree also believe that animals allow themselves to be caught in hunts as a form of pity towards humans
+- Leads to the practice of hunters praying to seek consent from the animals to hunt them

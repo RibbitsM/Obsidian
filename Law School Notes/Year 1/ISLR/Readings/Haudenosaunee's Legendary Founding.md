@@ -1,0 +1,17 @@
+- Video explains the significance of the Hiawatha wampum belt
+- Tells the story of Hiawatha, a legendary warrior who met with the Peacemaker
+- Hiawatha suffered tragedy as his children were killed by an evil warlord
+- He found pure white shells while walking along a lake, and used them to create a wampum
+- This belt was used in something called the Condolence ceremony in which the [[R c. Montour|Three Bare Words]] are spoken and the wampum is drawn across the eyes
+- This is done to clear the mind and open it up to peace
+- Ceremony was initially invented by Hiawatha
+- With the peacemaker, he met with the chiefs of the five nations, and united them under one longhouse
+- The only holdout was the Onondaga, led by the warlord that killed his daughters
+- He also had magical powers that let him ally with the animals of the land
+- Hiawatha and the Peacemaker met with a woman who later became the first clan mother, and made a deal that if she could stop the war, she could choose the chiefs
+- Jigonsaseh successfully pacified Tadadaho, and enabled him to listen to the message of peace
+- She anointed him chief of chiefs after he had abandoned war, and the Haudenosaunee was ready to be formed
+- Each chief brought a wampum that was weaved into a single belt
+- The new belt was held below a solar eclipse before the tree of peace
+- This was a white pine tree that was uprooted and all weapons of war were buried below it before replanting it
+- For the first time, the Peacemaker spoke the Great Law of Peace

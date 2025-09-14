@@ -1,0 +1,70 @@
+- Quick context, Montour was charged with fraud for smuggling tobacco from the US to Canada
+- He defended himself on the grounds that Aboriginal law gave him the right to engage in the tobacco trade
+- Specifically pointed to something called the [[Covenant Chain]]
+- This case hinges on Section 35(1) of the [[Sources of Criminal Law|Constitution Act of 1982]], which protects indigenous treaty rights
+- Basically represents the connection between the Haudenosaunee and the British colonies
+- Applicants held that the Crown has an obligation originating from the Covenant Chain to consult with the Mohawk before passing legislation restricting the tobacco trade
+- AG held that the Covenant Chain isn't a treaty, it's just a metaphor
+- The Mohawk views the Chain as a binding relationship between the Haudenosaunee and the Crown, beginning in 1677 and persisting through every treaty council
+### Facts of the Covenant Chain
+- Originates from the relationship between the British and Haudenosaunee in the 17th century
+- Nations in the Chain are independent, sovereign, and equal
+- Both parties had equal ability in terms of diplomacy, alliances, and negotiation
+- The metaphor is represented by a sailing ship and a mountain connected by a silver chain
+- This chain requires regular polishing and care to ensure its durability
+- It is deeply rooted in the Haudenosaunee tradition of conducting regular councils
+- These councils are a core part of the Haudenosaunee and the Great Law of Peace, and existed long before the appearance of the British
+- Original Covenant Chain councils were held in Albany and were initiated by sending a wampum belt as an invitation
+- At the council, these belts would be exchanged to represent the treaty
+- The British followed these traditions in their relationships with the Mohawk, and this relationship was developed through multiple Chain councils
+- The need for regular polishing symbolizes the need to discuss any conflict affecting this relationship
+- Council procedure begins with a Condolence, followed by proposition speeches and an exchange of gifts, after which a break is taken to wait for an answer
+- Answer is given through more speeches, and another exchange of gifts
+- This process is repeated until an agreement is made
+- Councils do not always lead to a treaty, and all treaties with the exception of the 1664 Treaty are oral
+- At these councils, the Covenant Chain is renewed alongside any previous treaties
+- The Chain relationship persisted into the 19th century, and eventually became part of British diplomacy with other indigenous nations
+### Is the Covenant Chain a Treaty?
+- Court examined four core issues
+- What are the obligations of the Chain?
+- Did all parties intend to create binding obligations?
+- Was it concluded with a measure of solemnity?
+- Is the Chain extinct? (this case took place in 2023)
+- Court decided that the Chain is not extinct, and created binding obligations via military and friendly alliances including a conflict resolution procedure
+- European nations saw the importance of securing indigenous alliances
+- This was a friendship alliance, which in Haudenosaunee tradition also means a family alliance
+- Pivotal part of this kind of alliance was the usage of councils to resolve conflicts
+- The fact that councils were held in Albany (British territory) signifies an effort of both parties to incorporate the customs of the others
+- The British agreed with the idea that holding council was the designated way to resolve conflicts with the Haudenosaunee
+- This process was never written down, but this is a sign that this relationship followed Haudenosaunee custom of purely oral transactions
+- Relationship was seen by the British as an effective way to manage indigenous relations and maintain peace while furthering their colonial interests of obtaining more territory
+- Records of council meetings and the conduct of all parties suggests mutual intent to enter a peace and friendship alliance
+- Crown argues that the British did so to appease the Haudenosaunee but did not understand this as creating substantive obligations
+- However, regardless of their true intentions, the British engaged with Haudenosaunee council and tradition consistently for over a century
+- If they truly were acting in deceit this entire time, this would go against the legal principle of the honour of the Crown
+- This presumes that the Crown acted honorably in its dealings with the indigenous nations
+- Dishonorable conduct in the past cannot be used to escape obligations in the present
+- This argument of insincerity also goes against the goal of reconciliation, which has been officially recognized by the Canadian government
+- AG also argued that the British did not intend to enter a treaty, as this went against their cultural tradition of written treaties
+- However, they also engaged with many oral treaties during their long relationship with the Haudenosaunee
+### [[The Great Law of Peace]]
+- To determine this case, a Mohawk Chief was brought in to explain the Great Law of Peace
+- There are three words which are key to the Great Law
+- The first word is peace, which is the ultimate goal of the law
+- The second word is presence of mind, meaning peace requires clear thinking and an intention to engage with the goal of creating peace for all
+- The third word is peace process, meaning that we have a way to be at peace
+- Also can mean "capability for peace"
+- Without all three words together, peace is impossible
+- These are all vague translations of the original three words
+- Actual text for the three words is skén:nen, ka’shatsténshera, and ka'nikonhri:oio, respectively
+- For the Haudenosaunee, to make a treaty with them you have to be a distinct nation
+- This means having your own land, language, laws, and culture
+- They also considered as a key part of any relationship, and constantly traded with all nations they were allied with
+- Any trade conflicts were addressed by holding a council
+- Chief Nelson recognized that the Chain has not been polished for many years, but it still exists
+- Now more than ever, it needs to be repolished and strengthened
+- Thirty years before this trial, a chief at the Iroquois Confederacy Council proposed changing the silver chain for a gold one that requires less polishing
+- This idea was rejected as frequent meetings are key to resolving differences
+- As long as Chief Nelson has been in power, the only discussions between the Mohawk and the Crown took place during the Oka crisis
+- They saw this as a sign for more discussions to come, but none ever came
+- 

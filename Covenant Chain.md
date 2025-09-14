@@ -1,0 +1,4 @@
+- This is the system of alliances and treaties between the Haudenosaunee and the British colonies
+- Represented by a wampum depicting a silver chain
+- This chain represents the connection between the Tree of Peace and the British
+- 

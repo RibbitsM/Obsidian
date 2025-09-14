@@ -1,0 +1,75 @@
+- Read everything, highlight and then take light notes
+- Ended last lecture with *R v Dawood* and the debate over when an offer is made in a retail sale
+### [[Chapter 2 (Offer and Acceptance)|Offers and Unilateral Contracts]]
+- Famous case of a unilateral contract was *Carlill v Carbolic Smoke Ball Co*
+- Defendants manufactured a medicinal product called the Carbolic Smoke Ball
+- Placed an advertisement stating that they would pay 100 pounds to anyone contracting a disease after using the product thrice daily for two weeks
+- Mrs. Carlill saw the ad, and bought the ball and used it three times a day for 10 weeks until she eventually contracted influenza and tried to claim her reward
+- Company refused to pay, arguing that she would have had to use the ball under their supervision
+- However, the court held that the advertisement constituted an offer with clear terms that Mrs. Carlill followed, not just an invitation to treat
+- The main difference was the inclusion of extensive details on how to accept the offer, contrary to a traditional advertisement
+- By using the ball three times a week, Mrs. Carlill accepted the offer
+- Similar to the traditional example of the missing cat poster
+### Tenders and Auctions
+- Tendering is when a company or organization creates a bidding competition to complete a specific project
+- Usually a construction project, but can be any number of things
+- A government will announce that they intend to build some sort of structure, and will accept bids from companies submitting cost estimates and designs
+- Then, the government will accept their preferred bid, and sign a construction contract with that bidder, usually a construction company
+- Prior to 1981, in Canada the tendering process was considered an invitation to treat
+- This changed due to the *R v Ron Engineering & Construction* case
+- The court held that there were two contracts in place, Contract A which governed the tendering process, and Contract B which was the construction contract
+- Contract A is a bilateral contract offered by the tenderer, and accepted by the bidder in the form of submitting a bid
+- Once this contract is accepted, both parties are bound by its terms
+- These terms vary a bit, but generally a bid cannot be retracted once it is submitted, and will be accompanied by a deposit
+- If a company is selected to enter Contract B and backs out, they lose that deposit, but if they were not selected, they will receive their deposit back
+- The tenderer is also subject to several rules on the evaluation of bids, they must treat all parties equally, but are also not bound to accept the lowest bid
+- They are also required to ensure that the bid they ultimately accept is compliant with the specifications set out by the tenderer
+- Auctioning is much simpler, most auctions present an object for sale, and bidders place bids until the auctioneer selects one bid to accept and sells it for that price
+- Under Canadian law, the bid constitutes an offer (not the placing of the object for auction), and the fall of the hammer signifies the acceptance
+- Once a bid has been exceeded by a higher bid, the lower bid becomes void
+- Also, as acceptance only happens once the hammer falls, prior to that point you are able to retract your bid without penalty
+- Because of the prior rule, a retraction does not revive the second-highest bid
+- An auctioneer is also not bound to sell the object, they have the power to accept and may choose to accept no bids at all
+- The exception to this is an auction "without reserve", if an objected is advertised as being auctioned without reserve, highest bid is binding no matter what
+- This rule was set by the precedent of the 2000 *Barry v Davies* case
+### Communicating Offers
+- To be effective, an offer must be communicated to an offeree
+- Main example of this was *Blair v Western Mutual Benefit Association*
+- Defendant was a valued long-term employee of the company, and the board of directors passed a motion granting her 2 years salary upon retirement
+- She knew of this because she was a secretary, and saw the motion in the meeting minutes
+- When she retired, she tried to receive this retirement bonus but was unable to
+- The court sided with the company, as although she had knowledge of the offer, it was not binding as it had never been formally communicated to her
+- Simply deciding to make an offer is not binding unless it is expressed to the offeree, even if the offeree is aware of it
+- However, this requirement is a lot more lax when it comes to unilateral contracts
+- As long as a third party fulfills the terms of the contract, the court generally presumes that they were aware of the offer unless there is clear evidence indicating otherwise
+- Most examples of this come from rewards in exchange for information on a crime
+- An example of this was the 1833 British case of *Williams v Carwardine*
+### Acceptance
+- If the conduct of one person constitutes an offer, than the other person gains the power of acceptance
+- If the second person decides to accept the offer without changing the terms of the agreement, this is considered *consensus ad idem*
+- In the case that they do try to change the terms, that is considered a counteroffer
+- This can go back and forth any number of times until ultimately someone decides to exercise their power of acceptance
+- A general rule is that a counteroffer removes the initial offer, and it can no longer be accepted unless it is reoffered
+- Comes from *Trollope & Colls v Atomic Power Constructions*
+- Another case, *Livingston v Evans* established that rejecting a counteroffer amounts to reoffering the previous offer
+- Also raises the issue of where the line between offer/counteroffer and negotiation exists
+- Example of a case called *Bristol, Cardiff, and Swansea Aerated Bread Company v Maggs*
+- Maggs wrote to the plaintiff offering to sell their business for 450 pound, and the plaintiff accepted the offer
+- The next day, they sent Maggs a contract including a non-competition clause
+- As this clause was not in the initial argument, Maggs's lawyer tried to amend the clause, and pulled out of the agreement after receiving no answer
+- This matter went to court, and it was found that adding the clause meant that negotiations were still ongoing, and Maggs was able to pull out
+- While it appeared that the plaintiff had accepted, their addition of the non-competition clause instead amounted to a counteroffer
+- Time was a crucial factor here, the plaintiff adding the clause the next day makes it more likely to be considered negotiation as opposed to breach of contract
+- Another example of this came from *Harvey v Perry* where the parties were negotiating on eight oil leases
+- The seller responded to a proposed offer with "I will accept your proposition", and the lawyer of the purchaser said "the terms are acceptable" after a draft agreement was sent over
+- However, this was not considered to be a completed agreement as the purchaser later sent another draft agreement with altered terms
+- Since at least one party was continuing to negotiate, this agreement was not considered *consensus ad idem*
+### Battle of the Forms
+- Acceptance, to be valid, has to comply with the instructions given by the offeror
+- There may be a specific way to accept an offer, for example by email or by physical mail
+- Additionally, there may be a specific kind of payment requested like cash, cheque, etc.
+- When it comes to unilateral contracts, courts usually require strict compliance with the actions requested by the offer
+- For example, you can't just bring any cat to fulfill a missing cat poster
+- If an offer has a deadline, the court will not consider an acceptance past that date
+- This deadline can be altered, but if a contract has no expiry date it must be accepted within a "reasonable time"
+- When evaluating this, courts usually look to industry practice or similar cases

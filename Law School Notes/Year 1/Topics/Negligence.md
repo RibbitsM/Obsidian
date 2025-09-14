@@ -1,2 +1,3 @@
 - Usually arises in the case where your property causes harm to another person
 - Can apply to a vast array of different cases
+- Damage to land caused by a failure to take reasonable care
