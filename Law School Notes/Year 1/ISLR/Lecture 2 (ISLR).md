@@ -1,0 +1,71 @@
+- Aboriginal law refers specifically to Canadian common law as it applies to indigenous people, for example section 35(1) of the 1982 Constitution, and other title right laws
+- Indigenous law refers to the legal systems of indigenous groups, separate from Canadian law
+- And Grandma Said - Tom Porter
+- The Thanksgiving address serves the purpose of building consensus, it is often recited at the beginning of council meetings to bring the members of council together
+- Line on the Hiawatha belt stretching off the side of the belt symbolizes how the Great Law of Peace exists outside the Haudenosaunee confederacy
+- Telling the full [[The Great Law of Peace|Great Law of Peace]] usually takes multiple days, and is often done in multiple languages
+- No single canonical version, there are multiple written versions of the story
+- Each person the Peacemaker encounters he tries to restore them to a peaceful state of mind
+- Nothing he does is rushed, he thinks carefully before acting
+- The Great Law of Peace is meant to be spread, and also must be constantly reinforced
+- White pines are a symbol of stability and strength, tallest tree in the forest, resistant to fire, and can stand for hundreds of years
+- Tree of Peace serves as a constant visual reminder of the Great Law, you can look up and see it pretty much anywhere in the forest
+- Great Law creates familial relationships between all those who follow it
+- This is also why Haudenosaunee spiritual practices describe aspects of the natural world as relatives
+- Clans live on opposite sides of the longhouse, and you cannot marry someone within your clan
+- Also serves the purpose of tightening bonds between clans and also increasing interdependence within the various clans
+- Wampum are made out of a combination of quahog and whelk shells
+- The original Condolence was between the Peacemaker and Hiawatha, also marks the first wampum and the creation of the Three Bare Words
+- Important part of the grieving process, also used before meetings or when a chief is installed
+- Wampum is used to consecrate and ratify law, every time it is used recalls the Great Law
+- The Circle wampum representing the 50 chiefs has three beads separating every strand which represents the three key concepts of peace, power, and righteousness
+- Chief is a pseudo-hereditary title, being related to a chief will not guarantee that you will become a chief
+- All chiefs also have a subchief that sits with them and a runner that sends messages
+- Clan mothers nominate the chiefs, name their own successors, and are mainly accountable to their clans
+- However, there is still an extensive process for inducting new chiefs including an involved Condolence ceremony where the clan mother names the new chief
+- Mainly have responsibilities related to continuity, naming rights and death rites for chiefs are examples of tasks held by a clan mother
+- Also responsible for preparing food for the chiefs
+- The Tuscarora wampum belt represents expanding the roof of a longhouse, represents how the Tuscarora were brought under the Great Law of Peace
+- Covenant Chain has three principles: trust, respect, and friendship
+- These principles are in a specific order, you must have trust for respect, and you need both trust and respect for friendship
+- [[R c. Montour]] enshrined the Covenant Chain as a legally binding treaty, this decision has been appealed by the Canadian Attorney Generals but the appeal hasn't happened yet
+### Cree Law
+- Darcy Lindberg describes Cree legends as making up a legal philosophy
+- Serve as examples of the elements that make up the Cree worldview
+- Five dialects of Cree, the one used in these stories is the "Y" dialect also called the Plains Cree dialect
+- This is the most spoken Cree language and comes from the same language family as the Blackfoot language
+- Cree is a polysynthetic and fusional language, words are often created by fusing smaller words together to represent new ideas by merging concepts
+- The story of [[Pity and Compassion in Cree Law#Âpakosîs|Âpakosîs]] provides examples of Cree law, especially in terms of how we should practice our relationships with other people and nature
+- For example, the mouse giving the eye to the cougar shows the importance of trusting dangerous people
+- In Cree law there are terms for transgression or trespass that are distinct for offences towards other humans and offences against nature
+- Offenders are brought to a council where they have the opportunity to explain themselves to each chief in turn, before finally being sentenced
+- Usually punishment is exile or death if they are found guilty
+#### Cree Land Laws
+- Land title is relational, as the Cree understand that they are related to the land
+- Common thread of asking permission to take from the earth
+- No human can truly "own" land, usually land is understood as a gift or loan from the Creator that they are responsible for taking care of
+- Other gifts include the gift of life, movement, mind, breath, and fire
+- These are all loans that must be returned to the Earth upon death
+- Cree and their neighbours all had marked territorial boundaries that were not to be crossed on threat of violence
+- Cree law forbids the harming of travellers passing through these territories, and there is also a ban on violence against pilgrims
+- Occasionally other contests were used in place of violence such as dancing, archery, and horsemanship contests
+- Everything in the land is thought to be imbued with a spirit
+- Treaties are considered sacred and binding under natural law, meaning divine punishment will be meted out to those who break these treaties
+- These laws apply to everyone within Canada, whether you were under the Crown or in an indigenous group
+- Darcy Lindberg argues that Cree law has a a crucial aesthetic aspect
+- Cree law is "beautiful" in the sense that it uses ceremony and tradition to imbue a "persuasive aesthetic" to practicing Cree law
+- This is a key element that has kept this legal order alive
+- Aesthetics of ceremony allow transference of Cree law over generations
+### Indigenous Law in Court
+- Canadian courts have occasionally recognized indigenous law, it is possible that indigenous legal practices have been absorbed into common law
+- Additionally, indigenous courts are given deference on matters relating to indigenous law
+- In the Tshil'qotin decision, the BC government gave indigenous and aboriginal title right law equal weight
+- Aboriginal title right is just land ownership, but what most indigenous groups really want is sovereignty, not just ownership
+- To do this, indigenous law needs to be acknowledged as the grounds for aboriginal title right, instead of it just originating from public law
+- Aboriginal title right also has a higher burden of proof compared to common law title rights
+- This is because it requires not just proof of possession but also evidence that it was property of that group under indigenous law
+- This is really important for the emergence of indigenous law as an equal legal system as this is an example of Canadian law deferring to indigenous legal systems
+- Because of this additional burden of proof, it should come with greater freedom
+- The *Mitchell* decision did incorporate indigenous law into common law, but this removes a lot of the original essence or aesthetic of the law
+- Also there is a clear power imbalance where the Canadian government has shown it is willing to trample over indigenous law when it doesn't serve their interests
+- Clear recent example were the injunctions enforced against Wet'suwet'en protestors

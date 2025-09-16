@@ -1,0 +1,12 @@
+- Begins with a criticism of [[Multiple-variable Essentialism]]
+- If a party wants to prove a proprietary right, they have to show that their case fits into a set of premade boxes
+- This is called the *numerus clausus* principle
+- In civil law, statutory law is the only source of property rights, but common law opens this field up to the courts
+- Despite the ability of judges to interpret new laws, this has rarely been applied to property rights, and instead *numerus clausus* has mainly been held up in place
+- This approach seems to have originated from the *Keppell v Bailey* case where the judgement was heavily against novel forms of property being created
+- However, this is specifically written as opposing the capacity of parties to create new land rights
+- Says nothing about the ability of the court to do so
+- Despite the primarily unchanging nature of *numerus clausus*, there are examples of new forms of property being created
+- In fact, fourteen years after *Keppell* another case by the name of *Tulk v Moxhay* held that ????covenants could run with freehold land in equity????
+- There is also a minor amount of flex within *numerus clausus* as it also does not allow significant easements to the existing definitions of property
+- 

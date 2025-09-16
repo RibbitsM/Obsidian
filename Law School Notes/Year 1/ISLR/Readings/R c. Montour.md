@@ -52,7 +52,8 @@
 - There are three words which are key to the Great Law
 - The first word is peace, which is the ultimate goal of the law
 - The second word is presence of mind, meaning peace requires clear thinking and an intention to engage with the goal of creating peace for all
-- The third word is peace process, meaning that we have a way to be at peace
+- Also can be translated as "righteousness"
+- The third word is peace process, meaning that we have a way to be at peace, also often translated as "power"
 - Also can mean "capability for peace"
 - Without all three words together, peace is impossible
 - These are all vague translations of the original three words
@@ -67,4 +68,3 @@
 - This idea was rejected as frequent meetings are key to resolving differences
 - As long as Chief Nelson has been in power, the only discussions between the Mohawk and the Crown took place during the Oka crisis
 - They saw this as a sign for more discussions to come, but none ever came
-- 

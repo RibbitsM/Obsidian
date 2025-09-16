@@ -1,0 +1,80 @@
+- Canada has an adversarial trial system, as opposed to the inquisitorial system
+- Evidence is introduced through the oral testimony of witnesses
+- Relevancy of evidence is measured by how much it makes something more or less likely
+- For example, the Crown introduces evidence that the car involved in an incident has a top speed of 250 km/h
+- This is relevant because it may be good for determining the speed of the car
+- Evidence being material just means that it relates to the case in some way
+- Even if the top speed helps us determine the speed of a car, this is only material if the case has something to do with the speed of the car
+- Witnesses are questioned by the Crown counsel to elicit the evidence they are trying to express
+- The defence counsel then cross-examines the witness, trying to elicit evidence to the contrary or getting the witness to walk back their previous claims
+- During this time the judge does not interject, unless they are unable to hear something or a break (*voir dire*) is needed to determine the admissibility of evidence
+- Real evidence is also introduced via a witness who can attest to its relevancy
+- Documentary evidence is distinct from real evidence as it refers to a record
+- Often, there are special rules for introducing records without a witness present, classic example is a [[The Adversary System#Introduction to Evidence|breathalyzer certificate]]
+- Then, it is up to the trier of fact (judge or jury) to determine if this evidence is credible
+- Judge makes the findings of law, meaning he explains the relevant charge to the jury as well as the elements of the charge
+- They will also usually summarize the evidence for the jury and help match that evidence to the elements of the charge
+- However, they do not give any guidance on determining a verdict
+- A jury will them deliberate and come to a verdict, or in the case of a judge trial, the judge will read the verdict as well as their legal reasoning
+- This is a basic summary of the process between a charge being laid and a verdict being made
+- Rules of evidence come from statutory law, common law, the criminal code, and the Charter
+- Means that determining what is and is not admissible is very difficult
+- Common law rules of evidence are generally the most important, most evidence law is found in the common law, supplemented by the Charter and statutory law
+### Burden of Evidence
+- Crown holds two different burdens, the persuasive/legal burden and the evidentiary burden
+- Persuasive/legal burden means they must prove guilt beyond a reasonable doubt
+- Evidentiary burden means they must present evidence that *if believed* would be sufficient to prove guilt beyond a reasonable doubt
+- The test for this is the "no evidence" motion, allowing the defence to request the judge to determine whether the evidentiary burden has been met or not
+- Also takes place during the preliminary inquiry if there is one, if the evidentiary burden is not met during this inquiry the course doesn't proceed
+- If this happens, the accused is discharged, which is slightly different from acquittal as there are certain circumstances where charges can be relaid
+- Generally the Crown holds both burdens, but it can occasionally be transferred to the defence
+### Beyond a Reasonable Doubt
+- The persuasive/legal burden can also be limited to a balance of probabilities as opposed to beyond a reasonable doubt
+- This just means that the issue must be proven to be more likely than not
+- If we were to place this on a scale from 0-100, the threshold for balance of probabilities sits at 50
+- The question remains of how this compares to beyond a reasonable doubt
+- The *Lifchus* case is a great example of the importance of explaining this concept
+- After all, in a jury trial the judge is responsible for explaining the standard to the jury
+- The result of this case were a number of guidelines on what to do or not do when making this explanation
+- First was to not use synonyms like a "haunting" or "serious" doubt, which further encourages a subjective interpretation
+- Second was to not describe it as an ordinary decision, it is inappropriate to compare this to even the most important decision in ordinary life
+- Very rare for someone to use this standard of proof outside of court
+- Also should not describe it in moral terms, as different members of jury may vary in their morals
+- Cannot describe it in terms of being "sure" or "certain", as this sets an unreasonably high standard
+- Another example was that a reasonable doubt is one that would linger with you and bother you afterwards, similarly unhelpful to the synonym example
+- So what should we say?
+- Proof needs to be based solely on evidence or lack thereof
+- Decision should not be based on sympathy or prejudice
+- More than a balance of probabilities, but less than absolute certainty
+- Cannot be imaginary or frivolous
+- Also remind jurors that the burden of proof always lays on the Crown
+- Specify that this is a legal term that does not have an easy corollary in ordinary life
+- Make sure to specify that if you only think the accused is "probably guilty", you should acquit
+- Think of it like a t-test slider, the closer you move your slider towards absolute certainty, you reduce the number of false positives but also create more false negatives
+### R v Starr
+- Reminder that there is no incantation, just because the trial judge did not exactly follow the example charge from *Lifchus* does not expose a case to appeal
+- In this case, the judge emphasized that proof beyond a reasonable doubt is less than absolute certainty, but went on to describe the terms as an ordinary concept
+- Expressly stated that a reasonable doubt in the legal sense is no different from how you would think of it in ordinary life
+- In this case, the judge succeeded in describing reasonable doubt in some ways, but they mainly erred in not describing reasonable doubt as a legal term
+- Didn't express the link the evidence, and instead described reasonable doubt in moral and subjective terms
+- Also failed to distinguish reasonable doubt from balance of probabilities
+### Credibility
+- Another issue to consider is how this relates to the evaluation of the evidence
+- Prominent example is the scenario where there are two witnesses, the accused and the complainant with no clear way to evaluate their testimony
+- A recent example of this is the R v JHS case
+- In this case, the judge used the "W. (D.)" instruction
+- This is an instruction from a previous case with a similar scenario
+- Basically informs the jury that if they believe the testimony of the accused, or if they accept it with a certain degree of reasonable doubt, they should acquit
+- In many cases like these, the jury may have a false notion that they need to determine which party they believe and which one they don't believe
+- However, this ignores the fact that the accused has the benefit of the doubt
+- Additionally, there is always the possibility that the jury does not believe either witness
+- Even if you are not convinced by the testimony of the accused, you have to consider whether you believe them to be guilty beyond a reasonable doubt based on the evidence you do believe
+- However, this instruction becomes pretty problematic when you consider that the vast majority of cases like these are sexual assault cases
+- In the example of R v JHS, the defence mainly relied on bias and stereotyping the complainant as their primary form of defense
+- But considering the W. (D.) instruction, practically any evidence at all presented by the defence indicates that you should acquit
+- Very easy to create at least some level of doubt in a "he said she said" case
+- But always opting to acquit is just as much of an error as choosing one person to believe over the other
+- The W. (D.) instructions also largely ignore the agency of the complainant by leading the jury to focus solely on the testimony of the accused
+- In this case, the jury initially convicted but was overturned by the Nova Scotia Court of Appeal as the judge failed to explain what to do if the jury believes neither witness
+- However, the Supreme Court found that this argument came too close to relying on W. (D.) as a "magic incantation" and reversed the appeal
+- 

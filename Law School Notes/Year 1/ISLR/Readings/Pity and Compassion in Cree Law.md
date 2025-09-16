@@ -8,6 +8,7 @@
 - These two words are key legal principles of the Cree that guide the relationships between the stories and characters of Cree epistemology
 - Uses the practice of kiskeyihtamowin which means the pursuit of learning and knowledge as the basis for a Cree research methodology
 - This is a relational methodology, meaning all knowledge gained from it is understood to be contained with the relationships between living beings
+- For example, the teachings in this article mainly came from the author's relationship with his grandparents
 - For the author, this knowledge comes from his heritage, language, spirituality, and experience living and spending time with his Cree relatives
 - Mentions a metaphor created by Darcy Lindberg that uses braiding as a metaphor for writing about indigenous law
 - By taking multiple different sources of law and weaving together, you can create a single robust analysis that is stronger than the sum of its components
@@ -45,6 +46,8 @@
 - Story teaches us the importance of faith through the journey and commitment of the mouse, and the importance of care through the gift of the eyes to the raven and cougar
 - Also shows the humility of the raven and cougar for being willing to ask a mouse for help
 - Another key aspect to this relationship is that they help each other despite being different species
+- The relationship between the mouse and the frog is also relevant, as it is an example of how important it is to have a wise mentor that will encourage you
+- Without the frog's guidance, the mouse may not have learned to see with its heart
 - Giving the second eye to the cougar is also important, as in this moment the mouse is putting itself at the mercy of the cougar
 - Shows the importance of trusting and seeing the best in others
 - I lack the wisdom to understand why there is suffering in this world, yet it is an experience that transcends time

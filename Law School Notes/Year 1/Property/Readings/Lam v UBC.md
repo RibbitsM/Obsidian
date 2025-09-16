@@ -1,0 +1,22 @@
+- Issue on the appeal is whether frozen human sperm is considered "property" under the *Warehouse Receipt Act*
+- In the *Yearworth* case, the Court invoked the nominalist conception of property, and specifically mentioned Honoré's list of [[Multiple-variable Essentialism|11 property rights]] 
+- The second of which is the right to use at one's discretion
+- Keep in mind the Yearworth case also addressed the question of whether or not sperm is property
+- As such, we should consider whether this right to use was demonstrated in the case and if that right was damaged by the breach of care on the part of UBC
+- In *Yearworth*, the court found that the claimants did not have ownership of the sperm in terms of a negligence claim
+- However, this leaves open the possible of them having other rights to the sperm, namely enough for a bailment claim
+- In this case the claimants would be the owners of the sperm but transfer possession to the defendant for freezing purposes
+- Specifically mentions how the common law has to evolve over time, including in response to biotech
+- Not all of Honoré's incidents of ownership need to be present
+- Especially when it comes to body parts, ownership is highly contextual
+- For example, if a cancer patient cuts her hair and stores it to make a wig of later, she would still own that hair
+- Legislation also prevents the sale of sperm and organs which limits at least one property right, but does not prevent their donation
+- This does not mean you cannot own your organs, just that there is a limit to your ownership
+- The rights of the donors in the *Lam v UBC* case are as follows
+- Donors contracted to store their sperm for future use, paid for that storage, and consented to the sperm being tested
+- Also had the ability to terminate the agreement or consent to release the sperm to their physician to be used by their spouse
+- They could also exclude all others from using it in this way
+- They could also consent to the sperm being used by a third party if they no longer wanted to use it for themselves
+- They did not have the right to leave it to someone via will
+- They did not have the right to remove the sperm from storage themselves or to sell the sperm
+- Given all this, the court concluded that the donors had sufficient rights to the sperm to hold a property interest in it

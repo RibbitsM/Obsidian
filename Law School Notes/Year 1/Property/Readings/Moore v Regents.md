@@ -1,0 +1,73 @@
+- Plaintiff was John Moore, underwent treatment for hairy-cell leukemia at UCLA Medical Center
+- Significant amounts of bone marrow and bodily fluids were extracted for the diagnosis, and his spleen was also removed as part of the treatment
+- Portions of the spleen and some of the fluids were sent to a separate center for research purposes, which Moore was not informed of
+- During the time of his treatment, his doctors were actively using his cells for research with the intent to profit exclusively off of them due to doctor-patient privilege
+- Eventually they were able to produce a cell line from this research and patent the cell line
+- The doctors would then receive royalties from this cell line as its inventors
+- Moore sought to sue for breach of informed consent as well as conversion
+- Conversion is a [[Lecture 2 (Torts)|tort]] protecting against interference with personal property interests
+- Theory is that he continued to own his cells after extraction and never consented for their use in medical research, constituting a conversion
+- As a result, he claims proprietary interest in any products created from the patented cell line
+- Establishing conversion requires proof of interference with ownership or right of possession
+- Clearly Moore did not intend to keep possession of his cells after their extraction, but the question of whether he still had ownership remains
+- There was no precedent for a case like this when it first arose
+- We can say for certain that he has no property interest in the patented cell line
+- Because of this, Moore converted to relying on privacy law cases
+- Moore argues that the court has already established proprietary interest in ones self using the precedent of unwanted publicity cases
+- By this logic, isn't your genetic material a fundamental part of your person and should be protected in the same way?
+- However, this doesn't hold up when we consider the actual scientific process
+- The purpose of this research was to create lymphokines, which are a universal entity that have the same structure in every human body
+- There is nothing about Moore's specific genetic information that allowed these lymphokines to be produced, and the resulting lymphokines contain no information unique to Moore
+- Also, California statutory law requires that all human material must be incinerated after scientific use pursuant to the Health and Safety Code
+- This provision was intended for reducing hazards from biological material, but inadvertently also limit control of the former owners of that material
+- If Moore cannot prevent his spleen from being incinerated under California law, it is very unlikely that he can be considered to have a property interest in that material
+- As we discussed earlier, Moore cannot have a property interest in the patent either
+- This is because of US patent law, that specifically only allows the patenting of biological material as a result of scientific innovation
+- It is very clear that the patent for the cell line comes from the fact that it is a product of invention, not as a naturally occurring material
+### Extension of Conversion Liability
+- This case does raise the issue of whether or not conversion liability should be extended to cover biological material, as this is a very unique and novel case
+- There are three reasons why this shouldn't happen
+- First, other policy considerations balance this out
+- Second, this is a problem better left to legislation, not torts
+- Third, conversion is not necessary to protect patient rights
+- In terms of policy considerations, there are two things that conflict with this
+- First, a competent patient has the right to make autonomous medical decisions
+- This is a solid and longstanding concept that allows remedy for patients who were affected by their doctors acting on ulterior motives
+- The second is the need to protect the interests of innocent researchers who are contributing immensely to society and are likely unaware of the situation their tissue donations came from
+- This was in the infancy of the biotech sector, and there was concern that this precedent could impede further research
+- Especially true if property rights were invoked after years of research had already proceeded
+- As mentioned earlier, there are already significant measures in place for protecting patients in cases like these without impeding research
+- Informed consent theories impose liability on the doctors themselves, but conversion is a [[Strict Liability]] tort that would extend liability to anyone handling the research samples
+- Expanding the definition of conversion would slightly strengthen patient rights while disrupting many of the existing practices of the biotech industry
+- "With every cell sample a researcher purchases a ticket in a litigation lottery"
+- This was compared to an earlier case where attempts to extend strict liability to those harmed by pharmaceuticals was rejected for fear of impact on the pharma industry
+- In that case, the defendant had a much stronger argument for extending strict liability and was still rejected
+- Decision was that Moore's claims state a cause of action for breach of informed consent, but not conversion
+### Dissenting Opinion
+- Argues that a lack of precedent is not an indication that this protection cannot be extended, it can just as easily go the other way
+- Also questions the conclusion that the Health and Safety Code actually limits Moore's property interest in his cells
+- Draws upon the "bundle of rights" view of property, arguing that we can't think of property in cells the same way we would think of property in other objects
+- Just because Moore doesn't have control of the disposal of his cells does not mean that he has no property interest in those cells, that right just isn't in the "bundle"
+- After all, the defendants did not feel as if their right to do what they wished with his tissue was limited by this provision
+- Theoretically, Moore could have gone and sent his own cells for research in the same way they did, if his doctors had not concealed the value of the tissue from him
+- Also questions the assertion that Moore's cells are distinct from the cell line
+- There is no indication that the creation of the cell line modified these cells in any way, the process simply multiplies the cells
+- The reason why his cells specifically were used was because they naturally produced an abnormal quantity of useful proteins
+- Also, even if Moore cannot assert a property interest over the patent, the fact remains that the researchers were using his cells for seven years before the patent was issued
+- Even if Moore took no part in the invention of the cell line (which was named after him), it could not have been created without him
+- Also argues that the extension of conversion would not significantly hamper biotech research
+- Points out that the rush to patent new cell lines already does this, as patented cell lines can be used exclusively
+- Also prohibits public disclosure of the line for a year before the application is filed
+- The existing restrictions on cell line research created by profit motive and patent law could not be more restrictive than those created by litigation
+- Plus, they also mention that with appropriate record keeping practices it is entirely possible to determine whether the owner of a tissue sample has consented to its use in research
+- Records like this are already taken to tie samples to a patients medical history and ensure reproducibility
+- Because of this, there is no reason to assume that all biotech research will be subject to lawsuits, only research carried out without consent
+- Also draws on a moral argument
+- Society has determined that people have a property interest in their bodies and that it is unethical to abuse the body or use it for economic exploitation against its will
+- Indirectly compares human cell research to slavery as it takes advantage of the human body as a commodity
+- We should also consider the importance of equity, currently the profits from the biotech industry stay exclusively within the industry and its affiliated universities
+- The third party in this relationship is the patient that is being exploited for their cells with no compensation
+- By recognizing a property interest in ones own body, the courts would allow these patients a path towards remedy
+- Also questions the referral of the matter to legislature
+- Even if legislation is passed in the future, it doesn't stop the court from writing a perceived wrong in the present
+- Finally, leaving issues like these solely to the realm of nondisclosure doesn't allow the patients rights in the proceeds coming from their tissue and is unlikely to succeed in many cases

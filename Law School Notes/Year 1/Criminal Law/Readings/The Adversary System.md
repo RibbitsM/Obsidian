@@ -1,0 +1,21 @@
+- Canadian courts operate on an adversarial system
+- This means that two opposing counsel present their cases before an impartial judge
+- Based on these cases, the judge will then make a decision on which case was stronger, and then sentence of acquit the defendant accordingly
+- This model is also used in the US and Britain, in contrast to the civil law inquisitorial system where the judge actively participates in investigation, evidence, and questioning
+## Introduction to Evidence
+- Most common method of introducing evidence is by calling witnesses
+- Evidence has to be relevant, material, and admissible
+- Evidence being relevant means that it makes an existing proposition more or less likely
+- The court has limited time and resources, introducing evidence to a case that does not affect the final verdict is a waste of those resources
+- Material means that it must be connected to the legal question being investigated
+- For example, describing the appearance of the accused may be relevant for identification, but otherwise is likely to be irrelevant
+- Even is evidence is relevant and material, it may not be admissible if it was collected outside the rules of evidence, for example if it comes from an incompetent witness
+- Also relates to evidence collected in violation of the Charter
+- Counsel can also introduce documentary or real evidence
+- Usually introduced via a witness, if a gun is being admitted as real evidence you need to have a witness attest that it is the same gun found at the crime scene for example
+- Some evidence can be admissible without introduction, for example a statute allows breathalyzer certificates to be presented without the person who administered it as a witness
+- Finally, the judge reserves the right to deem whether evidence is credible or not
+- Even if a testimony is relevant, material, and admissible, the judge may not consider it credible if they think the witness is mistaken or lying
+- They also may accept the evidence as true, but deem it insufficient to prove the point it is being presented to make
+- In a trial by judge alone, the judge will make a verdict and provide either oral or written reasons for this determination
+- In a trial by jury, the judge explains the law to the jury who will then make findings based on the evidence and state their verdict without providing reasons

@@ -1,0 +1,69 @@
+- Generally, the Crown carries the burden of proof for every element of a criminal charge
+- This means that they must prove that element of the charge was met beyond a reasonable doubt
+- This is also the standard the jury must apply to the evidence to reach a guilty verdict
+- This responsibility is called the Crown's legal burden or persuasive burden
+- Crown also has something called the evidentiary burden
+- This is because the defence always had the privilege to motion for "no evidence"
+- Means that if the Crown does not present evidence that *if believed* will prove guilt beyond a reasonable doubt, the accused will be acquitted before a verdict is even made
+- Doesn't happen very often as the Crown isn't supposed to pursue a charge if they don't have enough evidence to prove all elements of a charge
+- Usually happens because a Crown witness doesn't testify as expected
+- This burden also applies in situations where a preliminary inquiry is held
+- A preliminary inquiry is basically a mini-trial where the Crown presents their evidence and the judge determines if it is sufficient to prove guilt *if believed*
+- If the evidentiary burden is not met at this stage, the accused is *discharged*, which is different from acquittal since they never had a case brought against them?
+- There are two provisions that allow these burdens to be put on the accused
+- The first is the reverse onus provision which places both burdens on the accused
+- In this case, they have the evidentiary burden, and a legal burden to prove innocence on a "balance of probabilities" which is a lower standard than beyond a reasonable doubt
+- However, this kind of provision is pretty rare
+- The second is a mandatory statutory presumption, which places the evidentiary burden on the accused
+- In this case, the counsel for the accused must present "some evidence to the contrary" to dispute a presumption, which is fairly common
+- Both of these examples have been previously challenged as violations of Section 11(d) of the Charter which presumes innocence until guilt is proven
+- There also exists "permissive presumptions" which allow the judge/jury to infer one fact from another, but this is not required
+- For example, the doctrine of recent possession allows the judge/jury to infer that the accused knows property was stolen once it has been proven the accused held stolen property
+- Of course, this presumption can be disrupted by presenting evidence to displace this inference
+- There is also a burden placed on the accused when they advance a defence
+- Most defences require the accused to provide an "air of reality" to their defence, which is another way of saying they have an evidentiary burden
+- If this requirement is met, the Crown then has the burden of disproving this defence beyond a reasonable doubt
+- However, some defences like entrapment also require the accused to prove the defence on a "balance of probabilities" in addition to the evidentiary burden
+### R v Lifchus
+- Appeal where the issue of whether "beyond a reasonable doubt" should be explained to the jury and how it should be explained was raised
+- Accused appealed because the trial judge improperly described this phrase during his initial conviction in a trial by jury
+- Should not be described as an ordinary concept, but instead as a special legal term that is distinct from what we would usually consider a "reasonable doubt"
+- The standard of proof we use for decisions in ordinary life is insufficient, even when it comes to the most important decisions
+- This is not a moral decision, it should be made on the basis of the evidence presented
+- Most important thing is that it should not be presented as a subjective term where different jurors will differ on what they consider to be a "reasonable doubt"
+- Doubt cannot be based on sympathy/prejudice, and cannot be frivolous
+- Additionally, the Crown is not required to prove guilt with absolute certainty as this is almost always impossible
+- Doubt should be connected logically to evidence or the lack thereof
+- Even if the jury thinks the accused is probably guilty, this is not enough
+- The result of this case was that the SCC held that the trial judge erred in defining reasonable doubt as an ordinary concept, and a new trial was ordered
+### R v Starr
+- Appeal to the SCC of a double murder case
+- The Crown theorized that the killing was a gang execution, but defence appealed arguing that they failed to prove that the killing was not done by another gang member
+- Same case as the previous one as the trial judge incorrectly explained reasonable doubt
+- Seems like the initial case happened before the Lifchus case, but this case was brought to the SCC after the Lifchus appeal had been held up
+- Problem here was that no distinction was made between reasonable doubt and balance of probabilities
+- Stated that going forward this would be a good way to describe reasonable doubt
+- While the trial judge obeyed most of the recommendations from Lifchus, they mainly used the ones that weaken the standard of reasonable doubt
+- Appeal was allowed, and a new trial was ordered
+### R v JHS
+- In this case, it was found that the trial judge failed to specify that even if the accused is found to be unreliable, there still needs to be sufficient evidence to convict them
+- Sexual assault case, and the two witnesses were the accused and the complainant
+- Because of this, the decision relied on the reliability of the witnesses
+- Trial judge told the jury that they do not have to accept or reject the testimony of the witnesses
+- Not a decision between who to believe between the two, because all that needs to happen is the Crown needs to prove the events alleged occurred
+- However, a court of appeal held that the judge didn't explain what to do if they were uncertain of the credibility of a witness
+- When credibility is the central issue in a jury trial, the judge must explain how credibility relates to the burden of proof
+- Just explaining what the burden of proof is isn't enough
+- Ideal explanation is to say that if you believe the accused, you must acquit
+- If you do not believe the accused but have reasonable doubt, acquit
+- Even if you believe the evidence of the accused, make sure that on the basis of that evidence, you can conclude their guilt
+- This explanation is pretty good, but doesn't specify which parts of the testimony the jury believes
+- For example, their testimony may include believable evidence for their guilt
+- Main issue with the case here was that the trial judge failed to say that if the jury does not believe the accused but still have reasonable doubt, they must acquit
+- In the end, the appeal was allowed and conviction was restored
+### R v Oakes
+- Example of a reverse onus case, the accused was found in possession of narcotics
+- According to Section 8 of the *Narcotic Control Act*, in this case the accused is presumed to be in possession for trafficking purpose
+- This presumption holds unless the accused establishes otherwise
+- Ontario Court of Appeal held that this provision is unconstitutional, appeal made by the Crown
+- 
