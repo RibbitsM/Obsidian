@@ -1,0 +1,70 @@
+- Central issue that all the cases focus on is whether property rights should extend to body parts
+- [[Moore v Regents]] is likely the case that initiated this debate, and is particularly good to read as the majority and dissent are diametrically opposed
+- To summarize the case, Moore was diagnosed with hairy cell leukemia and was treated at UCLA
+- His doctors extracted fluids from him and removed his spleen, which was used without his knowledge to mass produce T-cells
+- This was done because Moore's T-cells were unusually productive in terms of creating lymphokines
+- These made them extremely useful for running lab tests
+- This cell line called the Mo cell line was patented by his doctors
+- A patent allows its creators exclusive use of your invention for 20 years, at the tradeoff of exposing your invention to the world
+- When Moore discovered this patent which was made seven years after his treatment, he sued the doctors
+- Two causes of action in this suit
+- The first was for breach of fiduciary duty, meaning a breach of professional ethics
+- By not seeking informed consent from Moore to use his cells for this research, he broke his code of ethics
+- This cause of action was specifically *in personam*, meaning it is a personal claim
+- Moore would almost certainly win the suit on this cause of action, but would only receive a one-time remedy for the breach of informed consent
+- The second cause of action was for the tort of conversion *in rem*, meaning a property claim
+- This tort applies to interference with possessory or ownership interest in personal property
+- For this to apply, Moore must prove he has ownership over his excised tissue
+- To figure this out, the court must determine whether this falls within the current law of conversion, and if not, should the law of conversion be extended
+- Judge Panelli, speaking for the majority opinion, argues that conversion does not and should not apply here
+- First of all, he argues that no precedent exists for this case
+- Second, argues that because statutory law limits how tissue is disposed of limits the extent of Moore's ownership of the excised tissue
+- Argues that this law strips away enough rights to remove ownership entirely
+- Finally, Panelli argues that the patent applies specifically to the skill and innovation of the doctors that transformed his cells into a novel and useful product
+- Because of this transformative labour, the doctors have sole property rights to the cell line
+#### Dissenting Opinion
+- Like [[Harrison v Carswell]], this is a novel situation that has no precedent, but that is not a reason to shy away from ruling on it
+- Also argues that just because the Health and Safety Code limits the use and disposition of the excised tissue does not limit other property rights that may apply to the tissue
+- Draws on aspects of the [[Nominalism]] approach, just because some rights are not in the bundle doesn't mean that there is no property interest
+- Overall not too different to Panelli, Mosk may be leaning more towards nominalism while Panelli was closer to single variable essentialism, but the core of both arguments is multi variable essentialism
+- The Health and Safety Code certainly didn't limit the doctors from profiting off his cells, so presumably Moore would have had the same rights
+- In terms of the patent, Mosk points to the fact that despite the innovation and skill of the doctors, the cell line could not have been created without Moore
+- Even if he did not actively contribute, he was key to the creation
+### Should the Law be Extended?
+- Panelli starts by exploring the implications of extending conversion on biotech research
+- Uses the quote that using a cell sample is equivalent to purchasing a ticket in a litigation lottery
+- This is a weird version of the tragedy of the anti-commons, an idea created by Michael Heller
+- Came from an observation that many stores in post-Soviet Russia were closed because there were so many overlapping property interests that it would be impossible to get all the permissions necessary to operate legitimately
+- Similar again to the Harrison v Carswell example, Panelli argues that this is an issue best saved for the legislature
+- Finally, he argues that Moore already has access to a remedy for breach of fiduciary duty, and therefore doesn't need conversion to be extended
+- On the other hand, Mosk disagrees with all of these points
+- Research operations already have extensive data on the origin of tissue samples, and mixing informed consent shouldn't be that hard
+- Not impossible for researchers to know if their samples were acquired ethically or not
+- Also, points out that biotech is already tied up in litigation due to the exclusive access granted by patents
+- Most important part of this argument is the moral argument that all individuals should have inalienable rights to their own bodies
+- From an ethical standpoint, it is unacceptable that others should be able to profit off of your body without any sort of remedy
+- This is an application of the [[Personhood Theory]] of property
+- In terms of the competence of the court, Mosk just argues that even if legislature may eventually make a decision it doesn't stop the courts from doing it now
+- After all, conversion is already part of the common law and exists to evolve
+- Even if Moore gets remedy for fiduciary duty, he doesn't get an interest in the cell line which is the real issue at hand here
+### [[Lam v UBC]]
+- Issue is if frozen sperm is property
+- Sperm was frozen at UBC, and the freezer failed and ruined the samples
+- Donors sued UBC for injury to their personal property
+- Judges in this case turned to [[Multiple-variable Essentialism|Honoré]]
+- Looked at the list of rights available to the donors, and based on these rights determined that sperm were property
+- According to the Warehouse Receipt Act, a warehouser is liable for loss of or injury to goods entrusted to it
+- When proving that frozen sperm is property, the judge noted that not all of Honoré's criteria needed to be present
+- After all, the agreement with UBC limits certain key property rights with respect to the sperm, namely the right to sell
+- As the sperm was considered to be property, this also means it is considered to be a good under the Warehouse Receipt Act
+- Royal Commission on Assisted Human Reproduction at UBC found that the federal government should ban the sale of sperm or eggs, but allow donation
+- This was a contentious issue, attendees were split on whether allowing women to sell their eggs was empowering or an enabler of oppression
+- Decided that creating a market for biological material is generally a bad idea
+- In the US, no such restriction exists so many Canadians just go across the border to purchase reproductive tissue if they need to
+### Numerus Clausus
+- Doctrine that limits the ability for judges to create new property interests
+- Instead, any novel interests must be fit into the existing categories of property interests
+- Because of this, there is a fairly limited variety of property interests in Canada
+- Comes from the *Keppel v Bailey* case where the owner of a railway signed a contract requiring him to buy limestone from a specific source, and later sold the railway
+- Court held that this agreement would not extend to the new owner of the railway
+- The reason is that having the contract come with would be creating a new form of property

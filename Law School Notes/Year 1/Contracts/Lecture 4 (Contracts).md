@@ -1,7 +1,7 @@
 - Read everything, highlight and then take light notes
 - Ended last lecture with *R v Dawood* and the debate over when an offer is made in a retail sale
 ### [[Chapter 2 (Offer and Acceptance)|Offers and Unilateral Contracts]]
-- Famous case of a unilateral contract was *Carlill v Carbolic Smoke Ball Co*
+- Famous case of a [[Unilateral Contracts|unilateral contract]] was *Carlill v Carbolic Smoke Ball Co*
 - Defendants manufactured a medicinal product called the Carbolic Smoke Ball
 - Placed an advertisement stating that they would pay 100 pounds to anyone contracting a disease after using the product thrice daily for two weeks
 - Mrs. Carlill saw the ad, and bought the ball and used it three times a day for 10 weeks until she eventually contracted influenza and tried to claim her reward
@@ -64,12 +64,3 @@
 - The seller responded to a proposed offer with "I will accept your proposition", and the lawyer of the purchaser said "the terms are acceptable" after a draft agreement was sent over
 - However, this was not considered to be a completed agreement as the purchaser later sent another draft agreement with altered terms
 - Since at least one party was continuing to negotiate, this agreement was not considered *consensus ad idem*
-### Battle of the Forms
-- Acceptance, to be valid, has to comply with the instructions given by the offeror
-- There may be a specific way to accept an offer, for example by email or by physical mail
-- Additionally, there may be a specific kind of payment requested like cash, cheque, etc.
-- When it comes to unilateral contracts, courts usually require strict compliance with the actions requested by the offer
-- For example, you can't just bring any cat to fulfill a missing cat poster
-- If an offer has a deadline, the court will not consider an acceptance past that date
-- This deadline can be altered, but if a contract has no expiry date it must be accepted within a "reasonable time"
-- When evaluating this, courts usually look to industry practice or similar cases

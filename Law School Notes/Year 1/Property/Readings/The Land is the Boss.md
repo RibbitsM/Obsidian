@@ -1,0 +1,21 @@
+- Covers the indigenous perspective on a standoff between loggers and environmentalists in Northern Ontario
+- Argues that the loggers wanted to strip their land for profit while the environmentalists wanted to turn their land into a zoo
+- Land is a living entity, you can't just fence it off and leave in limbo forever
+- Even the Ministry of Natural Resources, although it is trying to mediate between environmentalists and the loggers, it still sees itself as an authority on the land
+- Author argues that authority comes from land itself
+- While these loggers may estimate that you can take a certain percentage from the forest and it can replenish itself, but you cannot exceed that threshold
+- The land is the boss, it is up to us to restrain out relationship with it
+- Propose a stewardship model to account different types of land use
+- Anishnabai have stewardship in an area that they will ensure the self-sufficiency of
+- Surrounding the towns in the region, the towns will have stewardship of the land
+- Elsewhere, there will be shared stewardship
+- Every year, an elected council meets to discuss the demands made by the humans in the region, and compare this to what the land allows to be used
+- When people enter this stewardship region, they must buy licenses to use the land and must obey the rules set out by the council
+- Development is undertaken not for profit, but to develop the land to benefit future generations
+- To make a living in this region cannot involve farming, the land is not suited for it
+- Basic needs will be satisfied by harvesting natural resources, working to make a final product of them, and selling them with a logo identifying where they came from
+- This will allow the documentation on how this land contributes to the world
+- Prevents people from just harvesting raw resources for money without an appreciation of the land it came from
+- Gives a more holistic view of your impact on the world
+- This plan needs a long time horizon, it would take about thirty years to even get started and four hundred to see if it is working
+- Also allows Canadians to develop national identity linked to the land

@@ -1,0 +1,103 @@
+- Two ideas of property that exist in tension
+- First is property as propriety, and the second is property as preference satisfaction
+- Identified by Carol Rose
+- Property as propriety applies especially to land property, and is key to the structuring of society and the stability of ownership
+- Usually in this case property is more firmly entrenched and essential to the social order
+- Property as preference satisfaction argues that property in land exists to create fungible packets that can be transferred through the market
+- Over time, culture has moved away from property as propriety and towards property as preference satisfaction
+### Doctrines of Tenure and Estates
+- Estates define the quantity of an interest in land
+- For example, [[Fee Simple Interest]] is the largest estate in Canadian law, since it has a theoretically infinite length
+- Tenure defines the quality of an interest in the land
+- Comes from the Latin word *tenir*, meaning to hold
+- In the common law system, all land is ultimately held by the Crown, although this land may be granted out by the Crown
+- Aboriginal title originates from a system outside common law, and does not apply to this
+- Doctrine of tenure emerged from the structure of [[Land Law|feudalism]], a system coming from Western Europe and lasting from the 8th to 15th centuries
+- Most accounts of feudalism in England comes from the aftermath of the Norman Conquest of England
+- Question for William the Conqueror was how to divide and control the new land of England and Wales
+- Solution was to seize authority over all the land, and divide it up into a thousand property interests which would be distributed among his lords and Anglo-Saxon lords who were willing to subject to him in exchange for vows of fealty
+- These lords would then be able to divide their own lands between mesne lords in a system called subinfenudation
+- This system could keep going down until you have like 15 levels of land ownership between a petty landowner and the King
+- Because of this system, all land in England was held by a lord, meaning all land was granted by someone else
+- Creates a reciprocal relationship between the tenant and their associated lord
+- The tenant receives land from the lord, and in exchange pledges allegiance, as well as being placed under the protection of the lord
+- This system of tenure produced and reproduced a firmly hierarchical social order
+- Feudalism is all about property as propriety, the system of property created the rigid hierarchy of the feudal social structure
+- The main social bond that defined feudalism was this lord and tenant relationship where services and allegiance were pledged in exchange for protection and land
+- This interpersonal relationship was created by the system of property 
+- There was a personal relationship between the two, but also a legal one
+- Doctrine of tenure ensures that all land is held in this manner, every piece of land in England was subject to this lord-tenant relationship
+### Free and Unfree Tenure
+- This system was divided vertically into two different systems
+- In free tenure, you knew in advance what obligations you had in exchange for accepting an offer of land
+- Disputes regarding these obligations were held in the King's courts, which were considered the courts of the common law
+- Unfree tenure meant that you had no foreknowledge of the obligations and were imposed arbitrarily by your lord
+- Disputes for these matters were heard in the manorial courts, which were the courts of your lord
+- Terms of unfree tenure were eventually formalized by the practice of copyhold tenure
+- This was developed by customary law over a long period of time, but these practices never made their way over to Canada
+- There were four different types of free tenure
+- The most common was knight service, which obliged you to provide soldiers to your lord
+- This was the method by which lords raised armies and trained their soldiers, this duty was delegated to your tenants
+- Knight service was the most prestigious form of tenure
+- Second was Frankalmoin, which was religious tenure
+- This obliged you to perform religious services for your lord
+- Third was Serjeanty, which obliged you to perform personal duties for your lord
+- Most common was Free and Common Socage, which obliged you to provide agricultural services, usually a certain quantity of grain to the lord every year
+- This is the form of tenure that eventually made its way to Canada
+- Today, land is held of the Crown in free and common socage
+### Seisin and Incidents of Tenure
+- People never really talked about owning land, the most important thing were what your rights and obligations were
+- Seisin determines who actually holds the interest in land, and existed before landholding registries showed who owned what land
+- Ceremonies called livery of seisin were required to demonstrate the transfer of land but handing the other person pieces of soil from the land as well as the keys to their fort or something
+- Land also held incidents of tenure, which are basically taxes or obligations that came with tenure
+- The most common was homage and fealty, you had to be loyal to your lord and may have to pay them money
+- Also had to pay aid, which is basically emergency funds for paying ransoms and stuff
+- Relief and primer seisin were taxes on transfer of property, you had to pay when land was transferred
+- Payments were also required when land was inherited or a landowner married
+- Only existing incident of tenure is escheatment
+- If a landholder dies and has no eligible heir, the land escheats to the lord
+- Over time, these obligations began to fade as they were less enforced and the sums of money became smaller and smaller
+- These were a source of huge contestation among British courts, most of the provisions of the *Magna Carta* exist to limit the incidents of tenure
+### Transformations in the Law of Real Property
+- Useful to think of the transformation of real property as the accumulation of the present "bundle of rights" we now have as landowners
+- First was the right to transfer land, previously you were able to subdivide your land, but you could not have another lord take your place
+- Instead of subinfeudation, this was substitution
+- Formalized by the *Statute of Quia Emptores* in 1290
+- Gradually, this flattened the feudal hierarchy as people began to just transfer property horizontally instead of created these vertical structures
+- The second right was the right to transfer property upon death, usually to your eldest son
+- This gradually accumulated over time until it was formalizes in the *Statute of Wills* in 1540
+- The last right was the obligations of tenure, over time the system of knight service became less relevant and was replaced with scutage, and eventually abolished
+- In 1660, the *Tenures Abolition Act* abolished all forms of tenure except for free and common socage
+- However, the system where all land was ultimately held by the Crown was preserved
+- This breakdown of feudalism demonstrates a slow but steady conversion from property as propriety towards property as preference satisfaction
+- Question remains of how this history of feudalism matters for our modern legal system in North America
+- Two ways in which this feudal law translated to Canadian common law
+- Under common law, if territory was seized through conquest or ceded through a territory, the local laws of that conquered land still apply
+- For example, when the British conquered the Plains of Abraham from the French and their allies, the French civil code still applied to the land
+- To this day, Quebec uses the civil law system
+- However when the British settled territory they viewed as having no existing law, they brought their law with them
+- This allowed the English common law to spread across the world, by establishing new pockets of land where common law was the law of the land
+- This includes new developments that may occur a part of English common law
+- However, the Doctrine of Reception states that at the moment of settlement, the common law of England is received, and is from there on developed in the colony
+- Means that decisions in English court did not apply, although the highest court in Canada was a British court for a very long time
+- The *Law and Equity Act* of 1858 was created at the moment that the colony of British Columbia was created, and included a provision specifying that the civil and criminal laws of England applied to the colony under the doctrine of reception
+- This was done in light of the Gold Rush which prompted the need for law and order in Western Canada
+- However, the *Law and Equity Act* does recognize that a lot of English common law will not apply to BC, so only "applicable" laws transfer over
+### Tenure in BC
+- Because of this, the British system of landholding was the foundation of property rights in BC
+- There is no allodial land in BC, all land is held in free and common socage of the Crown
+- This is the tenurial relationship, land in BC can still vary in terms of estate
+- At this point, the obligations of socage had all been abolished, but the term remained
+- Finally, this also meant that if an owner died and could not pass on their land, it would escheat to the Crown
+- This is still how it works in BC today, and is specified in the *Wills, Estates, and Succession Act*
+- If someone has no descendants and no will, land goes to their spouse
+- If you have descendants and a spouse, your estate is distributed between them with a certain share going to the spouse depending on who those descendants were
+- This can result in everything going to the spouse
+- What if they don't have a spouse? It goes to your descendants
+- If you have no descendants, it goes to your parents
+- If no parents, then siblings and nieces/nephews
+- Can even go to your aunts/uncles or cousins
+- If all of this fails, you have no living relatives connected by your parents or grandparents and you have no spouse or will, it finally escheats to the Crown
+- According to the *Escheat Act*, if land escheats to the government when someone dies and has no heirs or will, the Attorney General takes possession for the government
+- From here, it can either be converted to Crown land and used or sold on the market
+- Finally, this also has an impact of the [[Lessons for Indigenous Property|Nisga'a Final Agreement]], as it contains a provision where if any Nisga'a land somehow escheats to the Crown, they have to give it back to the Nisga'a

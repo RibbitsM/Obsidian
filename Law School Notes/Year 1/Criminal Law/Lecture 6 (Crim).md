@@ -1,0 +1,71 @@
+- Some offences contain reverse onus clauses, where a presumption is made that the accused must then disprove
+- [[Reverse Onus and the Charter|R v Oakes]] is an extremely important case for these clauses as it provides the first example of one of the clauses being challenged at the Supreme Court under s. 11(d) of the [[Charter of Rights and Freedoms]]
+- Judge in this case created a test designed to see if a clause violates s. 11(d), and more importantly, to see if that violation is justifiable under s.1 of the Charter
+- Called the Oakes test
+- Case took place in 1984, and Oakes was charged for possession of narcotics for purpose of trafficking under s. 8 of the *Narcotics Control Act*
+- To prove this, the Crown must prove that you possess something, it must meet the definition of a narcotic, and you must also be aware that you possessed it and intended to do so
+- For this more serious offence, the Crown must prove that they held it for the purpose of selling
+- s. 8 created a rebuttable presumption
+- If the accused doesn't plead guilty, the case proceeds as a simple possession case
+- Once the Crown and defense have made their arguments, if possession has been proven, the judge may presume that they were in possession for the purpose of trafficking
+- In this case, the onus is now on the accused to disprove this presumption
+- Basically means that if the Crown can prove that one element is present (possession), they can assume that another element is present (possession for trafficking)
+- Accused must "establish" that this presumption is false, which means they must prove it on a balance of probabilities
+- Places the legal/persuasive burden on the accused
+- These presumptions are not exclusively in this act, there are several other statutes from this time that do similar things
+- *Narcotics Control Act* came into force in 1961, but the Charter emerged in 1982
+- s. 11(d) of the Charter constitutionally protects the presumption of innocence of the accused
+- But with this reverse onus clause, it opens the possibility of convicting the accused despite the existence of reasonable doubt
+- It's possible that the accused could be required to disprove the presumption and provides evidence to the contrary, but not enough to convince on a balance of probabilities
+- In this case, the accused would be convicted despite reasonable doubt of their guilt
+- Based on this fact, the Court decided that s. 8 was a violation of s. 11(d) of the Charter
+- However, the Charter also has s. 1 which allows the charter to be violated under circumstances necessary to upholding a free and democratic society
+### Oakes Test
+- To determine this, the court created a test to see if a violation of the Charter should be allowed
+- First, you must determine if there is a pressing and substantial objective behind the violation of the Charter
+- Second, you must be able to draw a rational connection between your violation of the Charter and achieving the objective
+- Third, this objective must be carried out with minimal impairment, check if there is a less severe way to achieve the same result
+- Finally, the benefit of achieving this objective must be proportional to the damage caused by the infringement of the Charter
+- Another variation of the rational connection test for reverse onus tests is proving whether one element of the charge *leads inexorably* to another element of the charge
+- This is almost impossible to prove, only example of this succeeding is presuming that a reading of a certain BAC led to the accused actually having that BAC
+- In the Oakes case, the argument was made that s. 8 failed the rational connection test as someone who only possesses a small amount of narcotics is not guaranteed to be in possession for trafficking
+- This is how the rational connection test was initially carried out, but this is a very strict interpretation
+- If all cases were tested in this way, they are almost assured to fail
+- Over time this test has moved towards connecting the effect of the violation with the achievement of the objective at hand
+- The successor to the *Narcotics Control Act* closed this issue by establishing that trafficking charges apply to cases where the quantity in possession is much larger
+### Evidentiary v Legal Burdens
+- In *Oakes*, the court held that the use of the words "establish" or "prove" imply the existence of a legal burden on the accused
+- In [[R v Downey]], the law instead states that the presumption will hold in the absence of "evidence to the contrary"
+- Not a legal burden, but still places an evidentiary burden on the accused
+- However, the court still held that an evidentiary burden constitutes a violation of s. 11(d) of the Charter
+- In this case, the defendant was charged with "living on the avails of prostitution"
+- According to the charge, if you are living with or habitually in the presence of prostitutes, you are presumed to be living on avails in the absence of evidence to the contrary
+- Recall that this just means you have to create reasonable doubt, not disprove on a balance of probabilities
+- Doesn't create the exact same issue as the reverse onus clause, but the court still held that it violated the Charter
+- Provide the example that the Crown is able to prove that the accused lives with someone who is a prostitute
+- The accused does not adduce any evidence to the contrary
+- If it wasn't for the presumption, the judge would in this case not convict as the only thing proven is that the accused lives with a prostitute
+- Enables the accused to be convicted while reasonable doubt still exists because the proof of one element of the charge does not inexorably lead to the other
+- Then, the Oakes test was applied to the case and the majority upheld the provision
+- Found that there was indeed a pressing and substantial objective
+- When it came to the rational connection section, instead of drawing a connection between the people living together and living on avails they connected the outcome of the presumption and the goal
+- Given that prostitutes are often unwilling to testify against their pimps for fear of violence, this presumption is often the only way to prove living on avails
+- Also, it is very unlikely that someone who is not living on avails would be unable to provide any evidence to the contrary
+- Court also found that the impairment was minimal, and given the importance of the issue it was also considered proportional, and the provision was upheld
+- Both in this case and in Oakes, the charges that the accused were faced with don't exist anymore, both the drug laws and sex work laws have been repealed and rewritten
+### [[R v Morrison]]
+- More recent offence, deals with luring of children online (grooming)
+- Offence can be committed whether the person being talked to is actually underage, or if you simply believe that they are underage
+- This is because a very common way to enforce this offence is through undercover sting operations
+- 2 possible routes to conviction, either there is a real child and you need to prove they knew that, or there is no real child and you prove that they believed they were underage
+- Therefore, all the Crown has to do is prove that the victim was presented as being a certain age, which is really easy for a sting operation
+- To dislodge this, the accused has to provide evidence that they did not believe this representation
+- Same as the evidentiary burden required in *Downey*
+- Argument that the accused made was that he was under the impression that he was engaging in CSA roleplay with another adult (which in a sense he was)
+- Not an inexorable assumption, but it is pretty close
+- The evidence for this that the courts brought up is that lying about your age on the internet is pretty common
+- When it came to the Oakes test, it failed at the minimal impairment test
+- Argued that there isn't really much of a need for this presumption, especially in the case of a sting operation where the police can intentionally draw out incriminating conduct from the accused
+- Another available option would be to criminalize the CSA roleplay that the defendant claimed to be engaged in
+- So far, no amendments have been made since Morrison, but now it is a little more difficult to prove this offence as a result
+- 

@@ -1,0 +1,83 @@
+### Battle of the Forms
+- Acceptance, to be valid, has to comply with the instructions given by the offeror
+- There may be a specific way to accept an offer, for example by email or by physical mail
+- Additionally, there may be a specific kind of payment requested like cash, cheque, etc.
+- When it comes to [[Unilateral Contracts]], courts usually require strict compliance with the actions requested by the offer
+- For example, you can't just bring any cat to fulfill a missing cat poster
+- If an offer has a deadline, the court will not consider an acceptance past that date
+- This deadline can be altered, but if a contract has no expiry date it must be accepted within a "reasonable time"
+- When evaluating this, courts usually look to industry practice or similar cases
+- In a situation where both sides of the agreements are using standardized forms from their respective companies, the terms of these forms may conflict
+- The question is which form represents the actual agreement
+- Using our traditional offer and acceptance analysis, if a form is sent from A to B and B returns with another standard form, this is considered a counteroffer
+- However, if a party performs an action that may be considered acceptance when faced with a form, this will be viewed as acceptance of the terms of that form
+- Most common form of this is in the sale of goods where one party accepts a delivery of goods with an accompanying form, this is considered an acceptance
+- This doctrine which is often referred to as the "last shot" doctrine, tends to favour the seller as they are generally the last party to send a form
+- Example of this is *British Road Services v Arthur B Crutchley and Co*, where a carrier delivered goods to a warehouse with a delivery note (form)
+- When the goods were accepted at the warehouse, an employee stamped the delivery note with a stamp showing the terms and conditions of the warehouse (form)
+- The carrier then handed the goods over to the warehouse employee
+- In this case, the rubber stamp was considered to be the "last shot", and the terms on the stamp were upheld
+- Another important case for battle of the forms was *Butler Machine Tool Co v Ex-Cell-O Corp*
+- In this case, the buyers terms were inconsistent with the terms of the seller
+- The seller signed the purchase order, and wrote back a letter saying that the order had been accepted on the sellers previous terms
+- However, this was not considered the "last shot" as the Court sided with the buyer and asserted that their purchase order negated the sellers original form
+- When the seller signed this purchase order, they were accepting a counteroffer and could not go back to the original agreement
+- Also held that the seller's reference to the "earlier terms" only applies to the price and object of the sale 
+### Communication of Acceptance
+- If we subscribe to the meeting of the minds theory, for an acceptance to be successful, it must be communicated to the offeror
+- Prime example of this is the *Larkin v Gardiner* case
+- Plaintiff was selling her property through her agent
+- Agent received a draft offer from Gardiner, and presented it to Larkin who signed it and returned it to the agent
+- Before Gardiner knew that Larkin had signed the agreement, they sought to withdraw from the deal
+- In court, it was held that Gardiner still had the right to withdraw as Larkin's acceptance had not been communicated to him yet
+- This idea leaves a couple questions
+- Can silence serve as acceptance?
+- What happens if acceptance and revocation letters pass in the mail?
+- How does this apply to things like email or fax?
+#### Silence as Acceptance
+- Two cases where the court has ruled that silence can be acceptance
+- First situation is where the silence of one party is reasonably understood to indicate acceptance
+- Second situation is where the offeror waives the requirement that acceptance needs to communicated
+- First situation mostly arises where there is a longstanding relationship between the two parties
+- For example the main case for this is *St John Tug Boat v Irving Refinery*
+- Defendant didn't have enough tugboats to operate their refinery, and rented some from the plaintiff
+- Contract rented the boats for standby service at a set rate, and was renewed twice
+- After the second renewal expired, the plaintiff kept providing standby services at the same rate without requesting another renewal
+- Conduct seemed to indicate that they were still in a business relationship
+- After a couple months, the defendant argued that the contract ended when it failed to renew and they didn't have to pay any invoices sent after that point
+- Supreme Court determined that the offeror had reasonable grounds to assume that the offeree intended to continue with the contract
+- This meant that despite no explicit offer of renewal, the contract was made implicitly
+- A key fact in this case was that the tugboats are still being used after the renewal
+- As for the second situation, we can look back to *Carlill v Carbolic Smoke Ball Co*
+- This is most commonly associated with unilateral contracts
+- Because of the nature of the contract, performing the terms of the contract is all that it required to accept the offer, not communication is required
+- This was actually an argument made by the defendant in *Carlill*, and was rejected by the court
+- Decision made because of the detailed nature of the advertisement which implied that fulfilling the requirement in the ad was sufficient to accept the offer
+- For example, not everyone who is looking for a lost object needs to notify the owner that they are looking for it
+- While nothing actually prevents this principle from applying to bilateral contracts, courts have been hesitant to actually apply this
+- Makes sense because it opens the possibility of parties unknowingly entering into a binding relationship
+- Sometimes this even goes against the intentions of the parties such as in *Felthouse v Bindley*
+#### Postal Acceptance Rule
+- The main exception to the need for acceptance to be communicated is the postal acceptance or mailbox rule
+- This rule states that an acceptance made by snail mail is effective at the moment the letter is posted, not when it actually reaches its destination
+- Rule is only available if the offer in question is supposed to be answered by mail
+- Usually this means either the offer was sent by mail or if it specifies that it should be answered by mail
+- Still applies today, but is less common than it once was
+- Can apply to offers made by hand, in the *Henthorn v Fraser* case the two parties lived in different cities but the offer was made in person
+- It was heavily implied that the offeree was free to take the offer home and consider it for a few days before answering by mail
+- Main implications of this rule are that it preserves acceptance even if the letter is lost in the mail or if a letter of revocation is sent at the same time as the acceptance
+#### Acceptance and Instant Communication
+- In these cases, the general rule is the same as face-to-face communication
+- While instant long-distance communication does have unique challenges, in terms of time scale it is almost the same as face-to-face
+- Acceptance happens when the offeror is notified of the acceptance
+- Example of this is the *Brinkibon v Stahag Stahl* case where a buyer in London used a telex to send a purchase order to a seller in Vienna
+- Later on, courts realized they had to determine if the contract was formed in England or Austria
+- Based on the general principle, it was formed in Austria as that was where the completion of the offer became known to both parties
+- Not the same as if the agreement was made by normal mail, in which case the contract would have been completed in England when the buyer sent the order
+- First time a legal distinction was made between instant and non-instant modes of communication
+- Determined that the traditional rule of acceptance applies to instant communication, meaning that acceptance happens when the offeror is notified
+- Based on the fact that the offeree would presumably be able to know that their message has not been received, while the offeror would be unaware an acceptance had been sent
+- Does not apply in the case where failure to receive the acceptance is the fault of the offeror or if there is a defect in communication in a situation where the offeror has assumed the risk
+- There have been few Canadian cases related to communication by email, but the presumption is that the *Brinkibon* rule applies to these cases
+- As for e-commerce situations, it has been held that clicking an "I Agree" button is considered to be a valid form of contract formation according to *Rudder v Microsoft*
+- Overall, the postal acceptance rule is the sole exception to the standard rule of acceptance

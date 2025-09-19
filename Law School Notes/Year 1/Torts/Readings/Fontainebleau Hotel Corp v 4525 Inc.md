@@ -1,0 +1,15 @@
+- Dispute between two hotel owners in California
+- Case was an appeal of an earlier court order
+- The original appellant owns the *Eden Roc*, the hotel located immediately north of the *Fontainebleau*
+- Owner of the *Fontainebleau* began building a fourteen-story extension to the building on its property which happens to throw shade on the cabana, swimming pool, and sunbathing areas of the *Eden Roc* from 2 pm onward during the winter months
+- Argument of the appellant was that this would render the beach unfit for the use of the guests of the *Eden Roc*, and materially damage their property
+- Also argued that the owner of the *Fontainebleau* intentionally built the extension on the north side of their property instead of the south side so that it would block their sun
+- At the time of the appeal, the extension is a bit over halfway built
+- Initial trial resulted in a temporary injunction halting construction based on the principle that no individual can use their property to harm another
+- Previously, this principle has been interpreted as meaning that an individual cannot use their property to infringe their neighbour's right to enjoy their property
+- This right involves the exercise of any right of property recognized and protected by law
+- There is no legal precedent in America or elsewhere in the common law that establishes a right to the free flow of light/air between properties
+- Given that the extension was being erected for a useful purpose and does not infringe on any recognized property right of their neighbour, the appeal is allowed and injunction reversed
+- Plaintiff mentioned that in Miami Beach, public policy establishes that landowners cannot build structures that cast shade on their neighbour's property
+- Judge pointed out that this is not an issue to bring to court then, it should be brought to a policy hearing
+- Upholds the principle that landowners have equal rights under the law to build within the confines of their property lines and to the height determined by zoning regulations

@@ -61,9 +61,3 @@
 - For example, their testimony may include believable evidence for their guilt
 - Main issue with the case here was that the trial judge failed to say that if the jury does not believe the accused but still have reasonable doubt, they must acquit
 - In the end, the appeal was allowed and conviction was restored
-### R v Oakes
-- Example of a reverse onus case, the accused was found in possession of narcotics
-- According to Section 8 of the *Narcotic Control Act*, in this case the accused is presumed to be in possession for trafficking purpose
-- This presumption holds unless the accused establishes otherwise
-- Ontario Court of Appeal held that this provision is unconstitutional, appeal made by the Crown
-- 

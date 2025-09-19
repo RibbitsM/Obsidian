@@ -1,0 +1,49 @@
+- Indigenous legal orders are heterogenous, all of the legal orders in this lecture are completely distinct
+- A legal system is a state centered system of law where law is managed by professionals in institutions separate from other social or political institutions
+- On the other hand, a legal order describes law embedded in non-state institutions
+- This includes social and economic relations, as well as spiritual practices
+- Gary Potts was an Anishnabai chief who led a series of blockades against loggers in Northern Ontario
+- Part of a broader protest against the [[Displacement and Assimilation#Treaty Making in Ontario, the West, and the North|Robinson-Huron treaty]] which initially included provisions protecting Anishnabai territory against logging
+- Ontario revoked these protections, and Potts initiated the blockade
+- They attempted to challenge this is the *Ontario v Bear Island Foundation*, which they lost
+- Potts describes his position as existing between the loggers and the environmentalists
+- On one hand he wants to protect the land from destruction, but doesn't want to keep it preserved forever
+- Both of these models involve imposing human desires on the land
+- Best approach is to be stewards of the land, taking only what is needed and listening to the needs of the land
+- The land is boss
+- Shows a willingness to move away from the system where humans are at the center of property and own everything around them and towards a system where property rights are not limited to only humans
+### [[The Principle of Sharing]]
+- The Hul'qumi'num speaking peoples of BC have territory stretching from most of mainland Vancouver across to the Southern half of Vancouver Island
+- However, this territory overlaps with many other territories, including a massive fee simple grant to timber companies in Vancouver Island, as well as Crown land and the land of other indigenous groups
+- *Snuw'uyulh* is a Hul'qumi'num word describing "our way of being on Mother Earth"
+- Could translate to a worldview, or something similar
+- One principle that is part of this worldview is the principle of sharing
+- Indigenous peoples have property systems that are in many ways similar to the European system, they have defined territories that they exclude others from
+- However, they do not see this territory as belonging to them, but as a separate entity that they live alongside
+- Oral traditions of the "First Ancestors" mention the places where their ancestors first fell from the sky
+- These places are considered to be themselves their ancestors
+- Excellent example of human relationship between human and non-human entities
+- Focal point of political authority in Gitksan society is the "House"
+- This is the basic political unit of their society, and Houses are interrelated through kinship, marriage, and other relationships
+- On a higher level, each house is part of one of four larger clans
+- When the Gitksan went to court, they made 113 individual legal claims for each House as they had no centralized government
+- "ayook" is the law derived from the interactions between Gitksan members, Houses, and clans as well as interactions with non-Gitksan people
+- This law is preserved in "adaawk", which is the collective oral histories of a House
+- According to Napoleon, an owned territory is the furthest reach a groups legal order and physical military force reached before you entered the territory of another group
+- Main questions to ask about this territory is how far it extends, and the relationship with the other groups on the borders
+### [[Recovering Canada]]
+- Translation of an Anishnabai conflict into a common law case brief
+- Presented in the [[FIBLAC|IRAC]] format
+- Story is about Nanabush, a trickster folklore character that tricks a deer and kills it to eat it
+- Series of ridiculous events ensues, and he doesn't get to eat the deer and gets chased by people who think he's a deer
+- The issue in this case was whether or not his actions violated the balance in the relationship between humans and animals
+- To find this law, Borrows looks to another story where the Deer Chief required the Anishnabai to honour and respect their lives and beings in life and in death
+- Through his trickery Nanabush disrespected the Deer and broke the balance law established by the *Deer v Anishnabai* case
+### [[Magpie River]]
+- The Magpie River in Quebec is considered a legal person, and is therefore free from being dammed by Hydro Quebec besides a single small dam near its origin
+- This classification is the result of a resolution passed by the Innu people, as well as by the township of Manganie
+- Provides the river with 9 key rights
+- Includes right to live, exist, and flow, right to be free from pollution, and the right to sue
+- Similar to the efforts of the Māori in New Zealand to establish legal personhood for their own rivers and lakes
+- Again, reinforces the notion that property rights may also exist between humans and non-human entities
+- Reminder that law is a cultural construct, albeit a very powerful one

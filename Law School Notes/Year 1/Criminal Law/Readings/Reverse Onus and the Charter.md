@@ -1,0 +1,63 @@
+### R v Oakes
+- Example of a reverse onus case, the accused was found in possession of narcotics
+- According to Section 8 of the *Narcotic Control Act*, in this case the accused is presumed to be in possession for trafficking purpose
+- This presumption holds unless the accused establishes otherwise
+- Ontario Court of Appeal held that this provision is unconstitutional, appeal made by the Crown
+- This is because it goes contrary to Section 11(d) of the [[Charter of Rights and Freedoms]] which states that the accused has the right to be presumed innocent until proven guilty
+- The defendant was charged with unlawful possession of a narcotic for the purpose of trafficking
+- Elected trial by judge
+- Crown provided evidence that he had eight one-gram vials of hash oil, and he was found with $619.45
+- He claimed that he bought 10 such vials for his personal use for $150, and the money was from a workers compensation cheque
+- Did not call evidence relating to possession of the vials
+- According to Section 8 of the *Narcotic Control Act*, the trial judge made a finding that he was in possession of a narcotic
+- Following this, the defendant brought a motion challenging the validity of this section
+- Argued that it imposes the burden of proof on the accused to establish they were not possessing to traffick
+- Goes against Section 11(d) of the Charter
+- Assuming this is a violation of the Charter, still remains the question of whether this is a reasonable limit described in Section 1 of the Charter
+### Does Section 8 Violate the Charter?
+- Section 8 splits the trial into two sections, with the first establishing possession of narcotics and the second establishing intent to traffick those narcotics
+- Two main kinds of presumptions in court
+- A presumption without basic fact is a conclusion drawn until it is proven otherwise
+- A presumption with basic fact is drawn following proof of a basic fact
+- These kinds of presumptions can also be permissive or mandatory
+- A permissive presumption allows the option of drawing the presumption or not, while the mandatory presumption does not
+- All presumptions are also either rebuttable or irrebuttable
+- If it is rebuttable, there are three ways it can be done
+- First, accused can raise reasonable doubt to its existence
+- Second, they may have an evidentiary burden to produce sufficient evidence to bring the presumption into question
+- Third, they may have a legal/persuasive burden to disprove the presumption on a balance of probabilities
+- Finally, presumptions are also either of law or of fact
+- Presumptions of fact require recurring circumstantial evidence while presumptions of law involve legal rules
+- Section 8 creates a permissive presumption with basic fact that can be rebutted by disproving it on a balance of probabilities
+- This is only one interpretation, some courts have interpreted it as only requiring an evidentiary burden, not a legal one
+- In this case, it would not be a violation of the Charter
+- Main argument for section 8 imposing a legal burden is because it uses the word "establish" which is a synonym of "prove"
+- This implies a legal burden
+- Court concluded that Section 8 is a reverse onus provision that imposes a legal burden on the accused
+- The presumption of innocence is likely one of the most important rights protected by the Charter, and has a very long history
+- Also tied to the protection of life, liberty, and security
+- Section 11(d) also importantly requires proof of guilt according to law in a fair and public hearing by an impartial tribunal
+- There have been numerous other judgements on this topic, including 6 appellate decisions that held that Section 8 violates the Charter
+- Considering that Section 8 imposes a legal burden, Court also determined that this violates the Charter
+- Because of the legal burden, this opens the possibility of conviction despite the existence of reasonable doubt
+- If the accused submitted evidence sufficient to raise reasonable doubt but not enough to match a balance of probabilities, they would still be convicted
+### Is Section 8 Justified Under the Charter?
+- Even if it violates the Charter, it can still be protected under Section 1 of the Charter
+- The *Narcotic Control Act* is prescribed by law, so that is not an issue
+- Must be justifiable under the principles of a free and democratic society
+- This must be proven on a preponderance of probability (the civil standard) by the party invoking Section 1
+- This is a pretty high standard to meet
+- To establish that a limit is reasonable and justified, two criteria must be met
+- First, the objective of the limit must be of sufficient importance to override a constitutional right
+- This means that at the very least, your objective must be pressing and substantial to the preservation of free, democratic society
+- Second, the party must prove that the means of doing this are reasonable and justified
+- This requires a "form of proportionality" test which compares the interests of society with the affected groups
+- The difficulty of this test depends on the right being infringed on
+- Goal of Section 8 is to decrease drug trafficking, which can be considered a substantial and pressing matter
+- Drug trafficking has been a persistent problem that is fairly serious, one of the most serious faced by the Canadian criminal justice system
+- However, the reverse onus clause must be rationally connected to the goal of decreasing drug trafficking
+- While it does help arrest more drug users, it doesn't necessarily lead to decreased drug trafficking
+- Possession of a negligible quantity of narcotics does not mean the person is a drug trafficker
+- Considering the irrationality of this clause, it does not satisfy the form of proportionality test, and Section 1 cannot be invoked
+### Conclusion
+- Appeal is dismissed, as Section 8 is inconsistent with the Charter

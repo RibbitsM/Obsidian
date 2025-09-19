@@ -1,0 +1,48 @@
+- Property law has its origins in the feudal system
+- Partially arose as a response to the lack of security resulting from the breakdown of the Roman Peace
+- Smaller landowners would transfer ownership to their larger neighbours in exchange for protection
+- Vassals were required to provide military assistance to their liege when requested
+- They were also able to hold their own vassals in some cases, as long as their liege was the King
+- Within the land of a feudal lord, the lord's court had sole jurisdiction in litigation of land held by the court
+- While most of western Europe was converted to this system, there still existed land without lords
+- By 1086, this system had spread to England
+- Because of the Norman Conquest, all land in England was considered by default to belong to William the Conqueror
+- All land holdings were based on a grant from the King
+- Four different kinds of tenures
+- Knight service obliges the tenant to provide their lord a set number of knights for 40 days per year
+- Serjeanty required personal services, such as being the steward or sword-bearer of the King, and generally land was granted according to the service being provided
+- Frankalmoin requires religious duties, and was granted to either a priest or a religious body
+- Socage consisted of any free tenure that doesn't meet one of the other options
+- Usually required a set amount of agricultural work per year, but could be any number of things as long as they were non-religious or non-military
+### Incidents of Tenure
+- Being a tenant also came with a number of other obligations
+- Most common was swearing fealty to their lord or attending their court
+- Also may require giving financial aid to their lord in emergencies
+- When a lord passed on ownership to their heir, their tenants were entitled to a sum of money, or were able to hold the land themselves until this money was paid
+- Often, young heirs and heiresses would become the wards of the lords who held the territory they were to inherit
+- Lords also had a right to control the marriage of these wards
+- When tenancy ended, it reverted to the next highest owner
+- Wardship and marriage did not apply to socage tenure
+### Manorial System
+- Peasant labour was mainly unaccounted for by the tenure system
+- Each village consisted of a giant farm divided into three fields which were then divided into hundreds of strips owned by members of the village
+- Villages were also largely self-supporting
+- Lord generally owned about a quarter of the land, and had absolute authority over the villagers
+- Villagers had a duty to work on the lord's land, but this duty varied from lord to lord
+- Some lords also taxed their villagers, or paid a fee when taking over their father's land
+- Also villagers couldn't move out or get married without the consent of the lord
+- Over time, the contributions of villagers were standardized to a monetary tax under customary law
+- Other customary rules also emerged which were enforced by the lord's court
+- As a whole, we can refer to the rights to the land, the village, and the villages as "the manor"
+### Copyhold
+- Feudalism generally only dealt with free tenants, the villagers were largely ignored and dealt with using the "court customary" of each lord
+- When a villager was allowed to leave the village, his land was transferred to another villager
+- This occurrence was marked in the court rolls, but to avoid having to go back and check if a future dispute came up, the court would give the new tenant a copy of the court roll as proof
+- Hence the name "copyhold tenure"
+- Over time, law for free tenants evolved
+- The *Quia Emptores* stated that tenants could not grant land to their own vassals and create false steps in the chain of ownership
+- Idea was that every escheatment should bring land closer to the King
+- Also tenures were simplified with most duties to the lord replaced with monetary payments
+- Socage tenure also fell off as hired labour became more popular
+- Most tenure law was removed in 1660 with the *Tenures Abolition Act*
+- Main vestigial feature is the idea of all land in a country originating from a Crown grant

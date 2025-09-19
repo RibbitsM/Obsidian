@@ -1,0 +1,14 @@
+- Generally in the case of a ceded or conquered colony, the previous laws existed until modified
+- For settled colonies, the laws of the metropole applied as long as they were applicable to conditions in the colony
+- Raises the issue of what British laws are and are not applicable in Canada
+- Especially in terms of property law, most English laws were preserved
+- Usually if the application of a law was resisted, it was due to social or economic factors
+- Geographical factors occasionally played a role, especially with bodies of water
+- Biggest departure is in Newfoundland as it was initially envisioned as just being a big fishery that wouldn't be permanently settled
+- There were tons of special exceptions made to specifically privilege fishermen and the fishing industry
+- Overall, it makes sense that Canadian law stuck close to British law, as innovation is a difficult and very risky endeavour, especially with property law
+- Also, at the time there was a pretty pervasive notion of the inherent superiority of the British legal system
+- It was basically seen as the legal embodiment of what was perceived to be universal human morals
+- To be fair, the English legal system did have the advantage of hundreds of years of development
+- Universal adoption of the common law was not pushed though, which we can see by the readiness of the common law to be overwritten by local law
+- Overall, Canadian law was hesitant to innovate much outside of discarding English laws that were obviously unsuited to Canada

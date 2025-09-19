@@ -19,4 +19,19 @@
 - Then, each village was entitled to grant parcels of village land to individual members, called a village entitlement, done under the *Nisga'a Village Entitlement Act*
 - This entitlement can only be owned by a village member and can only be transferred within the village
 - Also did the same with nation entitlements under the *Nisga'a Nation Entitlement Act* which were transferrable within the nation
+- Basically, a village entitlement can only be transferred between village residents, and a nation entitlement can be transferred between anyone in the Nisga'a Nation
 - In 2009, the Nation allowed the village governments to convert village or nation entitlements to fee simple
+- Part of the justification for private property is the efficiency with which it allocates resources
+- This is the [[Economic Theory]], and seems to be the one that the Nisga'a were drawing on
+- There are four villages within the Nisga'a nation, and they collectively agreed to negotiate together based on the Common Bowl philosophy
+- This name comes from the idea of the [[Lecture 2 (ISLR)|dish with one spoon]] which implies a communal approach to property
+- *Nisga'a Lands Designation Act* designated the former Indian reserve land to the Nisga'a villages in fee simple
+- *Nisga'a Landholding Transition Act* was passed in 2009, and enabled village land that was not subject to a mortgage, was not greater than 0.2 hectares, and was zoned as residential to be granted in fee simple to the holder of that entitlement
+- Finally, the Nisga'a set up their own title registration system to keep track of these complex interlocking property interests
+- This system allows the Nisga'a to use their property as an asset, which would enable them to put it up as collateral for a loan that they could use to perform renovations, buy a boat, start a business, etc.
+- An example of this system in Vancouver is the Tsawwassen territory located around Delta and the ferry terminal
+- Any Tsawwassen member of 19 years of age or older are allowed to apply for a Tsawwassen Fee Simple allocation that can be transferred to any other eligible recipient
+- Similar system, but cannot be transferred outside the group
+- By restricting the pool of potential owners, this significantly reduces the value of this asset
+- This is an understandable approach considering Tsawwassen land would almost certainly be bought out from under them immediately if it was sold like Nisga'a land
+- Overall lesson is that property exists for a reason, it is there because it serves a purpose to society

@@ -1,0 +1,27 @@
+- Argues that laws emerge from interpersonal interactions that require some guidance on proper conduct
+- Generally, these laws come from the common denominator of practice
+- This is not true for Canadian law which determines dispute resolution via common law, civil law, and indigenous legal orders
+- The introduction of British common law to Vancouver Island led to the denigration of the preexisting Hul'qumi'num law
+- Reading focuses on Hul'qumi'num property law, specifically its principle of sharing which comes from the core principle of snuw'uyulh
+- This translates to something like "the teachings" or "our way of being on Mother Earth"
+- The principle of sharing determines land ownership and access, and comes from the practices of kin and non-kin access rights
+- Defines property as a set of relational rights that make existing property claims specific, limited, and shared
+- Oral tradition surrounding the First Ancestors of the Hul'qumi'num help explain how this works
+- Ancestors are both associated with parcels of land and embodied in that land
+- Telling stories of the ancestors at these locations affirms their connection to the land and the connection to their descendents
+- These beings were described as being "dropped from the sky" and had preexisting relationships with each other
+- The stories of these ancestors determine the cultural teachings associated with that area and that group
+- For example, the Coast Salish make claims to land based on where their ancestors fell from the sky
+- These stories of the ancestors are therefore the foundation for property rights in Hul'qumi'num communities
+- The group that owns this property is called a *hwunutsaluwum*, and is not determined by blood relations as it would be in Northwest Coastal cultures
+- Instead, membership is mainly based on participation in the community
+- While this is mainly blood related, outsiders or in-laws are able to claim membership if they also claim to be from the same ancestor
+- To validate this claim, they must participate in the ceremonies of that group such as feasts, potlatches, and rituals
+- Individuals may also claim lineage to multiple ancestors
+- Because of this, there is a great deal of flexibility in who can belong to which group
+- In practice, the boundaries of these groups are pretty hazy and are identified by the English surnames of their members
+- For example, the Millers would likely consist of a couple siblings, their spouses, children, and grandchildren as well as a few of their very close friends in the village
+- In summary, property rights are linked to where you live, but also through your extended family
+- To know where you are allowed to gather food, you need to know where your extended family live
+- As a result, territory is considered communal within a kin group
+- Connections are also drawn based on indigenous names, and occasionally these names are given intentionally to create links

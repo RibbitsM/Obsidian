@@ -1,0 +1,40 @@
+- How we think about law is shaped by our experiences, and because of this, indigenous people have begun to associate law with the Western legal tradition
+- This may be accurate in the sense that Canada has a legal system that indigenous groups do not have
+- However, they still have what is called a "legal order"
+- These are systems where law is not embedded in state institutions, but in non-state social or spiritual institutions
+- Law is a process, not an entity, it is something that people practice and follow
+- Indigenous groups applied defined practices to the harvesting and management of natural resources as well as many other aspects of political and social life
+- Law is also bound societally, it is only binding on those that created it
+- We can think of three different kinds of law that come from different sources
+- Positive law comes from a central authority, and refers to things like the constitution or legal statutes
+- Customary law comes from informal social interaction, and refer to social norms and things of that sort
+- Finally there is natural law, which comes from either divine authority or basic human characteristics
+- Example would be biblical law or very entrenched social mores like prohibitions against cannibalism
+- Centrally organized societies like Canada will generally move towards positive law
+- However, the Gitksan are a decentralized society that is made up of hundreds of small kinship groups, which are grouped together through kinship and marriage
+- Gitksan territory is held in trust by the chiefs of each House, but there is no authority over all Houses
+- Gitksan do have law, called *ayook*
+- This is a customary form of law that has been gradually formalized over time via interactions within and between Houses
+- Some indigenous groups draw on natural law, describing their laws as emerging from the fundamental laws of nature
+- In other cultures, law comes from the Creator and is divine in nature
+- No matter what, these natural or sacred laws still require interpretation from flawed human beings
+- This kind of approach can also be found in Western law, but instead of describing principles as divine or natural, we call them normal or rational
+### Recording Indigenous Law
+- As almost all Canadian indigenous groups have oral traditions, how do they record their laws?
+- The Tlicho Nation does this by recording law in place names
+- The name of a place is a record of the events that took place there and have accompanying oral narratives
+- Name of the site tells you what happened there, who was involved, how it was resolved, the importance of the event, and how it applies to their lives
+- Can also provide information about the land itself in terms of what resources are available
+- Law can also be recorded in tradition
+- For example, members of a school became angry when another member left sweet grass out on their desk
+- They believed this was disrespectful and it should be kept hidden
+- When trying to remember why they did this, an older community member stated it was because this began to be done to hide it from the Indian agents and the church
+- As this was no longer necessary, there was no reason to hide it anymore
+- Going back to the Gitksan, they record their laws through oral tradition
+- Each House possesses a *adaawk* which is an oral history of the House including major events, territories, songs, relationships, etc.
+- When behaviour is deemed by the community to be disrespectful, the action in question and the consequences are recorded in *adaawk*
+- Occasionally, this behaviour will even alter the relationship of the House to their territory
+- Within kin groups, there are defined roles that create responsibilities to their affiliated Houses
+- These responsibilities are also reciprocal, and extend to the Houses of their parents, grandparents, spouse, etc.
+- Similar concept exists in Cree law
+- Generally, the legal order of a group will apply over the territory they have control over, and ends where another group's territory begins

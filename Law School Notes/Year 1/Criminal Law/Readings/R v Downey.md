@@ -1,0 +1,48 @@
+- Appellant and his companion were charged with two counts of living on the avails of prostitution
+- This charge requires that given evidence that a person lives with prostitutes, the accused must prove otherwise
+- This places an evidentiary burden on the accused
+- If they do not, they are presumed to be living on the avails of prostitution
+- During the course of their initial trial, an application was made to declare that this section of the Criminal Code (Section 195(2)) violated the Charter
+- According to *R v Appleby*, the word "establishes" in the context of a presumption requires the accused to prove on a balance of probabilities
+- Another case where a presumption rose was *R v Proudlock*
+- In this case, the accused was presumed to have broke and entered in the absence of evidence to the contrary
+- This required them to raise any evidence to create doubt regarding this presumption
+- Also brings up a classification of [[Presumptions]]
+- Names four different options
+- First is a presumption without basic fact
+- Second is permissive presumption with basic fact
+- Third is mandatory presumption with basic fact where the judge draws the conclusion in absence of evidence to the contrary
+- This creates an evidentiary burden for the accused
+- Fourth is mandatory presumption with basic fact where the fact must be disproven on a balance of probabilities
+- This a reverse onus clause
+- So far, it seems to be that the use of the word "establish" in a presumption suggests a reverse onus clause
+- Remember that the test to violate the Charter is if a scenario exists where the accused may be convicted while reasonable doubt exists
+- If the accused must prove on the balance of probabilities to avoid conviction this automatically violates presumption of innocence
+- Theoretically, this does not happen if the element being proven/disproven is guaranteed to convince the trier of fact beyond reasonable doubt
+### Summary of Principles
+- Presumption of innocence is infringed if the accused may be convicted despite reasonable doubt
+- If a statutory presumption requires the accused to establish an element of an offence/excuse on a balance of probabilities, it violates the Charter
+- Even if a rational connection is made between the established fact and the fact to be presumed, this isn't enough to validate a presumption requiring the accused to disprove something
+- Legislation that substitutes proof of an element for proof of an essential element does not infringe presumption of innocence
+- This is only if the substituted element being proven would satisfy the trier of fact beyond a reasonable doubt
+- Still infringes the Charter if it requires conviction in spite of reasonable doubt
+- A permissive assumption that allows the trier to draw inference of guilt does not infringe the Charter
+- Provisions that are intended to provide relief from conviction will infringe the Charter if it must be established by the accused
+- Statutory presumptions infringing the Charter may be justified under Section 1
+### Analysis
+- The presumption in Section 195(2) of the Criminal Code allows the possibility of conviction with reasonable doubt
+- Someone living with a prostitute does not automatically mean they are living on avails
+- Numerous examples of prostitutes with spouses that have self-supporting income streams
+- If the spouse was unable to prove this income to a balance of probabilities, they could be convicted despite reasonable doubt
+- Therefore, infringes the Charter
+- The target of this legislation is to target individuals living off the earnings of prostitutes (pimps)
+- Judging from the great social harm following from this practice, this is sufficient reason to override the Charter
+- While it is not guaranteed, there is a rational connection between having close ties to prostitutes and living on avails
+- Additionally, prostitutes are often unwilling to testify against pimps, making proving this ordinarily quite difficult
+- If an innocent person has a non-parasitic relationship with a prostitute, this should be fairly easy to prove
+- Also, given that this presumption only imposes an evidentiary burden, it is pretty reasonable compared to the alternatives of no presumption or a legal burden
+- Considering the intention of convicting pimps without exposing prostitutes to fear of violence as witnesses and the fairly minor burden imposed on innocent defendants, this is a proportional limit on the Charter
+- Often, all that is required to raise reasonable doubt is cross-examining the Crown witnesses
+- There were two dissenting opinions
+- First dissent argued that it fails the rational connection test as it encourages prostitutes to live and work alone lest they inadvertently criminalize their partners
+- Separate dissent concluded that the provision was too wide, and was not a minimal impairment of the Charter

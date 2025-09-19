@@ -1,0 +1,46 @@
+- Case brief is just a summary of the key aspects of a case
+- In this class we use the [[FIBLAC|IRAC]] format
+- First step in briefing is reading the case, shouldn't take too long
+- Then you should make a citation for the case
+- Next state the facts of the case, only include information that is relevant to the legal issues at play here
+- For example, in a torts case we should mention the cause of action as well as the start of action
+- What is the relevant tort or charge being applied here? When did this issue first come to court?
+- Often, important cases will go through multiple levels of appeal
+- Note any defences used, remedies ordered, or counterclaims made
+- This is the first step of IRAC, identify the Issues
+- The next letter is R which stands for Rule, meaning we should identify the legal principle being applied in this case
+- A is the Application, or how the rule was applied to this scenario
+- Refers to the ruling of the judge, and their reasoning for this application
+- C is conclusion, which is just a wrap up of your brief
+### Appleby v Erie Tobacco Co
+- Facts of the case are as follows
+- Plaintiff is seeking to reverse a decision from a lower court where his request for an injunction was rejected
+- Defendant is operating a tobacco production operation next door to the plaintiff
+- Plaintiff and witnesses complained of the intense unpleasant smell created by the tobacco production process
+- Despite using the latest technology, the smell was not abated
+- As a result, an injunction would require ceasing tobacco production
+- The ruling was that a nuisance has occurred, and an injunction was imposed on the defendant
+- Note that the plaintiff had to bring in other witnesses, it was not sufficient for them alone to complain
+- Court cited a previous decision by the House of Lords that established [[Nuisance]] as an activity that seriously and materially affects the comfort of the plaintiff
+- To determine material interference, we have to look at the local standards of the neighbourhood
+- If the expectations of the plaintiff are considered unreasonable, their request will be rejected
+- For example, if you move into a manufacturing sector, you can't really complain that it's noisy
+- The test of local standards is are the expectations of the parties commensurate with the type of neighbourhood
+- We do not want to set arbitrary standards, instead we determine it through the witnesses
+- The court determined that a remedy of damages would be insufficient, and opted instead for an injunction to cease tobacco production
+- However, the injunction was stayed for 6 months to allow the defendant to adjust to the new situation
+### Application
+- First, we must determine whether the tobacco smell materially interfered with the plaintiff
+- Second, we have to determine whether this smell conflicts with the local standards
+- However, the local standards test is not determinative
+- This is because regardless of the character of the neighbourhood, whoever moved in first, and the suitability for the defendants activities, use of land is not reasonable if it causes substantial discomfort to others
+- Also considered unreasonable of it damages the property of others in a material sense
+- "Material" just means a severe or significant interference, doesn't have to be physical
+### Unreasonable Interference
+- Not all smells or sounds will be addressed by the courts, only interference deemed unreasonable will be considered a nuisance
+- What is considered reasonable is an objective test, look at what the average person in the community would consider to be an interference
+- Remedies will not be issued to individuals who are uniquely affected
+- Can see this in the example of [[Rogers v Elliot]] as the plaintiff was the only one in the community negatively affected by the ringing of the bell
+- As a result, his request for injunction was denied
+- From the perspective of an ordinary person in the community, the ringing of the bell was not a nuisance
+- For the benefit of those who may be litigated against, the courts have a responsibility to only consider what would be an interference in the ordinary sense, not in special cases

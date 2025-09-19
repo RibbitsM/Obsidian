@@ -1,0 +1,11 @@
+- Defendant ran a church that would ring the bell multiple times per day
+- Plaintiff complained that the noise of the bell was causing him to suffer convulsions as he recovered from sunstroke
+- Requested the defendant to stop ringing the bells and he refused, leading the plaintiff to sue
+- Argued that the ringing of the bell amounted to a nuisance
+- Nuisance is generally determined by the level of annoyance caused by a noise or other sensory input to the average person in a community
+- The church in question was on a heavily populated street in the center of town
+- The principles for determining nuisance show us we should consider how the average person is affected, not someone who is particularly accustomed to nuisance or is particularly sensitive
+- Otherwise, we would have no standard to measure by
+- Can't have the definition of nuisance changing every time someone moves in or out of a neighbourhood
+- Plaintiff did not claim that anyone else was bothered by the bell, and focused on the damage done to himself based on his medical condition
+- Because the metric we measure nuisance by is the average person, this does not qualify as a nuisance

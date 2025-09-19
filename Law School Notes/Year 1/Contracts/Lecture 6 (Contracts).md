@@ -1,0 +1,90 @@
+### Revocation of Offers
+- Until an offer ahs been accepted, the offeror may withdraw it
+- Rule comes from the *Dickinson v Dodds* case
+- Once an offer has been accepted (based on the context), you are no longer permitted to revoke the initial offer
+- Power of revoke applies even if the initial offer included a timeline for acceptance
+- Recall that the offeror has the power to [[Lecture 5 (Contracts)|revise the deadline]]
+- Revocation of the offer must be communicated to the offeree, if they are still under the impression that the offer is open to acceptance, they may accept it
+- No matter the mode of communication, revocation of an offer only takes effect once it is received by the offeree, established by *Byrne v Van Tienhoven*
+- In the case of snail mail, a revocation sent before an acceptance will fail if the acceptance was sent before the revocation arrived
+- Also still applies if the offeree learns of the revocation from a third party, as long as the source is credible
+- Usually this third party is a lawyer or other professional agent acting on behalf of the other party
+- In the context of unilateral offers, while the offeror technically has the right to revoke the offer at any point before the contract is performed, the courts try not to enforce this
+- Usually results in finding creative ways to reinterpret the contract in a way that favours the person attempting to perform the act in question
+- For example, arguing that all you have to do to accept the offer is to begin attempting to fulfill the contract, or that it was really a bilateral contract
+- Other method is that the courts can infer an implied element of the contract obliging the offeror to not retract the offer as long as the act in the contract is being performed
+- McCamus uses the example of the "Flagpole Problem" where someone offers $5000 for the act of climbing to the top of a flagpole
+- At any point while someone is climbing the pole, the offeror may revoke the offer before they reach the top and free themselves from the requirement to pay the $5000
+## Certainty of Terms
+- Part of the concept of *consensus ad idem*, but is mentioned much less in the context of certainty of terms
+- Perhaps not exactly the same as it applies in offer and acceptance, but is fairly close
+- For an agreement to be enforceable, the parties must have agreed on the essential terms of the contract
+- What is deemed to be an "essential" term depends on the context, usually industry practice
+- An agreement will fail on certainty of terms if those terms are insufficiently clear or if there is failure to agree on the essential terms
+- Usually the terms of the contract will give an indication of what the contract meant, but in this case it is too vague to determine exactly what was implied
+- Either there was no *consensus ad idem* or it was done in a way that the court can't identify what exactly they were agreeing on
+- Many cases where parties intended to enter a contract, but failed to make a sufficient agreement
+- Therefore, certainty of terms cases don't focus on the intention of the parties, there is an assumption that both parties intended to contract, but fell short in showing that intention in the context of their written agreement
+- Occasionally may result in agreements based more on moral or personal than legal obligations
+- Courts will try to help by filling in the gaps of the agreements, but will never go far enough to actually alter the argument past how it was initially intended
+- If a term in the argument cannot be inferred from either the surrounding context or the other terms of the agreement, the court will not touch it
+- Court attempts to validate the mutual intentions of the parties whenever possible
+- Law of certainty of terms shows the tension between the requirement for both parties to reach a complete agreement and the reluctance to disappoint the expectations that an agreement was made
+- As long as the construction of the agreement by the court is not surprising to at least one of the parties, the construction by the court is warranted
+- Especially relevant when there is a dispute over what specific terms in an argument mean, the courts may look to context to determine the intended meaning
+- Three main issues in certainty of terms
+- Existence of a complete agreement
+- Use of "agreements to agree" to fill gaps in an agreement
+- Excessive vagueness of essential terms
+### Is There a Complete Agreement?
+- Mainly concerned with determining if the absence of a certain term is fatal to the contract
+- Determined by the context of the agreement, the history between the parties, and the conduct of the parties
+- In some industries, it is impossible to reach a full agreement at the time of signing, and in these cases some vagueness or incompleteness is expected
+- However, there are also other contexts where agreements are expected to be complete at the time of signing
+- Kind of agreement matters a lot, what is common practice in this context?
+- The relationship between the parties also matters, if they have created similar agreements in the past and have proven they could make those work, this can help their case
+- Demonstrates that they are used to negotiating with each other and will be able to successfully fill in any missing gaps themselves
+- If it wasn't a problem back then, why is it becoming an issue now?
+- Similar to history, conduct refers to how the contract has been performed to date
+- If the contract has been functioning without issue from some time, why is it breaking down now
+### May and Butcher v The King
+- 1929 case at the House of Lords in Britain
+- Plaintiff made an agreement with the UK government to purchase surplus army tents
+- Required a security deposit, and in exchange the government would sell it to them as it became available
+- However, this agreement did not specify any prices, quantities, or dates of sale/delivery
+- Later on the government backed out and the plaintiff sued
+- Court held that the agreement was incomplete because several essential terms were missing, especially a specific price for the tentage
+- Because of this, the two never had an agreement and the plaintiff could not sue for breach
+- Prices are a classic essential term of an agreement, and generally serves as a sign that an agreement could be considered to be incomplete
+- Agreement did have an arbitration clause which allowed a third party to determine portions of the agreement that the parties could not agree on themselves
+- This would hypothetically include the price of the tentage
+- Basically an "agreement to agree", common feature in incomplete contracts
+- Plaintiff also claimed that there was an intention to buy for a "reasonable" price once the tentage became available
+- Both of these reasons were rejected by the court
+### WN Hillas and Co v Arcos Ltd
+- 1932 agreement between a UK company and a Russian government lumber supplier
+- Agreed to supply lumber for two years, in the first year the plaintiff bought 40k standards of lumber, and the contract allowed him to purchase 100k in the second year
+- Defendant refused to honour the term because the contract was incomplete
+- Initial agreement did not define the dates or quantities of shipments, and specified that the price of the lumber for 1931 would be based on an unreleased price sheet
+- Also mentioned that the lumber was of "fair specification"
+- Despite the vagueness, the parties were able to make it work for a full year, and to a degree that prompted Hillas to order more
+- A lower court deemed the agreement invalid based on the precedent of *May and Butcher*
+- However, the House of Lords found that this agreement was sufficiently complete
+- Key argument was that business agreements are often incomplete in this way, specifying that terms will be agreed upon as business proceeds
+- Just looks incomplete from the outside as someone not engaged in the industry
+- Also mentioned that the court cannot fill in the contract for them, but they can imply how the contract was intended to proceed
+- Overall held that it's normal for business agreements to be lacking details as they are ironed out as the agreement progresses
+- Also pointed to the fact that the agreement functioned fine for the first year
+- This is likely the element that really set this decision apart from *May and Butcher*, as it suggests that the request to dissolve the agreement based on incompleteness isn't genuine
+- After all if it was truly incomplete, how did you carry it out for the past year?
+### Foley v Classique Coaches Ltd
+- 1934 case that went to the English Court of Appeal
+- Agreement was made between Foley and the coach company to sell them some land, but as part of the deal the coach company would buy all their fuel from a gas station owned by Foley
+- The gas station was adjacent to the purchased land, and the price of the gas would be determined "in writing and from time to time"
+- Transaction went through, and the side agreement was respected for several years
+- Eventually, the coach company stopped buying fuel from Foley, who sued for breach of contract
+- Court of Appeals noted that the contract may be incomplete based on the lack of a fixed price in the contract, and went to *Hillas* and *May and Butcher* for context
+- Ruled that the agreement did not fail for incompleteness as it had been partially carried out already, and that the coach company would unfairly benefit if it was voided
+- After all they were not willing to return the land, just wanted to void the fuel portion of the agreement
+- Similar to *Hillas*, the partial performance played a part in the decision, but this element of "unjust enrichment" also significantly affected it
+- Another thing that may have played a part is that determining a fair price for gas at any given time is fairly simple

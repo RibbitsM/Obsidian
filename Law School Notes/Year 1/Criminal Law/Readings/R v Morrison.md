@@ -1,0 +1,39 @@
+- Defendant was charged for child luring after inviting a police officer posing as a 14 yo girl on Craigslist for sex
+- Provision prohibits communicating with someone the accused believes to be under 16 for the purpose of facilitating designated offences
+- This includes sexual touching of a person under the age of 16
+- Child luring is governed by Section 172.1, and sexual touching of a minor is governed by Section 152
+- Defendant argues that three subsections of Section 172.1 were unconstitutional
+- These sections are 172.1(2a), 172.1(3), and 172.1(4)
+- The first of these establishes that the offence is indictable, and holds a minimum sentence of one year and a maximum of 14
+- Second one establishes that evidence that the other person was represented to the accused as being under a certain age is in the absence of evidence to the contrary, evidence that the accused believed they were of that age
+- Short version: unless the accused can provide evidence they didn't, it's assumed they believed the age the other person told them
+- Third section establishes that the accused cannot claim they believed the other person was a certain age if they didn't take steps to ascertain their age
+- Trial judge agreed that 171.2(3) violated the Charter, but did not agree that 171.2(4) was a violation
+- Because of this, there was still an a path to conviction
+- Upon sentencing, the judge determined that the minimum punishment under 172.1(2a) was disproportionate, and violated Section 12 of the Charter
+- Sentenced Morrison to 4 months imprisonment and a year's probation
+- Ontario Court of Appeal upheld the exact same judgement
+- Appealed to the Supreme Court on grounds that 172.1(3) and 1712.1(2a) are not violations of the Charter, and Morrison cross-appealed that Section 172.1(4) does infringe the Charter
+- Decision was to dismiss the appeals on 172.1(3) and 172.1(4)
+### Does Section 172.1(3) Violate the Charter?
+- In order to catch child groomers, this offence criminalizes conduct commonly understood to precede sexual offences against children
+- This means that it is a preparatory crime that intends to capture conduct intended to lead to another offence
+- Doesn't require the accused to even intend to meet with the other person
+- Trial judge and Court of Appeal both held that together, Sections 172.1(3) and (4) enable conviction of the accused despite reasonable doubt that they believed the other person was underage
+- Purpose of (4) is to cut off defenses of ignorance/mistake without evidence
+- Crown has two options here
+- They can either prove that the accuser believed the victim was underage or that they did not take reasonable steps to ascertain their age
+- In the case of an undercover sting, both pathways are available
+- To determine the validity of subs. (3), we have to consider how strong the inference in the presumption is
+- In a sting operation, the crown must prove beyond a reasonable doubt that the accused believed the other person was underage
+- However, with subs. (3), all the police have to do is prove that they represented themselves as underage
+- This does not lead "inexorably" to the conclusion that the accused believed this representation
+- Misrepresentation of age on the internet is pretty common, Morrison actually was also misrepresenting his age
+- Because of this, subs. (3) violates the Charter
+- The Crown did not attempt to justify this infringement under Section 1
+- If they did, it would likely fail the minimal impairment test
+- This is because you could just rely instead on the ability of the prosecution to provide evidence that the accused believed the victim was underage
+- Presumption may make the Crown's job a little easier, but also increases the risk of innocent convictions
+- In the end, subs. (3) was held to be unconstitutional and unjustifiably so
+- The conviction was set aside and a new trial was ordered
+- 

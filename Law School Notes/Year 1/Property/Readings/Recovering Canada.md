@@ -1,0 +1,31 @@
+- Written by John Borrows, case comment on a Anishinabek story
+- Case is named *Nanabush v Deer, Wolf et al.*, and shows the origin of an important principle of environmental law
+### Facts of the Case
+- Nanabush, a trickster figure in Anishinabek mythology, meets a deer in the forest
+- He talks to the deer, convincing it that its eyes are infected and need medicine to cure them
+- The deer allows him to rub berries in its eyes, which incapacitates the deer and Nanabush then clubs it death
+- He prepares and roasts the deer, but before he eats it he becomes irritated by a nearby branch screeching in the wind
+- When he climbs the tree to break off the offending branch, he becomes caught by his wrist
+- Before he can free himself, a pack of wolves come by and eat the roast deer he had prepared
+- When he gets down, the only thing left is the skull
+- He transforms into a snake to crawl inside the skull and eat the brains, the only thing left on the deer
+- When he transforms back, he has the deer skull stuck on his head, which leads a nearby group of people to think he is a deer and start chasing him
+- Eventually, falls and the deer skull breaks on a rock, freeing him
+### Issue
+- Anishinabek culture places high importance on the respect and dignity of animals
+- We know that Nanabush broke the law by tricking the deer and damaging its corpse by looking to precedent
+- In a previous case named *Crow, Owl, Deer et al. v Anishinabek*, we can see the origin of this law
+- In this case, the deer, moose, and caribou were captured by the crows
+- In response, the Anishinabek went to war with the crows to free them, although the deer did not seem to care
+- When a truce was called, the Anishinabek asked why they did not wish to be freed
+- The Chief Deer stated that the Anishinabek had historically wasted their flesh, desecrated their bones, and ruined their homes
+- They preferred to stay with the crows
+- To make amends, the Anishinabek promised to honour the spirits of the deer both in life and death, and always leave tobacco a leaf on the spot where they take a deer
+- This case established the principle that Nanabush would later break
+### Resolution
+- Nanabush clearly broke this principle by tricking the deer, breaking its skull, allowing its body to be desecrated by wolves, and failed to leave a leaf of tobacco
+- A dissenting judge, Justice Wendigo, argued that the deer caused its own death by foolishly believing Nanabush's ruse
+- He based this on the previous case *Rest of Forest v Birch Tree* where a birch tree was whipped by the nearby pine trees for boasting of its superior strength and beauty
+- Wendigo J argued that the deer acted pridefully, which led to its downfall
+- However, this fails to account for the treaty made in the *Crow, Owl, Deer, et al. v Anishinabek* case
+- Overall, the conclusion of this case set a strong precedent for the Anishinabek to follow in their hunting practices

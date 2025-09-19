@@ -1,0 +1,55 @@
+### [[Rogers v Elliot]]
+- Court held that the defendant was especially vulnerable to the noise of the bell, and that it was not a nuisance as it did not affect ordinary people in the area
+- Based on the test of whether the offending sensation was an annoyance to an ordinary member of society, the judgement was given for the defendant
+- Nuisance is not intentional, and to determine the existence of a nuisance the court must weigh the rights of the plaintiff to use and enjoyment of property against those of the defendant
+- Establishes the experience of ordinary people as a standard for measuring reasonableness
+### [[Fontainebleau Hotel Corp v 4525 Inc]]
+- Unlawful interference is conduct that is against the law
+- If the court determines that your conduct has violated the legally protected rights of another, that is considered unlawful interference
+- If all the elements of interference have been proven, it is already unlawful
+- Interference must be substantial, sustained, and unreasonable
+- Decision is not simply whether there has been harm to the plaintiff, but if there has been a violation of a legally protected right
+- A plaintiff can be harmed, but still not have remedy in law if the defendant did not violate a recognized right
+- For example, do property rights recognize the right to a view?
+- Constructing a new building that blocks your nice view may be harmful to you, but it does not obstruct any recognized property right
+- Also, malice plays a role in nuisance as well as it adds an intentional aspect
+- In this case, a luxury hotel located next to another hotel constructed a new addition that would create a shadow on the sunbathing area of the other hotel
+- Lower court issued an injunction on the grounds that this violated the principle that one should never use their property to injure a neighbour
+- However, this was an unusual decision as the traditional interpretation of this rule was that one should not use their property to violate the rights of another
+- As long as the use of their property is lawful and reasonable, it is permitted
+- Again, this means that cannot deprive their neighbour of any property rights protected by law
+- Based on the lack of precedent, the courts established that there was no established right to the free flow of light/air across property lines
+- Torts can only protect existing rights, it cannot create new rights
+- Uses the example of *Aldred's Case* where Chief Justice Wray pointed out that while having a lovely view from your house is nice, the law does not protect nice things
+- Also plaintiff pointed to public policy to show that Miami Beach protects the right to sunlight on coastal property
+### Key Takeaways
+- Overall we can define a tort as this:
+- Sustained activity resulting in **material**, **unreasonable**, and **unlawful** interference with rights of the use an enjoyment of land
+- The key words here are material, unreasonable, and unlawful
+- Also, interference in a nuisance case usually emanates from a property, which generally means things like noises, fumes, smoke, smells, or liquids
+- When it comes to public versus private nuisance, what really matters is the number of people affected
+- Different from private nuisance by public body
+- Material interference is determined by the local standards, and new acts of nuisance are not subject to local standards
+- Demonstrated by [[Chapter 1 (Nuisance)|Appleby v Erie Tobacco]]
+- Reasonableness is determined by the ordinary person test, demonstrated by [[Rogers v Elliot]]
+- Unlawfulness is determined by the existence of a protected right, demonstrated by [[Fontainebleau Hotel Corp v 4525 Inc]]
+- Malice is a largely irrelevant element, but can occasionally strengthen a plaintiff's case
+### Public Policy and Nuisance
+- Recalling Appleby v Erie Tobacco, the remedy was an injunction, but stayed for 6 months
+- The reason it was stayed was because they were giving the tobacco company time to adjust to the change and perhaps try to find a way to dampen the noise
+- This is an example of a policy consideration, taking into account the social costs of an injunction
+- Social costs refer to the losses incurred by the defendant as a result of the decision
+- Can include loss of income, loss of jobs in the community, any sort of outcome of a business being shut down
+- In Rogers v Elliot, the court specifically mentioned that the ordinary person test was required as it gave a degree of stability that businesses could rely on
+- Also a public policy consideration, limiting the definition of nuisance to benefit enterprise
+- In Fontainebleau, the court argued that in this case, the proper avenue to resolve the issue was through legislature
+- Doing otherwise would amount to judicial legislature
+### [[Privilege, Malice, and Intent]]
+- Written by an ex-SCOTUS judge, covers whether decisions should be purely doctrinal or whether that should be legislative
+- Even when you are making policy decisions, you need to consider the utility gains of the defendants conduct against the utility losses to the plaintiff
+- This is the [[Utilitarian Theories|utilitarian]] approach to judicial legislation
+- Applying this to our three nuisance cases, what do we find?
+- For Appleby, the tension is between a business enterprise and the right of an individual to comfortably exist
+- The courts determined that the rights of the individual were superior
+- In Rogers, the tension was between a religious/social context and the health of an individual, and in this case the former was deemed more important
+- Finally, in Fontainebleau 
