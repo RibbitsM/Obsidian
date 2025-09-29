@@ -1,0 +1,8 @@
+- s. 35(7) of the 1982 Constitution Act identifies Indian, Inuit, and Métis peoples as falling under the category of "Aboriginal"
+- Grand purpose of s. 35 as a whole is achieving reconciliation
+- The term "Indian" does not have a consistent meaning in the Canadian constitution
+- Can either be used to refer to all indigenous groups in Canada which includes Inuit and Métis, or could be more restrictive
+- Supreme Court previously held that in s. 91(24), the term is intended to also include the Inuit
+- Weird to think that the Métis would be excluded here as well then considering they are included in s. 35 and that the Inuit are also non-status Indians
+- Came to the decision that the Inuit were included based on a survey done by the HBC that classified the Inuit as "Indians"
+- Shows that having a distinct language, culture, and identity from the majority of other indigenous groups is not a barrier to being considered "Indian"

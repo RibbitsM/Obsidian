@@ -1,0 +1,22 @@
+- Appellant owned a truck stop, but when the government reconfigured the surrounding highways, he was put out of business
+- Applied under the *Expropriations Act* which provides compensation for business damages caused by statutory authority
+- Ontario Municipal Board awarded compensation on the grounds that if it was not a statutory action, it would be considered a nuisance
+- However, the Ontario Court of Appeal dismissed the award because the Board did not consider two elements
+- First was the local standard, and second was that they failed to consider that the interference was an "essential service"
+- Judge identified four key questions to answer for this issue
+### First Question
+- First question is what are the elements of private nuisance
+- Usually this is determined through a two part test
+- A private nuisance is an interference that is **substantial** and **unreasonable**
+- If the threshold of substantiality is met, then the court will discuss the element of reasonableness
+- According to [[Tock v St John's]], the standard for substantiality is interference that exceeds the local standard
+### Second Question
+- Second question is how reasonableness is determined when interference is caused by public projects
+- Ordinarily, reasonableness is determined by the relevant circumstances
+- Utility to the plaintiff is balanced against the utility caused by the actions of the defendant
+- Determined by factors like neighbourhood standards and sensitivity of the plaintiff
+- Generally, this means that we are trying to see if the **interference** was unreasonable, not whether the defendant was acting unreasonably
+- Of course if the defendant was acting negligently or maliciously this does factor in, but it's not the core focus
+- But, it becomes more important when the defendant is a public authority
+- According *Fleming's Law of Torts*, evidence that the defendant has taken all possible precautions can be decisive when statutory authority is involved
+- 

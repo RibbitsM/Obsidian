@@ -1,0 +1,9 @@
+- When the responsibility for defining words in an offence falls to the court, they run the risk of altering the offence itself
+- In this case, the defendant was drunk and didn't want to drive home, so he called a taxi
+- Couldn't stay in the apartment he was visiting so he sat in his car to keep warm while he waited for the taxi, but fell asleep
+- When the taxi showed up, the driver called the police and he was arrested under s. 253(1) of the *Criminal Code*
+- When Boudreault was arrested, he told the officer to leave him alone because he was going to drive home
+- This section prohibits having care and control of a motor vehicle while under the influence
+- Question is whether this offence requires the individual to pose some risk to people or property
+- Obviously Boudreault did not intend to drive, but does the law account for this?
+- 

@@ -1,0 +1,22 @@
+- Some people complain that Canada has no constitutional protections for private property
+- Different from the US which specifies that any appropriated property must be compensated
+- Also unlike the US, Canada's key bill of rights, the Charter of Rights and Freedoms, includes s. 1 which allows the government to override any of the rights contained within given that this abridgement is demonstrably justified
+- Apparently, the main opposition to including private property protections in the Charter came predictably from the NDP, but also from the Alberta and PEI governments
+- Alberta had concerns about the oil and gas industry, and PEI didn't want interference with their controls on foreign ownership
+- However, the Charter does include some indirect protections, like protection against unreasonable search and seizure
+- Also, the protection of property interests can be used as a justification under s. 1
+- The Charter's rights to freedom of expression and assembly can also be seen as restrictions on the regulation of public property
+- Finally, the Charter also includes provisions that protect against interference with Aboriginal rights
+- The Bill of Rights, the predecessor to the Charter, did specifically include the right to the enjoyment of property and right to not be deprived of it
+- This only applies at the federal level, but some provinces have similar bills like the *Alberta Personal Property Bill of Rights*
+- These provisions can be limited by statutory law if justified, just like in the Charter
+- However, common law establishes that unless clearly stated, statutory law cannot be interpreted to take away property without compensation
+- Remarkably similar to the American right to private property
+- As the case of *Authorson v Canada* demonstrates, Canadian law cannot provide for confiscation of property without confiscation
+- In this case, the plaintiff was a veteran who sued for breach of fiduciary duty after the Department of Veteran Affairs failed to administer his funds that they were holding by justification of his disability
+- No interest was given for money held by the DVA before 1990, and the government had a statute absolving it of liability before that date
+- This was because the DVA recognized that they had failed to accumulate interest on all of these funds and tried to protect themselves from incoming lawsuits
+- Given that this statute gave no opportunity to due process, the courts determined that the plaintiff was entitled to their money under the *Canadian Bill of Rights*
+- Courts suspected that a provision removing property rights without due process was unacceptable
+- However, this argument was not upheld in the SCC as the *Canadian Bill of Rights* could not overrule the statutory provisions preventing liability before 1990
+- Recall that the *Bill of Rights* protects against federal expropriation, but only if the statute doesn't specifically override those protections

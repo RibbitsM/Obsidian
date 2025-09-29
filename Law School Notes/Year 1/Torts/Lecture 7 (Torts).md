@@ -1,0 +1,35 @@
+### [[Bamford v Turnley]]
+- Issue is whether an act that constitutes a nuisance can be excused by the fact that it creates a public benefit
+- Is the value created by the brick-making operation greater than the harm caused to its neighbours?
+- Plaintiff has a *prima facie* case based on the principle of not using your property [[Fontainebleau Hotel Corp v 4525 Inc|to the injury of another]], but we need to evaluate if this case is justified
+- Exceptions to this principle are if the use was necessary for ordinary use of land, and if the activity benefits the public
+- In the latter case, those who suffer must still be compensated
+- Usually these maintenance activities do not arise to the level of nuisance as they are generally short-term and unintrusive
+- The key issue in this case is the latter, and the court decided that the benefit did not exceed the harm caused
+- Those who suffer a nuisance must be compensated regardless, but may not be awarded an injunction
+### [[Miller v Jackson]]
+- Homeowner near a cricket field complained that balls were constantly being hit into their yard, and sought an injunction to shut down the field
+- Trial court accepted the injunction, but the case was sent to an appeal court
+- Judge starts be reiterating the maxim that one cannot use their property to the detriment of their neighbour
+- Rejects this concept, and points out that there are many cases where it is possible for this to happen without incurring liability
+- There is the possibility where both parties can be using their property within their rights and a nuisance will still arise
+- Introduces the test of whether an action is reasonable according to the ordinary use of land in a particular context
+- Even if someone is using their land in a way that causes a nuisance, is it unreasonable?
+- Similar to the average person test in [[Rogers v Elliot]]
+- Therefore, not every act of nuisance will incur liability
+- Argues that using a cricket field to play cricket is the most reasonable way you could possibly use that property
+- Also important to mention that the cricket field had been there for 70 years, long before the existence of the neighbouring houses
+- Pointed out that the cricket field was important to the well-being of the community, and that the plaintiff was particularly sensitive to the nuisance
+- Balance is between the social utility of the cricket field and the plaintiffs interest in the use and enjoyment of their land
+- For Denning, it matters who came first, but this is not really a determination we should be using
+- More important to consider the test of local standards, think of the case of [[Chapter 1 (Nuisance)|Appleby v Erie Tobacco]]
+- It can occasionally matter in certain cases, but it is not a determination of nuisance
+- For example, the fact that a nuisance pre-existed the arrival of the plaintiff can suggest that this is part of the local standards
+- In the end, damages were awarded but the injunction was denied
+### Differing Opinions
+- Other judges ruled that due to the extent of the harm, there was no way to excuse the liability of the defendant
+- Uses the example of *Sturges v Bridgman* to demonstrate another case where who came first did not matter
+- Would uphold the injunction, but stay it for 12 months
+- Another judge agreed that the defendants were liable, but argued that the need to balance public and private interests prevented an injunction
+- Damages was an equitable remedy, and should be awarded instead
+- In the end, the court sided with Lord Denning who suggested awarding only damages to the tune of 400 pounds

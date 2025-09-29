@@ -1,0 +1,69 @@
+- When making an agreement, it is not always clear whether the parties intend to create a legally binding agreement
+- In a family or social setting, the presumption is that agreements are not legally binding
+- However, you can include specific language to ensure an agreement will be binding
+- On the other hand, although commercial agreements are generally considered to be legally binding, language can be included to ensure they are not
+- Agreements are only legally binding if they are made with the intent to create legal relations
+- Some agreements we may think are binding are not, for example courts have found that promises made by politicians are not legally binding (*Canadian Taxpayers v Ontario*)
+- Test for intent to create legal relations is an [[Lecture 3 (Contracts)|objective test]], similar to offer and acceptance
+- Means that if the conduct of an agreement suggests intent to make legal relations, this trumps arguments that they subjectively intended otherwise
+- Intention to create legal relations has a lot of overlap with offer and acceptance in general
+- Main distinction is that offer and acceptance is mainly focused on *consensus ad idem*, but intention to create legal relations doesn't really care about this
+- Less about the substance of the deal, and more about how it was initiated
+- Focus on the relationship between the parties and why the agreement was made
+- Relevant overlap is that we want to consider whether one person can make a binding agreement by accepting another person's offer
+- However, even in this case we can still determine that the circumstances of the agreement suggest that there was no intent
+## Commercial Arrangements
+- Despite the existing assumption of intention to create legal relations, there are a couple of situations where this assumption is disrupted
+### Agreements Not to be Bound
+- One main example of this is if the parties explicitly agree to not be bound by law
+- Usually rely on some sort of "honour clause" which is a mutual agreement to rely on each other's honour instead of the law
+- Comes from a leading case called *Rose and Frank Company v JR Crompton and Bros*
+- In this case, the agreement explicitly stated that it was not entered into as a formal or legal agreement
+- Mentioned that all parties pledge themselves to carry it out with mutual loyalty and friendly cooperation
+- Pretty clearly states that the agreement will not be enforceable in court
+- Rare situation, but it does occasionally happen
+- In this case, there was an argument that the court could still have a role in the agreement
+- However, the appeal court ultimately held that there was no reason why they should try to uphold an agreement like this when it's obvious they are not supposed to
+- No reason to restrict business matters when they want to rely on honour
+#### Tenders
+- Since the decision of *[[Lecture 4 (Contracts)#Tenders and Auctions|Ron Engineering]]*, tenders have been established to consist a legally binding agreement
+- Because of this decision, many organizations now include a provision in tenders to specifically state that submitting a bid does not form a contract
+- This is a very common subset of agreements not to be bound
+- However, if this stipulation is not made, is it still possible for a tender call to not be considered legally binding?
+- In a later case called *MJB Enterprises v Defence Construction*, the court established that Contract A was formed
+- Justified because in order to submit a bid, there is a significant effort required on the part of the submitter, as well as a requirement to pay a deposit
+- Hard to argue that in this case there should not be a legally binding agreement
+- Since these are conditions common to pretty much all tendering processes, it's hard to avoid the precedent of *Ron Engineering* without significantly altering the tender process
+#### Comfort Letters
+- Usually when large commercial loans are given, the borrower will be a subsidiary of a larger company
+- When giving a loan like this, the bank will seek an agreement with the parent company that guarantees repayment of the loan if the subsidiary defaults
+- Sometimes the parent company will not want to, and instead will provide a "comfort letter"
+- Basically a letter saying we pinky promise to not steal all your money
+- Question is whether or not these letters are legally binding
+- Primary case for this is *Kleinwort Benson v Malaysia Mining Corp*
+- This was a House of Lords case where a comfort letter was issued assuring that the parent company's policy was to ensure the subsidiary could repay the loan
+- Eventually the subsidiary went bankrupt, and the loan was not repaid
+- When the bank tried to sue, the courts held that this provision was just a statement of fact of how the parent company was treating their subsidiary
+- Did not imply any future obligation to repay the loan
+- Also cited the fact that the parent company refused to sign a guarantee, and the bank raised their fees in response
+- Indicates that both parties were aware the comfort letter would not be binding
+### Preliminary Agreements
+- In cases like these, the parties are negotiating a future contract, but they haven't yet reached a point where both parties are ready to enter legal relations
+- Difference between a preliminary agreement and completeness is that in a completeness case you have a final agreement that is insufficient
+- In this case, both parties are still working on an agreement and have yet to finalize it
+- Question is here is when the final agreement emerges
+- It's very common for parties to put agreements in written form even if they aren't finished, usually called letters of intent, draft agreements, or memorandums of understanding
+- If a draft agreement does not explicitly state if it is binding or not, can it still be binding?
+- In the *Von-Hatzfeld-Wildenburg v Alexander* case, the court questioned whether the execution of a contract is an indication of intention to enter legal relations or just intent to continue negotiating
+- Is the signing of the formal document the moment a contract is made, or has it already happened?
+- If the parties indicate that the execution of the formal document matters within the draft document, the court will take notice
+- The key phrase usually used for this is "subject to contract", but this isn't a magical incantation
+- However, it's usually a good indication that a draft agreement isn't formal
+- One of the various other names for a preliminary agreement is "letter of intent"
+- Contracts named in this way are often considered unenforceable, but of course this does not apply in every case
+- On the other hand, agreements called "commitment letters" are more often enforceable
+- Usually issued by lenders to ensure that a borrower will be able to receive future loans for an ongoing project
+- Indicates a commitment to enter a loan with a borrower with the intention of entering a lending agreement later on
+- Borrower is required to accept the letter and pay a deposit for the projected agreement
+- Because of the more formal process for commitment letters, they are more enforceable
+- 

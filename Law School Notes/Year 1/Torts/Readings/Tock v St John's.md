@@ -1,0 +1,37 @@
+- Appellants basement suffered damage after it flooded during heavy rain as a result of a blocked storm sewer
+- Sued the municipality operating the sewer as the flood constituted a nuisance
+### Majority Opinion
+- Argues that the Court cannot treat municipalities as private individuals
+- This is because the municipality has the protection against liability of statutory authority
+- Also argued that they should not replace this protections with a test of reasonability as it exposes public officials to too much uncertainty
+- Flooding was an unreasonable interference which would be a nuisance if it was done by a private individual
+- Difference is because the defendant is a municipality, they can use the defence of statutory authority
+- Comes from s. 154(1) of *The Municipalities Act*, and allows the municipality to own and operate sewage systems
+- Confer power to the municipality, but not necessarily a duty
+- Judging by the precedent, if a legislation imposes a duty that inevitably causes a nuisance, that nuisance is excused
+- Additionally, if it confers authority and specifies how to use it, if the nuisance is an inevitable consequence of using that authority, it is excused
+- If legislation leaves up to discretion how to use this authority, it must be used in a way that avoids nuisance or else liability applies
+- This doctrine only protects the municipality when it has no choice in the exercise of its powers that may cause nuisance
+- Because the provision in *The Municipalities Act* does not specify how and where to construct the sewage system, they are liable
+### Minority Opinion
+- Argues that the defence of statutory authority is contrived
+- Because of the unrealistic requirements of the existing defence, it should be reformulated
+- Argues that no matter how the provision allowing construction of sewers was worded, it would like have been done in the same way
+- Also argues that most nuisances stemming from statute-authorized activities are inevitable
+- Storm drains are going to be blocked at some point no matter how carefully you construct them
+- Brings up an Ontario case called *Schenck v The Queen*
+- Fruit farmers sued the Ontario gov because of damages to their orchards from roads being salted
+- When doing any public project, absolute safety is not guaranteed and some damage will inevitably ensue
+- The money required to make these projects failsafe would far exceed the money that would be paid in damages otherwise
+- Inevitable damage is the cost of running a system
+- However, determining that damage was inevitable does not justify forcing unfortunate individuals to pay for those damages
+- Costs of these damages should be shouldered equally by all who benefit from the service
+- Best way to approach a situation like this is like a private tort
+- Defence of statutory authority still applies for example if legislature authorizes construction of a garbage dump by your house, you can't complain about the smell
+- You can however, receive damages if waste leaks from it into your yard
+- Because of the accidental nature of the case, damages should be paid by the government
+- This does not mean that the municipality will be liable for any possible damage it might cause
+- If we treat this like a private case, you still have to determine whether the interference was unreasonable
+- Difference between a random severe tragedy like this or an ordinary disturbance
+- You still can't sue for salted roads rusting your car, but you can sue for random damage to your land like in *Schenck*
+- Argues to allow the appeal, but for different reasons

@@ -1,0 +1,91 @@
+- Focuses on the discrimination against Indigenous women under the Indian Act
+- Continued despite existing legislation against sexual discrimination both internationally and in Canada
+- Still hasn't fully ended
+- Settler colonialism as a matter of principle rejects Indigenous land rights
+- The presence of Indigenous peoples on colonized lands is a challenge to the colonial government's legitimacy
+- Rafael Lemkin, the originator of the word genocide has explicitly stated the inherent relationship between settler colonialism and genocide
+- *Indian Act* established that Indian status was passed down patrilineally
+- One of the most obvious examples of sexual discrimination in the Act
+- Also dismantled existing cultural norms of matriarchy in many Indigenous nations
+### Voluntary and Involuntary Assimilation
+- First attempt was enfranchisement, an option intended for Indian status men and almost never used
+- Almost all enfranchisement events were involuntary and only happened because Indigenous women chose to marry non-Indigenous men
+- This leads us to the other main sex discrimination provision under the Indian Act which was the removal of Indian status upon marriage
+- This was effectively the same thing as enfranchisement, but involuntary
+- Removed even further the right of self-determination, also caused women to assume membership of their husband's band
+- This was established under s. 12(1)(b)
+- Recommended for appeal in 1970 by the Royal Commission on the Status of Women in Canada after activism led by Mary Two-Axe Earley
+- Also challenged in court under s. 1(b) of the *Bill of Rights* which guarantees equality before the law
+- Rejected 5-4 in the SCC on the grounds that the provision applied equally to all status women
+- Over time, Canada also ratified several human rights treaties that provided further grounds to protest s. 12(1)(b)
+- One of these is the International Covenant on Civil and Political Rights (ICCPR), ratified in 1976
+- A Maliseet woman named Sandra Lovelace filed a sexual discrimination act with the UN under the ICCPR in 1977
+- Complained that she was unable to return to her home reserve after separating from her non-status husband
+- UNHCR found that her right to equal enjoyment of her culture under Article 27 of the ICCPR had been violated
+- Canada also specifically excluded the Indian Act from the Canadian Human Rights Act, knowing it was discriminatory
+### Bill C-31
+- Finally in 1985, Canada passed Bill C-31 which removed enfranchisement and removal of status via marriage from the *Indian Act*
+- However, this bill also served to enable new forms of sexual discrimination
+- Now, the previous status system was replaced with a new system of full and half status
+- Full status was granted to all individuals who already were status Indian prior to the act as well as all their descendants
+- Full status was also granted to any Indigenous women who had their status denied/removed through marriage
+- However, any child of a mixed status marriage would only receive half status which could not be passed down unless they married another person with status
+- This new marriage requirement was nominally gender neutral, but was still unequal as all children of status men would receive full status as their wives were also granted status
+- On the other hand, children of status women would invariably only receive half status
+- New rule created a cut-off where the grandchildren of status women would not receive status unless their parents both had status
+- This rule also eliminated the previous ability of women to pass status to children born out of wedlock
+- Another complication was the power given to the father in determining status
+- While it is trivial to determine the natural mother of a child, determining the father is often a lot more difficult
+- If the father does not consent to being identified, the child will be unable to receive status without two known status parents
+- Cases like this emerge in conditions where women are unwilling to reveal the identity of the father like incest or rape
+- Created an unprecedented surge in population numbers among Indigenous communities
+- However, this was mainly a product of previously non-status women being granted status
+- Over time, these rules actually decreased the status population
+- Estimates indicate that non-status Indians will outnumber status Indians within three generations
+### Litigation Post-1985
+- The new form of sex discrimination was challenged in court by Sharon McIvor in 1985
+- Her and her brother both married non-status people and had children, who then married non-status people and had children
+- Sharon's grandchildren were not eligible for status, while her brother's grandchildren were despite doing the same thing
+- Challenge succeeded in 1986 and the BC Supreme Court ruled that the 1985 *Indian Act* continued to disadvantage Indigenous women
+- Violated s. 15 and s. 28 of the Charter which guarantee gender equality
+- However, this decision was later repealed by the BC Court of Appeals
+- Compared McIvor's situation with one under the "double mother rule"
+- This states that a child of a mother and grandmother who both received status from marrying a status man would only receive status until 21
+- Shows that the same situation can happen regardless of gender?
+- In response to this decision, Canada created Bill C-3
+- This bill kept the existing hierarchy, but allowed the children of women restored to status under s.6(1)(c) the ability to pass on status without a status spouse
+- However, this only applied to the current generation and did not fix the core issue
+- McIvor and her son pursued further action through the UNHRC
+- Found the same violation discovered in the *Lovelace* case decades prior
+- Another case with several plaintiffs all alleging sex discrimination under Bill C-31 were brought before the Quebec Superior Court in 2015
+- This case went in the plaintiff's favour, as well as a similar case in 2017
+- Ultimately, the Canadian government was forced to implement Bill S-3, which still didn't fully eliminate the gender hierarchy
+- However, an amendment was introduced that provided full status to all women and their descendants born before 1985
+- The original bill passed in 2017, and the amendment came into effect in 2019, albeit after heavy campaigning from Indigenous women
+- Finally, indigenous women had the same status rights as their male counterparts, at least for the period between 1876 and 1985
+- Still keeps discriminatory rules for matrilineal descendants born or married after 1985
+- Even after all this, people who are newly eligible under Bill S-3 are unlikely to know they are, and even if they did want to register, it would be a long and arduous process
+- Main goal of the government is to make registration as slow and difficult as possible to avoid having more people to care for
+- In 2022, Bill C-38 was proposed which would amend the Act further to reinstate status lost due to enfranchisement of husbands/fathers
+- Also finally removes the transfer of women between bands when marrying a status man outside their band
+- Canada also bans recovery of damages by women or children who were excommunicated under the *Indian Act*
+- Govt has previously settled on issues of residential schools, the Sixties Scoop, and underfunded reserve infrastructure but still refuses to provide remedies for these generational disruptions
+- All this is spite of the fact that Canada has ratified treaties requiring remedy for discrimination cases
+- Finally, Bill C-38 doesn't touch the second-generation cut off problem which could still lead to the eradication of the status Indian population over time
+- Without status Indians, the government could dispose of its obligation towards Indigenous peoples and ban the remaining non-status peoples from reserve lands
+### UNDRIP
+- Adopted by the GA in 2007 after decades of work from indigenous leaders around the world but especially in Canada
+- Accepted unreservedly by the Canadian govt in 2016
+- Also passed the UN Declaration on the Rights of Indigenous Peoples Act in 2021
+- Article 8 of this act prevents Indigenous peoples from being subject to forced assimilation or cultural destruction
+- Also requires effective prevention and remedy measures for cultural destruction or land dispossession
+- In Canada's draft plan for implementing this act, did not recognize the forced assimilation or remedy clauses
+- However, it did acknowledge that the Indian Act must be repealed for Canada to fully comply with the Act
+- Sign that the Indian Act's days may be numbered
+- Also puts into question the validity of Canada's sovereignty which was already question in the *Tsilqot'in Nation v BC* decision which acknowledge the illegitimacy of *terra nullius* doctrine
+- Throughout, Canada has shown a distinct unwillingness to repair the damage done by the Indian Act
+- The fact that reinstating status putting strain on resources was considered a legitimate reason to not fix the *Indian Act* really shows this
+- Upholding the collective rights of Indigenous peoples as well as the rights of Indigenous women is not mutually exclusive
+- All sex discrimination portions of the *Indian Act* must be abolished, and status restored to all excommunicated women
+- Adequate resources for Indigenous nations to manage their true population numbers is required, as well as remedy for the exile of these countless women and children
+- Canada created these issues, and should not leave the burden of dealing with them to the Indigenous population

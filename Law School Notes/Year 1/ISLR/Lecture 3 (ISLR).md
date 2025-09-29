@@ -1,0 +1,95 @@
+- Early encounters between European settlers and Indigenous groups showed the possibility of an intermingling of the two legal orders
+- There was a possibility of European and Indigenous law existing equally and in parallel
+- Early example was the 17-19th century situation in the Great Lakes
+- Three main powers: the Anishinaabe, the Haudenosaunee, and the Europeans
+- Haudenosaunee had a symbolic representation of treaty via wampum, which was used for agreements within Indigenous groups or with Europeans
+- Also used other symbolic concepts to represent treaty like the bowl with one spoon
+- Law can be expressed through black letter law, or the more informal common law
+- In western law, most entities are no thought of as legal actors, the legal system determines which objects are and are not bound by law
+- The Seven Year War led to the Anishinaabe allying with the French, and refused to give up French forts once the war came to an end
+- Chief Pontiac began to circulate war belts throughout the Great Lakes, as the French had previously given regular payments to local Indigenous groups in exchange for access to rivers
+- The British general Amherst rejected this approach, arguing that their allies didn't need payment
+- Saw the French approach as a mercenary system, while the Anishinaabe saw it as an exchange of gifts
+- In response to Amherst's attempt to occupy the French forts, the Anishinaabe took most of the forts for themselves and Amherst retreated
+- Royal Proclamation of 1763 was then distributed a few months later and included provisions intended to enable settlement in the area
+- Set out the Crown's position relating to the settlement of new land
+- This is still part of the Canadian Constitution according to s. 25(a) of the 1982 Constitution Act
+- Prevents settlers from buying land from Indigenous groups, and sets out that Indigenous land could only be ceded via treaty or conquest
+- Purpose of this act was to ensure that any new Indigenous land seized by the British would be directly under the control of the Crown
+- Some parts of the Proclamation refer to Indigenous groups as "nations" but other sections use language implying the inferiority of these groups
+- At the Congress of Niagara, a British general named William Johnson entered agreements with the Anishinaabe similar to those used by the French and brought wampum belts to accompany these agreements
+- Johnson learned the Mohawk language through his wife, and would return and sit with Haudenosaunee groups to reinforce these agreements
+- He later passed this responsibility down to his son who replaced him
+- This period led to a body of customary law that was created out of a mix of British and Indigenous legal practices which we call intersocietal law
+### Constitution Act of 1867
+- Colonialism is a economic, political, social, and legal order with the purpose of extracting human labour/bodies or materials to benefit the metropole
+- This is a mechanism fully focused on exploitation and extraction, and is facilitated by the dehumanization of its subjects via racism
+- Settler colonialism on the other hand shifts these activities from the metropole to the colony
+- Also extracts land from its subjects
+- Settler supremacy prioritizes the interests of settlers over those of Indigenous peoples as far as those rights come from their indigeneity
+- Act of Confederation, sets out the division of powers between provincial and federal and is generally understood as the birth of the Canadian state
+- s. 91(24) specifically sets out the exclusive authority of the federal government, which includes "Indians, and Lands reserved for Indians"
+- Jurisdiction simply means the capacity to enact laws related to a subject
+- This jurisdiction does not necessarily need to be exercised
+- The *Indian Act* is an example of the exercise of Parliaments jurisdiction over "Indians"
+- Further defines Indigenous peoples into status or non-status Indians, excluding the Inuit, Metis, and other non-status groups
+- It wasn't until 1939 that the Inuit were recognized as "Indians" under s. 91(24)
+- Federal government was inconsistent on whether Metis and non-status Indian groups were a federal responsibility or not
+- In [[Daniels v Canada]], the SCC officially recognized that they were a federal responsibility
+- A separate evolution of constitutional language was the use of "First Nations, Inuit, and Métis" as a term used to describe all Indigenous groups in Canada
+- Parliament had the authority to enter treaties in order to fulfill the Royal Proclamation of 1763, but this did not extend to the provincial government
+### Indianness and Indigeneity
+- Main reason the federal govt wanted to sort this out was to determine whether the federal or provincial government would pay for reserves, regulatory issues, or legal issues with Indigenous groups
+- From 1867 to 1950, provincial governments could apply statutes to anyone considered a status Indian under the Indian Act
+- After 1960, Indigenous groups began to push for increased rights based on the argument that the provincial statutes they were affected by were *[[Re An Act Respecting First Nations Youth|ultra vires]]* under s. 91(24)
+- Over time, the courts and laws began to start using the term "Indigeneity" as opposed to "Indianness"
+- In the 1982 Constitution, s. 35(1) acknowledges and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada
+- Under the Constitution Act of 1982, the aboriginal peoples of Canada are the Indian, Inuit, and Métis
+- ss. 3 and 4 extend recognition to modern treaties and affirm the gender equality of these rights
+### Aboriginal Rights
+- Significant question was what the term "aboriginal rights" even referred to
+- In [[R v Van der Peet]], Justice lamer argues that this definition cannot be based on values of liberalism
+- Another approach is to define the practices, customs, and traditions of these cultures prior to contact for First Nations and Inuit, and prior to govt control for the Métis
+- These are not the inherent rights of Indigenous peoples, this is a framework allowing some of these inherent rights to be transposed into Canadian constitutional rights
+- Leaves many questions open of how these rights relate to the state, R v Sparrow allowed the govt to infringe on aboriginal rights
+- Aboriginal title is the right to use, manage, occupy, possess, enjoy, and receive benefit from lands occupied before the Crown asserted sovereignty on it
+- Treaty rights are based on mutual and binding agreements between Indigenous groups and the Canadian government, and can be modern or historical treaties
+- Support for the constitutionalization of Indigenous rights was mixed among the Indigenous population
+- Many sought to include a definition allowing for self-government, but the government pushed back against this notion
+- The provinces and Canada were free to ignore defining s. 35(1) and leave it up to the courts
+- Especially hurtful as the Miche Lake Accords allowed Quebec to have a degree of self-government that was similar to what the Indigenous groups were fighting for
+### The Honour of the Crown
+- Crown refers to the idea of the "sovereign" from which Canada derives its authority
+- Government is simply the representation of the Crown
+- The honour of the Crown is a an unwritten constitutional principle that applies to both s. 35(1) and s. 91(24)
+- Initially the Crown was beyond repute, it could not be sued or held accountable
+- In Canada, the Crown is considered to have certain duties which can be divided into fiduciary and situational duties, breaches of which can be solved by remedies
+- The first kind of fiduciary duty is the *ad hoc* duty, which applies in any situation where the Crown must act on the behalf of a group "to their best interest forsaking all others"
+- The second type of duty are *sui generis* duties, which apply to Indigenous peoples
+- A fiduciary relationship implies a caretaker and one that needs taking care of
+- If the Crown is considering exercising control over an aboriginal interest, they have the obligation to "act with honour and integrity" according to the *sui generis* duty
+- Situational duties come up situationally when the decisions of the Crown may affect Indigenous peoples or groups
+- First is to consult and accommodate, second is the diligently implement solemn promises, and the third is to negotiate, implement, and interpret treaties and agreements
+- Traditional remedy was a declaration that the Crown breached its duties, but now there is the option to receive monetary compensation in some cases
+- Declarations mainly serve as concrete examples of where the duties of the Crown start and end, and can be pointed to as legally binding in future legal proceedings
+### Recognition of Indigenous Legal Orders
+- In *Connolly v Woolrich*, a non-Indigenous man married a Cree woman and had a son, and then later married another woman in an Anglican marriage and had a daughter
+- When he died, the daughter tried to claim sole ownership of his estate as the Anglican marriage was the only legally binding one
+- The Courts held that the Cree marriage was a recognized legal practice
+- *Indian Act* refers to "custom" in terms of elections, membership, and property in Indigenous communities
+- Federal court has interpreted this custom to include Indigenous legal orders only under certain circumstances
+- First Nations governments are considered administrative decision-makers under the Canadian constitution and are subject to administrative law
+- Other examples of organizations subject to this are liquor control boards and HOAs
+- Under the [[Criminal Code]], one consideration for sentencing is the effect on the "public interest"
+- In the sentencing of individuals from an Indigenous community, this "public" is considered to be the Indigenous community
+- For example, Skylar Williams was discharged for public mischief as his actions were consistent with Mohawk law
+- RCMP called in a man bringing in marijuana to a dry community in Nunavut, and he was charged under the Criminal Code
+- Judge implemented Inuit law in his sentencing as he was attempting to bring the drugs into an Inuit community
+- Indigenous legal orders are also recognized under s. 35, but this is where the least progress has been made
+- The Canadian government will consider Indigenous legal orders as an element in the fact finding process, but this is much less than acknowledging them as binding law
+- In this approach, Indigenous perspectives are just one small factor when determining a finding
+- Indigenous legal orders will not be applied with respect to settlers, they will just be used to find facts that allow the European legal order to be applied
+- Excellent example of [[Culture, Self-Determination and Colonialism|the snare]] in practice
+### Discussion Group
+- Final is open book, 2 hours, with 1 essay question and some short answer
+- 

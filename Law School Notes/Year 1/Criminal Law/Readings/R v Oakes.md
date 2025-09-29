@@ -1,4 +1,3 @@
-### R v Oakes
 - Example of a reverse onus case, the accused was found in possession of narcotics
 - According to Section 8 of the *Narcotic Control Act*, in this case the accused is presumed to be in possession for trafficking purpose
 - This presumption holds unless the accused establishes otherwise

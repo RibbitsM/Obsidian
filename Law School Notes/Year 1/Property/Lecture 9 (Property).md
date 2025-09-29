@@ -1,0 +1,85 @@
+- Focus is on the protection of private property from state intervention
+- Property rights in Canada have a broad range of protections from many different sources
+- Protections for property rights exist in criminal and civil law as well as labour law, constitutional law, etc.
+- The International Property Rights Index does a yearly ranking of the extent of property rights in various countries, with Canada ranking #16 in 2023
+- Four main sources of protection against state intervention
+- These are statutory provisions, common law, constitutional law, and rights to compensation
+- The last one is kind of a roundabout method, but basically establishes that the state cannot expropriate your property without compensating you
+### Statutory Provisions
+- First explicit recognition of private property protections was from Saskatchewan
+- Created by Tommy Douglas, the leader of what would later become the NDP
+- First bill of rights created in a Commonwealth common law jurisdiction 
+- The 1947 *Saskatchewan Bill of Rights* did two things, protect fundamental freedoms and prohibit forms of discrimination
+- As part of the anti-discrimination clause, the bill provided property protections without discrimination based on a variety of factors
+- Not really a guarantee to property rights but a guarantee that property holding would not discriminate
+- Charter of Rights and Freedoms protect citizens against the state, while human rights legislation protects against other individuals and non-state actors like corporations
+- *Saskatchewan Bill of Rights* has more in common with modern human rights laws
+- Especially relevant because at the time, Japanese internment camps were established and the property of Japanese Canadians was seized by the government
+- At the federal level we also have a Bill of Rights, also introduced in Saskatchewan
+- Created by John Diefenbaker, leader of the Conservative party at the time
+- Protects life, liberty, security, and the enjoyment of property and the right to not be deprived of property unless by due process of law
+- Not a constitutional provision, this is a statutory document
+- Federal statute, which means it only applies to the federal government, and is just one of many other statutes
+- Not like a constitution that takes precedent over the statutes
+- Also applies only to individuals, not legal persons
+- This was emphasized by the *[[Taking Liberties|Authorson v Canada]]* case
+- Decision pointed to the *Bill of Rights* as a protection against federal expropriation of property which in this case was the interest earned on veterans funds
+- Various provinces have also introduced similar bills like the *Alberta Bill of Rights* which includes a provision providing the same protection as the *Canadian Bill of Rights*
+- Alberta also tried to address this issue of the bill being a statute by including s. 2 which specifies that all other Alberta laws are subject to the bill except if explicitly mentioned
+- Introduced in 1972
+- Quebec has its own *Charter of Human Rights and Freedoms* which combines fundamental rights with anti-discrimination provisions like the Saskatchewan bill
+- Recall that all of these recognize that property rights are subject to violation by due process
+- Sometimes hard to distinguish between legislation protecting all property and those protecting only interest in land
+### Common Law
+- If the government is authorized to take property by statute, they have to abide by a strict set of rules specifying how that property can be taken
+- Found in a decision in *Riopelle v Montreal* where the plaintiff was using shoddy materials and techniques to build a store, and the store was demolished by the city during construction
+- Argument was that the incompetent construction gave them authority to demolish a building that was non-compliant with local building codes
+- SCC determined that the city had legal authority, but because they did not give him prior notice that he wasn't complying with building codes they destroyed it improperly
+- Did not follow the guidelines for expropriation
+- If the legislature uses their authority to commit an actionable wrong, they have to prove beyond all doubt they complied with the conditions attached to that authority
+- Important to note that this is an even higher standard that BRD
+- City eventually had to pay damages to the plaintiff
+- This case and others are precedent guiding how expropriation can be done
+### Constitution
+- [[Charter of Rights and Freedoms]] initially was supposed to have property rights protections, but several provinces raised issue with including this provision
+- Main opposition came from Alberta, PEI, and Quebec
+- Alberta wanted to make more oil and gas projects, the NDP government in Quebec wanted to do land reform, and PEI had provisions preventing non-Islanders from holding some property
+- Makes Canada unique in the sense that their constitutional bill of rights does not have explicit property protections as well as the right to a healthy environment
+- Likely because so much of Canada's economy relies on resource extraction
+- However, the Charter does protect against unreasonable search and seizure (s. 8)
+- While it only applies in certain contexts, this does prevent the taking of private property by the police 
+- Specifically applies to the home, distinguishes between certain kinds of property
+- Looking back at [[Harrison v Carswell]], we can see how different types of property are treated differently
+- Also discriminates on the base of class, in *R v Picard*, the courts held that a tent occupied by a homeless person was not considered a home under s. 8 of the Charter
+- Argument was that since he did not have legal right to establish his tent on a sidewalk, it could not be considered a "home"
+- Section 2 of the Charter established the fundamental freedoms, including the freedom of expression, which could potentially be considered a property right
+- This is because it limits restrictions on the use of private and public property
+- The 1982 Constitution Act establishes aboriginal title rights, another form of property rights
+### Constitution in Other Countries
+- In the US, the 5th Amendment prevents the deprivation of life, liberty, and property without due process
+- Also establishes that if private property is taken for public use, it must be compensated
+- Note that by adding the due process element to life, this permits capital punishment
+- In *Kelo v New London*, the city was trying to attract new businesses, and tried to expropriate private land to make room for those businesses (Pfizer in this case)
+- The plaintiff pointed out that this was not for public use, so it was effectively a private to private transfer
+- The courts took the side of the city, causing a huge firestorm for property rights
+- The *Constitution of Australia* allows the legislature to make laws for the acquisition of property on **just terms**
+- A particularly interesting case is the *Constitution of the Republic of South Africa*
+- Created with two goals, to protect fundamental rights and to enable land reform
+- Two things that may seem incompatible, but can be made to work together
+- Lawmakers recognized that private property was essential to keep the economy of South Africa going, but property had to be redistributed to account for the legacy of apartheid
+- Established that property cannot be seized unless in terms of law of general application
+- Property can be expropriated under laws of general application only for the purpose of the public interest and is subject to compensation
+- Compensation is determined by either those involved in the agreement or decided by a court
+- Circumstances for determining compensation includes the history of acquisition and use
+- In s. 4, the constitution specifically mentions that the public interest includes land reform
+- Addresses the question of whether public interest includes private transfer
+- Also specifies that property in this sense is not limited to interest in land
+- Section 5 also imposes a positive obligation that requires the state to ensure citizens can access land on an equitable basis, conditional on the resources of the state
+- An attempt was made to make an amendment explicitly stating that compensation can be nothing, but failed
+### Right to Compensation
+- In almost all of these cases, expropriation cannot be done unconditionally
+- Highest form of protection of property is that it cannot be transferred without your consent
+- On the other hand, a liability rule indicates that the taker is liable to compensate you, but can still expropriate without compensation
+- Not an absolute protection, but is still a form of protection
+- Strength of that protection depends on the amount of compensation owed, since it creates barriers for expropriation
+- Market value compensation is a much higher bar than just a nominal sum

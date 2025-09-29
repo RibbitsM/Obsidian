@@ -1,0 +1,13 @@
+- Plaintiff complained that the defendant's brick-making was causing them nuisance
+- Judge determined that the defendants actions did affect the plaintiffs enjoyment of property
+- However, they stated that this would only be considered a nuisance if done wantonly or maliciously
+- Infringed on *sic utere tuo ut alienum non laedas*, the maxim prohibiting using your property to harm the enjoyment of others
+- "those acts necessary for the common and ordinary use and occupation of land and houses may be done, if conveniently done, without subjecting those who do them to an action."
+- Judge sought to find a way to reconcile the need to do maintenance on your property with the need to avoid nuisance
+- Key words here are "common and ordinary"
+- Also mentions the importance of the public good in cases like these
+- Uses a utilitarian framing, if there is a gain to the public but loss to an individual, those who lose should be compensated
+- For example, even though it would be beneficial to all to demolish someone's house to build a railway, we would compensate them first
+- In this case a monetary value cannot be put on the plaintiff's loss, and argues that you can't claim that this is offset by the defendant's profits
+- However, they overall argue that there should be compensation to those damaged even if the 
+- Eventually rules in claim of the plaintiff

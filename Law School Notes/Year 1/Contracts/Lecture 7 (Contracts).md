@@ -1,0 +1,125 @@
+- Many key decisions from UK courts in terms of contract decisions like *Butcher* and *Hillas* have been applied as precedent in Canada
+- We have seen that some uncertain agreements can still be carried out, like in the case of *Foley*
+- Mainly covered cases where the price is the missing element, which is likely the most common missing term in an incomplete contract
+- In some fields, especially real estate, a missing price term can be fatal
+- Example is *Courtney and Fairburn v Tolaini Bros*
+- Involved a development project where a contract agreed to "fair and reasonable sums" for the pricing of three construction projects
+- Lord Denning ruled that in this context, price is a fundamental term that cannot be determined at a later date
+- If the price term is missing in a building contract, more likely to void the contract
+- If the agreement establishes a working formula to establish a price at a later date like a math formula or a reference to a future price list, this can help the case
+- This is what happened in *Hillas*, there was a reference to a [[Lecture 6 (Contracts)#WN Hillas and Co v Arcos Ltd|price list]] to determine the fulfillment of the contract in the future
+- Also, in the case where one party is given discretion to determine the price of a good in the future, their assessment will be judged by its reasonability
+- Usually measured by market value or industry practice
+- Example for this is *First City v Fraser*
+### Agreements to Agree
+- This is a case where a contract specifies that negotiations on a key element will take place in the future
+- This happens pretty frequently, especially in certain contexts like resource extraction
+- Usually happens because there isn't enough information to agree on day one, or because the parties can't agree at the time the contract was drafted
+- Usually, these agreements do not create any sort of binding obligation
+- Parties often do end up fulfilling these agreements, but courts will not enforce them
+- Mainly done because these terms are not specific enough to enforce unless they specify things like the structure of the negotiation
+- Often come hand in hand with incompleteness
+- One case like this is an agreement to buy land at a price to be agreed on *Murphy v McSorley*
+- Also can happen with agreements to lease land at a rent to be determined (*Re Calford Properties and Kelly's Billiards*)
+- Many of these cases involve land, also examples where there is a fixed price and down payment where the balance will be determined in the future
+- Probably happens because parties need to make an agreement quickly to pre-empt another purchase attempt
+- Even if the parties expect that the agreement will be upheld, courts are unlikely to agree
+- Very difficult to determine if these terms have been fully satisfied
+- If an agreement to agree is based on an essential term like price, these agreements are much more likely to fail in court
+- If it's on something much less important, its less likely to be fatal
+- General test is that if the absence of the term being agreed on would be fatal, the contract will not be enforced
+- Can frame these cases as either incompleteness or agreement to agree
+- This is a theme that goes throughout the topic of uncertainty, even applies to cases of vagueness
+- Like we mentioned earlier, natural resource sectors are an exception to this, as often agreements are made before either party knows how successful a venture will be
+- Usual solution for this is to establish guidelines for how uncertainties will be handled in the future, for example by including an arbitration clause
+- Basically means both parties agree to leave the decision to a third party if they can't agree on the element in question in the future
+- Any sector that has this element of fundamental uncertainty will use these methods
+### Calvan v Manning
+- Examples of agreements like this succeeding like in *Calvan Consolidated Oil and Gas v Manning*
+- Natural resource context where the parties weren't sure what an oilfield would produce that included provisions that structured future agreements
+- Agreement involved an exchange of permits to extract oil and gas from different areas
+- Initial deal predicted that Calvan would be able to either sell their interest in Manning's permit, or develop it themselves
+- If Calvan opted to develop instead of sell, the parties would make an agreement on how this would happen
+- If they failed to come to an agreement, the terms would be settled by an arbitrator
+- Argument was that this was unenforceable, but the SCC determined that the agreement should be upheld
+- Otherwise, the parties would have had to draft detailed agreements for a possibility that might never happen
+- Court references the significant of the natural resource sector, mentioning that similar agreements had been made and upheld in the past
+- The addition of the arbitration clause as a "safety valve" also reinforced the decision
+- In situations like these, it is entirely valid to use an agreement to agree as long as it is robust
+- Other examples of places where this might arise are in very new technologies or unproven business ventures
+- What happens if there isn't an arbitration clause?
+- Some examples where agreements like this have been upheld even in the absence of an arbitration clause
+### Canada Square Corp v Versafood Services
+- A developer building a high rise made an agreement with a restaurant company as a potential tenant
+- Agreement was to have a restaurant on the top floor of the building while it has just begun to be built
+- Made at this early stage to ensure that the necessary infrastructure for the restaurant would be included on the top floor
+- From a design perspective this was necessary, you can't wait until it has already been built
+- Agreement included a minimum rent as well as some other key terms, but there was a recognition that more negotiation had to be made
+- Especially important was whether the owner could also run a food stand on the main floor
+- Alluded to the existence of the stand, but no concrete agreement was made on the size of the food stand
+- Argued that the absence of precision on this element would be fatal to the contract
+- However, the court determined that this was not essential to the agreement, and thus the contract could still be enforced
+- Where parties for practical reasons can't agree right away, there can be some leeway from the court to let them agree in the future
+- Also a good example of how uncertainty on a non-essential term can be found not enough to void an entire argument
+- Just because they couldn't agree on the food stand doesn't mean that they can't have the restaurant on the top floor
+- Important to mention that there was no arbitration clause, but the argument was still upheld
+- What saved the agreement was the fact that the disagreement was on a non-essential term
+### Key Points
+- If there is an agreement to agree on an essential term, this is a potential problem for enforceability
+- If there aren't conditions that prevent the parties from making a full agreement when the contract was drafted, makes it more likely the contract will fail
+- If there are additional provisions to help inform future negotiations like an arbitration clause, suggests that the court will uphold the agreement
+- *Prima facie*, courts will not want to enforce agreements to agree
+- You need additional cushions or extenuating circumstances to convince the court that they should uphold agreements like these
+- Also, if there is disagreement on non-essential terms without a mechanism to agree on them, the court may remove those provisions from the agreement
+### Vagueness
+- Happens when there is an element in the contract where the parties cannot agree on its meaning
+- If an important part of a contract is vague, the whole contract will fail
+- No agreements for future negotiation, just ambiguity of terms (usually essential)
+- If the vague term is non-essential, usually the court will just ignore or delete it
+- If a term is so vague that the court cannot **comfortably** enforce it, the agreement fails
+### Scammell and Nephew v Ouston
+- Defendant agreed to sell a van to the plaintiff for a certain price along with a trade in of their current vehicle
+- Acceptance was made on the condition that the price is held on hire-purchase terms for two years
+- Basically means that the van will be leased for two years
+- The specification of "hire-purchase terms" was considered to be too vague
+- This is also an essential element of the agreement, if the parties can't agree on how the purchase should be financed, it will fail
+- Doesn't specify how often the payments should be made, how much, etc.
+- House of Lords concluded that the agreement was too vague
+- In these kinds of cases, the court will try to do justice to the parties assuming they both had the intention and desire to enter into a binding agreement
+- Even if something is difficult to interpret, the court will do their best to resolve it
+- If they can't find any clear implications from the vague language, it fails
+- Again, the courts will not [[Lecture 6 (Contracts)#WN Hillas and Co v Arcos Ltd|fill in]] the agreement for the parties unless the meaning can be clearly established
+- Court mentioned that a hire-purchase agreement would not fail if they agreed on "usual terms" and had evidence of what those usual terms would be
+- Another example of industry standard, if they used the term "usual terms" and had previous examples of this kind of agreement to point to, it would not fail
+- There was a BC case called *Buyers v Beggs* where a land purchase contract mentioned that it would include the "usual covenants"
+- However, this failed because the court could not find any clear standard for such an agreement in BC
+- Shows that even if you use the "usual terms" language, you still need precedent
+### Best Efforts
+- Another very common phrase used in contracts is the "best efforts" clause
+- Basically one party promises to use their best efforts to achieve some element of a contract
+- Seems pretty vague, but the courts have consistently upheld clauses like these
+- A lot easier to prove that people have made a best effort as opposed to something like a "reasonable effort"
+- Higher burden, requires the promisor to take all possible reasonable steps to fulfill the term
+- Makes things that would otherwise be vague enforceable
+- This test comes from *atmospheric diving suits v hard suits*
+- In some cases, courts will even determine that the parties intended best efforts even if its not explicitly stated
+- This is what happened in *Wiebe v Bobsien* where in a real estate transaction it was found that one party implicitly agreed that they would use best efforts to sell their existing property
+- Contract failed because the court found that he did not try hard enough
+### Satisfactory Financing
+- Happens where clauses in real estate contracts require the buyer to get enough finances to purchase a property, generally a mortgage
+- In *Griffen v Martens*, the court found that this term refers to financing satisfactory to a reasonable person as well as the reasonable standards of the purchaser
+- Usually apply to essential terms, and also imposes an implicit duty for the purchaser to use best efforts to obtain the said financing
+- Canada doesn't really have a uniform approach for determining this
+- Court found that the word "satisfactory" imposes two elements, the purchaser has to do their best to obtain what would usually be considered satisfactory, and the buyer has to have a reasonable level of satisfaction
+- You can't impose unreasonable standards for financing based on common practice
+- Generally what happens is the seller gets cold feet and tries to get out of the agreement by imposing unreasonably high standards for financing
+### Other Cases
+- Nominee clauses happen when one party enters into an agreement with either another party or their nominee
+- Basically means one party is handing the contract over to another person they know or trust
+- Can be an agent like a lawyer, but can also just be handing the contract to someone who is also interested in fulfilling the agreement
+- Not super common and aren't really restricted to a certain sector, but they do happen occasionally
+- Nominee clause isn't itself a fatal clause, the decision is usually contextual depending on how acceptable the nominee is
+- Usually found to be enforceable, precedent comes from *Causeway Shopping Centre v Muise*
+- Another key case is that of severance
+- This is the term for what happens when the court finds that a term is vague and non-essential, the court will just remove the vague term instead of voiding the agreement
+- Example of this from the textbook is *Nicolene v Simmonds*

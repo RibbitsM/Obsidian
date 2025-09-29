@@ -1,0 +1,30 @@
+- Case started because the plaintiff moved in next to a cricket field and sought an injunction because balls keep ending up in his yard
+- High Court issued an injunction against the cricket club, and the club appealed
+- Judge argues that the cricket club was a key part of the community enjoyed by all, and that the houses should not have been built so close to the field
+- Efforts were made to reduce balls going out of the field, a higher fence was put up and players attempted to hit lower
+- There has been some property damage caused by these balls, but the cricket club offered to pay for the damages
+- Also offered to pay for unbreakable glass or a cage over the plaintiff's garden
+- However, the plaintiff maintained that the club must be shut down
+- Previous ruling under *Bolton v Stone* held that if cricket cannot be played without creating a risk, it cannot be played there
+- However, in this case the cricket field existed before the houses
+- Also have taken all reasonable care to avoid damage outside of ceasing operations completely
+- From the 19th century law perspective, the act of retrieving the ball from the yard would be [[Trespass]], as was hitting the ball there
+- If this happened repeatedly, the landowner would have remedy under nuisance
+- Case did not proceed based on trespass, the plaintiff could proceed under either nuisance or negligence
+- Since they sought an injunction, they had to choose nuisance
+- Judge argues that nuisance can only happen if property is being used in an unreasonable way
+- Playing cricket is the most reasonable thing you can do on a cricket field
+- 20th century nuisance cases focus on balancing the rights of neighbours
+- Case is not a question of damages, it is balancing the public benefit of having a cricket field versus the private right to exclude others from your home/garden
+- If by chance a cricket ball does cause damage, the club will pay for it
+- Since the case has come to injunction, either the Millers move or the cricket field does
+- Argue that in this case, public interest outweighs their private grievances
+- Also said that they would dismiss claims for damages too, but because the club already offered, he will award damages
+- Goes on to say that there was interference between the properties, but this interference was not unreasonable
+- Again, places the blame on the housing developers for building too close to the cricket field
+- Similar case to *Sturges v Bridgman*, where the defendant ran their noisy shop for 20 years
+- Only became a nuisance when a physician moved in next door
+- Court ruled in favour of the defendant
+- Another judge states they would grant the injunction but stay it for a year to let the club find another pitch
+- Mainly does this because the houseowners nearby refuse to go in their yards during cricket season for fear of getting hit by a ball
+- Third judge argued that the plaintiff showed unreasonable hostility towards the cricket players

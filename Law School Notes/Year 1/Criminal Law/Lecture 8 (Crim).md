@@ -1,0 +1,77 @@
+- Even if the accused is acquitted of the offence they are charged under, they may still be charged if there are any [[Elements of an Offence#Included Offences|included offences]]
+- For example, if someone is charged with assault causing bodily harm but the facts of the case raise reasonable doubt for the presence of harm, they are still charged for assault
+- Many offences worded this way, with an offence attached with additional elements
+- Also, attempts to commit an offence are always included in the related offence
+- We're not going to deal with hidden included offences, but you should be able to recognize the obvious examples
+- One of the main examples of an included offence is with the charge of murder
+- Manslaughter is always an included offence in a murder charge, despite the fact that this isn't suggested by the name of the offence
+- Circumstances where the Crown cannot prove murder beyond a reasonable doubt, they can still be charged for manslaughter
+- Criminal law in Canada prevents the double counting of offences, meaning you can't be convicted of a duplicate offence on the same facts
+- Precedent for this is from a case called *Kienapple*, and is referred to as the "Kienapple rule"
+- Even if two almost identical offences with overlapping elements are included on an indictment, the accused will only be convicted of one of those offences
+- For example, driving while impaired and driving with a BAC over 0.08 are often charged together, but the Court will only convict on one of the two
+- Means that an accused can be convicted of the principal or the included offence, not both
+### R v Pan
+- Defendant was charged along with three co-accused of the murder of her parents
+- 911 was called for a home invasion, but as the police gathered evidence they realized she had orchestrated the invasion to have her parents killed, though her father survived
+- Crown charged her and her conspirators with first-degree murder
+- Main element of first-degree murder is the presence of a planned and deliberate killing, but second degree murder is the unplanned but deliberate killing of an individual
+- Second degree murder is included in first degree murder, and manslaughter is included in second degree murder
+- Manslaughter occurs where an assault ends up killing someone, but there was no intent to kill
+- Same *actus reus* as murder, but without the intent requirement
+- Like nesting dolls, all of these three charges are included in a first degree murder charge
+- Punishment for first degree murder is life imprisonment without parole for 25 years
+- The punishment for second degree murder is also life imprisonment, but parole can be granted between 10 and 25 years
+- For manslaughter, the penalty is very wide and ranges from probation to life imprisonment with no parole for 7 years
+- If a firearm is involved, the minimum penalty is 4 years imprisonment
+- Because of this, there is a clear advantage for the accused to seek an included offence
+- However in a jury trial, the judge does not have to inform the accused of the included offences
+- This is because there is a risk of doing so, it can unnecessarily confuse the jury and also tempts the jury to choose the "middle road" where they are not sure on the principal
+- Because of this, included offences may result in conviction where acquittal is more appropriate
+- Included offences have to be based on the presence of evidence, we do not always leave included offences to the jury
+- If the facts of the case allow for the possible conviction under an included offence, the judge is required to instruct the jury on the included offences
+- In *Pan*, the Court determined that if there is an "air of reality" based on the evidence presented to a theory where an included offence would be the appropriate conviction
+- This "air of reality" test amounts to an evidentiary burden
+- In this case there were many different versions of events offered as for why Pan hired the killers, which made the case much more difficult
+- Pan's unreliability as a witness contributed to the judge not wanting to instruct the jury on the included offences as well
+- In the initial trial, the judge decided not to instruct the jury on any included offences
+- SCC determined that there was a viable version of events where Pan hired the killers to kill her dad specifically, and did not intend to kill her mother as well
+- In this version, there was no intent to kill the mother, and therefore that charge would be reduced to second degree murder
+- In this case it was to the benefit of the defendant that the included offences be instructed
+### Principal of Legality
+- Version of this principal is present is s. 11(g) of the [[Charter of Rights and Freedoms]]
+- Specifies that no accused will be held guilty of an offence that is not present under Canadian law as well as international law
+- Also means you can't be convicted of an offence that did not exist at the time the act was committed
+- However, you can be convicted of an offence that does not exist at the time of sentencing, but did exist at the time the act was committed
+- Mainly done for sexual assault offences as the victims often wait many years before they bring charges, and Canadian laws against sexual assault have changed many times
+- The punishment for this charge may not be the same, as the Charter provides that if you are convicted of an offence that has had its punishment changed between the commission of the act and the time of the trial, you receive the lesser punishment
+- The other important part of this principal is the abolition of common law offences
+- As s. 11(g) mentions "Canadian law", this would include common law
+- Recall that s. 9 of the *Criminal Code* abolishes common law offences after a certain date
+- Exists to protect against the possibility of judges constructing common law offences
+- The [[Frey v Fedoruk]] case predates s. 9 of the *Criminal Code*, and was actually a civil case for false imprisonment, not a criminal case
+- Plaintiff had cause of action for false imprisonment
+- Plaintiff was caught peeping through the defendant's window while his mother was getting ready for bed, and was caught and arrested
+- Plaintiff was charged with "an action likely to lead to a breach of peace", which is not an existing statutory or common law offence
+- SCC determined that the court was not within its right to effectively create a new common law offence
+- Used the same justification for s. 9 of the *Criminal Code* determining that judges should not be able to create offences and people should not be charged for criminal offences unless there is a relevant statute or common law precedent
+- Doesn't reject existing common law offences, just prevents the creation of new offences
+- Combined with s. 9 which came a few years later, the *Frey* decision abolishes all common law offences, past, present, and future, except for contempt of court
+- Also important to mention that at the time, trespass was not a criminal offence, it only applied to civil cases
+- Now we have provisions that cover cases like these, specifically "trespassing at night" (s. 177)
+### [[R v Boudreault]]
+- Raises the issue of where we stop interpreting an offence, and start creating a new one
+- Plaintiff charged with "having care and control of a motor vehicle while ability to drive is impaired"
+- Question that arises are the elements necessary for this offence
+- One obvious circumstance is that the accused must have their ability to drive impaired by alcohol, but a less obvious one is that the vehicle does not have to be in motion
+- Created for occasions where the accused is arrested after arriving at their destination or crashing
+- Section 320.25 of the *Criminal Code* presumes that if you are found in the drivers seat of a vehicle, you are presumed to be in care and control of the vehicle unless you prove that you did so without the intent to drive
+- This is a true [[Lecture 6 (Crim)|reverse onus clause]], you have to disprove that you were in the seat with the intention to drive
+- Has been previously challenged under the Charter in the *Whyte* case, but was found to be a justified violation under [[R v Oakes|s. 1]]
+- The judge determined that while sitting in the drivers seat will trigger the presumption, there should also be an element of "realistic risk of danger" required for the offence
+- This was reversed by the Quebec Appeals Court, and went to the SCC
+- Majority opinion on the SCC argued that occupying the drivers seat did not inexorably lead to the intent to drive, and that the additional element was appropriate
+- Stated that in addition to the clear elements of case, there was also an implicit requirement for a "realistic risk of danger"
+- Logic was that just because you are inebriated and are sitting in the drivers seat, this does not automatically mean you have the intention to drive
+- Because the presumption can be rebutted, this is evidence of this logic
+- The dissenting judge argued that this conclusion went beyond defining care and control, and extends to the point of adding an additional element

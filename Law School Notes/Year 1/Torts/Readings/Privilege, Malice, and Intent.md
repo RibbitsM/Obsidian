@@ -1,0 +1,12 @@
+- Argues that judges tend to avoid reasoning on policy grounds
+- However, by ignoring the effect on the public you are trying to justify the law from empty principles
+- Policy issues always vary from case to case, never a general concept
+- Depending on the utility of the act compared to the disutility it inflicts, we can conclude the impact on the public
+- When there is a harm without remedy, we must have a justification for this harm
+- Similar to the need for [[The Right to Private Property|justifications for private property]]
+- For example, a man is allowed to build a house on his property that blocks the view of his neighbour because the benefit of having a house exceeds the benefit of having a nice view
+- Not a strict utilitarian approach, but follows some of the principles
+- "Whatever decisions are made must be against the wishes and opinion of one party, and the distinctions on which they go will be distinctions of degree"
+- A judge is more likely to grant an injunction where the harms to the plaintiff exceed the benefit to the community created by the defendant
+- If not, damages are more likely to be awarded given a nuisance has been established
+- [[Bamford v Turnley]] is a good early example of this approach in practice

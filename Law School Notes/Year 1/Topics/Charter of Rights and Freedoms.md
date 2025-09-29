@@ -5,7 +5,7 @@
 - Guarantees fundamental freedoms such as freedom of religion, freedom of thought/belief and expression, freedom of peaceful assembly and freedom of association
 ### Legal Rights
 - Grants legal rights as well
-- All persons have the right to not be deprived of life, liberty, and security except in accordance with principles of justice
+- All persons have the right to not be deprived of life, liberty, and security except in accordance with principles of justice (s. 7)
 - Also includes right against unreasonable search and seizure and right to not be arbitrarily detained/deported
 - On arrest, all have the right to be informed why, to retain counsel without delay and determine the validity of the detention via *habeas corpus*
 - People also have several rights when charged with an offence

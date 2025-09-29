@@ -1,0 +1,27 @@
+- In the 80s, as the poorest neighbourhoods in US cities began to empty out, the homeless population in those cities would rise
+- As people became less happy with conditions on the streets, they advocated for stricter public disorder laws
+- Focus of this article is on chronic street nuisances, scenarios where someone acts in a way in public that annoys other people for a protracted period of time
+- Examples are a panhandler outside a store and a squatter sleeping on a park bench during the day
+- Courts can take action against aggressive panhandling or overnight camping, but not these relatively minor nuisances
+- Thesis of the article is that public spaces should be zoned like city blocks
+- In large US cities, almost half of all land is owned by the government, and most of that is devoted to public spaces
+- A place that any person can enter is one that all people may be tempted to abuse, hence why we have rules in public places
+- Public spaces are also seen as a key component of a liberal democratic society, think of the ideal of the Roman *forum* or Greek *agora*
+- This is where the commons meet and interact
+- However, public nuisances may discourage the use of these public spaces, or individuals may use disruptive tactics to discourage free speech
+- In this way, restricting the use of public places in some ways promotes freedom
+- Author argues that squatters and panhandlers may also cause a [[Sociological 2|broken window]] effect
+- Anti-homeless architecture is another symbol of social decline, in the sense that it shows poor management of resources if we must result to this
+- Beggars also show social decline, symbolizes lack of social control and lack of work ethic
+- Can also consider that informal time limits on the use of public space exist
+### Definition of Chronic Street Nuisance
+- [[Lecture 4 (Torts)|Public nuisance]] law deals with minor harms to the general public on a long timescale, and could be well suited to this issue
+- Proposes a *prima facie* test to identify a Chronic Street Nuisance
+- A person perpetrates a chronic street nuisance by persistently acting in a public space in a manner that violates prevailing community standards of behavior, to the significant cumulative annoyance of persons of ordinary sensibility who use the same spaces
+- This is a [[Strict Liability]] test, no intentional element required
+### Red, Yellow, and Green Zones
+- Proposes three different city zones corresponding to various levels of street nuisance
+- 5% of a city would be red zones, where almost all nuisance behaviour is permitted
+- 90% would be Yellow zones, where minor nuisances are permitted
+- 5% would be Green zones, where restrictions would be quite strict and intended to be used by sensitive individuals like elderly people or parents with young children
+- Chronic panhandling and squatting would be permitted in only the Red Zones, while episodic squatting and panhandling would be allowed in the Yellow zones as well, but not the Green zones

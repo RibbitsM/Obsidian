@@ -1,0 +1,10 @@
+- Plaintifff discovered nickel particles in the soil on their land which came from then Inco nickel refinery over a 66 year period
+- Several other members of the community also discovered these particles, and sought to bring a lawsuit against Inco under the umbrella of an environmental group
+- Value of the properties was decreased significantly by the presence of the particles in the soil
+- Example of [[Strict Liability]] based on the precedent of *[[Lecture 4 (Torts)|Ryland v Fletcher]]*
+- Question is whether the trial court decision erred in determining that there was an actionable nuisance
+- Claimants did not establish that Inco was liable under the precedent of *Ryland v Fletcher*
+- Why did the Ontario Court of Appeal make this decision?
+- They held that the presence of the particles did not constitute substantial interference
+- Plaintiffs failed to establish substantial physical damage to their property
+- When a nuisance is alleged to come in the form of harm to land, the plaintiffs must establish damage to their land

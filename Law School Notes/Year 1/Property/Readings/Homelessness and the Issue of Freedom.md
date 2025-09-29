@@ -1,0 +1,19 @@
+-  Written by Jeremy Waldron
+- Core idea is that property is necessary for freedom, similar to the [[Personhood Theory]]
+- Ties in to Waldron's arguments in [[The Right to Private Property]]
+- No one is free to perform an action unless there is somewhere they can perform it freely
+- Property as land has the function of determining who can be where at what time
+- Additionally partly determines which actions can be taken in a given location
+- Generally, the homeless are excluded from all private property, while everyone else has at least one private place they are not excluded from
+- This a reason why we do not follow the libertarian ethos of privatizing everything, after all there still must be some room for those who do not own private land
+- Homeless people are allowed to exist by the virtue of collective property such as sidewalks, parks, and bridges
+- However, there remains the issue of the state restricting what actions can be performed on public property
+- Laws are made by people who own private property and are voted for by people who own property as well
+- By extension, they will make laws that shape public property to include the actions they want to do, and restrict the actions they usually do at home
+- Sleeping, cooking, and urinating are something you do at home, and should be banned in public
+- This comes at the detriment of those who do not have that luxury
+- A person who is not free in any place is particularly restricted in terms of freedom
+- Ironically, libertarians place incredibly high value on freedom
+- The homeless only have freedom in our society to the extent that our society is communist
+- We spend so much time talking about freedom of speech, religion, and conscience and fail to provide rights to basic human necessities
+- If we are willing to tolerate an economic system that leaves large numbers of people homeless, we must also allow those people the freedom to look after their needs

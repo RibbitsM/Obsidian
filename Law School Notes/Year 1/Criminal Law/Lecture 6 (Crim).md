@@ -1,5 +1,5 @@
 - Some offences contain reverse onus clauses, where a presumption is made that the accused must then disprove
-- [[Reverse Onus and the Charter|R v Oakes]] is an extremely important case for these clauses as it provides the first example of one of the clauses being challenged at the Supreme Court under s. 11(d) of the [[Charter of Rights and Freedoms]]
+- [[R v Oakes|R v Oakes]] is an extremely important case for these clauses as it provides the first example of one of the clauses being challenged at the Supreme Court under s. 11(d) of the [[Charter of Rights and Freedoms]]
 - Judge in this case created a test designed to see if a clause violates s. 11(d), and more importantly, to see if that violation is justifiable under s.1 of the Charter
 - Called the Oakes test
 - Case took place in 1984, and Oakes was charged for possession of narcotics for purpose of trafficking under s. 8 of the *Narcotics Control Act*
@@ -68,4 +68,11 @@
 - Argued that there isn't really much of a need for this presumption, especially in the case of a sting operation where the police can intentionally draw out incriminating conduct from the accused
 - Another available option would be to criminalize the CSA roleplay that the defendant claimed to be engaged in
 - So far, no amendments have been made since Morrison, but now it is a little more difficult to prove this offence as a result
-- 
+### Presumption Practice
+- Not unusual to see evidentiary burdens used to help the Crown prove *mens rea*
+- If the Crown can prove you did some harmful act, it is fairly safe to assume you did it with ill intent
+- For example, s. 396(1)(b) covers fraudulent tampering with a mine or oil well sample, and presumes fraudulent intent when tampering unless the accused presents evidence to the contrary
+- If a presumption is deemed unconstitutional, for the case in question that presumption is voided, and the Crown must proceed without that presumption
+- When this happens with any provision, going forward that provision will be considered of "no force or effect"
+- In some cases, the Courts may preserve the provision as it was until Parliament can find a feasible alternative to an important provision
+### [[Appellate Review]]

@@ -1,0 +1,10 @@
+- Under s. 11(g) of the Charter, citizens have the right to not be found guilty of an offence *ex post facto*
+- Case involves the plaintiff being caught peeping through the defendant's window at his mother, and the defendant chased him and arrested him
+- Other defendant was a police officer who showed up and took him into custody
+- After being charged by a trial judge, the plaintiff sued for false imprisonment
+- Issue is whether being a "peeping tom" is a criminal offence or not
+- Apparently he was charged for "breaching the King's peace" which is a common law offence
+- On further examination this basically applies to anyone the judge considers to be breaking the law
+- Judge in this case argued that this has no place in Canadian law, and the appeal should be allowed
+- Because the plaintiff did not commit an offence under Canadian law, they were awarded damages
+- In a false imprisonment case the onus falls on the defendants to provide justification for the imprisonment, which they could not do

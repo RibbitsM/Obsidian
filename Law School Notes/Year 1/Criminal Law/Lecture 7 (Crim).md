@@ -1,0 +1,41 @@
+- How do we know what the [[Elements of an Offence]] are?
+- Start with the indictment or other charging document, and look at the offences listed there
+- If there is no section number, use the index or table of contents (exam will always have section numbers)
+- Next break the offence down into the elements required to prove that offence
+- Allows us to match the facts of a case to the elements required
+- Falls under two categories, *actus reus* and *mens rea*
+### Actus Reus
+- Generally, Criminal Code provisions will prohibit specific conduct
+- This conduct may be accompanied by certain circumstances to make it criminal
+- For a DUI, the conduct is driving a car and the circumstance is being under the influence of drugs or alcohol
+- Sometimes, this conduct may have to create a certain consequence (not murder if they don't die)
+- Can also be an issue of causation, prove that the conduct caused consequences
+- Just because you can identify the elements, there may be debate on what actually constitutes that element
+- Some elements can be notoriously vague
+- To figure this out, we can look at the code itself for more specific definitions, but they may not always be in there
+- For example, in [[R v Moyer]] there was no definition for "offering indignity to human remains"
+- This is when you have to move to case law, see how previous cases have defined the term
+- If there is no precedent, you can use other interpretive aids like classic dictionaries
+- As a lawyer, your goal is to create a convincing argument for a specific interpretation of a term or element that will benefit your case
+### Examples
+- Criminal Code prohibits entering or offering to enter an agreement to receive interest at a criminal rate, receiving said interest, or advertising such an offer (s. 347(1))
+- The conduct is pretty clear cut, you need to be entering, advertising, offering to enter, or engaging in an agreement to receive criminal interest
+- Question is how we define interest, and what the criminal rate is
+- Interest is defined as all charges and expenses paid in exchange for an advance of credit
+- Means that you can't get out of it by shifting the cost to fees
+- Criminal rate is anything over 35% APR on the credit advanced
+- Criminal Code also prohibits operating a conveyance while impaired causing death (s. 320.14(1)(a))
+- Here, the conduct is operating a conveyance, the circumstance is being impaired, and the consequence is death of another person
+- Very clear cut example of conduct, circumstance, consequence
+- Again, look to the Code for definitions of conveyance and impairment
+- Different offence to driving with a BAC over 0.08
+- Impaired driving can be proven as a separate offence without a breathalyzer test
+- Weirder example is sexual assault causing bodily harm (s. 272(1)(c))
+- Here we can tell that the conduct is sexual assault, and the consequence is bodily harm
+- But what are the elements of sexual assault?
+- If we go to s. 271, it also doesn't define sexual assault
+- However, if we go to s. 265 (assault), s. 265(2) specifies that the section applies to all forms of assault, including sexual assault
+- From this section, we can see that the specific conduct is applying force intentionally to another person, directly or indirectly
+- Circumstance is that this must be done without consent
+- What is not mentioned in the Criminal Code is that in order for this to be considered sexual assault, the contact has to be sexual in nature
+- This is something that has been determined by the courts and is not listed in the statutes

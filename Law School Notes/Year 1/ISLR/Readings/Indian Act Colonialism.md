@@ -1,0 +1,66 @@
+- Constitution Act of 1867 provided the federal gov with responsibility for "Indians and lands reserved for Indians" under s. 91(24)
+- Further developed in the 1869 *Indian Act*
+- These acts were not the origin of Canada's colonial project, handed down from the Royal Proclamation of 1763
+- Principles of the Proclamation were represented in the treaty system and the existence of Aboriginal rights
+- However, most of these elements were only recognized in the 1982 Constitution Act, which took a more respectful stance towards Indigenous rights
+- Proclamation was largely ignored from 1869 to 1982
+- As opposed to the need to respect Aboriginal rights, the driving force was the "White Man's Burden"
+- Main goal of the federal government was assimilation
+- Initially, the Canadian government was supposed to based on three systems of governance
+- The Crown, the colonies, and the local Indigenous groups
+- Over time the Crown merged with the colonies and the Indigenous groups were lumped in as Aboriginal land title
+- Eventually this too was abandoned as the British opted not to make any treaties in British Columbia
+- Treaties effectively created barriers between colonial and Indigenous ownership
+- However, Crown still had fiduciary duty to the Indigenous population and administrated them as such
+- Indigenous groups were allowed self-governance up until 1869
+- Couple examples of the federal govt recognizing Indigenous legal orders before this time
+- 1869 marks the shift from self-government and rights towards a full assimilationist project
+- Goal was to allow Indigenous communities to still self-govern, but only after they had been converted into Christian agricultural societies
+- When this failed, the government moved to enfranchisement
+- Throughout this process, little to no financial aid was given to Indigenous communities to match surrounding development
+- All money was poured into assimilation efforts instead
+- Self-government was abolished for two main reasons
+- First, govt believed that it was preventing enfranchisement
+- Second, self-governed communities continued to hold land in common, something repugnant to the Crown
+- Indigenous reserves still had municipal governments, but they were set up by the state and looked nothing like traditional governance structures
+- Most of the control over land policy and finances was left to the Department of Indian Affairs
+- Also all band council laws could be vetoed by the local Indian Agent
+- Agents were also appointed as the regional judges
+- Over time, control tightened and band councils had less and less authority
+- Undoubtable at this point that Indigenous communities suffered a much higher degree of governmental control compared to non-Indigenous citizens
+- While provinces like Quebec and the Maritimes were allowed to pass laws to preserve their unique culture, Indigenous communities had no such privilege
+- In 1949 the Department of Immigration and Citizenship assumed control over Indian Affairs, implying that Indigenous peoples were seen as needing to become proper Canadians in the same sense as new immigrants
+### Status Indians
+- Another example of federal authority over Indigenous communities was the fact that the govt decided who was and was not "Indian"
+- Straightforward denial of self-determination
+- Rejected the right of Indigenous peoples to determine who belonged in their communities
+- Indian status was also defined in terms of property
+- Being considered "Indian" by the government determined your access to reserve property
+- Department agents had authority to remove any non-status Indians from reserve lands, including children born of Indigenous women and non-Indigenous men
+- Also shows the gender division of the policy, only children of Indigenous men were considered status
+- Status was also tied to specific bands instead of Indigenous nations
+- Created a weird situation where white women could be status Indians while Indigenous women were not
+- Led to the effective abduction of Indigenous children into the foster system when their mothers were cut off from the benefits provided by Indian status
+### Provincial Responsibility
+- Post-WWII authority for Indian Affairs became shared with the provinces
+- Mainly happened because of the spread of the welfare state
+- In 1945 the *Family Allowance* act gave benefits to all Canadian families, which initially excluded Indigenous peoples
+- However, the 1947 *Citizenship Act* made all people born in Canada Canadian citizens, including Indigenous peoples
+- All this happening while a backdrop of criminal underfunding of Indigenous communities is in progress
+- Unemployment and lack of access to medical care was extremely common on reserves
+- Most relied on social assistance and lived in terrible housing
+- Definitely not helped by the psychological destruction of residential schools
+- Led to over-representation of alcoholism and prison population
+- Response was to integrate with the Provincial governments to increase access to social/health services
+- While federal control wasn't affected, opinion of Indigenous communities was higher after WWII due to contributions to the war effort
+- While federal gov was still responsible for Indigenous land, they shared responsibility for Indigenous people with the provinces
+- While Indigenous peoples on reserves were mainly still bound to the federal government, provinces took on responsibility for those outside
+- Increased the level of intervention in the lives of Indigenous peoples as they were now also under provincial authority
+- Not all provinces accepted this new responsibility, especially in the Prairies
+- Didn't really result in any increase in QOL
+- Next step was the proposed Trudeau/Chretien White Paper
+- Proposed immediate integration of all Indigenous peoples and the abolition of the Indian Act and treaty rights
+- Full responsibility would be in the hands of the provinces
+- Widely rejected by both Indigenous and non-Indigenous communities
+- While it was never implemented, this did end up resulting in the destruction of the Indian Act
+- The broad opposition to the White Paper signified the strength of the decolonial movement, which was pushed further by the recognition of the Royal Proclamation in the new 1982 Constitution

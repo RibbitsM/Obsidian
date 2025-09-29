@@ -1,0 +1,7 @@
+- Note up systems can be pretty unreliable especially considering whether a case has been overruled can be subjective
+- To fix this, you should try and note up your cases on all three sources
+- On Westlaw, the depth of treatment shows how many times a given case refers to the case that you are noting up
+- Important part of noting up is looking at other cases that have cited your case and exploring cases that distinguished or contradicted your case
+- The cited with tab on Westlaw shows you which cases are most often cited alongside the case you're looking at
+- The NOT operator in Westlaw is % instead of NOT
+- Always start with secondary sources when doing research, don't jump right into full case searches

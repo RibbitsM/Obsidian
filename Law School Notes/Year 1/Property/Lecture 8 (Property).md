@@ -1,0 +1,55 @@
+- Property is primarily a private law subject, but it can dip into public law occasionally
+- Most public of the private subjects as in Canada, land is granted by the state, protected by the state, and can be taken away by the state
+- Already answered what property is and why it exists, now we need to consider the question of how property is distributed
+- Because of Canada's economic system, it relies on a certain degree of inequality including inequality in the distribution of property
+- Issue that was central to Thomas Piketty's *Capital in the 21st Century*
+- Growth is not distributed equally, and we have ignored the factor of inequality in economic analysis
+- Those who held property interest in Vancouver 20 years ago have profited immensely, more than they ever could from a salary
+### [[Homelessness and the Issue of Freedom]]
+- Observes that everything has to be done somewhere, no one can act unless they have a place to act
+- Property rules determine who is allowed to be where at what time
+- Homeless are excluded from anywhere governed by private property, while everyone else holds at least some piece of private property
+- Private property has the effect of [[Property and the Right to Exclude|exclusion]], but if you hold no private property you are excluded from everywhere
+- The only place they have the opportunity to exist is in public property
+- Homeless people use public property in a way fundamentally different from people who own private property
+- Society must ask whether we are willing to tolerate an economic system where a large number of people are homeless, which is presumably yes given modern conditions
+- In Vancouver, over half of homeless people have shelter, and of those unsheltered, about half stay in public places
+- Two thirds of the population are men, and about a quarter are seniors
+- About 4% of the Vancouver population are Indigenous, but 34% of the homeless population are Indigenous as a legacy of [[Displacement and Assimilation|settler colonialism]]
+- If we accept this reality, are we also prepared to allow them to look after their needs in these public spaces
+- If we say yes to the first question and no to the second question as many people do, we are effectively putting the substantial homeless population in a [[Oppression|double bind]]
+### [[Controlling Chronic Misconduct in City Spaces]]
+- One of a group of scholars seeking to link law and economics
+- Focus of the article is not on criminal activity, but activity that is simply annoying
+- Draws on the [[Economic Theory|tragedy of the commons]] argument by claiming that allowing this disruptive behaviour will encourage more disruptive behaviour and less use of public spaces
+- This will diminish the essential role of the commons in democratic society
+- To be truly public, a space must be orderly enough to invite the entry of a large majority
+- Ellickson also raises the point that the presence of chronic misconduct serves to facilitate social decline
+- To solve this, he proposes a zoning scheme for public land where chronic misconduct is allowed only in certain Red Zones, permitted occasionally in Yellow Zones, and prohibited in Green Zones
+- Another example of social decline Ellickson brings up is the rise of hostile architecture designed to prevent homeless people from sleeping in specific places
+### [[Victoria v Adams]]
+- First prominent case where the courts were dealing with a homeless encampment in a public space (2008)
+- Acknowledges that the key issue here is the need for homeless people to live in public and the need for the government to preserve public spaces
+- Argument of the defendants hinges on s. 7 of the [[Charter of Rights and Freedoms]]
+- This case was in response to an order from the City of Victoria that the homeless population evacuate Cridge Park which was the site of a tent city
+- Encouraged all residents to move to homeless shelters
+- Court case was initiated to seek an [[Injunction]] to facilitate the evacuation of the park
+- Based on the Victoria bylaws which prohibited setting up temporary shelter overnight in public parks
+- Court refused to not grant the injunction because it would be a violation of their Charter rights that was unjustified under s. 1
+- The facts of the case demonstrated that there were not nearly enough shelter beds to accommodate the homeless population of Victoria
+- Therefore, their only alternative was taking temporary shelter in a public place
+- Public properties are for the public, which includes the homeless
+- If you're not going to provide these people shelter, at the very least you shouldn't be taking away what shelter they do have
+- As a result, the bylaw was amended to allow homeless people to erect temporary shelters overnight as long as they were taken down during the day
+### Vancouver Bylaws
+- In 2020, Vancouver amended its park bylaws to allow homeless people to erect temporary shelters in any park except for Queen E or VanDusen Park from dusk until 8 am
+- There are also a number of other provisions limiting where shelter can be erected, and limiting the size of the shelters
+- The Vancouver Street and Traffic By-Law prohibits erecting temporary structures, as does the general City Land Regulation
+- In 2023, BC proposed an amendment to the Vancouver and Community Charters which set out the scope of municipal bylaws for Vancouver and BC cities in general
+- Amendment established a new definition of alternative shelter which provides for an overnight bed, access to a bathroom/shower, a free meal, and storage
+- This was rejected as cities claimed that this meant they could never break up encampments as they lacked the resources to establish these alternative shelters
+- A number of UBC professors including Stepan Wood argued that this definition was still insufficient
+### Homelessness and Personal Property
+- Some scholars have focused specifically of the lack of security of property which comes with the experience of homelessness
+- Because of the lack of places to store your personal belongings, homeless people experience a constant uncertainty of how to protect their private property
+- These things are an important part of life, they not only keep you alive but reinforce your identity

@@ -1,0 +1,22 @@
+### Dissenting Opinion
+- Aboriginal rights extend not just to aboriginal title, but ancestral hunting and fishing rights
+- Aboriginal title is based on common law, but is subject to the title of the Crown
+- Aboriginal right lands are lands where aboriginal people have only certain rights, not full title
+- Before the 1982 Constitution Act, these rights were only protected by common law, now are enshrined in the constitution
+- *Sparrow* test sets out three steps for identifying infringement of these rights
+- First, you need to define the existence of an aboriginal right
+- Second, establish the *prima facie* infringement of that right
+- Third, examine the justification for the infringement
+- Indigenous peoples of Canada have a special relationship with the government, and should be given the benefit of the doubt
+### Analysis
+- Case hinges on the definition of the aboriginal rights protected by the 1982 Constitution Act
+- Appellant argues that the govt has been treating aboriginal rights as just cultural practices
+- Section 35(1) recognizes and affirms existing aboriginal ***rights***, and we can't forget that these rights are ***aboriginal***
+- All people in society are supposed to be entitled to dignity and respect, with universal rights
+- Aboriginal rights are an exception to the liberal enlightenment concept of rights, different from Charter rights
+- There are rights held only by the indigenous peoples of Canada considering these rights stem from their identity as indigenous
+- Goal of the courts is to create a definition that acknowledges aboriginal rights as true rights, without ignoring the fact that they are held based on identity
+- Doctrine of aboriginal rights exists because when the Europeans arrived, the indigenous groups were already there, and had been for centuries
+- The point of s. 35(1) is to reconcile this fact with the sovereignty of the Crown
+- Rights affirmed by this provision must work towards this goal of reconciliation
+- To do this we need a test to identify aboriginal rights that can pick out the crucial elements of indigenous societies prior to European contact

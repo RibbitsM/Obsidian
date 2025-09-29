@@ -1,0 +1,44 @@
+- Two core metaphors, the underground river and the snare
+- Indigenous legal traditions are the underground river, and the scholars that support it are attempting to bring it back to the surface bucket by bucket
+- A forward-looking argument on indigenous legal traditions is similar to walking into a snare, the further you go forward, the more the noose tightens
+- One possible argument like this is the prospect of liberalism and indigenous legal traditions existing in parallel
+- Generally the goal of these pieces is to present indigenous legal traditions as a non-threatening presence which will not affect the liberal order
+- Starts at a point where the state is a fixed variable and indigenous peoples must be slotted somewhere in that framework
+- This idea of creating a protective bubble for indigenous culture within the Canadian system is how the SCC seems to be going forward
+- Indigenous legal traditions will be somehow translated into a system of rights
+- Again, we're assuming that the Canadian legal system has the authority to do this to indigenous legal traditions
+- To avoid walking into the snare, we should seek to find a solution found outside of the dominant system
+- Instead of starting with the power of the Canadian state, we should start by thinking of the indigenous peoples of Canada
+- This could either result in successfully connecting indigenous peoples to their roots, or destroy that connection entirely
+### Arguments on Indigenous Legal Traditions
+- Supreme Court mainly relies on the cultural protection argument
+- Alternative to this is the self-determination argument
+- Rests on the recognition that the indigenous peoples were "here first"
+- Self determination doesn't require this, but it helps
+- Currently, the cultural argument is employed and promoted by both indigenous and non-indigenous peoples
+- Can argue that this is an example of the snare at work
+- However, it is entirely possible that indigenous peoples understand this very differently
+- The government describes cultural revitalization in  sense grounded in liberal democracy, but indigenous nations likely understand this as a much larger package of goals
+- Same goes for the self-determination argument, which the state has avoided using to justify revitalizing indigenous tradition
+- Neither argument should be discarded, just make sure to ground any solutions in the indigenous understanding of the argument
+### Arguments Against the Backdrop of Colonialism
+- Brings up the question of how we even define what is considered "indigenous"
+- After generations of European control it's hard to tell what existed prior to colonization
+- Also raises the issue of identifying indigenous nations
+- Simplest way is to tie indigenous identity to descent, but this is considered insufficient
+- Similar to the arguments, the two determiners that have been identified are culture and self-determination
+- Which markers are used for culture varies, but most indigenous peoples place particular importance on language
+- Indigenous political units are also considered key, especially considering how much effort has been spent towards eradicating them
+- What is considered "tradition" or "Indigenous" within any given indigenous community is highly contested, because of the history of colonization
+- Self-determination argument starts with the fact that indigenous societies will natural answer questions of identity
+- However, this ability has been damaged extensively by colonization
+### The Way Back and Then Forward
+- Now may be the first time that indigenous resistance is accepted by the dominant society
+- [[Standpoints|Identity]] is fluid, and largely constructed by the individual and the overlapping circles they run in
+- Any indigenous person will be a member of a family, a clan, a band, a nation, a member of a non-indigenous group, a Canadian citizen, an indigenous person in general, etc.
+- This fluid nature can either lead to forceful shaping from the government or fluid adaptation to a new form
+- What the government will try to do is define what "indigenous legal traditions" are and impose them on a new generation
+- Goal is to have indigenous peoples determine their own identity through close reflection, and work towards renewing indigenous legal traditions in a manner consistent with that identity
+- If this is how we're going forward, the Canadian government will have to adapt to the results of these projects
+- Or at least this is the hope
+- It is always possible that liberal doctrine will recognize that letting indigenous legal traditions develop on their own is unacceptable

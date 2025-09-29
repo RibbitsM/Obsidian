@@ -1,0 +1,7 @@
+- Gov of Quebec gave the AG authority to challenge the constitutionality of the *Act respecting First Nations, Inuit and Métis children, youth and families* 
+- Argument is that this is beyond the jurisdiction of Parliament
+- Court of Appeal held that it is valid except for ss. 21 and 22(3)
+- These sections give indigenous laws priority over provincial law
+- SCC views the act as valid as the 1867 Constitution Act gives parliament jurisdiction over "Indians, and Lands reserved for Indians"
+- ss. 21 and 22(3) deal with indigenous family relationships, and thus falls under jurisdiction
+- The relevant provision is s. 91(24) which covers the "Indigeneity" of Canada's indigenous peoples
