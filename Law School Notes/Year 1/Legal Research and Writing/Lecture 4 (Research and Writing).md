@@ -1,0 +1,26 @@
+- Remember to use the names of the plaintiff and defendant/accused when writing notes or a case summary/memo, makes reading it much easier
+- Case and statute names are always italicized
+- When writing names you can choose to use full names or either last or first names, last names are preferred but just make sure the format is consistent throughout
+- Don't need to use the names of the justices unless it's important, otherwise can just say the court said something
+- When there is a dissent from a specific judge, probably better to use their name
+- However, majority opinion is considered to be the opinion of the court
+- When referring to a decision of a court, try to use the full name of the court first, and then you can abbreviate it or simply refer to it as "the Court"
+- Put a paragraph number if you pull a quotation, otherwise no need to cite
+- Don't lump citations together at the end of a sentence, if there are multiple citations in the same sentence, put the citation next to the relevant sections
+- Usually don't need to bother citing the facts of a case unless there is a fact that emerges further on in the case
+- Remember you want to think about the experience of the reader
+- Try to avoid too many direct quotes, quote only when needed
+- If the court gives specific reasons for reaching a decision, make sure to include all of these reasons in your summary
+### Analysis
+- Make sure you are always covering both sides of the argument in your analysis
+- Not trying to make a convincing argument, try to represent the case as clearly as possible
+- Fine to write that one side is likely to win, make sure to mention which argument you think is stronger and mention that in your brief conclusion
+- Conclusion is the same as the brief conclusion, just going into more detail
+- When starting to write your analysis, always consider how you will organize it ahead of time
+- Best way will change from case to case, consider your options
+- Using headings within your analysis is a really useful way to make it more readable
+- Even if you think an element of your case will not arise in court, good idea to prepare for it anyway just in case you're incorrect
+- Try to add a brief conclusion of the argument to far after each heading if appropriate
+- Even if a certain element is obvious, you still need to establish that fact
+- Can also create headings for hypothetical circumstances based on facts you don't know definitively
+- 

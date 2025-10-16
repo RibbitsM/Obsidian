@@ -1,0 +1,6 @@
+- Principle in intentional torts
+- States that an act must **directly** cause injury to property
+- Must be able to draw an unbroken [[Lecture 9 (Crim)|chain of causation]] between the action and the injury caused
+- Cannot be any intervention by an independent agent between the act and the injury
+- Agent doesn't have to be another person, can be an environmental factor or anything else of the sort
+- No culpability if the injury was indirect, for example if an action created a dangerous situation and the injury arose from that situation

@@ -1,0 +1,35 @@
+- Appeal from a judgement on an assault case, where the case was dismissed
+- Both parties were in a rugby game, appellant was punched in the jaw by the respondent, as the appellant had just stepped on the face of their teammate
+- Trial judge found that the respondent was justified in the assault as they did it to protect another person
+- Issues before the court are whether this is a legitimate defence, whether the respondent used reasonable force, and what the damages should be
+- Happened in Saskatchewan, parties were on opposing teams that had split apart into separate teams several years prior
+- Evidence was very contradictory, but the evidence of the respondents team seemed to be thee most consistent
+- Incident happened during a ruck, a part of the game where players try to recover a grounded ball using their feet
+- Referee did not see the appellant step on the teammate, and gave the respondent a red card
+- Appellant stated that after the ruck, they stood up and was pushed, and accidentally stepped on someone
+- Immediately after, they were punched by the respondent
+- Teammate saw the punch, and saw the teammate who had allegedly been stepped on (Soulodre), holding the appellants leg
+- Did not see Soulodre get stepped on
+- Respondent stated that Soulodre tried to play the ball on the ground, which is against the rules, after which the appellant stomped his face repeatedly
+- Soulodre also stated his face was stepped on, and that he got cuts from the cleats
+- Another teammate of the respondent testified that the appellant stepped on Soulodre's face, and the respondent hit him almost immediately afterwards
+- Third teammate said the step was deliberate
+- All players agreed rugby is a violent sport, and hitting with fists or boots regularly goes unpunished
+### Analysis
+- Trial judge found that the blow was an assault, but that the defence of protection of another shielded the respondent from liability
+- Found in a torts textbook, states that it is lawful to use force against another to protect someone from unlawful use of force
+- Conditional on necessary and proportionate use of force
+- Argued that there was real threat to Soulodre, and the respondent acted instinctively and struck only once to prevent injury to Soulodre
+- This defence is also found in s. 37 of the *Criminal Code*
+- Some precedent for this defence being used in the past
+- Seems to be pretty rarely used, but widely accepted, although it does have to be limited in self-defence cases
+- This is because it is difficult to ascertain how much danger someone else is in, and they should be given the benefit of the doubt
+- Appellant argued that it should not apply to organized sports, but the court found no justification for this argument
+- May be relevant as engaging in contact sports involves consenting to a certain amount of force, but not this much
+- Overall, appeal court found that the trial judge was correct in finding that the defence was available
+- Nothing wrong with the defence, and the appellant stepping on Soulodre could be considered committing an assault so the respondent was justified
+- Can argue that the respondent used unreasonable force as they could have pushed the appellant instead of punching them
+- However, this was a split second decision made during a very rough game
+- Referee attested that the respondent usually followed the rules, and the fact that they only struck once indicates they only moved to protect Soulodre
+- Also, while the appellants jaw was pretty seriously injured, this is unusual for a single hit like this
+- Overall, force was considered reasonable, and appeal was dismissed

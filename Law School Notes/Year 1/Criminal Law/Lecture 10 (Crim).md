@@ -1,0 +1,107 @@
+- In general, we do not criminalize omissions, but there are exceptions
+- Main examples of omissions are in cases involving duties, criminal negligence, or common law offences
+- Also can be a combination of these factors
+- In the case of common law offences, courts will try to avoid creating new offences
+### Voluntariness
+- To establish *actus reus*, an act must be voluntary
+- This is different from establishing intention, act must be physically voluntary
+- For example, you will not be held liable for situations where you can't control your body
+- Issues of voluntariness will be handled differently depending on what the source of involuntary behaviour is
+- If involuntariness is caused by drugs, handled under the defence of intoxication
+- If caused by a mental condition, handled under defence of mental illness
+- If caused by other medical factors such as sleepwalking or a seizure, no clear option
+#### [[R v Jiang]]
+- Accused fell asleep while driving home from Stanley Park and jumped the curb, hitting two kids
+- Charged for dangerous driving but was acquitted because her actions were involuntary as she was unconscious
+- This is not always the case when drivers fall asleep, if they could reasonably foresee themselves falling asleep while driving this would be considered recklessness
+- In the trial, the accused got an expert witness to attest that there was no prior indication that she would fall asleep after getting in the car
+#### [[Kilbride v Lake]]
+- Another example of a voluntariness case, this time involving an omission
+- Plaintiff challenged a ticket issued to him after failing to display a permit on his parked car
+- Argued that he had the permit displayed, but it had been removed prior to the ticket attendant walking by his vehicle
+- Demonstrated that he had paid for the permit on the day the ticket was issued
+- Actions leading to the ticket being issued were outside of his control, plaintiff made no voluntary acts that led to this result
+### Causation
+- When do we know that the actions of an accused result in a certain consequence?
+- Criminal law has its own test for causation that is distinct from the test used in torts
+- Test may differ depending on the charge, this is a matter of judicial debate
+- In most cases, there is not just one factor that leads to a certain criminal consequence
+- Often there are multiple, with the actions of the accused being just one
+- Question is what level of responsibility is required to hold the accused criminally liable for a certain consequence
+- This is an especially significant issue when it comes to first-degree murder cases
+### [[R v Blaue]]
+- Victim was sexually assaulted and stabbed by a home intruder, and was rushed to the hospital
+- Lost significant amounts of blood, but refused blood transfusion on religious grounds as she was a [[Malette v Shulman|Jehovah's Witness]]
+- Issue is whether the actions of the accused caused the death, and whether the victim's decision to reject a blood transfusion disrupted the chain of causation
+- Court established that there is no "duty to mitigate" in criminal law, also known as the "thin-skull rule"
+- Is also sometimes written as a obligation for the accused to "take the victim as they see them"
+- Basically means that the susceptibility of a victim to injury is not a mitigating factor
+- Defence argued that the victim acted unreasonably by rejecting the blood transfusion, and the accused should not be held liable for murder because of this decision
+- Court still held that the stab wound was an operating cause at the time of death
+- Victim died from blood loss, which was caused by the accused, not by the decisions of the victim
+- Raises the issue of how to evaluate the reasonability of religious decisions
+- Creates a risk of labelling religious practice as "reasonable" or "unreasonable"
+- Causes further complications in a trial by jury, depending on the religious affiliation of the jurors, final decision could be entirely different
+- Makes it difficult to preserve objectivity of the reasonability test if we assume the religious beliefs of the third party observer
+- Overall result is that reasonability is often difficult or impossible to determine in religious contexts, and causation does not require victims to act reasonably
+### [[R v Smith]]
+- What happens when medical treatment decisions are not made by the victim?
+- Accused stabbed the victim with a bayonet during a barracks fights, and was convicted via court-martial when the victim died of blood loss
+- When being taken to the hospital, victim was dropped repeatedly and received improper triage, resulting in their treatment being misdiagnosed and significantly delayed
+- Court found that the victim likely would have lived if they received proper care
+- Defence argued that this breaks the chain of causation
+- However, the Court ultimately determined that the wound was an operating cause at the time of death
+- This was compared to the *Smithers* case where the victim died after being kicked once in the stomach in a brawl after a hockey game
+- Their throat somehow malfunctioned and caused them to choke on their own vomit after being kicked
+- Based on the "thin-skull" rule, the Court determined that this qualified as manslaughter
+- Causation was preserved as long as the accused played more than a *de minimis* role in the death of the victim
+- Very low standard, is compensated by lenient sentencing in cases like these
+- Can also find elements of causation in the [[Criminal Code]]
+- Section 224 and s. 226 establish that when an action causes death, actor is liable even in cases where death is preventable or medical treatment is improperly administered
+- Can also be held liable for aggravating a medical condition that later causes death
+- However, these are the only kinds of cases addressed directly in the *Code*
+- Murder has the same *actus reus* as manslaughter, except the requirements of *mens rea* are stricter and punishment is more severe
+- Raises the issue of whether murder should share the same causation test as manslaughter
+- First addressed in *R v Harbottle*
+- First-degree murder is an aggravated instance of murder, which can be reached through multiple different methods
+- One way is to commit murder simultaneously with a "crime of domination" such as kidnapping or sexual assault
+- Victim was sexually assaulted by the defendants and killed, with Harbottle holding down the victims legs while the co-defendant choked her to death
+- Defence argued that the *Smithers* test should not be used to determine if Harbottle was a co-principal in the killing
+- Higher standard should be used to establish culpability for first-degree murder
+- Based on interpretation of s. 5 and s. 6 of the *Criminal Code*, which requires that the accused "caused the death of the victim"
+- This wording is not included in other provisions regarding first-degree murder, only in the case of a crime of domination
+- Implies the requirement of a higher standard of liability
+- Established a new requirement for first-degree murder in the case of crimes of domination, but still resulted in the accused being held liable for first-degree murder
+### [[R v Nette]]
+- Raises the issue of whether the *Harbottle* standard also applies to other murder charges
+- Victim was an elderly woman who was robbed and hogtied in her home for 2 days, before ultimately dying of suffocation after falling over and swallowing her dentures while restrained
+- Issue for the courts was whether this constituted first or second degree murder, or manslaughter
+- Trial judge informed the jury that the *Harbottle* test must be satisfied to convict on first degree murder, and the *Smithers* test must be satisfied for second degree murder or manslaughter
+- Jury convicted on second degree murder, defence appealed arguing that they had been improperly charged
+- Argued that the *Harbottle* test should be applied to second degree murder as well
+- Supreme Court rejected this argument, stating there is only one test for causation
+- *Smithers* test is always used, and *Harbottle* is applied on top in cases where there is evidence to suggest first degree murder by way of a crime of domination
+- Dissenting judge disagreed with the majority's explanation of the *Smithers* test
+- Took issue with the use of *de minimis* as well as describing it as a "not insignificant" factor
+- The first is an unnecessary use of Latin, and the latter is a double negative
+- Majority agreed with this, and proposed describing *Smithers* as requiring a "significant" factor
+- However, dissenting judge argued that the phrase "significant" does not seem equivalent to "not insignificant"
+- May inadvertently result in the test being raised
+- No clear results on whether most courts adopted the majority or dissenting wording
+- Recall that we are not looking for factual causation, only legal causation
+- Test of "significant contributing cause" is used for all matters of causation in the criminal law
+### [[R v JSR]]
+- Accused was involved in a shootout on Yonge St during Boxing Day which resulted in the death of a young girl and the injury of several bystanders
+- Two shooters, the accused is described as the southbound shooter, and the other as the northbound shooter
+- Victim was killed by a single shot from the northbound shooter, evidence is unclear on which shooter fired first
+- Possible that the northbound shooter fired first and killed the victim with their first shot
+- Issue at hand is whether the accused can be charged for second degree murder or manslaughter (pre-trial hearing), defence sought to evade both charges
+- Court of Appeal sought to establish whether or not the actions of the accused were a significant contributing cause of death
+- To determine this, need to establish whether the actions of the northbound shooter broke the chain of causation
+- Difficult considering we do not know who shot first
+- Court of Appeal concluded that the most convincing scenario was that both sides implicitly agreed to engage in the shootout via posturing
+- Both had gotten into a conflict earlier inside a store, and the northbound shooter made comments to the accused before revealing his gun immediately before the shootout
+- Accused had the option to back down or suggest moving the conflict to a less crowded area, but instead made the choice to engage with the northbound shooter
+- Used the example of street racing as an allegory, if a bystander is injured during a street race, both contestants are considered equally guilty
+- This is because they are engaging in a "joint venture"
+- Applied this same logic to the shootout between the accused and the northbound shooter

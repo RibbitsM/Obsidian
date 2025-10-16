@@ -1,0 +1,21 @@
+- Primary point of creating a CAN is as a memory guide, not a cheat sheet or a notes compilation
+- Act of creating the CAN in the first place is a form of studying
+- Depending on exam guidelines, you may be able to bring part of or your entire CAN into an exam
+- Fine to look at how other people have made CANs, but you should really try to make your own
+- Easier to do it as you go, but if you do most of it in December it'll be more fresh in your memory for exams
+- Pretty time consuming, will probably take at least a month
+- Ideal situation is to start at the end of the first month
+- Start with Torts and Property, leave Criminal and Contracts for later
+- Structure your CAN based on the syllabus and what's in your class notes
+- Apart from this, you can look through the textbook, secondary sources, or previous CANs for what you should add
+- Compiling all the information you will need for an exam is the first step of CANning
+- Want to make sure you can properly understand and express all the concepts
+- Try to create your own structure to make it easier to use
+- Definitely try to practice quickly finding information in your physical CAN
+- Most example CANs are pretty long and will use table of contents and stuff, but you won't be able to bring your CAN into most exams
+- Main headings should be class topics, and then do subheadings for important cases
+- Once you've summarized your cases, try to figure out how individual cases sort into the class as a whole
+- Try using sticky tabs or highlights to help you use it quickly
+- Can also make flashcards for important cases
+- Sometimes you can make essay prep by doing pro and con lists with citations for what you think the topic will be
+- Probably going to have to do this for ISLR

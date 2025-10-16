@@ -1,0 +1,62 @@
+- Originally, common law only enforced agreements in writing and under seal
+- Oral contracts were never upheld had to be under covenant
+- Three sub-topics for agreements in writing
+- First is legislation, some statutory provisions require certain agreements to be made in writing
+- Second topic is incorporation, which is the process of "incorporating" terms on a document exchanged between parties into an agreement between the two
+- Most common version of this case is with receipts or tickets with terms and conditions
+- Third is extrinsic evidence, where evidence from outside the signed documents exchanged between parties is brought into the agreement, also called the "parol evidence rule"
+### Legislation
+- Which agreements must be in writing to be recognized?
+- Origin of legislation covering this was the 1677 *Statute of Frauds*
+- Created because at the time, there was a prevalent issue of people defrauding others through perjury or interference with witnesses
+- Established the *Statute of Frauds* to ensure that there were signed documents to rely on when determining whether an agreement was actually made
+- This statute eventually came to be adopted by the Commonwealth countries
+- Many provinces also adopted versions of the statute, but most have since been repealed
+- In BC, the successor to the *Statute of Frauds* is the *Law and Equity Act*
+- Only place in BC law where you can find requirements for agreements to be written
+- Legal disputes over agreements in writing generally have to do with land
+- Common theme of land transactions being especially protected in Canada
+- After it was enacted, BC courts had concerns that the statute could be used for fraud on the other end, by using a lack of writing to avoid accountability
+- In extreme cases, you could also take advantage of the rule by forging contracts
+- Section 59(3) of the *Law and Equity Act* offers multiple options to demonstrate that a land holding is enforceable
+- Can be in writing and signed (a), but also the other party can demonstrate behaviour that suggests compliance with the contract made with the plaintiff (b)
+- Can call this the "part performance" doctrine, and is fairly hard to prove
+- Also, contracts can be recognized if the plaintiff can prove detrimental reliance on the contract 
+- If the contract is not enforced, outcome is too inequitable as the plaintiff has relied on the enforceability of the contract (c)
+- This section usually goes hand in hand with the previous section, as these scenarios often also involve partial performance of the contract
+- While it's preferable to have land contracts in writing, there is the possibility of enforcement for land contracts that aren't in writing
+- Section 59(6) of the same act establishes that guarantees and indemnities must be in writing, but also allows enforcement if the guarantor or indemnitor has acted in a way that suggests a guarantee/indemnity agreement had been made
+- Very few agreements that absolutely have to be in writing in BC
+- Only examples of this come from BC consumer protection legislation
+- For example, a payday loan absolutely has to be given in writing to be enforceable
+- Done because these are inherently very predatory and onerous loans
+### Incorporation
+- Usually applies to scenarios where some sort of waiver or receipt limits liability
+- Written document appears in the dealings between parties that one party wants to "incorporate" into their agreement
+- Often this appears as a "standard form" used by one of the parties in all their business dealings
+- Some jurisdictions have statutes preventing the application of especially harsh standard forms
+- General principle is that the court does not want one of the parties to be surprised or treated unfairly
+- Comes in two categories, those where there is no signature, and those where there is a signature
+- Obviously, the latter category is much more likely to involve incorporation
+- Argument is that the presence of your signature suggests that you likely at least saw the document, even if you didn't read it carefully
+- BC does have protection from harsh terms, under the *Consumer Protection Act*
+#### Unsigned Documents
+- Main example for this is *Parker v South Eastern Railway* where the plaintiff was storing their goods on a train and received a receipt with a limitation of liability clause
+- Plaintiff's luggage was lost or damaged, and attempted to sue the defendant
+- Defendant presented the receipt, and court had to create a way to deal with it
+- In the end, the Court of Appeal sent the case back to trial court
+- Established that if a recipient knows a document contains conditions, those conditions apply even if the recipient did not read them
+- If there isn't evidence the recipient knows that a document contains conditions, need to establish whether they could reasonably be expected to know that
+- Usually depends on the grantor of the document drawing notice to the presence of conditions
+- This is especially true if the conditions in question are especially harsh
+- For example, difference between limitation of liability being $1000 and $0
+- Even if notice is given that terms apply, may have to require drawing notice to a specific term
+- If the recipient couldn't assume conditions applied, courts will generally not enforce it
+- Many of these decisions end up being determined on the basis of fairness
+- Documents that technically give notice but it is done through very small print are usually unenforceable, as they are intended to deceive, not inform
+- Having a sign indicating terms and conditions can also help, but only if the sign is shown before the contract is made not after
+- History can also be important, even if terms are provided late or not at all, can still apply if both parties have become accustomed to dealing on certain terms
+- Example of this comes from *British Crane Hire v Ipswich Plant Hire* where both parties ran construction rental companies, and one rented equipment to the other
+- Even though terms were provided late, they were upheld as the plaintiff was used to the terms and even provided them regularly to their own customers
+- History can also go the other way, is practice has been inconsistent, court will be less inclined to rely on previous written terms
+- 

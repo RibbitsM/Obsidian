@@ -1,0 +1,46 @@
+- Recall that there is a presumption of intent to create legal relations in a commercial context, but not in a social context
+- Weird middle category between commercial and social contracts are the cases between customers and commercial entities
+- Referred to broadly as consumer transactions
+- Example would be a real estate transaction between strangers who were not professionals (*Girouard v Druet*)
+- Is this a social or commercial context?
+- The two parties communicated via email, exchanging prices which resulted in a viewing being scheduled and the owner accepting the buyers offer
+- Later on, the seller tried to withdraw the acceptance
+- In the end, the court found that In the case of real estate sales between parties not assisted by real estate professionals, it is best to presume there is no intent to create legal relations
+- Ended up determining that there was no intent and the contract was never formed
+- The question is whether this case effectively creates a new category of contracts or not
+- The court could have reached the same result by presuming there was intent to create legal relations and just rebutting it using the facts of the case
+- An important point in this case is that the buyer scheduled a viewing at the same time that they purportedly accepted the offer
+- Court rightly noted that it is unlikely they intended to make a binding agreement to buy the property before they had seen it
+- Also, the parties were in the process of making a draft agreement, suggesting that the matter was "subject to contract"
+### Domestic Arrangements
+- Opposite side of the coin, presume no intent to create legal relations
+- Usually litigation between spouses or parents and children
+#### *Balfour v Balfour*
+- Landmark case that established the precedent of no presumption
+- Wife sued her husband to uphold a promise made to pay her a monthly allowance before they separated
+- Appellate court ruled against the wife considering that agreements between spouses are not presumed to be legally binding
+- This presumption relies on an assumption that family members rely on mutual ties of trust and affection to enforce agreements as opposed to legal obligations
+- Although the husband and wife were divorced at the time of the lawsuit, they were married when the promise was made
+- In the case of *Merritt v Merritt*, the spouses in question were separating when the agreement was made and the presumption of no intent to create legal relations was removed
+- Shows that even in a domestic arrangement, the presumption of no intent can be rebutted
+- The facts of the case still matter, the presumption is not the end of the story
+- Usually, when this presumption is rebutted, one of the parties was relying detrimentally on a presumed binding nature of an agreement
+#### *Jones v Padavatton*
+- This is an excellent example of detrimental reliance, but in this case that fact was not taken into account
+- UK case from 1969 between mother and daughter
+- Mother wanted her daughter to move from Washington to London to attend law school, but her daughter was reluctant to move especially because she had an infant son
+- Mother convinced her to move with a promise of a monthly allowance and that she would buy a house in London for her and rent out some rooms to offset the living costs
+- Worked well for about five years, but law school is only supposed to take three years
+- After five years, the mom showed up and took control of the house and end the agreement
+- Daughter sued to enforce a legally binding arrangement, and the courts found that there was no intention to create legal relations
+- Court was split almost in half, some relied on the presumption but others found that the presumption had been defeated due to the detrimental reliance
+- However, there was also the fact that you could infer that the contract had an implied term that it would last only for a reasonable time
+- The fact that the daughter took two extra years to finish her studies led the contract to expire
+- Eventually, the majority ruled for the mother
+#### Non-Familial Relations
+- Most non-commercial cases are parent-child or spousal cases, but there are a few non-domestic cases
+- One example was an arrangement among co-workers that a holder of Blue Jays season tickets would share among their co-workers (*Pobasco v Cogan*)
+- This was held to be unenforceable
+- However, in the example of an agreement where multiple people pool money to buy lottery tickets, the winner would be legally bound to uphold this agreement (*Taylor v Smith*)
+- Also, a similar agreement to split the rewards from a newspaper writing contest was also upheld (*Simpkins v Pays*)
+- Main distinguisher here seems to be agreements to split rewards, especially money

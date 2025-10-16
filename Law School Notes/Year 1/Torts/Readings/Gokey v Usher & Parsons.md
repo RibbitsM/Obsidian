@@ -1,0 +1,8 @@
+- Assault and battery case, minor physical damage to the defendant
+- Conflict initiated over a water well shared between the properties of the plaintiff and the defendants
+- Gokey brought the matter to court first, but it was found that he was more at fault
+- Usher sought damages of $10,000, which was excessive for the minor bruising he suffered
+- Defendants also sought damages for trespass, as the plaintiff entered their home without permission
+- Multiple claims on both sides, defendants also occasionally ventured into the plaintiff's yard to do yard work
+- Main trespass by the plaintiff was that they entered the defendants home to deliver a letter, when he could have left it outside
+- Finally, the defendants also sought damages for nuisance because the plaintiff was consistently lighting fires along their property line and creating loud noises intentionally to torment them

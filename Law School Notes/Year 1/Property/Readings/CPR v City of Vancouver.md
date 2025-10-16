@@ -1,0 +1,27 @@
+- Lawsuit was regarding the Arbutus Greenway, which was originally a plot of land granted to the CPR
+- CPR built a railway on this land in 1902, but traffic declined after a couple of decades 
+- Rail operations were fully discontinued in 1999
+- CPR tried to get groups willing to develop the land, and even expressed desire to sell it to the City of Vancouver
+- When the City refused, the CPR argued that they had an obligation to buy it as it was not being used for anything
+- City had plans to preserve it for transportation, but did not want to buy it
+- Instead, passed a Official Development Plan (ODP) bylaw zoning the land as a public thoroughfare
+- These plans do not affect property rights, unless they become ODPs in which case they forbid development contrary to the plan
+- Basically prevented the CPR from redeveloping the land and forced them to use it for non-economic purposes only
+- CPR argued that the bylaw was *ultra vires*, and that the city must compensate them for the land
+- Chambers judge sided with the CPR, but the City appealed to the BCCA who allowed the appeal
+- CPR appealed to the Supreme Court, who ultimately dismissed the appeal
+- CPR argued there was a presumption that any taking of property must be compensated
+- This bylaw has the effect of taking the Arbutus Corridor away from them as they cannot use it for economic purposes
+- However, they technically can still use it as a railway
+- According to common law, any government act that prevents a landowner from reasonable use of their land is *de facto* expropriation
+- For compensation in these scenarios, there must be an acquisition of an interest in the property, or a removal of all reasonable uses of the property
+- Neither of these apply here
+- The Arbutus Corridor is not really a city park, as all the people who use it for walking are technically trespassers
+- All the City got was an assurance it would not be developed
+- As we mentioned earlier, the CPR can still use it for the reasonable purpose of constructing a railway
+- CPR also argued that the provision of the *Vancouver Charter* that allows the ODPs is inconsistent with the *Expropriation Act*
+- This is because the *Expropriation Act* requires compensation, while the *Charter* states that the City doesn't have to compensate for the effects of an ODP
+- Logic fails because as previously established, an ODP is different from expropriation
+- Finally, the *Charter* includes s. 569, which ensures that ODP bylaws are distinct from "taking"
+- This makes the common law *de facto* taking argument invalid
+- 

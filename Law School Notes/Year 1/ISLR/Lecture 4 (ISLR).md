@@ -1,0 +1,70 @@
+- US-Canadian border can also affect status under the *Indian Act*
+- Especially in Coast Salish communities that often stretch over the border, can split families apart that are spread across multiple reserves on both sides of the border
+- Being a non-status has some benefits like being allowed to own property in fee simple, but separates relatives and friends
+- Can help bring communities back together and enables access to federal support like exemptions on tuition
+- Status under the Indian Act is divided into two categories
+- Status under s. 6(1)(a) is full status, and s. 6(2) provides half status, meaning you can't pass status to your children unless your spouse is also status
+- Explained more in the [[Settler Colonialism in Canada|readings]]
+- For Musqueam, Indian Act elections were introduced in 1952
+- Did not replace traditional governance processes, so most families are represented on the band council
+- Replicates the traditional engagement of families in the political process
+- Coast Salish world does not have clans or hereditary chiefs in the same way as other Indigenous groups
+- Indian Act elections involved several individuals being appointed as chief by the Indian Agent
+- Many of the descendants of these individuals claim to be hereditary chiefs
+- Example of how the Indian Act disrupts traditional governance
+- Unlike most communities, the Musqueam often refer to themselves as the Musqueam Indian Band, which is unusual among Indigenous communities
+- Shows the rhetorical power of the Indian Act and how it affects self-determination
+- Indigenous groups are slowly gaining more control over things like land management and taxation in their communities
+- Agreements have also been made with third parties in terms of land management and promises from businesses on Indigenous land
+- We also have the rise of Aboriginal title decisions, you don't have to go to court, there is also a method of simply submitting a claim and settling outside of court
+- This is how the Haida title agreements were mainly made
+- On September 5th, the courts recognized Aboriginal, but not Haida title to all of Haida Gwaii up to the low tide mark
+- In these agreements, Haida title is considered distinct from Aboriginal title
+- Has a more complicated meaning which better expresses the Haida conception of land ownership and stewardship
+- Seem to be the next step for land management after Aboriginal title is recognized
+- Musqueam council speak for the entire traditional territory, not just reserve land
+### [[Indian Act Colonialism|Legislation History]]
+- The White Paper was based on a concept of fundamental equality, which includes repealing any benefits currently being given to minority groups such as the Indigenous population
+- Aboriginal title first recognized in 1973 due to the Calder decision
+- Led Trudeau to re-evaluate his view on Indigenous rights
+- Created the groundwork for modern treaty agreements
+- The Red Paper was written by Harold Cardinal, and existed as a counterpoint to the White Paper
+- Main issue at the time of the 1982 Constitution was how Indigenous self-government would be treated
+- Any granting of self-government was heavily opposed by the provinces
+- Series of constitutional conferences where this theme carried through, and the matter was ultimately left up to the courts
+- The Penner Report was a subcommittee of report on Indian Act gender discrimination that focused on self-government
+- Recommended federal legislation that would recognize self-government in specific circumstances
+- Shelved, and conversations on this topic were moved to the constitutional conferences
+- Main reason for the creation of s. 91(24) and the *Indian Act* was to organize Indigenous groups into bands
+- This let them create the groups they would later negotiate treaties with them
+- Goal of the Royal Proclamation was to obtain land from Indigenous peoples that could be used for settlement
+- Other goals of the Canadian government were to limit liability from the *Indian Act* and to limit the costs as well
+- In the *Logan v Styres* case, the elected council under the *Indian Act* was surrendering land to the federal government, and the hereditary chiefs tried to challenge this decision
+- Events like the Civil War and the Irish Potato Famine increased migrant populations to Canada, increasing pressure to make more land available
+- The *Indian Protection Act* of 1850 shows this need to obtain Indigenous land, which prohibits purchase of land from "Indians" and cuts off other means of obtaining this land as well by preventing Indigenous land from being seized in case of debt
+- Presented as being intended to protect Indigenous land, but really just put the transfer of land fully in the hands of the government
+- Soon after, the *Gradual Civilization Act* of 1857 put into motion the process of enfranchisement
+- Fully crystallized in the *Gradual Enfranchisement Act* of 1869 which also set out the discriminatory practices that forced women to give up status when marrying non-status men
+- *Indian Act* in 1876 brought all of this into a single piece of legislation
+- Defined the term "band", a prominent example of denying self-determination
+- While some Indigenous groups do still practice traditional governance under the framework of the *Indian Act*, this structure was imposed from the outside
+- Prohibited Indigenous groups from raising money for legal claims used to pursue land claims
+- Criminalized ceremonial activities like the Potlatch
+- Another element less mentioned is the pass and permit system which placed barriers for Indigenous farmers to overcome when taking their products to market
+- Made it so that their products often rotted or went out of season before they could be sold
+### Indigenous Women Legal Advocacy
+- Happened during the debate between formal and substantive equality
+- Gender discrimination within the *Indian Act* was considered valid as it followed from the governments ability to distinguish between Indians and non-Indians under s. 91(24)
+- The peak of the legal action against sex discrimination tied in with the push fo self-governance
+- Native Womens Association of Canada was not allowed to attend the constitutional conferences
+- Because of this, the Governor General at the time was one of the only women at the conferences
+- At these conferences, the band councils mainly argued that the *Indian Act* should be reformed to recognize self-government first
+- Didn't want to let the women back in because it would reduce community funding
+- Issues were framed as being mutually exclusive, could not have sex discrimination reform and self-governance at the same time
+- But the reality is that the collective rights of self-determination cannot be effective if Indigenous women are still excluded from participation
+- Right to self government had to be determined through court challenges related to s. 35
+- At the same time, the issue of Indigenous women was being remedied through statutory amendments
+- Harper government began to make changes to the *Indian Act* to allow for more freedom for band councils and expand the definition of status
+- Examples are [[Settler Colonialism in Canada|Bill C-31 and S-3]]
+### Discussion Section
+- 

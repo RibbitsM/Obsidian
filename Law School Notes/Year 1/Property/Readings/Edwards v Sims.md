@@ -1,0 +1,36 @@
+- Case regards the ownership of Great Onyx Cave (part of Mammoth Cave National Park), which was developed as a tourist attraction by the plaintiff, Edwards
+- About a third of the cave is located under his neighbour Lee's property, but is only accessible via Edwards' property
+- Lee tried to sue Edwards for trespass, and as a preliminary issue needed to determine whether Lee could take a survey of the cave
+- This issue was decided by Judge Sims, who is the defendant in this case
+- Edward brought action against Sims to determine whether he could compel Edwards to allow a survey onto his property
+- Starts by asserting the Latin maxim establishing that property lines extend infinitely upwards and downwards
+- Issue is whether the court should be allowed to violate that right in order to bring another case to a definite conclusion
+- No direct analogy to any other cases, but can be compared to cases regarding mines
+- Previously established that courts of equity can compel mine owners via injunction to allow inspection as part of a lawsuit involving trespass
+- Party requesting the inspection must provide facts demonstrating the necessity of the inspection
+- No difference between this and the current case, and Lee has already demonstrated the necessity, therefore court will order the survey
+### Dissent
+- Argues that allowing the inspection creates significant harm to Edwards without benefitting Lee
+- Also disagrees with the *Cujus est solum* maxim, arguing that it is unreasonable
+- Was never true in the past, it just happened that there hadn't yet been a case that properly challenged this principle
+- In the light of modern developments, it should be reassessed
+- Even specifically mentions the rule we now recognize from *[[Lecture 12 (Property)|Lacroix v The Queen]]*
+- Argues that instead, the surface owner should have the right to anything they can extract from the earth and use for their benefit
+- This is actually an extension of the rule that airspace rights only extend to the point where the owner can reasonably use or occupy it
+- Can only "use" a cave if it's accessible, no value in having a property interest in an inaccessible cavern
+- Therefore, caves belong entirely to the person who owns the property containing its entrance
+- Ownership extends to any portion of the cave they have explored or connected with the entrance
+- Argues that without Edwards' intense efforts of expanding and making the cave accessible and thereafter advertising it, it would have held no value at all
+- As a court of equity, the court should avoid destroying this marvel that Edwards has created simply because of an outdated principal
+- Appeal dismissed
+### Context
+- Edwards discovered Great Onyx Cave with the assistance of another man named Turner, who was a geologist who had the requisite experience to find a decent opening
+- Agreement was that he would have a 50% cut of the proceeds
+- Edwards ended up ripping him off
+- The dissenting judge, Judge Logan, was a Kentucky local who once taught in a county nearby Great Onyx Cave
+- He would have certainly been aware of Edwards and his dispute with Turner
+- Also was instrumental in creating Mammoth Cave National Park
+- Likely that his ruling here was influenced by the fact that it would make it much easier to expand the park by buying up surrounding caves
+- Instead of having to pay off every surface landowner, just need access to the entrance
+- Also prevents the possibility of one partial owner of a cave holding out against attempts to purchase their share, as lacking access to even one small part of the cave can make it worthless
+- Still doesn't explain why bro was so poetic about it

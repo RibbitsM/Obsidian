@@ -1,0 +1,28 @@
+- SCC case that was appealed from a BC Court of Appeal decision
+- Accused failed to give his name to a police officer after being observed committing a traffic offence
+- Was convicted of obstructing a police officer
+- Officer saw the accused run a red light, and attempted to stop him under s. 126 of the *Motor-Vehicle Act*
+- Accused did not stop or give his name and attempted to evade arrest
+- Acquitted at trial, and the Crown appealed to BC Court of Appeal, which overturned the acquittal and ordered a new trial
+- SCC ruled that a bicycle is not a "motor vehicle" and therefore the accused had no obligation to state their name accurately under s. 58 of the *Motor-Vehicle Act*
+- However, police officer had the authority to arrest for a summary conviction offence if necessary to establish identity under s. 450(2) of the *Criminal Code* and s. 30 of the *Police Act*
+- Running a red light is a summary conviction, and the police officer was following their duty in asking the accused for their name
+- In exchange, the accused had a reciprocal duty to respond
+- Due to the accused not doing so, they were obstructing the officer in the performance of their duty
+- On these grounds, the SCC dismissed the appeal
+### Dissenting Opinion
+- Argues that the legal issue is the power of interrogation and the right to remain silent
+- Rooted in two principles, presumption of innocence and privilege against self-incrimination
+- These can be overridden explicitly by statute, but in this case there is no statute doing so
+- General principle is that the accused would not be guilty of obstructing a police officer unless they were required to act by law
+- This can include statutory or common law
+- The accused was not required to do so under statutory law, because as previously mentioned, the *Motor-Vehicle Act* doesn't apply to bikes
+- However, it did prohibit proceeding through the red light
+- Police officer also had the power to arrest the accused if it were necessary to establish their identity
+- Argues that this does not lead to the accused committing the offence of obstructing the officer
+- There is also no common law duty to identify yourself to the police
+- The Crown also implied that there is a reciprocal duty to respond when asked a question by a constable
+- The fact that the officer has a duty to identify a person does not imply that the person in question needs to cooperate
+- Points out that the *Motor Vehicle Act* doesn't apply to bikes for a reason, because less scrutiny is needed
+- Criminal law is not a place to introduce implied duties that can land you in prison for violating them
+- Argues to allow the appeal

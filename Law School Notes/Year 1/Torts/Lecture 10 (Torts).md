@@ -1,0 +1,54 @@
+- Recall that the main defence against a nuisance action is the defence of statutory authority
+- Other defence is statutory immunity, which is slightly different
+- Statutory authority is a common law defence, while statutory immunity requires the existence of a statute specifically waiving liability
+- Apart from this, other defences come from the balancing of the benefit created by the defendant and the harms suffered by the plaintiff
+- Consent of the plaintiff is also an important variable to consider
+- If some negligence on the part of the plaintiff contributed to the nuisance, this may also contribute to a defence
+### Remedies
+- Primary remedies for nuisance are damages and injunctions
+- Either you get monetary compensation, or a court order requiring an end to the nuisance
+- Usually, the plaintiff will be seeking an injunction, and tends to be the most harmful option for the defendant
+- An important question to answer is whether the judge should award damages or injunction
+- Damages will be granted when the plaintiff has suffered property damage or damage to their person from the defendant's actions
+- However, this mainly applies when the defendant's actions are not ongoing
+- When the nuisance is continuous, courts will tend to lead towards issuing injunctions
+### [[Shelfer v London Electric Light Co]]
+- Established most of the common law principles to determine when damages should be issued in place of an injunction
+- Even if there is damage to property or person, can that damage be measured in monetary terms?
+- Usually fine for property damage, but can be harder in situations where a nuisance imposes a mental burden
+- Defendant can also disentitle themselves from "relief" by the court
+- Generally, the court will try to take the actions of the defendant into account, and try to issue a remedy that would be acceptable by the plaintiff while not harming the defendant
+- However, this requirement can be waived if the actions of the defendant are especially callous
+- Can also be situations where the damages suffered by the plaintiff are too extensive to be remedied by damages alone
+- The public benefit of the defendants actions are also an important factor to consider
+- For example, in *E.G. Black v Can. Copper Co*, the defendant was not issued an injunction because the entire community relied on the operation of their mine
+- In a similar case, the judges in *Bottom v Ont. Leaf Tobacco Co* denied an injunction as the community relied on the operations of a local factory
+- Finally, in [[Miller v Jackson]], the court determined that the value created to the community by the cricket field outweighed the plaintiff's request for an injunction
+- However, this is a not a determinative factor
+- In *Canada Paper Co v Brown*, an important factory in a small community was issued an injunction because it was spreading noxious fumes across the community
+- Judges argued that the rights of the plaintiff exceeded the potential harm to the community
+### [[Spur Industries v Del E Webb Dev Co]]
+- Appellant operated a feedlot in a rural agricultural area, and the defendant purchased land nearby to build a housing development called "Sun City"
+- As Sun City grew closer to the feedlot, the residents began to complain about the smell coming from the feedlot, and house sales began to drop off significantly
+- Defendant requested an injunction against Spur, and received it, when Spur appealed
+- Court determined that it was decisively a nuisance, Spur was producing much more manure than was reasonable for an operation of its size
+- Failed the test of local standards
+- Court also pointed out that the effect was not just on Del Webb, but also on the citizens of Sun City
+- The most interesting part of this case was that while Spur Industries was issued an injunction and required to move their operations, Del Webb had to indemnify them
+- Spur was there first, and Del Webb should have easily been able to foresee the nuisance
+- Nuisance was not the fault of Spur at all, Webb held the majority of the blame
+- However, we still need to respect the rights of the citizens, and Spur had to move
+- Therefore, Del Webb should have to pay for the costs of Spur moving their operations
+### Practice Question 1 + 2
+- Plaintiff is a yoga instructor who recently moved into a residential neighbourhood
+- Their neighbour operates a small confectionary business in their backyard, and sell candies and chocolates to the local community, and has done so for about five years
+- Complains that the grinding of the production process is stressing them out and giving them migraines, and sues the neighbour
+- Issue is whether or not operating a confectionary business in a residential neighbourhood should be considered a nuisance
+- In this case, we are trying to advise Matthew (the business owner)
+- Examining the elements of the action, the activity is certainly sustained, as Billy (the yoga instructor) suggests that the grinding noise is constant
+- It also clearly creates a harm, and is interfering with Billy's enjoyment of their property by giving them migraines and insomnia
+- Question is whether or not this is a reasonable use of Matthew's property
+- Likely no, this is uncommon in the neighbourhood and most of his neighbours actually work from home
+- Main question is whether the public benefit of Matthew's actions outweigh the damages suffered by Billy
+- Shown that many of his neighbours really appreciate his business
+- Can also consider an additional factor, which is the inclusion of a statute providing immunity from liability for new businesses in the area

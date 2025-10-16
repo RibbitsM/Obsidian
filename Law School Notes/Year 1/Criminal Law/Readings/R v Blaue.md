@@ -1,0 +1,17 @@
+- Appellant was charged with murder and acquitted, but still convicted of manslaughter as well as wounding with intent to do grievous bodily harm and three counts of sexual assault
+- Appealing the conviction of manslaughter
+- Appellant entered the victim's (a young girl who was a Jehovah's Witness) house and asked for sex, and attacked her with a knife when she refused, piercing her lung
+- She was taken to the ICU, where it was determined she would have to undergo surgery including a blood transfusion
+- However, she refused a blood transfusion as it was against her religion, even when she was told that she would surely die without one
+- She provided a written assurance that she would refuse a blood transfusion under any circumstances, and died from blood loss soon after
+- In the initial trial, the appellant argued that this broke the chain of causation between the stabbing and the death, and suggested that this question should be left to the jury
+- Judge directed the jury to determine this matter using their common sense, and they convicted on manslaughter by reason of diminished responsibility
+- Also mentioned that the physical cause of death was not the fault of the girl, it was not her choice to be stabbed
+- However, appellant argued that if the girls decision was unreasonable, it would break the chain of causation
+- This was the grounds of appeal, the appellant argued that the judge erred by telling the jury that the stab wound was the cause of death
+- The victim in this case was essentially a martyr, dying intentionally for the sake of their religion
+- Thus, the acceptance of the appellants logic is likely to depend on their religious convictions
+- Depending on where in England the jury comes from, the same instruction could result in a different conclusion
+- In the end, the court drew on previous common law that established that criminals must "take their victims as they find them"
+- Therefore, the appellant cannot argue the reasonability of the victims decisions
+- Judge was entitled in their instruction, appeal dismissed

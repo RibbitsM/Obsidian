@@ -1,0 +1,9 @@
+- Defined the principles that determine when a injunction should be given as a remedy instead of damages
+- Generally, injunctions should be awarded as damages is essentially just putting a price on violating someone's rights
+- If a plaintiff's rights have been violated, they are *prima facie* entitled to an injunction
+- Damages can be awarded instead in specific cases
+- Four criteria for this
+- Injury to rights must be small, and measurable in financial terms
+- Injury must also be something that can be adequately compensated by a small payment, and an injunction would be unnecessarily oppressive
+- If all these criteria are met, damages may be awarded in place of an injunction
+- In *Coventry v Lawrence*, Lord Sumption criticized this precedent, arguing that damages are usually an appropriate remedy

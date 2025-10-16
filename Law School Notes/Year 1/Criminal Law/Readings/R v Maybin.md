@@ -1,0 +1,35 @@
+- Issue is whether intervention severs the causal relationship
+- Initially went to the BC Court of Appeal which concluded there was factual causation, appeal allowed and Crown appealed to the Supreme Court
+- Concluded that the accused could have reasonably foreseen the harm caused by the intervening actor
+- Supreme Court argues that foreseeability is not the test for legal causation, the *Smithers* test is
+- Did trial judge err?
+- Could they find that the assault was a significant contributing cause of death?
+- Victim offended the appellant at a bar, and the appellant punched them in the head, knocking them unconscious
+- Immediately after, the bouncer showed up and punched the victim in the head again, killing the victim
+- Appellant, his brother, and the bouncer are all co-perpetrators
+- Trial judge could not determine who killed the victim, the appellant or the bouncer and decided to acquit everyone of manslaughter
+- Appealed as the trial judge didn't consider factual and legal causation
+- Appeal court used the *Smithers* test and concluded the intervention of bar staff was reasonably foreseeable
+- SCC is drawing their definition of factual and legal causation from [[R v Nette]]
+- All three appeal judges agreed that there was factual causation
+- Appellants argued that the trial judge had reasonable doubt who struck the lethal blow
+- However, this only exonerates the bouncer, as no matter what, the appellants injured the victim and maybe killed him
+### Legal Causation
+- Difficult to create a test for intervening causes in this situation, appeal court brought up two possible approaches
+- First approach examines if the risk for harm caused by the intervention could be foreseen
+- Second approach asks if the intervening act was independent of the accused's actions
+- However, recall that the presence of an intervening cause is not conclusive, the ultimate decision will come from the *Smithers* test
+- Reasonable foreseeability doesn't break the chain of causation, as it implies that the accused can be held responsible for the consequences
+- Difficult to decide if the intervention was reasonably foreseeable, especially since the judges were divided on what exactly needs to be foreseen
+- Argues that even if the bouncer's actions weren't reasonably foreseeable, doesn't mean the chain of causation is broken
+- As long as the general nature of intervention, assuming it involves risk of bodily harm, is foreseeable, it's ok
+- Even if the appellants couldn't expect the **bouncer** hitting the victim, it's still reasonable to expect that someone else in the bar might hit them
+- Assault was in a crowded bar late at night, with security and other patrons nearby
+- Agree with the majority of the appeal court
+### Independent Acts
+- Dissenting judge at appeal court argued that the actions of the bouncer were not foreseeable, and therefore the appellants cannot be held accountable
+- Must determine if the accused's actions are "overtaken" by another action
+- Recall that an intervening act may not always break the chain of causation, we can see this in s. 224 and 225 of the Criminal Code
+- However, may be considered independent depending on how connected the intervening act was to the actions of the accused
+- Argues that based on this logic, it is reasonable to say the intervening act was fairly connected in there circumstances
+- Appeal dismissed

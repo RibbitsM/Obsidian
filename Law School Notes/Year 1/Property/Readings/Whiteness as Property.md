@@ -12,7 +12,7 @@
 - The origin of whiteness as property developed in tandem to the oppression of non-white groups
 - Whiteness and property share the key aspect of the [[Property and the Right to Exclude|right to exclude]]
 - Even after the dismantling of segregation, this has evolved into a new form based on the expectations of white privilege as the legal baseline
-- Also ties into the (insert islr link here) oppression of indigenous peoples via the appropriation of land, as the labour of Black people was appropriated
+- Also ties into the [[Displacement and Assimilation|oppression of indigenous peoples]] via the appropriation of land, as the labour of Black people was appropriated
 - This appropriation and exploitation of labour was achieved by turning Black people into property via slavery
 - This is a system of property based on race, as only Black people were subject to this treatment
 - Similarly, the seizure of indigenous land is also a racial system of property, as only White claims to land were legitimized over indigenous claims

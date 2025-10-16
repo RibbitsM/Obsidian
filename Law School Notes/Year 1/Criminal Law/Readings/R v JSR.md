@@ -1,0 +1,45 @@
+- Victim was an innocent bystander caught in a gun fight and killed
+- Accused did not shoot the victim, but was charged with second-degree murder for participating in the gun fight
+- Accused is a young person under the YCJA and is not identified
+- In the preliminary inquiry, the judge determined there was evidence to move forward on all counts, including second degree murder
+- Accused contested the murder charge, which was granted by the motion judge on the grounds that the evidence was only sufficient to prove manslaughter
+- Accused attempts to appeal this finding, arguing that the evidence is also insufficient to prove manslaughter
+- Crown cross-appealed to restore the murder charge
+- Ontario Court of Appeal rejected the appeal of the accused and granted the appeal of the Crown
+- Shooting took place on Yonge St on Boxing Day, incredibly crowded
+- Besides the young victim, three bystanders were also wounded
+- Accused was with a group of young people and exited a Foot Locker, walking north on Yonge St
+- Group including the accused waited on the sidewalk for another group to exit
+- The "northbound shooter" who had just existed the Foot Locker made a comment to the southbound group, and revealed he was holding a .357 magnum
+- Gunfire was exchanged immediately after, with the northbound shooter firing the shot that killed the victim
+- Conflicting evidence as to who shot first, court deems it irrelevant
+### Factual Causation
+- If there is no reasonable basis to determine that the accused's actions led to the death of the victim, cannot be sent to trial for murder/manslaughter
+- The actions of the accused were not the direct cause of the victim's death, but criminal liability can come from indirect harm too
+- Two relevant issues to address here
+- First, can a jury reasonably conclude that the actions of the accused were more than a trivial or insignificant factor in the death of the victim?
+- Second, did the murder of the victim by the northbound shooter form an intervening cause to sever the chain of causation?
+- First element here deals with factual causation, second deals with legal causation
+- When it comes to the first issue, there are multiple ways to define what the accused's "actions" were
+- Preliminary judge described this as the accused choosing to participate in a mutual shootout on a crowded downtown street
+- However, the motion judge saw that there was no evidence that the accused fired first, and furthermore that it was likely he returned fire
+- Also important to note is that we don't know if the northbound shooters first shot killed the victim or not
+- If it wasn't the first shot, then the accused could be liable
+- This is because him firing back prompted the northbound shooter to continue firing, resulting in the death of the victim
+- Accused stressed that there was know way of knowing which shot killed the victim, thus a reasonable jury must consider the possibility she was killed before the accused did anything
+- Crown also had issue with the interpretation of the motion judge, arguing that the mutual gunfight situation is also plausible
+- In this scenario, both groups would have decided to participate before the first shot was fired
+- There is a decent chunk of evidence supporting this
+- Mainly based on the aggressive nature of both groups, and the fact that the accused's group likely assaulted the northbound shooter soon before the shootout
+- Also likely there were additional interactions leading up to the gun fight that occurred in the Foot Locker
+- Also evidence that the comments made by the northbound shooter and the gesturing with the magnum suggest an invitation to a gun fight
+- The accused's group stood their ground when this invitation was made, and instead opened fire
+- Therefore, a reasonable jury could infer that the accused foresaw the gun battle, and took no action to prevent injury to bystanders
+- Compares this decision to cases where bystanders are injured in a racing incident
+### Legal Causation
+- If there is an intervention by a third party that more directly causes a victim's death, this may sever the connection with the accused
+- Can occur even in cases where a factual causation is established
+- However, this does not apply if the third party is acting as part of a joint activity between the third party and the accused
+- Hence why if one driver in a race strikes a pedestrian, both are held accountable
+- In the scenario described in the factual causation section, the northbound shooter would not be an intervening act
+- Therefore, the appeal by the accused is dismissed, and the appeal of the Crown is allowed

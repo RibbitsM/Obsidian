@@ -1,0 +1,45 @@
+- In addition to the offence of fraud, several offences in the *Criminal Code* deal with the accused acting "fraudulently"
+- Issue is whether *mens rea* is necessary for a fraud conviction
+- Does belief that a dishonest act will not harm the victims of a fraud negate the offence?
+- Appeal case, the appellant (Theroux) was originally convicted of fraud and appealed
+- Theroux was involved in residential construction, and was convicted for informing investors that their deposits for a building project had insurance, while in reality they did not
+### Analysis
+- *Actus reus* of fraud is clearly established, issue before the court is whether the fact that he believed the projects would be completed negates the *mens rea*
+- A fraud has two elements which are a dishonest act and a deprivation
+- First element is established by proving deceit or other deceiving means, other element is established by proof of harm or prejudice to the financials of the victim caused by the act
+- Both these elements were established in *Olan*, expanded the definition of deceit to a general concept of dishonesty which is determined objectively
+- Also established that an economic loss is not required, can just put economic interests at risk
+- If there is deceit or falsehood, no test is required but if there were other potentially fraudulent means, need to test whether they are reasonably considered fraudulent
+- Usually, *mens rea* is related to the consequences of the *actus reus*
+- Generally, the test for *mens rea* is subjective, and focuses on answering the question of whether or not the accused understood the consequences of their action
+- When it comes to fraud, we need to prove that the accused was subjectively aware that they were committing a dishonest act that would put another persons property at risk
+- Makes sense, *mens rea* is generally the subjective expectation of the consequences of the *actus reus* which in this case is a dishonest act and deprivation of property
+- Did they knowingly commit the conduct, expecting the consequences?
+- Doesn't apply to the subjective moral values of the accused
+- Recall that for this offence, dishonesty is determined objectively, so it doesn't matter if the accused believed their actions were not dishonest
+- This also means that we can also establish guilt through recklessness
+- If the accused has knowledge that a dishonest act **may** result in deprivation and continues anyways, can be held liable for fraud even if those consequences were not intended
+- Pretty clear that we shouldn't consider subjective morality in fraud cases, no reason to escape criminal responsibility for having a lax moral code
+- Often, people committing fraud don't intend to hurt others, but instead seek to benefit themselves without concern of how it will affect others
+- The reformulation of the *actus reus* in *Olan* is intended to broaden the definition of fraud to include pretty much all dishonest commercial dealings, and *mens rea* should match that
+- There are concerns that this new definition will unnecessarily broaden the scope of fraud convictions, but this is unlikely
+- First, still needs to pass the reasonableness test, and second, the accused still has to intentionally act dishonestly towards the other party
+- Means that things like misunderstandings or misrepresentations will not be covered
+- Also, a dishonest act made without expectation of consequences will likely not be fraud either
+### Application
+- Theroux intentionally lied to his customers both verbally and through written materials
+- Lies were intended to convince people to give him deposits that he knew were uninsured
+- Theroux genuinely believed that the project would succeed and there was no risk of the customers losing their deposits
+- Based on these findings, he should be held guilty of fraud
+- *Actus reus* is established by the fact that Theroux knowingly lied to his customers, which resulted in them being deprived of their deposits
+- In fact, even if the deposits were not lost, it would still be fraud as they were deprived of the insurance that was promised to them
+- *Mens rea* is established because Theroux knew there was no actual insurance protection, and therefore was knowingly depriving the depositors of that protection
+- Can also argue that by not providing insurance, he was knowingly putting their deposits at risk
+- Either way, he is guilty of fraud even if he believed the houses would be built
+- Appeal dismissed
+### Dissent
+- Challenges the assertion that *mens rea* matches with *actus reus* as more severe offences usually have different consequences with the same *mens rea*
+- Mentions that if the issue was limited to deprivation caused by the failure of the housing project, the appeal would have been allowed
+- Theroux honestly believed this would have happened, therefore the *mens rea* element of deprivation would not have been met
+- However, the trial judge failed to consider that deprivation of insurance is significant enough to constitute the deprivation element
+- Appeal should be dismissed

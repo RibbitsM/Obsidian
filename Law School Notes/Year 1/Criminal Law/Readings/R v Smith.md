@@ -1,0 +1,14 @@
+- Appellant was a soldier who was sharing barracks with another regiment
+- Fight developed in the barracks and three members of the other regiment were stabbed with bayonets, leading one of them to bleed out
+- Appellant was charged with murder and convicted under court-martial
+- Appealed under British Court of Appeals (I think)
+- Issue in this case was whether the appellant actually caused the death of the victim
+- Victim had wounds on their arm and back, wound in the back was much more serious
+- However, when being taken for treatment the victim was dropped several times and the staff at the hospital failed to realize his back wound had pierced his lung
+- Overall his treatment was insufficient, and he died two hours after being stabbed
+- Evidence indicated he had a 75% chance of survival with proper treatment
+- Appellant's argument was that the court must determine that the death of the victim was a natural consequence of his wound in order to convict
+- However, the court is of the opinion that the wound was the most substantial cause of his death, and appellant should be convicted in the absence of another more significant factor
+- Appellant cited a previous case called *R v Jordan* where it was mentioned that criminal liability doesn't apply when the victim suffers abnormal medical treatment
+- However, in that case medical experts found that the victim would have almost certainly survived the stab wound, and was killed by being injected with a drug they were allergic to
+- Ultimately, the Court of Appeal determined that the original judge did not err as no reasonable jury or court could come to any conclusion that does not involve the death being caused by the bayonet wound

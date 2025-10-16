@@ -1,0 +1,42 @@
+### [[Malette v Shulman]]
+- Issue was whether giving a life-saving blood transfusion to a Jehovah's Witness is battery
+- Main elements at play here are the consent elements
+- Plaintiff was involved in a severe car accident and was rushed to the hospital, unconscious from blood loss
+- Nurse discovers a card in the plaintiff's purse stating that she was a Jehovah's Witness and rejects blood transfusions for any reason on religious grounds
+- Informed the doctor, who decided to give her a transfusion anyway as it was required to avoid her death
+- Knowingly chose to personally administer the transfusion despite her direct objection and objection from her daughter
+- Trial judge found that the card restricted the defendant's right to treat her as he deemed necessary
+- Blood transfusion was considered a battery and defendant was ordered to pay damages
+- Transfusion was an intentional physical act carried out without the consent of the defendant
+- Generally, accepting medical treatment is considered waiving your right to legal action against the physician
+- Also, unconscious patients are implied to consent to life-saving procedures and time is a significant constraint
+- Assumption is that any reasonable person would consent to receiving medical aid when it is necessary to preserve their life
+- However, card clearly withdrew consent
+- Otherwise, adults are considered to have the right to make decisions regarding their health based on the right of patient autonomy
+- This right also extends to their partners and close relatives, who are allowed to make medical decisions when the patient is unable to
+- In this case, the plaintiff's daughter was given that authority
+- State has an interest in preserving the lives of their citizens, but are willing to waive that obligation in the interest of preserving autonomy
+- This is applied unevenly, state will make a significant effort to avoid a citizen making a decision to kill themselves, especially if that person is a minor
+- Any suggestion that the decision is made without proper competence will prompt a wave of litigation with the goal of restricting that decision
+- Right to self-determination will also be limited if the state believes a person poses a danger to others
+- Decision was also supported by the fact that the card suggested alternative treatments when a transfusion is needed
+- Lesson from this case is that privilege by necessity can be a reason why battery will be allowed
+### Summary
+- Recall that trespass can either be intentional or negligent
+- For the element of directness, injury must result from the conduct without outside intervention
+- For the element of intentionality, depends on the knowledge of the defendant and their foresight of the consequences
+- Wrongs can be committed with one of three states of mind: accidental, negligent, and intentional
+- Assault is a direct, non-physical, intentional act that creates the apprehension of imminent harmful/offensive contact
+- Battery is a direct, physical, and intentional ac that creates interference with another individual's body
+- Can be limited by implied consent or privilege by necessity
+### False Imprisonment
+- Distinctive type of intentional tort protecting the freedom of movement
+- Right to go to anywhere a citizen has a lawful right to be
+- Arises when a person is imprisoned without lawful justification
+- Plaintiff doesn't have to establish any damages, just an unlawful restriction on their freedom of movement
+- Intention is a key element, needs to be an intent to restrict movement
+- Can be done through physical restriction or threat
+- If there is a clear avenue of escape, doesn't qualify, extension of the principal of directness
+- Often arises in cases where the plaintiff is detained unlawfully on suspicion of shoplifting
+- Also results from imprisonment based on statutory authority, usually by police
+- Can also come from cases using the power of citizen arrest

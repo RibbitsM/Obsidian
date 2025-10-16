@@ -1,0 +1,56 @@
+- Presumption for expropriation is that compensation is given unless a statute specifically waives the requirement
+- Presumption for constructive expropriation is that compensation will not be given unless specifically mandated by statute
+- In [[CPR v City of Vancouver]], the City passed the Arbutus ODP because they were planning on eventually using it as a transit corridor
+- Didn't want these plans obstructed by development on the corridor, that's what happened with the False Creek transit corridor
+- CPR argued that there was a common law basis for compensation in the case of a *de facto* taking
+- Court determined that the City did not gain a beneficial interest, just an assurance that the land would not be developed further
+- Also did not remove all reasonable uses, could continue to be used as a railway
+- Recall that in the *Tener* case, the mining company kept the right to the minerals, but was not able to extract them
+- The province gained the benefit of a Class A provincial park
+- In *CPR*, the Court never denies the existence of precedent for *de facto* taking at common law, but they do point out that the *Vancouver Charter* immunizes against compensation
+- End result was that the situation continued for a decade until CPR started using the railway as storage for their train cars, prompting the City to make a deal
+- Offered to purchase the majority of the corridor, and divide the start of the corridor into 7 lots which would be rezoned and sold to CPR for $1 each
+- Happened in 2016, we've had the Arbutus Greenway since
+### [[Annapolis Group v Halifax]]
+- Annapolis purchased a significant portion of "urban reserve" land, which was not zoned for development but was expected to be zoned for development in the future
+- After holding on to these lands for many years, kept prompting the Halifax government to adjust the zoning for the urban reserve land
+- Sued the City, arguing that this was *de facto* taking of property and they deserved compensation
+- Complicated by the fact that the City had been posting signs marking the land as a park, and had maps showing trails running through Annapolis land
+- Majority decision focuses on the test from *CPR* arguing that there is a common law basis for compensation from *de facto* expropriation
+- Again, referred to the two part test of beneficial interest and loss of all reasonable uses
+- Not overturning *CPR*, but reinterpreting the elements of this test
+- Interpreted the term "beneficial interest" not as a property interest, but some sort of "advantage" gained by the state
+- This effectively makes this part of the test meaningless, as why would the state attempt to expropriate by regulation if it had nothing to gain
+- New version of the test focuses on the effects on the owners, and advantages to the state
+- Court should consider three factors to determine if constructive taking has occurred
+- First, want to look at how the government acted
+- Did they single out a specific owner, could the owner have expected this action, and was there any notice given?
+- Second, look at the historical and current uses of the land
+- Just reducing land value is not taking, but preventing undeveloped land from being developed may be
+- Finally, also need to consider what is being acquired by the government
+- Is the government occupying your land? Can you still access that land and use it?
+- Notably, is the land deprived of all economic value?
+- Seems to reflect many of the principles from *[[Lecture 10 (Property)#Penn Central v New York City|Penn Central]]* and *[[Lecture 10 (Property)#Lucas v South Carolina Coastal Council|Lucas]]*
+- Seems to be suggesting an emergence of stronger common law protections for private property
+### Dissenting Opinion
+- Argued that this went beyond simply illuminating *CPR*, and extended to reformulating the law
+- Court should maintain the position that taking a proprietary interest is required to define constructive expropriation
+- Do point out that Halifax is not blameless here, but they have no action for *de facto* taking
+- Halifax didn't actually **do** anything to take rights away from Annapolis, they just refused to upzone vacant land that was expected to be upzoned in the future
+### Class Exercise
+- Corporate group with royalties in coal mine company argues constructive expropriation after Alberta announces it will be phasing out coal power by 2030
+- Previously, local coal plants were expected to operate until around 2050
+- Agreed to provide transition payments to coal plants, but not coal mines
+- Case was called *Altius Royalty Corporation v Alberta*
+- Alberta Court of Appeal argued that the health and environmental benefits emerging from phasing out coal power does not meet the definition of an advantage
+- First post-*Annapolis* case, marks a reluctance to apply those principles
+### CUSMA
+- Free trade agreement, contains provisions for expropriation that applies internationally
+- For example, if an American or Mexican company operates in Canada, the Canadian government cannot expropriate those investments
+- Exceptions are for a public purpose, if done non-discriminatory and in accordance with due process as long as compensation is given
+- Also specifies that this applies to both direct and indirect expropriation
+- To define indirect expropriation under the act, a case-by-case inquiry is required
+- This inquiry depends on the economic impact of the action, interference with expectations, very similar to the US approach (go figure)
+- Regulatory actions that relate to public welfare like health and the environment don't apply
+- When it comes to the investor-backed expectations, those expectations are based on any assurances made by the government and general regulatory environment
+- Basis of the law before was that there had to be a statutory provision, here's an example of some sort of statutory provision that explicitly governs indirect expropriation

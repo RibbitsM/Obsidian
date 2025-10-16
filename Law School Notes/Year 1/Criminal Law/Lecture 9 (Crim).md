@@ -1,0 +1,67 @@
+- Recall how the court interpreted the "care and control" element in [[R v Boudreault]]
+- Example of how the court can interpret and may even alter elements of an offence
+- A general principle of criminal law is that no individual should be punished for not acting, also called an omission
+- However, there are many exceptions to this principle
+- Clearest example is by creating a provision explicitly criminalizing an omission
+- For example, s. 320.17 criminalizes failing to stop your vehicle as soon as is reasonable when being pursued by a peace officer
+- There are also offences where an omission becomes an offence due to the presence of a duty to act
+- Sometimes, these duties can be found in the common law, not just in statutory provisions
+- For example, s. 221 and s. 220 are the sections governing criminal negligence causing bodily harm and death respectively
+- Excellent example of an offence that relies on an omission to fulfill a duty
+- "Every one is criminally negligent who in doing anything, or in omitting to do anything that it is their duty to do, shows wanton or reckless disregard for the lives or safety of other persons"
+- Mainly applies in situations where there is a clear fiduciary duty, for example if the accused is a doctor, lawyer, or lifeguard
+- The duty in question must be imposed by law, cannot be an arbitrary requirement
+- We're not going to criminalize someone for not saving another person from drowning unless that is their duty
+- Goal is to avoid overcriminalizing, and ensuring only the most able people are acting
+- Also, provinces usually have legislation called something like the "Good Samaritan Act" which protects ordinary people from liability when providing emergency aid
+- As opposed to our hypothetical "Bad Samaritan" law, s. 320.17 applies much more narrowly, the accused must have already caused a traffic accident and is being pursued by the police
+- Example of this need to make an effort to rectify dangerous situations caused by you in criminal law is the *Miller* case
+- In this case, the accused fell asleep with a lit cigarette in their mouth in an abandoned building, burned the building down, and walked away without reporting it
+- Generally, you do not have a duty to stick around during dangerous situations, unless you played a role in creating those situations
+- However, this is a pretty loosely defined theory of why some omissions are criminalized
+### [[Fagan v Commissioner of Metropolitan Police]]
+- Accused was charged with assault for accidentally rolling his car wheel onto the foot of a police constable and then initially refusing to remove the wheel from their foot
+- *Actus reus* of assault in Canada (this is a UK case), is the application of force to another individual whether directly or indirectly without consent from that individual
+- Issue here is whether or not the omission to remove the wheel from the foot could be considered to be the *actus reus* for assault
+- Assuming the wheel was placed on the foot accidentally, then the supposed assault only comes from the omission
+- Also, in assault the *actus reus* and *mens rea* must occur at the same time
+- If the application of force happened before the intent arrived, cannot be considered assault
+- Majority argues that there was no omission, the act of rolling onto the foot and leaving the car there is one continuous action, and the *mens rea* surfaces partway through that action
+- The dissenting judge argued otherwise, pointing out that the accused did not do anything to constitute an assault, there's no way to flip it where there was any active force applied
+- Once the wheel came to rest on the foot, the accused took no positive action to harm the police officer
+- Ultimately, the decision was that there was no omission in this case, the entire situation was considered a continuous act
+### [[R v Moore]]
+- Pre-charter case, the dissenting opinion reflects how we would likely treat this case today
+- The accused was observed running a red light on his bicycle, which is a summary conviction under provincial law, and the observer (a police officer) tries to give him a ticket
+- Officer asks the accused to pull over and state his name and address, but Moore continues biking and refuses to provide their name
+- Eventually, Moore is arrested and charged instead with obstructing a police officer, an indictable offence as opposed to simply getting a ticket for running a red light
+- Problem is that Moore obstructed the police officer through an omission, by failing to identify himself
+- Can you be convicted for obstructing a peace officer by failing to do something?
+- Question is, did Moore have a legal duty to reveal their identity to the officer?
+- Examining the *Motor Vehicle Act* in BC, motor vehicle drivers have a statutory duty to identify themselves, but this doesn't apply to bicycles
+- Therefore, no statutory duty to identify yourself, but is there a common law duty?
+- The majority of the court found that the answer is yes, as police officers have statutory authority to arrest people in order to ascertain their identities
+- Based on this authority, the person being arrested would have a reciprocal duty to comply
+- Since Moore didn't comply, he was obstructing a police officer
+- This is quite a stretch of logic
+- Dissenting judge (Dickson) pushes back against this argument by pointing out that there is no reason to imply a reciprocal duty to comply
+- The fact that the *Motor Vehicle Act* has to specifically mention the duty to identify yourself implies that this is an exception to the rule
+- Generally, the accused should have the right to remain silent, they cannot be held liable for not identifying yourself
+- The police do not have a duty to extract your identity, they just have the power to do so
+- Direct criminalization of an omission in the absence of a statutory duty and in the absence of a duty under common law
+### [[R v Thornton]]
+- Case happened at the peak of the [[Deviance|moral panic]] over HIV/AIDS
+- Accused was HIV+, and donated blood to the Red Cross
+- There was no offence for this at the time, so the accused was charged instead under "common nuisance" to endanger the health or safety of the public
+- This is a very unusual charge, it is usually used for protestors or polluting industries
+- Charge also specifically requires an "unlawful act"
+- Since donating contaminated blood was not illegal at the time, the courts had to instead focus on the fact that Thornton failed to notify the Red Cross that they were HIV+
+- Did Thornton have a duty to disclose that fact?
+- There was no statutory duty, so the courts then turned to the common law
+- Ended up going to the duty to not injure your neighbour originating from [[Negligence]] in tort law, and applied it to the criminal law
+- Thornton failed to live up to this duty by injuring the health of the public, and the offence was punishable by law
+- When this case was appealed to the SCC, they upheld the decision but disagreed with the interpretation of the duty of negligence
+- Found instead that there actually was a statutory duty
+- Under s. 216, every one who administers surgical/medical treatment to another person or **to do any other lawful act that may endanger the life of another person** is, except in cases of necessity, under a legal duty to have and to use reasonable knowledge, skill and care in so doing
+- Since Thornton did not take reasonable care when donating blood, a lawful act that could endanger the life of another, they failed to discharge a legal duty and were thus guilty of common nuisance
+- Gets the same result while avoiding venturing into the territory of creating common law offences

@@ -1,0 +1,29 @@
+- Wilful blindness can be used to satisfy *mens rea* in cases where proof of knowledge is required
+- Usual language for determining this is the presence of the word "knowingly" in the provision
+- For example, s. 163(2) regards obscenity, and requires the offender to **knowingly** sell, possess, or expose obscene material
+- Deliberately choosing to not seek potentially incriminating information is considered equal to knowledge under the law
+- This case involves the accused luring two young girls into a car with him, a 19 yo named Mr. Laboucan and three youths
+- Laboucan intended to kill the two girls, which was known by the accused and the other three youths
+- Accused drove everyone to a golf course, where one of the two girls was sexually assaulted and killed by Laboucan and the three youths while the accused looked on
+- Clear case of first degree murder, issue here is to what extent the accused was involved
+- Did the accused intend to assist Laboucan in these crimes, and did he have prior knowledge of the intention to commit these crimes?
+- When captured by the police, the accused stated that he had overheard the other members talking about murder and worried that he or his girlfriend was going to be the victim
+- Before encountering the victims, accused knew Laboucan was seeking a girl to have sex with and was willing to find one for him in case Laboucan tried to assault his girlfriend instead
+- On the ride to the golf course, he believed the others merely intended to scare the victim
+- Knew something would happen, but did not want to know about it or be involved
+- Later caught up with the group and witnessed the victim being sexually assaulted and killed
+- Also admitted at one point he held the victims arm and told her to "shut up"
+- Trial judge determined that accused did not know that the victims had been lured into the car by fraud, and also did not know that Laboucan would resort to sexual assault to have sex with the victim
+- Also stated that he was not aware that Laboucan intended to kill the victim, and acquitted the accused on all charges
+- Crown appealed to Alberta Court of Appeal, which decided that the accused had been wilfully blind to the intentions of Laboucan and ordered new trial on all charges
+- Accused appealed to the Supreme Court
+- Supreme Court found accused guilty of aiding and abetting a murder
+### Analysis
+- Accused argued that wilful blindness does not apply to murder cases
+- Wilful blindness is just another form of recklessness and does not meet the especially high *mens rea* standards for murder
+- However, it has been consistently proven this isn't true, multiple cases that have distinguished recklessness from wilful blindness
+- Also, wilful blindness is not an element of *mens rea* but instead allows the substitution of the knowledge component of *mens rea*
+- Better described as "deliberate ignorance", not just a failure to ask questions or investigate further
+- Accused statements show a suspicion that someone was going to be killed, and even specifically stated he did not wish to know about the actions of Laboucan
+- Trial judge erred in failing to consider wilful blindness
+- Appeal dismissed

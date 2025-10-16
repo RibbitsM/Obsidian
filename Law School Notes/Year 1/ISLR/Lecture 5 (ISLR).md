@@ -1,0 +1,90 @@
+- Settler colonialism is not a theory created by any one person, and has no uniform presence
+- Can either be seen as a unique form of colonialism, or as sharing many aspects with other forms of colonialism
+- For example, key parts of settler colonialism like the emphasis on race are shared between colonial efforts as a whole
+- Part of why we talk about it as a structure, not an event
+- Doesn't take the same form in every context, varies greatly depending on the experience of Indigenous resistance
+### [[The Elimination of the Native|Logic of Elimination]]
+- Key parts include concepts like *terra nullius* and the [[Doctrine of Discovery]]
+- Supreme Court of Canada has established that *terra nullius* never applied in Canada, but there is evidence the underlying ideology was certainly present
+- Recall that the purpose of the Doctrine of Discovery was to establish property to the exclusion of other colonial powers
+- Early example of the logic of elimination, the presence of Indigenous peoples are hardly even recognized in this process
+- Also raises the question of how these claims become legitimized
+- Settler colonialism deals fundamentally with the concept of replacement
+- To create something new, the original must be destroyed completely
+- Closely echoes what we are seeing right now in Gaza
+- The 20 point rebuilding plan also includes foreign interests in the rebuilding process, showing the potential for neocolonial influence
+- Remember that Allard Law School also does this, the land it is built on is still owned by the Musqueam, and they receive no benefit from its operations
+- Indigenous land has been seized and replaced with real estate development or conservation land trusts
+- Also plays a part in the replacement of Indigenous cultural practices, for example traditional medicine requires access to harvesting sites
+- We can see that these elimination efforts have not been fully successful, Indigenous resistance still exists and is growing steadily
+- Physical displacement is also often a precondition to settlement, either relocation within the settler state or outside of it
+- In the *Delgamuukv* decision, the court determined that Aboriginal rights could be infringed on for reasons in the public interest
+- This justification could take any number of forms, including the safety of the Indigenous peoples themselves while resource extraction is the most common issue
+#### Genocide
+- Author describes the logic of elimination as something separate from genocide
+- Controversy exists surrounding the precise elements of genocide, with one of the most contentious being the issue of cultural erasure
+- To identify genocide, we need the "intent to destroy", but also a set of *actus reus* that can include non-physical violence
+- Recall that Canada has ratified the Genocide Convention
+- The final legal definition specifically excluded cultural genocide as a potential *actus reus*, an inclusion that was specifically opposed by Canada
+- This happened despite widespread calls for its inclusion among Indigenous women and girls
+- Also came from the legacy of the [[Nuremberg|Nuremberg Trials]] which focused on individual accountability
+- Part of a broader issue of the definition of genocide applying more to easily recognizable violence caused by individuals as opposed to structural violence exercised by states
+- Raises the question of how we are supposed to apply an *actus reus* and a *mens rea* to an entire state, especially on a century-spanning scale
+- Part of the key issues standing in the way of facing settler colonialism, the law is meant to apply to private individuals
+- Author also talks a lot about the importance of race in settler colonialism
+- Calls it an "organizing grammar", a separatory concept that shapes how settler law and modernity as a whole thinks about its citizens
+- Race is created by racism, it is the process of identifying the features separating individuals
+- These topics have also been linked to climate change, if we think about the mass devaluation of life happening in Gaza, it seems to set the stage for a widespread abandonment of the Global South
+### [[Red Skin, White Masks]]
+- Recognition is the process of filtering oppression through the framework of rights
+- The Dene Declaration demanded certain rights, and Canada was willing to accept some of these rights, but only under two conditions
+- First, Canada still had ultimate sovereignty over the Dene Nation
+- Second, the capitalist mode of production had to be preserved
+- If you are willing to accept these conditions, you may have your cultural rights recognized
+- Fanon wrote that recognition is insufficient in the colonial context
+- Can't just look at material relations between the oppressed peoples and the state, but how those relations structure the inequality
+- In the Dene, you had Indigenous peoples negotiating their rights that they knew would be insufficient, and they felt accomplished once they finished
+- The constraints placed by the state shaped the desires of the oppressed to match their vision
+- Recognition will only be given to a subject to the extent that it does not disrupt colonial interests, which in Canada is usually resource extraction
+#### Historical Context
+- Over time we have seen a shift from the Canadian state from the denial of Indigenous rights towards the recognition of these rights
+- Key shift took place in 1951, which was a significant reform to the *Indian Act* which removed many of the most oppressive measures
+- Came in the context of Indigenous contribution to the war effort and general opinion of the *Indian Act*
+- Next hallmark was 1973, which was when the *Calder* decision first recognized Aboriginal title
+- Also when the *Ludd*? (check spelling) decision achieved the same thing in the NWT
+- Turning point towards recognition, but a constrained form of recognition that has to be passed through the treaty process which was already serving the economic exploitation of Indigenous land
+- At the same time, this process was made pretty explicit through the new comprehensive land claim process
+- In order to successfully receive a land claim, Indigenous groups had to explicitly waive any land rights they may have that do not come from that land claim
+- Provides a way for the government to ensure the future of economic exploitation
+- Prominent example of this was the proposal for the Mackenzie River Valley Pipeline
+- A lot of this thinking was reflected in the Indigenous community, opposition to the pipeline was rooted in Maoist theory as well as Fanon's work
+- Linked their struggle to Indigenous struggles in the Middle East, especially Palestine
+- Don't forget that 1973 also marked the first OPEC shock which came in response to the 1973 Arab-Israeli War
+- Made the Mackenzie River Valley Pipeline even more important and created a geopolitical link between the struggles of the Dene and the Palestinians
+- As political instability caused by Indigenous struggles in the Global South, the focus of imperial resource extraction fell on the Canadian North
+- At the time, this was really the only place in Canada where the Indigenous was a majority
+### An Inconvenient Case of 12,000 Years
+- Author comes from the Gwayi watershed, which used to be fully owned by the Kwakwaka'wakw Indigenous group
+- However, over time the settlement has shrunk to a single village located in the Kingcome Inlet
+- At the time of the McKenna-McBride Commission, the group sent an envoy
+- Were told that this was an opportunity to clarify which territory belonged to their group, but it was really a planning committee for the Western expansion of Canada
+- Leaders of all the Kwakwaka'wakw-speaking nations also sent envoys, wearing the garments that represented their 12,000 year old tenure on that land
+- Through pre-emption, the land between the Gwayi village and the mouth of the river was divided into lots and sold to farmers
+- Due to the presence of the reservation upriver, the community never grew very large, and eventually many of these lots were sold to the BC Nature Trust
+- At the Mckenna-McBride Commission, the Kwakwaka'wakw leaders specifically mentioned that these lands were allocated to the women of the group for agricultural purposes
+- Cattle brought in by the farmers were eating the crops of the Kwakwaka'wakw women, and fences were being erected to prevent harvesting
+- Of course, the Kwakwaka'wakw agricultural practice was considered subordinate to farming
+- BC Nature Trust decided to hold these lands in reserve, and keep them as conservation land
+- As the rest of the watershed was turned into logging lots and clearcut from the mouth of the river to the glacier
+- Because of this, the river shifted significantly and became much more difficult to navigate
+- Gwayi village asked to build a road from the village down to the coast, and the BC Nature Trust refused
+- Resulted in a legal battle that the Kwakwaka'wakw ultimately lost and was lead by the author's uncles, who eventually died trying to navigate the river
+- The Indian Agent in the area, William Halliday, offered a reduction in sentences if those being arrested gave up their regalia and masks
+- He would put them on display and charge people to see them, these were legal texts that were meant to be hidden away
+- In 1938, when King George V died the people of Gwayi asked the Indian Agent if they could carve a totem pole in his honour, as they weren't allowed to otherwise
+- The totem pole they carved was necessary to pass legal authority on to the next generation, and because of the King George excuse they were also allowed to bring out their regalia to show off the totem pole
+- Example of resistance against colonialism, one among many
+- Key argument advanced by the Kwakwaka'wakw and many other Indigenous groups is that they are the best suited group to manage their territory, they have lived there for thousands of years
+- There will be no co-management, no halfway agreements, only full ownership
+### Discussion
+- 

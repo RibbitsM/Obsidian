@@ -1,0 +1,5 @@
+- Prosecution notes is another good resource for research
+- Look on CanLII for secondary resources
+- You want to read the policy manuals for prosecution
+- https://www2.gov.bc.ca/gov/content/justice/criminal-justice/bc-prosecution-service/crown-counsel-policy-manual
+- 

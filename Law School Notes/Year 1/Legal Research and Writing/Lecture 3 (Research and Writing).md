@@ -1,0 +1,34 @@
+- Recall that we should always be noting up the cases and decisions we are relying on
+- Legal writing should be straightforward and clear, try to use familiar words, and your reasoning should be obvious and easy to follow
+- Unlike many other forms of writing, you will present your conclusion up front
+- You should not be using synonyms, for maximum clarity always repeat words when referring to the same concept, person, or object
+- Do not use referent terms like it, they, or there, use the name of the thing or person you are talking about
+- When citing legislation or case law, do not paraphrase
+- You should always be showing the exact wording of the law
+- Try to avoid relative terms, this introduces unnecessary vagueness into your writing
+- Before you start writing, you should have a clear idea of your structure
+- Especially important when writing persuasively, how should you order your arguments to be as convincing as possible
+- Always use the active voice when writing, never the passive voice
+- Instead of saying "Alex was given the book by Pat", say "Pat gave the book to Alex"
+- We want to put the initiator of an action first in our sentence
+- There are some exceptions, but generally we want to focus on this approach
+- Use the Oxford comma to avoid any ambiguity
+- Avoid using the first person whenever possible, helps with persuasiveness
+- When editing your writing, do your edits first and then wait before you proofread
+- Make sure to consider your audience, you want to be using language appropriate to that audience to explain or not explain certain terms
+- Also important for considering what does and does not need to be cited based on if it would be common knowledge between you and your audience
+- When it comes to summarizing case law or legislation, make sure you are fully representing your sources, don't pick and choose
+- You should always be considering counter arguments to your points, and even counter counter arguments
+### Memos
+- Recall that we're using the [[FIBLAC]] approach
+- For your law section, you need to identify what the relevant law is for your topic
+- Legislation will not always be clear on a certain topic, there may be a divide on how to proceed in some circumstances
+- There may also be divides across provinces where legislation will vary depending on region
+- Start with a brief summary of the relevant law, then summarize the legislation, and then summarize the case law
+- Can organize this by jurisdiction, by judicial precedent, or by historical development
+- Of course you might find an approach that works better for your situation
+- No facts required for this section, focus on stating the law as it is written
+- When you're summarizing the case law, don't forget to not cherry pick
+- Matching the facts of a case is very important, even seemingly small details can make a big difference
+- Always direct quote primary sources, but when using secondary sources you can stick to summarizing
+- 

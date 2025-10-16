@@ -1,0 +1,11 @@
+- Describes the state of mind of the defendant
+- Three different "states of knowledge" or states of mind
+- In an accidental case, the consequences of an action are unforeseen, and any consequences could not have been prevented ahead of time
+- You exercised due care, there was no available knowledge that could have informed you of the consequences
+- In a negligence case, the consequences were reasonably foreseeable, and you should have been able to prevent the consequences but did not
+- In an intentional case, you have substantial certainty of the consequences, and you acted with desire to achieve those consequences
+- To prove intentionality, you need to establish that the defendant was substantially certain of the consequences, and acted with a desire to see those consequences
+- Law doesn't care if the individual knows that the act will result in harm, only that they acted intentionally
+- As long as you know a certain consequence will happen, your act was intentional
+- For example, kicking a ball at someone with the intent to hurt them and with the intent to simply make contact with them are both intentional
+- In either case, if harm was created than the person kicking the ball is liable

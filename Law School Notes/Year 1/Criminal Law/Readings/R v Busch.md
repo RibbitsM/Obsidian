@@ -1,0 +1,67 @@
+- Accused was a prisoner who escaped with the co-accused
+- Day after the escape, the victim was found in their home near the penitentiary, both the accused and the co-accused were charged with first degree murder
+- The co-accused (Armitage) plead guilty, overwhelming evidence tied him to the crime scene
+- However, the accused (Busch) was also implicated, found wearing the victim's clothing and their DNA was found on clothing discarded at the crime scene
+- Issue for this case is whether Busch was involved in the killing
+- Theory of the Crown was that both murdered the victim as co-principals and either planned the killing, or killed them while restraining them (found with arms and legs taped)
+- If jury has reasonable doubt of this theory, can ask if Busch aided first degree murder
+- Defence argues that the burden of proof is not met, circumstantial evidence only
+- Three possible theories: Busch was never in the home, they were in the home but did not assist with the killing, and they were in the home and assisted with clean-up
+- Trial judge instructed the jury that to find Busch as a co-principal, need to find that his conduct contributed significantly to his death, otherwise he is only an aider
+- If jury did not find planning and deliberation, can charge first degree murder with unlawful confinement if they apply the *Harbottle* test
+- When instructing the jury on aiding first degree murder, judge stated that it must be proven beyond a reasonable doubt that the aider did something to help Armitage kill the victim
+- Appellant argued that the judge failed to include the *Harbottle* test in this explanation
+- Previously only been applied to first degree murder under s. 231(5) which deals with murder while accompanied with a "offence of domination"
+- In this case, appellant was being accused of aiding a planned and deliberate murder
+- Crown argued that this argument is inconsistent with the statutes and jurisprudence
+### Analysis
+- To prove causation for murder, Crown must establish that an act contributed significantly to death as established in [[R v Nette]]
+- To determine this, we consider both factual and legal causation
+- First degree murder is an aggravated form of murder that has several routes to reach it
+- Designed to impose longest possible prison time for especially grievous murders
+- Examples of routes are planned killings, contract killing, killing an officer of the law, killing while committing a crime of domination, and murders involving criminal harassment, terrorist or criminal organization involvement, and intimidation of justice system participants
+- The "constructive first degree murder" section which governs killing while committing a crime of domination contains the phrase "when the death is caused by that person" (s. 231(5)(e))
+- Examining the history of this provision, determined that this phrase covers those who play a substantial role in the death of a victim
+- Based on the precedent from *Harbottle* this requires a very active role in the killing
+- Usually requires the accused to do something physically to aid the act of murder
+- However, it is clear that this standard arises specifically from the wording of s. 231(5)(e) which is not present in the provision for planned and deliberate murder (s. 231(2))
+- Also, no precedent and policy reasons to reject this interpretation
+- Appellant did not provide any examples of cases where *Harbottle* has been applied to planned and deliberate murder
+- Simply argues that it should apply to all first degree murder charges on the grounds of the added severity of the offence
+- Majority determines that the instructions to the jury were appropriate
+- Aggravating circumstances in planned and deliberate murder is that the accused must have had the time to consider the consequences of their actions before making a clear choice to kill
+- Same principle extends to those aiding them, but be aware of the impending murder and still willing to assist
+- However, applying the *Harbottle* standard would limit this to only physical assistance with the act of murder, and would exonerate supplying murder weapons, helping hide the body, etc.
+- On the other hand, constructive murder is closely tied to the physical act of domination, and may often happen in the heat of the moment
+- Makes sense to require physical participation in this context
+- Appeal dismissed
+### Example Case
+- Three people, Melinda, Libby, and Norbert
+- Melinda throws a book at Libby, leaving a bleeding wound on her head, and runs away
+- Norbert finds her on the sofa, drinks a few beers and drives her to the emergency room
+- Long delay, Norbert finds an exposed electrical wire in the emergency room and doesn't tell anyone
+- After waiting for three hours, Norbert leaves Libby at the hospital
+- After he leaves, Libby goes unconscious and dies from a fire at the hospital caused by the exposed wire
+- If she had been treated immediately she had a 90% chance of survival, at the time that Norbert left it was 60%
+- Can the Crown prove the *actus reus* of assault with a weapon for Melinda?
+- According to s. 265(1) an assault occurs when force is applied to another person directly or indirectly without the consent of another person
+- s. 267 regards assault with a weapon, has the above requirements as well as carrying, using, or threatening to use a weapon or imitation
+- Conduct is applying force while carrying/using a weapon, circumstance is without consent, no consequences
+- Criminal Code defines a weapon is any thing used to cause death or injury to any person, so a book qualifies
+- In this case, all the elements of assault with a weapon are met
+- If the charge is changed to manslaughter, can we still prove *actus reus*?
+- Manslaughter has the same *actus reus* as culpable homicide
+- Defined as causing the death of a human via a unlawful act, criminal negligence, threats of violence or deception, or frightening
+- In this case, relevant option is via a unlawful act, assuming the throwing of the book is unlawful
+- Need to determine if there was causation between the throwing of the book and the death
+- Factual causation, but maybe not legal causation
+- I would argue that it's true that Melinda would have lived "but for" the throwing of the book
+- However, injury from the book was not an operating cause of death, she died of smoke inhalation
+- Can still argue that there is a contributing cause because she fell unconscious in the waiting room before the fire broke out
+- All you need to do in this case is point out the facts that the Crown will rely on to make their case, and the facts that the defence will use
+- There is no "right answer", just present both sides of the argument and make a case for which one you think is the strongest
+- Did Norbert commit an offence by failing to report the exposed wire or by leaving Libby at the hospital
+- Omissions problem, need to find something that establishes a duty
+- Can argue that under s. 215(1)(c)(ii), Norbert had a duty to take care of Libby
+- Likely no way to hold him accountable for not reporting the exposed wire
+- Finally, Norbert cannot argue involuntariness, clear he drank intentionally, and also that he drank after finding Libby injured

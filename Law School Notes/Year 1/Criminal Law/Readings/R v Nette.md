@@ -1,0 +1,48 @@
+- Victim was an elderly woman who had her house robbed and was hogtied with electrical wire which caused her to asphyxiate and die after being left tied up for an extended period of time
+- Appellant was arrested in an undercover operation when they informed a police officer that they were involved in the incident
+- At trial, the appellant argued that he had entered the victim's house and found her already dead, and had made up the story to impress the undercover cop
+- Forensic pathologist could not identify a single factor causing death, and pointed to the position she was tied in, as well as her age and ill health as factors
+- Initially charged with first degree murder, and was found guilty of second degree murder by jury
+- Appeal was made on the issue of the test of causation for second degree murder
+- In the trial, the judge explained causation for second degree murder as requiring a conviction BAR that the victims death was caused by the actions of the accused
+- As long as the actions of the accused were more than a trivial factor in her death, they could be convicted of second degree murder
+- As for their instruction for first degree murder, the accused must have played a substantial role in the death of the victim
+- Appellant argued that this is incorrect, and there is only one test for both degrees which is the "substantial cause" test
+- Respondent argued that the "trivial cause" test was established in *R v Smithers* where it was described as "beyond *de minimis*"
+- However, the real issue here is how the test was **explained** to the jury, not the test itself
+- If we can factually determine that actions caused death, we still have to establish legal causation
+- This is a determination if the accused can be held accountable for their actions
+- In their charge, the trial judge should express the level of factual and legal causation required to establish a conviction
+- Issue of causation mainly comes up when *mens rea* isn't present
+- We can see how causation is handled in the *Criminal Code* by examining the variations of bodily injury in s. 225
+- Establishes that homicide can be establishes when heath is caused by threats or deception, or by frightening a child or sick person
+- Example of how the criminal law tries to pre-empt issues of causation
+- Another recent causation case was *R v Harbottle*
+- In this case, the victim was strangled by one defendant while the other held her legs down
+- Question was whether the second defendant could be found guilty of first degree murder despite not physically killing the victim
+- Judge instructed the jury that the standard for this case was higher than the *Smithers* standard
+- Appellant argued that the *Smithers* test should be properly understood as being functionally the same as the *Harbottle* standard
+- However, this would mean that they can't also argue that using the *Smithers* test is an error of law considering they are supposedly equivalent
+- Causation comes into play here to explain the difference between murder and first degree murder
+- Once the jury has determined that a murder has been committed, they must then determine whether the circumstances warrant a first-degree sentencing
+- If the facts suggest a high level of blameworthiness, or in other words, substantial involvement in the death, first-degree murder is the appropriate charge
+- Question is how to properly explain this to a jury
+- Court agrees that the same standard should be used for all homicide offences, but not that the standard should be the *Harbottle* test
+- The existing *Smithers* standard is confusing, and uses Latin terms 
+- Should be properly expressed as a "significant cause"
+- *Harbottle* test makes sense as an additional test on top of the *Smithers* test which is used to determine murder, while if the *Harbottle* test is met it will be elevated to first-degree murder
+- Recall that the appellant's argument is that there were multiple factors besides the actions of the appellant that could have caused death
+- However, these other factors are not other causes of death
+- Example of a case where a victim is beaten unconscious on a beach and is drowned by the tide
+- Another applicable principle is the "thin-skull" rule which establishes that wrongdoers must [[R v Blaue|take their victim as they found them]]
+- Means that aggressors are responsible for the full consequences of their actions
+- This is a principle from tort law, and doesn't transition fully to criminal law because of the requirements of *mens rea*
+- In this case, there is no evidence that the victim would have died in the absence of the appellant's actions, she was fairly healthy for a woman of her age
+- Also no evidence that instructing the jury using the "substantial cause" terminology would have made any difference for the murder conviction
+- However, the trial judge would have had to use the *Harbottle* test for the charge of first degree murder
+- Real issue is whether or not the appellant could have foreseen the victim's death
+- Court ultimately held that the charge to the jury was unsatisfactory, and there was nothing wrong with the verdict
+- Upheld both *Harbottle* and *Smithers*
+- *Smithers* should be used for all homicide offences, and *Harbottle* is used to raise the conviction to first degree murder once the *Smithers* test is met
+- Dissenting judges pointed out that we should keep the *Smithers* test as a "not trivial or insignificant contributing cause"
+- While this is technically the same as saying "a significant contributing cause", the latter is likely to be interpreted as a higher standard

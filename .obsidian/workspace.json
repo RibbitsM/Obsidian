@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "17a646dd6eccfe11",
+        "id": "12f74938dfad6fc2",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed5db66c7cb5024",
+            "id": "ee858be26af3c387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law School Notes/Year 1/ISLR/Readings/Settler Colonialism in Canada.md",
+                "file": "Law School Notes/Year 1/Property/Readings/Edwards v Sims.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Settler Colonialism in Canada"
+              "title": "Edwards v Sims"
+            }
+          },
+          {
+            "id": "b449f67f192b0bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Law School Notes/Year 1/Property/Lecture 12 (Property).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 12 (Property)"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rylan",
+                "query": "kilbride",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "a0f75118967a7564",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law School Notes/Year 1/Torts/Readings/Tock v St John's.md",
+                "file": "Law School Notes/Year 1/Property/Readings/CPR v City of Vancouver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tock v St John's"
+              "title": "Backlinks for CPR v City of Vancouver"
             }
           },
           {
@@ -171,35 +184,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4ed5db66c7cb5024",
+  "active": "ee858be26af3c387",
   "lastOpenFiles": [
-    "Law School Notes/Year 1/ISLR/Readings/Indian Act Colonialism.md",
-    "Law School Notes/Year 1/ISLR/Readings/Settler Colonialism in Canada.md",
-    "Law School Notes/Year 1/Contracts/Lecture 4 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Lecture 8 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Lecture 6 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Lecture 7 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Lecture 5 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Lecture 3 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Lecture 2 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Lecture 1 (Contracts).md",
-    "Law School Notes/Year 1/Torts/Readings/Tock v St John's.md",
-    "Law School Notes/Year 1/Torts/Readings/Antrim Truck Centre v Ontario Transportation.md",
-    "Law School Notes/Year 1/Torts/Lecture 8 (Torts).md",
-    "Law School Notes/Year 1/Torts/Lecture 4 (Torts).md",
-    "Law School Notes/Year 1/Torts/Readings/Smith v Inco.md",
-    "Law School Notes/Year 1/Property/Lecture 9 (Property).md",
-    "Law School Notes/Year 1/Property/Readings/Taking Liberties.md",
-    "Law School Notes/Year 1/Criminal Law/Lecture 8 (Crim).md",
-    "Law School Notes/Year 1/Criminal Law/Lecture 6 (Crim).md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Oakes.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Boudreault.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/Elements of an Offence.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/Sources of Criminal Law.md",
-    "Law School Notes/Year 1/Topics/Charter of Rights and Freedoms.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/Frey v Fedoruk.md",
+    "Law School Notes/Year 1/Property/Lecture 12 (Property).md",
+    "Law School Notes/Year 1/Property/Readings/Edwards v Sims.md",
+    "Law School Notes/Year 1/Property/Lecture 11 (Property).md",
+    "Law School Notes/Year 1/Torts/Readings/Malette v Shulman.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Theroux.md",
+    "Law School Notes/Year 1/Property/Lecture 10 (Property).md",
+    "Law School Notes/Year 1/Property/Readings/Annapolis Group v Halifax.md",
+    "Law School Notes/Year 1/Legal Research and Writing/Lecture 4 (Research and Writing).md",
+    "Law School Notes/Year 1/Torts/Lecture 12 (Torts).md",
+    "Law School Notes/Year 1/Torts/Lecture 13 (Torts).md",
+    "Law School Notes/Year 1/Torts/Readings/Gokey v Usher & Parsons.md",
+    "Law School Notes/Year 1/Criminal Law/Lecture 10 (Crim).md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Nette.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v JSR.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Blaue.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/Kilbride v Lake.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Jiang.md",
+    "Law School Notes/Year 1/Torts/Lecture 11 (Torts).md",
+    "Law School Notes/Year 1/Torts/Lecture 10 (Torts).md",
+    "Law School Notes/Year 1/Property/Readings/Didow v Alberta Power Ltd.md",
+    "Law School Notes/Year 1/Topics/Constitution Act of 1867.md",
+    "Law School Notes/Year 1/Topics/CANning.md",
+    "Law School Notes/Year 1/Criminal Law/Lecture 12 (Crim).md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Briscoe.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Buzzanga and Durocher.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Beaver.md",
+    "Law School Notes/LSLAP and PBSC",
     "Law School Notes/Year 1/Criminal Law/Readings/Untitled",
-    "Law School Notes/Year 1/Legal Research and Writing/Lecture 2 (Research and Writing).md",
     "Law School Notes/Year 1/Legal Research and Writing/Class Activities",
     "Law School Notes/Year 1/Torts/Readings/Untitled",
     "Law School Notes/Year 1/Torts/Readings",
@@ -208,7 +222,6 @@
     "Law School Notes/Year 1/Contracts/Readings",
     "Law School Notes/Year 1/Property/Readings",
     "Law School Notes/Year 1/Criminal Law/Readings",
-    "Law School Notes/Year 1/Topics",
     "Untitled.canvas",
     "Attachments/Exported image 20250409135206-2.png",
     "Attachments/Exported image 20250409135202-0.png",

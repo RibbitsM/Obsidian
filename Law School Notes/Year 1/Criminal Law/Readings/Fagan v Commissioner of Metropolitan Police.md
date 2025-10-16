@@ -1,0 +1,24 @@
+- Appellant was convicted of assaulting a police constable, and appealed
+- Question for the court was whether or not the facts of the case amount to assault
+- Appellant was parking, and the constable was directing him where to park
+- Constable stood in front of the car and indicated that he should park closer to the curb
+- Appellant drove forward and parked the car on the constable's left foot, and refused to back up off his foot after being asked once
+- After being asked several times, he reluctantly turned the car back on and backed up
+### Majority Opinion
+- Original trial judges found that leaving the wheel on the foot after the officer asked once for him to back up amounted to assault
+- Also found that the original rolling of the wheel onto the foot could not be proven to be intentional, and therefore did not amount to an assault
+- Counsel for the appellant argued that failure to remove the wheel did not constitute the *actus reus* required for assault, and their actions could not prove the *mens rea* of the original action
+- Counsel for the prosecution argued that the *actus reus* began with the wheel being mounted on the foot, and the appellant developed the *mens rea* by refusing to remove the wheel
+- Court argues that intentional acts are required for assault, omission to act does not qualify
+- Main issue in distinguishing between the two arguments is whether the action ends once the wheel rested on the foot, or if it was continuous until it was removed
+- For assault to be committed, *actus reus* and *mens rea* must be present at the same time
+- Court determined that the original judgement was correct, and the appellant's actions amounted to an assault
+- Action of the appellant was initially unintentional, but it became intentional once they realized they were on the officer's foot
+- Keeping the wheel on the constable's foot and verbally refusing to remove it also adds to the decision
+- Act constituted battery, and became criminal when the intention was formed
+- Appeal dismissed and original conviction upheld
+### Dissenting Opinion
+- Argument hinges on the fact that no omission to act amounts to an assault
+- Because the wheel ended up on the foot accidentally, nothing after that can be construed as an intentional act to harm the constable, only an omission to act
+- Important fact is that he was not "maintaining" the wheel on his foot, simply allowing it to rest there
+- Argues to allow the appeal and reverse conviction

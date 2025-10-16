@@ -1,0 +1,7 @@
+- Accused parked on a street in Auckland and was ticketed for not having a warrant of fitness on their windshield
+- Argued to the judge that they did have a warrant, but it was detached before the ticket was issued
+- Backed up by evidence he had a current warrant
+- Court held that failure to display the warrant was involuntary
+- Restates the principle that no individual should be convicted for a crime caused by circumstances outside of their control
+- There must be freedom to make another choice, which is a mental element of the *actus reus*
+- Therefore, in this case the *actus reus* was not the result of the accused's actions whether intentional or unintentional

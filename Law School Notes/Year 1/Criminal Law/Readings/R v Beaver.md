@@ -1,0 +1,31 @@
+- Decided in 1957, before the creation of the [[Charter of Rights and Freedoms]]
+- Established the presumptions that criminal offences require *mens rea* 
+- This is a subjective element, as opposed to the objective element of *actus reus*
+- Beaver sold an undercover cop a package containing an opiate
+- Appellant was a party to the sale, and acted jointly with Beaver although Beaver had physical possession of the package
+- Appellant believed that the package contained powdered milk
+- All of these facts were able to be reasonably inferred by the jury based on the evidence presented
+- Trial judge charged the jury by stating that if they were satisfied that the appellant possessed and sold a package that contained the opiate, then they were guilty
+- Decision was made regardless of the appellant's belief
+- Appeal Court also held that this charge was correct, relying on the precedent of *R v Lawrence*
+### Analysis
+- According to the *Opium and Narcotic Drug Act*, anyone who possesses and then sells a drug is guilty
+- No mental element specified
+- Also supported by previous appellate court decisions in other provinces, although the BCCA has conflicted
+- However, this rule allows for people to be convicted of possessing drugs even if they honestly believe the substance is something benign
+- Basic principle for the requirement of *mens rea* is that not all charges require it, but that must be specifically stated in the provision
+- As a general principle all offences should require *mens rea*, but it is up to the legislature to exclude that requirement
+- Seems that the appellate courts viewed the construction of the *Opium and Narcotic Drug Act* as waiving the requirement
+- Two main arguments for this
+- First is that *Hobbs v Winchester Corp* previously established that "public welfare offences" do not require *mens rea*
+- Second is that s. 17 of the *Opium and Narcotic Drug Act* may also waive the requirement
+- However, in *Hobbes v Winchester* the case regarded the sale of unsafe meat which is a pretty distinct circumstance
+- *Hobbes* governs the lawful sale of goods, while the *Opium and Narcotic Drug Act* bans an entire category of sale
+- Even if a butcher isn't aware their meat is unsafe, makes sense to encourage them to make sure it is safe
+- Section 17 places reverse onus on the accused, requiring them to disprove an assumption that drugs found in their possession were in their possession with their knowledge
+- However, can argue that all this does is assume they had possession of the package, not that they knew what it contained
+- Majority believes that the accused cannot be considered to be in possession of heroin if they have a package that they genuinely believe only has baking soda in it
+- In law, there is no possession without knowledge
+- Also uses a public policy argument, stating that we shouldn't convict without *mens rea* unless we are sure the law says we can
+- Ultimately, the charge of possession was waived, but the charge of selling persisted
+- 

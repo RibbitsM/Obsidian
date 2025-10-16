@@ -1,0 +1,68 @@
+- Recall that the *actus reus* and *mens rea* have to present [[Fagan v Commissioner of Metropolitan Police|simultaneously]]
+- While the former is usually spelled out explicitly, usually very difficult to find the elements of *mens rea* just by looking at the text of an offence
+- In the US, mental elements are spelled out explicitly, and despite a couple unsuccessful efforts, the Canadian legal system does not have this
+- In Canada, *mens rea* is mostly defined by the common law, especially Supreme Court decisions
+- Ideal approach is to rule out which elements **don't** apply
+### Intention ([[R v Beaver]])
+- Accused is charged with possession of a narcotic (heroin)
+- *Actus reus* of the offence would just be having some amount of a narcotic
+- Crown needs to prove that you had something, and that something is a narcotic
+- Facts of the case were not challenged, accused acknowledged that he had possession of a package containing heroin
+- As for the *mens rea*, there are two key elements to consider
+- The first is the intention to possess, which is not at issue here
+- Second element is knowledge that what you are possessing is a narcotic
+- Beaver was under the impression that the package he possessed contained powdered milk
+- Crown argued that the offence in question didn't require *mens rea*, you could convict just based on the presence of the *actus reus*
+- Offences like these are called [[Absolute Liability]] offences
+- This is a "public welfare" offence, not contained in the [[Criminal Code]] and instead is a regulatory offence that holds absolute liability
+- Supreme Court rejected this argument, pointing out that it has a mandatory imprisonment punishment, and should be considered a true criminal offence
+- When Parliament creates an offence, there is a presumption of *mens rea* unless specified clearly that it is an absolute liability offence
+- This was in the 50s, the *Charter* prevents Parliament from creating absolute liability offences
+- Court argues that while the crime is possession, there is also an element of specificity
+- Can't be criminalized for possessing something you honestly believe to be benign
+- Question is how to prove this assuming the accused does not testify?
+- Not always required, if there is evidence demonstrating that the accused sold heroin to another person and the defence provides no evidence, don't really need to address *mens rea*
+- Often, the circumstances will lead to conclusions about *mens rea*
+- Recall that *mens rea* is subjective, the belief of the accused does not have to be reasonable
+- Accused was also charged with selling a narcotic, which this argument does not help
+- This is because representing something as a drug is enough to be convicted for selling narcotics, even if the actual substance is something else
+- Offence of selling has an additional element compared to possession
+- Changes the *actus reus* in a way that prevents the accused's defence of not knowing that the substance was a narcotic
+- Even if it really was milk powder, he would still be convicted for selling drugs
+- Two main ways so far to talk about mental elements: intention and knowledge
+- Two more kinds which are recklessness and wilful blindness
+### Knowledge ([[R v Buzzanga and Durocher]])
+- Deals with the offence of wilfully promoting hatred against an identifiable group
+- Judge in this case was named Arthur Martin, former criminal lawyer who specialized in criminal law decisions while on the Supreme Court
+- Today, the offence is contained in s. 319(2) of the *Criminal Code*
+- Accused were trying to raise awareness for anti-French Canadian sentiment in Essex County, and distributed a pamphlet showing what they deemed to be comically antagonistic speech towards French Canadians
+- Goal was to create a piece of satire which would galvanize the local French Canadian community to take action regarding a French Canadian school that the local school board was refusing to build
+- Charged for promotion of hatred based on the content of their pamphlet
+- *Actus reus* here is communicating statements that willfully promote hatred against an identifiable group, in this case that group is French Canadians
+- Circumstance is that it has to be public, not a private conversation
+- The word "wilfully" implies a mental element  as well
+- Is it enough that the accused wilfully communicate these statements, or does the promotion of hatred have to be wilful?
+- Does this element require intention/knowledge, or merely just recklessness?
+- Recklessness is a subjective element, must show that the accused saw the possible risks of their conduct and acted anyway
+- Court determined that this offence only requires intention or knowledge
+- Comes partly from the fact that the word "wilfully" is paired with the element of promoting hatred, suggesting that this is the part that needs to be willful
+- Crown requires proof that the accused either intended to promote hatred or at least considered that the pamphlet would promote hatred
+- Judge Martin ends up interpreting the word "wilfully" as requiring intention or knowledge
+### Wilful Blindness ([[R v Briscoe]])
+- Case involves a teenage girl who was killed by two adults and a group of young people
+- Accused was one of the adults who did not participate in the murder but did drive the group to a golf course where the girl was killed, and handed the other adult one of the murder weapons
+- For the Crown to convict him as a party to murder, need to establish that he was aware that there was a murder being committed and that he was assisting with the murder
+- Briscoe argued that he did not know that the others were going to kill the girl
+- Did not testify in court, but his police statements were used as evidence
+- Acquitted on all counts by the trial judge
+- However, appeal court and Supreme Court argued that the trial judge failed to consider that Briscoe was wilfully blind to the actions of the others
+- Wilful blindness is considered equivalent to knowledge, if an individual makes an intentional choice to not inquire about some information they do not want to know
+- Often misinterpreted as meaning that an individual "should have known" something
+- This is an objective standard, but wilful blindness is a subjective standard
+### [[Sansregret v The Queen]]
+- Sexual assault case where a former partner visited the victim's house twice threatening and intimidating them until they agreed to have sex with them
+- Argued that they were under the impression that the sexual contact was consensual
+- Trial judge acquitted the accused based on mistake of fact, saying that despite the unreasonability of the belief, the accused believed that the sex was consensual
+- Appeal court found that the trial judge erred, as the accused was acting with wilful blindness
+- If we consider that the belief of the accused was made with wilful blindness, the mistake of fact defence does not apply
+- Distinguishes the difference between recklessness and wilful blindness

@@ -1,0 +1,28 @@
+- Issue is whether respondent trespassed on the appellant's airspace
+- Respondent was a utility company that erected a power line next to the appellants land
+- Arms of the power poles extend 6 feet into the appellants land
+- Appellant argues this constitutes a trespass, the arms prevent planting trees under the overhang
+- Also mentions that operating tall machinery or crop planes is now much more dangerous
+- Trial judge determined that this was not interference with possession
+- However, Alberta Court of Appeal argued that this fails to consider the problems mentioned by the appellant, and allowed appeal (this is that case)
+- Definition of trespass is the same, issue is whether land rights extend to the airspace above land
+- Prior to air travel, property right relied on *cujus est solum, ejus est usque ad coelum et ad inferos*
+- This maxim determines that property ownership extends infinitely upwards and downwards
+- Previous cases come in two flavours
+- Either there was a permanent structure extending above the land of another, or there was a temporary invasion of air space at a significant height
+- Precedent holds that cases like the former tend to qualify as trespass
+- Appellant relies on the *cujus est solum* maxim, although courts have been hesitant to accept ownership of airspace
+- For example, cases alleging trespass by airplane rarely succeed
+- Respondent argues that trespass only happens if there is actual interference with the use of the space
+- If aircraft can use airspace, then electrical lies can as well
+- However, there is a huge difference in permanence here, and low flying aircraft may be considered a trespass as well
+- Respondent pointed to two previous cases where the maxim was restricted, but both related to airplanes
+- Second case (Air Canada v R), held that airspace is *res omnium communis*
+- Still pretty clear that property owners have at least **some** rights to the airspace above their property
+- Also has been a consistent difference between the construction of permanent structures and aircraft flying over
+- *Air Canada* made reference to a test where air space rights are restricted to a height that an owner could reasonably use
+- Anything above this is public domain
+- Overall result is that the courts do not follow the Latin maxim to the word
+- Also, the remedy is [[Trespass]], not [[Nuisance]]
+- Final decision was made using a test from the case *Bernstein v Skyviews* that establishes that a landowner has the right to all space above their land that they can occupy or use
+- Based on this logic, appeal is approved and appellant is granted relief for trespass (SCC refused appeal)

@@ -1,0 +1,67 @@
+- In 2016, a Virginia woman blasted a drone flying over her property out of the sky using a shotgun
+- Raises the issue of at which height entering airspace over private property becomes a trespass
+- Trespass is not the interference with the use or enjoyment of property, but is the interference with ones right to possession of land or some other property
+- Recall that there is no need to establish damages, just that there is interference with possession
+- At what height does a property interest extend?
+- Original basis of property rights was based on the Latin maxim *cujus est solum, ejus est usque ad coelum et ad inferos*
+- States that property rights extend infinitely upwards and downwards
+- Doesn't really work in modern society, pretty impractical now
+- Used as a *prima facie* basis for airspace rights
+- *Manitoba v Air Canada* established that this right exists to ensure the enjoyment of property and to ensure that no other individual can purchase the rights to airspace above an existing property
+- In *Kelsen v Imperial Tobacco*, a store owner leased a storefront next to a taller building containing a cigarette billboard that protruded above the storefront
+- Question was whether it was an imposition on the property rights of the leaseholder of the storefront, in this case it was Kelsen
+- Owner of the neighbouring building argued that the billboard did not create any interference with the use of the space above the storefront
+- Court argued that the issue at hand was not interference with reasonable use ([[Nuisance]]), but interference with the right of possession
+- Important case that draws the line between nuisance and trespass in airspace cases
+- Court provided a remedy in the form of an injunction
+- This was an **equitable** remedy that went beyond the ordinary damages remedies, reflects the fact that there was no damage to property
+- What happened after this was that Kelsen offered the use of the billboard to the neighbouring company on the terms that they pay him rent instead of taking it down
+### [[Didow v Alberta Power Ltd]]
+- Similar case of a permanent intrusion onto the airspace of a private landowner
+- Affirmed the fact that this is a trespass case
+- However when it comes to transient invasions (like the drone), landowners can't object to these issues if they don't interfere with use and enjoyment of property
+- Therefore, transient invasions are considered nuisances, and permanent invasions are a trespass
+- In *Lacroix v The Queen*, landowners near an airport sued the government for trespass
+- The Federal Court (Exchequer Court at the time) ruled that airspace fell into the domain of common property
+- Owners of land can still use it in any way they could legally do so, but use of airspace is limited to what you can possess/occupy for the purposes of use or enjoyment
+- Again, this sounds a lot like a nuisance standard, but limited to the extent of use
+- Establishes the upper boundary of the property line to whatever height the owner can reasonably use or occupy
+- Court determined that the flight path of the planes was above the height the owners could reasonably use or enjoy
+- However, this did not preclude the ability of the owners to bring a nuisance case
+- In *Bernstein v Skyviews*, the owner of a property objected to the presence of a plane flying over their property to take aerial images of the property they could then sell
+- Court used a similar test as in the *Lacroix* case, establishing the upper limit as the height of ordinary use
+- Pointed out the tension between the need to freely navigate airspace and the need to protect the rights of property owners
+- Again, while the court ruled that there was no trespass, could be cause for a nuisance case
+- In *US v Causby*, a military airplane flew 25 meters above a farmer's field
+- Again used the same test, and affirmed that even if there was no building on the property reaching that height did not mean that upper limit did not extend to 25 m
+- Awarded compensation to the farmer
+- Going back to the *Air Canada* case, Manitoba was trying to levy personal property taxes from all Air Canada planes flying over the province
+- Ruled that the planes were above the range of property interest in Manitoba
+- Given all this, is flying a drone at a low height over a property considered trespass?
+- The answer is yes, a transient invasion of airspace can be considered a trespass as long as the invasion occurs in the region of ordinary use
+- At this point, the issue is not interference with use of property, it's interference with the right of possession
+- To determine where the ordinary use limit is, we can look at zoning regulations to see how high buildings on a property can be built
+- Can also examine local standards, how are nearby properties being used and the height of other nearby structures such as trees
+- Can even look at local statutes, for example you can't fly UAVs on any land near an airport
+- The word "ordinary" implies some sort of local standard
+### Sovereign Airspace
+- Going to the public dimension, how high does Canada extend?
+- No clear standard in international law that defines the extent of airspace
+- *Convention of International Civil Aviation* establishes that all countries have exclusive control of their airspace
+- UNCLOS establishes that countries also have control of the airspace over their territorial seas
+### Subdivision of Airspace
+- Within the column of space that a property occupies, subdivisions can also exist
+- After the New York subway went underground, they began to sell property interests in the land above the subway lines
+- Other examples of this where "air lots" are sold which are parcels of land that exist over top of an existing structure, usually a rail line
+- Surface area is owned as a separate entity from the air lot that exists above it, with small surface property areas designated for building supports
+- BC is one of the only provinces that has a defined process for creating air space titles
+- Can divide a fee simple interest into airspace parcels that can be bought, sold, and mortgaged like any other kind of fee simple interest
+- This was done in response to a waterfront development on Burrard Inlet which was intended to coincide with a new freeway to be built where Canada Place is now
+- Intended to extend over the CPR lines were (the bridge to the seabus goes over those rail lines now)
+- Development ended up not coming to fruition after the freeway failed, but one building survived, which is now Granville Square
+- These airspace title rules have now been incorporated into the BC *Land Title Act*
+- A modern example of this would be the Rogers Tower, which is a residential building constructed on top of a professional office building
+- Airspace parcel consists of an underground parking garage, some ground level amenities, and an elevator shaft leading up to the residential buildings
+- Once you have an airspace parcel, you can subdivide it according to the *Strata Property Act*
+- This is done by submitting a strata plan to the land title office
+- Again, those new strata lots can be distributed as fee simple property interests

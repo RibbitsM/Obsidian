@@ -1,0 +1,38 @@
+- Appellants were originally convicted for promoting hatred against the French Canadian community
+- The two publicly distributed pamphlets in Essex County, Ontario containing the offending statements
+- Both appellants were French-Canadian themselves, with one born in Windsor and the other in Egypt
+- Both worked for the LACFO, a government-funded organization supporting the French Canadian population in Ontario
+- Previously people were pushing for a French language school in Essex, which was agreed to on the grounds that the Board of Education got a grant to build it and received money to renovate two other schools
+- Received the grant, but it did not cover as much of the costs as expected
+- Decided to renovate the other two schools anyway and not build the French school, upsetting the French community
+- After the events of the trial, provincial government passed a law requiring the county to build the school
+- Prior to this there was an impending election for the school board that the LACFO created an endorsement list for
+- Candidates rejected the endorsement, and most of the elected officials ended up opposing the French school
+- After the election, appellants began organizing events to raise support for the school issue
+- Also started distributing the offending pamphlets
+- The pamphlet was actively fearmongering against the French Canadian population in Essex, stating that they were freeloading off of taxpayer money
+- Appellants argued that the pamphlet was not meant to be taken literally and was intended to expose the prejudice faced by the French community
+- Intended as satire and as a way for the House of Commons to recognize their plight
+### Analysis
+- Primary grounds of appeal was that the trial judge misinterpreted the meaning of the word "wilfully"
+- Held that the word meant "intentionally" as opposed to "accidentally"
+- Text they were interpreting comes from s. 281.2 of the *Code*
+- Phrase "wilfully promotes hatred" can either be interpreted as implying intentional will or recklessness
+- Difference between promoting hate speech intentionally, or using language that you should have reasonably been able to expect would promote hatred
+- Defendant used the definition of "wilfully" found in s. 386(1) which supports the interpretation of a reckless act
+- Overall, court held that in the context of s. 281.2(2), the term "wilfully" implies an intentional element
+- Determined this based on looking at the other charges in the section
+- Section 281.2(1) is similar, but only applies to incitement of hatred in public places, and doesn't explicitly require *mens rea*
+- However, since this could be considered an "immediate threat to public order", *mens rea* is implied under common law?
+- Inserting the word "wilfully" is unnecessary, *mens rea* is implied in s. 281.2(1) anyway for the same reason
+- The fact that the legislature decided to include the word "wilfully" in the latter section implies an effort to communicate the need for intentionality
+- Precedent establishes that intentions exists when someone acts to bring about a certain consequence but also when someone reasonably foresees a certain consequence
+- Some debate about this, but the court upholds the finding that acting with foresight of potential consequences can be considered to be acting wilfully
+- This is because they know that their actions may create a certain result, and perform those actions regardless
+- Therefore, the appellants willfully promoted hatred as long as they either intended to spread hatred via the pamphlets **or** foresaw that those pamphlets would certainly promote hatred
+- However, just because this is a possible interpretation of "wilfully" doesn't mean that this was the one being used here
+- Also, any determination of what the accused intended/foresaw depends on mostly circumstantial evidence
+- French-Canadian background of both appellants as well as their positions on LACFO indicate they did not intend to promote hatred towards the French Canadian community
+- Trial judge did not disbelieve this statement, but took the testimony that the appellants intended to create "controversy" as meaning they intended to promote hatred
+- In summary, trial judge found both guilty, and appealed on the grounds that the judge made an error of law and misdirected themselves on the definition of "wilfully"
+- Appeal allowed, new trial ordered

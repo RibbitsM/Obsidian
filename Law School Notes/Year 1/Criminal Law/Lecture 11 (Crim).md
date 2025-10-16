@@ -1,0 +1,45 @@
+- Recall that causation applies to all cases where a consequence is one of the elements of the offence, just happens that murder is high stakes
+- Also often have multiple contributing causes in murder cases
+### [[R v Maybin]]
+- Three appellants, Timothy Maybin, his brother, and a bouncer
+- Victim offended Timothy at a bar, and he responded by punching him repeatedly in the face and head, his brother stood by and tried to get people to help in anticipation of a fight
+- Bouncer came over and asked who started the fight, someone pointed to the victim who was now unconscious on the pool table, and bouncer punched him hard in the back of the head
+- Victim died of a brain bleed, unclear which punch killed him
+- Court debated whether the intervention of the bouncers was an independent act sufficient to break the chain of causation between the assault by Timothy and death
+- Considered whether the intervention was reasonably foreseeable by the accused, and thus would not break the chain of causation
+- However, the court mentions that these factors are not decisive, what we are actually trying to conclude is whether the act was a significant contributing cause of death
+- This is the *Smithers* test, and it's the ultimate decider for liability in murder cases
+- Majority opinion argued that when examining foreseeability, we're not evaluating whether the precise scenario could be foreseen, just the general nature of the intervention
+- In this case you don't have to foresee the bouncer's punch, just that another person in the bar might join in and injure the victim
+- Therefore, the trial judge was correct in asserting that the actions of the Maybins were a significant contributing cause of death
+- Affirms the *Smithers* test as applying even to situations with multiple contributing causes
+- Another important element to note was that the bouncer arrived less than a minute after the initial assault, both events were very close temporally
+- Cases where multiple people assault another are particularly difficult, as it is usually unclear who struck the lethal blow
+- In *R v Lozada* the accused were in a group that got into a fight with another group, when a member of their group pulled a knife and stabbed someone in the other group, killing them
+- Question is whether the accused could have reasonably foreseen that someone else in their group was armed
+- In this case, they followed the precedent from *Maybin* and determined if the actions of the accused were a significant contributing cause of death
+### [[R v Busch]]
+- Recall that for the *Harbottle* test, on top of determining whether there was a significant contributing cause, you have to find there is a substantial and integral part
+- Mainly applies to accused who aid another in a murder
+- Parties provision in the Criminal Code (s. 21) says that a person can be guilty of an offence if they are a principal, an aider (helps), or an abettor (encourages)
+- Aiders and abettors are equally guilty as the principal
+- Usually there is some leniency by the judge for aiders and abettors in sentencing, but in first degree murder, all parties receive life imprisonment
+- Aiding and abetting ranges from extremely involved to largely peripheral
+- As long as someone provides assistance and they know that the other person is going to commit an offence, you are guilty
+- *Harbottle* pretty clearly establishes a test that applies to s. 231(5) and s. 231(6) because both of these provisions include the wording "when the death is caused by that person"
+- However, the question is still open whether this applies to other forms of first degree murder
+- In this case, both of the accused (Armitage and Busch) escaped from a prison on Vancouver Island
+- The victim lived near the prison, and was found dead with their arms and legs taped
+- Obvious that Armitage was at the scene, he used the victims phone and computer to search his own name and call some of his friends, and his DNA was everywhere
+- Some of Busch's DNA was also found, and he was arrested while wearing the victim's clothes
+- Counsel for Busch argued that Armitage did the killing, and Busch was simply an accessory after the fact and not guilty as a co-principal
+- Crown is trying to prove either first degree murder under s. 231(2) which is planned and deliberate murder, or under s. 231(5)(e), which is murder during unlawful confinement
+- For the latter, there is precedent for the *Harbottle* test, but not for the former
+- For Busch to be a co-principal to planned and deliberate murder, have to prove BRD that Busch gave Armitage aid knowing he planned to kill the victim
+- Defence argued that the *Harbottle* test should be applied to all first degree murder cases
+- Main argument was that the intention of the first-degree murder charge is to only charge individuals with a "heightened degree of moral culpability"
+- Court argues that there is already a high level of *mens rea* required to be a co-principal to first-degree murder, don't need the enhanced physical requirement too
+- In a planned and deliberate murder, there is a certain element of forethought going on, while a crime of domination murder often happens in the spur of the moment
+- Thus, for someone to be a co-principal in the latter case, need more involvement
+- Of course, just because the other party may not be charged for first-degree murder, still leaves the possibility of second-degree murder on the table
+- Ultimately, BC Court of Appeal determined that the *Harbottle* test applies only to first-degree murder charges under s. 231(5) and s. 231(6)

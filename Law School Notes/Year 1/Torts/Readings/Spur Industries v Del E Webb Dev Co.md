@@ -1,0 +1,20 @@
+- Defendant operated a cattle feedlot near a new town called Sun City being built by the plaintiff
+- Cattle feedlot existed first, in a longstanding agricultural region
+- Plaintiff purchased land in the neighbourhood to develop a new urban area
+- As this development crept closer to the feedlot, sales became more difficult due to the smell and flies from the feedlot
+- Produced a lot of manure which smells really bad
+- Citizens of Sun City complained about the smell and the plaintiff had substantial problems selling additional units
+- Trial court provided an injunction, and both parties appealed?
+- Appeal is being heard in Arizona Supreme Court
+- Because the plaintiff proved that the smell was causing them to lose sales, this is pretty clearly a nuisance
+- Two main legal questions:
+- If a lawful business becomes a nuisance due to the construction of a nearby residential area, is an injunction appropriate?
+- Assuming an injunction is appropriate, does the developer of the residential area have to compensate the business for the damages caused by the injunction?
+- At the time that Spur Industries constructed the feedlot, there was no indication a city would pop up next door
+- Spur has to move their feedlot due to no fault of their own
+- Del Webb is entitled to an injunction not for blame reasons, but because of the damage to the citizens of Sun City
+- Courts will take the side of the public
+- However, even if Webb is entitled to an injunction, it doesn't make sense that they are free of liability considering it's their fault
+- Even if Webb can ask Spur to leave, they also have to indemnify them (pay for the costs of moving)
+- Because the nuisance was foreseeable by Webb, this is required
+- Court decides that Spur sustained damages from the previous injunction, and Webb must pay

@@ -19,4 +19,11 @@
 - Of course if the defendant was acting negligently or maliciously this does factor in, but it's not the core focus
 - But, it becomes more important when the defendant is a public authority
 - According *Fleming's Law of Torts*, evidence that the defendant has taken all possible precautions can be decisive when statutory authority is involved
-- 
+- Argues for a slight retooling of the utilitarian approach, as even if the public benefit outweighs the consequences, those consequences should not fall solely on one person
+- Similar to what [[Privilege, Malice, and Intent|Holmes]] was arguing for
+- Generally speaking, the utility of public works will almost always outweigh the consequences
+- Need to the use the test from *Tock* to determine if the damage is an inevitable consequence of running the system
+- Also point out that duration is less of a consideration in public nuisance cases
+### Decision
+- Board did not fail to take into account the utility of the defendant's actions, nor to balance the relevant factors
+- Purpose of the compensation scheme is to ensure individuals do not bear disproportionate costs

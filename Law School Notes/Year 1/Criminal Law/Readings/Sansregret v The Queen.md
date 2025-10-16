@@ -1,0 +1,19 @@
+- Accused was in a relationship with the victim before the alleged rape, which ended when the accused began to act violently before the victim
+- On two occasions, accused would break into the victim's house and harass her until she agreed to have sexual intercourse with him
+- Accused was charged with rape as the victim expressed that she only consented to sex in order to preserve her life, and did not truly consent
+- Trial judge acquitted as the Crown failed to prove that the accused knew that the victim was not genuinely consenting to sex
+- Court of Appeal overturned this decision, and Supreme Court upheld the conviction
+### Analysis
+- Recklessness is distinct from negligence, as negligence is an objective standard determined by comparing the actions of a reasonable person to the conduct of the defendant
+- Recklessness is subjective, must demonstrate that the accused foresaw danger and persisted despite this known risk
+- Based on the facts, pretty easy to determine that the accused would foresee that threatening the victim to have sex with them would lead to a lack of genuine consent
+- Trial judge acquitted because the accused used the defence of [[Mistake of Fact]], if it were not for this defence, trial judge would have convicted
+- Also later found that the accused had been wilfully blind
+- Believed that the acquittal was justified because recklessness does not overcome the defence of mistake of fact, but wilful blindness would
+- This is because honestly believing a fact, even if that belief is unreasonable, is a valid defence according to the precedent of *Pappajohn*
+- However, wilful blindness precludes this logic as it suggests that the belief was dishonest
+- Wilful blindness is different from recklessness because the latter is acting despite a known risk, while the former is declining to make an inquiry due to not wanting to know the answer
+- Recklessness is defined by knowledge of risk, wilful blindness is defined by refusal to inquire when a need to inquire exists
+- Wilful blindness only applies when it is almost certain that the defendant knew what the answer to their inquiry would be
+- The first incident where the accused broke in could be dismissed as recklessness, but the fact that he was aware the victim called for police afterwards and still attempted the same act a few days later ensures that they were acting with wilful blindness
+- Appeal dismissed

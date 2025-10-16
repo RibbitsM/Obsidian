@@ -1,0 +1,133 @@
+- Key goal of the modern Indigenous movement is nation-to-nation recognition between Canada and Indigenous nations
+- Recent years have shown an unprecedented degree of recognition by the Canadian state
+- Includes self-government rights, aboriginal title, and the recognition of Indigenous legal orders
+- Progress reflected globally, especially in the South Pacific
+- However, author argues that the relationship between Canada and its Indigenous population cannot be resolved through recognition alone
+- The term "politics of recognition" is used to refer to the liberal concept of reconciling Indigenous nationhood with the assumption of the sovereignty of the settler state
+- Identifies the shift in this policy as coming from the [[Lecture 4 (ISLR)#Indian Act Colonialism Legislation History|White Paper]]
+- Around this time, Indigenous activism was starting to gain some real power in Canadian politics
+- Goal of the White Paper was to legally assimilate all Indigenous peoples of Canada by removing their distinct status
+- Resulted in massive backlash against the idea of being treated like any other Canadian citizen
+- Instead of passively assimilating the Indigenous population, the White Paper accidentally revolutionized Indigenous resistance
+- The second landmark shift came from the *Calder* decision which would ultimately lay the groundwork for the [[Lessons for Indigenous Property|Nisga'a Final Agreement]]
+- Revolutionized legal precedent for Indigenous land claims
+- Also, there were multiple resource development projects around the same time that were being protested
+- Helped give even more visibility to the Indigenous movement
+- These confrontations caused an adaptation from the Canadian govt
+- Shifted away from assimilation and towards recognition, but still colonial in nature
+### Post-White Paper Period
+- Author defines settler colonialism as a relationship where power is contained within a structure that dispossesses another group
+- Domination in Canada takes the form of a commitment to maintain control of Indigenous land
+- [[The Elimination of the Native|"the primary motive (of settler-colonialism) is not race (or religion, ethnicity, grade of civilization, etc.) but access to territory."]]
+- Compares the structured dispossession of colonialism with Marx's description of the birth of capitalism
+- Origin of capitalism was the separation of workers from their self-sufficient agricultural lives, their land
+- Marx's theory of [[Agriculture and Economic Development|primitive accumulation]] is suggested as a model for Indigenous resistance to work from
+- Needs some adjusting for this to work
+- First, Marx framed primitive communism as an initial form of capital that doesn't exist anymore
+- Even at the time he was writing, the process of dispossession he was describing still existed outside of England
+- Another big issue was how Eurocentric the theory was
+- Basically dismissed all other cultures as lacking the capacity for historical innovation
+- This period of dispossession was a necessary evil as it was required for uncivilized societies to enter the grand march towards socialism
+- These are pretty major issues, how do we adapt this theory?
+- Author suggests simply shifting the focus of the analysis from capitalism towards colonialism
+- While Marx did write about colonialism, it was only to further his analysis of capitalism
+- Colonial dispossession exposed the fact that capital is a social relation reliant on separating workers from the means of production
+- However, instead of focusing on what this means for factory workers in England, we'll address what it means for those being dispossessed
+- To be fair, Marx realized soon before he died that he should also have been thinking in this way
+- When we are "returning to common land" in a place like Canada, our new insight tells us that these commons are Indigenous land
+- Also lets us track the role played by Indigenous labour in Canadian labour
+- Was initially very important, but became basically irrelevant after the fur trade subsided
+- Their land became much more important than their labour
+- As such, the state began to focus on subdividing and purchasing Indigenous land
+- Compared to Marx's theory, the Indigenous population has experienced much more dispossession than labour exploitation
+- Makes sense that Indigenous anti-capitalist movements are centered almost entirely around land
+- Doesn't focus just on land physically, but the need to retvrn to a symbiotic and sustainable relationship with land
+- Leads to another criticism of Marx's work, which is that he does not place value on land itself, just its economic value
+- However, we can avoid this is we just focus on Indigenous values of place-based resistance
+- Finally, we have to come to terms with the fact that the exploitation of Indigenous peoples in Canada is not fully economic
+- Marx has always been criticized for not considering racial or gendered oppression, and this applies here too
+- Solved by taking an [[Metaphysics of Gender|intersectional]] approach
+- Colonization is where all of these varied axes of oppression converge
+- Colonialism is like capital in the sense that it is not a thing but a complex system of social relations
+- One issue we haven't addressed yet is the difference in how this power is exercised
+- We have been arguing that colonial influence is shown through "politics of recognition", which is a much more subtle power than the overt violence of Marx's theories
+- This is the true issue to address, what do we do when colonial dispossession doesn't go away, but isn't violent?
+- How do we account for this within Marx's framework?
+### Politics of Recognition
+- Author tries to explain this by adopting the theories of Franz Fanon
+- Recall that the question is how colonial rule went from overt violence to offering state recognition and other limited freedoms
+- Despite the fact that Fanon previously focused on colonial violence, he has also researched the relationship between recognition and freedom in his book "Black Skin, White Masks"
+- This book covered the relationship of master v slave in the *Phenomenology of Spirit*, but can be applied to Canada
+- Where colonial rule is not enforced by force, it takes the form of "colonized subjects"
+- This is when the colonized are socialized to replicate the practices and desires that dominated them in the first place
+- Recognition is one way in which these relations are created and maintained, something Hegel never mentioned
+### History of Denendeh
+- The word "Denendeh" refers to the ancestral home of the Dene people, located in most of the modern NWT
+- There are currently five Dene regions in the NWT, all of which have been or are currently the subject of land claims
+- The author resides in the Akaitcho region, the southernmost of these five regions
+- While the regions are fairly separated, they all speak related dialects of the same language family and have cultural similarities
+- In the 1940s and 50s, as the fur trade fully died out, many Dene families found that they now had to participate in the workforce
+- While life was still sustained by foraging and hunting, income had to come from paid employment
+- In 1967, the federal government moved the NWT government from Ottawa to Yellowknife, significantly increasing the settler population
+- Soon, this led to resource development emerging in the territory
+- Over time, the Dene lost more and more influence over their land
+- Soon after, an enormous reserve of oil and gas was found in Prudhoe Bay in Alaska
+- Plans were made to construct a massive pipeline going through the Mackenzie River Valley in the NWT to carry energy to the states
+- The proposed pipeline cut directly through Dene land, as well as Inuit and Métis territory
+- Despite widespread opposition, Indigenous groups had no way to formally voice these complaints
+- In response, they formed the Indian Brotherhood of the Northwest Territories which would eventually become the Dene Nation
+- Inuvialuit created a similar organization called the Committee for Original People's Entitlement (COPE), and the Métis had their own Metis Association of the NWT
+- Goal of these organizations was to defend the interests of Indigenous peoples against governments and extraction companies
+- The Dene Nation began by making a land claim to over a million square kilometers of land in the NWT
+- Supreme Court of the NWT ruled that they had a interest in this land in the form of aboriginal rights
+- Based on the fact that the Dene did not know they were extinguishing their title by signing the numbered treaties
+- This specific case was later appealed and overruled on a technicality, but the validity of these two points were never challenged
+- In 1973, the Canadian government revamped its land claims policy in light of the White Paper and *Calder*
+- This meant that the Dene could continue their case under the new policy, which came into effect a month before the SCNWT decision
+- Also, a commission of inquiry was created for the pipeline issue, called the "Berger Inquiry"
+- This project involved almost two years of gathering testimony from thousands of witnesses from the NWT, and ultimately recommended halting the current proposal
+### Challenging Colonial Development
+- This history demonstrates what we talked about earlier, how Indigenous struggles are structured around land
+- This is overall the main divide between Indigenous and Western philosophy, the importance of land and place
+- Western societies tend to place more importance on time, understanding things in a historical context
+- The historical and developmental imperatives of capitalism pay little attention the importance of land in Indigenous thought
+- Humans have ethical obligations to their environment, they are as much a part of the land as the rocks and trees
+- In Marxism, oppression is measured as the exploitation of the time of a worker, of a portion of their labour
+- For Indigenous communities, oppression comes from the abuse of the relationship between humans and the environment
+- Land serves as the resources that keep the people alive, but also as what gives them their identity and anchors relationships
+- In 1975, the IBNWT as well as their Metis and non-status counterparts issued the Dene Declaration
+- This is a manifesto demanding full recognition as a sovereign nation within Canada
+- Like many other Indigenous nations, they were seeking self-determination in terms of cultural sovereignty and self-government rather than creating a new state
+- Author uses the term "mode of production" coined by Marx to describe how to understand Dene culture
+- Not just culture in terms of food or music, but also the organizing principles of Dene society and relationships with the land
+- This is the culture they want recognized through self-government
+- The reform of the Canadian land claim process was initiated to specifically avoid having to recognize this
+- By removing the broad and undefined existing Aboriginal rights and replacing them with a clear and narrower set, they could have control
+- While the state was willing to recognize "Dene culture" this really meant recognizing a subset of true Dene culture
+- This recognition would not extend to Indigenous economic or political systems
+### Domestication of Dene Nationhood
+- When dealing with land claims, settler colonials states will try to "domesticate" Indigenous nations
+- This is done by granting rights to internal governance while still being subject to the authority of the state while recognizing certain cultural aspects
+- In 1976, the Dene Nation created the *Agreement in Principle between the Dene Nation and Her Majesty the Queen, in Right of Canada*
+- This was a land claim proposal that would allow for self-determination, and political jurisdiction over most of ancestral Dene territory
+- The structure of this proposed new government would be much different from the Canadian system
+- It was to be consensus-based and focused on the principle of popular sovereignty
+- Direct democracy would also be used in economic matters, combining subsistence activities with communal manufacturing efforts
+- Dene Nation would also respect all existing fee simple land titles created before late 1975, all other land would be held in common
+- This proposal faced mass backlash, with even many other Indigenous groups accusing the Dene of being infiltrated by socialists
+- At the government level, the proposal was rejected for violating the principle of equality because it created an exclusionary jurisdiction based on race
+- In response, the initial proposal was rewritten to apply to all of the NWT, allowing for representation of the Inuit and non-natives as well
+- Each group would have its own government, who would collaborate as equals to govern the territory jointly
+- Around this time was when the federal government really started pushing the idea of apolitical Aboriginal rights
+- Also proposed that the NWT create a Native Bill of Rights
+- Wrote an opinion paper in 1977 that advocated for the protection of Aboriginal culture and traditional practices
+- Also proposed working with Indigenous groups on governance issues like hunting rights but rejected calls for political jurisdiction
+- Federal gov contemplated dividing the NWT in terms of "functional issues" but rejected any clear Indigenous/non-Indigenous boundaries
+- Dene political participation would be limited to the existing arenas
+- Showed a concentrated effort to separate recognizing cultural practices from allowing self-government
+- Cultural claims could be made only up until the point where they conflict with resource extraction
+- Another attempt was made by the Dene Nation to make another settlement claim that would give them political jurisdiction
+- Proposed a province-like entity called "Denendeh" that could manage certain aspects of public life
+- Again, would rely on direct democracy and commonly held land
+- However, it was clear that this would interfere with resource extraction in the NWT, as any such projects would have to be approved by the public
+- Again, the proposal was unpopular and was rejected

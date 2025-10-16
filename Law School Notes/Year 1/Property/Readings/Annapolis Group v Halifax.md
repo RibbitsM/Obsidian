@@ -1,0 +1,43 @@
+- Deals with the issue of *[[Lecture 10 (Property)|de facto]]* taking of property
+- Appellant argues that Halifax Municipality used regulatory powers to convert their land into a public park without compensation
+- Defendant convinced the Nova Scotia Court of Appeal to apply the [[CPR v City of Vancouver]] judgement, and the appellant is seeking to appeal the decision
+- SCC accepted the appeal, stating that the appeal court improperly applied the *CPR* ruling
+- Recall that the two elements for constructive taking are beneficial interest for the taker, and removal of all reasonable uses
+- In fact, both of these requirements were met here
+### Facts
+- Plaintiff acquired property to secure development rights and resell it
+- *Regional Municipal Planning Strategy* reserved part of the property as a potential new regional park, preventing some parts of the property from being developed
+- However, doesn't allow Halifax to build on the land
+- Later revised the document, but kept the same zoning
+- 10 years later, after Halifax still hadn't moved to expropriate the land, plaintiff initiated proceedings alleging constructive taking
+- Argues that Halifax has effectively been using the land as a park without compensation, encouraging members of the public to use their land
+- Court of Appel held that Halifax had not technically received a beneficial interest as they haven't actually taken any land
+### Issues
+- Should gaining a "beneficial interest" require actual taking by the state?
+- Is intended use for land irrelevant to an indirect taking case?
+### Analysis
+- Revisited the *CPR* test, focusing in on thee requirement of a "beneficial interest"
+- Precedent established that beneficial interest is related to the real effects of regulatory measures, not whether land was actually gained?
+- In the context of *CPR*, benefit was more than just gaining land, if you had to actually gain the land there would be no distinction between *de facto* and *de jure* taking
+- The fact that the CPR test mentions interests "flowing" from the property implies that we are talking about general advantages here
+- Court outlines three factors to consider when evaluating this
+- First, consider the nature of the government action
+- Was it targeted? Was there advance notice? Were the restrictions reasonable?
+- Second, how is the land being used now and historically
+- For example, is the land undeveloped or developed?
+- Third, consider the form of the "advantage"
+- Is access to the property barred? Is it occupied by the government?
+- Also specifies that depriving economic uses may satisfy this test, especially if it limits the use of private land for only public purposes
+- Can see echoes of *[[Lecture 10 (Property)#Penn Central v New York City|Penn Central]]* in these criteria, especially the requirement for the restriction to be targeted and the mention of depriving economic use
+- Based on this analysis, court moved to allow the appeal and allow the compensation claim to proceed to trial
+### Dissenting Opinion
+- Disagree with the decision of the majority to alter the *CPR* test in two ways
+- First way it was altered was by expanding the definition of "advantage"
+- Argues that the *CPR* test required to government to take a proprietary interest for it to be considered *de facto* taking
+- Second, the majority introduced the element of intent to the test
+- The fact that Halifax refused to zone the land for development and allowed the public to use the land may be relevant for a case of abuse of public office, but not *de facto* taking
+- Both the Nova Scotia Supreme Court and Court of Appeal ruled that intention is not a factor
+- Important to note that the land acquired by Annapolis was not zoned for development when it was purchased
+- Halifax has not restricted their use at all, just refused to expand that use
+- Argues that changing the precedent will only help developers that speculate on public land
+- State that the appeal should be dismissed

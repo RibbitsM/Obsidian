@@ -6,4 +6,3 @@
 - This section prohibits having care and control of a motor vehicle while under the influence
 - Question is whether this offence requires the individual to pose some risk to people or property
 - Obviously Boudreault did not intend to drive, but does the law account for this?
-- 

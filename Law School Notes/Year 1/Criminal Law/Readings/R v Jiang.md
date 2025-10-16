@@ -1,0 +1,12 @@
+- Accused was charged with dangerous driving causing death
+- Accused was driving home and fell asleep behind the wheel, mounted the curb, and hit two children, killing one of them
+- Court pointed to a previous case where the courts considered situations where dangerous driving doesn't lead to a conviction
+- Examples mainly involve a sudden onset of a disease/disability while operating a motor vehicle
+- This is identified as being relevant to the *actus reus*, as it makes the act of losing control involuntary
+- Weird because this is a mental element, but is still included in the *mens rea*
+- Lord Denning explained once that an involuntary act cannot be convicted on
+- This state is usually referred to as "automatism" in Canada
+- Sleeping and sleepwalking specifically is usually understood as a form of non-insane automatism under the Canadian legal system
+- A sleeping driver is not acting under their own volition and cannot fulfill the *actus reus* elements of dangerous driving
+- Does not prevent the driver from being convicted of an offence that consists of driving despite a risk of falling asleep
+- Therefore, they cannot be convicted unless the judge is convinced that drove in circumstances that risked falling asleep behind the wheel

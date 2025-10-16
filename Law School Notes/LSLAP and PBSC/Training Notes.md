@@ -1,0 +1,11 @@
+- For immigration cases, stick to the questionnaire
+- Always check for limitation dates, often you will have to determine this yourself
+- Also want to figure out what exact result the client wants in their case
+- During debrief, tell your clinic head the name + contact of the opposing party and your best guess of the limitation date
+- Most of the questions on the intake form are optional, except for the income question
+- Never give legal advice without the approval of a supervising lawyer, this means that we mainly provide legal advice through email and snail mail
+- Ideally, we should be sending legal advice through a physical letter on LSLAP letterhead that is vetted by the supervising lawyer(s)
+- Never give legal advice in an interview or phone appointment, can only clarify advice that has already been given
+- If there is a limitation date, we have to inform the client before they are no longer in our service
+- Also should consult with the SL on any communications with the opposing party
+- 

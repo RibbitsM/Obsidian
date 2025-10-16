@@ -1,0 +1,43 @@
+### Tendering
+- Another context where Canadian law seems to uphold a requirement to negotiate in good faith
+- Recall that Canadian law has established that the performance of an "agreement to agree" can be regulated by a requirement to bargain in good faith
+- However, this is usually conditional on the presence of an objective standard
+- Also may be subject to the [[Bhasin v Hrynew]] rules
+- Recall that the precedent of [[Lecture 4 (Contracts)#Tenders and Auctions|Ron Engineering]] established that the tendering process involves two separate contracts, the first is initiated by submitting a bid
+- This contract has been held to contain implied terms requiring the tenderer to assess bids in a fair and equal matter
+- In the *Healthcare Developers Inc v Newfoundland* case, the courts held that the tenderer must act in "good faith", meaning that at minimum they cannot act in "bad faith"
+- Marks a diversion from the usual terms of "fair and equal" being used
+- An example of bad faith was presented as awarding something other than the expected Contract B to the winner of the auction, or accepting non-compliant bids
+- Another example of bargaining in bad faith in a tender is holding a preference for certain kinds of bids and not disclosing that preference
+- For example, in *Tarmac Canada Inc v Hamilton-Wentworth*, the defendant had a preference for local contractors, and failed to express this to the bidders
+- Can also be detrimental to the bidders, correcting an invalid bid once bidding has concluded is a violation of these principals as well
+- Still applies even if that was the lowest bid, and would still be the lowest after corrections had been made
+- In *Elite Bailiff Services Ltd v BC*, the court found that the tenderer was evaluating bids on an "arbitrary metric"
+- BC government was giving discounts in points awarded to bidders with no previous experience providing bailiff services
+- Allowed to consider this factor, but can't provide a sweeping arbitrary penalty like this
+- Damaged the ability of the bidders to receive a fair evaluation
+- Also, all criteria used to assess bids must be applied to all bidders equally
+- Example was given of the *Martel Building* case where one bidders had an additional cost added to their bid due to a need to upgrade their security system
+- Overall, the Canadian government has played a pretty significant role in governing tendering processes
+- Recall that the courts have also established that the tenderer cannot accept non-compliant bids, precedent for this comes from *MJB Enterprises*
+- While in some cases the requirement for the tenderer has been described as a need to bargain in good faith, overall it looks like it's more like a requirement for fair and equal treatment
+- Several cases where the tenderer was acting in good faith, but failed to treat bidders fairly and equally
+- Overall suggests that there is some overlap here, but not all tendering cases are examples of a duty to act in good faith
+### Pre-Contractual Duty
+- Question remains whether a duty to bargain in good faith can emerge before a contract has been made
+- Judging from the common law, answer seems to be no
+- Most actions that would constitute "bad faith" are already covered by other doctrines in contract law, like misrepresentation
+- No need to argue that the other person negotiated in bad faith, they misrepresented their position and that is already enough to void the contract
+- Once you're already in a contractual relation, there is support for a duty to bargain in good faith, but this doesn't arise until the contract comes into force
+- McCamus argues that if any such duty existed, it would have to come from tort law
+- Reason is that there would be no contractual relationship at that time
+### Westcom TV Group v CanWest Global Broadcasting Inc
+- Parties were two television networks exchanging programming
+- Defendant had made several agreements selling programs to the plaintiff before, and both negotiated a 10 year agreement subject to the approval of the defendant's Chair of the Board
+- After approval was withheld, plaintiff argued that they never intended to accept and instead wanted to move in on the plaintiff's broadcast area
+- Court determined that there was no duty to bargain in good faith, and the plaintiff had no cause of action
+- Negotiations are supposed to be adversarial, and the parties will ordinarily conceal or misrepresent their intentions to achieve a desired outcome
+- Also, the two parties had previously litigated with each other and there was a marked lack of trust in their negotiations
+- Thus, there was clearly no existing expectation to bargain in good faith
+- Also specified that misrepresentation only applies to the contract itself, not misrepresenting the intentions of each party
+- McCamus pushes back against this notion, arguing that this has happened before

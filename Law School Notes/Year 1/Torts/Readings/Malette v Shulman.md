@@ -1,0 +1,32 @@
+- Issue is whether a doctor is liable for giving a blood transfusion to an unconscious patient who is a Jehovah's Witness
+- The religion has a prohibition against blood transfusions that has [[R v Blaue|caused legal issues in criminal law as well]]
+- Patient was also carrying a card specifying this, however it was written in French
+- Plaintiff was involved in a car accident and suffered serious injuries, and was rushed to the hospital in Kirkland Lake, Ontario
+- She was observed as going into shock from blood loss, and given a volume expander to increase blood pressure
+- At this time, the card was discovered and read to the doctor (Shulman)
+- When she went to go for X-rays, her blood pressure dropped significantly and was at risk of death unless a transfusion was administered
+- Going against the text of the card, Shulman performed the transfusion, accepting full responsibility for the consequences
+- Once the transfusion began, the plaintiffs daughter arrived to protest the transfusion, and demand the defendant stop
+- He refused, stating that it was his professional responsibility to save her life
+- She recovered, and then sued the doctor
+- Judge determined that the card restricted the right of the doctor to treat the defendant, and therefore his actions were battery
+- This is because he did something to her body she did not consent to
+- Not charged for negligence, in fact his standard of care was excellent and his actions likely saved her life
+- However, even if he believed the transfusion was necessary to save her life, this does not lift liability for battery
+- No special exceptions for consent to touch are granted to medical professionals
+- This is the purpose behind the doctrine of informed consent
+- No matter how foolish the doctor may consider a decision of a patient, they are bound to respect that decision
+### Emergency Situations
+- However, this rule can be overridden if immediate medical treatment is needed to save the life of someone who cannot give consent
+- Justified by the concept that the doctor has implied consent in these situations
+- Assumes a reasonable person would consent to emergency lifesaving treatment
+- However, this assumption is refutable, and that is exactly what happened here
+- The Jehovah's Witness card overrode this assumption of implied consent by specifying that she would not consent to any blood transfusion, under any circumstance
+- Same as if she told him this verbally before passing out
+- Also can't equate these facts with an intention to die, the plaintiff is just rejecting a specific medical treatment
+- Card states that she accepts any possible consequences of this decision, and also that she does not object to non-blood alternatives
+- State has a responsibility to protect its citizens, but this is overridden by those citizens rights to make their own decisions
+- If there was evidence to contradict the contents of the card, there may have been a case to absolve the defendant of liability
+- Also, there is no possibility of the doctor being put in a "double bind" where they are sued for not treating the patient
+- Respecting the patients right to choose means they are following their duty, and cannot be held liable even if the patient dies
+- In the end, minimal damages were awarded, $20,000 which is pretty low for a battery case where the plaintiff suffered significantly as Malette did

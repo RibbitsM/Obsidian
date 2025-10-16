@@ -1,0 +1,8 @@
+- Based on the case law, there seems to be a precedent that if a driver has foreknowledge of an animal being on the road, they are more likely to be held liable for negligence
+- For example, in the deer case the driver both saw the deer off to the side of the road before they walked onto the road, and the driver was aware that deer are often found on that highway
+- The likely outcome of this fact pattern is that the driver will not be held liable
+- To help decide this matter, I would like to know the outcome of a case where the defendant was aware that animals may be present on a road but was caught off guard by an animal
+- Also pertinent to know the speed he was driving at, and whether or not he had a clear view of the dog before it entered the road
+- To argue for an outcome where Terry is held liable, you could point out that this case is distinguishable from the cow case
+- This is because the deciding factor in that case was the darkness, while Terry was driving during broad daylight
+- Also, Terry lived nearby this dog park and may have driven past it multiple times in the past and would be aware that there is no fence preventing dogs from running onto the road

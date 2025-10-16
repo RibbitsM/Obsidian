@@ -1,0 +1,26 @@
+- Battery has five key elements
+- Intention, directness, offensiveness, physical contact, and fault
+- Elements of [[Intentionality]] and [[Directness]] are the same as those for assault
+- For intention in battery, need to prove that the defendant intended to make physical contact with the plaintiff, and they desired this consequence
+- If a physical action has multiple causes, plaintiff needs to prove there was at least some direct interference with their
+- Offensiveness varies depending on the context, not every example of physical contact is battery
+- For example, you can have situations where even violent non-consensual contact is accepted
+- Best example of this are contact sports like hockey or rugby, [[Babiuk v Trann]] is a good example of this
+- Also can have other situations where contact is generally inoffensive, like in the context of medical procedures
+- [[Malette v Shulman]] is a good example of this
+- Offensiveness is context-specific, and what is considered trivial vs non-trivial contact varies accordingly
+- Someone non-consensually touching your arm is fairly normal on a crowded bus, but not when you're the only two people in a room
+- Distinguishing between friendly and hostile contact involves an objective test, think from the perspective of an observer
+- In situations like contact sports or busses, we can argue that there is a level of implied consent from putting yourself in that situation
+- For the physical contact element, need to establish that the act that led to the battery was physical
+- For example, alleged battery by [[Gokey v Usher & Parsons|Usher on Gokey]] was initiated by Usher attempting to take a picture of Gokey
+- Needs to be physical contact, not considered battery
+- Recall that assault is simply the apprehension of imminent harm, while battery is the harm itself
+- Also doesn't have to person to person contact, battery extends to contact via vehicle, weapon, or projectile
+- Finally, a battery has to be wrongful, meaning there was some level of fault on the part of the defendant
+- For example, accidental contact does not qualify
+### [[Babiuk v Trann]]
+- Plaintiff and defendant were rugby players on opposing teams
+- Defendant punched the plaintiff in the face in response to the plaintiff stepping on a teammate's face during a scrum
+- Trial judge found that the punch was justified, and the appeal court agreed
+- Example of implied consent, violent physical contact is expected during contact sports like rugby

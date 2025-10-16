@@ -1,0 +1,13 @@
+- Appellant was seeking an appeal for a conviction of common nuisance in the Ontario Court of Appeal
+- Appellant had tested positive for HIV, and was aware that this is an extremely likely indicator of AIDS which is contagious through blood
+- Despite this, he donated blood to the Red Cross and did not inform them that he was HIV+
+- Convicted of committing a common nuisance endangering the lives or health of the public
+- Argument of the appellant was that their actions did not amount to an offence at law
+- Section 180(2)(a) of the *Criminal Code* defines a common nuisance as committing an unlawful act or failing to discharge a legal duty and thereby endangers the lives, safety, health, property or comfort of the public
+- Therefore, if the appellant's actions were not unlawful or a failure to discharge a legal duty, the appeal should hold
+- There is no offence under the *Code* dealing with donating contaminated blood, therefore there was no "unlawful act"
+- The Crown also did not point to any other piece of legislation restricting this act
+- There are also no cases that have established what a "legal duty" is under s. 180(2), but in another section a similar term is defined as a duty imposed by statute or arising at common law
+- Argues that the common law holds a fundamental duty to refrain from conduct that would reasonably injure another
+- Donating HIV-contaminated blood is certainly a breach of this duty, which can be considered a "legal duty" under s. 180(2)
+- Decision was that the appeal was dismissed and original conviction restored
