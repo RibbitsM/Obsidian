@@ -1,0 +1,48 @@
+- Goal of the IAP is to create a process that limits further harm to clients pursuing claims of physical or sexual abuse
+- Counsel can suggest questions, but do not directly question claimants
+- Designed to balance need to ensure comfort of claimants while also testing legitimacy of claims
+- Counsel is usually paid on contingency basis, receive a portion of the claimant's award
+- David Blott is an Albertan lawyer representing IAP claimants
+- Principal for his own firm, which mainly hires contract lawyers
+- Blott represented claimants at about 1,500 hearings, and the firm was representing almost 3000 other claimants
+- Offices of the firm had over 1,000 unsubmitted IAP applications, including some for deceased claimants
+- Also appears that a few clients had not been informed that their cases did not qualify for an IAP hearing
+- Most of Blott's clients are referred from another company called Honour Walk
+- This company paid non-lawyers to help claimants fill out IAP applications on a per application basis
+- Blott was also paying Honour Walk a significant amount of money to refer its clients to him
+- The forms signed by Honour Walk clients technically allow the client to choose another firm, but effectively make them Blott clients
+- Blott's retainer agreement also has a term requiring the client to pay Blott $8000 if they want to switch lawyers prior to a hearing
+- Blott had practically no connection with the Indigenous community before the settlement agreement was made
+- A few years after all this started, Blott started accepting requirements for money awarded to clients to be used to pay off third-party loans
+- 77 of Blott's claimants had loans, most of which were issued by Funds Now, a company owned by an associate of Thomas Denomme, the owner of Honour Walk
+- When the investigation for this case commenced, the Crown got KPMG to investigate some of these loans
+- Discovered that out of about $376,000 advanced, $80,000 could not be accounted for
+- Even though there was no evidence that the claimants received the $80,000, this amount was repaid through the direction to pay
+- When calculating interest based on the actual money received, over 73% of the loans had interest rates over 60%, which is the "criminal rate" set out in s. 347 of the *Criminal Code*
+- At the same time, Blott had received a loan with an 18% interest rate, compared to the face value 22% interest being given to claimants
+- Recall that the claimant loans were secured by the direction to pay, which was not the case for the loan given to Blott
+- In at least 2 cases, the loans were never paid to the clients and kept entirely by Blott
+- In 2009, a complaint was made to the Law Society of Alberta regarding Blott getting clients from Honour Walk
+- A Bencher went to go talk to Blott, and reported that he seemed sincere and no further action was required
+- Another complaint was made in 2010 specifically mentioning the theft of settlement through high interest rate loans
+- Led to additional scrutiny of Blott's practices, exposing the fact that he was using a standardized template for IAP clams
+- An IAP adjudicator provided testimony about three Blott hearings he participated in
+- In each case, the counsel had met the claimant right before the hearing and was ignorant of their real story
+- One of the claimants wasn't even a residential school student
+- In at least two cases, the application referenced things the claimants had never experienced
+- All of the applications said that the claimant had a fear and dislike of white people, churches, and authority which was false in every case
+- While initially this drew scrutiny to the claimants, further developments revealed this was happening because of the form fillers
+- Also evidence of Blott emailing Denomme with a list of "popular" aggravating factors to put on the IAP forms
+- IAP had a unique principle called "progressive disclosure" which allowed claimants to disclose stories of abuse as they become comfortable doing so
+- This would ordinarily not be allowed mid-trial
+- Appeared that Blott was trying to justify marking extra aggravating factors based on this principle
+- This was confirmed by an email chain between Denomme and some of his employees that Blott was bcc'd in
+- In it, they basically admitted they were intentionally not filling in applications properly to speed up the process
+- After Blott failed to improve practices by 2011, a new investigation was launched
+- Final report was issued in 2012, exposing the whole thing
+- Also exposed some other incidences of misconduct where client signatures were added to documents they never signed
+- Pretty clear that all of these seemingly separate organizations were together as part of this conspiracy
+- Loan company, law firm, form filling organization, and at least two other organizations were working in tandem
+- All owned by Blott, Denomme, and their associates
+- LSA ordered an interim suspension of Blott's license
+- Specifically mentioned Blott abusing progressive disclosure

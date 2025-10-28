@@ -1,0 +1,46 @@
+- Last boundary to address is the boundary between fixtures and chattel, which means the difference between property that's movable or is part of the land
+- Mainly arises in transfer cases, what is included in a transfer?
+- This is determined by a test of objective intention
+- What would a neutral third party observer think is part of the land or not?
+- If something is "attached" to the land, the presumption is that it's a fixture
+- There can be degrees of attachment, depends on how easy it is to remove
+- Generally, the stronger the attachment, the stronger the presumption
+- On the other hand, if something is not attached, presumption is that it's not part of the land unless it was intended to be part of the land
+- This is the first part of the test, which is the degree of attachment/annexation
+- Second part of the test relates to the purpose of annexation
+- In the case *Holland v Hodgson*, which is where this part of the test comes from, compares a pile of rocks to a fence
+- If the rocks were stacked for convenience, this is done to facilitate better use of the chattel
+- However, if they were stacked to make a fence, the purpose would be to facilitate better use of the land
+- In the latter case, the fence would be considered to be a fixture even if not glued together with mortar or cement
+### [[La Salle Recreations v Canadian Camdex Investments]]
+- La Salle sells carpets, and it sold a carpet to the Villa Hotel
+- Sells them on a conditional sale, which allows La Salle to take back the carpet if the good is not paid for in entirety
+- Therefore, La Salle is a creditor to Villa
+- Camdex lent money to Villa, and took a mortgage as a security interest, meaning it was also a creditor to Villa
+- This was a floating charge, meaning they had access to whatever is present at the time the loan is defaulted on
+- Villa went bankrupt, and the trustee put the hotel up for sale, and La Salle showed up asking to take the carpets out of the hotel
+- Trustee argues that the carpets are part of the land, and La Salle can't take them back
+- To do so, they would have had to follow the *Conditional Sales Act* which states that if La Salle didn't follow its provisions, the sale is null and void
+- La Salle did register the sale with the register of companies, but if the object was a fixture, they would have had to also register the sale with the land title office which they didn't do
+- Issue now is whether the carpet was a fixture or not
+- If it is, Camdex gets it and if it's not, La Salle gets it
+- To determine this, the Court applied the test of degree of annexation and the object of the annexation
+- Court found that the carpets were attached, but only slightly attached
+- It was up to La Salle to prove that the carpets were there to enhance the use of the building
+- Argued that without the carpets, the hotel would be unusable with the unfinished plywood flooring exposed, and the carpets needed to be attached to be usable
+- Carpeting was replaced every 3-5 years and the old carpet was sold
+- Therefore, the carpet was placed for the better use of the land and is a fixture
+### Re Davis
+- Property was owned by a man who left the property to his heirs, but his widow argued that she had superior right under dower
+- This is something no longer present in law, but in a marriage, the property rights of the wife were absorbed into the rights of the husband
+- In exchange, the wife had an entitlement to a life estate to 1/3 of her husband's real property
+- In the property, this meant that she had a right to 1/3rd of the equipment on the property
+- Building was a bowling alley, and the issue was whether or not the alleys were fixtures or not
+- Time to apply to objective intention test
+- The bowling alleys were attached to the building, but again only slightly
+- Bowling equipment is usually sold on a conditional sales contract, and are usually removed in the case of a default, suggesting that it's chattel
+- Court argued that the bowling alleys were attached for the better use of the bowling alleys, not for the better use of the building
+- Indicates that the character of the building matters a lot, in *La Salle* the Villa was designed as a hotel and could really only be used as a hotel
+- Thus, the carpets which were important for the use of the hotel were deemed to be fixtures
+- Hard to argue that having bowling lanes isn't essential to the use of a bowling alley
+- However, in this case the property was not essentially a bowling alley, it just happened to be used for that purpose at the time

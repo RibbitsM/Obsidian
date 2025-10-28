@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12f74938dfad6fc2",
+        "id": "b36c517c2a01bb7c",
         "type": "tabs",
         "children": [
           {
-            "id": "ee858be26af3c387",
+            "id": "0ec09811c1c88414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law School Notes/Year 1/Property/Readings/Edwards v Sims.md",
+                "file": "Law School Notes/LSLAP and PBSC/LSLAP Intake Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edwards v Sims"
-            }
-          },
-          {
-            "id": "b449f67f192b0bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Law School Notes/Year 1/Property/Lecture 12 (Property).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 12 (Property)"
+              "title": "LSLAP Intake Notes"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kilbride",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law School Notes/Year 1/Property/Readings/CPR v City of Vancouver.md",
+                "file": "Law School Notes/LSLAP and PBSC/LSLAP Intake Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CPR v City of Vancouver"
+              "title": "Backlinks for LSLAP Intake Notes"
             }
           },
           {
@@ -184,34 +170,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ee858be26af3c387",
+  "active": "0ec09811c1c88414",
   "lastOpenFiles": [
-    "Law School Notes/Year 1/Property/Lecture 12 (Property).md",
-    "Law School Notes/Year 1/Property/Readings/Edwards v Sims.md",
-    "Law School Notes/Year 1/Property/Lecture 11 (Property).md",
-    "Law School Notes/Year 1/Torts/Readings/Malette v Shulman.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Theroux.md",
-    "Law School Notes/Year 1/Property/Lecture 10 (Property).md",
-    "Law School Notes/Year 1/Property/Readings/Annapolis Group v Halifax.md",
-    "Law School Notes/Year 1/Legal Research and Writing/Lecture 4 (Research and Writing).md",
-    "Law School Notes/Year 1/Torts/Lecture 12 (Torts).md",
-    "Law School Notes/Year 1/Torts/Lecture 13 (Torts).md",
-    "Law School Notes/Year 1/Torts/Readings/Gokey v Usher & Parsons.md",
+    "Law School Notes/LSLAP and PBSC/PBSC Notes.md",
+    "Law School Notes/LSLAP and PBSC/Training Notes.md",
+    "Law School Notes/LSLAP and PBSC/LSLAP Intake Notes.md",
+    "Law School Notes/Year 1/Property/Readings/Ontario Heritage Trust v Hunter.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Roy.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Beatty.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Hundal.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v JF.md",
+    "Law School Notes/Year 1/Criminal Law/Readings/R v Tutton.md",
+    "Law School Notes/Year 1/Contracts/Lecture 15 (Contracts).md",
+    "Law School Notes/Year 1/ISLR/Readings/Fontaine v Canada.md",
+    "Law School Notes/Year 1/ISLR/Readings/Residential Schools Litigation.md",
     "Law School Notes/Year 1/Criminal Law/Lecture 10 (Crim).md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Nette.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v JSR.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Blaue.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/Kilbride v Lake.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Jiang.md",
-    "Law School Notes/Year 1/Torts/Lecture 11 (Torts).md",
-    "Law School Notes/Year 1/Torts/Lecture 10 (Torts).md",
+    "Law School Notes/Year 1/ISLR/Readings/Honouring the Truth.md",
+    "Law School Notes/Year 1/ISLR/Readings/Truth and Reconciliation Commission.md",
+    "Law School Notes/Year 1/Torts/Lecture 16 (Torts).md",
+    "Law School Notes/Year 1/Property/Readings/Annapolis Group v Halifax.md",
     "Law School Notes/Year 1/Property/Readings/Didow v Alberta Power Ltd.md",
-    "Law School Notes/Year 1/Topics/Constitution Act of 1867.md",
-    "Law School Notes/Year 1/Topics/CANning.md",
-    "Law School Notes/Year 1/Criminal Law/Lecture 12 (Crim).md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Briscoe.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Buzzanga and Durocher.md",
-    "Law School Notes/Year 1/Criminal Law/Readings/R v Beaver.md",
+    "Law School Notes/Year 1/Property/Readings/Edwards v Sims.md",
+    "Law School Notes/Year 1/Property/Readings/Robertson v Wallace.md",
+    "Law School Notes/Year 1/Property/Readings/La Salle Recreations v Canadian Camdex Investments.md",
+    "Law School Notes/Year 1/Property/Readings/Scott v Filipovic.md",
+    "Law School Notes/Year 1/Property/Lecture 12 (Property).md",
+    "Law School Notes/Year 1/Property/Lecture 11 (Property).md",
+    "Law School Notes/Year 1/Property/Lecture 13 (Property).md",
+    "Law School Notes/Year 1/Property/Lecture 14 (Property).md",
     "Law School Notes/LSLAP and PBSC",
     "Law School Notes/Year 1/Criminal Law/Readings/Untitled",
     "Law School Notes/Year 1/Legal Research and Writing/Class Activities",

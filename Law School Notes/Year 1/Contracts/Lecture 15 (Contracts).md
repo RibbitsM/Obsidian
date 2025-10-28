@@ -1,0 +1,57 @@
+- Recall that consideration is a doctrine used to divide enforceable and unenforceable contracts by finding whether something has been given in exchange for a contract
+- Previously considered whether past consideration counts
+- On the other hand, if someone is offering consideration in exchange for the other person acting on a pre-existing duty is not consideration
+- Basis is because the other person already has to perform that duty
+- Concern is that the person performing the duty is exploiting the other person
+- However, this concern doesn't consistently emerge in this context
+- This is the main criticism of the rule, by eliminating all agreements that meet the requirements, it inadvertently strikes down legitimate agreements
+- Three different categories of cases like this
+- The duty can come from legislation, meaning the promisee has a public duty
+- The promisee may also have a pre-existing contractual duty to a third party, or even may be subject to a duty to the promisor already
+- Usually described as "one-sided variations" of an existing contract
+- If there is a public duty imposed by law, performance of that duty will not be good consideration unless something extra is provided
+- If the promisee is going above and beyond their duty, can be consideration
+### Glasbrook Bros v Glamorgan County Council
+- Mine manager wanted more police protection during a strike, and made an agreement to pay a fee in exchange for more officers
+- Tried to avoid paying thee fee on the grounds that the police were obliged to do so
+- Court determined that if the police thought the additional officers weren't necessary, they would have been exceeding their obligation by providing more officers
+- Thus, there was already consideration
+- In another case called *Ward v Byham*, Lord Denning held that a promise to perform a duty imposed by law should be enforceable as long as nothing in the contract went contrary to the public interest
+- No reason not to enforce them, so assess it on a case-by-case basis
+- Ordinary citizens also have a number of obligations, it has been shown that private individuals promising to perform a public duty is subject to the same terms
+- Won't be consideration unless they're going above and beyond
+### Duties to Third Parties
+- If a promisor agree to perform a pre-existing contract with a third party, usually enforceable
+- In *Scotson v Pegg*, Scotson agreed to deliver coal to a third party, who then sold the coal to Pegg, and asked Scotson to deliver it directly to Pegg
+- Scotson and Pegg made an agreement to deliver the coal for a specified amount, but Pegg argued he didn't have to pay since Scotson had to deliver the coal anyway
+- However, the Court held that the delivery was still consideration and they were directly contractually related
+- Even if the relationship was through a third party, still binding
+- Another example is *Shadwell v Shadwell* where an uncle promised to pay his nephew once he was married to his fiancee
+- When the uncle died, his estate didn't went to enforce the promise as the nephew was already bound to marry her due to the proposal
+- Court held that the promise was binding as the nephew may have relied on it
+- Basically, both cases involve "double-reinforcing" a duty by enforcing it with multiple contracts
+### Duties to Original
+- These are the "one-sided variations", the agreements where a promisor will offer extra consideration for performance of a pre-existing duty
+- For example, say you want to buy apples for a specific price, but for some reason you want to raise your offer later on
+- New contract has a raised price but the same duty as before
+- Usually, these kinds of contracts are considered unenforceable
+- Comes from a case called *Stilk v Myrick* from 1809, but recently this longstanding precedent has been challenged
+- New Brunswick (*Greater Fredericton Airport Authority v NAC Canada*) and BC (*Rosas v Toca*) have both made decisions counter to the *Stilk* rule
+- New rule is that unilateral modification is okay as long as there aren't any other relevant concerns like public policy or some sort of duress
+- Still unclear what the long term implications will be, Supreme Court hasn't weighed in yet
+- Sometimes, a promise will be made to pay a portion of a debt when a debtor can't pay the whole amount will be made in exchange for the creditor releasing their debt
+- These are usually not enforceable because of *Pinnel's Case*
+- In *Foakes v Beer*, Foakes was to pay a portion of a debt followed by regular installments until the debt was paid off 
+- In exchange, Beer could not take action against Foakes once the debt was paid off
+- Beer tried to sue to get interest anyway, and the House of Lords allowed it as the contract was unenforceable
+- Another case called *Foot v Rawlings* held that agreeing to pay partially through a different payment method might be considered adequate
+- BC has overruled this, s. 43 of the *Law and Equity Act* holds that part performance of a debt extinguishes the original debt as long as the creditor agrees
+### Promises Under Seal
+- Recall that promises made under seal are always binding, this is the other way to determine enforceability
+- These kinds of agreements are also often called "deeds"
+- This is still possible today, but is no longer as definitive as it used to be
+- In *Friedmann Equity Developments v Final Note*, the Supreme Court held that seals serve as an alternative to consideration to ensure it will be enforceable
+- While it doesn't have to be made out of wax, as long as the agreement is signed, sealed, and delivered, it will considered under seal
+- This is the exception, far from the rule
+- Also has to be some sort of mutual agreement that a promise is to be made under seal
+- Can be a stamp or some other aesthetic addition, as long as both parties know what it means

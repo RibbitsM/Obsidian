@@ -1,0 +1,19 @@
+- Appellant (Roy) was driving a motorhome on a slippery road with limited visibility
+- He pulled out from a gravel road onto a highway into the path of a tractor-trailer which could not stop in time, leading to the death of Roy's passenger
+- Roy had no memory of the accident and had been driving normally prior to this, but was also driving with a suspended license
+- Convicted a trial, and unsuccessfully appealed, but went to the Supreme Court
+- Applied the test from [[R v Beatty]]
+- Recall that the *actus reus* of dangerous driving is whether the manner of driving was objectively dangerous to the public considering all relevant circumstances
+- Risk of injury caused by the driving is relevant, not the consequences
+- Driving is also inherently risky
+- Determining objective fault requires considering all relevant circumstances
+- We determine this by seeing if in the same circumstances, the accused actions would be a marked departure from those of a reasonable person
+- The actions of a reasonable person may be objectively dangerous 
+- Trial judge in this case failed to inquire if the accused made a marked departure from the actions of a reasonable person in the circumstances
+- This is because the judge inferred the departure from the dangerous nature of the driving
+- Court decided that an acquittal is the appropriate remedy here
+- No evidence that a trier of fact acting appropriately would convict on the facts
+- Even though the driving was objectively dangerous, the actions leading up the incident were perfectly reasonable
+- Based on the visibility and orientation of the road, the decision to pull in front of the tractor-trailer could easily have been caused by misjudging the speed and distance
+- Single error in judgement that does not represent a marked departure
+- Appeal allowed, Roy was acquitted

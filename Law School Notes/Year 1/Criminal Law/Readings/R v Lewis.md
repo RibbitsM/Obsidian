@@ -1,0 +1,28 @@
+- Appellant (Lewis) and co-accused (Tatlay) were convicted of murder after sending Tatlay's daughter an electric kettle rigged with dynamite
+- Tatlay was upset by his daughters decision to leave home and marry without his approval
+- Got Lewis to convert the kettle into a bomb and mail it to his daughter
+- Issue is whether or not Lewis knew that the package he was mailing contained a bomb or not
+- Appeal fell on whether the trial judge properly defined "motive"
+- Intent and motive are two different things, intent relates to *mens rea* while motive which is information preceding and inducing a crime
+- Usually has nothing to do with *mens rea*
+- However, some people describe "motive" as meaning motivation to create a certain intentional consequence
+- Can think of it as an "ulterior intention"
+- Also, evidence of a motive is admissible as evidence given that it makes a proposition more likely
+- Motive is irrelevant to criminal responsibility, but can help a case
+- Proving absence of motive can also help the accused
+- Especially relevant when only circumstantial evidence is available
+- In cases where motive is especially important, it will be mentioned in a jury charge, like in this case
+- Can also imagine a case where the lack of motive is equally important
+### Present Case
+- Crown has two theories as to how the transaction between Tatlay and Lewis went
+- First is that Tatlay got Lewis to create and mail the bomb
+- Second is that Tatlay or a third person made the bomb, and Lewis mailed it knowing that it was a bomb
+- Either way, Lewis is guilty
+- *Actus reus* in this case is mailing the parcel, limiting the *mens rea* to knowing that the package contained a bomb
+- Motive was not proven by the Crown, nor was it contested by the defence
+- Therefore, no obligation to charge the jury on motive
+- Neither counsel asked the judge to charge on motive, so the decision was purely up to the discretion of the judge
+- This charge should have made reference to the fact that there is no obligation to prove motive
+- However, the judge has no obligation to charge the jury on motive
+- Because of this, he cannot be faulted for not doing so
+- No error on part of the judge, appeal dismissed

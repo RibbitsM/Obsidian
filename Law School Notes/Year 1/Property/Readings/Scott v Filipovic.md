@@ -1,0 +1,31 @@
+- Issue is whether a piece of property is a fixture or chattel
+- There was also a non-assignment clause in the lease in question which allowed a party to remove property when the lease terminated
+- Appellant (Scott) leased land to the respondents (Filipovic) while operating as an entity called Oldfield Orchard
+- According to the lease, the property was to be used only for blueberry growing, and at the end of the lease, land would be cleared of all crop remains and replanted as Timothy Grass if no agreement was made to the contrary
+- Also specified that Oldfield cannot transfer the lease
+- Filipovic planted blueberry bushes and farmed the property for three years before selling the property to their employee
+- This sale included the original lease, and the agreement was identical to the original lease
+- Mr Guite, the new owner, ran the farm for two more years until making an agreement to re-purchase the business from Filipovic/Oldfield
+- Entered an Assignment of Leases agreement
+- Soon after, Filipovic went to Arizona for the winter, intending to come back and farm blueberries
+- Learned that Scott believed the lease had been abandoned and was now taking over the property
+- Refused to allow Filipovic back onto the land to remove the blueberry plants, and Filipovic sued for breach of the lease and [[Lecture 15 (Torts)|conversion]]
+- This was because the original lease prevented them from selling the lease, which they had done to Guite
+- Trial judge dismissed the claim for breach of lease and held that the blueberry plants were chattel, not fixtures
+- Based on this, Filipovic got $90,000 in damages for conversion
+### Analysis
+- Court argued that the intention of the parties in the original lease was that Filipovic were to be able to reclaim their blueberry plants once the lease ended
+- However, they do not conclude that this means the plants are chattel
+- Trial judge determined the plants were chattel based on the subjective intention of the parties, but this is an objective issue
+- Used the precedent of [[La Salle Recreations v Canadian Camdex Investments]]
+- Makes reference to the rules used in that case to define fixtures
+- Also pointed to *Principles of Property Law* which suggests that whether chattel becomes a fixture is determined objectively
+- Not the only property textbook that states this
+- Filipovic relied on *Long v Van Burgsteden* which suggests a subjective approach to determining fixtures
+- However, that case dealt with trees that were planted on the land to be resold while here the berry bushes were intended to stay there
+- Even if the plants were removed at the end of the lease, doesn't mean they weren't fixtures before that
+- Although the plants were not chattel, tenant still had the right to remove the plants at the end of the lease
+- Trial judge correctly identified that Mr Guite couldn't have taken over the lease, which meant he could not have given the lease back to Filipovic
+- Therefore, Filipovic could not gain the right to remove the plants
+- Argued that the non-transference clause didn't apply, but this argument is based on the plants being chattel
+- Appeal allowed, order awarding damages set aside

@@ -1,0 +1,81 @@
+- When a finding is not strictly necessary for the conclusion of a case, we call it *obiter dictum*
+- When it comes to [[Didow v Alberta Power Ltd]], most of the cases cited that involved transient invasions of airspace are *obiter dictum*
+- Once we've established the height of airspace property, no need to consider whether a nuisance created, just whether there was a trespass
+### [[Edwards v Sims]]
+- Great Onyx Cave is adjacent to Mammoth Cave, the largest known cave in the world
+- Initially discovered by Edwards with the help of Turner
+- Developed as a show cave, with most of the money coming from nearby hotels and businesses also owned and operated by Edwards
+- Lee is a neighbour of Edwards who suspected that a portion of Great Onyx Cave extends under his land
+- As a preliminary matter, Lee wanted a surveyor to enter Great Onyx Cave to confirm this suspicion, and in this matter a judge named Sims approved this request
+- Edwards sued Sims to challenge the decision and deny the survey
+- Issue was whether the court can order Edwards to allow the surveyor to enter his property
+- To determine whether Edwards is trespassing on Lee's land, need to permit a trespass on Edwards' land
+- Starting point for the majority opinion was *cujus est solum ejus est usque ad coelum et ad inferos*
+- Concludes that based on this, Lee has the right to request the survey
+- Also compares this to cases where similar requests are issued for mines
+- Based on this, quickly concludes that there is no reason to deny the request
+- Latin maxim suggests that Lee has good reason to suggest that he might own part of the cave, and precedent establishes that he has the right to request the survey
+### Dissent from Justice Logan
+- Vehemently dissents, arguing that despite the fact that there is no legal precedent, personally objects to the majority decision
+- States that the owner of the surface entrance of the cave should have full ownership of the entire cave, based on the principle that they are getting use from the cave
+- The fact that Edwards explored and developed the cave reinforces this decision
+- Comes partly from the [[Labour Theory]] justification of property
+- Makes reference to the death of Floyd Collins
+- Part of Logan's likely justification for this dissent is that he was the main proponent of creating Mammoth Cave National Park
+- If surface owners were allowed to make claims to caves under their property, raises the issue of having to strike deals with every person who occupies land above the enormous cave instead of just with those people who own land with entrances
+### Law and Economics
+- So what is the most economically efficient way to deal with this issue?
+- Based on the [[Economic Theory]] of private property
+- Many different options, main two are the majority and dissent approach
+- Can evaluate this using the Coase Theorem which states that the initial assignment of property rights does not affect the ultimate use of the property
+- As long as bargaining costs are low enough, whoever values it the most will buy out the other parties
+- [[Undergrad Notes/Year 1 Semester 2/Econ 102/Chapter 10|Transaction costs]] involve a wide variety of factors, including not just bargaining costs but also monopolies and holdouts, or the tendency to value your own possessions highly
+- Law can help reduce or even eliminate transaction costs by allocating resources in the way they would be allocated if there were no transaction costs
+- Therefore, the law should follow the actions of the market
+### Star Energy Weald Basin v Bocardo SA
+- In this case, an oil company was drilling at a slant to tap into oil reserves under an adjacent property
+- Court upheld the *cujus est solum* maxim, recognizing that it has been previously modified in terms of airspace but still holds true for subsurface
+- Surely there is a stopping point where subsurface property ceases to be useful, but this is at the point where humans can no longer access the land
+- As opposed to airspace, it seems that in common law, the maxim still holds true
+### Statutes
+- Original Crown grant in BC was in 1818 to the HBC, for the purpose of trading with Indigenous nations
+- First grant had nothing to do with natural resources, but was trading rights
+- In 1846, Rupert's Land was extended along the 49th parallel to the coast
+- Afterwards, the HBC post moved from the US to Fort Victoria
+- Crown granted Vancouver Island to the HBC, including all mines as well as the mineral rights
+- At this time, all gold and silver deposits *prima facie* belonged to the Crown
+- Granted the land of the Crown in [[Land Law|free and common socage]] at a nominal rate of seven shillings
+- In exchange, the HBC agreed to established colonies on the island
+- Moved from a commercial trading relationship to a settler relationship
+- Example of the shift in British policy towards [[Displacement and Assimilation|seizing the land]] of Indigenous nations
+- Encouraged the HBC to sell small land grants to settlers, at a fairly high price
+- Responsible for getting people to come settle, but any extracted minerals (except coal) would belong to the HBC even on these new land grants
+- Encouraged the development of coal mines as the owners could benefit from them
+- Also granted fishing rights to the HBC
+- This is an example of something called the Wakefield System of Settlement that had the goal of reproducing English society overseas by setting land prices a median price
+- Ensures that it's low enough to buy, but high enough to be exclusive, so settlers could raise money by working and be able to purchase land
+- Example of how land rights can [[Lecture 7 (Property)|reproduce a societal structure]]
+- In present day, the *Land Act* allows Crown land to be allocated by auction, application, tender, sale, lease, drawing of lots, etc.
+- Under the authority of the *Land Act*, the province of BC can grant land rights to organizations or individuals subject to existing water and mineral rights as well as s. 50 of the *Act*
+- However, these land grants only specify the two-dimensional extent of the grant, we have to look to the common law to determine verticality
+- The aforementioned section of the *Land Act* reserves any geothermal resources, minerals, or oil/coal/gas found on the property for the Crown
+- Therefore, unless mentioned otherwise, none of the usable subsurface resources will be transferred with a land grant
+- Can create conflict between surface owners and the owners of the mineral rights, for example in [[Lecture 10 (Property)#Pennsylvania Coal Co. v Mahon|Penn Coal v Mahon]]
+- Therefore, under the *Mineral Tenure Act*, holders of the mining interest has to provide notice of work and compensation for damage caused by the actions under s. 19
+- Ties into the [[Lecture 11 (Property)|right of compensation]], and is a liability protection as opposed to a property protection
+- This act used to have a provision where a mineral rights holder cannot interfere with the activities or construction of the surface owner
+- One of the first adjustments made by the BC government to help the mining industry
+- Finally, under the [[Lessons for Indigenous Property|Nisga'a Final Agreement]], the ownership of Nisga'a Lands is not derived from a land grant, ensuring that they have ownership of the subsurface
+- This is reinforced under s. 19 which affirms ownership of mineral rights
+- Even though the Crown owns all precious metals and other resources found underground, you usually still own all the space below your land
+- However, Alberta was looking into carbon capture technologies and discovered it requires enclosed underground spaces where the carbon can be deposited
+- Based on this, they amended the *Mines and Minerals Act* to specify that all Crown grants in Alberta do not include the pore space underneath land
+- Establishes that all pore space underneath all land in Alberta is the property of the Crown
+- Also recognizes that this might be [[Lecture 9 (Property)|expropriation]], so it specifically mentions that this taking of pore space does not count as expropriation
+- 1201 Marinaside Crs. is a building off Davie St which is built on an airspace parcel
+- This airspace parcel extends 3,500 m in the air, which is almost 3x the height of the neighbouring mountains
+- No way this counts as ordinary use
+- Main goal is probably to ensure nothing is built above
+- Airspace parcel also goes down 100 m
+- What makes this relevant to subsurface rights is that part of the Canada Line goes through that 100 m subsurface airspace parcel
+- Translink had to get a statutory right-of-way through the airspace parcel, forcing them to expropriate it and pay compensation to the owners

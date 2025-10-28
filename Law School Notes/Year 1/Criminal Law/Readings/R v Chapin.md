@@ -1,0 +1,21 @@
+- Defendant (Chapin) was duck hunting with her friend, and was arrested by a conservation officer after shooting two ducks
+- While walking to the duck blind, Chapin and her friend had walked past a small pile of soy beans and other grains from a farming operation
+- Officer noted that it was difficult to spot, and Chapin claimed to be unaware of it
+- Under the *Migratory Birds Regulation*, it is illegal to hunt migratory birds within a quarter mile of anywhere there is bait (s. 14(1))
+- Charge was initially dismissed at trial, but was appealed all the way to the Supreme Court
+- Court made reference to the precedent of *[[R v City of Sault Ste Marie]]*
+- Mentions the three categories of offences mentioned in *Ste Marie*
+- Pretty clear that this offence is not a true crime, it's only a summary conviction, and also has no suggestion of a *mens rea* element in its wording
+- Seems to be establishing a public welfare offence, in this case the welfare of hunters and ducks
+- Consequences for this are fairly severe potentially a $300 fine or six months in prison or both ($100 fine in this case)
+- Also prevents the accused from applying for or holding a game bird license for a year
+- Finally, any gun or other equipment used can be forfeited to the Crown
+- Only real way for the Crown to argue that this is an absolute liability case is to claim that making the due diligence offence available would make enforcement much harder
+- Policy justifications don't really check out here, seems to be disproportionately harsh
+- Finally, making **all possible efforts** in this case would be an unreasonable standard, as it would require all hunters to do a 1/4 mile radius search of the area for bait before starting to hunt
+- Also, the other subsections in s. 14 deal with the requirement of gaining consent for and posting signs advertising the presence of bait
+- In the absence of these signs, requirement of due diligence would likely be lower
+- Otherwise, a legal act could be turned illegal by the illegal act of another that the accused has no control over
+- Court argues that this is a strict liability offence, and Chapin can absolve herself by proving she was not acting negligently
+- Based on the available evidence, should not convict Chapin and should not order a new trial
+- Appeal dismissed

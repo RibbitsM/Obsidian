@@ -1,0 +1,72 @@
+- First residential school was Roman Catholic, located in Quebec city
+- Created in thee early 17th century, very unsuccessful
+- Didn't try again until the project was revived in Mi'kmaq and Maliseet land in the 1820s
+- Superintendent of schools officially endorsed the project in 1847
+- Prompted the opening of several methodist schools, and began receiving federal grants once Canada was established in 1867
+- Mainly focused in Ontario and in the Maritimes
+- Coincided with the start of the numbered treaties in 1871
+- Chose this approach as opposed to all out war, the US at the time was spending $20 million a year fighting Indigenous nations which was more than the Canadian budget
+- Indigenous nations did not ask for residential schools in these treaties, and they were not mentioned by the federal government
+- Recall that Indigenous nations thought these were going to be reciprocal respectful relationships
+- Some treaties did include obligations to pay for schools and teachers on reserves
+- However, these obligations were usually ignored, so parents had to send their children to off-reservation residential schools for education
+- Since the beginning, residential schools were designed as part of the answer to the "Indian Question"
+- Also important to note that residential school principals were the main advocates for Potlatch and Sundance bans, further demonstrating their assimilatory intent
+- In the 1880s, the government suddenly increased its involvement in the schools, which until now had largely been administered by the Church
+- Often, churches would add more schools without federal permission and then ask for funding
+- Operated by many different faiths, all competing for government grants
+- Not modeled after boarding schools, but from industrial schools designed to funnel children into factories during the Industrial Revolution
+- Also took influence from a similar project being pursued in the US
+- First industrial school opened in Saskatchewan in 1883
+- Less focused on religion, mainly attempted to teach trades to Indigenous children, mostly farming
+- Over time, the boarding schools and industrial schools became similar enough to be referred to collectively as "residential schools"
+- Federal government believed that this would enable Indigenous peoples to participate in the economy, reducing their reliance on the government
+- Also had a security component, Indigenous groups wouldn't give the government trouble if they had control over their children
+- Hope was that the industrial schools would be self-supporting by using the free or nearly free labour of students and missionaries
+- However this never manifested, ended up being a money pit for the government and were disastrously underfunded, leading to health issues becoming common among students
+- Indian Affairs tried to cut down on the number of schools, but the churches wouldn't support it
+- Increased funding dramatically in the 1910s, but the Great Depression and WWII wiped out the increases entirely
+- Funding for residential schools was consistently less than ordinary ones
+- Attendance was made semi-mandatory in 1894, allowing an Indian agent to order the placement of any Indigenous child "not properly cared for or educated" in a school
+- School officials could also get a warrant to basically hunt down any child that escaped a residential school and bring them back
+- Even if enrolment was voluntary, a child could not be discharged without department approval
+- This authorization came from an admissions form the parents signed, which was ruled to be legally unenforceable but schools continued to do it anyway
+- Students were also supposed to be discharged at 16, but were often kept until 18
+- In 1920. *Indian Act* was modified to make attendance compulsory
+- Until the 1940s, day school numbers had always exceeded residential schools
+- In 1944, 31.1% of eligible Aboriginal children were in residential schools
+- Regulatory environment was basically absent, only real regulations in the *Indian Act* for most of the project were related to attendance
+- Even when there were amendments, this was often not communicated to principals
+- Peak enrolment was in 1956, which most schools located in the northern and western regions
+- Schools began to decline in numbers in the forties, with occasional spikes back up, but never reaching the peak again after 1956
+- This peak came from the expansion of the system to NWT and Quebec in the 50s
+- System was on the verge of collapse from lack of funding in 1945
+- Number of day schools began to expand in response, nearly doubling
+- Eventually, the *Indian Act* was amended in 1951 to allow children to be sent to public schools
+- Opposed by the church, but also had concerns from the students and parents
+- Argued that public school teachers were ill-suited to deal with Aboriginal students
+- Also may face racism from other students or embarrassment due to the poverty conditions most Indigenous families lived under
+- Led to a shift towards residential schools being used primarily for child welfare purposes
+- Became a key part of the Sixties Scoop, with many Indigenous children being transferred from residential schools to welfare agencies
+- When the schools finally started closing in 1970, many children were funneled into child welfare agencies
+- Aboriginal children made up about half of children in care in most provinces
+- Federal government took control over the schools in 1969
+- Churches still appointed the administrators, but were no longer directly responsible
+- Once the federal government had full control, they began closing down schools rapidly, coinciding with the release of the White Paper
+- One positive thing that came out of this was the Blue Quills school, which ended up being transferred to Aboriginal authority after a lengthy sit-in
+### Child Welfare System
+- The child welfare system in Canada has consistently focused on abducting Indigenous children while also providing them with insufficient care
+- Many cases of children being placed in foster homes where they were subjected to physical and sexual abuse and prosecuted for their Indigenous identities
+- Statistical evidence that Indigenous children that end up in child welfare have significantly higher death rates
+- Even compared to the high apprehension rates of Aboriginal children, they are even more disproportionately represented by death rates in foster care
+- In Alberta, 78% of children who died in foster care between 1999 and 2013 were Indigenous
+- Some regions have Aboriginal-specific child welfare agencies, but in the territories, no such agency exists
+- However, in those regions Aboriginal peoples tend to staff the government welfare agencies anyway
+- A notable failure here is the lack of a Metis-specific child and family services branch
+- While Aboriginal-controlled agencies are a great improvement, they tend to be underfunded compared to ordinary welfare agencies
+- Also an ongoing dispute between provincial and federal government over who should be responsible for Indigenous child services
+- Result is refusal from both sides to provide sufficient funding
+- Potential solution is "Jordan's Principle" which states that the department first contacted for a service that is only available off-reserve has to pay for it
+- Not statutory, just a principle used by Parliament
+- In the US, Indigenous courts have exclusive jurisdiction over custody proceedings involving Indigenous children, even when taking place off-reservation
+- Allows Indigenous communities greater authority over where Indigenous children end up

@@ -1,0 +1,56 @@
+- What constitutes trespass to land?
+- We know from the precedent of [[Didow v Alberta Power Ltd]] that property rights extend into airspace, at least to a certain extent
+- Also know some of the rules for trespass caused by permanent structures
+- Two options to establish trespass to land
+- Either intentional interference with possession rights, or defendant acts in a way that is fairly certain to result in interference
+- The phrase "intentional" here does not reflect a subjective element, just need to know that the act was not involuntary
+- Both options establish intentionality
+- The tort of trespass is important since it protects property rights, including the right to exclude
+- Can be used to resolve boundary disputes
+- No need to establish damage done to the property, act of trespass is enough to incur liability
+- Doesn't matter whether it was done with good or ill intent
+- Land includes all structures on that land, entering a house is also trespass
+- Recall that *Didow* established we have right to airspace as far as we can reasonably possess or occupy
+- Is firing a gun onto private property trespass?
+- Does constitute trespass, depending on the angle it was fired at
+- Higher the interference is, the less likely it is to interfere with right to possession
+- If an interference is found to not enter private airspace, probably can still be a nuisance
+- *Didow* also established the potential for permanent intrusions into private property to constitute trespass
+- In this case the example was a power line, but what happens if the intrusion is something like a tree?
+- Because of the natural and passive nature of the interference, this fails the directness requirement of the tort
+- Can't establish intention or directness, so it's not a trespass
+- If the neighbour built a treehouse on the tree extending onto the other property, that would be a direct trespass
+- Similar to [[Lecture 15 (Torts)|conversion and detinue]], trespass is based on legal possession of land
+- There is a presumption that the person with the title to land has exclusive possession, but this presumption can be rebutted
+- Recall the example of a squatter, that is wrongful possession but it can defend against lesser claims
+- Title trumps legal possession, but legal possession trumps having no right
+### Elements
+- Trespass to land has the same elements as other trespass offences
+- Must be direct, intentional, and physical interference
+- Mistake is not a defence, and is actionable without proof of damage
+- Recall that good faith is also not an excuse for trespass
+- Couple of common occurrences that constitute trespass
+- Unauthorized presence on land is almost always trespass
+- If you left an object on private land, that is trespass according to [[Turner v Thorne]]
+- Even if you were authorized to enter a property, if you enter for an unauthorized purpose, that can be grounds for a trespass claim
+- Also, if someone is asked to leave and refuses to do so, that is also trespass
+### [[Turner v Thorne]]
+- Delivery company went to deliver cartons to a company located behind two houses
+- Delivery driver mistakenly placed the cartons in the garage of the house on the other side of the street
+- When the homeowner got home, he tripped over the cartons and seriously injured himself
+- Found that placing objects on land while trespassing is also trespass
+- Mistake was not an excuse for trespass
+- Also, employer of the delivery driver was vicariously liable for the trespass
+- Continued presence of a structure or object placed there illegally is trespass
+- Held liable for the injuries resulting indirectly from the trespass
+- No contributory negligence found on the plaintiff's part
+- Driver intentionally walked onto the property, doesn't matter that he believed he had the right to be on that property
+### [[Smith v Inco]]
+- Interference has to be direct, positive, and physical
+- Case was for trespass to land, not nuisance
+- Interference was indirect, simply came from particles floating over from the factory
+- Not a direct and physical act, fails to meet the definition of trespass to land
+- Tort claims always require wrongfulness, must be some element showing an intention
+- Social context is important, there is an indefinite element requiring some sort of social wrong
+- Thorne was guilty because he committed a wrong by going to the wrong house, a window washing company soliciting customers is not committing a wrong
+- But if the homeowner asks them to leave, they have to obey their wishes

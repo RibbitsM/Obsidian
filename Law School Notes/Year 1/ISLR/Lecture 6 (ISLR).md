@@ -1,0 +1,152 @@
+- James Douglas (governor of Vancouver Island) signed 14 treaties with Indigenous nations on Vancouver Island, all effectively land surrenders in exchange for a few goods and rights
+- Indigenous leaders were asked to sign a blank piece of paper which would have the terms written around it later
+- Many areas in BC that are governed by historical treaties face the same tension between resource extraction and Indigenous rights to hunt and fish
+- First turning point towards Aboriginal rights in BC were not from s. 35(1) but came from lawsuits surrounding hunting and fishing rights
+- After BC entered into confederation, established a land policy denying Indigenous rights and placing any remaining Indigenous populations into reserves
+- In 1967 Frank Calder and the other Nisga'a elders sued the BC government, resulting in the SCC finding that Aboriginal title had existed since the Royal Proclamation
+- First time Aboriginal title was recognized by the government
+- Negotiated the Nisga'a Treaty which served as the model for modern treaties
+- Received ownership of 8% of their ancestral territory, ceding the remaining 92% to the Crown
+- Have a unique land ownership system heavily based on the Canadian system detailed in the [[Lessons for Indigenous Property|Nisga'a Final Agreement]]
+- Each Nisga'a citizen has annual allocations for fishing and hunting
+- During a conflict between hunting allowances for Nisga'a and a neighbouring group, court held that Nisga'a treaty rights trumped ordinary Indigenous rights
+- Nisga'a gave up their Aboriginal rights in exchange for the Nisga'a Treaty, which are less flexible but more definite than Aboriginal rights
+- Even though Indigenous peoples nominally have these rights, they need to be litigated and proven before they can actually be exercised
+### BC Treaty Process
+- Established a formal six step process in 1993
+1. State intent to negotiate
+2. Readiness to negotiate
+3. Negotiate a Framework Agreement
+4. Negotiate an Agreement in Principle
+	- Most time-consuming step, most groups are stuck here
+	- First material step where the work must be done to decide what actually goes in the treaty
+	- Must be full, complete, and comprehensive
+5. Negotiate to finalize the treaty
+6. Implement the treaty
+- There's been a few treaties done under this process, mostly based on the Nisga'a process
+- Many significant critiques of the BC Treaty Process, with the main one being that Indigenous nations don't want to cede their Aboriginal rights
+- The Nisga'a had to permanently cede 92% of their land to get what little they wanted
+- Also, the government issues loans to help with the negotiation costs, and when you get the payment from the final settlement you just have to pay back that money
+- While some self-government rights are allowed, they are pretty limited
+- Concerns that the Crown is not negotiating in good faith
+- Usually, the feeling is that the government states their policy, and your decision is whether you want to accept the government's terms or not
+- Crown is present at every negotiating table, but you only know what they're offering to you
+- In this way, the BC treaty process ends up as a way to extinguish more land claims as opposed to a way to genuinely resolve Indigenous and settler relations
+- For the Hul'qumi'num nation, 80% of their land was given to the CPR so they're only fighting for the last 20%, and the government is only willing to give about 8%
+### [[Hoquotist]]
+- In [[Hoquotist]], Johnny Mack argued that the treaty process basically just takes genuine Indigenous concerns and just integrates them into the liberal state
+- While it may look like progress towards reconciliation, any concessions made are intentionally chosen to not disrupt the state
+- Compares the situation of Indigenous peoples to having their canoes flipped over and drowning in the sea before being approached by a Canadian ship throwing you a rope
+- Don't have to take the rope, can swim back to shore and try to repair your canoe
+- Negotiating with the Crown is ok, but don't want to do it from a state of desperation
+- In another paper, Mack discusses whether Indigenous peoples can engage with a settler society while also reviving their connections to the world
+- Many Indigenous scholars talk about rekindling previous worldviews, Mack describes this as "thickening" connections to the world
+- Identified three problems
+- First, Indigenous scholars don't critique their communities in fear of criticizing the efforts of people who are invested in those negotiations
+- The sunk cost fallacy is real, if you've been fighting the Crown for 30 years, eventually you'll be willing to accept a much lower payoff just to end the process
+- Second, critics tend to be very harsh, often discriminately tearing into anyone they perceive to be against them
+- If you live in a community that has faced this much violence over time, it's pretty natural to come out the other end angry
+- Not everyone wants to reconcile and accept settler society after all this harm
+- An inability to change your situation is very frustrating, and a lot of people end up turning that anger on those around them
+- Finally, critiquing using institutional structures and conventions domesticates that criticism
+- Ends up aligning your critiques more with the institutions than your feelings
+- For example, if you want to take a complaint to the state, you have to fit that complaint into s. 35 or any of its jurisprudence
+- Reinforces the need to engage in the teachings and histories of your group and practice that knowledge in your everyday life
+- Uses the metaphor of the Raven and the Skate, where the Raven agrees to competition to hit the skate with a throw, but the skate just turns sideways to make itself a smaller target
+- When Indigenous communities go to the seemingly neutral ground of the courthouse, they are already conceding the rules of engagement to the Crown
+### Revised Treaty Policy
+- Starting in 2019, BC government started to prioritize using treaties to recognize Indigenous rights instead of extinguishing them
+- Treaties are also supposed to be more flexible and less standard, and implement UNDRIP
+- Also abolished the loan system in favour of government grants
+- Non-binding policy that doesn't specify the nature of Indigenous rights
+- Basically just promises the make the treaty agreements less final and irreversible
+- Another common fight being made in court by Indigenous peoples is the requirement for consultation and accommodation
+- Over time, "consent" will likely be the new term being fought over which is the term used in UNDRIP, but has been interpreted as not including the right to say "no"
+- A key tactic often used by the Crown is delay, any delays will always benefit the Crown as they have the benefit of the status quo
+## Haida Agreements
+- Haida Gwaii has been the homeland of the Haida nation pretty much forever, and has been possessed by the Haida continuously at least since 1846
+- Since 1980, the Haida nations has made several agreements with Canada and BC that resulted in the joint management of the whole landmass, as well as protecting 52% of the area
+- Includes the *Gwai Haanas*, *Sgaan Kinghlas*, *Kunst'aa guu - Kunst'aayah*, agreements as well as the Haida Gwaii Marine Plan and Fisheries Resources Reconciliation agreements
+- Not all of these are about land use, some are conflict resolution precesses
+- In 2021, a new agreement called the "Changing Tide" Framework for Reconciliation was signed
+- Recognized the ability of the Haida to self-govern and make laws regarding land use going forward
+- Called for a transition period where BC authority would be phased out in favour of full Haida administration of Haida Gwaii
+- Made with the promise of not removing any existing private property
+- Haida agreements also extend to the *Sgaan Kinghlas* seamount which was once above the water, but now serves as a reef
+- Private lands will continue to be managed by the BC government, and can be bought by the Haida nation
+- Easy agreement for the Haida to make, but the Musqueam have almost all their territory covered by private lands
+- Also requires "mutual agreement" for decisions regarding Haida Gwaii as opposed to "consent"
+- This agreement also does not preclude further litigation by the Haida, first time an agreement like this has been made
+- Most issues are resolved in the treaty, and other issues are sent to court
+- Strengthens the negotiating position of the Haida as any issues that are delayed in negotiation can be loaded onto the impending court date
+- Also establishes a couple good faith provisions as in the past, the Haida have put significant effort into negotiation for the BC government to just state that they have no mandate
+- In 2023, BC enacted Bill-18 which is the *Haida Nation Recognition Act* that recognizes the right to self-governance for the Haida Nation
+- Different from the approach taken with the [[Red Skin, White Masks#History of Denendeh|Dene]]
+- Just as corporations are legal people, so is the Haida Nation
+### Haida Title Agreement
+- "Rising Tide" Haida Title Lands Agreement concluded negotiations in 2024
+- Approved by 95% vote in the Haida Nation Special House of Assembly
+- Hosted signing ceremony later in the year
+- First agreement in Canada that recognizes Aboriginal title throughout the entirety of a nation's territory, with no land being ceded to the government
+- Much more comprehensive recognition compared to previous efforts
+- "Haida Title" is described as the inherent responsibility of the Nation to maintain and preserve Haida Culture and the key components of Haida society as well as the land
+- Also includes s. 35 rights, serves as "aboriginal title plus"
+- Term not actually used in the agreement
+- Over the course of two years, will shift from BC jurisdiction defined by provincial law to Haida jurisdiction defined by Haida title
+- Focus on the jurisdiction will be on resource extraction decisions
+- As these things are sorted out, the agreements made will be added onto the agreement
+- Much faster than the previous comprehensive process
+- As the Haida Nation gains authority, BC makes changes
+- For example, if the Haida Nation passes a Forestry Act, the BC government will amend their Forestry Act to match that
+- Also has a dispute resolution mechanism in place
+- Maintains public infrastructure on Haida Gwaii as well as municipal laws
+- Haida Nation agreed to honour fee simple interests, but any fee simple land on Haida Gwaii escheats to the Haida Nation instead of the Crown
+### Aboriginal Title v Fee Simple
+- Bound to collide at some point
+- Cannot exercise fee simple interest as well as aboriginal title over the same piece of land
+- Aboriginal title is constitutionally protected, while fee simple interest is not
+- However, when you look at how the court has viewed it, Aboriginal title is a unique kind of property right that has specific restrictions and is held by a collective as opposed to how fee simple land is held
+- If you recognize Indigenous nations as governments, it makes sense that they would own land in a similar way that the Canadian government owns land
+- All land exists in an overlapping system of public governance, and Indigenous nations can exercise public governance over land
+- Not impossible to just overlay Aboriginal title powers over private land
+- Some have tried to explain it as something closer to sovereignty
+- Not just restricted to the right to exclude, but also the right to govern
+- Property does not contain internal constraints, only external constraints
+- Governments cannot use their land freely, it is owned with the purpose of acting in the public interest
+- Aboriginal title includes constraints like this for example, cannot use it in ways that deprive future generations of its use
+- Defining feature of fee simple is that it can be bought and sold, but Aboriginal title can only be sold to the Crown
+- Individuals do not have the capacity to own Aboriginal title, only nations as ownership of Aboriginal title requires capability of sovereignty
+- Aboriginal title comes from sovereignty because it is derived from the existence of Indigenous property laws and other laws
+- These laws are the source of the public law that Aboriginal title is subject to
+- Finding of title does not conflict with property rights because governance and property rights are different, and can coexist in the same space
+- Can argue that this is taking it too far by arguing that it's purely public
+### Other Existing Interests
+- This is a provision in the Haida Title Agreement which includes basically all non-fee simple interests on Haida Gwaii created by BC
+- These will remain as they are unless the Haida Nation wants to discontinue them
+- Reflects the incompleteness of the agreement, needs to be determined
+- Decisions regarding interests like land and resource management decisions will be made according to the s. 35 version of Aboriginal title and subject to the existing Haida reconciliation acts and protocols
+- The KKRP was designed to implement the "duty to consult and accommodate", but now that they have proven title, now they get "consent"
+- If an Aboriginal group does not consent to use of land, government has to justify that action under s. 35
+- This is likely where the battleground will shift in the future, we don't know what a consent agreement will look like yet
+- In Nov 2024, the "Big Tide" Haida Agreement was signed but has not been brought into effect yet
+- Defines "Haida Gwaii" as including the land to the low-tide mark, less than what was recognized in the "Rising Tide" agreement
+- Allows Canada to access "Lands with Federal Interests" as long as they are needed by the public, mainly refers to lighthouses and stuff like that
+- Also allowed Indian reserves to remain unchanged untol band councils want to change that
+- In 2025, the Haida Nation applied for Aboriginal Title to all of Haida Gwaii including below surface stuff but excluding the water column
+- Also required that the government recognize Haida Title
+- Canada and BC have consented to this order, and court focused on the test for declaratory relief
+- Requires that the court has jurisdiction, dispute before the court is real, the party seeking relief must have an interest in the resolution and the opposing party has to oppose the order
+- Makes the last one hard because Canada and BC consented
+- However, based on the precedent of the *Shot Both Sides* case that established that declaratory relief can be used to promote reconciliation
+- Since the Consent Order helps uphold the honour of the Crown, allowed the Order to proceed
+- Officially recognized Haida Title to the terrestrial and foreshore areas of Haida Gwaii
+### Conclusion
+- Groundbreaking development in Aboriginal title, but we don't know how it will shake out practically
+- Indigenous scholars have spent time imagining a future where Canada vacates legal spaces to allow for Indigenous legal orders
+- This would require Indigenous nations to have the capacity to exercise this law over new jurisdictions
+- Requires federalism to expand to recognize Indigenous jurisdiction, and the Crown would have to actually implement Indigenous rights established in UNDRIP and s. 35
+- Some argue that this will require a new interpretation of the framework that focuses less on the liberal rights approach and more towards dividing jurisdiction
+- Haida agreements are new in the sense that they are joint negotiation and litigation
+- Litigation will cover Aboriginal title rights to marine and airspace areas, as well as Aboriginal rights like hunting and fishing, and damages for the harm caused to Haida land in the time while it was outside of their control
+- Can the Haida also receive compensation for the lost opportunities they could have had if their land was never taken?
+- Overall, historic accomplishment for the Haida and BC

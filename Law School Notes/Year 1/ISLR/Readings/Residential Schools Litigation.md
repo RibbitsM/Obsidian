@@ -1,0 +1,57 @@
+- Evaluates the justness of the treatment of residential school survivors from the legal profession
+- Was this treatment consistent with the core values of the profession?
+- What does it means to "live a good life" in the law?
+- The current adversarial approach may not be the best option, especially when it comes to serving the vast and complex communities that lawyers serve
+- Thousands of residential school survivors have launched individual claims against the government and churches, with many of those being class action suits
+- Also many claims going through the alternative dispute resolution framework
+- Settlement covering all outstanding legislation was approved in late 2006
+- Involved a $1.9 billion payout to the claimants, as well as funding for an individual assessment process (IAP) and the formation of the TRC
+- Also involved funds for commemorative events, and services for victims and families as well as reimbursement for legal fees
+- Much of this process is still ongoing
+### Legal Profession
+- While there is strong support for the settlement agreement, the whole process has been slow, expensive, disrespectful, and humiliating for the claimants
+- Adversarial system is diametrically opposed to the goal of restoration and community-building
+- Victimizes claimants by requiring proof or testimony of abuse, leading many claimants to choose not to pursue this path
+- One of the primary aspects of the adversarial feeling of the government and church was their initial refusal and reluctance to even issue apologies
+- Often this can be the fault of legal professionals
+- When abuse allegations emerged against the Catholic Church in the US, a review board found that church lawyers told leaders to not apologize to victims since it could be used in court
+- Pretty significant evidence that a similar thing happened in Canada
+- Shows that the legal profession fails to consider that the goal is not to resolve these specific cases, but to take place in an overall healing process
+- Another major obstacle created by the legal profession was the requirement of limitation periods, as many of the cases pursued happened long before litigation began
+- In Canada, there is no limitation date on sexual abuse cases, but this strategy was used to avoid many non-sexual abuse cases
+- While using the defence of limitation dates may lead to success in the context of the adversarial system, usually counterproductive to the goal of healing
+- Another problematic defence is the [[Lecture 10 (Crim)#R v Blaue|"thin-skull rule"]]
+- Allowed the government/church to limit the amount of damages awarded by arguing that the plaintiff had pre-existing conditions
+- Ironically, many of these issues like anxiety and alcoholism were a result of residential schools impact of previous generations
+- One particularly malicious approach combined the two, limiting liability by arguing the plaintiff was particularly vulnerable to sexual abuse due to the non-sexual abuse they suffered
+- They were able to do this because the non-sexual abuse cases could be dismissed via limitation dates
+- Basically, the government was fully admitting to committing traumatic abuse against the plaintiffs in order to avoid liability on the one kind of abuse they could be held liable for
+- Pretty clear this is counter-productive to the healing process
+- Another classic strategy is instead of blaming the victim, the defendant simply shifts blame to another defendant
+- Makes it way harder for the plaintiff to get a real apology
+- Overall, focusing on winning in the adversarial context can decrease the likelihood of reaching a positive long-term situation
+### Evidence Challenges
+- Government and church regularly challenged the credibility of claimants despite evidence of the overall system of abuse
+- Especially by demanding particulars, the defendants knowingly increase the risk of re-victimization
+- There is also evidence of misconduct on the plaintiff side too
+- Some IAP claimants reported that their counsel offered them loans with criminally high interest rates
+- Other evidence of misconduct involves insensitive questioning, inappropriate disclosure, and other unacceptable practices
+- Decent amount of evidence of some firms using the IAP process as a money printer, taking on thousands of clients and then not filing their applications
+- Exploitative approach, trying to capitalize on the volume of litigation
+- Doesn't represent all plaintiff-side lawyers, but was at least a significant contingent
+### Principles of Professionalism
+- Overall, the issues on both sides represent a pattern of extreme adversarial and entrepreneurial behaviour in the legal profession
+- This is not a deviation from the principles of law, but rather following them to the letter, especially on the adversarial side
+- Reduces the claimants from people to issues to be resolved
+- Important to mention that this period of litigation was an outright failure
+- Mostly a waste of time and money on both sides that did little to advance the goal of healing and reform
+- The *Model Code of Professional Conduct* establishes the standards of professionalism for Canadian lawyers
+- Besides providing support for the adversarial approach, this document actually has some language supporting a more moderate approach
+- For example, lawyers cannot knowingly help a client do anything the lawyer considers to be dishonest or dishonourable
+- Also imposes requirements for lawyers to consider public policy concerns and speak against injustice
+- While the approaches taken by the defendant counsel was legally sound, was it in accordance with professionalism standards?
+- Canadian Bar Association has already developed standards for lawyers protecting abused aboriginal clients
+- Of course, these issues are not unique to this specific context
+### Conclusion
+- Lawyers play an important role in the state, and at present they do not have enough responsibilities to the public they serve
+- Not enough is being done to express the need to balance the public interest with that of the client

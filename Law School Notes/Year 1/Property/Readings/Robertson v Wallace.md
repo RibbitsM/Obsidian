@@ -1,0 +1,38 @@
+- Boundary dispute, parties land was divided by the course of a river that shifted over time
+- 104 years after the original survey, the defendant (Wallace) ordered a new survey which increased her property by 20 acres and sold it
+- Plaintiff (Robertson) sued Wallace after some of her land use was challenged by the new overlapping claims
+### Issues
+- Did the parties agree to a conventional line boundary, and does that boundary extend to a third-party purchaser?
+- Does the original boundary remain frozen in 1893 or does it follow the river?
+- If the boundary follows the river, where is it?
+### Facts
+- Land was transferred to the Robertsons and Wallaces in 1909 and 1914 respectively
+- Original survey took place in 1890 and was made official in 1893
+- New survey took place in 1917 which showed that the river had shifted significantly due to flooding
+- In 1984, Wallace's mother ordered another survey, which found that the river was in more or less the same place but again noted that it had moved between 1890 and 1917
+- Finally, Wallace ordered the instigating survey in 1994
+- Surveyor was aware Wallace intended to sell the land, and informed the Robertsons that he was going to be on their land for a survey
+- Registered the new plan based on the 1994 river position, which was then sold the next year
+- Registrar admitted that the new title should not have been issued without the consent of Mrs. Robertson
+- Robertson discovered the change in 1997 when a dispute emerged between her husband and one of the new neighbours
+- Applied and was granted an injunction to restore a fence dividing the original property line
+### Analysis
+- The fence used to separate grazing cattle was held to not serve as the actual boundary
+- Plaintiff argues that the title in frozen in 1893 according to the original titles
+- Title references extending to everything in a certain direction from a certain bank of High River on a specific plan created on a specific date
+- Defendant argues that this wording does not preclude finding that the river is the natural boundary
+- According to *Clarke*, the law of riparian rights applies to properties which have a river as their boundary
+- All accretions resulting after the title was established belong to whose land they attach to
+- Similar case, in that case there was only one river lot along the North Saskatchewan
+- SCC also dealt with a similar property along the Assiniboine River in *Chuckry*
+- Based on this precedent, the boundary is the bank of the river, and therefore riparian rights apply to the property
+- However, the doctrine of accretion does not apply to sudden changes, only gradual ones
+- Southwest part of the river is not at issue, problem is where there used to be an oxbow on the Northeast side and also a region where there was a large island once
+- Plaintiff argues that the boundaries were determined by the 1890 survey, defendant argues that it was determined when the parties took title
+- Expert in surficial geology brought in to examine the river
+- Testified that the oxbow was cut off abruptly prior to the 1890 survey
+- At this time there would have been a bit of land on the east side, pushing the river close to its current course sometime between 1890 and 1917
+- Sometime in this same time period the channel on the west side of the large island dried up
+- Likely also caused by a sudden change, probably a flood
+- Overall, it was found that the oxbow was cutoff before 1890, an avulsive cutoff later shifted the river east, and the west channel around the island likely dried up due to flooding
+- Because of the doctrine of accretion, no new land was awarded to the Wallaces

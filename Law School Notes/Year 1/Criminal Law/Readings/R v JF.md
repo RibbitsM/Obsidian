@@ -1,0 +1,21 @@
+- Defendant (JF) was charged with two counts of manslaughter by omission due to the death of his foster child
+- Crown theorized that JF's spouse caused the death but JF failed to protect the child
+- First charge was manslaughter via criminal negligence, and the second was manslaughter via failing to provide the necessaries of life
+- Convicted on criminal negligence, JF appealed arguing the verdicts were inconsistent
+- Appeal dismissed
+- SCC argues that the fault element for both counts was basically identical
+- For failing to provide necessaries, Crown has to prove a marked departure from reasonable conduct where not providing necessaries leads to a risk of death or permanent damage
+- For criminal negligence, Crown has to prove a marked and substantial departure from reasonable conduct in the presence of a known obvious and serious risk to life
+- "Marked departure" and "marked and substantial departure" are subtly different
+- Therefore kinda weird that jury found JF had made a "marked and substantial departure" but not a "marked departure"
+- Criminal negligence is seen as the more serious of the two offences
+- Verdicts suggest that the lesser degree was not established, while the larger degree was
+- Clearly an inconsistent verdict
+- When criminal negligence and failure to provide necessaries are lumped together, can analyze them in two stages
+- See if you can establish whether accused had the duty to provide necessaries first
+- Then see if the accused failed to meet that duty
+- Then, see if thee accused showed wanton or reckless disregard for the life and safety of the child
+- Even though the verdicts are inconsistent, don't need to order a new trial
+- Dissenting judge argued the verdicts weren't inconsistent because "criminal negligence causing death" and "failure to provide the necessaries of life" have different *actus reus*
+- Difference is that criminal negligence includes the 'wanton or reckless disregard' line, but the other mentions "permanent endangerment" of health or life
+- Possible that the first can exist without the second

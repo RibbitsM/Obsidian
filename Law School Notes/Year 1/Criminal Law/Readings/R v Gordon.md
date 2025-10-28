@@ -1,0 +1,45 @@
+- Recall that *mens rea* and *actus reus* must coincide
+- Doctrine of transferred intent applies in cases where the accused intends to commit one offence but ends up committing another
+- Two situations like this in common law
+- In the first case, the accused shot the victim believing that they were a different person they were intending to kill
+- In the second case, the accused aimed at their intended target and accidentally shot the victim instead
+- Under the doctrine of transferred intent, the will to kill the intended target is transferred to the victim and they are convicted
+- Designed for murder, but can transfer to any other offence as long as the harm intended and created are the same kind
+- In this case, the accused (Gordon) attempted murder but ended up injuring but not killing two others
+- Gordon was walking with two friends looking to buy weed when they saw a group of pedestrians, one being Andre Thompson
+- Gordon's friend thought Thompson was a drug dealer, and offered him $90 for an ounce, prompting Thompson to punch him and the others scattered
+- Soon after, Gordon came in disguise holding a sawed off and shot at Thompson and his friends
+- Thompson was not hit, but three other bystanders will
+- Gordon was charged for 4 counts of attempted murder, three counts of aggravated assault, pointing a firearm, and discharging with intent
+- Trial jury found him guilty on all counts, with the judge concluding the appellant was liable for attempted murder of the victims on the grounds of transferred intent
+- Trial judge informed the jury that *mens rea* for attempted murder includes specific intent to kill *a* person, which includes any person other than the victim
+### Appeal
+- Gordon's counsel argues that the judge erred in instructing the jury, mentioning that the *Criminal Code* does not establish whether transferred intent applied to attempted murder
+- Argues that the doctrine only applies to crimes of general intent, which does not include attempted murder
+- Points out that since Gordon is already guilty of one count of attempted murder, adding more charges is inappropriate
+- Crown argues that the doctrine is not limited to only crimes of general intent, pointing to the common law
+- Not doing so would leave an unreasonable gap considering that it applies to aggravated assault and murder already
+- Attempted murder is covered under s. 239(1) of the *Criminal Code*
+- Also relevant is s. 229 which defines murder, and s. 231 which defines murder for sentencing purposes
+- Unclear whether the doctrine of transferred intent applies to inchoate (attempted) offences
+- In attempted murder cases, the assailant is punished directly for targeting the intended victim, which reflects their moral culpability
+- Crime mainly deals with mental states, and governs what the accuse intends to do but fails to accomplish
+- Injury is not a required element of attempted murder
+- According to the decision in *People v Bland*, transferred intent does not apply to attempted murder, but it allows someone who shoots at a group of people to be convicted of attempted murder regardless
+- Convicted of attempted murder of any member of the group they intended to kill
+- While parliament can choose to explicitly include transferred intent in an offence like in s. 229(b), but they can just as easily explicitly exclude it
+### Application
+- Recall that the judge told the jury that if they were satisfied BAR that the appellant intended to kill *a* person, they could find them guilty of attempted murder on the bystanders
+- Attempted murder requires concurrent *mens rea* and *actus reus*
+- Just because murder allows transferred intent does not mean attempted murder allows it
+- Without transferred intent. thee *actus reus* of attempted murder lacks *mens rea*
+- Transferred intent applies when *mens rea* applies to one victim and *actus reus* applies to another
+- However, in attempted murder, there is no specific *actus reus*
+- If Gordon killed one of the bystanders, he would be committing murder but that does not means that he has committed attempted murder
+- Also raises the question of how far transferred intent goes, does it only apply to injury?
+- This would seem irrational, considering attempted murder does not require injury
+- Surely it doesn't apply to anyone else in the immediate area regardless of injury
+- Even so, in this case Gordon is already guilty of the attempted murder of Thompson
+- Therefore, the trial judge erred and the appeal should be approved
+- Convictions of attempted murder on the bystanders are set aside, but the conviction for attempted murder of Thompson
+- Also lifted the stays on the convictions for aggravated assault

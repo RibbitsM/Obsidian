@@ -59,4 +59,3 @@
 - Example of this comes from *British Crane Hire v Ipswich Plant Hire* where both parties ran construction rental companies, and one rented equipment to the other
 - Even though terms were provided late, they were upheld as the plaintiff was used to the terms and even provided them regularly to their own customers
 - History can also go the other way, is practice has been inconsistent, court will be less inclined to rely on previous written terms
-- 

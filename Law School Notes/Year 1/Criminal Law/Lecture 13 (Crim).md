@@ -1,0 +1,54 @@
+- Mental elements of an offence won't always correspond to the *actus reus* for example the *mens rea* for theft requires intent to deprive the owner of the property
+- This is not included in the *actus reus*
+- Different kinds of subjective fault, include intention, knowledge, and recklessness
+- Intention is directly doing an act or seeking to bring about a consequence
+- Deliberate choice on your part to bring about a consequence
+- Knowledge is knowing the circumstances that bring about an offence, or knowing that their actions will bring about a consequence
+- These two are about equal, usually the highest standard of *mens rea* you can have
+- Knowledge includes the concept of wilful blindness, where if the accused deliberately chooses to remain ignorant about a circumstance or consequence, can be a replacement for knowledge
+- As we saw from [[R v Briscoe]], can even be applied to murder
+- The more unreasonable it is not to know the less we believe the accused, but still a subjective test
+- Recklessness is slightly less than intention and knowledge, it's just being aware of a risk that a particular circumstance/consequence is reasonably possible and proceeds anyway
+- Usually sufficient to establish *mens rea* but not always
+- Definition of murder in the *Criminal Code* even mentions recklessness explicitly
+- As we saw in [[R v Buzzanga and Durocher]], recklessness doesn't always qualify
+- In that case, the term "wilfully" implied a higher standard of *mens rea*
+- Based on the way an offence is written and the severity of the offence, can change the guidelines
+- Under s. 240.1(2) of the *Criminal Code*, anyone who purchases or facilitates the purchase of an organ from another person for a transplant is guilty if they know it was obtained for money or are reckless in determining this fact
+- The purpose of using the organ for the transplant is actually a mental element
+- The *actus reus* is obtaining or participating in obtaining an organ from the body of another person for some sort of compensation
+- The inclusion of the words "knowing" and "reckless" indicates that the mental elements of knowledge or recklessness are required
+- These terms are mainly attached the provision requiring that the organ was obtained for money
+- However, can also infer that you need to know that the object is an organ and that it was obtained from the body of another person and is intended for transplant
+- The latter term is implied by the use of the word "purpose"
+- Additional purpose requirement not attached to the *actus reus*
+- Section 56.1(1) relates to identity theft
+- Prohibits creating, possessing, selling, transferring, or offering for sale an identity document relating in whole or in part to another person without lawful excuse
+- For simplicity, lets focus on possession
+- *Actus reus* would be possessing an identity document that relates to someone else
+- The lawful excuse element is a pretty common circumstance in the *Criminal Code* which establishes a defence for this charge
+- Section 56.1(2) elaborates some of the situations that would constitute this excuse
+- *Mens rea* for this offence is that you have to know you possess the document, you have to know it relates to another person, and you have to have intention to possess it
+- Can also concede that these elements can also be defined by recklessness
+- Recall that mistake of law is often not a valid defence
+### [[R v Theroux]]
+- Example of the Supreme Court trying to tease out the *mens rea* of an offence
+- Theroux was a businessman selling a residential project who promised his customers that the deposits they were paying for their houses were protected under deposit insurance
+- However, he did not purchase any insurance, because he believed there was no need to
+- The project failed and the houses were never built, resulting in the deposits being lost
+- Genuinely believed that the deposits were unnecessary
+- Based on this belief, can he be convicted of fraud?
+- Looking to the *actus reus* pretty much no doubt that it was met
+- Turned to a previous case called *Olan* that established the elements
+- First element is a dishonest act that can be deceit, falsehood, or other fraudulent means and second element is financial deprivation or risk of financial deprivation to the victim
+- *Mens rea* relates to both parts, accused needs to know they are committing a dishonest act, and need to know that their actions may cause deprivation or are reckless in determining this
+- Clear that Theroux meets the first element of *mens rea*, unclear whether the second is met
+- Recall that this is a subjective measure, and Theroux genuinely believed that the project was a sure thing and there was no need for insurance
+- Can argue that he knew that the project could fail, even if he didn't expect it to
+- Majority opinion argued that the *mens rea* is about knowing the risk is there, not believing that it would likely materialize
+- Dissenting judge disagreed, since Theroux genuinely believed the risk was zero, he should not be charged for acting recklessly
+- However, at the very least he definitively deprived the depositors of the insurance
+- This is enough to prove the offence of fraud on its own, regardless of the outcome
+- Since the term "fraudulently" exists in many other offences, this has cascading consequences
+- However, this doesn't include all the elements of fraud, mainly refers to the presence of a dishonest state of mind
+- 

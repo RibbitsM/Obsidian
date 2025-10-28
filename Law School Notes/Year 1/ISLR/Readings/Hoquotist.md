@@ -1,0 +1,51 @@
+- Discusses the impact of stories on the treaty process
+- If the treaty process is about examining both parties claims to a parcel of land and comparing them, Indigenous peoples would retain ownership every time
+- What to do with the settlers?
+- Living as neighbours went poorly, and Indigenous peoples had the right to kick them out
+- If they want to stay, must do so in observance of Indigenous customs
+- If settlers seriously considered their justification for taking Indigenous land, they would realize they have no real justification for their actions
+- Given how much time has passed, settler society is not going to pack up and leave now
+- What should the Indigenous community do then in this circumstance?
+- What does it mean to take Indigenous stories seriously?
+- Current treaties are defined by imperialism and neo-liberal supremacy, and taking stories seriously means not allowing them to be controlled by that narrative
+- Means examining the existing treaty frameworks and approaches and determining whether they are balanced and respectful
+- Treaty process is a tool of mediation, uniting two stories and writing the next chapter of their merger
+### Imperialism and the BC Treaty Commission
+- What the BC Treaty Commission did was not negotiation, they dictated the terms and waited for the other side to accept them
+- Contemporary treaty making has the goal of remedying the illegal relations established under colonization
+- Can be seen as part of decolonization, negotiating beyond the *Indian Act*
+- The BC treaty process is imperialism in the sense that it is the process by which Indigenous land was seized by the state
+- Even once Indigenous groups try to reclaim their land, it will not be on their terms, they will own the land under the Canadian property system
+- In this way, current treaties are still imperial
+- Over time, the relationship between Indigenous groups and their territory has drastically changed
+- How can these groups escape from the imperial framework?
+- Argues that this can be done through understanding the connection with stories
+### Hoquotist
+- Nuu-chah-nulth metaphor meaning "disoriented person"
+- Directly means someone whose canoe has overturned
+- Used to describe the distance between the Nuu-chah-nulth and their stories
+- Worldview of Indigenous peoples are not their own, but also not quite Eurocentric
+- Instead of relying on settler ideology to understand their own position, turn to their own stories
+- Previously, there was a concentrated effort to ensure the Hoquotist did not get back in their canoe, but this time has passed
+- Can now rebuild the canoe, but most have forgotten how, the original one is lost at sea
+- Instead of finding their way home and rebuilding the canoe, many Hoquotist board other vessels they find in the area
+- These vessels are large, fast, and comfortable, and many argue that going back to the canoe would be too complicated and inefficient
+- Instead, maybe just bring a canoe on board the new ship to be used occasionally
+- Some argue that this is a good thing, or that we have returned to the canoes and are entering a new relationship with settler society
+- Author argues that this is just the new face of assimilation, integrating into settler society should not be seen as a success
+- These people seek liberal solutions to their problems which previously had no solutions
+- Very similar to the metaphor of the [[Culture, Self-Determination and Colonialism|snare]]
+- Liberalism seeks to dissolve allegiance to the community and increase connection to the state
+- This is what the [[Indian Act Colonialism|White Paper]] sought to achieve, allowing Indigenous peoples full access to the benefits of liberal society
+- After the failure of this initiative, government moved to a partial recognition of Indigenous social and political identity within a liberal context
+- This has certainly improved the lives of Indigenous people, but is this the final goal?
+- In the process of the chase for Indigenous rights, has the original vision been lost?
+- Bait and switch process, what seems to promising ceases to benefit once it is obtained
+- For example, many Indigenous youth have a very good understanding of the legal foundations of Aboriginal rights but a poor understanding of their societal origins
+- Leaders don't focus on cultural revitalization, the immediate concern is improving the economic reality of Indigenous communities
+- Resolving Indigenous relationships with settlers should be secondary to resolving relationships with themselves
+- Starts with something small, like reviving the process of chiefs feeding the village
+- Rebuilds social connections, enables an opportunity for sharing stories and grounds community in cultural practice
+- Resisting imperialism is not achieved through rights, or treaties, or a constitution
+- It's done through reinforcing the connection to cultural stories and practices
+- 

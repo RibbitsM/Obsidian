@@ -1,0 +1,92 @@
+- How far does Canada extend?
+- Canada ratified the UNCLOS in 2003, and implemented its conventions into the *Oceans Act*
+- Initially, territorial seas extended 3 miles from shore, since this was about as far as a cannon could reach
+- UNCLOS established a set of boundaries that make up four different zones
+- Internal waters, territorial seas, contiguous zones, and EEZs
+- Internal waters are those waters within the coastline, includes things like bays and fjords
+- These waters are definitively part of Canada
+- Baseline/coastline is determined by the low tide mark
+- Territorial seas extend from the baseline to 12 miles out, and are part of Canada subject to the right of innocent passage
+- From 12-24 miles there is the contiguous zone, where Canadian laws can be exercised to the extent that customs, taxes, sanitary, and immigration rules apply
+- EEZ extends to 200 miles, and is the zone where Canada has the exclusive right to fish, mine, conserve etc.
+- Recently, Canada established a Marine Protected Area off the coast of Vancouver Island in cooperation with the Haida, Pacheedaht, Quatsino, and Nuu-Chah-Nulth Nations
+- Prohibits any kind of extraction in the area with a couple specific exceptions like hook fishing or laying cable
+- UNCLOS baselines can be based on underwater features, which is relevant in Eastern Canada as there is a large underwater shelf underneath Newfoundland
+- If recognized, this plateau extends our EEZ almost 200 miles
+- France actually has the largest total EEZ area, originating from their massive amount of overseas territory
+- In fact, there are two tiny French islands located in the Gulf of St Lawrence that chew up a bit of our EEZ
+### Domestic Water Law
+- In Canada, our water regime is mostly statutory as opposed to in common law
+- In BC, all water on the surface and the ground by default belongs to the government
+- Does this extinguish native title rights like in [[Yanner v Eaton]]?
+- For the sake of the *Water Sustainability Act*, basically any natural water source qualifies
+- Can't divert water from a stream/aquifer without a license
+- However, you are not prohibited from diverting and beneficially using water not subject to another license
+- Beneficial uses include domestic use or prospecting for minerals
+- A license allows the holder to divert and use a specific volume of water measured in cubic hectares
+- In the [[Lessons for Indigenous Property|Nisga'a Final Agreement]], BC gave the Nisga'a a water reservation of 300,000 cubic decameters of water per year
+- This reservation has priority over all other licenses made after a certain date
+- Does not grant the Nisga'a any property in water, just a right to use
+- Seems unreasonable in the modern context of treaties, but remember this was a long time ago
+- The *Land Act* specifies that land grants do not grant any piece of land below the natural boundary of a body of water unless mentioned otherwise
+- Recall our example [[Lecture 13 (Property)|Crown grant]] that shows the grant ending at the edge of the river
+- Unless there is a clear law stating otherwise, no land below the natural boundary of a body of water will pass to another person
+- In the *Nisga'a Final Agreement*, British Columbia owns the submerged lands on Nisga'a territory
+- However, BC will not grant submerged lands to anyone else for more than 25 years and not without consent, and will not unreasonably refuse offers by the Nisga'a to buy submerged land
+- The Tsawwassen Final Agreement also includes water lots, one on each side of the ferry causeway
+- These lots are being leased to the Tsawwassen by the BC government for 99 years that can be renewed for another 99 years in perpetuity
+- Effectively an infinite grant, as BC will assume they are renewing whenever the deadline comes up unless they specify otherwise
+- Another new development in treaty law is that when the Cowichan got some land on Lulu Island, they were also granted some submerged land that used to be part of their village
+- Key points are that the right to use of water is vested in the province and authorized by license
+- Beds of bodies of water are provincial property, boundary is high water mark
+- Right to fish is allocated by statute, covered by Fisheries and Oceans for saltwater and the province for freshwater
+### Common Law Regime
+- At common law, a property owner that holds land adjacent to a body of water has the right to the natural use and flow of the river
+- Same right applies to every other owner along that river
+- An upstream owner would have their rights constrained by all owners downstream of them
+- Can use or divert water as long as it doesn't interfere with the use of others
+- Works well in cases where there is a lot of water and light use of water, preindustrial England
+- Another common law principle is *ad medium filum aquae* which establishes that if you own land adjacent to water, you own the bed to the midpoint
+- In England, this applied to non-navigable waters which meant non-tidal waters
+- This right also came with the right to fish in waters where you owned the bed
+- This is a presumption, meaning that someone trying to challenge your right can overturn it by proving that you do not own the riverbed or that the right to fish is not part of the grant
+- In tidal waters, the Crown had an exclusive right to fish constrained by a public right to fish
+- According to the [[Lecture 7 (Property)|Doctrine of Reception]], English common law before 1858 applies in Canada as long as they apply in local circumstances
+- However, there is way more freshwater in Canada than in England, and freshwater rivers and lakes are much more important in Canada
+### [[R v Nikal]]
+- In this case, the defendant (Jerry Nikal) was from the Wet'suwet'en Nation and was fishing along the Bulkley River in the Moricetown Reserve, which encompasses both sides of the river
+- Nikal argued that he didn't need a license because he was fishing on the reserve, and the license laws don't apply on the reserve, band by-laws do
+- Legal issue is whether or not the river is reserve land or not
+- Wet'sewet'en made three arguments
+- First, the Indian Reserve Commission granted an exclusive fishery to the reserve
+- Second, *ad medium filum aquae* establishes that the reserve extends to the riverbed
+- Third, the licensing regime infringes Nikal's s. 35(1) rights
+- On the first point, the Crown disagreed, citing that the government never intended to grant an exclusive fishery to the reservation
+- Also pointed out that the Crown is not authorized to grant exclusive fisheries
+- This is factually wrong because the judge is basing this argument on the public right to fish, inherited from British common law
+- But this only applies to tidal waters, not rivers
+- BC has many, many tiny reserves allotted specifically to grant access to fishing stations along multiple rivers in internal and coastal BC
+- Only valuable resource on this land is the river, the Reserve Commissioner was granting reserves with the express purpose of granting fishery rights
+- Department of Fisheries refused to recognize these rights, but the Department of Indian Affairs tried to push back against this
+- However, the Department of Fisheries was stronger and won the internal battle
+- Can't really say there was no intention to grant an exclusive fishery
+- Recall that there are two presumptions at play here
+- First, there is the presumption that an adjacent property owner owns the riverbed to the midpoint
+- Second, there is the presumption that the owner of the riverbed has fishing rights
+- In North America, the *ad medium filum aquae* presumption doesn't really apply, it would be pretty ridiculous to apply this in a country with so much freshwater
+- Instead of applying to non-tidal waters, applies to non-navigable waters
+- When it comes to the definition of navigability, the Court determined that a river is navigable starting from the first point of navigability and ends at the point where navigability completely ceases
+- The Bulkley River is largely navigable, with the exception of small section such as the Moricetown Canyon, and thus the maxim doesn't apply
+- Even if it did apply, the Crown intended to sever the fishery from the river rights
+- Finally, on the grounds of the s. 35(1) argument, Nikal succeeds
+- The fishing license requirement was in violation of his Aboriginal rights, and was thus unconstitutional
+### [[Robertson v Wallace]]
+- Deals with the issue of what happens when a river shifts
+- Homeowners held property on either side of a river, with the property line initially established as the midpoint of the river
+- Over time, the river changed its flow
+- Robertson argued that the property line was frozen when it was established, while Wallace argued that it shifts to match the river, as they were gaining land in this case
+- The common law stance on this is that there are two different ways for a river to shift, either through accretion or avulsion
+- Accretion means a slow and gradual change, while avulsion is a fast or sudden change
+- If the river shifts through accretion, the boundary will change with the river, but otherwise it will remain in the same place
+- Geological analysis of the river (Highwood River in High River, Alberta), determined that it had moved mainly through avulsion as a result of a period of flooding
+- Main rationale for this is that sudden changes should not affect property lines to avoid unjust enrichment

@@ -1,10 +1,24 @@
-- Plaintifff discovered nickel particles in the soil on their land which came from then Inco nickel refinery over a 66 year period
+- Plaintiff discovered nickel particles in the soil on their land which came from then Inco nickel refinery over a 66 year period
 - Several other members of the community also discovered these particles, and sought to bring a lawsuit against Inco under the umbrella of an environmental group
 - Value of the properties was decreased significantly by the presence of the particles in the soil
 - Example of [[Strict Liability]] based on the precedent of *[[Lecture 4 (Torts)|Ryland v Fletcher]]*
+- However, *Ryland v Fletcher* is usually applied in cases involving things like floods, gas leaks, and chemical spills
+- Usually applies to situations where things go wrong and unintended consequences are created
 - Question is whether the trial court decision erred in determining that there was an actionable nuisance
 - Claimants did not establish that Inco was liable under the precedent of *Ryland v Fletcher*
 - Why did the Ontario Court of Appeal make this decision?
-- They held that the presence of the particles did not constitute substantial interference
+- Appeal court found that there was not "an abnormal risk of harm"
+- The nickel emissions created by the refinery are not an accident, they're a normal part of the refinery operations
+- Trial judge found that Inco was using the property non-naturally because they brought nickel onto the property
+- Pretty unreasonable standard, this would apply to pretty much any factory
+- Also may be relevant that Inco adhered to all existing environmental and zoning regulations
+- Appeal court held that the presence of the particles did not constitute substantial interference
+- When *Ryland v Fletcher* was applied in *[[Tock v St John's]]*, limited the applicability of the rule
+- This was because the court in that case ruled that it was only applicable if there was a "user inappropriate to the place"
+- No real need for a common law remedy when the statutory environment already does a good job of constraining these kinds of damages
 - Plaintiffs failed to establish substantial physical damage to their property
 - When a nuisance is alleged to come in the form of harm to land, the plaintiffs must establish damage to their land
+- Notable to establish that the court did not accept the excuse that Inco created benefit for the community
+- Although it may have materially benefitted the community, this was just a side effect and far from its primary goal
+- Also agree with the trial judge's decision that the *Rylands v Fletcher* rule should not be limited to only a single instance of escape
+- Overall, did not find Inco liable

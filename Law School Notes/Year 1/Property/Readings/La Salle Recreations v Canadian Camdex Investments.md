@@ -1,0 +1,20 @@
+- Dispute over the right to repossess wall-to-wall carpeting that was purchased as part of a conditional sales agreement
+- Carpet vendor retained title until the full price was paid
+- Building was also subject to a mortgage which was registered in the land title office, as well as the conditional sales agreement
+- Based on the *Conditional Sales Act*, when goods are affixed to the land, interests from a conditional sales agreement are not binding against a mortgagee unless the agreement was registered at the land registry office
+- In this case, this was not done, and the issue of who got the carpets hinged on whether or not they were fixtures
+### Analysis
+- Court determined that the best authority on this decision came from *Stack v Eaton*
+- Determined that objects not attached to land other than by gravity are not part of the land, and objects even slightly attached to land are part of the land
+- In the case of *Haggert v Brampton*, there was another mortgage dispute where it included all machinery attached to the land
+- Judge mentioned making a distinction between "occasional" and "permanent" annexation
+- Court in *La Salle* interpreted "permanent" as meaning remaining in the same place as long purpose is served
+- For example, carpeting otherwise wouldn't be considered permanent because hotels tend to change colour schemes
+- Degree of annexation of the carpet is slight, it's basically stapled to the floor in most places and can be easily pulled up
+- Was the annexation done for the better use of the carpet or for the better use of the building as a hotel?
+- Couple facts to consider here
+- First, the carpet was necessary as the option was unfinished plywood
+- Also, carpet had to be affixed to the ground to be usable
+- Usually, carpet in hotels like these is replaced every 3-5 years and there is a good second hand market
+- Based on these facts, court found that the annexation was done for the better use of the building
+- Therefore, the carpets are considered fixtures

@@ -1,0 +1,39 @@
+- Appellant (Penfolds Wines) created and sold wine in bottles owned by the appellant
+- Bottles had the name of the company and note stating they were the property of Penfolds on them
+- Respondent (Elliott) was a hotelkeeper who sold bulk wine to customers who brought their own bottles
+- Some of the bottles filled were the Penfolds bottles, which Elliott made no effort to see if the bottles were owned by the customer
+- Penfolds applied for an injunction on the grounds of trespass to goods
+- Court held that the appeal should be dismissed
+- Majority opinion was that the evidence didn't suggest a systematic or substantial interference with the property of Penfolds
+- Since Elliott was only using the Penfolds bottles occasionally and casually, no need for an injunction
+- Concurring opinion was that there was no evidence of any common law tort being violated by these actions, and therefore no injunction
+- Case was heard in the NSW Supreme Court, and appealed to the High Court of Australia
+- Penfolds bottles were never sold, and only used for delivery, and would have to be given back to the company
+- However, Elliott was using the bottles to serve his customers wine not made by Penfolds
+- Proved that Elliott sent two bottles to an employee who worked for the Brand Protection Association who was also a food inspector
+- Penfolds argued that this was a conversion as Elliott was selling their bottles and were using them contrary to the terms
+- Elliott was filling Penfold bottles because he sold his cheap wine by filling bottles brought by his customers
+- Figured that even if he was filling Penfolds bottles, it was fine since he wasn't selling the bottles, just the wine
+- Got into trouble when he tried to **deliver** two of these bottles
+- Penfolds relied on the law of trespass to chattels
+- Trial judge held that in the absence of intent by Elliott to sell the bottles or refuse to return them, no case for an injunction existed
+- Evidence of at least forty other businesses in NSW that do the same thing as Penfolds
+- Elliott admitted he knew well the difference between branded and unbranded bottles
+- Elliott never really argued that he didn't commit a trespass, just that the plaintiff couldn't order an injunction
+- Pretty clear that if there isn't an injunction, Elliott is going to keep doing this
+- Previous case (*Beswicke v Alner*) established a right to an injunction in cases like these
+- Also, the damages are so small that it's basically irrelevant
+- Penfolds can't sue for trespass because the bottles not in the possession of the company are basically on bailment
+- Means that Penfolds doesn't "own" them but they can restrict the use of the bottles
+- Court found that Elliott wasn't significantly violating these rules, so there was no claim for conversion either
+- When Elliott filled the two bottles to deliver to the food inspector, the bottles were in the possession of his brother, not him
+- Penfolds had no right to trespass, the legal possessor of the bottles was Elliott's brother
+- Unless Penfolds revoked their bailment, bottles still belong to the brother
+- Even if they revoke the bailment, that's just a right to immediate possession, not actual possession
+- When a customer took a Penfolds bottle to Elliott to have it filled, they are violating the bailment but possession does not automatically transfer to Penfolds right away
+- Therefore, there is no conversion either?
+- Majority opinion argues there was a conversion, as when Elliott delivered the two bottles to the food inspector, he received a delivery fee in exchange
+- Even though he was just submitting them for inspection, he was acting as though he owned the bottles
+- Finally, detinue also doesn't apply, which is when a bailor with right to immediate possession tries to exercise that right and is denied
+- Penfolds never tried to exercise their right to immediate possession and Elliott never denied them
+- Therefore, Elliott did not commit any recognized common law tort

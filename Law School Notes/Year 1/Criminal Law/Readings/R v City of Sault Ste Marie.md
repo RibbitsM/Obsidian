@@ -1,0 +1,39 @@
+- Some offences do not require *mens rea* at all, meaning they can be established simply by proving the *actus reus*
+- Offences like these are either absolute liability or strict liability
+- Latter allows the defendant to prove the defence of due diligence on a balance of probabilities
+- City violated the *Ontario Water Resources* Act by allowing pollutants to enter a clean water source
+- Public welfare offences are generally absolute liability offences, this is because they serve to impose a high standard of care on the government
+- Also because it would simply be too difficult to prove intention on the part of a large organization like the government
+- In exchange for being easier to prove, public welfare offences usually have lower penalties and are less stigmatized
+- Those arguing against this practice point out that it violates principles of liability
+- Also, assumptions that these offences are less harmful and will lead to a higher standard of care can be false
+- However, evidence of due diligence can be used in court to potentially improve the defendants case
+- Under s. 198 of the *Alberta Highway Traffic Act* states that if the judge finds that the offence was committed by accident without negligence and could not have been avoided, case can be thrown out
+- Manitoba also has a similar provision
+- Instead of protecting individual interests, public welfare offences protect public interests
+- Traditionally, a case is either full *mens rea* or absolute liability
+- Alternative is to only convict in cases of negligence
+- While absolute liability is probably ok if the penalty is a $25 fine, there are some public welfare offences punishable by jail time
+- Absolute liability assumes that the defendant could have avoided the offence by exercising reasonable care
+- Many have argued that this means that for cases like these, the defendant should be acquitted if they can prove they took reasonable care
+- For the defence of due diligence, this is done on a balance of probabilities
+- Satisfying this defence has the effect of disproving negligence, while public welfare offences are essentially negligence offences
+- This is how the law works in Australia and New Zealand?
+- Majority agree with the goal to avoid the Crown having to prove *mens rea*
+- Doesn't mean we should preclude the defence of due diligence, it doesn't require the Crown to prove anything, the burden is on the defence
+- Is this some kind of [[Lecture 6 (Crim)|reverse onus clause?]] Probably not because it mainly applies to *mens rea*, not the *actus reus*
+- Court argues that there should be three kinds of offences, full *mens rea*, offences of negligence with no *mens rea*, and absolute liability offences
+- Public welfare offences would fall in the second category, apart from all the "true" criminal offences in the first category
+### Application to the Case
+- Prevention of pollution of water sources is of great public concern
+- Also, this is not a true criminal offence since it violates a provincial statute
+- Recall that provincial governments [[Sources of Criminal Law|can't make criminal law]]
+- Unclear whether the use of the words "cause" and "permit" in the statute in question require *mens rea* or not
+- Fit better into strict liability (second option) than either of the others
+- Three elements of the charge (discharging, causing, or permitting pollution)
+- Discharging refers to direct pollution, while causing implies actively undertaking actions that result in pollution, and permitting implies a lack of efforts to the contrary
+- When referring to this last option, it means that liability can arise in cases where the defendant has the ability to stop the pollution but does not do so
+- Makes it harder to escape responsibility as a municipality, as you almost certainly have the capability to do this
+- Due diligence is determined based on the actions of leadership, not employees
+- Trial judge did not address the availability of the due diligence defence
+- Appeal dismissed, new trial ordered

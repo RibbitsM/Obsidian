@@ -1,0 +1,68 @@
+### [[R v City of Sault Ste Marie]]
+- Similar to the issue raised in *[[Tock v St John's]]*
+- Offence caused by a municipality, how do we determine *men rea*?
+- Defendant charged under the *Ontario Water Resources Commission Act*
+- Covers any person or municipality that discharges, deposits, or causes or permits the discharge/deposit of material into water that may harm the quality (s. 32(1))
+- Goal is to criminalize pollution, has a fairly significant max penalty of a $5000 fine or 1 year
+- If this was a full *mens rea* offence, Crown would need to establish intent or recklessness with regards to the discharge of material and the harm to the water
+- However, making this an absolute liability offence removes this burden from the Crown
+- Issue before the court is whether this is an absolute liability offence or not
+- Majority argues that this should not be a full *mens rea* offence, but the penalty is too severe to be considered an absolute liability offence
+- Suggests the existence of a third category of offences called "strict liability" offences
+- Different from the torts definition of strict liability, less than absolute liability
+- To prove a strict liability offence, the Crown needs to prove the *actus reus* as usual, but does not need to prove the *mens rea*, it is presumed by the existence of the *actus reus*
+- However, the accused gains access to the defence of due diligence, which is not available for absolute liability offences
+- This is proved on a balance of probabilities, and allows the accused to disprove negligence
+- Objective standard, not a subjective standard
+- Incorrect to state that there are no defences for an absolute liability offence, just rules out all defences related to *mens rea*
+### Classifying Offences
+- To determine the kind of offence, look at the language of the statute
+- Occasionally, there will be explicit language specifying that an offence is absolute liability
+- Also, look for language like "wilful" which suggests an element of *mens rea*
+- If you can't find anything there, then we result to distinguishing between "true crimes" and "public welfare offences"
+- True crimes are presumed to have a *mens rea* requirement
+- Any indictable offence or offence in the *Criminal Code* is a true crime
+- Have to be federal offences, and any offence carrying significant jail time is a true crime
+- Public welfare offences are usually found in provincial statutes, and deal with regulatory issues like public health and safety
+- May contain a penalty of imprisonment, but usually quite short
+- According to the precedent set by this case, we presume all public welfare offences to be strict liability offences
+- Doesn't mean all public welfare offences are strict liability, this is just a presumption and can be overridden by the presence of language suggesting *mens rea*
+- Examples of absolute liability offences are parking and speeding offences, done out of necessity
+- Defining an offence as an absolute liability offence usually involves looking at the penalty and considering the logistics
+- Does it have a low penalty, usually with no jail time? Is it a common offence that would be unreasonable to allow the defence of due diligence for?
+### [[R v Chapin]]
+- Regulations are passed by organizations given power by a statute, and are generally considered subservient to statutes
+- Regulation in this case was the *Migratory Birds Regulation* which was created under the *Migratory Birds Convention Act*
+- Violated s. 14(1) which prohibits hunting migratory birds within a 1/4 mile of deposited bait
+- Max penalty was a $300 fine or 6 months, as well as 1 year loss of permit and confiscation of the gun and other equipment used
+- No language in the provision suggesting it is a full *mens rea* offence, seems to be absolute or strict liability
+- Also probably not a true crime, it's a regulatory offence punishable on summary conviction
+- If there was a *mens rea* requirement, Crown would have had to prove that you were aware that you were within a 1/4 mile of deposited bait
+- Contrast this with another offence in the same statute which prohibits intentionally providing false information to a game officer, which implies a *mens rea* requirement
+- Also rejects the notion that this was an absolute liability offence, as the penalty is too strict
+- Requirement to avoid the offence is also unreasonable, can't expect hunters to always inspect a 1/4 mile radius around them for bait before hunting
+- Also notable to mention that the game officer that charged Chapin also almost didn't see the bait until they were almost stepping on it
+- Assuming this is a strict liability offence, to convict, the Crown just has to prove that Chapin was hunting migratory birds and was within a 1/4 mile of bait
+- To defend this charge, Chapin would have to prove that she reasonably believed there was no bait or that she took reasonable steps to ensure that fact
+- In the end, the Court determined that Chapin was hunting at a private club she often hunted at, and the club had a permit to bait but only did so when allowed
+- Pile of grain was small and difficult to spot, and there were no signs suggesting there was bait in the area
+- Didn't really amount to due diligence, but given Chapin's past experience, she reasonably believed there was no bait in the area
+- Decided that due diligence was proven, and the case was dismissed
+- SCC also made an unusual decision here by ordering that Chapin could apply to have her costs reimbursed which is almost never done in criminal law
+- In civil law, the winning party usually gets some of their costs covered but in criminal law you have to cover your own costs, even if you're not found guilty
+- The term "solicitor and client basis" means that all costs are covered as opposed to the usual "party to party basis"
+- Likely because the only real reason this went to the SCC was because the Crown was using it as a "test case" for the new precedent set by *Ste Marie*
+- Section 3(3) of the *Smoke-Free Ontario Act* specifies that it is a defence to a charge of selling tobacco to someone under 19 if you believe they were over 19 because they showed seemingly real ID
+- In the *R v Pourlotfali* case, a 17 yo test shopper provided their ID and the clerk misread it as saying they were 19
+- When it went to the Ontario Court of Appeal, the court argued that human error is not covered by due diligence
+- This was an honest belief that was unreasonable
+### Objective Fault
+- So far we have three kinds of offences, full *mens rea*, strict liability, and absolute liability
+- What lies between full *mens rea* and strict liability?
+- These are called objective fault offences, and they require the Crown to prove *actus reus* and *mens rea* BAR, but in this case the *mens rea* requirement is objective, not subjective
+- Burden is on the Crown to objectively prove negligence or some other MR requirement
+- How do we know what falls under objective fault?
+- Most obvious objective fault offences are those in sections 219-221 which are called "criminal negligence" offences
+- Is the standard for negligence here different from that in tort law?
+- Also, there are some criminal offences that look pretty regulatory, especially driving offences
+- Huge debate in the Supreme Court as to which circumstances we should evaluate *mens rea* subjectively or objectively

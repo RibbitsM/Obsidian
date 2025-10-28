@@ -1,0 +1,19 @@
+- Defendant (Thorne) operates a business called Speedit Delivery Service, and the co-defendant (G Thorne) was a driver for Speedit
+- Defendant received a call requesting pickup of 14 cartons for delivery to a business called Gas Machinery Co.
+- Business was located behind two houses, and had to be reached by a walkway between two houses opposite the plaintiff's (Turner) home
+- Also had a sign over top of the neighbours mailbox with the company name on it
+- Previously had been doing business in a garage and G Thorne had made deliveries there
+- When doing this delivery, he assumed the business was on Turner's property and knocked on the door, getting no answer as Turner and his wife were at work
+- Turner's garage was unlocked, so G Thorne unloaded the 14 cartons into the garage
+- When Turner came home, he walked into the garage and tripped over the boxes, sustaining severe injuries
+### Analysis
+- G Thorne is definitely liable for damages as he was trespassing
+- Established that trespasser can be held liable for damages caused by chattel placed in trespass on private property
+- Even though the trespass was accidental, liability applies anyway
+- Trespasser is liable for any harm to the landowner if the harm was caused either directly or indirectly by their trespass
+- Additionally, we have to consider if Thorne is vicariously liable for the actions of his employee
+- Even though Thorne didn't specifically tell G Thorne to go on Turner's property, may still be liable
+- However, the trespass did result from G Thorne carrying out the will of his employer, so Thorne is liable
+- G Thorne owed Turner a duty to not place the cartons on his property, and also not to place them in a way that could cause harm to Turner
+- Even though he was misled by the sign, Turner was not responsible for the sign and G Thorne could have easily found the correct location if he looked harder
+- Judgement for plaintiff, entitled to $9626 in damages, assessed by the jury

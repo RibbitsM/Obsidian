@@ -1,0 +1,40 @@
+- Issue is whether *mens rea* for dangerous driving is subjective
+- Appellant (Hundal) was driving a dump truck while overloaded on Nelson St towards the intersection with Cambie St
+- Victim was driving on Cambie St and was just starting off a green light when he was hit by Hundal's truck, killing him instantly
+- Hundal saw the light was yellow but he couldn't stop in time, so he honked and went through anyway, hitting the victim
+- Witnesses testified that Hundal entered the intersection when the light was red, and had been for almost a second
+- Victim almost got across the whole street before being hit
+- Trial judge found Hundal guilty
+- Appealed to the BCCA, but was dismissed
+- One judge dissented, stating that the Crown had not established subjective negligence
+- Therefore, issue goes to SCC
+- Section 233 regulates dangerous driving and criminalizes operating a motor vehicle in a way dangerous to the public considering all reasonable relevant circumstances
+- Law of driving offences in Canada is kind of a mess
+- Generally, appeal courts have used an objective standard for dangerous driving
+- This is what was done in *R v Beaudoin*
+- Hundal argues that he cannot be convicted without proof of subjective *mens rea*
+- SCC has previously held that imprisonment cannot be ordered without proof of *mens rea*
+- However, this can be proven through either a positive method like intent or reckless, or with proof of negligence, which is done on an objective basis
+- Not trying to establish what the accused knew, but what they should have known
+### Dangerous Driving
+- Driving can only be done with a license, which ensures that the driver is mentally and physically capable of driving and knows the standard of care required to drive
+- Therefore unnecessary for the court to establish that a licensed defendant doesn't understand the potential consequence of their driving
+- Driving is also often very automatic, meaning there is rarely any sort of conscious intent involved
+- The wording of s. 233 which deals with dangerous driving references a manner of driving dangerous to the public, considering all circumstances
+- Seems to imply a reasonable objective standard
+- Basis for dangerous driving is negligence, we are asking whether the accused exercised appropriate standard of care while driving
+- Dangerous driving and car accidents in general are huge issues that need to be addressed
+- Public policy thus encourages stricter standards for punishing driving offences
+- Objective test is not applied in a vacuum, it considers the events surrounding the incident
+- This is the type of test described in the dissenting opinion of [[R v Tutton]]
+- If the jury/court is satisfied that objectively speaking, Hundal was driving in a way dangerous to the public in consideration of all relevant circumstances, they should convict
+- Trial judge considered the traffic, weather conditions, and the condition of the truck, and concluded appropriately that Hundal was driving dangerously
+- Hundal did not offer and explanation excusing this conduct
+- Thus, appeal should be dismissed
+### Concurring Opinion
+- Although subjective tests require a greater degree of fault compared to an objective test, either would be sufficient for *mens rea*
+- Doesn't make sense to wholly reject objective tests, makes many actions generally considered criminal to be inaccessible by the law
+- Recall that under the modified objective test, the accused can still raise reasonable doubt that given all the circumstances, a reasonable person would not be aware of the risk
+- However, this does allow the circumstances to include beliefs held by the accused
+- Also moves to dismiss the appeal
+- Another concurring judge points out that *mens rea* in this case is different from criminal negligence, which they argue requires subjective *mens rea*

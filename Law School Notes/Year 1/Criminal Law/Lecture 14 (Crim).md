@@ -1,0 +1,75 @@
+- Section 222(1) of the *Criminal Code* defines homicide
+- This is not an offence on its own, but a definition that relates to the charges of murder, manslaughter, and infanticide
+- A person commits homicide when they cause the death of a human being whether directly or indirectly
+- Can be culpable or not culpable, the latter option is not an offence
+- Culpable homicide occurs when the accused causes the death of a human being by an unlawful act, by criminal negligence, by causing them by threat, fear, or deception to do something causing their death, or by wilfully frightening a child or sick person
+- 99% of cases fall under the first two options
+- Under s. 229, culpable homicide is murder when the accused means to cause death or mean to cause bodily harm that is likely to cause death and are reckless
+- Difference between murder and manslaughter is intent
+- Section 229 (b) deals with transferred intent, if the accused meets the definition of the above provisions but accidentally kills a different person, charge sticks
+- Then, next sections distinguish between first and second degree murder
+- Any culpable homicide that is not murder or infanticide is manslaughter
+### [[R v Lewis]]
+- Involves the murder of a newlywed couple in New West
+- Co-accused were Lewis and Tatlay, who was the bride's father
+- Married against his wishes, and was angry at her
+- Along with Lewis, he mailed a kettle rigged with explosives to the couples house, which exploded and killed the couple
+- Lewis and Tatlay worked together in a mine in Merritt, which is where they got the dynamite
+- Lewis was certified in handling explosives in the mine, and did not deny that he mailed the package but denied he knew it contained a bomb
+- Question is whether or not Tatlay hired Lewis to help build the bomb as well
+- Both co-accused are convicted, but Lewis appeals on the grounds that the trial judge failed to charge the jury to consider his lack of motive
+- Court rejects these grounds, arguing that the trial judge has no duty to instruct the jury on lack of motive
+- Justification for this was that motive is not a necessary component of *mens rea*
+- All they need to establish is that Lewis intended to send the package and that he likely knew that the package contained a bomb
+- A motive is certainly good evidence, but it is not needed for a conviction
+- In a similar vein, a lack of motive can also be pointed to as evidence for the defence
+- Again, this is not guaranteed to be conclusive
+- In the case, neither counsel made a request to the judge to instruct on motive
+- Some offences in the *Criminal Code* do require a motive, for example the *actus reus* of invitation to sexual touching (s. 152) is just touching someone under the age of 16
+- Without the motive of sexual purpose, this is not a crime
+- Outside of these cases, motive is not an element of an offence
+- Doesn't matter if we know why someone committed murder, as long as they did it, we can convict them
+- Outside of intent, sometimes motive can be relevant for proving who committed a certain offence if that fact is unclear
+- In some cases, motive is also an essential part of the case where it may be the deciding factor between proving an offence BAR
+### [[R v Gordon]]
+- Recall that s. 229 which deals with murder includes a transferred intent provision under s. 229(b)
+- If you try to shoot someone and you accidentally shoot the person standing next to them, you're still guilty of murder
+- However, what if we consider a different kind of case where the consequences are less severe
+- Say you want to hit your bosses car with a hammer but you mistakenly hit someone else's car that looks very similar
+- Transferred intent still applies here
+- But, say you try to hit your bosses car with the hammer and miss, hitting him in the leg as he walks by
+- Since the kind of harm changed, transferred intent does not apply here
+- Case in question deals with attempted murder
+- *Actus reus* for attempted murder is an act beyond mere preparation, and the *mens rea* requires intent to kill
+- Issue is whether the doctrine of transferred intent applies to attempted murder
+- Gordon and his friends are trying to buy weed, and approach a man named Thompson to offer him $90 for an ounce
+- Thompson considers this a "lowball" and punches Gordon's friend in the face
+- Gordon and his friends scatter, and soon after Gordon comes back with a sawed off and fires at Thompson, who is standing in a small crowd
+- Thompson escapes unharmed, but three other people are seriously injured
+- Gordon is charged on four counts of attempted murder, three counts aggravated assault, and two firearm offences
+- The three counts of attempted murder on the bystanders are established based on transferred intent
+- Main rationale for charging attempted murder was because he injured those three bystanders
+- However, attempted murder does not require injury, just an act beyond preparation
+- This is an inchoate offence, meaning it is not fully formed
+- Based on this logic, Gordon could be charged for the attempted murder of anyone he could have theoretically hit outside the cafe, why stop at those who were injured?
+- Charge of attempted murder on Thompson is pretty well established, so there is no real need to transfer that intent to the bystanders as well
+- Even though Gordon didn't hit him, he still met the elements of the offence
+- Also, even when we drop the charges of attempted murder on the bystanders, we can still establish the elements of aggravated assault
+- Lesser offence, but still encapsulates the act being committed here
+- In the ruling, the judge implies that transferred intent only applies to murder
+- Calls culpable homicide offences *sui generis*, suggesting that transferred intent is reserved only for these offences when arguing that it doesn't apply to attempted murder
+### Example Problem
+- Accused (Blondin) was returning from a trip to Japan, and went to collect some scuba diving equipment he had shipped from Japan
+- Scuba tank was suspiciously heavy, and Blondin went with a customs official and an RCMP constable to open it
+- Took it to the UBC Aquatic Shop, where it was opened and revealed that the tank had been cut in half and resealed
+- Inside the tank was 23 lbs of hash, and upon realizing this, the RCMP constable identified himself
+- Blondin stated that he knew that there was something illegal in the tank and he had been paid to smuggle it into Canada, but he did not know that it was a narcotic
+- Blondin was charged with importing a narcotic into Canada
+- To charge him with this offence, what *mens rea* does the Crown have to prove?
+- I would say they have to prove that Blondin knew or suspected that the tanks contained a narcotic
+- Since Blondin suspected that the tanks contained something illegal, we can argue that he was wilfully blind by not checking what it was
+- Crown does not have to prove that Blondin thought it was hash specifically, enough to prove that he suspected it was a narcotic
+- However, it's not enough that Blondin suspected that the tank contained something illegal
+- There are a lot of things that are illegal to bring into Canada, but aren't punishable as a crime
+- Blondin would still be punishable under s. 159(1) of the *Customs Act*
+- Hybrid offence with a max punishment of $500,000 or five years in prison or both

@@ -1,0 +1,57 @@
+- The accused (Beatty) was driving and suddenly for no apparent reason crossed the dividing line and collided head on with an oncoming car, killing its three occupants
+- Trial judge decided that this momentary lapse is not considered a "marked departure" under the test set out by [[R v Hundal]]
+- BCCA viewed the conduct as objectively dangerous, and questioned whether Beatty had raised a reasonable doubt whether a similar person would have considered the conduct risky
+- Beatty appealed to the SCC, arguing that the appeal court created a presumption that any driver causing an accident negligently will be charged if they don't provide an explanation
+- Argues that this places the onus of proof on the accused
+- Crown argues that the length of the lapse is irrelevant, and the trial judge erred
+- Because of the high risk of danger created by the conduct, the length of time doesn't matter and a reasonable person would still seen a risk
+- Moral blameworthiness is relevant in sentencing, but not in determining guilt
+- But unlike civil negligence, criminal negligence should only punish blameworthy conduct
+- Modified objective test is the standard for *mens rea* in criminal negligence, which is slightly more strict than the civil objective test
+- This test considers the mental states of the driver as a legitimate factor
+- Argues that the appeal court failed to determine if the *actus reus* had been established and erred by placing the burden of *mens rea* on Beatty
+- On the other hand, the trial judge made no error
+- Therefore, the appeal should be allowed and Beatty should be acquitted
+- Witnesses attested that Beatty was driving properly right up until the accident and the crossing of thee line was almost instantaneous, couldn't have been predicted at all
+- Beatty's car was in perfect working order and he was not intoxicated
+- Beatty appeared stunned after the incident, and claimed to have fallen unconscious
+- He had been working in the sun all day and believed heat stroke may have played a part
+- Trial judge argued that Beatty showed no evidence of improper driving, and the act of negligence lasted but a few seconds
+- Concluded that he likely lost awareness right before entering a curve and failed to turn, driving into oncoming traffic
+- Argues that while he may not be criminally negligent, can still be held accountable in civil court
+### Analysis
+- Indisputable that Beatty's actions were below the reasonable standard of care, and meet the civil definition of negligence
+- Issue is whether it constitutes criminal negligence
+- Dangerous driving is based on negligence, defined by failing to meet the standard of care reasonably expected of a driver
+- However, not all negligent driving is dangerous driving, need to establish criminal negligence
+- This is the purpose of the modified objective test
+- Before the Charter, there were no restrictions on criminal offences apart from the scope of criminal law established by the 1867 *Constitution Act*
+- However, the Charter created requirements for *mens rea*
+- The modified objective test was created to resolve the tension between criminal negligence requiring objective or subjective *mens rea*
+- *Hundal* demonstrated that *mens rea* can only be established by a "marked departure" from the standard of care
+- While acting thoughtlessly while driving may seem objectively risky, in reality it is pretty common, as was pointed out in *Hundal*
+- Objective test also allows for exculpatory defences
+- Underlying premise of an objective test is that it is no excuse that the driver was not thinking while engaging in objectively dangerous conduct
+- However, since this is a criminal case, we should also give the accused the benefit of the doubt
+- Debate over whether to include personal characteristics in the modified objective test
+- Reasonable person may not have the same characteristics of the accused, but will be put in the same circumstances
+- Original version of the test has some confusing aspects
+- Also no clear precedent on whether mental states should be considered
+- Modified objective test requires an objective assessment of the accused's driving, while taking into account evidence of the accused's state of mind as a factor for determining *mens rea*
+- The *actus reus* of dangerous driving required the accused to dive in a manner dangerous to the public in consideration of all relevant circumstances
+- The *mens rea* requires that the accused's conduct constituted a marked departure from the reasonable standard of care in light of all relevant evidence including state of mind
+- If the accused gives an excuse, a reasonable person in a similar circumstance must be aware of the risk involved in the conduct to convict
+- Recall that not all negligent driving is dangerous driving for the *actus reus*
+- What determines danger is not the consequences, but the manner of driving
+- Subjective *mens rea* is not required for this offence, all we need is an objective determination of a marked departure from the normal standard
+- Conduct lasting for only a few seconds can constitute a marked departure
+### Application
+- First question is whether the *actus reus* has been met
+- Viewed objectively, driving into oncoming traffic at 90 kph on a curve is dangerous
+- Also, there was no argument made that Beatty was acting automatically
+- Real question is the *mens rea*
+- Trial judge did not err in her analysis, Beatty's manner of driving was appropriate until immediately before the incident
+- Correctly concluded that the only reasonable explanation is Beatty losing awareness
+- Based on this fact, appeal should be restored and Beatty should be acquitted
+- Concurring judges argued that the "marked departure" requirement is part of the *actus reus*, not the *mens rea*
+- Another judge states that the fault element is actually that a reasonable driver would have acted to avoid the dangerous conduct, not a marked departure

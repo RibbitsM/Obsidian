@@ -1,0 +1,55 @@
+- Just as for all other intentional torts, intention is a key element of false imprisonment
+- Fairly straightforward when it comes to threats and physical confinement, but can be more complicated for cases where psychological coercion is used
+- Must be total restraint, cannot be any way for the plaintiff to leave
+- False imprisonment often also comes with assault and battery
+- As mentioned before, there are three main methods of false imprisonment
+- Can use threats of force, physical imprisonment, or psychological coercion
+- Latter usually occurs when a person with statutory power acts in a way that suggests that the plaintiff cannot legally leave the scene
+- Examples of these are police interrogations, especially police stops or shoplifting inquiries
+- Can also include citizens arrest, but often relates to security or police personnel
+- Also usually an implicit element of threat, security personnel and police carry weapons
+- This is a well-founded fear, we have many examples of racialized people attempting to exercise their right to free movement and being killed
+- Needs to be a balancing act, right to movement must be weighted against the rights of law enforcement to address suspicious situations
+### Intention and Psychological Coercion
+- Recall that in Torts, we do not need to establish legal causation, just factual causation
+- This is an objective standard, viewed from an outside perspective
+- As long as the defendant knows they are keeping the plaintiff there, intention established
+- Even if they don't consciously intend to detain you, focus on the effect created
+### Directness
+- The imprisonment must be a direct result of the actions of the defendant
+- Has to personally detain the plaintiff or be personally responsible for it
+- Latter half means that orders to detain can still result in responsibility
+- Extends to cases where plaintiff is detained by a bodyguard or even a dog
+- Question arises whether a citizen providing information leads to an arrest
+- However, since the police do not have a duty to act on this information, the citizen will not be liable for false imprisonment, the police will be liable
+### Cases of Agreement
+- Relates to issues where there is an implied duty to stay in a certain place
+- For example, when the plane is on the tarmac and hasn't left yet, but you want to get off
+- Does an agreement to remain in a location for a given period with a condition that needs to be fulfilled before leaving constitute false imprisonment?
+- If the condition is "reasonable", then the plaintiff does not have cause of action
+### Case Study
+- In a case where the plaintiff (Berends) gets on an express bus with no stops and asked to get off, when the driver refuses and later sues Berends for assault, counterclaim for FI fails
+- There was no overriding circumstance justifying Berends' request to get off the bus, therefore the condition was considered reasonable and there was no false imprisonment
+## Malicious Prosecution
+- A police officer arrests a person, charges them with an offence, goes to trial, and nothing happens as the person is found not guilty or case is discharged
+- That person comes back and sues the officer for malicious prosecution
+- Defendant in the criminal case becomes the plaintiff in the civil case, and police officer becomes the defendant
+- Argument is that the charge was unjustified and resulted in damage to liberty, free time, reputation, and peace of mind
+- Four requirements
+- Defendant must have initiated proceedings against the plaintiff
+- To determine this, must determine if the defendant did everything possible to initiate criminal proceedings against the plaintiff
+- Proceedings must end in plaintiff's favour
+- Even applies in cases where case is concluded based on procedural issues
+- However, this does not apply if the plaintiff had a charge dropped as part of a plea bargain
+- Plaintiff must prove that there was no reasonable/probable cause for the proceedings
+- Defendant does not have to have an honest belief of the plaintiff's guilt, or be convinced BAR of the guilt
+- Only need to believe that the guilt can be established in court
+- Ties into the fourth element, lack of honest belief of guilt can also be used as evidence of malice
+- Must also prove that the defendant's actions were motivated by malice
+- Mainly refers to having an ulterior motive for prosecution as opposed to bringing them to justice
+- Intentional effort on the part of the Crown to abuse its role in the criminal justice system
+- If the defendant can show honest belief in the existence of reasonable/probable grounds, can exonerate them from claims of knowledge
+- Finally, need to demonstrate damages
+- Can include income loss, damage to reputation, loss of liberty, mental suffering, etc.
+- Pretty easy to establish, especially if the accused is imprisoned or had to pay for legal fees
+- Defendants in these cases are usually police officers, but can also be false claimants for cases like sexual assault where there is significant effort by a citizen to ensure an arrest

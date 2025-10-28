@@ -1,0 +1,39 @@
+- Besides full *mens rea* and strict/absolute liability, there is one more category
+- Called crimes of objective fault, require Crown to prove *mens rea* objectively
+- Example of a clear objective fault offence is careless use of a firearm (s. 86)
+- Also described as criminal negligence cases
+- Appeal case before the Supreme Court, defendants are Carol and Arthur Tutton, convicted of manslaughter for the death of their five-year-old son Christopher
+- Crown appealed to the SCC
+- Tuttons were well known as loving and responsible parents who were both deeply religious
+- Believed that divine intervention could cure illnesses better than medical science
+- However, their faith had no elements prohibiting the use of modern medicine
+- Christopher was diagnosed with diabetes, and while he was in thee hospital Carol took lessons on diabetes and how to take care of him
+- Tuttons sought to find a spiritual cure for the condition
+- About a year after the diagnosis, Carol stopped giving Christopher insulin because she believed he would be divinely healed
+- He was rushed to the hospital two days later and almost died
+- Doctor told the Tuttons that the insulin was essential for Christopher and warned against doing this again
+- Happened again a year later after Carol had a vision from God telling her to do so
+- Christopher died three days later, Tuttons were charged with manslaughter
+- Reasoning for the charge was because they failed to give insulin to Christopher or get him medical assistance
+- By doing so they were breaching their legal duty to provide necessaries of life to their child as parents
+- This was a violation of s. 202(1) which defined criminal negligence
+- Defence was that the Tuttons honestly believed that Christopher was cured and no longer needed insulin
+- They were actually being charged with both manslaughter and criminal negligence
+- But in order to prove manslaughter, need to also prove criminal negligence
+- Jury was told they have to first establish the conditions for criminal negligence, which are that the Tuttons had a duty to provide necessaries of life to their son, and they failed to do so
+- Then, if this is met and the jury finds that by doing so, the Tuttons acted with a wanton and reckless disregard for Christopher's safety, manslaughter is established
+- If only the first requirement is met, can still convict on criminal negligence
+- There is an objective test for determining wanton or reckless disregard
+- However, the judge at the Appeal Court believed that if the act is an omission, a subjective test should be used instead
+- SCC rejects this line of reasoning
+- The entire point of negligence is to serve as an objective measure for actions
+- Therefore, Court of Appeal erred by applying a subjective test
+- Makes reference to the definition of recklessness in [[Sansregret v The Queen]]
+- Different situation, not applicable here
+- Especially important to have an objective test when the defendant is using the defence of mistake of fact
+- Honesty of a belief will be considered when evaluating its reasonableness, but is not conclusive
+- Appeal dismissed
+### Concurring Opinion
+- Agrees with the exception that when applying criminal negligence, need to consider factors specific to the accused?
+- Believes that the definition of criminal negligence in s. 202 applies to the whole *Code*
+- SCC hasn't explicitly upheld this decision, but seems to mostly agree with it

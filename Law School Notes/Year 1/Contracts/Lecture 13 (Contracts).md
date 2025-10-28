@@ -1,0 +1,82 @@
+- Recall that very few contracts actually have to be in writing
+- More advantageous to have any agreement in writing if a dispute goes to court
+- Most contracts required to be in writing come from consumer protection legislation
+### Incorporation
+- Process of one party in a lawsuit relying on some material exchanged as being part of a binding agreement
+- Usually applies in limitation of liability cases
+- Two different options, whether the document was signed or not
+- Recall that we already covered unsigned cases with *[[Lecture 12 (Contracts)|Parker]]*
+- Basic principals of that case are that if there is evidence the customer is aware of the terms, you will be bound
+- If you don't read the terms, depending on the context may be able to assume that you should be aware of the terms
+- In cases like these, the issuer of the document usually has to give notice of the presence of relevant terms and conditions
+- Notice varies, a sign will be held to be more significant than some small print
+- Cases usually hinge on the provision of notice
+- As a plaintiff, you will be pretty hard pressed to not be bound by a signed document
+- Signatures are proof of agreement even if you didn't read the document, absence the presence of fraud
+- However, this is not an absolute rule
+- For example, some particularly harsh terms require notice
+- In *Tilden Rent-A-Car Company v Clendenning*, the company could not rely on a limitation of liability clause signed by the customer
+- This was because they failed to draw notice to a particularly onerous limitation of liability clause that precluded all liability
+- Another example of this is in *Delaney v Cascade River Holidays* where the plaintiff protested against a limitation of liability clause after a relative died while rafting
+- Defendant argued that the type of activity suggested that such a clause would be included, and court upheld this reasoning
+- However, a dissenting judge argued it was particularly harsh
+- Where a party relying on a signed document is faced with evidence that the clause was misrepresented, may not be able to rely on that document
+### Parol Evidence Rule
+- In cases where you have established there is a complete-looking contract, but one of the parties points to an oral agreement made during negotiation
+- Want to include that agreement in the final contract
+- Traditionally, very similar to incorporation except with oral agreements, not written agreements
+- Nowadays, parol evidence rule is also applied to cases where a written document is being included as well
+- In some of these cases there is a clear agreement that the written contract is the exclusive source of the agreement
+- Specified by something called an "entire agreement clause" which excludes any other source
+- Makes it almost impossible to include agreements outside the contract
+- Also, if both parties intend to include oral and written aspects, makes it easier to wrap it all up together
+- Mainly arise when one party wants to rely on the written agreement, and another party wants to include an outside source
+- The latter party has to surpass the PER which prevents the inclusion of outside sources that are inconsistent with the written agreement
+- Applies to all forms of prior communication between the parties, including oral promises and documents like emails
+- Most incorporation cases deal with limitation of liability, but most PER cases are more connected to promises made not in writing
+- Technically serves as a rule for excluding evidence at trial, but effectively functions as a rule in contracts
+- This rule has suffered a lot of criticism, and many jurisdictions have abolished it entirely
+- Recently, the Supreme Court stated in *Sattva* that the parol evidence rule excludes admission of evidence outside a written contract that would add from, alter, or remove from the written agreement
+- Serves the purpose of preserving written agreements from fraudulent claims
+- However, it does not preclude evidence related to the circumstances of the contract or evidence that can be used to interpret the contract
+- *Hawrish v Bank of Montreal* was a case where the defendant signed a guarantee on a bank form ensuring the indebtedness of a new company
+- This is a common theme, many PER cases come from guarantor cases
+- Bank gave him an oral assurance that he would be released once the new directors of the company guaranteed the debt
+- When the new company went bankrupt, bank tried to enforce the guarantee
+- Court held that the bank's oral promise was inconsistent with the written document, and ruled in the bank's favour
+- This was because the written agreement suggested that the guarantor agreement was ongoing
+- Also, in the written agreement was something like an entire agreement clause
+- SCC came to the same conclusion in another similar case called *Bauer v Bank of Montreal*
+- In a more modern case called *Fung v Decca Homes*, the plaintiff overpaid the defendant for a construction contract, and the parties made a contract to repay the full amount
+- Fung tried to enforce the contract, but no payment was forthcoming so he took it to court
+- Initial judge ruled in favour of Fung, but Decca appealed arguing that there was an oral agreement that modified the terms of the written agreement
+- Applying *Hawrish*, the court of appeals upheld the initial judgement
+- Even if there was an oral agreement, because of the PER, written agreement takes priority
+### Exceptions
+- One notable thing about the PER is that there is a long list of exceptions to the rule
+- In the *Gallen v Butterley* case, the BCCA lists the exceptions to the PER
+- Exceptions are as follows:
+- Waived to show that a contract is invalid due to fraud, misrepresentation, etc.
+- Waived to dispel ambiguities, or establish a fact or customary term
+- Waived in support of a rectification claim
+- Waived to establish a condition for an agreement
+- Waived to establish a collateral agreement
+- Waived in support of an allegation that the contract is not the whole agreement
+- Waived in support of a claim for an equitable remedy
+- Waived in support of a claim that there was a breach of duty of care
+- Mainly deals with vitiating factors, or gathering evidence that is important for evaluating the contract itself
+- List is commonly cited in PER cases
+- The case itself is also helpful, case was about the purchase of buckwheat seeds with an agreement excluding liability for the quality of the seeds
+- Entered into the agreement based on an oral promise that the crop would help smother weeds
+- Judge explained that the PER is strongest when the oral promise contradicts the written agreement
+- Where the oral agreement just supplements, the courts will be more permissive
+- Also stronger where the parties negotiate the agreement as opposed to a standard form
+- Weaker when the oral promise is specific and goes contrary to a general written clause, suggesting that the oral promise is an exception to a general rule
+- In this case, the oral promise was seen as an exception to the general protection from liability clause
+- Another relevant case is *King v Operating Engineers Training*
+- In this case, the court stated that where a contract is in writing outside evidence cannot affect the parties written agreements
+- However, this is subject to all the exceptions in *Gallen*
+- First goal of the judge is to find the terms of the agreement, and whether those terms are in oral agreement, writing, or both
+- Goal is to find the full extent of the agreement, which may extend beyond the written document
+- If this is found to be restricted to the written document, then you can apply the parol evidence rule
+- If not, then ignore it

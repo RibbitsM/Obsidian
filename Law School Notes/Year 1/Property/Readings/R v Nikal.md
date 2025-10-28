@@ -1,0 +1,39 @@
+- Appellant is a Wet'suwet'en Indian charged with fishing without a license for catching salmon on the Bulkley River inside the Moricetown Reserve
+- Charged under s. 4(1) of the *British Columbia Fishery Regulations* which includes a provision allowing status Indians a free permit to fish for salmon any way they prefer
+- Appellant argued that the permit scheme did not apply to him due to s. 35(1)
+- At the point of the river that flows through the Moricetown reserve, the primary law is that of the Moricetown Indian band
+- Court concluded that the intent of the Crown was not to give the band an exclusive fishery
+- Issue is whether the Bulkley River is part of the Moricetown reserve
+- Appellant argues that regardless of whether the Crown intended to reserve a fishery for the Moricetown Reserve, the fishery would only apply to navigable waters
+- Non-navigable waters like the Bulkley River are governed by *ad medium filum aquae*
+- This maxim means that ownership of a non-tidal river is divided down the middle
+- Since the reserve covers both sides of the river, the whole thing is part of the reserve
+- However, this doctrine does not apply for three reasons
+- First, the Bulkley river is navigable above and below the Moricetown region and therefore should not be considered non-navigable
+- Second, when the reserve was created, common law established that fishery rights are separate from river rights
+- Third, even if the doctrine did apply, it would be rebutted as the Crown never intended to grant the river to the band
+- The maxim mentioned earlier comes from English common law and may not apply to rivers in Canada
+- In Canada, it is generally understood that private rights to navigable waters are subject to public rights to those waters
+- Also, the *Flewelling v Johnston* case held that the maxim does not apply in Canada due to 'local circumstances'
+- While this was an Alberta case, we can apply it to BC
+- Further reinforced by a Supreme Court case that affirmed the decision made in *Flewelling*
+### Test for Navigability
+- Navigability is determined by assessing the length of a river from mouth to where navigability ceases
+- Compared this to another case called *Keewatin Power Co v Kenora* covering the Winnipeg River
+- In that case, the judge determined that short non-navigable portions of a river should still be public as long as there is a navigable portion on the other side
+- Especially true if the interruption can be remedied with public infrastructure like a canal
+- Based on this evidence, the Bulkley River is navigable considering it's navigable above and below the Moricetown Canyon
+- Therefore, the reserve does not include the Bulkley River
+### Fishery Rights
+- Recall that earlier we mentioned that common law grants rivers separately from fishery rights
+- Based on the Latin maxim, each landowner next to a non-navigable river would have fishing rights on their side of the river
+- However, fishing rights are not inherent to the river and can be severed and granted to another
+- Any grants adjacent to rivers should be seen as excluding fishery rights
+- The fact that the Crown retained the fishery implies that the riverbed was also owned by the Crown?
+- Seems like a contradictory argument
+- Presumption is not that granting the shore to the band also granted fishery rights, the Crown intended to keep those rights
+- The Crown cannot grant an exclusive fishery to anyone, so it would follow that they wouldn't grant one to the band
+- The test for navigability considers the entire river, and since the Bulkley River is navigable above and below the Moricetown Canyon, it is navigable
+- *Ad medium filum aquae* does not apply because the river is navigable, and fishing is a separate grant from land
+- Therefore, band by-laws do not apply to the river
+- Finally, fishing licenses do go against s, 35, so the appellant should be acquitted of the charge since it infringed his aboriginal rights
