@@ -1,0 +1,33 @@
+- Defences to trespass or other intentional torts are brought after the plaintiff has already established the elements of the tort
+- Most defences for intentional torts/trespass are complete defences, meaning the defendant loses all liability
+### Consent
+- A simple one is the defence of consent, which is a complete defence and is proven if the plaintiff consented to the act that the case is based on
+- Similar to another defence called *Volenti non fit injuria* where the defendant must establish that the plaintiff accepted the risk of injury
+- Difference is between consenting to the act, or accepting the possible outcomes of the act
+- According to [[Norberg v Wynrib]], the key elements of consent are that it must be genuine and not obtained by force/threat of force or under the influence
+- Can also be vitiated by evidence of fraud or deceit on the defendant's part
+- At common law, there is not clear age of consent
+- For example, *Gillick v West Norfolk* established that minors can consent to medical treatment without parental approval, if they can prove they fully understand the implications
+- Also, we know that consent can also be vitiated by the presence of an exploitative or unequal relationship
+### [[Norberg v Wynrib]]
+- Female patient (Norberg) brought action for sexual battery against her doctor (Wynrib)
+- Norberg was addicted to painkillers, and Wynrib provided them to her in exchange for sexual favours
+- Trial and appeal courts determined that her addiction did not interfere with her ability to consent, overturned by SCC
+- Majority pointed to the presence of inequality between the parties and proof of an exploitation of that inequality as the vitiating factor
+- Consent can be express or implied, in some cases failure to protest or resist can be considered consent
+- Previously talked about how there is an element of [[Babiuk v Trann|implied consent in contact sports]]
+- Of course, this can still be disrupted by contact outside of what is allowed under the rules of the game
+### Medical Consent
+- Basic rule is that any treatment without consent that involves interference with the body of the patient is battery
+- To get consent, the doctor must ensure that the patient understands their understanding of the treatment and how it applies to their particular circumstances
+- Patients always have a right to refuse or discontinue treatment
+- Only exception is in emergency cases, which we covered in [[Malette v Shulman]]
+- Doctors have a duty to preserve the lives of their patients, therefore there is some protection against liability in these circumstances
+- Also applies to private citizens, this is what Good Samaritan laws do
+- Liability can still apply if there is some kind of disrupting factor like an advanced directive, this is what happened in *Malette v Shulman*
+- It has also been establishes that **capacity** can determine right to accept or refuse treatment
+- Generally accepted that minors can make their own decisions regarding medical treatment
+- Conditional on their understanding of the treatment, called the "Mature Minor Rule"
+- Also enshrined in statute, s. 29 of the *Child, Family and Community Service Act* establishes this as well
+- The state has a right to override consent, the same section also establishes that the state can enforce treatment not consented to
+- Only able to do this if at least 2 medical professionals agree the treatment is necessary to prevent serious injury or death of a child

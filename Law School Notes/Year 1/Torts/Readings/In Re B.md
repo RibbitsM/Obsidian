@@ -1,0 +1,27 @@
+- Appeal from a case concerning a 17 yo girl whose mother sought to have her medically sterilized
+- Mother petitioned the court to consent to the operation, but the girl protested and the matter went to court
+- Trial judge concluded that consent should be given, and the appeal attempt was dismissed
+- Case finally went to the House of Lords
+- Girl is the second of three children and was mentally disabled, epileptic, and prone to violent outbursts
+- Has been living under institutional care since the age of four
+- Likely that she will remain institutionalized for the foreseeable future
+- Described has having a capacity for understanding speech similar to that of a 6 year old, and a speech capacity similar to a 2 year old
+- Unlikely that her mental capacity will improve with age
+- Also suffers from obesity and takes several drugs to help control her irregular periods and manage her epilepsy
+- Began making sexual advances towards male staff members in her facility, prompting the mothers application for sterilization
+- In the future she will likely be granted a much higher degree of freedom, significantly increasing the risk of pregnancy
+- Very unlikely she will be able to form long-term relationships, and has displayed no maternal tendencies and generally dislikes small children
+- Almost certain that any child she gives birth to will have to be adopted or put in foster care
+- Unlikely she can be taught about the link between sex and pregnancy, same with contraception
+- If she did become pregnant, an abortion would be difficult as her obesity and irregular periods means the pregnancy would be very hard to detect early on
+- Also, it's extremely likely she would be highly distressed by being pregnant, and would have to be heavily sedated to give birth, and a C-section would likely be needed
+- However, given her tendency to aggravate and re-open wounds, healing the surgery scar would be very difficult
+- Given all this information, some form of contraception is recommended
+- The best option here is a hysterectomy, which the girl cannot effectively consent to
+- Mechanical methods require conscious use, and chemical methods would interfere with her anti-convulsants
+- Only other feasible option are progesterone pills, which have a number of significant disadvantages
+- Court consulted two detailed reports from a child psychiatrist and a gynecologist
+- Also pointed out that the right to reproduce is only valuable if there is the accompanying capacity to choose to reproduce
+- Mentions [[E (Mrs) v Eve]], arguing that in this case, sterilization is in the best interests of the girl
+- Another judge also added that he disagrees with La Forest's statement in *Eve* that non-therapeutic sterilization is never justified
+- Points to the argument that reproductive freedom requires an ability to make decisions

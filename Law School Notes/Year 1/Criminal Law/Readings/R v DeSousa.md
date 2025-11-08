@@ -1,0 +1,49 @@
+- Given the precedent of [[R v Martineau]], future challenges under s. 7 emerged for other offences
+- Accused was charged with unlawfully causing bodily harm under s, 269
+- Argued that the offence was contrary to s. 7, trial judge argued it could apply to all absolute liability offences
+- Defendant (DeSousa) got into a fight resulting in a bystander being injured by a bottle thrown by DeSousa which shattered against a wall, hitting the victim with fragments
+- Argued that s. 269 allowed imprisonment without moral culpability
+- Issues are whether s. 269 is a violation, and whether it can be saved under s. 1
+- *Criminal Code* defines bodily harm as any injury interfering with health or comfort, and anyone who unlawfully causes bodily harm can be imprisoned for up to ten years
+- Trial judge held that "unlawful" means a violation of any provincial or federal statute, including absolute liability offences
+- Creates a potential for imprisonment with absolute liability
+- Appeal court argued that s. 269 could be interpreted to not violate the Charter, and pointed to several offences with no clear *mens rea* which were interpreted to not violate the Charter
+### Analysis
+- Section 269 requires a predicate offence, which must have a causal connection with the bodily harm created
+- Most general approach is to allow the predicate to be any provincial or federal offence
+- Clearly established that there should be no liability without fault
+- Presumption in interpretation that an offence does not lack a fault element
+- Section 269 has two elements, the fault for the underlying offence, and the fault for the offence itself
+- Court argues that prosecution under s. 269 where the underlying offence has absolute liability should be banned
+- Absolute liability has no place in criminal law, and should not be allowed a path in
+- Additionally, the mental element of the underlying offence needs to be constitutionally valid as well
+- The word "unlawful" is also up for interpretation here
+- Most existing precedent is for manslaughter caused by unlawful act
+- English common law holds that this offence requires proof that the underlying offence was likely to cause injury
+- Pretty clearly does not include all potential unlawful acts
+- Slightly challenged by a portion of *R v Smithers* where Chief Justice Dickson mentions that some unlawful acts that are not dangerous can cause culpable homicide
+- This was a side comment, not fully addressed in *Smithers* which was an intentional homicide
+- In another Canadian case (*R v Tennant*), the court embraced a version similar to the English interpretation
+- Appears that the common approach is to require that an "unlawful" act at least carries some element of danger with it
+- Among all of these potential unlawful acts, all require objective foresight of bodily harm
+- Thus no matter the underlying offence, objective foresight will be required
+- Not all elements of the criminal law are inherently dangerous
+- This forms the second aspect of the mental element of the offence
+- Likely that this would mean that s. 269 is constitutional, as it is unlikely that it would fall into the category of offences that require subjective *mens rea* because they have significant stigma
+- Unless the Charter requires subjective intention of consequences, this meets its requirements
+- Arguable that this is true based on the precedent of the SCC
+- Court argues that this is likely false, and based on misinterpretation of previous decisions
+- In most cases, there was no intention to create a general principle, but to just point out specific offences that should require intention
+- Assuming there is an element in the *actus reus* that is already blameworthy, there is no need to establish moral culpability
+- Recall the argument made in [[R v Martineau]] that if one wishes to deter from causing bodily harm, you should punish people for causing the bodily harm itself
+- Punish the conduct you want to reduce, regardless of intention
+- Also are a couple cases where the court held that intention was not required for a number of consequences
+- No reason why Parliament can't make assault causing bodily harm more severe than assault, even if they have the same *mens rea* but different *actus reus*
+- Requiring intention for this offence would require many other offences to be changed as well
+- Normal to have punishments increased based on the consequences
+- General principle that mental elements only apply to underlying offences, not aggravating circumstances
+- Multiple sexual assault cases have held that the assault requires intention, but not any aggravating circumstances like bodily harm or death
+- Overall, the proper interpretation of s. 269 is that "unlawful" includes all provincial and federal offences except those that have absolute liability
+- Also require the underlying offence to be objectively dangerous
+- In this form, the offence complies with the Charter, there is no violation
+- Appeal dismissed

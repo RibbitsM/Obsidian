@@ -1,0 +1,28 @@
+- Defendant (Zora) was charged with drug offences and released on bail on the condition that he obey curfew and arrive at the front door of his house within five minutes of an officer/bail supervisor arriving
+- Twice, an officer/supervisor knocked at his door with no answer
+- Charged with two counts of breaching bail conditions, but claimed he had been sleeping in a part of the house where he couldn't hear the knocking
+- After these events, he started sleeping near the door and was available for all future check-ups
+- Trial judge applied what was effectively an objective fault standard to the offence
+- Appealed to the BCCA on the grounds that the trial judge erred by doing this, and the court agreed it was an objective fault offence with one dissent
+- Matter went to the SCC
+### Analysis
+- You can be charged with breaching bail conditions even if you weren't convicted on the initial charge
+- Usually, bail conditions will prohibit actions that are usually completely legal
+- Issue is whether the *mens rea* in this case is objective or subjective
+- Relevant section is s. 145(3)
+- This section establishes that the accused must breach their bail conditions knowingly and recklessly, and nothing in the section displaces the presumption of subjective fault
+- Also supported by previous decisions in bail cases, as well as the purpose of conditional bails
+- First time the SCC has had to consider *mens rea* for this offence
+- About half the provinces use subjective, BC uses objective, and the rest vary
+- References the presumption of subjective fault raised in [[R v ADH]]
+- Wording in s. 145(3) does not use any language indicating either subjective or objective *mens rea*
+- Therefore, the presumption is not displaced and we can assume that Parliament intended s. 145(3) to be a subjective fault offence
+- Court of Appeal argued that the offence implies an obligation to meet an objective standard of conduct, and compared it to duty-based offences like failing to provide necessaries of life
+- Points out that legal duties impose positive obligations, and mainly exist in relationships between a more powerful party and a weaker party
+- Not only are bail conditions not comparable to these examples, there's also not a similar risk to public safety if the standard is not met
+- Another important aspect of duty based offences is that the standards involved would be meaningless if allowed to be subjectively interpreted
+- Bail orders are not a broad standard of conduct, they are specific, individual, and often leave very little room for interpretation
+- No need to use a uniform standard
+- Also, the lack of a uniform standard would make it way harder to distinguish what constitutes a "marked departure" as opposed to a mere departure
+- Previously, the courts have determined that breach of probation, a very similar offence, is also a subjective fault offence
+- 

@@ -1,0 +1,50 @@
+- Issue is finders, who owns chattel that is found abandoned
+- Possession requires physical control and intention to possess, and abandonment is the opposite of possession
+- Therefore it requires a loss of physical control, and no intention to possess it
+- For the purposes of abandonment cases, the original owner will be out of the picture
+- Usually deal with conflicting claims between finders
+### [[Trachuk v Olinek]]
+- A pile of money was found next to an oil well by a group of contractors
+- Vast list of potential owners, but there are two main parties
+- Trachuk was a farmer who was being leased the land surrounding the oil well to be used for cattle grazing, and had built and maintained a fence around the well
+- Olinek and his three subcontractors Fulkerth, Austin, and Muntz were hired to disconnect a pipeline from the well, and found the bag of cash containing around $75,000 while digging
+- Austin was the excavator operator, and was the first person to find the money
+- Handed it over to the police, and exists as a quasi-bailee
+- A bailor is someone who holds the property of another person and has legal possession, but with an expectation that the property will be returned
+- In this case, there is no original owner so it's unclear who Austin is supposed to give it to
+- Also, bailment usually involves some sort of compensation, think of a valet or coat check
+- Court determined that anyone who finds lost chattel gains a right to keep it against all others except for the true owner, someone who has a claim through the true owner, or someone who has a prior right at the time the chattel was found
+- There is also a distinction between property that is lost, and property that is intentionally placed or hidden, in this case it's clear the money was not "lost" 3 feet underground
+- In the case of hidden property, the owner or possessor of that land may have a prior right
+- In *Armory v Delamirie*, a chimney sweep found a jewel and tried to sell it to a jeweler, who refused to pay the sweep or return the jewel
+- Sweep was found to have the superior interest
+- A similar case was *Parker v British Airways*, where a passenger found a gold bracelet in a British Airways lounge at an airport, and was found to have superior right to the airline company
+- In this case, the owner of the land the cash was buried would have superior right to the finders
+- Court states this rule as creating a presumption in favour of the landowner
+#### Ownership
+- Marathon Realty had the fee simple interest to the land, they were the primary owners
+- Signalta Resources had an easement on the land so they could run their pipeline and access it
+- Trachuk was leasing the land to run cattle on it, except the well area
+- However, he was engaged in negotiations to buy the entire area from Marathon and had signed an agreement to do so, but the deal had not gone through yet
+- Amoco had a lease on the land for extraction purposes
+- Trachuk argued that he had ownership of the land, which defeats the finders claim made jointly by Olinek, Austin, Muntz, and Fulkerth
+- Court pointed out that Trachuk didn't have legal possession of the land the well was on, as he only went on the land to retrieve calves who got under the fence surrounding it
+- He also never made any attempts to remove people trying to access the well, and wasn't even consulted when Olinek and his team showed up to work
+- Trachuk anticipated that he would receive the fee simple interest, but had not yet received it
+- He was also unable to prove legal possession as he never acted as if he owned the land
+- Top 5 owners: michael, marathon, austin and the boys, alberta
+- Assuming Michael Wandzilak was the true owner and he had proof of this, he would have the number one claim
+- However, second place goes to Amoco, who have legal possession of the land given that they are leasing the land from Marathon
+- Third place would go to Austin, who has a right as the finder
+- Austin may have to give up the money to Olinek though, as he was acting as his employee
+### Wicks Estate v Harnett
+- Ben Wicks was a political cartoonist who died in 200-
+- He was a hoarder who kept his cartoons in multiple different houses and would dig them up and publish them as needed
+- Harnett brothers bought a house from Wicks' son in 1992, which contained many garbage bags in the garage, some of which contained many of his cartoons
+- After Wicks died, the Harnett brothers sought to publish some of the cartoons they found and sought to get copyright from the Wicks estate, which sued them
+- Decision hinged on whether or not the cartoons had been abandoned
+- While they may have been stuffed in garbage bags, it seemed that this kind of practice was not out of the ordinary for Wicks
+- Also, when Wicks' son was moving, he asked the movers to bring everything in the garage, which they neglected to do
+- Suggests that the estate intended to maintain control of these drawings
+- Counsel for the brothers argued that on an objective standard, anyone would believe that these drawings were supposed to be abandoned
+- However, the test in this case is subjective, as opposed to the objective test for fixtures

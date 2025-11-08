@@ -1,0 +1,59 @@
+### Practice Question
+- David is learning to drive, and goes driving for the first time on a public road with his girlfriend who he believed had a license
+- She had been driving for years and had driven him places before
+- David was driving slowly and carefully, but his car lurched suddenly onto the sidewalk during a right turn, injuring a small child
+- David claimed he was startled by a honk from behind him, causing his foot to push onto the gas pedal
+- Charged with dangerous operation of a conveyance causing bodily harm (s. 320.13(2))
+- Conduct here is driving, the circumstances are causing a danger to the public, and the consequence is causing bodily harm
+- Recall that the *mens rea* for dangerous driving established by [[R v Hundal]] and its following cases is a "marked departure" from what a reasonable driver would have done
+- Also important to remember that these are Supreme Court decisions, make sure to show that in your citation
+- Demonstrates that this is binding precedent, not some trial case or appeal from another province
+- Proving the *actus reus* on the part of the Crown should be trivial, it's clear David was driving, he caused bodily harm to the child that he hit, and mounting the curb of a busy sidewalk is inarguably dangerous
+- Defence will likely not challenge any of these facts
+- For *mens rea*, the Crown is going to have to prove he made a marked departure from reasonable conduct
+- Can argue that David was not ready to drive, and should not have been on the road
+- He knew that the streets would be busy, it was a civic holiday and there was good weather
+- Should not have agreed to drive when we has already nervous and knew he was not prepared to do so
+- Reasonable person in his situation would have chosen not to drive
+- Best argument on the part of the defence is the "momentary lapse" argument advanced in [[R v Roy]] and [[R v Beatty]]
+- David was driving carefully up to this point, pretty clear that the sudden acceleration was unintentional
+- David has also been charged with a provincial offence criminalizing driving a car while unaccompanied by a qualified driver
+- David assumed that Freda was qualified as she had been driving in the province previously, and knew she was licensed in Northern Ireland
+- Freda was under the impression that she could drive using her Northern Irish license
+- *Actus reus* is again fairly easy to prove here, David was driving on a public road, and he was unaccompanied by a qualified driver
+- Real issue is determining what kind of *mens rea* is required
+- This is a provincial offence that deals with regulatory matters, opening the possibility that it is a strict or absolute liability offence
+- This would mean that the Crown does not have to prove any kind of mental element, though David may be able to argue the defence of due diligence
+- David can also argue that he made an honest and reasonable mistake of fact
+- Believed Freda was a qualified driver as she had been driving him around for months, and saw her drivers license
+- However, the Crown can argue that this is a mistake of law, not of fact as what David is really claiming is that he thought a Northern Irish drivers license is accepted in BC
+- Mistake of law is not a valid excuse
+- Considering the decision made in [[R v Chapin]], David may be able to prove due diligence by demonstrating a reasonable belief that Freda was a qualified driver
+### [[Re Section 94(2) of the MVA]]
+- What does the [[Charter of Rights and Freedoms]] have to say about Parliament's ability to change the *mens rea* of offences
+- Relevant provision is s. 7, which establishes the rights to life, liberty, and security of the person and the right to not be deprived of them except in accordance with the **principles of fundamental justice**
+- When the Charter was enacted, there was debate over whether this last phrase only includes procedural principles or not
+- The following sections of the Charter provides similar rights such as the right to be free from unreasonable search and seizure
+- If the principles of fundamental justice has a substantive element, it would place a restriction on what kinds of laws that Parliament can pass
+- Same controversy occurred in the US, and the Supreme Court there recognized a substantive element
+- Famous example of this was Roe v Wade, where it was found that criminalizing abortion went against due process
+- In Canada, the landmark case for determining fundamental principles was about a provincial driving offence criminalizing driving without a license
+- This case is a "reference", which is where the government refers a statute to the courts to determine whether it is constitutional or not
+- The BC government referred their amendments to the Motor Vehicle Act to the BC courts, which found it was unconstitutional, and the BC Attorney General appealed to the SCC
+- Still counsel on both sides, but in this case there are no facts to argue about
+- The reason this was done was because the offence specified that it had no *mens rea*, it was an absolute liability offence
+- Also has a minimum penalty of mandatory jail time
+- Question is whether this violates s. 7 of the Charter
+- Turns out it does, being sent to jail is a violation of your liberty, but is it in accordance with the principles of fundamental justice
+- If these principles are only procedural, then there should be no issue
+- Court determined that the principles are substantive, pointed to the other sections as examples of violations of the fundamental principles
+- Takes a purposive analysis, arguing that the purpose of the Charter is to protect these rights
+- Where do we find these principles?
+- Decided that they lie in the basic tenets of the legal system
+- One of these tenets is that we do not want to convict people who are morally blameworthy
+- Means we can't convict without *mens rea*
+- But does this mean we can't have absolute liability?
+- Court says no, as long as there's no possibility of jail time, then the issue of going against s. 7 doesn't show up
+- Additionally, s. 1 of the Charter allows these rights to violated if there is a reasonable justification
+- Argument is that public welfare offences can be justified using this logic, as they lack *mens rea* for convenience and efficiency
+- 

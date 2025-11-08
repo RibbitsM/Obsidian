@@ -1,0 +1,35 @@
+- The plaintiff (Reibl) underwent surgery to remove an arterial blockage, which was performed competently by the defendant (Hughes) who is a qualified neurosurgeon
+- After the surgery, Reibl suffered a massive stroke, paralyzing the right side of his body
+- Sued for damages on the grounds that there was no informed consent, alleging battery and negligence
+- Trial judge ruled for Reibl, granting $225,000 in damages
+- Ontario Court of Appeal ordered a new trial
+### Analysis
+- Previously established in the case *Hopp v Lepp* that informed consent includes information on any and all potential risks of a surgery
+- Even if a risk is not very likely, it should be mentioned if there are severe consequences
+- Surgery here carried the risk of severe injury or death by stroke, but the failure to perform the surgery carried the same risk
+- No fault found in the surgery itself
+- Reibl was 1.5 years away from getting a lifetime pension, and was rendered ineligible for the pension as a result of the paralysis
+- Reibl argued that if he was made aware of the risks, he would have waited until he got the pension to undergo surgery
+- Found that the surgery was not immediately necessary
+- Trial judge found that Hughes had a duty to explain the risks clearly, mentioning the statistical likelihood of the worst outcomes
+- Also found that Hughes failed to inform Reibl of the potential risk of death or a stroke, meaning Reibl was under the impression that the surgery was risk-free
+- Supreme Court argued that these facts do not justify liability for battery, as Reibl did give consent
+- Does not extend to failures of informed consent, only cases where an operation is performed that the patient did not consent to
+- Doesn't follow that a failure to inform a patient of certain risks means that the surgery is done without consent
+- May be a breach of duty of care, but isn't battery
+- This is what the Court of Appeal determined, they said that the case may be actionable on breach of duty
+- However, they gave the doctor a lot of freedom in terms on disclosure in their analysis
+- By allowing doctors to determine which risks are considered "material" basically gives them free reign
+- Issue is not whether the information is medically necessary, issue is the right of the patient to be informed of the risks of treatment
+- Trial judge seems to have unnecessarily limited this freedom by requiring the inclusion of statistics
+- Expert testimony is still required to determine certain facts regarding informed consent cases, but will not be decisive
+- Exists a case for using an objective test here
+- How would a reasonable person have acted if given a proper disclosure of the risks of a medical procedure?
+- Liability should only arise if proper disclosure would have dissuaded the patient from undergoing the treatment
+- Also pays attention to extenuating circumstances like the impending pension in this case
+- If we rely on a subjective test, weighs things too far in favour of the plaintiff
+- Overall, evidence suggests that Hughes only informed Reibl that he would be better off with the operation than without it
+- Failed to disclose that the operation had a significant 10% morbidity rate
+- There was also no immediate risk prompting the surgery, the patient was at a risk of stroke, but not for several years
+- Given this information, and the additional factor of the lifetime pension, it's likely a reasonable person would have rejected the surgery if properly informed
+- Thus, the trial judgement is restored

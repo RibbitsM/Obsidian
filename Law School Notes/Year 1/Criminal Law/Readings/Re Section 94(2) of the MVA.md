@@ -1,0 +1,48 @@
+- This case is a "reference", meaning the legislature has sent a statute to the Courts to determine its constitutionality
+- Statute in question here is s. 94(2) of the Motor Vehicle Act, and the issue is whether or not it violates s. 7 of the Charter
+- This is because the amendment of this section creates the possibility of imprisoning someone who has done nothing wrong, violating the right to liberty
+- Amendment was initially proposed by BC, the BCCA previously reviewed the law and determined it was unconstitutional and the BC Attorney General appealed to the SCC
+- The section in question criminalizes driving on a highway/industrial road while prohibited to do so under the act, or if their license or right to have a license is suspended under the previous act
+- Punishment on first conviction can lead to 6 months jail time, and any further convictions can lead to up to a year in jail
+- Important factor is that this is specified to be an absolute liability offence, meaning proving the *actus reus* is itself sufficient to earn a conviction
+- May violate the right to liberty ensured by s. 7 of the [[Charter of Rights and Freedoms]]
+- Also important to mention that this reform was done in 1982, the same year the Charter and new Constitution Act were introduced
+- Expanded the legislative review process to involve the Charter
+- Raised concerns about the judicial branch having too much effect on public policy, as determining whether a law complies with the Charter is subjective and complex
+- Especially relevant to the "principles of fundamental justice" line in s. 7
+- Arguable that this is necessary to make sure the Charter functions as intended, and courts have already been able to make law through the common law
+- This goal is supported by the decision to interpret Charter provisions based on their purpose
+- Ensures that the full benefit of the Charter is realized
+### Principles of Fundamental Justice
+- When analyzing the text of s. 7, the main phrase to interpret is "principles of fundamental justice"
+- Court was in agreement that being imprisoned qualifies as deprivation of liberty and all other elements of the section are irrelevant in this case
+- When taking a purposive analysis, it becomes clear that the things being protected in this section are life, liberty, and security of the person contingent on the fulfilment of the principles of fundamental justice
+- The narrower of a meaning we assign to this phrase, the less protected the arguably extremely important rights enshrined in the Charter will be
+- Sections 8 to 14 of the Charter help us determine this, as we can view them as examples of what a violation not in accordance with the fundamental principles of justice looks like
+- Attorney General of BC interpreted this as being synonymous with the concept of "natural justice" which refers only to the right to a fair and unbiased trial
+- SCC believes that in the context of ss. 8-14, it's evident that the principles of fundamental justice extend further than this
+- These sections address specific deprivations found unacceptable by common law or international conventions, and are based on an underlying idea of human dignity
+- Principles of fundamental justice come not just from the judicial process, but other elements of the legal system as well
+- Determining whether a principle is fundamental requires an analysis of source, role, and rationale of that principle within the legal system
+- Will be determined over time as the courts address alleged violations of s. 7
+### Absolute Liability
+- A longstanding principle of the justice system is that the innocent should not be punished
+- So deep-rooted it has its own Latin maxim: *actus non facit reum nisi mens sit rea*
+- Requirement of *mens rea* has existed for at least as long as lawyers have
+- Multiple court decisions have affirmed this, with [[R v Beaver]] being one of the more influential
+- [[R v City of Sault Ste Marie]] also affirmed the requirement of *mens rea*, with Justice Dickson even explicitly using the phrase "principles of fundamental justice"
+- The reason we have these presumptions against absolute liability offences is likely because it goes against the fundamental principles of justice
+- Recall that s. 94(2) will only violate s. 7 if the consequence is imprisonment
+- The way the offence is worded means there is a minimum mandatory prison sentence of 7 days for even a first time conviction?
+- Counsel speaking against s. 94(2) argue that this means that all absolute liability offences are in violation of the Charter as they open the possibility of punishing the morally innocent
+- Appeal court determined that this was not the case, public welfare offences should still operate under absolute liability for the sake of the public interest
+- SCC agrees with this conclusion, but not with the justification of public interest
+- Only appropriate way to make an argument like this is by using public interest or some other factor as a justification under s. 1 of the Charter
+- In the context of administrative law, it should be trivial to justify limiting s. 7 rights on the basis of administrative efficiency
+- However, this argument is much less likely to fly when it comes to criminal law
+- Overall, we can conclude that s. 94(2) is an absolute liability offence that results in deprivation of liberty on conviction, and is in violation of s. 7
+- Only remaining question is if it is justified under s. 1
+- Justification from the appellant is that it serves the purpose of keeping "bad drivers" off the road
+- This is a legitimate concern, but is it really necessary to make this an absolute liability offence as opposed to strict liability?
+- SCC determines that this is not the case
+- Appeal dismissed

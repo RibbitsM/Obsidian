@@ -13,11 +13,12 @@
 - If the promisee is going above and beyond their duty, can be consideration
 ### Glasbrook Bros v Glamorgan County Council
 - Mine manager wanted more police protection during a strike, and made an agreement to pay a fee in exchange for more officers
-- Tried to avoid paying thee fee on the grounds that the police were obliged to do so
+- Tried to avoid paying the fee on the grounds that the police were obliged to do so
 - Court determined that if the police thought the additional officers weren't necessary, they would have been exceeding their obligation by providing more officers
 - Thus, there was already consideration
-- In another case called *Ward v Byham*, Lord Denning held that a promise to perform a duty imposed by law should be enforceable as long as nothing in the contract went contrary to the public interest
+- In another case called *Ward v Byham*, Lord Denning argued that a promise to perform a duty imposed by law should be enforceable as long as nothing in the contract went contrary to the public interest
 - No reason not to enforce them, so assess it on a case-by-case basis
+- However, this view never caught on, and the above and beyond rule is the precedent
 - Ordinary citizens also have a number of obligations, it has been shown that private individuals promising to perform a public duty is subject to the same terms
 - Won't be consideration unless they're going above and beyond
 ### Duties to Third Parties

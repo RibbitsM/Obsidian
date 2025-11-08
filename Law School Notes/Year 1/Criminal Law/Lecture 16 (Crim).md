@@ -1,0 +1,78 @@
+- Recall that the last category of offence we haven't dealt with is when we measure the *mens rea* objectively as opposed to subjectively
+- In the 80s and 90s there was heated debate over whether or not the criminal law should punish objective fault
+### [[R v Tutton]]
+- Rare example of the Supreme Court being split 3-3
+- Usually there are either 5 or 7 justices, but rarely there will be an even number
+- Results in a dismissal, but also confusing as to what the precedent is
+- However, in retrospect we can see that Justice Mcintyre's judgement was the one followed
+- Defendants were Carol and Arthur Tutton, who had a 5-year old son named Christopher who was diagnosed with diabetes
+- The Tuttons were very religious and believed in faith healing, but also used modern medicine and took a class about diabetes to learn how to care for Christopher
+- Carol believed that Christopher had been divinely healed and stopped giving him insulin, rushed to the hospital and the Tuttons were warned that he could have died
+- Happened again a year later, and Christopher died of diabetic shock
+- Tuttons charged with criminal negligence causing death and manslaughter due to failure to provide necessaries of life
+- Very confusing as the two are almost identical but not quite
+- We'll focus on criminal negligence causing death
+- Defined in s. 219(1), and says that anyone is criminally negligent who in omitting to do anything it is their duty to do shows wanton or reckless disregard for the lives of others
+- Can argue that this wording implies a subjective standard due to the use of "reckless"
+- Can also argue it's objective because of the use of "negligent"
+- Also, causing death by criminal negligence is culpable homicide, and by extension is also manslaughter
+- Pretty much undeniable that the *actus reus* is established, but what about the *mens rea*?
+- The Tuttons had an honest belief that Christopher was cured, and they argued that they did not intend to cause him harm
+- On a subjective *mens rea* standard, no crime was committed
+- However, if the standard is objective, then they have to prove that their belief was reasonable
+- Court argues that negligence punishes "thoughtless action" when serious consequences are at stake
+- Measured by the standard of a marked and significant departure from reasonable conduct
+- Also kind of raises the same issue as [[R v Blaue]] as it requires evaluating the reasonableness of religious beliefs
+- On the other hand, if you consider too many of the factors regarding the accused, then it effectively becomes a subjective test
+- The court proposed a modified objective test that includes some factors like age and education, but notably does not mention religion
+- This approach wasn't really widely adopted, but at the least we would consider the accused's awareness of the situation
+- Uses the example of a welder operating by some explosive barrels that honestly believes the area is clear
+- Cases like these are still happening, a more recent case was with David and Collet Stephan who were charged with failing to provide necessities when their son died of meningitis after they tried to treat him with home remedies instead of taking him to a hospital
+### [[R v JF]]
+- In this case, a couple was charged after their foster child died due to abuse by the wife
+- Husband (JF) neglected to do anything about the abuse, and was charged with two counts of manslaughter by omission
+- These two counts were issued for the same offence, so that if one could not be proved, they could proceed with the other one
+- Most common example of this is charging someone with driving with a BAC over 0.08 and with impaired driving
+- In some cases, you will be convicted of both, but only one of the punishments will apply
+- Generally, if we can describe the same conduct with multiple offences, the Crown can charge and convict on multiple offences, but punish on only one
+- In this case, the trial court convicted on manslaughter by criminal negligence, but acquitted manslaughter by failure to provide necessaries
+- This was done by jury, and JF appealed because the conviction was inconsistent
+- How can he be guilty of a more serious offence but innocent of an identical but less serious offence?
+- SCC majority stated that for criminal negligence offences, the standard is a "marked and significant departure", but for other objective fault offences, the "significant" is dropped
+- This is precedent, but is a really confusing and unnecessary distinction to make
+- Criminal negligence offences include everything in s. 220 and s. 221, as well as manslaughter by criminal negligence (s. 222(5)(c))
+- Other objective fault offences include failing to provide necessaries, as well as dangerous driving
+### [[R v Hundal]]
+- Dangerous driving cases have been the real test of objective fault
+- All drivers have a standard they have to meet while driving, but some people will be in different situations and have different experiences
+- Objectively speaking, we can probably consider any dangerous driving case that goes to court to be an example of a marked departure from normal driving
+- This is where the modified objective test comes in
+- At the time of this case, the offence of dangerous driving criminalized driving in a manner dangerous to the public considering all relevant circumstances
+- This is the definition of dangerous driving, and the accused was charged with dangerous driving causing death
+- Conduct is driving, circumstance is driving in a dangerous way considering all the circumstances, and the consequence is causing the death of another person
+- Courts were split over whether a subjective element is present, should we objectively measure the standard for driving?
+- Judge argued that the test here is an objective determination that the accused showed a marked departure from reasonable conduct
+- However, this standard can be lessened by personal circumstances or if the defence of mistake of fact is raised
+- Argues that the licensing requirement establishes a minimum standard of competence, and pointed out that driving is done mostly automatically
+- Also, the description of the circumstances in the *actus reus* implies an objective standard and pointed to the number of accidents as evidence we should take this seriously
+- Judge uses the example of a driver suffering a stroke or a detached retina while driving as a reason why the objective test should be modified
+- Dissenting judge pushed back against this, arguing that this example isn't about modifying *mens rea* as in these cases, the accused wouldn't have control of the car and the *actus reus* would be modified instead
+- Final result of all this was that introducing too many subjective factors to the objective test makes the test no longer objective, decided in [[R v Creighton]]
+### [[R v Beatty]]
+- Dangerous driving is especially difficult to determine as the *actus reus* and *mens rea* are so interconnected
+- Example of a case where the objective test was not met despite some definitely dangerous conduct
+- Also, pretty much all important dangerous driving cases are from BC, go figure
+- In this case, Beatty was driving on the highway and failed to turn, driving across the dividing line directly into oncoming traffic
+- Unclear what actually happened, seems like he fell asleep or stopped responding for a few seconds
+- Trial judge acquitted him on the grounds that his negligence was not enough to meet the criminal standard, but appeal court disagreed
+- SCC pointed out that it is important to not confuse the *actus reus* and *mens rea* of this offence
+- Recall that the *actus reus* is driving dangerously given all circumstances
+- Pretty easy to prove, hard to argue that driving across the dividing line on a highway isn't driving dangerously
+- *Mens rea* is that based on all available evidence, was the conduct of the driver a marked departure from the conduct of a reasonable person in the circumstances
+- Also, if the accused has some sort of excuse, need to also evaluate that excuse against the reasonable person standard
+- Even though the *actus reus* was proven, the trial judge was still able to conclude that the momentary lapse of attention did not constitute a marked departure
+- The appeals court erred by confusing the *actus reus* and the *mens rea*
+### [[R v Roy]]
+- Another dangerous driving case, Roy was driving a motorhome and pulled out in front of a tractor trailer without giving it time to stop
+- Similar case of a momentary lapse, but instead of the SCC ordering a new trial like they did in *Beatty*, they ordered an acquittal
+- Interesting that Roy was driving with a suspended license, but this was not considered by the court when deciding whether his actions were a marked departure

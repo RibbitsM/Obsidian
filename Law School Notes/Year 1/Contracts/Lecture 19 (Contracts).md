@@ -1,0 +1,81 @@
+- Misrepresentation is likely the most common and impactful vitiating factor in contracts
+- Have to establish that the other party made a misrepresentation, and that your belief in that representation led you to agree to the contract
+- Remedies for representation can come from either common law or equity, now all of these remedies are merged into a unified court
+- Distinction between common law and equitable remedies are less important now
+- The main remedy for misrepresentation is rescission, undoing the contract
+- Any exchanges made are reversed, and all conditions of the contract are void
+- In some cases, it may be practically impossible to restore the original conditions
+- For example, one party may have gone on to sell whatever they purchased to a third party
+- Generally, the sooner you can rescind a contract, the better
+- Also sometimes called a "restitutionary" remedy as it restores the original circumstances
+- Claimant may also try to pursue a torts claim, could be tort of deceit if the misrepresentation was fraudulent or tort of negligence if the misrepresentation was negligent
+- Can pursue both contractual and tort remedies, get your original position restored and a little extra on top
+- If misrepresentation was fraudulent, you can get rescission plus damages for deceit
+- If misrepresentation was innocent but careless, you can get rescission plus damages for negligence
+- If misrepresentation was innocent and not careless, just get rescission
+### Elements
+- A misrepresentation must be a statement of fact, and are distinct from statements of opinion, intention/promises, or law
+- Means that "sales talk" or advertising tactics are generally not considered statements of fact
+- Also need to prove that this false statement was a decisive factor in convincing the plaintiff to enter into a contract
+- Doesn't have to be the sole deciding factor, but it at least needs to be important for your decision
+- Sales talk is defined as vague or imprecise statements expressing the virtues of a product
+- Doesn't refer to any specific qualities of a product, just suggests that the product is "good"
+- Statements of opinion usually do not qualify for misrepresentation, except for in the case where the person expressing the opinion is an expert on the matter
+- In that case, it may be possible to argue their opinion is authoritative
+- In terms of promises, a future promise may constitute a statement of fact regarding your current intention
+- If your promise does not reflect your intentions, may be misrepresentation
+- In *Edgington v Fitzmaurice*, a company wanted investors and promised they would use these investments to build up the company
+- Real intention of the board of directors was to pay off significant debts the company had accrued, and investors sued for misrepresentation
+- Directors argued that they just made a promise, not a statement of fact
+- Court held that promising to do something specific is an implicit statement of fact regarding your current intentions
+- Stated that their intentions was to use the money to grow the company, while their true intentions were to pay off their debts
+- Historically, statements of law are generally not considered statements of fact
+- Even if you misrepresented the true statement of the law, will not be considered misrepresentation
+- However, Canada has recently been moving away from this
+- Recall that a statement of fact has to be **material** and must create an **inducement**
+- A special case of inducement is that if the plaintiff separately investigates the claims made by the other party, they can't later raise a case of misrepresentation on those claims
+### Non-Disclosure
+- Traditionally, you do not have a duty to disclose facts during a negotiation
+- Some exceptions where non-disclosure can be considered misrepresentation
+- Main example of this is a half-truth, partially stating facts to mislead the other party
+- Also if you are actively trying to hide a fact from the other party, that's misrepresentation
+- Changing circumstances that affects the truth of a previous statement imposes a duty to inform the other party of the current circumstances
+- For example, if you're selling a car and claim the brakes work fine, and the day after they fail, you have to tell the customer
+- In certain kinds of contracts, there is a requirement to actively disclose all information
+- These are called "contracts of good faith" and require constant disclosure of any information that may affect the terms of the contract
+- Main example of this is insurance contracts, if something happens to you that would affect your insurance coverage, you have to inform the insurance company
+- Also applies to some kinds of family law agreements, or contracts where parties are in a fiduciary relationship and have certain legal duties to another
+- Occasionally, courts will side with the plaintiff in non-disclosure misrepresentation cases even when none of these conditions are met, but this is quite rare
+### Good Faith
+- Can contracts outside of the situations mentioned above be considered good faith contracts?
+- Recall that there is no existing agreement to [[Lecture 10 (Contracts)#Agreements to Negotiate in Good Faith|bargain in good faith]]
+- In an Ontario appeals case called *978011 Ontario v Cornell Engineering*, the court expressed support for a duty to disclose on the basis of good faith
+- Argument was that one party was relying on information provided by the other to make an informed choice, and the other party can withhold information to affect that choice
+- No established fiduciary relationship here, but one party is reliant on the other
+- Also a degree of trust here, one party is trusting the other to inform them
+- Cites an article on this topic expressing criteria to establish a case like this
+- Must be a history between the parties where one party relies on the other for advice or information to make decisions
+- There is an assumption that one party exists as an advisory
+- There is an imbalance in the access to information and understanding on the demands of the contract
+- Can also rely on how the parties were brought together and what expectations were created
+- Depends on whether trust was knowingly put in one party from the other
+- Overall, misrepresentation can be determined by non-disclosure, but you want to look for a positive statement of fact
+### Issa v Wilson
+- Recent case, came out the same year the textbook was written
+- Plaintiff was a young first-time home buyer looking for a real estate agent
+- Agent told the buyer the home was over 2,000 sq ft, relying on a representation from the seller and a former listing, but didn't do any measurements
+- Buyer visited the property and inspected it before agreeing to purchase
+- During the visit, the seller again told him that the house was 2,000 sq ft
+- After this, the buyer places a deposit, but ordered an appraisal before completing the purchase
+- Appraisal determined that the house was only 1,450 sq ft, and sued the agent and seller with the goal of getting a rescission and his money back
+- Both defendants argued that since he inspected the property, he made an investigation and cannot sue for misrepresentation
+- Trial judge ruled for the plaintiff, which was upheld by the Ontario Court of Appeal
+- Argued that the investigation rule is not absolute, and has previously not been applied because applying it would result in an unfair result
+- In this case, the application of the principle would be unfair
+- Stated that rescission can be obtained for misrepresentation as the defendant made a material misrepresentation that induced the plaintiff into the contract
+- Both defendants made clear misrepresentations of the square footage, the agent admitted he was negligent and the seller admitted to telling the buyer in person the house was 2,000 sq ft
+- The discrepancy between this representation and the reality was quite significant
+- The fact that the buyer would have closed the purchase before he found out the real amount suggests that the misrepresentation induced him to make the purchase
+- Finally, the plaintiff was a first time home buyer, and not experienced in real estate
+- Additionally, the second misrepresentation by the seller occurred while the buyer was doing his investigation, which the court argued disrupted the buyer's investigation
+- 

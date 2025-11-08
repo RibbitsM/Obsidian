@@ -1,0 +1,68 @@
+### Intro
+- two things to establish
+- Is the defence available? Are the elements met?
+- Defence is only available if the accused is a party (Keller 12)
+- If Gerry is co-principal, cannot raise the defence
+- Otherwise, needs to establish four elements (Gionet 25)
+- Was there an immediate threat of serious injury or death solely motivating the victim?
+- Was the threat credible to the accused and impacted them during the offence? 
+- Would a reasonable person have done the same in the circumstances and was the threat proportional to the offence? 
+- Did the accused have a safe avenue of escape?
+#### Threat of Injury/Death
+- Must be a threat to the bodily integrity of the person (Gionet 25)
+- There must also be some evidence of real danger, *Laughy* establishes that if there is no evidence that a risk is created by disobeying, defence is inapplicable (Laughy 20)
+- Harley did not explicitly threaten anything, only stated Gerry would "find out what happens"
+- Depends on whether or not this can be reasonably construed as a threat to bodily integrity
+- If this cannot be determined, unlikely that Gerry can use the defence of duress
+- Otherwise, need to determine if the threat was immediate
+- Requirement also allows for threats of future death or injury (Keller 18)
+- Can argue that the threat was fairly immediate, Gerry would face consequences if he did not appear in three hours
+- Also, did Gerry act solely because of the threat?
+- Almost certainly yes, had no knowledge of Harley or the threat and only acted to preserve himself
+#### Credibility of Threat
+- Hinges on whether the accused believed that the threat could be carried out (Gionet 25)
+- "Mere fear does not constitute duress in the absence of a threat, either express or implied"
+- There is also an element of reasonableness, can the conduct be reasonably interpreted as a threat
+- Gerry can argue that Harley heavily implied that he would be seriously injured or killed if he did not comply
+- Stepped very close to him and said that if he called the cops or failed to show, he would "find out what happens" and he doesn't "want to find out what happens"
+- Goes further by implying that he has people he can use to follow up on this threat
+- States that Gerry needs to stay home so people would "know where to find [Gerry] in case the plans changed." and that "We'll be watching you"
+- Finally, Gerry may have also believed that Harley killed Darcy, as he mentions that she owed him money and does not specify how she died, she would have been around her late 40s
+- In *Gionet*, this element was satisfied by an implied threat (Gionet 31)
+- However, Crown can argue that this was only because Gionet personally knew the person threatening him and knew he had killed people before
+- Gerry has no concrete reason to believe that Harley can follow up on this threat
+- Additionally, a reasonable person should have been able to deduce that Harley was likely working alone, and his threat ceased to be credible as soon as he left Gerry alone
+- If Harley had people to watch Gerry and kill him if he stepped out of line, why does he need to recruit Gerry as a lookout
+- Overall, it's clear that Gerry subjectively interpreted this as a credible threat
+- Furthermore, it is likely that any reasonable person would interpret Harley's conduct as implying a threat to life and limb
+- In terms of whether the threat affected Gerry at the time of the offence, Harley was not physically present, but was in the immediate area
+#### Reasonable Person
+- Based on an objective standard incorporating subjective circumstances (Keller 25)
+- Includes "the particular circumstances and human frailties of the accused." (Keller 23)
+- In this case, this means they would have the same history of anxiety, life of relative isolation and knowledge of Darcy
+- If we assume that a reasonable person would have interpreted the threat as implying serious harm or death, they would likely also comply with Harley's demands especially when faced with the same circumstances as Gerry
+- If they would not comply, defence loses air of reality
+- Regarding the element of proportionality, assuming the threat is seen as credible, stopping the theft of farm equipment is likely not important enough to justify risking your life
+#### Safe Avenue of Escape
+- Utilizes the same standard as the previous element
+- Also examines whether the accused took reasonable steps to find a safe avenue (Keller 25)
+- Gerry had a very limited amount of time to act, three hours elapsed between the threat and the offence being committed
+- Had two clear avenues of escape in this time period
+- Could not call the police, Harley confiscated his phone
+- Could have driven to the police station while he was sitting at home from 4 to 6 pm
+- Also could have driven to the police station while driving to the meeting spot
+- Gerry can argue that this is not enough time, in *Gionet* the accused had several months to go to the police and the courts ruled he had no safe avenue of escape (Gionet 43)
+- He could not have gone to the police from 4 to 6 pm as he was in an extreme state of mental distress, in his own words he was "so scared [he] could barely think"
+- *Gionet* establishes that the test must be performed "through the eyes" of the accused (Gionet 42)
+- Not only was Gerry already quite anxious, he has also just been informed that his ex-wife of 15 years is deceased and that there are people watching them who will likely kill him if he leaves the house
+- Furthermore, when Gerry is driving to the meeting spot, he does contemplate going to the police station and moves towards the exit to the police station
+- However, he notices a car behind him that has presumably been there since he got on the highway
+- Likely believing he is being followed by Harley or his men, he continues to the meeting spot
+- Crown can argue that there was no clear evidence of a threat to his life, and a reasonable person would have simply gone to the police
+- Even if they were anxious, a reasonable person would have taken additional steps to attempt to alert the police
+- Additionally, Gerry could have called the police while Harley was occupied with the theft as Harley returned his phone at this point
+- Assuming a reasonable person would infer that Harley was acting alone, Gerry also had a safe avenue of escape on the highway
+- Overall, evidence suggests that Gerry may have had a safe avenue of escape, but his fear and anxiety prevented him from recognizing it
+- Anyone suffering from the same "human frailties" would do the same
+### Conclusion
+- Evidence suggests that all four elements of the defence are met

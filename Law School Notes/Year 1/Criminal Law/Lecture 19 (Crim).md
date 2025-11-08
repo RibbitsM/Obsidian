@@ -1,0 +1,84 @@
+- Principles of fundamental justice are substantive, not just about the process of criminal law
+- Puts a check on Parliament as they have to create laws in accordance with these principles
+- In [[Re Section 94(2) of the MVA]], the SCC established some of the principles, with one of them being that the morally blameless should not be punished
+- Means that any offence that may violate s. 7 by depriving someone of liberty via imprisonment has to have protections against convicting morally blameless individuals
+- In this case, the justification for this under s. 1 was that it was administratively convenient, and was found to not be a sufficient justification
+- Raises the issue of whether or not some other offences may be found unconstitutional in the same way
+- Soon after this act, two more important cases were brought before the Supreme Court questioning the constitutionality of murder
+- Specifically "felony murder", which is a method of establishing murder where the commission of another offence results in death
+- Also called constructive murder, comes from adding the consequence of death onto the *actus reus* of a number of crimes such as kidnapping or assault
+- Comes from English law, where originally all deaths were murders
+- Over time, this came to be restricted to only felonies, which at the time were all punishable by death
+- According to s. 213, culpable homicide is murder if a person causes death while committing or attempting a number of offences regardless of intent or knowledge of a likely risk if one of a few additional requirements are met
+- Section 213(a) has the requirement of intent to cause bodily harm either as part of the offence, or as part of an escape after the commission of an offence that results in death
+- Very similar to the aggravating circumstances necessary to elevate second degree murder to first degree murder
+- However, in that case murder has already been proven, including the subjective intent requirement
+- But in s. 213, murder is defined as causing death in a number of circumstances, with no mental element required
+- Can argue that given the requirement of an underlying offence it is questionable that anyone could be morally blameless and still charged for this offence
+- However, the doctrine of parties makes this much more likely
+### [[R v Martineau]]
+- In a case called *R v Vaillancourt*, the defendants attempted an armed robbery in a pool hall, and Vaillancourt was armed with a knife, and the other defendant had a gun
+- During the robbery, the other defendant went to the back while Vaillancourt was standing watch
+- Heard a scuffle and a gunshot, other guy had got into a fight and shot the other guy who was an employee of the pool hall
+- Prior to the robbery Vaillancourt insisted they only use knives, but the other guy showed up with a gun
+- After it accidentally discharged, Vaillancourt told him that he had to unload it
+- Believed that the gun was unloaded during the robbery
+- Under the usual definition of murder, to be a party Vaillancourt would have had to intentionally assist the other guy in the killing
+- But under s. 213, not even objective foresight of death is required
+- This case established that objective foresight of death should be required for culpable homicide
+- In *Martineau*, the court argued that it is a principle of fundamental justice that subjective foresight to should be required
+- Supreme Court agreed with this idea
+- Martineau was 15 at the time but was tried as an adult and was facing life imprisonment
+- He was engaged in an armed robbery with an accomplice who brought a gun
+- Accomplice shot the couple in the trailer they were robbing, and Martineau questioned why he killed them, arguing that it was never the plan
+- Was never aware of any intention to kill anyone, went in with the idea that it was just going to be a break and enter robbery
+- Held that all instances of felony murder were unconstitutional, and that all forms of murder require subjective foresight of death to meet the Charter
+- Question is what fundamental principle they used to reach this decision?
+- Determined that the gravity and penalty of an offence should be commensurate with the mental element required of an offence
+- Similar to the principle raised in the MVA case, but not quite the same
+- In the case of offenders like Martineau or Vaillancourt, their convictions would be reduced to manslaughter
+- Still a serious offence, but arguably much less severe than murder
+- Even after this, many parts of the felony murder provision persisted, as only one part of the provision was actually repealed
+- A few years ago in Alberta, there was a case called *R v Vader* where two senior citizens were killed and the case was televised
+- Judge convicted the accused based on felony murder, which at the time was a law of no force
+- In response, Parliament did a sweep of the Criminal Code and removed a number of statutes that had been deemed unconstitutional but were never removed afterwards
+- There was also a dissent in *Martineau*, pushing back against the argument that stigma should be a consideration in constitutionality
+- What basis does the court have to question the stigma created by Parliament?
+- Result of this case was a flood of future cases arguing that the penalties of some less serious offences are also disproportionate to the mental element required
+### [[R v DeSousa]]
+- Deals with the offence of unlawfully causing bodily harm which comes from s. 269 of the Criminal Code
+- States that everyone who unlawfully causes bodily harm is guilty to a specific punishment
+- A definition of bodily harm is included, but that's about it
+- How are we going to interpret this offence?
+- Court defines the *actus reus* as proof of an unlawful act with the consequence of bodily harm, where an "unlawful act" is an act that goes against any federal or provincial statute that is not an absolute liability offence
+- Defendant got into a fight at a NYE party and threw a bottle which shattered against a wall, hitting a bystander with the fragments
+- She couldn't be charged with assault, since there was no intention
+- Court ultimately decided that the *mens rea* required is twofold, you have to prove the *mens rea* of the predicate offence, and prove that it could be objectively foreseen that this offence could cause bodily harm
+- Court argued that while the presumption is that criminal offences require subjective fault, the extent of this offence is so broad that this is impossible
+- Goal of the offence is to punish conduct that may cause bodily harm
+- We've established that the punishment and stigma of an offence should be equal to the moral blameworthiness, but also every element of an offence should have an equivalent mental element
+- Court argues that this is not a fundamental principle, there are examples of perfectly sound offences that don't require *mens rea* for the consequences of an act
+- In this case objective fault is the correct interpretation, and doesn't violate any fundamental principles
+### [[R v Creighton]]
+- Moving on from this, there is another similar offence to bodily harm resulting from an unlawful act which is death resulting from an unlawful act
+- Recall that unlawful act manslaughter is the other version, we've already covered criminal negligence manslaughter
+- Almost exactly the same as s. 269, except the consequences are death instead of bodily harm
+- Does this adjust the *mens rea*, and is it constitutional?
+- Very important decision not only because it explains unlawful act manslaughter, but also seems to be the first instance of the SCC addressing incorporating subjective factors in objective tests
+- Accused was injecting drugs with the victim, and was a long time drug user and dealer
+- Injected the victim with enough cocaine to cause an overdose, killing her
+- Creighton attempted to resuscitate her, but when he could not he fled the scene
+- Charged with both unlawful act and criminal negligence manslaughter
+- Underlying act here was drug trafficking and not an assault, as the victim consented to the injection
+- Pretty clear that there isn't supposed to be subjective intent here, if it was then it would be murder, so the standard here is objective foresight
+- Issue is whether or not the requirement is objective foresight of bodily harm or foresight of death
+- Court determined that the former is the case, the *mens rea* is the same as in *DeSousa*
+- Manslaughter has the largest range of sentencing in the entire criminal code, reflecting the wide variety of culpability it covers
+- Also has a lower stigma compared to murder
+- Therefore, this should compensate for the lowered mental element
+- Also, requiring objective foresight of death violates the "thin-skull rule"
+- In thin skull cases, the accused will be convicted of manslaughter despite foresight of death being difficult or impossible, and is a well-established principle
+- Therefore, we should maintain the standard as simply foresight of bodily harm, which is the standard in thin skull cases
+- Recall that the degree of intent will be reflected in sentencing, *Smithers* is a good example
+- Overall, the court determined that the proportionality was met, and there does not have to be exact symmetry between the consequences and *mens rea*
+#### Objective Test

@@ -1,0 +1,29 @@
+- In *R v Vaillancourt*, SCC held that s. 213(d) which governs murder, was unconstitutional as it does not require foresight of death
+- Issue in this case is whether proof of objective foresight is sufficient or if subjective *mens rea* is required
+- 15 yo defendant (Martineau), and another man named Tremblay were arrested in connection with the deaths of a couple in Valleyview, Alberta
+- Martineau and Tremblay went to the couple's trailer with the intention to rob it
+- After robbing the trailer, Tremblay shot and killed the couple, claiming he did it since they saw their faces
+- Martineau was charged with second degree murder under s. 213(a) and (d)
+- Went to appeal court but was subjected to a retrial after *Vaillancourt* was decided
+- Appeal court found three factors impacting the definition of s. 213(d) as unconstitutional
+- Crime was labelled as murder, and held the same punishment as intentional killing, which includes mandatory life imprisonment
+- Exists despite the fact that the defendant could be morally innocent as they could not reasonably foresee that death would result from their actions
+- Also decided s. 1 didn't save it
+- Issue for the court is whether s. 213(d) is a violation of s. 7 and s. 11(d) of the Charter, and whether it can be saved by s. 1
+### Analysis
+- Parliament has discretion to define the elements of a crime, but is also responsible for making sure the crimes do not violate the fundamental principles of justice
+- *R v Vaillancourt* decided that s. 213(d) was of no force as there must be proof BAR of objective foreseeability of death
+- This is the minimum threshold that separates murder from manslaughter
+- But may not be in accordance with fundamental principles of justice, which require *mens rea*
+- Section 213(a) defines culpable homicide as causing death while committing or attempting an offence regardless of whether death was intentional or reasonably foreseeable
+- Goes against presumption from [[R v City of Sault Ste Marie]] that we shouldn't convict true crimes without intent or recklessness
+- Also violates requirement that punishment should be proportional to moral culpability
+- Murder is a serious offence, and brings significant stigma and harsh punishment, and should not be applied to people who never intended to cause death and were not negligent
+- Special mental element is required to turn culpable homicide into murder
+- As for s. 1, the rationale for the lack of a mental element is to deter causing bodily harm while committing certain offences
+- Convicting people who were not intentional or negligent is not necessary to do this
+- Even if you just lower the charge to manslaughter, you have way more discretion with the option to sentence from one day to life in prison
+- Cannot be saved by s. 1, not necessary
+- Also has been criticized previously in academia
+- Answer is that s. 213(d) is unconstitutional, and cannot be saved by s. 1
+- Appeal dismissed

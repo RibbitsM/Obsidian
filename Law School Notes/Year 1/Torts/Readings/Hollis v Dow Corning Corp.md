@@ -1,0 +1,53 @@
+- Defendant is a manufacturer of silicone breast implants and is being sued by a patient who was injured by one of the implants rupturing
+- BC Supreme Court awarded damages against the defendant (Dow) after the plaintiff (Hollis) sued for negligence
+- Majority of the BCCA overturned the finding of negligence, but found that Dow failed to properly inform of the risk of rupture
+- Issue for the SCC is whether the BCCA erred in finding Dow liable for failing to provide this information to the implanting surgeon (Birch)
+- Dow argued that they were not responsible, arguing that it gave sufficient warning to Dr Birch, and furthermore any failure to warn was not a cause of Hollis's injuries
+- In Canada, all manufacturers have a duty to warn consumers of potential dangers resulting from the use of their products
+- Relates to dangers known before, during, and after the time of sale
+- Medical products are held to an especially high standard
+- Fairly similar to the doctrine of informed consent
+- However, unlike the doctor-patient relationship, the consumer here never gets a chance to directly question the manufacturer
+- In exceptional circumstances, manufacturers can provide this warning through a "learned intermediary"
+- Usually only applicable if a product is intended to be used only under supervision of experts, or if the consumer cannot reasonably get a direct warning before using the product
+- Rule presumes that the intermediary is fully informed of any possible risks, which is expected to be done by the manufacturer
+- Applicable to this context, as the surgeons are the ones obtaining implants from the manufacturer, not the patient
+- Analogous to prescription drugs
+- Important to mention that this does not eliminate Dow's duty to warn
+### Causation
+- One of the issues raised was whether or not the alleged breach would have led to Hollis's injury
+- To determine this, the court considered using the test from [[Reibl v Hughes]]
+- Would a reasonable person have rejected the implant if placed in the same circumstances with proper information?
+- Previously, some have argued that this should be done with a subjective test for products cases
+- Raises the same issue that a subjective test would in *Reibl*
+- Duty of a doctor is the give the best medical aid possible to their patients, while the manufacturer will act in their self-interest
+- While applying a subjective test may be inappropriate in a doctor-patient test, in this case the doctor has nothing at stake
+- Therefore, Court decided to apply a subjective
+- Court reviewed the evidence and determined that Hollis likely would have opted out of the operation if properly informed
+### Conduct of Dr. Birch
+- Would Birch have warned Hollis of the risk of rupture if Dow informed him of the risk?
+- Dow made this argument because previously Birch had not made a habit of warning patients of the possibility of implant rupture
+- However, at this point it has already been established that Dow breached its duty to inform Hollis of the risk of rupture, and that Hollis would not have undergone surgery if properly informed
+- Also established that the rupture caused her significant harm
+- Why does Hollis still need to establish what Birch would have hypothetically done in this scenario?
+- Usually, the onus is on the plaintiff in a negligence case, but in this case it should be appropriate to reverse the onus
+- Drew on *Cook v Lewis* as an example, a case where the plaintiff was shot by one of two hunters, both shooting in the direction of the plaintiff but unclear whose bullet hit
+- In that case, the onus was reversed as the victim's power of proof was destroyed
+- In this case, Hollis's power of prof has not been destroyed, but has at least been significantly undermined
+- Hollis did nothing to cause this situation, and no matter what, her right to informed consent was breached
+- Similar to the hunter situation where it is clear a tort was committed, so it shouldn't be up the victim to prove who was responsible
+- Manufacturer shouldn't be able to get away scot free by blaming the doctor, and vice versa as it would create scenarios where a tort has clearly been committed but the plaintiff isn't awarded
+- Dow failed to warn Birch of the risks, and Hollis suffered, and this leads to liability regardless of if Birch would have warned Hollis if properly instructed
+- Appeal dismissed, decision awarded to plaintiff
+### Dissenting Opinion
+- Agrees with the result, but disagrees with the method of causation
+- Specifically objects to the majority using a subjective test to determine if Hollis would have consented
+- Raises the issue that the plaintiff will act in their self-interest and recommends the objective test that was used in *Reibl v Hughes*
+- Also protests against using separate tests for how the plaintiff would react when informed by the manufacturer vs the doctor
+- Fact remains that the manufacturer's duty is discharged by informing the doctor, who is expected to inform the patient
+- When it comes to the second issue, what the majority is effectively suggesting is that the courts effectively eliminate the requirement of establishing causation
+- Goes against established principles of tort law
+- If Hollis cannot prove that Birch would inform her of any information he might receive from Dow, can't establish causation
+- Otherwise, Dow would be incurring liability for actions that were pointless, as they successfully informed Birch but he did not pass on that information
+- Argues that the situation in *Cook v Lewis* does not apply here as there is not a complete destruction of the means of proof
+- Issue is mostly dependent on Dr Birch

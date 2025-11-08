@@ -7,6 +7,7 @@
 - Generally, the stronger the attachment, the stronger the presumption
 - On the other hand, if something is not attached, presumption is that it's not part of the land unless it was intended to be part of the land
 - This is the first part of the test, which is the degree of attachment/annexation
+- This degree can be zero, if you are trying to argue that something that isn't affixed should be included as part of the land
 - Second part of the test relates to the purpose of annexation
 - In the case *Holland v Hodgson*, which is where this part of the test comes from, compares a pile of rocks to a fence
 - If the rocks were stacked for convenience, this is done to facilitate better use of the chattel
@@ -44,3 +45,49 @@
 - Thus, the carpets which were important for the use of the hotel were deemed to be fixtures
 - Hard to argue that having bowling lanes isn't essential to the use of a bowling alley
 - However, in this case the property was not essentially a bowling alley, it just happened to be used for that purpose at the time
+### North West Trust v Rezyn Developments
+- In this case, the judge was talking about bowling alleys in a similar case, and described inspecting the premises and seeing the alleys as essential to the building
+- Premises were specifically designed for bowling, substructure had gutters placed in it for the ball return mechanism
+- Therefore in this case, the bowling alleys were fixtures
+- Just because the lanes could be removed and sold does not mean that was the intent, could just as easily be removing them for renovation
+- Building here is not a neutral shell, but was built for a specific purpose
+- Justice Proudfoot was also involved in this case lol
+- Recall that since affixation creates a presumption, the onus of proof is on the person trying to establish that the object isn't a fixture
+- This benefits the landowner, as it tends to increase the value of land
+- The burden is on the person trying to separate a fixture from the land
+- If the presumption was the opposite, where anything brought onto land is presumed to be chattel, and the landowner has to prove that the chattel is a fixture
+### Clause Example
+- This agreement will transfer ownership of classroom 106 and all fixtures contained within
+- A BC standard form used for a residential sale or purchase specifies that the price of a property includes all improvements, fixtures, etc.
+- Also allows the seller and buyer to specify what exactly is included or excluded
+- The general rule of thumb used by realtors is that anything that moves when the house is turned upside down is chattel, and not included in the purchase price
+### [[Scott v Filipovic]]
+- Filipovic leased some land to the Scotts so they could use it as a blueberry farm
+- In the contract, it mentioned that when moving out, the Scotts had to remove whatever plants they had and replace them with Timothy grass
+- Also specified that the lease can't be transferred
+- Scotts ran the farm for a bit before transferring the lease to one of their employees, who farmed the land for a bit longer before selling it back to the Scotts
+- Soon after this, the Scotts went to Arizona for the winter and while they were gone, Filipovic moved back in on the basis that the lease had been abandoned
+- Scotts tried to come back and get their blueberry plants, but Filipovic denied them
+- Sued for conversion and won at trial
+- Went to BCCA on the issue of whether the blueberry bushes were chattel or fixtures
+- Pretty clear that the bushes were planted in order to be continuously used to grow blueberries, as opposed to the example of *Long v Van Burgsteden* where the property was a nursery where trees were grown in order to be sold
+- The fact that the original agreement required the Scotts to remove the bushes does not determine whether or not the bushes are chattel
+- This has to be established through the common law test for determining chattel
+- One thing that needs to be considered here are tenant's rights, as the Scotts were leasing the land from Filipovic
+- Tenants can reclaim objects attached to the land if they attached the object, and the removal can be performed without causing serious damage to property
+- Established by *Stack v T Eaton*
+- Even if something is a fixture, if the tenant put it there, they have the right to remove it
+- This right can be limited by contract, and have to be removed in a timely manner, implying it must be done near the end of the lease, ideally before
+- However, the Scotts had lost this right because when they leased the land to Guite, they voided the lease by violating its terms
+- Therefore, their right to remove the blueberry bushes ended with the end of the lease
+- When Guite tried to assign the lease back to the Scotts, does not refresh this right
+### Personal Property Security Act
+- Deals with security interests in personal property
+- Classic example is allowing people to finance cars
+- What used to happen is that this would be a conditional sales agreement
+- Now, when someone sells an object on a financing agreement or something similar, they have to register that security interest under this Act
+- Relates to fixtures because of cases like *La Salle*, where one party may have a security interest in a good, where another party will have interest in the land
+- To know who has priority, look at where the personal property interest was created
+- If the interest was before or at the time the good was attached, then the party having an interest in the good takes priority, otherwise the party with interest in the land takes priority
+- Under s. 36(2), this specifies that it applies to all land certified under the *Land Title Act*
+- Tries to remedy situations like in *La Salle*, but it still hinges on whether or not the good in question is a fixture

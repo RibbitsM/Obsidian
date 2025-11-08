@@ -1,0 +1,32 @@
+- Plaintiff (Trachuk) and four co-defendants (Olinek, Fulkerth, Austin, and Muntz) all claim possession of a package of cash valuing $75,960
+- The money was found buried on a piece of farmland located next to a gas well
+- Trachuk's claim is based on an argument that he is the occupier of the land and *de facto* possesses the land the money was found on
+- Defendants claim that they are the finders, and are entitled to possession good against all except the true owner
+- Land was previously owned by CPR who leased it to Hudson's Bay Oil and Gas to create a gas well and access road, which was leased to Amoco Canada Resources
+- At the time, Amoco was the leaseholder of the region containing the gas well
+- Marathon Realty inherited the title to the land from CPR, and honoured the lease
+- Also granted three easements on the section to Voyager Petroleums, Sulpetro, and Signalta
+- At the time of the discovery, Signalta owned a pipeline connected to the well and contracted Olinek to disconnect the pipeline, who then hired the other three as subcontractors
+- Austin who was the backhoe operator, was digging down so they could disconnect the pipeline, and discovered a plastic bag filled with money
+- The land surrounding the gas well was leased from Marathon to Trachuk, a neighbouring farmer who wanted to graze cattle on the land
+- He had constructed a fence around the gas well to prevent his cows from going near it, which he built himself with reimbursement from Amoco
+- Also put a gate in the fence so he could enter if a calf snuck under the fence and could not get out
+- Trachuk never did maintenance inside the fence, and never attempted to stop oil workers from entering the shack or told them what to do
+- Marathon's policy was to lease as much surface land as possible to keep weeds under control, and would allow pasturing of the whole area except for access roads and any improvements
+- Marathon had entered an agreement to sell the section to Trachuk which was completed, but did not yet grant him interest in the land
+- At the time the money was discovered, Trachuk was leasing the land
+- The finders of the money are bailees, as they have legal possession which cannot be deprived by anyone except the rightful owner or someone with a prior right to the money
+- This is the rule applying to lost chattel
+- However, there is a distinction made between lost chattel and chattel that has been intentionally placed
+- It's clear that this money was not lost, it was hidden on private land
+- Not enough evidence to suggest that the money has been abandoned, and obviously the true owner is unlikely to come forward
+- The rights of the legal possessor of land where chattel is found has prior right to the chattel
+- Issue is whether or not Trachuk has legal possession
+- Generally requires occupation or physical control, to the exclusion of all others
+- Trachuk argued he had *de facto* possession, meaning he simply occupies the land
+- For this case, they mean the same thing as legal possession
+- Trachuk's evidence is pretty shaky, he did not exclude any oil workers from entering the land, and despite creating the fence it's clear he only did it for practical reasons
+- He also only holds the lease to the land surrounding the gas well, not the well property itself where the money was found
+- Amoco would have prior right as they had a lease to the well site and the subsurface beneath the well site, but are not a claimant here
+- Additionally, Trachuk's agreement with Marathon did not yet provide him with interest to the whole property
+- Given that Trachuk has no prior right, the money thus goes to the defendants

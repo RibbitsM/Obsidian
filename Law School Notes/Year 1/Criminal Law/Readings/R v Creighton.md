@@ -1,0 +1,74 @@
+- Issue is the constitutionality of s. 222(5)(a) of the Criminal Code which governs culpable homicide resulting from an unlawful act
+- This is a common law definition, and may violate s. 7 of the Charter
+- Defendant (Creighton) was convicted of manslaughter either by criminal negligence or unlawful act after injecting cocaine into a woman's arm, killing her
+- Chief Justice argued that this offence is unconstitutional on the grounds that it does not require objective foreseeability of death
+- Would resolve the issue of the moral culpability required not matching the punishment
+- CJ also argued that the objective test for criminal negligence includes subjective factors
+- In this case, it meant that Creighton had an increased ability to foresee harm given that he was an experienced drug user
+### Constitutionality of Manslaughter
+- Murder, infanticide, and manslaughter are the three types of culpable homicide
+- For manslaughter, the consequences, and fault must be less than intention to kill
+- Depends on a predicate offence, in this case it would be an unlawful act or criminal negligence
+- Doesn't automatically make it unconstitutional as long as the predicate offence involves a dangerous act, isn't an absolute liability offence, and isn't unconstitutional itself
+- These are the requirements set out by [[R v DeSousa]]
+- Objection in this case is that under these circumstances, the standard is still just objective foreseeability of bodily harm, not death
+- Same goes for criminal negligence, which only requires a marked departure
+- Does objective foreseeability of bodily harm as the *mens rea* for manslaughter violate the Charter?
+- CJ held that it was unconstitutional because the gravity of the offence demands at least foreseeability of death, and mental fault should equate to the consequences
+- [[R v Martineau]] set out four requirements for determining constitutionality, these are three of them
+- CJ admits that murder is more stigmatized than manslaughter despite having the same *actus reus* precisely because of the intention requirement
+- Overall this argument is unconvincing, the stigma is the most significant factor, and we can see that the stigma for manslaughter is clearly not as significant as some may think
+- Arguably, the stigma is exactly what it should be, we should be stigmatizing people who have killed others, but while recognizing they did not do so intentionally
+- Manslaughter serves this purpose by ensuring that everyone who commits a culpable homicide will be punished appropriately, otherwise we could have people who have killed another being convicted of only aggravated assault
+- Recall that there is no minimum sentence for manslaughter, reflecting the vast range of moral culpability that it covers
+- If you are trying to argue that culpability should match the punishment, this is how to do it
+- Let the judges determine which sentence is appropriate based on the facts
+- Also means that this satisfies the requirement that those causing harm intentionally should be punished more severely
+- Manslaughter is an unintentional crime, and has a corresponding low punishment
+- Traditionally, criminal law requires a match between the consequences of an offence and the required *mens rea*
+- Consequence here is death, so we should require objective foreseeability of death
+- Arguing that this makes the section unconstitutional suggests that this is one of the fundamental principles of justice and assumes foreseeing bodily harm is different from foreseeing death
+- Recall the "thin-skull rule", it's definitely possible for a risk of bodily harm to be equated to a risk of death
+- If we require objective foreseeability of death, this would violate this rule as it would prevent those who caused death while only foreseeing bodily harm because the victim was particularly vulnerable from being convicted for culpable homicide
+- The thin skull rule is a long-established part of the criminal and civil law, it's clearly not a violation of the fundamental principles of justice
+- It's true that as a general rule, *mens rea* will match the consequences of an act
+- However, there are still a few notable exceptions to this, suggesting it isn't absolute
+- As long as we aren't sending people to jail without *mens rea*, the Charter doesn't care
+- Based on circumstances up to pure luck, the same act may result in bodily harm or death
+- Goal is to deter conduct that may kill others
+- Existing standard supports this
+- If you engage in dangerous conduct, you should be held accountable if it results in death
+- Overall, the fault required for manslaughter is already equal with its gravity and penalty, no violation of the Charter
+- Still need to assess the objective test
+#### Objective Test
+- Argues that the test proposed by the CJ amounts to a subjective test
+- Established by [[R v Hundal]] that you can hold someone criminally responsible for negligence without violating the Charter, as long as there is a marked departure
+- There is a principle that criminal law should hold people to a minimum standard, and the morally innocent should not be punished
+- Court agrees with this, but argues that subjective factors are not required to achieve this
+- If there really is supposed to be a uniform standard of care, varying the standard based on personal factors violates this principle
+- Appropriate version would be to just assess if the person foresaw the risk or not
+- Law has consistently rejected the idea of incorporating personal characteristics
+- CJ pointed to Hart to argue that no one should be held accountable who was not acting of their own free will, and subjective circumstances are required to determine this
+- But apart from this situation, there is no support for the claim that we should vary standards
+- If an offence does not require subjective intention, leave personal factors out of it
+- The whole point of having an objective test is to enforce the minimum standard
+- Previously, the court has rejected defences that can't prove a lack of free will
+- Overall, the principle is that personal characteristics are only relevant if the offence requires subjective intent, or if those characteristics demonstrate a lack of free will
+- From a policy perspective, there is no point in punishing someone who can't obey the law
+- Going beyond this inevitably turns the objective test into a subjective one
+- Also, trying to exonerate people without the capacity to follow the law does not require adjusting the objective test
+- Recall that the test assesses whether or not the accused could have reasonably foreseen the risk
+- Usually this would preclude anyone who would be unable to make a choice
+- As long as you have the capacity to understand the danger of your conduct, you are culpable
+- This test also considered all the circumstances, recall the example of the welder in [[R v Tutton]]
+- Legal standard of care is always the same, but will vary depending on the circumstances
+- Care required in some activities is thus more than in others
+- If you're doing something like administering medical treatment, it's understood that this imposes a higher standard of care which is reflected in s. 216
+- If you are either not qualified to do this or act negligently, standard will be breached
+- In this way, the standard does not discriminate based on ability
+- Overall, the standard for all negligence crimes should be the reasonable person standard, and personal factors only apply if the accused could not properly appreciate the risk
+- Creighton unlawfully trafficked cocaine, and is guilty of criminal negligence based on the reasonable person standard
+- It was also reasonable that he could have foreseen a risk of bodily harm
+- Cocaine is a dangerous drug, and the person injecting it has a duty to understand the risks and not administer it unless they know there is no risk
+- Conviction was appropriate, and the constitutionality of the offence is sound
+- Appeal dismissed

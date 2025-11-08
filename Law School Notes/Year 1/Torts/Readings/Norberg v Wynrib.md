@@ -1,0 +1,41 @@
+- Plaintiff started taking painkillers to deal with a tooth problem, and became addicted before she could get it treated
+- Doctors didn't help her wean off, and revoked her prescription after she was treated
+- To avoid withdrawal symptoms she started going to doctors with fake illnesses to get more of the drug (Fiorinal)
+- Started getting it from the defendant (Wynrib) who discovered her addiction and used it to extort her for sexual favours
+- At one point, Norberg asked Wynrib for help, but he offered no medical treatment and just told her to quit
+- Norberg was later charged for getting prescriptions from multiple doctors, and decided to go to rehab
+- Later sued Wynrib for battery, raising the issue of whether or not Wynrib can raise the defence of consent
+### Analysis
+- Trial judge argued that Norberg outwardly consented to the contact despite not wanting to do so
+- This is enough to qualify for the defence of consent
+- Consent was not extorted by force and Norberg was not on drugs at the time, no reason to believe her addiction impaired her ability to reason
+- Majority in the Court of Appeal upheld this decision
+- Supreme Court argues that the lower courts improperly defined consent, it requires a presumption of free will
+- In contract law, things like [[Vitiating Factors|duress and undue influence]] exist to point out scenarios where the free will of one party is compromised
+- When determining whether a contract is "unconscionable", need to prove inequality in bargaining positions and an unfair outcome
+- This is similar to the process for establishing lack of consent in sexual assault cases
+- Pretty clear that there was marked power difference here
+- The potential for sexual exploitation in doctor-patient relationships has also been previously researched
+- Wynrib knew that Norberg was in a very vulnerable state when she came to him, and knew that she could not quit without treatment
+- Instead of using his medical knowledge to help Norberg deal with her addiction, he exploited her for sex
+- Not saying that addicts can't give consent, just that they can't give it while being exploited by someone in a position of power
+- Unequal power between the parties and the exploitative nature of the relationship eliminated Norberg's ability to meaningfully consent
+- Norberg asked for compensatory, aggravated, and punitive damages
+- Aggravated damages can be awarded if a battery occurred in humiliating circumstances, and punitive damages are used to "make an example" of the defendant
+- Usually both offered together, but have separate justifications
+- Court found that the circumstances called for aggravated damages, and Wynrib's reprehensible conduct created a need for punitive damages
+- Appeal allowed, granted $20,000 in aggravated damages and $10,000 in punitive damages
+### Dissenting Opinion
+- Pushed back against the contract law approach, arguing that Norberg's conduct amounted to consent
+- Pointed out that she admitted to using Wynrib's loneliness as a way to keep getting drugs
+- Also mentions that the doctrine of unconscionability does not vitiate consent, but sets aside contracts without considering consent
+- While Norberg consented to the sexual contact, she did not consent to Wynrib breaching his duty as a doctor to help her
+- Concluded that general damages should be awarded, but not the punitive damages
+- Another judge made a similar dissent, arguing that we should view this case through the lens of fiduciary duty
+- Wynrib had a duty to act in Norberg's best interests, which he failed to fulfill by not treating her properly and exploiting her
+- Argues that if you use the previous dissenting judge's analysis, there is no accountability for the sexual assault
+- By that reasoning, there would be no cause of action if Norberg was still sexually assaulted but was treated properly
+- Wynrib breached his duty both by prolonging Norberg's addiction and by sexually assaulting her
+- Caused long-term damage to her mental health, giving her a lifelong feeling of guilt
+- Argues for granting general damages in the amount of $55,000 and punitive damages of $25,000
+- Justified based on the concerning prevalence of sexual exploitation of patients by doctors

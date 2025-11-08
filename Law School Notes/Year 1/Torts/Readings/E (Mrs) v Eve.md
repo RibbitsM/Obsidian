@@ -1,0 +1,33 @@
+- Defendant was a mentally disabled woman named Eve who lived with her mother on PEI
+- Mother (Mrs E) sent her to a school for special needs people in another area of the island where she lived with relatives
+- Eve met a male student who was also mentally disabled who she talked about getting married to
+- Mrs E became concerned that Eve would inadvertently become pregnant which would negatively affect Eve
+- Also, Mrs E would likely have to raise the child, which she believed she could not do as she was becoming old
+- Tried to get permission to get Eve sterilized
+- Pretty clear that Eve understands what a family is but has no effective understanding of marriage, sex, pregnancy, and birth and how those things connect together
+- She suffers from extreme expressive aphasia, meaning she has great difficulty in understanding and expressing understanding of thoughts or concepts
+- Court concluded that Eve cannot effectively consent to sterilization
+- Question of whether the Court can consent for her remains
+- A hysterectomy is a major irreversible surgery, and it is not being done to treat any kind of medical condition
+- Can argue that it's to save Eve from the trauma of giving birth and being a parent
+- She's likely incapable of being a parent, but there's no reason to believe she would be traumatized by giving birth
+- The term *parens patriae* refers to the duty of the state to act as a parent when another caregiver is unavailable
+- Also gives the state the duty of caring for the mentally disabled
+- Originally came from British law, and was brought to Canada through the Doctrine of Reception
+- Exists out of necessity, requiring to state to care for those who cannot care for themselves
+- This duty has previously been invoked to require medically necessary operations, but it's unclear if it applies here
+- Need to be especially careful as sterilizing mentally disabled people is a component of eugenics
+- Alberta and BC used to have laws regarding this called the *Sexual Sterilization Act*, both repealed in the early 70s
+- Unique medical operations as it is almost never medically necessary
+- Evidence that there is significant negative mental damage caused by forced sterilization on mentally disabled people
+- Other justification for the process is to ease Mrs E's concerns that Eve will become pregnant and she will have to raise the child
+- However, *parens patriae* is only concerned with what will benefit Eve, and it's doubtful sterilization will be positive for her
+- Couple arguments for sterilization, and none are very good
+- While Eve may not be able to financially provide for her child, there is little evidence she won't be able to care for it
+- This is not an issue with Eve, this is a social issue not limited to mentally disabled people
+- We should be extremely hesitant about dealing with what is effectively an economic distribution problem with forced sterilization
+- Another argument is that a hysterectomy may limit hygiene problems that Eve might face with menstruation
+- Overall, there is not enough evidence to suggest that sterilization will help Eve more than it hurts her
+- Beyond that, it's hard to imagine a situation where the state would ever justify medically unnecessary sterilization under *parens patriae*
+- The ability to give birth is precious, and we should not be taking it away lightly
+- Final decision was that the Court will not provide consent for the treatment

@@ -1,0 +1,68 @@
+- Deals with s.218 of the *Criminal Code* which handles child abandonment, which prohibits abandoning/exposing a child under ten to circumstances that may cause injury or endanger
+- Issue is whether or not this is an objective fault offence
+- The defendant (ADH) gave birth to a baby boy in a Walmart bathroom, thinking that the child was dead and left the baby in the toilet
+- However, the baby was alive, and bystanders rescued him
+- ADH stated she was unaware that she was pregnant, and that the baby was dead upon birth
+- If we're assessing this offence objectively, this may not be a legitimate defence
+- Defendant claims that s. 218 requires proof the accused knew that the childs life would be endangered or their health would be damaged by the abandonment
+- Crown contends that this element can be established by proof that the accused's actions were a marked departure from the actions of an ordinary person
+- Also, was the risk to life/health reasonably foreseeable
+- Clearly established that the *actus reus* of the offence was met
+- Trial judge determined that there was insufficient evidence to prove that ADH intended to abandon the child, relying mainly on her testimony
+- Also provided an expert witness that confirmed that it is understandable to believe a child would be dead in the case of an unknown pregnancy and premature birth
+- Fear and panic would also explain her decision to leave immediately without telling anyone
+- Majority in the appeal court agreed with the trial judge, but dissent held that s. 218 has an objective fault element, but that the trial judge was right anyway as mistake of fact was a valid defence
+### Analysis
+- Not much precedent for child abandonment cases
+- There is a presumption that all offences are intended to have a subjective fault element
+- Based on the principle that morally innocent people should not be punished, forms a key part of the criminal justice system
+- Looking just at the text of s. 218, there isn't anything indicating that this is not a subjective fault offence
+- When examining the purpose of the offence, we can see that the point is to protect children from risk caused by abandonment even in the absence of harm
+- The previous form of the offence required harm, and was specifically changed to remedy this
+- Offence has a very broad scope of liability, and is not tied to any sort of duty to the child
+- Having the subjective fault requirement thus restricts the reach of this offence, ensuring only those truly guilty are punished
+- The three key words in the offence that suggest subjective fault which are "abandon", "expose", and "wilful"
+- Indicate some sort of awareness of the risk involved with the action, as both "abandon" and "expose" imply some sort of external danger
+- Finally, "wilful" is pretty much always a strong indication that there is subjective fault
+- This is the word that basically all of [[R v Buzzanga and Durocher]] hinged on
+- Court also argues that the use of the word "likely" does not imply an element of objective fault
+- Dissenting appeal judge argued that the use of this word implies a societal standard
+- However, the French translation does not support this view
+- Also important to recall that the point of the offence is to criminalize the **risk** of harm, which is probably the real reason for the inclusion of the word "likely"
+- Same argument was made in the *Lucas* case, where the court ultimately rejected the argument and held that the offence in question (libel) was based on subjective fault
+- Another important point is the differences between s. 218 and other already recognized objective fault offences
+- Doesn't have any of the characteristic elements of offences like criminal negligence or dangerous driving
+- Additionally, this is not comparable to failure to provide necessaries because s. 218 does not rely on a legal duty like that offence does
+- Does reference legal duty at some point, but that's just one way the offence can be proven
+- Also doesn't matter that it's in the "Duties Tending to Preservation of Life" section because it doesn't have the word "duty" in its title like the other offences in the section do
+- Finally, the fact that it has a similar punishment to other objective fault offences is irrelevant
+- Range of punishment does not imply a fault element
+- Criminal negligence causing death, which has a relatively lax *mens rea* requirement of objective fault, is punishable by life imprisonment
+- Theft under $5000 requires subjective *mens rea* and also an additional specific fault requirement, but is punishable only by summary conviction
+- The original acquittal and the decision of the appeal court to uphold it was correct, appeal dismissed
+### Dissenting Opinion
+- Seeks to dismiss the appeal as well, but disagrees that the offence has a subjective fault requirement
+- Argues that s. 218 is aimed at three classes of people 
+- People who have a pre-existing legal duty to take care of a child
+- People who come to the aid of an at risk child who has been abandoned
+- People that have abandoned an at risk child
+- Assuming an objective fault requirement, Crown must prove that a reasonable person would expect that their actions may place a child at risk of death/injury and were a marked departure from what a reasonable person would have done
+- Goal of the legislation is to require people to take care of young children in scenarios where their life or health may be threatened
+- Does this by establishing a bare minimum standard of conduct
+- Making this a subjective fault offence would violate this intention
+- Pointed to the *Naglik* case where the Court was tasked with interpreting s. 215 which covers failure to provide necessaries of life
+- Calls it a "sister offence" to s. 218
+- Argues that it's a duty-based offence, and the duty can be pre-existing or situational
+- Goes on to argue that the social stigma for violating s. 218 should be the same as s. 215
+- Have the same punishment, and should have the same fault requirement as well
+- Argues that if the degree of moral blameworthiness was intended to be higher for s. 218, the punishment would also be more severe
+- ts argument dumb ahh hell
+- Breaks down the *actus reus* into three components
+- Conduct is abandonment/exposure, the circumstances are doing this to a child under 10, and the consequences are a risk of harm to the child
+- Argues that the use of the word "wilful" in the definition of "abandon/expose" is only intended to interpret the conduct, and has nothing to do with the consequences?
+- Full sentence is "a wilful omission to take charge of a child by a person who is under a legal duty to do so"
+- "wilful" is used to modify the word "omission"
+- Intent is required to satisfy the act of abandonment, but does not extend to intent to create the consequences
+- If the word "wilful" was in the offence itself, would likely be a different case
+- Based on the findings of the trial judge, ADH had an honest and reasonable belief that her child was dead at birth, and should not be held liable for abandoning him
+- Appeal dismissed

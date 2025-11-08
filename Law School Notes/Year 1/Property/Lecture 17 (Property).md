@@ -1,0 +1,84 @@
+- As we have seen before, possession may support a legal claim, but is not guaranteed to do so
+- Common saying is "possession is nine tenths of the law", comes from *Hull v Horner*, a 1774 case
+- City sitting on a river historically had the right to levy duties on ships using its dock, and court held that they could continue to exercise that right despite changes in ownership
+- In a later case called *Asher v Whitlock*, the House of Lords stated that possession is valid against the whole world with the exception of someone who can show good title
+- In this case, a man built a cottage and left it to his wife in his will until she remarried, upon which it would be transferred to his daughter
+- After he died, the wife lived in the cottage with their daughter, and remarried
+- The three lived together in the house, and when the wife and daughter died, the husband asserted that by right of possession, he owned the house
+- The heirs of the daughter took him to court, showing that title had transferred to them after the daughter died, as she was the legal owner of the cottage
+- Recall that occupation is the basis for private property, one of the justifications for property is validating first possession
+- This takes the form of a legal presumption that the possessor has legal ownership
+- If noone can prove them wrong, they are allowed to maintain possession
+### Adverse Possession
+- Also called squatter's rights, details the rights of someone who has possession without deed
+- Same as the previous rule, the possessor has all the ordinary property rights and can exercise them against anyone except for the legal owner
+- However, there are certain situations where adverse possession extinguishes legal right
+- In a case in Nelson, BC, a homeowner claimed possession of an empty lot next to their house which was also claimed by the city (*Nelson v Mowatt*)
+- Court set out six elements required for adverse possession
+- Need actual possession, they intended to possess the property and physically occupy it
+- The occupation has to be open, and it has to be publicly known
+- Can't be hiding on the land without anyone knowing
+- Possession needs to be exclusive, especially exclusive to the title owner
+- If the title owner also happens to be using the land, case will be much weaker
+- Possession has to be peaceful, can't be physically keeping people out, they need to be recognizing their possession willingly
+- The occupation has to be without the permission of the title owner
+- Otherwise, this is just an extension of the title owner's rights
+- Finally, the occupation has to be continuous
+- If all these conditions are met, the title owners claim will be extinguish
+- Going by another British case called *Perry v Clissold*, property works on a statute of limitations
+- Once adverse possession begins, the rightful owner has a period of time where they have to assert their claim, or else they are abdicating their property to the occupier
+- In BC, this statute of limitations is set at twenty years, established in the *Statute of Limitations*
+- For the Crown, they gave themselves more time, so the statute for them is sixty years
+- In *Nelson v Mowatt*, they tried to prove that them and their predecessors had owned the land for sixty years, but were ultimately unsuccessful
+- In BC, you can't really acquire land by adverse possession anymore
+- According to the *Limitation Act*, right to land cannot be affected by adverse possession, unless all the elements were successfully met before 1975
+- According to the *Land Title Act*, once land has been registered it cannot be challenged by adverse possession
+- If you have an unregistered piece of land, the first application to register it can be defeated by proof of adverse possession
+- Tiny cases like *Mowatt* do still pop up occasionally, but they are extremely rare
+- Overall, we want property rights to be stable and reliable, and adverse possession disrupts this
+- It does have its benefits, it helps keep land from remaining stagnant
+- However, it's clear that the consensus is that adverse possession should no longer be recognized
+### Encroachments
+- An extension of adverse possession doctrine comes from the issue of building on the wrong land
+- According to the BC *Property Law Act*, if a building is found to encroach on adjoining land, the BC Supreme Court can order an easement on the land being occupied, where the encroacher can compensate the other land owner by granting them some of their land
+- Additionally, the Court can decide that the encroacher owner can be granted title to the land they are building on
+- Other option is to order them to remove the encroachment
+- Depends on how easy to remove the encroachment is, would it be disproportionately expensive to correct a minor mistake
+- In a 1995 case called *Vineberg v Rerick*, there was a dispute between neighbours over two adjoining lots
+- Both were on good terms, even building a gate to travel between their yards
+- After it was discovered that one neighbour built over the property line, issue went to court
+- Vineberg wanted the court to allow the encroachment to stay, and the court decided to evaluate what solution would create the least inconvenience
+- Goal is to find the solution that best balances the interests of both parties
+- Court has a lot of discretion to determine what to do here
+- Assessed the knowledge of each party, it turned out this was an honest mistake, Vineberg had an honest belief they were building on their own property
+- The nature of the encroachment was also considered, the permanence, effect, and cost of moving the encroachment were all considered
+- Size of the encroachment is also an important consideration, especially how it will affect the use and value of the properties
+- Ultimately, it was decided that a easement should be granted, no land was transferred but Rerick gave Vineberg the right to remain on the property they encroached on
+- Rerick was paid compensation for the easement in exchange
+### [[Ontario Heritage Trust v Hunter]]
+- Case surrounded a cottage plot in Ontario that was built on top of an Anishinaabe burial ground
+- Land was previously owned by Hunter's father, who was forced to sell the land to the Ontario Heritage Trust after multiple objects and bodies were discovered on the land around the cottage
+- Surveys determined that Lot 21, where the cottage was later built, did not need to be sold
+- However, it was later discovered that while building his cottage, Hunter had built onto the neighbouring Lot 20
+- Also located near an Anishinaabe reserve, and was valued extremely highly by the local Indigenous community and co-managed with the Ontario Heritage Trust
+- Trust went to the court to establish trespass and get an order to remove the encroachment
+- This would require a mandatory injunction, which is not always granted
+- Generally, trespass complaints will result in injunctions instead of damages, as we are trying to stop the trespass above any other concerns
+- Equitable remedy, which would traditionally be limited to a court of equity
+- To determine whether damages or an injunction should we awarded, a couple factors have to be met
+- Is the injury to the plaintiff small?
+- Can the injury be measured in money?
+- Can it be adequately compensated using a small payment?
+- Would granting an injunction be considered oppressive?
+- Depending on the answers to these questions, the court will decide whether to issue damages or an injunction
+- The reason why Hunter built on the adjacent land was because he didn't do a survey of the lot before building, he was relying on old hand-drawn maps and eyeballing
+- Court determined that he did not do his due diligence, and acted negligently
+- Unlike in Vineberg, there was some element of fault present here
+- However, Hunter made an argument that under the *Conveyancing and Law of Property Act*, he may be able to retain the land
+- Section 37(1) of this act states that when someone makes improvements to land while believing they own it, they are entitled to retain the land if ordered by a judge as long as they provide compensation
+- Arguably, this is similar to adverse possession as it can convert possession into a property interest without having a legal right to the land
+- However, this was superseded by the *Ontario Heritage Act*, and furthermore this provision only applies to private land, Hunter was building on public land
+- Also, the deep spiritual and cultural importance of the burial ground to the Anishinaabe was found to be significant enough to outweigh the inconvenience of removing the encroachment
+- Even if forcing Hunter to move his whole cottage may be oppressive, it is a small issue compared to the severity of encroaching on the sacred land
+- Recall that this is an equitable remedy, it should balance the interests of the parties
+- Ultimately, the encroachment was removed

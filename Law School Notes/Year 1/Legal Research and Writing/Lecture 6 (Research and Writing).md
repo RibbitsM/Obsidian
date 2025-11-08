@@ -1,0 +1,17 @@
+- Remember that you have to explore all the possible options, no matter which one you think is going to apply in court
+- For example in this case, you had to consider whether the standard of care was the adult version or the child version
+- Also remember the exam is closed-world, meaning you have to rely solely on the cases and information in the exam to write your answer
+- No using cases or info you learned in another class unless it's common sense like chain of causation
+- Word limit is 1200 words
+- This is an objective analysis, not a persuasive argument
+- Organization is important, make good use of subheadings
+- Make sure your reasoning is sound, avoid skipping steps or jumping to conclusions
+- Conclusion should be very brief, just state your position and why
+- Citations don't need to be properly formatted, but they should be there
+- Just include the name of the case and a pinpoint
+- Don't use the passive voice or first person
+- Don't go over the word limit, even going over by 1 word is a 1% deduction
+- Lose more points the more you are over
+- Even if there's a bit of a counterargument, try to at least mention it, but be aware of the word count
+- No need to cite the fact pattern, and do in text citations instead of footnotes
+- 

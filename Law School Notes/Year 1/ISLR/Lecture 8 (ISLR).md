@@ -1,0 +1,123 @@
+- UNDRIP makes reference to the convention on the rights of the child
+- This convention forms the background of international law of how to treat children in lawmaking
+- General Comment no 11 on this convention was made in 2009, and relates to Indigenous children and their specific rights
+- Part of a broader international protection program
+- After the White Paper, Indigenous people began to become more active in politics, and began to speak out about residential schools
+- Many former students brought cases against the Crown, alleging abuse by staff and teachers
+- Residential schools removed children from their families, a practice that didn't end when the schools closed down
+- After WWII, child/family services began to become a major priority, with the government significantly investing in these departments
+- Canada and the provinces made a concerted effort to create a robust welfare state
+- Also wanted to extend these services to Indigenous children
+- Before the 60s, government paid little attention to the welfare of Indigenous children
+- Provinces cannot pass legislation that affects Indigenous reserves, and reserves are under federal jurisdiction
+- Section 88 of the *Indian Act* was implemented to fix this, allowing provinces to make legislation affecting Indigenous families and children
+- Before this, the federal government was disinterested in funding services for status Indians, but had to make an agreement with provinces
+- Once jurisdiction and funding were acquired, Indigenous children began to be taken into the foster system and placed in non-Indigenous homes
+- Often, this would lead to the children losing their original names and identities
+- Arguably worse than residential schools, as in that case at least the children were with other Indigenous children
+- The amount of money spent on litigation on this topic is not insignificant, Canada has spent $40 million fighting the human rights tribunal decision alone
+- In *Brown v Canada*, a class action suit, court found that there was a breach of duty, but only for status Indians on reserve at a certain time
+- At the time, the federal gov entered an agreement to allow childcare services to extend to Indigenous communities
+- Also made a funding agreement with the province
+- By not acting in the best interest of the Indigenous community it breached its fiduciary duty established by the *Indian Act*
+### Child and Family Services Litigation
+- Key element is the lack of funding
+- Often comes out of a "jurisdictional wasteland", an area where no area of the government claims responsibility
+- Can also be limits on funding for Indigenous governments
+- Harm can also come through individual violence to children by foster parents or other individuals
+- Three harms are lack of funding, underfunding, and direct harm
+- Responses from the courts were the creation of Jordan's Principle and two orders from the Canadian Human Rights Tribunal
+- Jordan was born with complex medical needs, and was recommended to be placed in a specialized care home
+- Due to disagreement between the federal and provincial governments, no funding could be provided for this and Jordan died in the hospital
+- Tragic example of how jurisdictional wastelands can cause direct harm
+- House of Commons passed "Jordan's Principle", which was a commitment that the first jurisdiction in contact with an issue will pay, and reimbursement will be sorted out later
+- Issue is that it's still hard for families to get funding
+- Also doesn't stop provinces for arguing that they don't provide a certain service
+- For example, in a case in Alberta a father with two children with special education needs was denied education assistance even though there was federal funding available (*Shofer v Canada*)
+- Had to take the Alberta gov to court to get them to provide the service
+- When the case was reviewed by Indigenous Services Canada, they found that this violated Jordan's Principle
+- This was an admin law case, like most Jordan's Principle cases are
+- Recall that actions are split into multiple different buckets, there are statutory, common law, civil, admin, and more
+- In 2005, the First Nations Child and Family Caring Society released a report on the amount of money spent on just paperwork and administrative tasks required to approve Indigenous medical care
+- Government was operating on a tripartite system which was very unwieldy and subject to gridlock as there was no dispute resolution system
+- Indigenous children were given about 22% less funding compared to non-Indigenous children
+- Also, funding systems had annual caps that were only increased by 2% every year while medical costs were raising by more than that
+- Canada was spending more money on apprehension and custodial services than preventative measures
+- Caring Society brought action against the government before the Canadian Human Rights Tribunal soon after this
+- Complaint was based on discriminatory provision of services
+- Similar grounds exist under s. 15 of the Charter
+- Canada's argument was that they only provide funding, services are provided by the provinces
+- However, the court found that the level of funding was insufficient compared to other groups
+- Child welfare agencies had to follow provincial regulations with less funding than provincial agencies
+- Increased likelihood of apprehending children
+- Ordered government to develop a funding framework, and awarded $40,000 compensation per child affected
+- A similar case was the Moushoom and Trout class action lawsuits
+- Compensation was issued for both the tribunal decision and the class action suits
+- First Nations Child and Family Caring Society is different from the First Nations Child and Family Services Program
+- Former is the organization bringing the sui, second is the organization the suit was levied against
+- Federal court approved the Settlement and Claims process for this suit, and the claims period opened earlier this year for the first two classes
+- Includes nine different classes who may be eligible for compensation
+- First Nations government ended up backing out of the requirement to take on long term reform
+- Government offered a reform proposal that was rejected by the Assembly of First Nations, and the government has yet to come back to the negotiating table
+- There has been reform in certain sections of Ontario, but that's about it
+### Inherent Right to Self-Government
+- In 1980, the Spallumcheen Band Council decided to enacted child welfare law in their band
+- This was done through Indian Act bylaws, and because of s. 88 of the Indian Act, would take precedent over general provincial law
+- In 1996, an Indigenous child was placed into foster care, and two years later the Spallumcheen Band sought to reunite the child with their mother
+- Court upheld the bylaw
+- Best interests of the child is a principle from provincial legislation, and persists today
+- Idea is that the interest of the child is paramount, and are assessed based on cultural norms of what childhood should look like
+- Sixties scoop came from applying this principle without consideration of how cultural exposure impacts this
+- Children were taken away for financial reasons without thinking of how this will deprive them of their native culture
+- Also thought that returning them to their communities later on would disrupt the stable environment they had established
+- In some regions, nations chose to coordinate with the childcare agencies and hire informed staff
+- Standard was replaced with best interests of the Indigenous child
+- Some arguments were made that Indigenous childcare services actually failed the best interests of the child requirement
+- Thus, provincial services should take priority
+- This argument is still raised in some cases
+- What happens if a child is off-reserve or is non-status?
+- In this case, band bylaws would not apply
+- One of the reasons why a nation might prefer to work with the provincially delegated authority
+- Another option is making an argument based on the right to self government from s. 35
+- In a 2004 decision we saw the same argument as in the Spallumcheen case where well being of the child is depicted as in conflict with preserving their heritage
+- Four avenues to get control of welfare laws
+- First is through band by-laws
+- Second is through provincial delegation where Indigenous agencies are given control
+- Third way is through working with provincial organizations
+- Fourth is through s. 35
+- For the second option, the Indigenous organization has to obey provincial law in all matters not related to their "indigeneity" as established in s. 91
+- At the same time, as part of its ongoing residential school investigation the TRC made a call to action
+- Required federal gov to create child-welfare legislation to create standards for Indigenous children cases
+- This would enable Indigenous governments to create child welfare agencies and help ensure Indigenous children were not taken from their communities
+### An Act Respecting First Nations, Metis and Inuit Children Youth and Families
+- Responding to the TRC call to action but also a previous court order and was intended to comply with UNDRIP
+- Intended to affirm self government of child services
+- Historically, Canada's primary goals have been to limit financial responsibility and to limit legal liability
+- This act basically ends up pushing responsibility onto Indigenous groups without accompanying financial support
+- Separated into four sections
+- Also has a definition section
+- Defines Indigenous governing bodies as only groups authorized to act on the behalf of Indigenous groups
+- Specifies that nothing in the act restricts right to self-governance, and is binding on the Crown
+- Act is to used according to the best interests of the child
+- Also applied based on cultural continuity and substantive equality
+- Provincial version of best interests of the child is still used to an extent
+- Also emphasizes that priority is put on making sure children have a relationship with their Indigenous group of origin
+- Specifies that the Charter applies to the Indigenous governing body
+- Between this and the requirement to comply with best interests of the child, shows an interesting approach to self-governance
+- Places restraints, but also specifies it's not restricting self-governance
+- Allows Indigenous groups to enter coordinating agreements with the province, but act will still apply if they make reasonable efforts to but do not succeed
+- In either case, laws created by Indigenous communities on child welfare will have the force of federal law, and will take precedent over conflicting federal or provincial law
+- Only exceptions are conflict with the best interests provisions and the Canadian Human Rights Act
+- Quebec challenged the act on the grounds that the federal government cannot establish federal standards in provincial matters
+- Also, self-government can only be recognized by treaty, not by statute
+- Supreme Court held that based on s. 91(24), Act is constitutional
+- Because of the specificity to **Indigenous** child an family services, the element of indigeneity puts it in federal jurisdiction
+- Court doesn't explicitly recognize the right to self-governance here, but justifies their specific actions
+- Describes the act as a part of "legislative reconciliation"
+- Uses it as an example of weaving together federal law, Indigenous law, and international law
+- Due to the Honour of the Crown, Canada now has duties to uphold this agreement
+- Mentioned that UNDRIP is not binding, but pointed to some of its provisions
+#### Best Interests and Placement of the Indigenous Child
+#### Indigenous Jurisdiction Over Child and Family Services
+#### Law Making
+#### Publication/Accessibility of Laws

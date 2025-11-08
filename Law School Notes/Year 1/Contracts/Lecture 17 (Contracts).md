@@ -1,0 +1,12 @@
+- QnA session for lectures 13-16
+- Jurisdiction given in the exam may matter, some decisions are binding only in BC
+- Promissory estoppel is an extension of waiver, tool that is used when you are told a fact and during litigation the opposing party tries to walk back that statement?
+- Waiver relates more to promises made by the other property rather than statements of fact, those cases are covered by estoppel by representation?
+- Scenarios where you try to reclaim some sort of right relate to waiver/promissory estoppel
+- Promissory estoppel requires detrimental reliance under Canadian common law, but waiver does not
+- However, the UK cases are more mixed on this topic, but there is almost always some sort of detrimental reliance at play
+- Waiver and promissory estoppel are basically equivalent, but hasn't been clearly established if waiver also requires detrimental reliance
+- However, due to the nature of waiver, there's inevitably going to be some element of reliance
+- One way to avoid the issue of waiver or promissory estoppel is to provide some nominal compensation for what would usually be a gratuitous promise
+- Entire agreement clauses can in some cases sink a contract if it happens that a key part of the agreement is located outside the written document
+- 

@@ -1,0 +1,63 @@
+- Recall that one of the main justifications for making dangerous driving an objective fault offence was that driving is an activity where there is a basic expected standard
+- We can modify the objective fault test from civil law to incorporate the possibility of unexpected things happening like a stroke while driving
+- Even if the *actus reus* is established and the conduct of the accused was objectively dangerous, still possible to acquit them based on the *mens rea*
+- May be a departure from the reasonable standard, but not a marked one
+- Even if the consequences are disastrous, should not let that distract you from analyzing the *mens rea*
+- Applying the "momentary lapse" argument from *Beatty* and *Roy*, a trial judge in a case called *R v Chung* argued that someone speeding in a residential neighbourhood should be acquitted
+- Based on the fact that he sped up only right before the accident
+- However, BCCA and SCC overturned this decision, arguing that he was clearly speeding up intentionally, no lapse in control or judgement
+- In another case called *R v Thomas*, a driver on Vancouver Island fell asleep while driving and hit two pedestrians, killing one of them
+- Counsel brought up the example of [[R v Jiang]], but failed as Thomas was under the influence, and could have reasonable predicted this would lead to him falling asleep
+- When evaluating dangerous driving for the exam, use the *actus reus* and *mens rea* established in [[R v Beatty]]
+### [[R v ADH]]
+- Defendant gave birth to a baby in a Walmart bathroom, and left the baby in the toilet believing it was stillborn
+- Also was unaware that the she was pregnant, and likely gave birth prematurely
+- Left the store in a state of distress, and soon after the baby was found in the bathroom and ended up surviving
+- Conduct for this would be abandoning or exposing a child, the circumstances are that the child has to be under 10, and consequences are endangering the life or health of the child
+- The words "abandon" and "expose" also have definitions in the *Criminal Code*
+- Can be defined as a wilful omission to take charge of a child by someone under a legal duty to do so
+- This is one possible definition, but specifies that it is not the only possible definition
+- If this offence has subjective fault, need to establish that the accused personally knew that the life/health of the child would likely be endangered
+- If the offence has objective fault, need to show that the accused made a marked departure from what a reasonable person would have done, and that a reasonable person would predict that the life/health of the child would likely be endangered
+- Recall that we're assuming this standard does not include any personal circumstances, right now our only modification of the objective test is making it a "marked departure"
+- When we say "personal circumstances", this does not exclude any evidence the defendant had access to at the time of the incident
+- In this case, the court determined that this offence is a subjective fault offence
+- Importantly, they mention that all offences are initially assumed to be subjective
+- Dissenting judge argued that the purpose of the offence is to establish an objective minimum standard of conduct to help preserve the lives and health of young children
+- Ironically, both sides ended up coming to the same conclusion, based on the facts of the case, the accused had both an honest and reasonable belief that the child was dead
+### Objective Fault Offences
+- Sets out a classification of kinds of offences that are likely to have objective fault
+- Five main categories
+- First is offences with "dangerous" conduct
+- Any offence that punishes the accused for acting in a "dangerous" way will usually have an objective fault requirement
+- Main example of this is dangerous driving
+- Second is offences with "careless" conduct
+- Similar to the first, implies some sort of objective standard to be measured against
+- Main example is careless handling of a firearm
+- Third is predicate offences
+- These are offences where you have an underlying offence required for another offence
+- Usually, once the *mens rea* of the underlying offence is already proven, you just have to prove objectively that the accused could predict that offence would lead to a certain consequence
+- Main example of this is manslaughter, where in this case the consequence is death of another person
+- Fourth is criminal negligence offences
+- Previously established as objective fault offences by [[R v Tutton]] and [[R v JF]]
+- Fifth is duty-based offences
+- This is the category the dissenting judge alleged that s. 218 falls under
+- Main example for this is failure to provide necessaries of life
+### [[R v Zora]]
+- Recent case that applied the *ADH* analysis to another offence
+- Offence in this case was breaching bail conditions
+- Zora was initially charged with a couple drug offences, and one of his bail conditions was that he had to answer the door within 5 minutes if a police officer or bail supervisor visited his house
+- This was because Zora had a curfew, and they needed to check if he was obeying the curfew
+- Failed to answer the door twice, and argued that he was sleeping and could not hear the officer knocking on his door
+- After this, he started sleeping near the door and was present for all future checks
+- Subjectively, he would be innocent here as he did not know that the police were knocking
+- If it's an objective fault offence, there are many more ways to convict
+- BCCA sat with 5 judges, and determined objective fault on a 4 to 1 majority
+- Argued that bail conditions establish a uniform standard, and the accused has a duty to comply with those standards
+- Supreme Court disagreed significantly with this reasoning, determining subjective fault
+- Points out that you are presumed to be innocent while on bail, and bail conditions often restrict things that an ordinary person would be free to do
+- In fact, reasonable bail is a constitutional right
+- Especially relevant considering the federal government is trying to place restrictions on bail
+- Based on this decision, you have to establish that the accused was subjectively aware of the conditions and was reckless in their attempts to meet those conditions
+- Court states that the accused must see a substantial risk that their conduct would lead them to be unable to comply with their conditions and proceed anyway
+- 

@@ -1,1 +1,44 @@
-- 
+- Case was about a portion of a cottage lot intruding into a burial ground sacred to the Anishinaabe
+- Portion includes part of the cottage itself as well as a driveway, a well, and some decorative trees
+- Undeniable that Hunter's lot encroached onto the land, but unclear whether or not this is considered trespass
+- Ontario Heritage Trust sought a declaration that this is trespass, and Hunter has to remove the encroachments at his expense
+- Hunter seeks to keep the encroachments and instead offers an equal sized portion of his lot
+- Court sided with the Trust
+- Trust is the registered owner of Lot 20 since 2007 which is public land that constitutes part of the burial ground
+- Hunter owns the adjacent lot (Lot 21), buying it in 1989 and building the encroachments in 2005
+- Burial ground is co-managed by the Nawash
+- Located on Bruce Peninsula, which is in Lake Huron
+- Part of a subdivision plan that covers a large portion of a Nawash sacred site and burial ground
+- When Hunter purchased Lot 21, he found archaeological artifacts on the territory and got a PhD student to investigate
+- Dug up thousands of artifacts and found human remains as well
+- Triggered an investigation under the *Cemeteries Act*
+- Investigated Lots 9-22, finding that all of them contained human remains, and declared that Lots 9-20 were a cemetery
+- Hunter's father had to sell the lots to the government, eventually succeeding in 2007
+- When Hunter got a development permit to build his cottage, he didn't get a survey done and relied on an incorrect hand-drawn map
+- Application approved as long as an archaeological assessment was done
+- Assessment happened in 2003, and Lot 21 was cleared for development in 2004
+- Hunter applied for two more permits in 2005, both using the same incorrect map of the lot
+- Hunter believed he was constructing on Lot 21, but was actually building a portion of his property on Lot 20
+- When the Trust bought lots 9-20 in 2007 and did a survey, they discovered the encroachments
+- Issues are whether the encroachments are trespass, and whether an injunction is appropriate for this
+### Analysis
+- Recall that trespass is a direct and physical intrusion onto land through a voluntary act
+- Clearly trespass, the encroachments are physical and direct, and were constructed voluntarily
+- Hunter recognizes this, real issue is the injunction
+- Historically, the preferred remedy for trespass has been an injunction
+- Especially in the case of direct infringements on the property of another, to avoid further interference with property rights, an injunction is needed
+- Injunctions are an equitable remedy, and comes with considerations
+- Need to address if the injury is small, can be estimated monetarily, can be compensated by payment, and if the injunction would be oppressive
+- Clear that the injury here is not small, as Lot 20 is an extremely important spiritual territory to the Nawash, and is also important culturally to the people of Ontario
+- Burial sites are sacred and not to be disturbed, which they are currently being disturbed by the encroachments
+- No way to estimate this kind of violation in money
+- Can't really offset the duty to preserve the rest of your ancestors with money
+- However, it is pretty oppressive to have to ask Hunter to remove the encroachments as this will probably mean the whole cottage has to go
+- He can still rebuild or move the cottage even though Lot 21 is still sacred ground
+- Shows that the presumption towards injunctive relief may be disrupted, even if it ultimately wasn't in this case
+- When balancing the importance of the burial grounds to the Nawash and the importance of the occasionally used cottage to Hunter, the Nawash wins out pretty easily
+- Finally, even if Hunter made an honest mistake, he didn't use due diligence when determining the boundary line
+- Hunter also argued that under the *Conveyancing and Law of Property Act*, he can hold onto trespassed land since he made permanent improvements to the land under the belief it belonged to him
+- If he provides compensation, can hold onto the land
+- However, this is trumped by the *Ontario Heritage Act* which takes precedent over this act
+- Encroachments were trespass, and injunction was ordered
