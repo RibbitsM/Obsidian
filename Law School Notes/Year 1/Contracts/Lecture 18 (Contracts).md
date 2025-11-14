@@ -1,66 +1,44 @@
-- If a gratuitous promise cannot be enforceable, can cause significant harm to one party
-- In *Gilbery Steel v University Construction*, a steel supplier couldn't reinforce a promise by a purchaser to raise the contract price
-- No consideration other than the pre-existing duty to give steel
-- In another case called *Foakes v Beer*, a promise from a creditor to discharge a debt if it was partially paid is also unenforceable
-- In both cases the parties wanted to enforce the contract, but the law of contracts denied that desire
-### Waiver
-- In *Hughes v Metropolitan Railway*, a landlord told a tenant they had to repair things in the unit within 6 months, and the tenant wanted to negotiate the lease before making the repairs
-- Negotiations broke off, and after 6 months the landlord sued to evict the tenant on the grounds that the lease was void as no repairs occurred
-- Request was denied based on the doctrine of waiver
-- Negotiations had led the tenant to believe that the 6 months warning would not be enforced
-- In doing so, landlord had "waived" their right to enforce the 6 month requirement
-- Waiver is when by either your conduct or explicitly through your words, give up a right that you previously had
-- Once a right is waived, it cannot be reclaimed
-- Often, doctrine of waiver is brought in by the defendant, used to rebut a claim made by the other party by arguing they waived a right
-- Can also be done by the plaintiff of course, but is more often used as a defence against enforcement of a certain provision
-### Estoppel by Representation
-- If A gets B to act to their detriment based on a statement made by A, they have to stand by the truth of that statement
-- For example if you say that a debt is extinguished and someone else relies detrimentally on that statement, you can't walk it back
-- In a case called *Jorden v Money*, a creditor assured a debtor they would not act on a debt
-- Debtor went on to marry their fiancee since they weren't in debt anymore, and the creditor sued to enforce the debt
-- In the initial suit, determined that creditor can't do that because she represented that she wouldn't enforce
-- House of Lords argued that the promise was not a representation but a contract and held that the promise not to enforce the debt was given without consideration
-- Doctrine does not apply to promises
-### Promissory Estoppel
-- Created in *Central London Property Trust v High Trees*
-- Defendant took out a lease on some apartments right before WWII
-- Had not been fully leased out before the war started, and the money from the leases would not be enough to pay for the defendant's lease
-- Landlord agreed to a reduction in rent, and the defendant continued paying that rate even after all the apartments were leased
-- After the war ended, landlord got a new receiver who ordered that the defendant had to pay full rent as well as arrears
-- Plaintiff sued for rent for half a year as a test, relying on *Foakes* and *Jorden*
-- Principle from these cases was that partial payment isn't binding, and they can't be stopped by estoppel by representation because they made a promise, not a representation
-- Lord Denning saw this as an opportunity for a new doctrine
-- Waiver could help for the payments made before 1945
-- Even if the promise was made gratuitously, it was supposed to be binding and should be treated as such
-- Can't go back on a promise like this
-- This was the test case, so they were just trying to get their money from the latter half of 1945
-- Promise to not pay full rent extinguishes the original promise
-- Very similar to waiver, but waiver doesn't apply in this case because of the partial payments precedent
-- Promissory estoppel does the same thing, but where waiver does not apply, effectively expanding the doctrine of waiver
-- Promissory estoppel can only be used as a "shield"
-- In *Combe v Combe*, promissory estoppel can only be used as a defence against an attempt to enforce a previous agreement
-- Can't sue someone on the basis of promissory estoppel
-- Based on the idea that enforcing an original agreement would be unfair, creates another difference from waiver
-- Also, there is no requirement of detrimental reliance, but it would certainly help your case
-- Suffices as long as you can prove that someone acted "differently" based on some concession
-- Usually detrimental reliance, but not always
-- Most cases are like in *High Trees* where someone relies on a lowered price
-- In Canada, we have moved towards requiring detrimental reliance
-- Based on an SCC case called *Trial Lawyers Association of BC v Royal and Sun Alliance Insurance*
-- Concession for promissory estoppel has to be voluntary and free from vitiating factors
-- Doesn't have to be explicit, and can be inferred from conduct or silence, but is easier to prove otherwise
-- Unclear whether concessions are permanent, *High Trees* doesn't provide a way to restore the original terms
-- In that case there was a time limit, but what if there was no time limit?
-- One way to restore original terms is by inferring the existence of an implicit time limit within a concession
-- Also may be able to do it just by giving advance notice
-### Difference From Waiver
-- Pretty tricky to figure out, courts and scholars are still mixed
-- Looks like basically all waiver cases are also promissory estoppel
-- Especially applies to the old waiver cases
-- Waiver was originally from common law, while promissory estoppel came from an equity court
-- Today, all courts can issue equitable remedies
-- But in the past, it would have made sense to have similar doctrines across the court systems
-- Another approach is to point out the requirement of reliance in promissory estoppel, which is less important in waiver
-- Also more established that you can un waive a right
-- Finally, waiver will always deal with past or present rights, only promissory estoppel can handle future rules
-- In practice, the two claims basically always go hand in hand
+- We can have contracts where services are provided from one party to another, but payment is sent to a third party
+- Initial contract is between the promisor and the promisee, with a third-party beneficiary
+- Doctrine of privity holds that the third party cannot enforce the contract, they're not actually a party to the agreement
+- Can't sue on a contract unless you're part of the contract
+- Can lead to cases where the third party will have no redress despite the fact that someone promised to pay them with consideration
+- General principle is that the third party has no right to enforce the agreement
+- However, courts have taken steps to help the third party in some cases
+- Another doctrine of contract law that has been widely criticized
+### Tweddle v Atkinson
+- The father of a bride promised the father of the groom that they would pay the groom before a certain date
+- Recorded the promise in writing, which the couple saw
+- Also stated that the husband had right to sue either party
+- Husband brought a claim against his father-in-law, but was unsuccessful as he was not a party
+### Dunlop Pneumatic Tyre Co v Selfridge & Co
+- Tire manufacturer wanted retailers to sell their tires at or above a list price, but sold their tires to retail through wholesalers
+- Incentivized wholesalers to bind retailers into selling at list price in their contracts, or else they would owe a fee to Dunlop
+- If the wholesaler could do this, they could sell the tires at 10% below the list price
+- Selfridge & Co bought tires under one of the contracts, but then sold the tires below list price anyway
+- When Dunlop sued, they were unsuccessful due to privity
+- In the decision, judge mentioned two different justifications for the doctrine of privity based on "fundamental principles"
+- First, only someone party to a contract can sue to enforce it
+- Second, for a party to be able to enforce a contract, they must have received good consideration from the promisor
+- Dunlop had a contract with the wholesaler, but had no contract with Selfridge and provided them with no consideration
+- Unclear what was meant by the requirement of being "party" to a contract, and how it's separate from the second requirement
+- Additionally, the doctrine of consideration only determines whether a contract is binding, has nothing to do with who can enforce a promise
+### Criticisms and Limitations
+- Reformed in many jurisdictions, and has been removed in England and New Brunswick
+- Elsewhere in Canada it still exists, but with many caveats
+- In *Beswick v Beswick*, a promise by a nephew to pay an annuity to his uncle's widow after his death in return for his business was held to be unenforceable, despite protest by Lord Denning
+- In a Canadian case, Justice Iacobucci spoke hesitantly about using the doctrine, but argued legislature should reform it, not the courts
+- There are a number of statutory exceptions to the rule, mainly for industries like insurance, mortgages, and shipping
+- There are also several common law exceptions to the doctrine
+- If a business owner makes provisions limiting liability from customers, that protection extends to their employees as well (*London Drugs v Kuehne & Nagel International*)
+- Normally, the protection would only be between the owner and the customers, as under privity they are the only parties involved
+- Also, insurers cannot sue third parties to an insurance contract if there is a waiver of the right to do so in the contract (*Fraser River Pile & Dredge v Can-Dive Services*)
+- Ordinarily, this would result in the same issue as in *Tweddle*
+- Court held that when two parties to a contract want to extend a provision to benefit a party outside the contract, as long as the activities of that party fit within the contract, it's ok
+- Two elements to the test are intent to benefit the third party and activities falling within the scope of contract
+- This is called the "principled exception" to privity and was the exception at play in both of these examples
+- Additionally, if these provisions affecting third parties are changed, the changes may be ineffective if there are rights from the original version that have already crystallized
+- In the *Fraser River* case, what happened was that the plaintiff was a boat charter company that negligently sunk a boat covered by an insurance policy that prevent suing third parties
+- The insurance company and the boat owner agreed to suspend the clause preventing litigation to sue the charter company
+- However, Supreme Court held that the right has "crystallized" when the boat sunk, and the clause could not be revoked after the fact
+- Doctrine still exists in Canadian common law, but is significantly weakened considering how many jurisdictions have moved on from it and how many exceptions there are

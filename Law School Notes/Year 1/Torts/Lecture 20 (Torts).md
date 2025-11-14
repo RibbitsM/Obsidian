@@ -1,0 +1,65 @@
+- Recall that the primary goal of tort law is to prevent private wrongs
+- Comes in the form of protecting existing rights, and remedying them by awarding damages
+- Typically, when substantial rights abuses are recognized by the court, the plaintiff is awarded significant damages, which also has a preventative effect against future violations
+- Canada doesn't use the term "solitary confinement", they call it "administrative segregation"
+- Usually used in federal penitentiaries, and is a further, additional form of imprisonment
+- Can be done to protect safety, as a penalty for behaviour, or simply at the whims of the authority
+- Usually 23 hours per day confinement with little to no human contact
+- Small cells, steel beds with all furniture bolted to walls
+- Lights are always on and only dimmed at night, and often has no time limit
+- Removes the ability to see the end of your imprisonment, messes with your head
+- Also no clear requirement to meet to be freed from imprisonment
+- Widely condemned for decades by researchers, independent advocates, and international bodies, even the Canadian government itself
+- Usually seen as the worst punishment the government can legally impose on an individual
+- Has faced several legal challenges, and the courts have repeatedly recognized the immense harm it creates such as paranoia, hallucinations, increased likelihood of suicide and more
+- Disproportionately used against indigenous and black inmates, with higher severity
+- Many prisoners have specifically noted that the lack of a time limit is the worst aspect of being placed in solitary confinement
+- UN Special Rapporteur on Torture has stated that solitary confinement lasting for more than 15 days qualifies as torture
+- This punishment has consistently been applied for much longer than 15 days in Canadian prisons
+- Some of the more extreme cases involve imprisonment for multiple years
+- Reform came in 2018-2020 with several major legal challenges
+- Evidentiary record was strong enough that in most cases, the government didn't even appeal to the SCC, which is pretty rare for a case like this
+- Canada ended the former regime in 2019 where 1 in 4 federal prisoners suffered solitary confinement
+- Now we have Structured Intervention Units (SUIs)
+- Now there is a task force that regularly monitors these units, and speaks to prisoners and observes time limits
+- Standard time is now 20 hours, with 4 hours out with at least one hour of meaningful human contact, cells were also remade to provide more basic needs
+- Unfortunately, these reforms have not had the desired effect, and the same problems persist
+- Monitoring group is called the Advisory Panel, and releases annual reports on the subject
+- Recent report identified several core problems with the SUIs, practice still continues and vulnerable groups are still disproportionately affected
+- The maximum 15-day period is not being applied, there are still many individuals put in solitary for up to 2 years
+- Even in the first year, only 10% of prisoners were held for less than 15 days
+- 30% did not get the designated 4 hours out
+- Even considering the existing overrepresentation of Black and Indigenous prisoners in the penitentiaries, they are still even more overrepresented in SUIs
+- There is now a set number of reasons for solitary confinement, but these reasons are quite broad and there is no requirement to show a specific reason
+- Procedure for placing someone in an SUI is subject to several checks and balances, but this is mostly contained within the prison system
+- External bodies like the Advisory Panel have input, but it's often ignored
+- Can also be imposed in provincial prisons and immigration detention centers
+- Sometimes the same as the federal approach, but can also be more lenient
+- Also used by psychiatric hospitals, but it's not regulated by the same bodies
+### False Imprisonment
+- Stems from the writ of trespass to a person
+- Core concern of the tort is with violations on liberty, historically used to prevent against citizens arrests or handcuffing for minor crimes like shoplifting
+- Solitary confinement is a form of imprisonment, by removing what remaining liberty prisoners have
+- Allows the more nuanced harms of solitary confinement to be assessed on an individual basis
+- Recall that the main goal of tort law is to restore the state that the individual was at before the harm occurred
+- Damages can both compensate the individual and deter further violations
+- Huge balance of power between a prisoner and the state, it's very hard to get evidence and discovery in cases like these
+- Also no legal aid for tort law, not like immigration or criminal law
+- Very low burden of proof on the plaintiff, all they have to do is prove they were imprisoned and had no avenue of escape
+- Good because in this case, simply being placed in solitary confinement is sufficient to prove false imprisonment
+- Then the onus is on the defendant to provide a justification for the imprisonment with the defence of legal authority
+- This is very significant because it limits some of the main issues people have with the law
+- This was established in [[Frey v Fedoruk]], the definitive case for false imprisonment in Canada
+- Also has previously been several false imprisonment cases for false imprisonment specifically
+- *R v Hill* established that solitary confinement can lead to an action for false imprisonment
+- However, this has been really limited by a 1987 decision called *R v Lebar*
+- When dealing with damages, Court decided that the liberty of a prisoner is not as valuable as that of a free person as they have already given up their liberty by committing a crime
+- Therefore, general damages would only be based on their earning potential if they were out of solitary confinement, which in prison wages would be $5 per day
+- Doubled this amount, awarding only $10 per day in confinement
+- This is paltry amount, especially compared to similar false imprisonment cases
+- For example, $800 in damages were awarded for 80 days in confinement compared to a case in Alberta where the plaintiff was handcuffed for shoplifting and got $23,000
+- Recently, the federal court awarded $7,500 in damages for 9 days in solitary (*Richards v Canada*)
+- There were many additional factors in this case as the plaintiff was also falsely arrested, with the false imprisonment decision only making up a portion of the case
+- However, the Court did specifically mention moving away from the decision made in *Lebar*
+- "When a right has been granted by law, it is no less important that such right be respected because the person entitled to it is a prisoner"
+- Quote from Justice Arbour

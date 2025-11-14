@@ -16,7 +16,7 @@
 - If the defendant was an ordinary citizen, this would be an open and shut case
 - *Expropriation Act* exists to dislodge the way that the case would resolve under the common law
 - In cases like these, the liability will be lifted if the nuisance was created by the inevitable consequences of exercising statutory authority
-- Example of the Inevitablility Doctrine, which states that the government will not be held liable for nuisance caused inevitably by the exercise of state authority
+- Example of the Inevitability Doctrine, which states that the government will not be held liable for nuisance caused inevitably by the exercise of state authority
 - Common law doctrine does not apply in this case
 - As long as there was no negligence on the part of the government, they will not be held liable
 - The *Expropriation Act* exists to award compensation in cases where a private nuisance would exist in the absence of statutory authority
@@ -45,3 +45,9 @@
 - House suffered extensive damage, and plaintiff alleged that the flooding was a nuisance
 - Defendant argued that they were not liable as their operation of the sewer system was protected under the defence of [[Statutory Authority]]
 - Trial judge awarded compensation, was appealed successfully at appeal court, and went to the SCC
+### Ryan v Victoria
+- In another Supreme Court judgement, the court elaborated on the inevitability doctrine
+- Rule is that liability is absent if an activity is authorized by law and the nuisance is an inevitable result of performing that activity
+- *Tock* tries to limit the defence to only situations where statute mandates a duty or specifies how to carry out a duty
+- La Forest also deviated from the rule by arguing that the defence only applies if there is statutory exemption from liability
+- Argues that this is a departure from the traditional rule, and we should not follow this precedent

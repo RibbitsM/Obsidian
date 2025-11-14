@@ -1,0 +1,48 @@
+- Accused (Javanmardi) ran naturopathic clinic in Quebec, had a science degree from McGill but no medical doctors license
+- However, they still had fairly extensive training on IV injections and regularly performed this procedure to provide patients with nutrients
+- This procedure is illegal in Quebec, but not in most provinces
+- Victim (Matern) and his wife visited Javanmardi's clinic to seek an alternative method to treating Matern's heart disease
+- Javanmardi recommended IV injection of nutrients, and Matern insisted on doing immediately
+- One of the vials used for the injection had been used twice already that day with no side effects, but turned out to be contaminated
+- Almost immediately, Matern started showing signs of infection, feeling hot and nauseous
+- Javanmardi had never experienced this before, and thought Matern was having a hypoglycaemic reaction and recommended he eat sugar
+- Taken to the hospital later that night, and died of endotoxic shock
+- Charged with criminal negligence causing death (s. 220(b)) and manslaughter (ss. 234 and 236(b))
+- Trial court found that the injection was benign and potentially helpful
+- Also, Javanmardi had the appropriate education and skills to do the procedure
+- Quebec does not regulate naturopathy, but Javanmardi met regulations from other provinces
+- Bought their nutrients from Ontario, which was legal and complied with health and safety laws
+- Sterilization procedures sufficient to prevent contamination were followed
+- Matern knew Javanmardi was not a qualified doctor and consented to the procedure
+- Death was inevitable from the moment of injection
+- Acquitted Javanmardi of both charges based on these facts, no marked departure and no reasonable person would have seen a risk, and there was no wanton/reckless disregard
+- Even though the act was "unlawful" due to Quebec's *Medical Act*, the act was not objectively dangerous and no reasonable person would foresee the harm
+- Appeal court concluded that trial court misstated elements of both offences
+- Act was objectively dangerous and a marked departure, overturned both acquittals and ordered a new trial on criminal negligence
+### Analysis
+- *Actus reus* of criminal negligence causing death is taking an act or omitting to fulfill a legal duty, causing the death of another person
+- *Mens rea* is showing "wanton or reckless disregard" for the life/safety of the victim
+- Court previously held that this is based on the modified objective standard ([[R v JF]])
+- Recall that for criminal negligence causing death, standard is marked **and substantial**
+- However, it's never been established how this is different from a "marked departure"
+- Still doesn't really matter for this case
+- For unlawful act manslaughter, the *actus reus* is committing an unlawful act that causes death
+- Predicate offence here is performing an IV injection contrary to the *Medical Act* which is a strict liability offence
+- As discussed in [[R v Creighton]], the predicate offence may have to be "objectively dangerous"
+- Court argues this is defined by the presence of objective foreseeability of a non-trivial risk of bodily harm, pretty much how it was defined in *Creighton*
+- Precedent establishes there is no additional *actus reus* element required for this
+- It's just part of the mental element, no need to examine it twice 
+- Therefore, *actus reus* is established by just proof BAR that the unlawful act caused death
+- *Mens rea* is objective foreseeability of a non-trivial chance of bodily harm, plus the predicate
+- Because the predicate here is a strict liability offence, also need to show a marked departure
+- No matter what charge the Crown pursues, they have to prove on an objective standard
+- *Creighton* established that some acts have a higher expected level of care
+- Standard here would be to compare to what a reasonable naturopath would have done
+- In this case, Javanmardi had the requisite education and experience to ensure that they are qualified to perform the injection
+- Court of Appeal erred in stating that the injection was objectively dangerous as they failed to consider that it's part of the fault element, not the the *actus reus*
+- Appeal allowed, acquittals restored for both counts
+### Dissenting Opinion
+- Dissenting judges argued that the injection was still objectively dangerous
+- Javanmardi repeatedly gave injections without legal authorization, providing multiple doses from a single dose vial which creates a risk of infection
+- No need to incorporate the personal characteristics of the accused
+- Trial judge erred on the mental element by applying the standard of foresight of death

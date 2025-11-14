@@ -1,0 +1,25 @@
+- English law generally distinguishes between gifts and contractual exchanges
+- The formalities for each kind are different
+- Gifts may require delivery and signature, while contracts are based on offer, acceptance and consideration
+- Goal of gift is donative intent, while for contracts we want to protect the security of an exchange between parties
+- We want the law to intervene as little as possible in both kinds
+- Usually gifts do not warrant enforcement as they just redistribute existing wealth, while contracts create wealth
+- Thus, the approach to legal enforcement is justified on the idea that there is a "fit" between a kind of transaction and its legal backing
+- Kind of weird because the doctrine of donative intent is based on an assumption of deceit, where the doctrine of consideration assumes people are trustworthy
+- Giving is scrutinized, but exchanges are trusted
+- This goes contrary to the common understanding of gifts versus exchanges, where the former is usually good faith while the other is more adversarial
+- In social sciences, it's generally understood that there isn't such a clear-cut difference, as gifts often come with an immaterial reward
+- Given this evidence, why should we treat the two differently?
+- Can argue that this is because of the point of having legal formalities
+- The point of a gift is to be spontaneous and unspecific, what do we gain by regulating and limiting these exchanges?
+- But why do we have these regulations for bargains?
+- Justification is usually to protect common expectations when it comes to economic transactions
+- But we also have significant expectations tied to gifts
+- Only real difference is one kind of expectation is economic, while the other is not
+- Ends up amounting to prioritizing commodities over other kinds of immaterial wealth that can come from exchange
+- Also possible that we don't need the law in gift-giving as societal pressures are sufficient to enforce the rules
+- These pressures are still present in economic transactions though
+- Overall, the legal system may not be equipped to handle the demands of gifts which often carry significant emotional or social weight
+- But the law also deals with things like family law and reproductive rights
+- Overall, the legal approach to gifts expresses a message that gifts are unimportant, and not as worthy of intervention as bargains
+- We should be questioning the assumptions that hold up this reasoning

@@ -1,0 +1,61 @@
+- Three recognized ways to make a gift of chattel
+- Deed, declaration of trust, and delivery
+- Plaintiff argued that the gift was not created through deed or declaration of trust
+- Instead rely on the prior establishment of a valid gift
+- To establish this, they need to overcome a set of presumptions and principles working against them
+- First, there is the principle that a court of equity will not complete an imperfect gift
+- Second, legal possession creates a presumption of property rights
+- Additionally, the longer legal possession carries on, the stronger that presumption will be
+- Sidney Nolan and the defendant Lady Nolan have possessed the paintings in dispute here for 27 years, and any witnesses of the alleged gift are now dead
+- Therefore, plaintiff has to prove the elements of a gift by delivery
+- Plaintiff argued that Sidney Nolan made many gifts of different paintings to his wife Cynthia, which is evidence that this painting was also a gift
+- However, this also suggests that any paintings he retained after his wife's death were not gifted to her
+- His wifes will did not benefit him at all which upset Sidney, but he still did not try to challenge when Cynthia's estate took control of many of his paintings
+- This suggests that he honoured these paintings as gifts
+- To establish a gift with no deed or declaration, there needs to be intent to make a gift, intent to accept a gift, and delivery
+- Intention to make a gift is usually established by words specifying a transaction as a gift, and what is being gifted
+- However, plaintiff has no witnesses and has to rely on documents as evidence of intention to make a gift
+- Court argues that these documents would not amount to words of gift even if they were admissible as evidence
+- However, plaintiff argues that as long as there is still donative intention, there is no requirement of words of gift
+- Clearly established that we need donative intent and delivery, but case law is fairly ambiguous when it comes to words of gift
+- Most previous cases had undisputed words of gift, and the main issue centred around whether there was delivery or not
+- However, we still need some way to establish donative intent
+- While this is usually done through words of gift, it's conceivable that it could be done through other means
+- Onus is on the plaintiff to establish these other means
+- The main evidence we have here is statements from Sidney describing the paintings as belonging to Cynthia, made after the alleged gifts would have been made
+- Court concludes that this can be sufficient evidence of donative intent
+- There was a similar case called *Re Ridgeway* where a donor believed he gifted port to his children and referred to it as such after the fact
+- Ended up being held to be incomplete as delivery was never completed, but donative intent was established without words of gift
+- Usually you would get the donor or donee to testify, but we can't do that here
+- Still need to establish that there was donative intent at the time of delivery
+- A promise to make a gift is not sufficient to prove a gift
+- Need to be especially careful with interpreting these documents given that the donor and donee are both dead
+- Suspicion lies on the person alleging the gift, as the donor cannot appear to give their version of evnts
+### Delivery
+- Court concluded that there was no words of gift or donative intent, so there's no need to consider delivery, but it's addressed anyway
+- Delivery is not evidence of donative intent, it's an essential component of a gift
+- Requires a transfer of possession and ownership of chattel to the donee, as well as relinquishing control over the chattel
+- Delivery can be manual physical delivery or constructive
+- If manual delivery is impractical or impossible, can establish delivery through other means
+- Can also have constructive delivery if the donee already has possession of the chattel
+- Delivery can come after manifestation of intent or at the same time
+- A gift can be retracted prior to delivery, so it's important to make sure that there is still donative intent when delivery happens
+- Otherwise, need to establish that the donee has custody at the time donative intent was established
+- In this case, manual delivery is not required
+- This is what happened in *Stoneham v Stoneham*, the donee was already occupying a house when the donor gave words of gift
+- Issue comes with establishing this when it comes to spouses or people who live in common
+- In *National Trustees Executors and Agency Company Limited v O'Hea*, the deceased donor gave words of gift transferring his coach and horses to his coachman right before he died
+- However, there was no delivery
+- Servant had actual possession, but only as a bailee as the coach legally belonged to the donor
+- In another case, a wife argued that she was the owner of a furnished house as when they moved in, her husband said "Look, it's all yours"
+- When her husband went bankrupt, a trustee tried to claim the contents of the house
+- Trial judge held that the husband's statement was enough to constitute a valid gift, as since they both lived in the house, there was already delivery
+- Exemplifies the issue of requiring delivery when it comes to gifts in common cases
+- Overall, from a policy perspective it would be better to keep delivery as a requirement, as doing otherwise would open up too many unfounded claims of gifts
+- The fact that it makes common living situations harder to resolve is just an unfortunate side effect
+- There was no evidence of any kind of intentional attempt by Sidney to deliver the paintings to Cynthia
+- The two shared a common home throughout their marriage
+- However, there is no evidence that the paintings in question were located in that home during the marriage
+- Even if we assume that living in the home where the chattel was located constitutes delivery, we still can't establish delivery in this case
+- Only exception is from 1974 to mid-1976
+- Overall, plaintiff failed to establish donative intent and delivery, and there was no valid gift to Cynthia

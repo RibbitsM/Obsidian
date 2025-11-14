@@ -38,7 +38,7 @@
 - Third place would go to Austin, who has a right as the finder
 - Austin may have to give up the money to Olinek though, as he was acting as his employee
 ### Wicks Estate v Harnett
-- Ben Wicks was a political cartoonist who died in 200-
+- Ben Wicks was a political cartoonist who died in 2007
 - He was a hoarder who kept his cartoons in multiple different houses and would dig them up and publish them as needed
 - Harnett brothers bought a house from Wicks' son in 1992, which contained many garbage bags in the garage, some of which contained many of his cartoons
 - After Wicks died, the Harnett brothers sought to publish some of the cartoons they found and sought to get copyright from the Wicks estate, which sued them
@@ -48,3 +48,25 @@
 - Suggests that the estate intended to maintain control of these drawings
 - Counsel for the brothers argued that on an objective standard, anyone would believe that these drawings were supposed to be abandoned
 - However, the test in this case is subjective, as opposed to the objective test for fixtures
+- Decision hinged on whether the cartoons had been lost or abandoned
+- Even if there was a loss of physical control, was there subjective intent to abandon?
+- The cartoons were found in a garbage bag, does this suggest that they were supposed to be thrown out and were thus abandoned?
+### Parker v British Airways Board
+- In this case, the plaintiff found a gold bracelet in a British Airways airport lounge and claimed it for themselves
+- However, the company argued that since the object was found on their property, it belonged to them as the true owner never made a claim to the bracelet
+- Court ruled in favour of the plaintiff, as they had legal possession and the airline company did not have a superior right to them
+- In the case where the finder was trespassing or acting dishonestly, they may still have some rights
+- In *Bird v Town of Fort Frances*, a boy who found a bag of money lying on private land was allowed to keep it, even though he was trespassing
+- As long as the item was lost and not intentionally placed, the finder will have superior right compared to the owner of the land it was found on
+- In *Baird v British Columbia*, the plaintiff admitted he got some money through theft and the police confiscated it
+- Wasn't charged, and tried to make a claim to get the money returned to him as the finder
+- Court said no, as the acquisition of the money was made dishonestly
+- In *Bird*, the wrongful act was the trespass, but the acquisition of the chattel was done honestly
+- Recall that a finder has a claim good against all others except for the true owner, someone who has a right through the true owner, or someone with a prior right to the chattel
+- Additionally, if chattel is found by an employee as part of their employment, the right to the chattel goes to their employer
+- Finally, the finder has an obligation to seek out the true owner
+- An occupier has superior rights to chattel in or attached to their land
+- Uses the word "attached", but this isn't the same as the test for fixtures
+- Occupier also has superior right to objects not attached to a building if they showed intent to exercise control over a building and anything on it or within it
+- Also has the same obligation to find the true owner that a finder has
+- Applies not just to buildings, but also chattel like ships, cars, or RVs

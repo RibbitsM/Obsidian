@@ -1,0 +1,21 @@
+- Parents charged with manslaughter for failing to provide necessaries after treating their son with natural health remedies after he got meningitis, causing him to die before getting proper medical attention
+- Convicted at trial, and the court of appeals upheld the conviction
+- Dissenting judge argued that the jury had been misled on the "marked departure" standard
+- Pointed to the description from [[R v Beatty]] establishing it as higher than a mere departure
+- The accused may be negligent, but that doesn't mean there is marked departure
+- In that case, at least we had a basic standard to compare to since it was a driving offence
+- No similar set of standards for parenting
+- Jury heard a lot of medical evidence, and the trial judge failed to specify that they should not convict based on what a doctor would do, but what reasonable parent would do
+- SCC agreed with this reasoning, and ordered a new trial, resulting in an acquittal
+### R v Goforth
+- Same offence was covered in *R v Goforth* where the defendants fostered two preschool girls who were found malnourished and needing medical treatment
+- Defendants didn't seek medical attention until the older girl had died of cardiac arrest
+- Charged with second degree murder, wife was convicted and husband was convicted of manslaughter
+- Appealed arguing that the judge didn't consider that he was a secondary caregiver
+- SCC dismissed the appeal, arguing that personal characteristics are irrelevant to *mens rea*
+- In *Creighton*, it was determined that these only matter if they suggest an inability to assess the risks of a certain action
+- Issue was whether being a secondary caregiver is a situational or personal characteristic
+- A spousal relationship can be a relevant circumstance, single parent houses are different from two-parent homes
+- Husband argued that since he was home less than his wife, he had much less involvement
+- However, he still had a duty to provide necessaries of life, neglecting this duty cannot be considered a vitiating circumstance, it's part of the *actus reus*
+- The fact that he wasn't involved in caring for the girls is actually evidence of his guilt

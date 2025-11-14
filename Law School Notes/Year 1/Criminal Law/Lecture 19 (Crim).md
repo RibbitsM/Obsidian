@@ -82,3 +82,26 @@
 - Recall that the degree of intent will be reflected in sentencing, *Smithers* is a good example
 - Overall, the court determined that the proportionality was met, and there does not have to be exact symmetry between the consequences and *mens rea*
 #### Objective Test
+- *Actus reus* requires proof of an unlawful act, causing death of another person
+- Broad scope, can apply to pretty much any criminal statute
+- *Mens rea* of the predicate offence can't be absolute or strict liability
+- Also need objective foresight of bodily harm on top of that, because of the thin-skull rule
+- Raises the issue of who the "reasonable person" is here, should we include personal characteristics?
+- Recall that the court was split 3-3 in [[R v Tutton]], so there's no definitive precedent
+- Here, the majority opinion was that we should not include personal characteristics
+- Exceptions are that we can consider the nature of the activity, and if the personal characteristics demonstrate that the accused was unable to foresee risk for some reason
+- This is important for [[R v Javanmardi]], specifically the first exception
+- Different acts require different standards of care, example is handling an umbrella vs a gun
+- Distinction made not on the basis of the practitioner, only the activity
+- This can end up putting weight on some personal characteristics, for example it will be relevant whether someone is a doctor when the act involves medical treatment
+- The dissent in this case was led by Justice Lamer, who advocated for personal factors in *Tutton*
+- Court was initially split, one judge ended up siding with the majority opinion despite being opposed to an objective test, primarily to finally clear up this issue
+#### Wholesale Travel
+- Another SCC case relating to this issue
+- Recall that strict liability offences put an onus on the accused to prove due diligence
+- Challenged under s. 7 and s. 11(d) of the Charter, leading to an odd 3-3-3 split from the court
+- In this case, the accused was a corporate entity
+- Court determined that the objective test for strict liability does not violate s. 7
+- It would be possible to create a "special stigma" offence that does, but the provision here was merely a regulatory offence
+- Overall, the majority of the judges found that there was no violation of s. 7, though they were split on whether or not it violated 11(d)
+- Bottom line is that as the law currently exists, strict liability offences are constitutional

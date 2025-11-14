@@ -35,9 +35,3 @@
 - Difference between a random severe tragedy like this or an ordinary disturbance
 - You still can't sue for salted roads rusting your car, but you can sue for random damage to your land like in *Schenck*
 - Argues to allow the appeal, but for different reasons
-### Ryan v Victoria
-- In another Supreme Court judgement, the court elaborated on the inevitability doctrine
-- Rule is that liability is absent if an activity is authorized by law and the nuisance is an inevitable result of performing that activity
-- *Tock* tries to limit the defence to only situations where statute mandates a duty or specifies how to carry out a duty
-- La Forest also deviated from the rule by arguing that the defence only applies if there is statutory exemption from liability
-- Argues that this is a departure from the traditional rule, and we should not follow this precedent

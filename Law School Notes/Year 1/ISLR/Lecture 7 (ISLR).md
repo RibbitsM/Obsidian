@@ -1,1 +1,136 @@
-- To do
+### [[Honouring the Truth|History of Residential Schools]]
+- In the early 1800s, Methodist missionaries had started establishing themselves around the Great Lakes
+- Catholic missions were already there, coming with the French
+- Peter Jones was one of these missionaries who would later become Chief of the Mississaugas of the Credit River
+- Met Reverend Egerton Ryerson, who had recently converted to Methodism
+- Jones envisioned a Mississauga community that was independent and self-governing with the same civil rights afforded to British citizens
+- 1827 marked the first report on the Department of Indian Affairs, which recommended abolishing the department
+- Also suggested that assimilation could be done instead by providing mandatory education for Indigenous peoples paid for by treaty annuities
+- Pointed to the success of Jones' Credit River mission
+- Several more reports were issued, with some in favour of assimilation and other arguing for resettlement
+- Over time, the environment began to shift towards the assimilation approach
+- Jones and Ryerson both advocated for this approach
+- Ryerson specifically argued that religion boarding schools was the best way to "civilize" the Indigenous
+- Proposed cooperation between the government and the Methodist church, which ended up being what they did
+- Another commission also recommended schools that would teach practical skills like trades and agriculture
+- Expenses could be covered using student labour
+- Taking any of these approaches would require Indigenous land to held in fee simple as opposed to communally
+- The fact that all the reports individually recommended this shows the connection between land and the education policy
+- *Indian Act* was amended in 1920 to allow the government to compel parents to admit their children to residential schools
+- Also banned spiritual processes and replaced traditional governance with elected councils supervised by the Indian Agent
+- Based on the industrial school model from Britain
+- Goal was not to prepare the children for employment
+- Especially in church-run schools, most education was related to religion and not the topics taught in public schools
+- Mainly focused on industry education, teaching agriculture, mechanics, and domestic skills
+- Recall that the Royal Proclamation of 1763 was intended to save money by favouring gradual settlement instead of costly war
+- Treaty annuities and spending on reserves was a major drain on the government budget, so the goal was to assimilate the population to remove the need for these payments
+- This lack of money trickled down to the schools themselves, which were extremely underfunded
+- Led to tuberculosis outbreaks and the deaths of many students
+- In 1907, the Chief Medical Officer of Indian Affairs, Peter Bryce, submitted a report to the government complaining of overcrowding, poor ventilation, and abuse leading to TB outbreaks
+- Report was ignored, and Bryce went on to write *A National Crime* after his retirement
+- When outbreaks did occur, sick children were often just quarantined
+- The Indian Health Services ran segregated wards for Indigenous patients, and later switched to separate hospitals
+- Treated many TB patients, but also did births and other procedures
+- Many patients were treated with outdated techniques
+- Government employees continued to advocate for mandatory attendance throughout the late 1800s until it was done in 1894
+- Increased the presence of the RCMP on reserves, who mainly served as truancy officers
+- Later on, criminal penalties would be imposed for truancy, both for children and their parents
+#### Legal Proceedings
+- There were investigations into residential schools early on, but they really started ramping up in the 90s
+- In a 1994 investigation of the Kuper Island School, information came out suggesting that the federal government was interfering with the RCMP investigation
+- Survivors testifying were required to bring physical evidence to corroborate their claims, which was not required by the *Criminal Code* at the time
+- Less than 50 criminal convictions came out of this process, which is a drop in the bucket compared to the 38,000 claims filed under the IAP
+- Some survivors decided to take action through tort law, bringing claims against the church, the government, and their abusers
+- Totalled over 18,000 individual actions by 2005
+- The *Cloud* class action was approved the year prior, and Canada was already working on negotiating a settlement
+- This involved a number of barriers for survivors to overcome to get justice for what happened to them
+- First, for a class action there must be a representative plaintiff
+- This means that an action for residential school survivors would not include day school students, or Metis/Inuit/non-status claimants
+- Additionally, the "thin-skull" principle in tort law prevents liability if there is potential for harm to arise without the actions of the defendant
+- Crown argued that most plaintiffs would have ended up suffering many of the same harms by virtue of living on Indian reserves, residential school attendance was not a decisive factor
+- Ridiculous argument, especially since the conditions on reserve were also the fault of the government
+- Also, multiple claims were dismissed because their limitation periods had expired, likely excluding many of the oldest claimants from compensation
+- Tort law also ordinarily only addresses physical, emotional or economic harms, not the effects of loss of language or culture
+- Finally, actions can only be brought by the person who suffered the harm, meaning the family members of victims had no action if the claimant died during the process or was already dead
+#### Settlement Agreement
+- Indian Residential School Settlement Agreement was approved in 2006, and was implemented starting in 2007
+- Involved five key components
+- First was the Common Experience Payment, which was $10,000 granted to all eligible former students for their first year at the school, and $3000 for every subsequent year
+- Second was the Independent Assessment Process which handled individual claims of sexual or physical abuse
+- Third was healing support such as the Residential Schools Resolution Health Support Program or the Aboriginal Healing Foundation
+- Fourth was the establishment of the TRC and other commemoration activities like memorials and survivors events
+- Fifth was a formal apology from the Canadian government
+- Elements three and four were specifically requested by survivors, who wanted money set aside for healing and commemoration
+- TRC was established in 2008 to examine the history of residential schools and help create a path forward
+- Established the Indian Residential School Survivor Committee
+- Held National and Regional events involving visits to local communities where survivors could share their stories
+- There were also private avenues for disclosure, including interviews with former staff members
+- Process didn't go perfectly, many organizations refused to turn over evidence to the TRC without a court order
+- Also, the IAP Adjudication Secretariat didn't tell claimants that they could send their testimony to the TRC, which would otherwise be destroyed after 15 years
+- The legacy of these events is still felt, and further abuses were documented throughout the 1900s and 2000s with the 60s scoop and its own legacy
+- This is now having its recognition through the First Nations Child and Family Caring Society class action case
+- Likely that the report on MMIWG will inspire a similar backlash in the future
+- TRC also discovered that in many ways, the court process was counterproductive for most victims
+- Not only were they forced to revisit their worst memories, but they were often mistreated by their counsel
+- We're also seeing this in how we reevaluate our historical figures
+- Schools and buildings are being renamed, Ryerson was recently renamed to Toronto Metropolitan University due to the assimilationist legacy of Egerton Ryerson
+### [[Fontaine v Canada]]
+- Although there were benefits to the settlement agreement, many survivors felt that it was a net negative
+- Throughout the five elements of the agreement, the government, churches, Assembly of First Nations, Inuit representatives as well as individual counsel, the merchant law group and the National Consortium were all involved
+- The fact that Canada was a party to the agreement carried inherent problems
+- Courts usually don't like it when the defendant is the same body administering the settlement
+- This is especially prominent when it comes to the IAP claims
+#### Common Experience Payment (CEP)
+- Meant to account for the poor quality of the schools, as well as the harm created by the loss of language of language and culture
+- Also included $27 per day for students living year-round at the school for the first year, and $8 per day after that
+- Day school students received no compensation
+- Also were issues over whether students at Indigenous-ran schools like Blue Quills qualified for compensation
+- All elements were overseen by the National Administration Committee (NAC)
+- This involved a representative from each party, and was responsible for carrying out court orders, hearing appeals for CEP applications, and issuing Requests for Direction
+- These were basically orders to uphold the implementation of the settlement agreement
+- The *Fontaine* case was an RFD ordering the Chief Adjudicator to step down after they started interfering in appeals processes
+- If a claimant's CEP application was denied, they could request reconsideration
+- About 28,000 people did this, with 10,000 of those being successful
+- However if your reconsideration request was rejected, you could still appeal to the NAC
+- There were about 5,000 of these, with around 1,000 succeeding
+- Finally, any remaining applicants could appeal to a court, with only 7 people succeeding
+#### Independent Assessment Process (IAP)
+- This was an non-adversarial hearing process intended for claimants who experienced serious physical or sexual abuse
+- Allowed compensation of up to $275,000, and around 38,000 claims were filed
+- Mainly evidence-based, involved gathering lots of personal information from many different government departments
+- These documents were subject to an RFD, which was the *Fontaine* case
+- Lawyers and form fillers worked to help claimants submit applications
+- Canada was responsible for providing the narrative of the schools and information on any alleged perpetrators
+- This was also subject to RFDs
+- Legal fees were awarded on a contingency basis, lawyers could charge up to 30% of the award and Canada would pay for up to 15% of total legal fees
+- Fees also had to be approved by the adjudicators
+- Didn't account for the use of "form fillers" to help client complete IAP forms which often charged a fee that was considered separate from the legal fees
+- This is what Blott's firm was doing, extracting payment from their clients outside of the settlement process by directing them to pay the form filling company instead of the firm
+- A traditional IAP process would start with the claimant meeting a legal professional and completing an application
+- Then documents would be requested, and a hearing was scheduled
+- Claimant and their counsel would attend the hearing, where the adjudicators would determine their eligibility and review the legal fees
+- This was before the concept of trauma-informed lawyering, there was no real oversight except for the fee review
+- Not only were claimants harmed, exploited, and revictimized, but lawyers and staff ended up with vicarious trauma
+#### The Blott Application
+- Blott's firm had over 5,600 IAP clients
+- Most of these came from Honour Walk, their form-filling company
+- Claimants usually didn't meet their lawyers until the day of their hearing, and the lawyers were generally very ill-informed
+- Also provided loans to claimants at criminal interest rates which were repaid using the settlement funds
+- Also, a number of clients didn't even get all their settlement money
+- Turned out that most IAP applications were being filled out using a standard template
+- Ignored the actual experience of the survivor and put in whatever would yield the highest reward without raising too many eyebrows
+- Often ended up changing stories completely between the application and the court date
+- Client signatures were added to the documents after the fact, and many clients never saw their own applications
+- Many completed applications were never submitted, despite the form fillers receiving payment from the client
+- Blott was subjected to several interventions from the Law Society of Alberta and was criticized broadly by the IAP staff
+- Despite this he continued forward with the same process
+- Also tried to terminate over 2,000 IAP claimants before the hearing for the *Fontaine* case happened
+- Blott argued that the courts can't ban him from the IAP process as it would basically shut down his entire firm
+- Court argued that the whole IAP process was supposed to be temporary anyway, and it's clear he wasn't going to change anything
+- Only point in letting him stay would be to allow him to exploit more claimants for money
+- In the end, his firm and all of the associated companies were banned from the IAP and any part of the Settlement Agreement
+- Lawyers associated with the firm were allowed to stay, but only under the supervision of another firm
+- Law Society of Alberta also suspended him, noting that he does not understand the fiduciary nature of law
+- Blott and Co clients began suing him, with a class action becoming certified in 2019
+- Evidence of the massive harm that can be created by lawyers
+- Always remember that you are here to serve people

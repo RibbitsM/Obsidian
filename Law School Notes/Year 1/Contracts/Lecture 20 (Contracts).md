@@ -1,0 +1,52 @@
+- Recall that the goal of rescission is to restore the previous state of the parties before the contract was made (*status quo ante*)
+- In a simple purchase, this usually just means returning the goods in exchange for whatever payment was made
+- Occasionally, this will not be possible
+- Usually, a decision to rescind a contract needs to be communicated to the other party to be effective
+- However, this is not required in the case where doing so may be impossible
+- Example of this is *Car & Universal Finance Co v Caldwell*
+- The defendant used a bad cheque to purchase a car from the plaintiff, and disappeared after the purchase
+- Plaintiff called the police and auto association, which the court held constituted a request for rescission
+- Therefore, when the defendant tried to sell the car again the title did not transfer, as the original contract had been rescinded
+- In terms of cases where rescission is impossible, the main example is *Morin v Anger* where the contract involved stock in a mining company
+- Usually in cases like these, courts order rescission as well as an accounting or profits or an indemnity, meaning the defrauded party will be compensated
+- Can't re-establish the exact prior state of affairs, but can approximate it with monetary payments
+- This is still a restitutionary remedy tho, goal isn't to award damages to the defrauded party
+- These kinds of remedies are much more common when the misrepresentation was fraudulent as opposed to innocent
+### Affirmation
+- Instead of rescinding, a party can choose to affirm a contract containing a misrepresentation
+- As long as they are aware of the misrepresentation and are shown to be making an informed choice, this is an available option
+- Established by *Peyman v Lanjani*
+### Third Party Rights
+- One issue with rescission is when one party sells the proceeds of a contract to a third party before the contract is voided
+- In the time before the rescission is made, titles to property still exist and can be passed to third parties without notice of the potential problems
+- In cases like these, the property cannot be returned to the original owner, because someone now had a superior interest in the property
+- Court can still offer the original owner an equivalent restitution
+- Usually just the approximate value of the property in money
+- Established by *Urban Mechanical Contracting v Zurich*
+### Execution of the Agreement
+- In some kinds of contracts, the execution of the contract itself will create a bar to rescission
+- For example if there is innocent misrepresentation in a real estate transaction, once the transaction closes it can no longer be rescinded
+- This is because of the doctrine of execution, established *Redican v Nesbitt*
+- The same goes for sales of securities, and occasionally goods
+- Used to always be protected by execution, but the Manitoba Court of Appeal loosened the restriction in *Ennis v Klassen*, arguing that rescission could be done until the purchaser has had a "reasonable amount of time" to discover the misrepresentation
+- Recall that this only applies to innocent misrepresentation, not to fraudulent misrepresentation
+- Also, even in cases of innocent misrepresentation, the contract can be rescinded after execution if there was a complete difference between what was supposed to be exchanged and what was actually exchanged
+- Comes from *O'Flaherty v McKinlay*, where the plaintiff was sold a car of a different model compared to what the salesman told him
+### Other Bars to Rescission
+- If there is a significant delay in seeking rescission, this can waive the right to rescission as it would be unfair to the defendant
+- This is especially reinforced in innocent misrepresentation cases
+- If a misrepresentation is codified during negotiations, the plaintiff can't sue for rescission, only breach of contract
+- Previously, monetary compensation was only ordered it was only in cases where there was partial restoration
+- Therefore, cases where no part of the property can be restored will result in no compensation
+- However, Canadian law is slowly moving away from this, granted compensation in *Bank of Montreal v Murphy* and *Rick v Brandsema*
+### Entire Agreement Clauses
+- What happens when an "entire agreement" clause is used to block a claim for misrepresentation?
+- Usually, this depends on whether or not the claimant was given notice of the clause
+- In *Beer v Townsgate*, the Court held that there was no opportunity to read the clause as the contract was signed in a "frenzied" environment
+- Another case where this applied was *Zippy Print Enterprises v Pawliuk*
+- In this case, a franchisor used misrepresentations about the support offered to franchisees to induce the plaintiff into signing a franchise agreement
+- This agreement contained an entire agreement clause
+- However, the BCCA argued that the company was still liable for the misrepresentations they made during negotiations
+- Pointed specifically to the requirement that specific attention has to be drawn to the entire agreement clause to be enforceable
+- This is a common theme in most entire agreement cases, there needs to be adequate notice to the claimant of the offending clause
+- 

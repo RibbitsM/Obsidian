@@ -17,7 +17,7 @@
 - If successful, the outcome of a tort case is often paying [[Damages]], which is the word for monetary compensation
 - The court can also decide to issue an [[Injunction]], which is a judge order to prevent something from happening
 - Can be done to prevent trespass, construction, anything that was connected to the wrong
-- The opposite of an injunction is *Mandamus*, which compels someone to do something
+- The opposite of an injunction is *mandamus*, which compels someone to do something
 - Usually up to the discretion of the judge whether they want to issue damages or an injunction
 - The plaintiff is the person who has suffered harm and is seeking damages/injunction
 - The person alleged to have committed the action is the defendant, also called a tortfeasor

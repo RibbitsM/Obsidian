@@ -1,0 +1,55 @@
+### [[Braiding Sweetgrass]]
+- As the recipient of a gift, you have an implicit obligation to reciprocate
+- A wild strawberry is a gift from the earth, which initiates a reciprocal relationship with the land
+- Private ownership is defined by a relationship between humans, where objects are only property, never agents
+- Indigenous scholarship shows us how property relationships can exist between human and non-human actors
+- For a gift, the value comes not from the gift itself, but from the act of giving
+- As opposed to the private property economy, there is a parallel "gift economy" that operates on these reciprocal obligations created by gift-giving
+- It may appear that a gift is free, but it's really not
+- While private property comes with a "bundle of rights", a gift comes with responsibilities
+- Another key factor the author mentions is that the value of a gift increases the more times it changes hands
+- You also may value a gift much more than something you received for free
+- We can see the potlatch as a great example of the gift economy and how prestige can be granted in exchange for a gift
+- In the same way, the banning of the potlatch is an example of the conflict between the private property and the gift economy
+### [[Nolan v Nolan & Anor]]
+- To establish a gift, the law requires a set of formalities to avoid that gift being questioned
+- These formalities are donative intent, acceptance, and delivery, need to prove there was a gift
+- For contracts, we have a more extensive requirement of offer, acceptance, and consideration
+- The requirement of delivery is why this is in our possession section, it's a transfer of possession
+- Sidney Nolan was a struggling artist in Sydney, Australia
+- At some point, he left his family and went to an artist's retreat with the Reeds in the 1940s
+- He ended up having an affair with Sunday Reed, and finally married Cynthia, John Reed's sister
+- Cynthia had a daughter from a previous relationship, now named Jinx Nolan
+- Cynthia died in 1976, with Jinx being her principal beneficiary under her will
+- She claimed that Sidney had given her mother three paintings before her death, and therefore would be part of her estate
+- These paintings were the Royal Hotel, Italian Crucifix, and Hare in Trap, all made by Sidney
+- Jinx's problem was that there were several equitable maxims preventing her claim
+- The first of these was that "equity will not assist a volunteer"
+- Means that a court of equity won't help someone who didn't receive consideration for a transfer
+- The second maxim is that "equity will not complete an imperfect gift"
+- This is an extension of the previous maxim, if a gift wasn't fully established, the court will not attempt to uphold that gift
+- The third maxim is that "possession is *prima facie* evidence of property"
+- After Cynthia's death, Sidney retained possession of the paintings for another 27 years
+- The defendant in this case was Sidney's estate, represented by his third wife, Lady Nolan
+- Usually, to establish intent to give a gift there needs to be "words of gift"
+- There was no evidence of this since all the potential witnesses are now dead, so Jinx was relying on documents to prove intention of gift
+- In a previous case, evidence that a bottle of port was treated as belonging to the child of a father was sufficient to prove intention to gift
+- Sidney referred to paintings multiple times as "Cynthia's paintings"
+- However, this never happened to the three paintings at issue here
+- Therefore, the court determined that there was no gift
+- However, they still decided to rule on the issue of delivery *obiter dictum*
+- There are two kinds of delivery, actual or manual delivery and constructed delivery
+- Usually, constructed delivery happens when transferring chattel manually is impractical, for example if something is particularly large
+- For example, you can gift somebody a car by giving them the keys even though you didn't actually have the car delivered to their house
+- Delivery is important and necessary because without some kind of unambiguous act, enforcing voluntary transfers could be unjust to the donor
+- Otherwise, people could claim the property of others by claiming it was gifted to them
+- Another way to establish constructed delivery is if the donee already has possession of the chattel, which creates the issue of what to do if something is owned in common
+- In these cases, the donee must be granted exclusive power and control over the chattel, including against the donor
+- Going back to the car example, it would not be delivery if there were two sets of car keys, one owned by the donor
+- Therefore, even when chattel is owned in common, there has to be an unambiguous act
+- Even if we end up not enforcing some things that were genuinely intended as gifts, this is an acceptable tradeoff to prevent the granting of unintended gifts
+- Overall, the court found that there was no unambiguous act here, and there was no delivery
+- As an extra twist to the story, the Royal Hotel painting was later put up for auction by Sotheby's
+- Under the provenance section, both Cynthia Nolan and Sidney Nolan, as well as Sidney's estate were listed
+- This case was all in the Australian courts of course, but the same principles apply in Canada
+- 
