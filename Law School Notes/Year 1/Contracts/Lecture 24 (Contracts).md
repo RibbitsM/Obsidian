@@ -1,0 +1,52 @@
+- Many of the numbered treaties, especially in the prairies, were signed under desperate conditions
+- Many of the Prairie Indigenous nations were at risk of starvation when the treaties were offered, mostly imposed by buffalo hunts and a policy of withholding food
+- The treaties were offered on a "take it or leave it" basis, and the Indigenous nations were informed that settlement was going to happen regardless
+- Relatively few changes were made during the negotiations, and any concessions made by the government were extremely minor
+- Settlement was highly encouraged by the government, which handed out practically free land to settlers all across the prairies
+- Aboriginal law has been significantly influenced by constitutional law, especially s. 35 of the 1982 *Constitution*, as well as land law and elements of fiduciary law
+- Also, English feudal land law has had some influence in determining what Aboriginal rights consist of
+- SCC held that the Crown has a duty to act with integrity and honour towards Indigenous peoples, this is a principle called the [[Lecture 3 (ISLR)|"honour of the Crown"]]
+- This principle applies to treaties, and holds the Crown to a higher standard compared to an ordinary contract
+- Also has been extended beyond simple treaties, for example a case found that agreements with the government on self-policing were held to be subject to the honour of the Crown
+- Treaties are protected by s. 35, and cannot be extinguished without the consent of Indigenous peoples
+- TRC reported that the treaties make up the legal and constitutional foundation of Canada, it's what the legitimacy of the nation rests on
+- Some cases describe these treaties as contracts, albeit important contracts with constitutional importance, and are subject to principles like the parol evidence rule
+- These treaties are *sui generis*, and are subject to special rules like more permissive interpretation standards
+- Court had previously held that this special treatment only serves to uphold these contracts, not diminish them
+- In 1996, the Crown held a Royal Commission on the Numbered Treaties which made a number of important suggestions, none of which were recognized
+- Mentioned that if the government is going to point to traditional interpretation methods for the treaties, they should also accept traditional challenges like duress
+- However, it's unlikely that even if this line of reasoning was accepted, Indigenous peoples value the treaties highly and would be unwilling to challenge them
+- Any question of the validity of the treaties should lead to negotiation, not rescission
+### Validity of Treaties
+- First test to look at is whether there was a meeting of the minds
+- While treaties often were written in a manner suggesting the surrender of land, Indigenous groups thought they were offering to share their land
+- Most Indigenous nations had no language that meant to surrender land, and did not understand what the language of the contract meant
+- Difficult for the interpreters to manage, how to express these concepts
+- Evidence seems pretty clear that the government tried to avoid talking about the surrender provision, focusing on the upsides of the agreement
+- Based on these facts, does it seem like there was a meeting of the minds?
+- Another issue is that many Indigenous groups received oral promises that were never written into the treaties afterwards
+- Are these additional terms excluded by the parol evidence rule?
+- Raises the issue of what the contract was supposed to be, is it just the written portion or do the oral terms also form part of the contract
+- Additionally, what happens if the true terms of the contract were an agreement to share the land, not surrender it?
+- Were the negotiators engaging in misrepresentation by focusing on the positives of the contract without addressing the surrender clauses?
+- Keep in mind that they had a fiduciary duty towards the Indigenous nations
+- Can also argue *non est factum*, which is a claim that applies where one party severely misunderstands the purpose of a document
+- Could the treaty also be challenged based on mistake of fact? Most Indigenous negotiators couldn't understand English
+- In many cases, the negotiators didn't even sign the document themselves
+- Failure of the negotiators to explain the surrender provision may also suggest that they had constructive knowledge of the misunderstanding of the Indigenous negotiators
+### Enforceability of Treaties
+- Main factors to consider are duress, undue influence, and unconscionability
+- Unlikely there was coercion by physical force, but the NWMP were always there at the signings
+- Legal requirements for duress are pressure compelling the will of the victim, and the pressure exerted must be illegitimate
+- Most Indigenous leaders felt they had no choice signing some of these treaties
+- Even those who held out like Big Bear, eventually capitulated
+- Did this amount to duress?
+- Keep in mind that the honour of the Crown was active at this time, was the pressure imposed on the Indigenous negotiators a violation of that honour?
+- Undue influence is defined as the unconscientious use of power by one person over another
+- Certainly there was no independent legal advice offered to the Indigenous nations here, which would remove the possibility of undue influence
+- Pretty clear that many of these treaties were at an extreme disadvantage to the Indigenous nations, the amount of land purchased compared to how much was paid in annuities was extremely disproportionate
+- Can't point to the reserves as a benefit either, that land already belonged to the Indigenous nations
+- Finally, unconscionability had two elements: inequality of bargaining power and a disadvantaged result, established by [[Lecture 23 (Contracts)|Uber v Heller]]
+- Pretty clear there was inequality of bargaining power, Indigenous peoples had no legal representation and often were unable to read the contracts
+- Pretty clear that the bargain was unfair as well, we've established this already
+- 

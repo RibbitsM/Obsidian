@@ -5,7 +5,7 @@
 - The counterargument was that the *Fauna Act* eliminated this right as these estuarine crocodiles were protected
 - Section 7 of the *Fauna Act* reads:
 ```
-All fauna, save fauna taken or kept during an open seasonwith respect to that fauna, is the property of the Crown and under the control of the Fauna Authority.
+All fauna, save fauna taken or kept during an open season with respect to that fauna, is the property of the Crown and under the control of the Fauna Authority.
 ```
 - According to case law, a native title right is eliminated by the granting of a contradictory right
 - As such, Section 7 overturned this right as the *Fauna Act* made these crocodiles "property" of the Crown

@@ -38,4 +38,3 @@
 - The main reason that slavery was less present in Canada had little to do with any moral compunctions, and more to do with the fact that there was no plantation economy here
 - However, they still benefitted from the transatlantic slave trade as part of the British Empire
 - Notably, the Allard motto comes partly from the Somerset v Stewart decision in which a slave headed for Jamaica was freed based on a decision that slavery has no basis in common law
-- 

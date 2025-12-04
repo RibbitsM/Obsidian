@@ -1,0 +1,110 @@
+### [[R v Pappajohn]]
+- Decided prior to the first set of sexual assault reforms in 1983
+- One of the last major cases dealing with the old offence of rape
+- Could only be committed by a man against a woman, only included penetrative sex, and had an exception for marital rape, and had a consent element
+- Crown has to prove an absence of consent as part of the *actus reus*
+- Usually, this was done by proving resistance, usually physical resistance, from the victim
+- Required that evidence from the victim had to be corroborated, couldn't convict based only on testimony from the victim
+- Also had a evidence rule called recent complaint, meaning the jury would place less weight on the evidence unless the complaint was made almost immediately after the assault
+- Reflected a broad distrust of sexual assault victims
+- Issue in this case is whether the defendant can raise the defence of mistake of fact, and whether or not the mistake has to be reasonable
+- Prior to this, the ruling was that a mistake was subjective, determined in [[R v Beaver]]
+- A few years earlier, the House of Lords ruled the same in a decision called *Morgan*
+- High profile case that had drawn significant criticism, many calls for reform
+- Victim in this case was a real estate agent who was trying to get a listing from the defendant, a prominent Vancouver businessman
+- Went out for lunch, drank a lot, and went back to the house he was seeking to sell
+- Victim claimed the sexual activity that happened was non-consensual, and Pappajohn disagreed, and she was able to escape the house and run to get help
+- Pappajohn testified that everything was consensual, but when he tried to put her in bondage she freaked out and ran
+- Issue was whether the jury should be instructed on mistake of fact, trial judge said no
+- Based on the evidence, there was clearly no indication of consent and the air of reality fails
+- At this time, having a rape trial in the first place was unusual, and a conviction was even rarer
+- Also unusual that the victim knew the defendant, most successful rape charges were against strangers, and the penalty for the offence was very high
+- Appeal court ruled the same, but the dissent said yes, but the mistake must be reasonable
+- Issues for the SCC are when mistaken belief should be left with the jury, whether it should be reasonable, and whether based on the facts, the jury should have been instructed
+- Majority said that the jury should not have been charged, and the dissenting judge disagreed
+- All judges agreed on the first two questions, so the dissenting opinion on those issues is binding
+### Is Mistaken Belief a Defence?
+- Court confirms that the air of reality threshold is required for mistake of fact
+- It's a denial of *mens rea*, but it's treated as a defence with an evidentiary threshold
+- Needs to be reasonable doubt surrounding the defendant's belief
+- If the defence is charged to the jury, Crown must disprove it BAR
+### Does the Belief has to be Reasonable?
+- Court says no, *mens rea* is subjective so there is no objective requirement
+- Not an objective fault offence, so reasonability is not required
+- This was a major concern with this decision, especially considering the offence
+- The situation is quite different compared to drug offences, as it allows the defendant to rely on myths and stereotypes surrounding sexist views towards women as a defence
+- Basically means that when the defendant claims one thing and the victim claims another, the court will side with the defendant
+- In this offence, the defendant will always be the man, and the victim will always be the woman
+- Supreme Court recognizes this problem, but asserts that the air of reality test will prevent this defence from being applied when the belief wasn't reasonable
+- Effectively rewards the defendant for holding sexist beliefs
+- As established in *Beaver*, reasonableness of a belief is still evidence of its honesty
+- Relies on the ability of a jury to see through any fake story presented by the defendant
+- It's true that jurors take their responsibilities very seriously, but the issue still remains of what happens if they share the same widespread stereotyped beliefs of the defendant
+- What this offence is doing is placing a large burden on the victim to prove consent
+- It's not necessarily enough for the victim to just say "no"
+- Cited the leading Australian case on sexual assault, *Howard*, which demonstrates many of the classic stereotypes and myths surrounding sexual assault, and presents them as fact
+- Claims that many women don't know whether they are consenting or not, and will end up claiming rape after the fact when they actually consented
+- These are clearly the assumptions that the entire system was built on
+- Supposed to be upholding the principles of criminal law, but are really just reinforcing myths and stereotypes about sexual assault
+- The question of what is "reasonable" in a society where these beliefs are so widespread is a loaded question, and should be considered as such
+### Reform
+- A number of things happened after this case
+- The offence of rape and its associated offences were all abolished, and replaced with sexual assault, which was drafted in neutral terms and incorporated all previous offences
+- Got rid of the corroboration requirement, the doctrine of recent complaint, and the marital exception
+- Still defined in terms of non-consent, that element was not really affected
+- Conduct was application of force, circumstance was a sexual nature, as well as a lack of consent
+- At this point, there was no definition of what consent meant in the *Criminal Code*
+- Preserved many of the original issues with the offence of rape
+- The first attempt to fix this was s. 265(4) which codified the rule that the reasonableness of a belief in consent must be considered by the trier of fact
+- Makes the principle from *Pappajohn* mandatory, but doesn't change the standard
+- Other thing that was added was s. 265(3), which established circumstances where there was no consent
+- Specifies that there is no consent if the victim doesn't resist due to an application of force, threat or fear of force, fraud, or the exercise of authority
+- Still imposes a requirement to resist, a victim that does nothing may still be considered to have given consent even if they subjectively didn't
+- There have been some efforts to expand what the fraud element consists of, but it's mainly restricted to the common law definition of fraud
+- Even after these reforms, there were still many courts using the old idea that there must be active resistance, prompting further reform
+- Any expansion that has been made mostly deals with issues where the defendant was HIV+
+- In 1992, a definition of consent was finally included in s. 273.1
+- Defines consent as the voluntary agreement of the victim to engage in sexual activity
+- First time that consent has ever been defined as something other than active resistance
+- Section 273.1(2) specifies more situations where there is no consent
+- No consent if the indication comes from someone other than the victim
+- No consent if the victim is unconscious
+- No consent if the victim cannot consent for some reason
+- No consent if the defendant is abusing a position of trust to induce consent
+- No consent if the victim expresses a lack of agreement by words or conduct
+- No consent if the victim expresses a lack of agreement to continue with the activity
+- Also, this is not an exhaustive list
+- Added some provisions dealing with the defence of mistake of fact, namely s. 273.2
+- Specifies that it's not a defence if the defendant believed there was consent if the defendant was under a number of circumstances
+- If the belief came from self-induced intoxication, recklessness or wilful blindness, or any of the aforementioned circumstances, no consent
+- If the defendant did not take reasonable steps to ascertain consent, there's no consent
+- If the victim's agreement was not affirmed by words or actively expressed by their conduct, there's no consent, though this element was added later in 2021
+- The reasonable steps provision finally shifts some of the onus to the defendant
+- Once you have all these legal elements of consent, the court can start arguing that many mistakes of fact, are actually mistakes of law
+- In fact, s. 273(1.2) explicitly states that consent when it comes to s. 273.2 is a matter of law
+- Defendant can't argue that they thought consent meant something else
+### [[R v Ewanchuk]]
+- Case from Edmonton, victim was a 17yo girl looking for a job
+- Defendant ran a stall selling woodwork at a mall, and offered the girl a job interview in his trailer parked outside the mall
+- When they go in the trailer, he locks the door and she becomes afraid
+- Starts by asking for a massage, and later asks if he can massage her
+- Gradually becomes more sexually aggressive, and several times she asks him to stop and he does, but continues to attempt sexual advances, eventually exposing himself to her
+- Eventually she asks him to stop again and he lets her go, giving her $100 and telling her not to tell anyone about it
+- At trial, she testified that she was trying not to show her fear to keep him from becoming aggressive and hurting her
+- Trial judge ruled that because she was somehow showing signs of consent despite the fact that she never consented, that the defendant should be acquitted
+- Alberta Court of Appeal upholds the acquittal, with one dissent
+- One judge agrees, but also finds that there was mistake of fact as well
+- Dissenting judge makes a strong argument that the ruling of the trial judge amounted to finding that women are walking around in a perpetual state of consent
+- Goes to the SCC, and takes the unusual step of entering a conviction instead of ordering a new trial, as it was a trial by judge alone
+- Based on the findings of fact made by the trial judge, the only conclusion was a conviction
+- There is no such thing as implied consent, the grounds for the initial conviction were baseless
+- To prove the *actus reus*, the consent requirement is subjective and based on the victim
+- Clearly, the victim did not consent, which the trial judge found
+- That's enough to prove the *actus reus*, implied consent is irrelevant
+- Only way to displace this assertion by the victim is to argue that they are not credible
+- Court says that we can compare the victim's testimony to their actual actions, which may be evidence that their assertion of non-consent was not credible
+- Sounds like a very Crown-friendly definition, but still opens an argument for the defence to argue that "no" really meant "yes"
+- Clear invitation for comments from the defence based on what they think the victim should have done in the situation based on myths and stereotypes
+- There was a notable and highly criticized recent case in Alberta where the judge did this, interjecting during the victim's testimony to question their behaviour
+- Any number of comments based on these myths and stereotypes have been raised in court as legitimate questions of the credibility of the witness, amounting to victim blaming
+- 

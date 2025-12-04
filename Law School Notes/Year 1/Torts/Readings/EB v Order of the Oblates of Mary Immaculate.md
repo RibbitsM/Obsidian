@@ -1,0 +1,38 @@
+- Plaintiff was a student at a residential school run by the defendants
+- Suffered sexual abuse from an employee of the school named Saxey who ran the school bakery and drove the school motorboat
+- Direct care and education of children was carried out by the nuns, but most school operations were done by local First Nations labourers like Saxey
+- Plaintiff testified that Saxey would lure him to his room and sexually assault him, which happened repeatedly over the course of 4-5 years
+- Court drew on the precedent of [[Bazley v Curry]] to examine if the defendants increased the risk of abuse through its operations
+- Defendants had taken steps to prevent contact between the students and labourers, they were kept in separate housing where the students were banned from going
+- Also, a brother or nun was required on board the motorboat, meaning Saxey would not have been unsupervised
+- Overall, it seems that Saxey didn't have much authority over students
+- Court examined the five factors from *Bazley* for assessing connection between employer and the act committed
+- There was an opportunity for contact with the children, but these opportunities were brief and usually supervised by a brother
+- Saxey's actions in no way furthered the aims of the defendant
+- Saxey's duties involved no intimacy with any of the students, they were limited to baking, maintenance, and driving the boat
+- Besides being an adult and as a result, implicitly an authority figure for children, Saxey had no other position of influence in the school
+- The students of the school were certainly vulnerable, but this vulnerability was disconnected from Saxey's position at the school
+- Overall, there was not a strong connection between the terms of employment and the act
+- Saxey did have opportunity, but his position did nothing else to increase the risk of abuse
+- As the strong connection test is not met, judgement goes to the defendant
+### Dissenting Opinion
+- The plaintiff was consistently subjected to systematic abuse, being sexually assaulted multiple times weekly for 4-5 years
+- Saxey was a violent offender who was convicted of manslaughter and released soon before being hired to work at the school
+- Additionally, the segregation and cultural destruction created by residential schools made the students especially vulnerable to abuse
+- In the trial case, which ruled for the plaintiff, the judge heavily examined the first factor in the *Bazley* test
+- While Saxey lived in a separate staff residence, the building was located in an area where the junior and senior boys were allowed to be without supervision
+- Children would be playing on swings right outside his window
+- Also, the staff would permit the labourers to form casual relationships with students, referring to each other by their first names and playing together
+- Outside of school hours, children were often left unsupervised
+- Given all this, the opportunity given to Saxey was actually quite significant
+- Despite not being a member of the staff, Saxey also had a fairly significant level of implicit authority
+- Students were subjected to strict discipline and often enforced physically
+- Expected to strictly obey all staff members, including the labourers
+- Even if the labourers weren't allowed to physically punish the children, most of the children likely assumed that all adults had the same duties
+- While the court mainly focused on Saxey's duties as a baker and boat driver, he actually did a pretty wide range of different tasks around the school
+- All employees were supposed to contribute to all tasks, including supervising children
+- Often, Saxey would be responsible for supervising the children and assigning chores to them
+- The fact that he didn't really have an official set of duties gave him a lot more power
+- Finally, we should emphasize the sense of isolation created at the school, students were separated from their families and disciplined strictly on a daily basis
+- This put the students in an extreme state of vulnerability
+- Overall, the connection between Saxey's duties and the abuse is a lot stronger than the majority suggests

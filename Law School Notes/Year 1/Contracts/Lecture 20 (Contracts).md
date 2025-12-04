@@ -49,4 +49,18 @@
 - However, the BCCA argued that the company was still liable for the misrepresentations they made during negotiations
 - Pointed specifically to the requirement that specific attention has to be drawn to the entire agreement clause to be enforceable
 - This is a common theme in most entire agreement cases, there needs to be adequate notice to the claimant of the offending clause
-- 
+### Summary
+- There are three steps to the average misrepresentation claim
+- First, you need to prove a misstatement of fact
+- This has to be a material misstatement that induced the plaintiff to enter the contract
+- Can't be sales talk or statement of opinion/belief, needs to be a statement of fact
+- Also, if the plaintiff tried to investigate that statement, might kill their claim
+- This is not always definitive, recall that [[Lecture 20 (Contracts)|Issa]] was still able to void the real estate contract
+- Usually only activates if there was a fairly diligent investigation on the specific statement of fact given by the defendant
+- No duty to investigate, in fact it might hurt your chances if you do
+- Step two is determining if rescission is possible if misrepresentation has been established
+- Sometimes it will be impossible to recover the initial position since whatever was transferred has been destroyed or resold to a third party
+- Even if there are some roadblocks, courts seem to be more inclined to try and grant rescission in fraudulent misrepresentation cases as opposed to innocent ons
+- Step three is once rescission is available, the restitution will be granted and the original position of both parties will be restored
+- Step two leads naturally to step three
+- Occasionally if rescission was not available, the court will still grant monetary compensation in its place, especially if there was fraudulent misrepresentation

@@ -1,0 +1,158 @@
+- UNDRIP took a while to make, started in 1985 with a UN working group and wasn't finalized until 2007
+- Mainly serves to codify existing rights of Indigenous peoples
+- Canada has historically been strongly opposed to UNDRIP, and seems to be continuing that trend in their implementation of the declaration
+- Articles 3 and 4 have codified the right to self-determination, and self-government
+- Pretty significant gap between the rights listed here and how the Indian Act limits self-determination in practice
+- This is also not the only international conventions that recognizes the right to self-determination, it's sometimes seen as part of customary international law
+- One of the original ruling principles of the UN establish by Woodrow Wilson's [[Undergrad Notes/Year 1 Semester 2/Hist 103/Peace Treaties and Self Determination|Fourteen Points]]
+- Article 10 also bans the forced displacement of Indigenous peoples and requires free, prior, and informed consent for any future displacements
+- Likely the most controversial element is Article 26, which establishes Indigenous right to lands they have traditionally owned and occupied
+- Gives them the right to own, use, develop, and control this land and requires legal recognition and protection of this land with respect to Indigenous customs and traditions
+- One of the reasons that Canada initially rejected UNDRIP was because it violates s. 35 of the *Constitution*
+- We saw it already in Article 10, but Articles 19 and 28 also incorporate the element of free, prior, and informed consent
+- These articles require FPIC when it comes to legislation affecting Indigenous peoples and for the government to compensate land taken without FPIC
+- Appears also in articles 28(2) and 32(2) which establish that compensation comes in the form of equal land and resources, and that FPIC is especially important for resource development use
+- In Hansard debates on DRIPA, representatives of legislature raised concerns that the FPIC requirements would give Indigenous groups a veto over government actions
+- What ended up happening was that supporters of DRIPA argued that FPIC doesn't mean a veto, which helped get the bill passed but weakened it significantly in the process
+- What the real goal here should be is to build consensus between Indigenous groups and the Canadian government
+### Canada Adopting UNDRIP
+- Adopted in 2016, UNDRIP Act wasn't passed until 2021 and was intended to provide a framework for how to implement the Declaration
+- Government of Canada must work with Indigenous groups to ensure Canadian law is consistent with UNDRIP
+- Existing duty to consult has been magnified by FPIC, which we saw earlier this year
+- The Kebaowek Nation brought a case to the federal court where a near-surface nuclear waste site was being built on their land without FPIC
+- Court ruled that this is not a right to a veto, but Indigenous interests will be balanced against the value of the violation
+- The "consent" from *Delgamuukw* only applies in terms of established Indigenous rights
+- However, the Commission that approved the construction did err in not considering UNDRIP
+- Acknowledged that UNDRIP is part of Canadian law, and needs to be considered
+- The question is why so many people have such substantial fears about an Indigenous veto
+- Jeremy Bentham's theory of property law is that it exists to protect against fear of loss
+- That's what motivates all private property protections, it's the fear of loss
+- Intended to provide certainty and security, which is reflected in state rhetoric against UNDRIP
+- Fear is that recognizing these laws will create insecurity and uncertainty
+- Land rights not limited to a specific land rights agreement are seen as a threat to economic development and state sovereignty
+- This is why hundreds of people showed up to Richmond town hall after the Cowichan decision, as they were scared their property values would be destroyed
+- UNDRIP also has the classic limitation that it can't be construed in a way that would contravene the UN charter, but also that it can't be construed in a way that affects state sovereignty
+- Means that these rights for Indigenous peoples don't extend far enough to allow full Balkanization of Indigenous nations from their host countries
+- International law strictly prohibits colonialism, but this doesn't necessarily extend to settler colonialism
+- Settler colonialism has effectively been accepted as a legitimate form of governance, and because of this it can't be specifically prohibited or banned in documents like UNDRIP
+- Makes it really hard to dig at the root of injustice when it comes to Indigenous struggle
+- It's so fucking over for international law, the UN was already mostly useless but now it basically doesn't exist when it comes to actual enforcement or observance of international law
+### Practical Applications of UNDRIP
+- Speakers work at a firm that mainly covers professional litigation and litigation for Indigenous clients
+- For the first time, courts are starting to recognize a duty towards reconciliation, the needle is turning towards greater acceptance of Indigenous legal practices
+- This means that practically speaking, our goal is to reconcile both statutes and common law with Indigenous practice
+- To do this we need a tool for statutes, a tool or common law, a dispute resolution mechanism, and a mechanism for inconsistent laws
+- DRIPA and UNDA provide many of these tools and mechanisms
+- Requires alignment of BC and Canada's laws with UNDRIP, and cooperation with Indigenous peoples in the process of ensuring that alignment
+- Recall that both DRIPA and UNDA apply to all laws, not just statutes
+- Preamble also mentions that the Declaration is to be used as a way to interpret Canadian law
+- Makes it a tool for both interpreting statutory and common law
+- The duties of the government to ensure that laws are consistent with UNDRIP serve as a mechanism to ensure alignment with Indigenous practice
+- Both BC and the federal government have to also prepare action plans
+- Question remains of whether inconsistencies can be addressed outside of an action plan
+- Another important tool to consider is the *Interpretation Act*, which was amended to included subsection 8.1(3), establishing that all acts and regulations must be construed with being consistent with UNDRIP
+- A reasonable interpretation consistent with UNDRIP should be preferred over an inconsistent interpretation
+- Challenge is now to figure out how exactly statutes are supposed to be consistent with UNDRIP
+- How do we use UNDRIP as an interpretive aid, there's a broad range of strengths when it comes to interpretive aids like presumptions versus confirmatory texts
+- It's also unclear whether or not UNDRIP applies to the common law, it's widely held that it applies to statutes but there's no explicit mention of common law
+- We also don't know how UNDRIP interacts with s. 35 of the Constitution jurisprudence, which is one example of the common law where UNDRIP is recognized as applying
+### [[Gitxaala v British Columbia]]
+- Judicial review case where Gitxaala nation tied to get a review of mineral claims under the *Mineral Tenure Act*
+- What happened in this case was that at some point in the past, the Crown made the decision to not consult with Indigenous groups to grant mineral claims but was never recorded, so there wasn't a single decision to review
+- Part of Gitxaala law is that resources between parties must be distributed equally, under the purview of the chief
+- Under the *MTA*, a key feature is that anyone with a certificate can apply online for mineral claims which is extremely cheap to purchase
+- Get mineral rights as well as exploration and a certain amount of extraction rights
+- BC grants these claims automatically without consent or notification
+- Obviously contrary to Gitxaala law
+- Relevant chief brought the judicial review as part of his goal to prevent resources from being extracted without his permission
+- Three issues: is there a duty to consult under s. 35?
+- Second, is there a duty to consult under s. 3
+- Third, is there a presumption of conformity with UNDRIP so that we need FPIC
+- Also, the MTA is a statute, meaning it's subject to the interpretive presumption favouring UNDRIP
+- Judge decided that the Crown does have a duty to consult under s. 35 based on the Haida test
+- Also ruled that s. 8.1(3) applies to BC enactments, so the MTA has to be construed in a manner consistent with UNDRIP
+- This is a small but significant step forward that someone else will eventually follow up on
+- Held that the MTA system basically precluded consultation
+- Court refused to decide on the duty to consult under s. 3 because the issue was too political
+- Third, court didn't address whether DRIPA gives UNDRIP a role in interpreting common law
+- If this is true, then the consent requirement from s. 35 must be consistent with UNDRIP, meaning that FPIC is required
+- Another petitioner argued that UNDRIP is fully implemented, which the court rejected
+- Suspended for 18 months to develop the consultation process, which ended up being really bad and rushed despite having so much time
+- Appealed on two points, justiciability of s. 3 and applicability of UNDRIP to common law
+- Argued that s. 3 creates a legal duty to take measures to resolve inconsistent legislation, and a duty implies some sort of remedy for a violation
+- DRIPA is a statute, and should be interpreted consistently with UNDRIP as well
+- Court argued that justiciability is unnecessary as there's already a remedy to complain to legislature
+- Gitxaala drew on the argument from [[R c. Montour]]
+- Once Canada ratifies an international convention, all domestic laws are presumed to conform with that convention, same argument from *Montour*
+- Given the word "application" in DRIPA, implies an active process of ensuring conformity, not just what's limited to the action plan
+- Argument from Attorney General was that this language comes from a purpose provision
+- Overall, only significant decision so far was that s. 8.1(3) applies to BC enactments
+### [[R c. Montour]]
+- Issue in this case was whether UNDA creates a presumption of conformity with UNDRIP
+- Involved two Indigenous peoples smuggling tobacco from the US who argued the tax law violates their treaty rights
+- Ruled that there was a presumption of conformity, and used UNDRIP to interpret s. 35
+- Canada couldn't ratify UNDRIP as it wasn't a treaty, but a declaration
+- Court examined the status of UNDRIP, conclusions of the TRC in 2015, the fact that Canada endorsed UNDRIP without qualification, and the fact that it affirmed UNDRIP through UNDA
+- Court ultimately decided that UNDRIP, despite being a Declaration, is given the same weight as a binding treaty when it comes to s. 35
+- Court found that the societal landscape had changed enough that they could deviate from the SCC test for proving Aboriginal rights from [[R v Van der Peet]]
+- Recall that this test requires proof of a practice prior to European contact, criticized for the evidentiary burden and belief that Indigenous traditions are the same over time
+- Formulated a new test that involved questioning whether the activity is rooted in Indigenous law, which allows for modern practices to be recognized
+- Overall, UNDA gives effect to UNDRIP as if it was a ratified convention and is applicable to all laws of Canada
+- Case from Quebec so it isn't binding in BC, and is currently under appeal in Quebec
+### Dickson v Vuntut Gwitchin First Nation
+- 2024 SCC decision
+- Issue arose whether the Vuntut Nation's chiefs must live on settlement lands
+- Court found that s. 25 of the charter prevented this requirement from being challenged under s. 15
+- Two dissenting judges invoked UNDRIP, arguing there is a presumption of conformity
+- Shows that this is an important and live issue in the SCC
+### Kebaowek First Nation v Canadian Nuclear Laboratories
+- Canadian Nuclear Safety Commission approved a nuclear waste disposal site on the lands of the Kebaowek Nation
+- Rationale was so that they wouldn't have to transfer material from decommissioned sites
+- Court determined that the Commission had to consider UNDRIP and apply the duty to consult, and had failed to apply UNDRIP when considering the duty to consult
+- Considered *Vuntut Gwitchin* and *Montour* before deciding that the presumption of conformity does apply to s. 35 of the Constitution
+- FPIC requirement means you need a deep level of consultation aimed at creating a mutually acceptable agreement for both parties
+- Raises the issue of whether the Crown just has to have consulted, or do they have to consult in a way that is consistent with UNDRIP
+### Litigating with UNDRIP
+- Often, what Indigenous clients see as the goals of an action don't meet existing remedies, and their reasons for litigation don't meet existing causes of action
+- UNDRIP serves an important goal of reinterpreting existing law to make room for these remedies and actions
+- Three notable cases the firm has covered related to Indigenous racial profiling
+- First case was where two members of a nation were arrested while at a bank
+- Normally, an Indigenous nation wouldn't litigate this but their community was suffering as a result, and recognized that human rights remedies were insufficient
+- Instead tried to argue that Indigenous laws apply here
+- One member was Maxwell Johnson, who took his granddaughter to BMO to open a bank account in Bella Bella
+- She presented her Indian band card as her ID at the bank
+- Teller told her that they need to wait, and they waited 30 minutes, and the teller and bank manager called the police, who took the two outside and handcuffed them and questioned them before finally being released
+- Created a huge negative effect on the community as a whole, very shocking
+- With the backing of the nation, Max and his family sent two cases against the local police department and against the bank
+- Goal for these cases was to have a washing ceremony, which is the traditional remedy for cases like these, and the police/bank had to do a good deed for the community
+- Pretty far outside what the normal remedies are for human rights cases
+- Tried to apply UNDRIP to change the possibilities for remedies
+- Opposing parties just capitulated and participated in the washing ceremony, and Maxwell Johnson put a piece of art in the bank and shows up every year to talk about it
+- Bank ended up giving money to the community for fixing some buildings
+- Police department reviewed their policies for Indigenous people, and helped contribute to restorative justice programs in the community
+- Eventually launched a third case through the police commissioner against the two constables that handcuffed Johnson and his granddaughter
+### Second Case
+- Another Indigenous guy named Sharif Bhamji had the cops called on him for fraud because the teller didn't believe he was Indigenous because of his name
+- Same kind of thing happened, washing ceremony and money contributions
+### Third Case
+- Father and daughter went shopping at Canadian Tire, and the dad had his bag searched at the counter, daughter complained and someone made a racist remark to them
+- Went home and she complained to the company, who took ages to reply and gave her a $50 gift card
+- Almost pursued this case, but it ended up being settled outside of court
+- Washing ceremony hasn't happened yet, but it's going to happen publicly in Vancouver
+- Also, a monetary settlement was given to the daughter who donated it to research on racial profiling in Canada
+- Shows how UNDRIP can be used to advocate for Indigenous-specific remedies, and gives the opportunity to incorporate Indigenous law into human rights law
+- Arguing for Indigenous-specific remedies helps address the reality that these incidents had a communal effect, not just an individual one
+- Also demonstrated the lack of data collection on Indigenous racial profiling
+### Nathan Stewart Oil Spill
+- 2016 oil spill, hit the ground off of Indigenous territory
+- First mate fell asleep, missed a turn and hit a reef in a major harvesting area
+- Showed many flaws in the *Marine Liability Act* which indicates how oil spills are dealt with and uses a lot of international conventions as its basis
+- Allows for claims against shipowners for "pollution damages" which is defined as loss of profit or costs of reasonable measures for reinstating the environment
+- Fails to consider the possibility of subsistence fishing, as well as cultural losses tied to the destruction of the environment not covered by this definition
+- Opened the opportunity to interpret pollution damages through the lens of UNDRIP
+- None of the decision-making states at the UN body that decides marine liability represent North American Indigenous interests
+- Most of the firm's practice is with health regulation, it's where the most UNDRIP interpretation has actually happened
+- Relates to outcomes, as well as investigation practices
+- New preamble to the relevant health occupation act in BC that we need to incorporate UNDRIP and focus on non-discrimination matters
+- When you're investigating an issue in an Indigenous community, you have to do it in person, and you have to follow a large number of protocols
+- Also recall that complaints are community based even if the initial harm was to an individual, just like in the previous cases

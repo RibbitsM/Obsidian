@@ -1,0 +1,12 @@
+- Defendant ran a supermarket, and hired Mr Khan to tend to a gas station by the supermarket
+- Plaintiff asked Khan if they could print off some documents he had on a USB stick
+- Khan said "we don't do such shit" and when the plaintiff protested, Khan threatened him and ordered him to leave
+- Followed him outside and kept harassing him in his car, holding the door open
+- Punched the plaintiff and attacked him when he got out of the car, repeatedly punching and kicking him while he was curled up on the ground
+- At some point, Khan's supervisor had showed up to get him to stop, but he refused
+- Defendant argued that this was outside the realm of Khan's employment
+- He was supposed to serve customers, but everything that happened after he left the counter of the gas station was beyond his job description
+- Court pointed out that this was a continuation of his initial exchange with the plaintiff, and that he had ordered the plaintiff to never come back to the gas station
+- He was effectively using his position to order him to stay off his employer's premises, this wasn't a personal threat
+- Overall Khan's actions were a gross abuse of his position, but connected to his employment
+- This was a UK case, might have gone differently in Canada

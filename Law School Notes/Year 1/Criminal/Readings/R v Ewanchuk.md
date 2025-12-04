@@ -1,0 +1,138 @@
+- Defendant (Ewanchuk) was acquitted of sexual assault based on the defence of implied consent
+- Mistake of law, that's not a valid defence in Canada
+- Victim was a 17 yo girl living in Edmonton, met Ewanchuk outside Heritage Mall
+- He said he was a woodworker that displayed work at booths in the mall, and was looking for employees to man his displays, and the victim's friend exchanged numbers with him
+- Ewanchuk called the two the next morning, and the victim answered, saying that her friend was asleep but she would meet him for a job interview
+- Interview was in his van, and went well, after the victim went outside for a smoke
+- Ewanchuk offered to show the victim his work, which he kept in a trailer behind his van
+- Victim went in, and Ewanchuk closed the door behind him, leading the victim to believe that it was locked and becoming scared
+- Ewanchuk started touching the victim, and asked her to give him a massage, which she agreed to and massaged his shoulders for a few minutes and stopped
+- Afterwards, he asked to return the favour, and she agreed to a massage from him
+- Started to try touching her sexually, and she said no, to which he went back to a normal massage, which she also said no to
+- He then started massaging her feet, and then touching her inner thigh, victim did not complain this time as she was afraid he would become violent if she said no again
+- He then laid her down and started basically dry humping her while she laid as straight as possible to try and discourage him
+- After less than a minute, the victim asked him to stop again, and he complied
+- Ewanchuk asked if she was afraid, and she said that she trusted he wouldn't hurt her
+- Again, she later testified in court that she was terrified that he would become violent
+- Important to note that throughout this encounter, Ewanchuk asserted that he was a "nice guy" because he stopped when she asked him to
+- Soon after, Ewanchuk tried to hug the victim, and started to hump her again, putting his hands in her shorts and then took out his penis
+- At this point the victim told him to stop again, which he did
+- He then gave her $100 "for the massage"
+- Victim said she had to go, and Ewanchuk opened the door, after which she walked home and called the police
+- Had a brochure with his name and address, police found him and arrested him
+- Charged with sexual assault and tried before a judge
+- Ewanchuk did not testify, and the judge found the victim to be a credible witness
+- Testified that throughout the encounter, she was terrified but attempted to keep up a confident demeanour to avoid being violently assaulted
+- Trial judge found that the victim had not consented to any of the touching, but by projecting an appearance of relaxation and lack of fear, she rendered this fact irrelevant
+- Ewanchuk did not raise the defence of mistaken belief, but the judge asserted that the Crown had not proven BAR an absence of consent based on a defence of "implied consent"
+- Concluded that the victim's actions could be objectively seen as consent to the touching
+- Crown appealed, which failed with one dissent
+### Analysis
+- *Actus reus* of sexual assault is unwanted sexual touching, and the *mens rea* is intention to touch while knowing of a lack of consent or being reckless in determining consent
+- Sexual nature of the touching is objectively determined, consent is subjective and based on the testimony of the victim
+- When it comes to the *actus reus*, any evidence of consent being expressed is irrelevant
+- The goal of offence is to protect the personal integrity of bodies, any intentional but unwanted touching is criminal
+- Still open to the defendant to challenge the victim's claim that there was no consent
+- Counsel for Ewanchuk argued that even if the judge believes the consent, can acquit since the victims actions raised a reasonable doubt to her claim
+- This is not a recognized defence, the subjective statement of the victim is absolute when it comes to the *actus reus*
+- By considering her actions to override the mental state, the judge made an error because he accepted that she had not consented
+- Also, his belief in her statement that she was terrified should have displaced any doubt created by her conduct
+- Consent must be freely given, and consent given under fear or duress is ineffective
+- According to s. 265(3)(b), there is no consent when it comes to a choice between submitting to sexual touch or a potential application of force
+- Doesn't matter that she made a choice to allow Ewanchuk to touch her, because she honestly believed that he would harm her if she did not
+- Fear does not need to be reasonable, nor does it have to be communicated to the defendant
+- Testimony of the victim has proven a lack of consent BAR, end of *actus reus* analysis
+#### Mens Rea
+- For the *mens rea*, sexual assault is a crime of general intent, meaning the only requirement is that the accused intended to touch the victim
+- But since sexual assault is only a crime in the absence of consent, the defence of mistake of fact is available if the defendant honestly but mistakenly believes there was consent
+- Therefore, second element is knowledge of or willful blindness to a lack of consent
+- Defendant can claim honest but mistaken belief based on the dissent from [[R v Pappajohn]]
+- Denial of *mens rea*, puts no burden of proof on the defendant and does not need to be raised in order to be considered
+- The evidence must show that the defendant believed that the victim consented, not that the victim wanted the contact but did not explicitly say so
+- For the *actus reus*, consent is determined subjectively from the victim's perspective
+- For *mens rea*, consent means an affirmative confirmation from the victim by words or conduct that indicates agreement to engage in sexual activity with the defendant
+- No consent if the indication comes from someone other than the victim
+- No consent if the victim cannot consent for some reason
+- No consent if the defendant is abusing a position of trust to induce consent
+- No consent if the victim expresses a lack of agreement by words or conduct
+- No consent if the victim expresses a lack of agreement to continue with the activity
+- Defence does not apply if the belief comes from recklessness/wilful blindness or self-induced intoxication, or if reasonable steps were not taken to determine consent
+- Silence or passivity does not constitute consent
+- Once the victim says no, the defendant must get a yes before they can continue with the activity
+- Should be common sense that once a clear rejection has been given, the defendant needs to get an indication the victims mind has changed before attempting anything further
+- At the very least, continuing sexual contact after someone says "no" is reckless
+#### Application
+- The victim clearly gave multiple "no's" throughout the encounter, and defendant clearly knew what this meant, as every time he stopped immediately
+- However, he continued to attempt further touching three times
+- Real issue is whether anything between the "no" and the further touching indicated consent
+- Also, the trial judge failed to consider the defence of mistaken belief, likely because he believed it was unnecessary given the defence of implied consent
+- There was no evidence provided that would suggest at all anything resembling consent between the clear "No's" and the continued touching
+- Therefore, the defence of mistake of fact fails the air of reality test
+- If there was no errors of law made by the trial judge, there would have been a clear conviction
+- Also, the reasonable steps to determine consent requirement only applies after the air of reality has been met, which didn't happen here
+#### Summary
+- First step is to determine whether the victim consented
+- Second is to determine the credibility of the victim's statement
+- If judge is satisfied BAR that there was no consent, *actus reus* is established
+- If there was reasonable doubt or the victim actively participated, judge must consider the additional factors from s. 265(3) like fear, relationships of trust, etc.
+- If any of these factors vitiate consent regardless of reasonability, *actus reus* is established
+- For *mens rea*, don't need a statement from the defendant that there was a mistake of fact if they accept the testimony of the victim
+- Only claim defendant can make is that based on that testimony, they believed there was consent, which challenges the victim's subjective claim of consent and the defendant's belief
+- Judge must then determine if evidence raises reasonable doubt of either party's mental state
+- If the belief is found to be mistaken, must assess if it's honest
+- If the air of reality is met, judge considers whether the defendant honestly believed there was a communication of consent, anything else is an invalid defence
+- Belief can't be reckless, wilfully blind, or affected by any of the factors mentioned earlier
+- If there was a lack of agreement from the victim at any time, defendant must show evidence that consent had been re-established before they attempted further advances
+- If this evidence raises doubt of the *mens rea* of the accused, charge isn't proven
+- It's very rare to have a case where there is a genuine misunderstanding between the parties regarding a sexual encounter, but it's important to identify these cases
+- Appeal allowed, conviction entered and the trial judge will determine the sentence
+### Dissenting Opinion
+- Violence against women is pervasive, and takes many forms with sexual assault being just one of them
+- About half of all women in Canada have experienced at least one incident of physical or sexual violence after the age of 16
+- 99% of offenders in sexual assault cases are men, and 90% of the victims are women
+- Sexual assault is an offence human dignity, but also a matter of equality, it's a violation of the rights protected under s. 7 and s. 15 of the *Charter* as well as ss. 271, 272, and 273 of the *Code*
+- So widespread that the UN created the *Convention on the Elimination of All Forms of Discrimination Against Women*, which Canada is party to
+- Article 1 of this convention discusses discrimination against women, which includes gender-based violence
+- Recommends that parties to the convention should ensure that laws against sexual assault give sufficient protection to all women
+- Additionally, Article 4 of the UN *Declaration on the Elimination of Violence Against Women*  states that all UN member states should take all appropriate measures to eliminate prejudices and practices based on the inequality of the sexes
+- Alongside the *Charter*, this was the framework motivating the reforms of sexual assault
+- In another judge's dissent for this case, they mentioned that the reform was motivated by the belief that women have the right to only engage in sexual activity they consent to
+- Agree with the majority reasoning, but want to add additional comments
+- To begin with, the victim wanted the interview to be in public, and agreed to do the interview in the van, but left the door of the van open, suggesting hesitance
+- When the two went into the trailer, the victim immediately became afraid after she saw the defendant close and lock the trailer door, given he was much larger than her
+- Additionally, when the defendant laid on top of the victim and started grinding on her, after he stopped he said "I had you worried, didn't I? You were scared, weren't you?"
+- The victim replied "Yes, I was very scared", showing that the defendant clearly knew she was definitely not consenting, and yet still exposed his penis and laid it on her
+- After the victim went home, the defendant called her and asked if she was fine, to which she answered that she was, before calling the police
+- This case is not about consent, there was clearly no consent given
+- The case was really about myths and stereotypes, such as that women fantasize about being rape victims, and mean "yes" when they say "no" among many, many others
+- Women are stereotyped as passive, and will surrender to the sexual advances of men
+- Trial judge clearly believed the victim, and accepted that she was afraid and did not consent
+- Ewanchuk clearly also knew this, shown by how he repeatedly asked her if she was afraid
+- The lack of consent in this case could not have been clearer
+- When applying s. 265(3) which includes the vitiation of consent via fear, it's imperative that this is based on the subjective experience of the victim
+- This should apply to all cases where the victim is silent or passive
+- Difficult to understand how the question of implied consent was even considered
+- Must not have come from findings of fact, but from the myth that "no" means "yes", implying that all women are constantly consenting to sex at all times
+- Appeal court further compounded this error
+- Justice McClung mentioned the fact that the victim was the mother of a 6-month old and lived in an apartment with her boyfriend and another couple
+- Why was this relevant in any way to the case
+- Clearly, he was drawing on the myth that since the victim was somehow of poor character because of this, her lack of consent meant less
+- Implies that in some way, the victim was "asking for it"
+- McClung also attempted to less the guilt of Ewanchuk by suggesting he was acting "hormonally" as opposed to criminally
+- Pointed to the fact that he stopped whenever he was asked to as evidence of his innocence
+- Also stated that if the victim truly didn't consent, she should have done more to show this
+- Sexual assault may not be the only crime where consent is a defence, but it may be the only crime where the victim is expected to resist physically to establish a lack of consent
+- The fact that this case went any further than a trial court is a clear indication that discrimination and the application of myths and stereotypes is rampant in the legal system
+- Victims should be able to rely on a system free from these biases, this is what Parliament was trying to establish through their sweeping reforms of sexual assault
+- It is the duty of the SCC to solidly denounce this kind of language
+- Reliance on myths surrounding sexual assault is not grounds for a defence of mistake of fact
+- The air of reality test fails, and the defendant could not have even raised the defence in the first place given that he did not take "reasonable steps" to establish consent
+- Regardless of whether it was raised, the trial judge erred by not applying s. 273.2(b)
+- The fact that the victim consented to a massage was in no way an invitation to sexual touching
+- Additionally, the ruling in *Pappajohn* that the defence of mistake of fact does not require reasonability has been modified by s. 273.2(b)
+- Section 273.1(2) also applies, the victim's verbal refusal ensured there was no consent
+- Establishes by law that when a woman says "no", a lack of consent has been communicated regardless of how the defendant interpreted it
+- This could not have been ignored by the trial judge
+- Appeal allowed, conviction entered with the trial judge determining sentencing
+- Another judge agreed with the reasons on both the majority and the dissent
+- Spoke about how the defence of implied consent lies on myths and stereotypes

@@ -1,0 +1,63 @@
+### [[Smith v Inco]]
+- Recall that no damages were proven in this case, the property values surrounding the factory were lowered, but were unfounded in terms of scientific proof
+- Also, the element of "escape" in [[Rylands v Fletcher]] was supposed to be unintended and accidental
+- The release of the fumes from the factory was entirely intentional, it was a part of their operations
+- Very specific and limited type of risk, not all hazardous activities will meet the category, as we saw in [[Read v J Lyons & Co]]
+- Court of appeal did rule that in situations where the harm is created by a repeated and cumulative effect does qualify under the rule from *Rylands*
+- Innovation on the initial rule, which referred to a single significant escape
+- Only when a substance reaches its final destination does it create a harm for strict liability
+- Established a few other innovations in strict liability
+- Doesn't appl to all damages caused by hazardous activities
+- What is natural and non-natural is not defined exclusively by the origin of the substance
+- Just because it originates from the land doesn't mean it's natural
+- Additionally, the House of Lords abandoned the term "natural" in favour of "ordinary use"
+- Drew on the approach used in [[Tock v St John's]], rule is triggered by a user or use that is inappropriate to the place
+- Not entirely clear, but gives us a couple hints on what this means
+- Appropriateness of the use depends on a number of factors
+- The hazardousness of the use is relevant, but not determinative
+- The time of the use, the change in existing patterns of use (normalizing explosive factories in *Read*) are one relevant factor
+- Another important factor is the place where the use is made, was it in an industrial environment? A residential one?
+- For example, a previous example was the escape of chemicals manufactured for medical treatments in a residential neighbourhood
+- Finally, the standards of use and other regulations in the local area are also relevant, how was the use conducted? Was that manner unusual?
+### Defences
+- In *Rylands v Fletcher*, Blackburn explicitly mentioned that the plaintiff can escape liability by proving it was a result of their default or an "act of God"
+- In [[Rickards v Lothian]], the malicious act of a third party was also used as a defence
+- If the defendant has no way to prevent a certain act, they may not be liable
+- Five total defences:
+- The first is the defence of consent, if the plaintiff consented to the existence of the non-natural use this may reduce liability
+- However, this does not constitute a total waiver of the right to compensation
+- Courts will attempt to construe the facts of the case to see if the plaintiff's actions amounted to consent, but this is a difficult standard to meet
+- Often it's unreasonable to expect the plaintiff to object before harm is caused
+- If the risk was manifested by an act of negligence from the defendant, proving consent will not relieve them of liability, they must have taken reasonable steps even if there was consent
+- Recall that the manner of use is relevant, negligence can lead the court to deem a use non-natural
+- The second is an act of God or a *vis major*, this is a Latin expression meaning an unforeseen or unanticipated force
+- Usually refers to an extraordinary natural event that the defendant could not have expected
+- Because of this, the defendant would have been powerless to prevent it
+- This would break the chain of causation between the actions of the defendant and the harm to the plaintiff, removing liability based on the principle of *Novus Actus Interveniens*
+- In *Suits*, there's a case where Mike talks to a businessman who claims his food spoiling during heatwaves is an act of God, which he points out doesn't apply since it happens consistently
+- Still need to consider whether this natural event was within the risk implied in the activities of the defendant
+- For example, take a defendant who is making piles of earth on their property in an area known for heavy rainfall
+- If that rainfall causes a mudslide onto their neighbours property, that was part of the risk
+- Additionally, if the risk of third party intervention is within the risk, also doesn't apply
+- Recall that the act has to be unforeseen and unanticipated, if there was reasonable foreseeability, then you can't claim *vis major*
+- In the case of *Cambridge Water Company v Eastern Counties Lever*, an act of the plaintiff was also mitigated under this principle
+- No liability when the plaintiff did something that led to the escape, only exception is if the defendant would have been able to foreseen the act of the plaintiff
+- Applies whether the act was negligent or intentional, but damages will be affected by contributory negligence
+- Recall that from *Rickards*, the act of a stranger or a third party does not cause liability
+- In a previous case, a gas truck exploded because a kid threw a match into the tank
+- Not within the risks created by the defendant's activity
+- However, the defendant still has some duty to exclude third parties from an area where a hazardous substance is kept
+- Especially if something like this has happened before, liability still applies
+- Overall, if you either ought to have guarded against the intervention or if the intervention was foreseeable, can't claim intervention as a defence
+- The next defence is statutory authority, like in the case of *Tock*
+- Recall that from *Rickards*, we know that the defendant will not be liable for something they were powerless to prevent, including when the act comes from a duty
+- On the other hand, *Smith v Inco* established that compliance with regulatory standards is not a defence to strict liability, but will be an important factor
+- Important to remember the place, time, and manner of the use, this relates to the manner
+- In order for an authorized body to use compliance with regulations as a defence, they must establish that these three factors all align with the statutory provisions
+- Of course, the defendant must have a duty to carry out the activity, and still has to make sure they performed the duty reasonably and without negligence
+### Strict Liability for Animals
+- One last case to consider is that when the defendant was keeping a dangerous animal, they will be strictly liable for any injuries caused by the animal
+- Two categories for this, if the animal was wild, or if there was a domesticated animal that was previously shown to have vicious or violent tendencies
+- Action for these kinds of cases are called "Scienter Actions"
+- A notable exception is for cattle, which have their own section of common law
+- If cattle leave their owners land and trespass, owner is strictly liable

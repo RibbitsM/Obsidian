@@ -1,0 +1,16 @@
+- Defendant was a pawnbroker who sent their servant to collect the plaintiffs goods
+- 1698 English case btw
+- Servant then lost the plaintiffs goods, and they sued the defendant
+- Court held that masters are liable for the damage done by their servants
+- Justified based on negligence
+- Because the servant acts on the authority of their master, the master is liable for any wrongdoing committed under that authority
+- Foundational case for vicarious liability
+- Three elements
+- First, the employee has to commit a tort
+- Then, need to establish that the employee is employed by the defendant
+- A later test for this requires showing that the employee is a "cog in the defendant's organizational machinery"
+- Goal is to determine if the employee was working on the employer's behalf, or independently
+- Trying to assess the level of control defendant has over the employee, this requirement was established by *Ontario Ltd v Sagaz Industries*
+- Third, the tort must have been committed during the course of employment
+- Still applies even if they were doing something prohibited
+- Example is where a carpenter is driving the plaintiff between two properties in his personal car which is against company policy, and injures the plaintiff

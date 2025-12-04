@@ -1,0 +1,56 @@
+- Read the prompt, what do we need to talk about
+- Identify all the issues you can, only talk about the ones relevant to the prompt
+- In this example (2023 exam), you want to argue both sides
+- Some issues will be slam dunks, but try to find arguments from either side, thoroughness and a balanced analysis is important
+- Don't be afraid to say that an issue can't be determined, many things are uncertain
+- Most marks come from your analysis, not your conclusion
+### Potential Issues
+- Was there a meeting of the minds?
+- If Frank never intended to supply the apples Gail asked for, was there really an agreement?
+- What is part of the agreement?
+- Can argue that everything before the e transfer is sent was preliminary negotiations
+- However, after this Gail requests that Frank only send half the shipment, did this void the agreement? Can it be incorporated into the argument?
+- There was no written agreement, everything was oral
+- Main analysis will be on certainty of terms, who was going to send the trucks?
+### Answer
+- Could start by raising the issue of whether there was intention to contract, but given there's no real evidence to the contrary this would be a one line type of thing
+- Probably won't hurt if you leave it out, but can help
+- Usually, when an issue is not in contention you will just save time by not addressing it
+- Can also discuss the ad for apples not being an offer in itself
+- Who made the offer, did it start with the ad or was the offer made by Gail?
+- We only know the outcome of the initial negotiations, which indicated that Frank was willing to enter into a binding agreement with Gail
+- This would mostly be based on the fact that Frank was the one who summarized the agreement
+- Gail seemed to have agreed to the contract, she said "absolutely" when Frank said he would dispatch the trucks on April 1st
+- Not everything was decided in the initial negotiation, uncertain terms were the prices of future batches, the type of apples, and how the delivery would be made
+- Starting point is that agreements to agree are unenforceable, but Canada and UK courts have indicated willingness to allow this if the uncertainty was in a non-essential term
+- Agreements like these where future prices aren't determined are usually not enforceable, but it's not impossible
+- Parties were able to easily agree on the price of the initial shipment, and they referenced the market value of apples as a way to determine future prices
+- No arbitration clause here, so no clear way to address the uncertainty
+- Could argue that severance could be used as a remedy, excising everything outside the initial agreement
+- Need to show what case each statement is based on, no need for full style of cause
+- Overall, it seems like there was a functional agreement on the first batch
+- But what about the trucks, there was a disagreement on who would send them
+- The initial agreement suggests that Frank would send the trucks, and usual practice is that the grower will send the trucks
+- However, this is not an essential term, and can probably be ironed out later
+- After the disagreement, they did ultimately agree that Frank would provide the trucks
+- Other uncertain term to address is what kind of apple would be sent
+- Reasonably speaking, you could argue that the variety of apple was left to Frank's discretion
+- Ambrosia apples were highlighted in the ad, and Gail expected to receive Ambrosia apples which was also addressed in Frank's letter at the end
+- The case we use for vagueness is [[Lecture 7 (Contracts)#Scammell and Nephew v Ouston|Scammell and Nephew]]
+- Can imply that the mutual intention of the parties was that Gail was supposed to get Ambrosia apples
+- Consideration was established here, Gail sent the money
+- Privity is not a live issue, there were no third parties involved
+- The contract was mostly oral, but there's no longer a requirement to have written contracts for non-land agreements
+- Another important issue is waiver/promissory estoppel, after the fuel prices were raised, Gail asked to send only half a batch
+- If this is considered to be part of the argument under promissory estoppel, she may be held to this agreement even though no fresh consideration was given
+- However, Canadian courts have started to move away from this in the aftermath of [[Lecture 15 (Contracts)|Rosas v Toca]]
+- Last issue to address is if there were any vitiating factors
+- Letter at the end indicates there was misrepresentation on Frank's part
+- However, it's debatable if the original contract was for specifically Ambrosia apples
+- You'd probably need more information to make a definitive statement on this issue
+- A potential issue that could be raised here is an implicit requirement to negotiate in good faith
+- Usually limited to negotiations made after the initial contract is set
+- In this case, the main bad faith issue is the letter at the end, which relates to a pre-contractual negotiation
+- Overall, misrepresentation would be the better option to address this
+- This is a summary of all the possible issues in this case, you're not expected to put all this on the exam
+- Depth of analysis should be your priority on the exam, that's where the marks are

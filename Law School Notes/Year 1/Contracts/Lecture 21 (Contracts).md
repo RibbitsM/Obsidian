@@ -1,1 +1,47 @@
-- 
+- Duress, undue influence, and unconscionability are the three main vitiating factors used in contract law
+- All three involve a party with more power taking advantage of a more vulnerable party
+- Duress is fairly similar to the criminal law defence of duress, and involves serious threats used to coerce another party to entering a contract
+- Usually involves serious threats to life and limb, for example threats of death
+- Undue influence deals with less serious threats, usually in the context where one party is abusing a position of trust to influence a weaker party
+- Classic examples are parent/child, doctor/patient, etc.
+- Doesn't require this kind of relationship, but this is where many undue influence cases come from
+- Unconscionability is slightly different, still concerned with the power differential but is mostly focused on contracts that are obviously unfair
+- No need to show that there were specific factors at play when the contract was signed except for just an inequality of bargaining power
+- Sometimes it's difficult for the courts to decide on which of these three apply
+- Duress is usually a threat of illegal action, undue influence is coercion and abuse of power, and unconscionability is inequality of bargaining positions with an obviously unfair contract
+- The remedy for any of these three doctrines is rescission, same as misrepresentation
+- Same concerns and considerations from that section apply here, if there is no possibility of restitution, the court will seek equitable compensation
+### Duress
+- The principle behind the doctrine of duress is that some sort of coercive threat will vitiate the consent given by the other party
+- A contract signed under duress is never really legitimate as it can always be voided if one of the parties wishes
+- Can be voided by notifying the other party or by taking other action like calling the police
+- In English common law, this was limited to duress to person which would mean a threat of violence or duress to goods, basically taking your stuff hostage
+- Classic example was *Astley v Reynolds*, where a pawn broker demanded an excess payment for the return of some goods being held by them
+- Doesn't necessarily have to be illegal, it's just that many of the classic duress cases are the kind of "gun to your head" scenarios we think of when duress is mentioned
+#### Economic Duress
+- A newer species is "economic duress", think of a merger between a larger and smaller company where the larger company threatens to crush the smaller company if they refuse
+- From 1975 onward, this began to be recognized in Britain and has extended to Canada as well
+- Fairly difficult to establish, need to distinguish duress from ordinary commercial pressure
+- Leading case for this is *Pao On*, a UK case where the plaintiff agreed to exchange shares with the defendants with a guarantee that if the shares fell, they could be repurchased as a specified price
+- In turned out that the way the agreement was worded, if the defendants shares went up in price, they could rebuy them at the original lower price
+- Once the plaintiff figured this out, he refused to close the transaction until this loophole was closed
+- Defendants ended up agreeing to the amended version as it was a fairly high profile deal and they would suffer publicity repercussions if they refused to sign
+- The shares ended up tanking and the plaintiff tried to enforce the deal, leading the defendants to refuse on the grounds of economic duress
+- Trial judge found that there was economic pressure, leading them to side with the defendants
+- On appeal, the Privy Counsel agreed that the defendants considered the risk of the loss before signing and did it to avoid delaying the contract
+- However, this was nothing more than ordinary commercial pressure and not coercion
+- Not significant enough to vitiate consent, the defendants agreed to the contract after considering the circumstances
+- In *NAV Canada*, the court stated that a lack of practical alternatives to a contract is evidence of economic duress, but not conclusive proof
+- The real factor that needs to be established for duress is a lack of consent
+- A recent case that came from the Ontario Court of Appeal was *Kawartha Capital Corp v 1723766 Ontario Limited*
+- Ruled that to establish economic duress you need to establish two things
+- First, was there enough pressure that there was no choice but to submit?
+- Second, was the pressure illegitimate?
+- Four factors used for the first step of the test
+- Was there protest to the contract?
+- Was there an effective alternative course of action?
+- Did the party receive independent legal advice and still decide to sign?
+- After entering the contract, was there steps made to avoid it?
+- If these four requirements are met, the test can proceed to the second step
+- This is where the majority of work for the court is going to be, not many successful economic duress cases
+- In fact, many cases of duress between corporate actors end up bleeding into ordinary duress

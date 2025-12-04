@@ -1,0 +1,76 @@
+- Vicarious liability is when the owner of a business is held liable for the actions of their employees
+- Also a form of strict liability, as the penalties are imposed regardless of if the employer acted wrongfully
+- Appellant was a non-profit that treated troubled children, employees acted like parental figures to the children
+- Defendant was hired to work in one of their homes in Vancouver, and ended up being a pedophile
+- Plaintiff did not know this, they had done a background check that didn't raise any flags
+- Sexually abused a young boy living at the home, and was eventually reported to the appellant, who immediately fired him
+- The boy sued the non-profit for damages, but they argued they were not responsible since there was no negligence in his hiring
+- Issue is whether employers are vicariously liable from sexual assault committed by their employees on their clients
+- Additionally, should non-profit employers be exempt from this requirement?
+### Analysis
+- Previous case called *Salmond*, which states they employers are liable for employee acts authorized by the employer, as well as unauthorized acts connected to the authorized acts
+- These unauthorized acts must be considered "modes" of completing the authorized act
+- Main contention in this case is on the second element of the act
+- Employers says that sexual assault is not considered a "mode" of caring for the children
+- Bazley (the boy) argues that it is, and previous cases have held that comparable assaults were under vicarious liability
+- Test provides no criteria for determining what a mode is, and the two alternatives are roughly equally likely
+- Court decided to first look at the precedent, and try to determine if any previous cases solidly address this, and then look to policy arguments
+### Precedent
+- Three general categories of cases that are similar to this one
+- Cases based on the furtherance of the employer's aims
+- Cases where the employer created friction
+- Dishonest employee cases
+- With the first category, the rationale makes sense as the unauthorized activity could be argued to be implicitly authorized
+- However, no way that this could extend to serious offences like assault, plus this is more of a negligence action than an intentional tort
+- For the second category, the rationale is that there's an inherent risk in putting your employees in certain positions
+- For example, there's a case where a provoked bartender assaulted an obnoxious patron, bar was liable for putting him in a situation of friction
+- However, this category and the first have not been shown to extend to theft or fraud
+- Final category is the dishonest employee, in these cases the company is found liable even when there is no friction and the employee is clearly acting against the company's aims
+- The common thread is likely that in each of these cases, the employer is in some way creating a risk that produces the incident
+- Where the conduct of the employee is closely connected to the risks of the business, there will be vicarious liability
+### Policy Considerations
+- In many ways, policy considerations are the foundation of vicarious liability
+- Mainly dictated by two opposing forces: the need to protect innocent tort victims against a defendant that may be financially responsible, and the need to not burden businesses too much
+- Vicarious liability is uniquely suited to policy considerations
+- The goal of vicarious liability is twofold, to get remedy for the harm, and to deter future harm
+- Even if charitable companies hire people not to benefit them economically, they're still accepting an implicit risk whenever they hire someone
+- Also, there tends to be a huge resource disparity between the parties, so it makes sense that the benefit should be given to the individual
+- Yet, we should make sure that there was still a risk created, and businesses aren't being sued when they did nothing wrongful
+- Also helps distribute risk to the organizations that can best absorb it
+- Even better, this may have a deterrent effect that strengthens policy to prevent further violations
+- May be able to use the defence of compliance with industry standards
+- However, it would be inappropriate to impose liability on the company if the incident was completely unrelated, and just happened to occur on company property
+- One can argue that this is just an example of a case where the policy considerations don't apply, there's no just compensation here, and how can those actions be deterred?
+### Principle of Vicarious Liability
+- Underlying idea is that employers should be liable for unauthorized acts falling within the risk created by the business's operations
+- Additionally, the policy issues of compensation and deterrence only apply to situations where it could be reasonably said that the incident fell within the risks of the company
+- The connection between the incident and employment can be quite broad, the test is more than just foreseeability of the risk
+- Test is foreseeability of the broad risks created by the entire business
+- Enterprise must present the opportunity of the incident, and also materially enhance the risk of the incident occurring
+- Court sets out several principles for determining liability
+- First, ask directly if the employer is in the wrong instead of discussing the "scope of employment"
+- Second, the fundamental question we're trying to answer is whether or not there's a significant connection between the act of the employee and the risk created by the employer
+- Third, to determine this we can look at the opportunities given to the employee, how the wrongful act may benefit the employer, the relation of the act to any friction created by the employer, the power given to the employee with respect to the victim, and the vulnerability of potential victims to the employee
+- Allowing an employee to spend extended periods of time alone with children creates a risk of sexual abuse, especially if care extends to intimate acts like bathing
+- Made even worse by turning the employee into a parent-like figure
+- Overall, the more power given to the employee, more likely that it will be misused
+- Also, this kind of ties in to the "mode of conduct" argument from *Salmond*
+- Just like how allowing employees to handle large sums of money may lead to embezzlement, letting your employees assist children with bathing may lead to sexual abuse
+- Overall, for cases like this the courts should look at if the empowerment of the employee increased the risk of abuse, especially if they were put in a position of trust
+### Exemption for Non-Profits
+- Seems like a convincing case at first, after all non-profit organizations fill a crucial gap in society
+- However, you also need to think about this from the perspective of the victim
+- To Bazley, it doesn't really matter that the employer had noble intentions, they still enabled his horrific sexual abuse by placing him in the care of a pedophile
+- Another argument is that non-profits are mostly staffed by volunteers which limits their control over their employees
+- May be true, but why should non-profits have less obligations to screen their employees?
+- Final argument is that this additional form of liability may impair the ability of the organization to pursue their work
+- Does make sense, non-profits can't absorb risk by raising prices like traditional companies can
+- However, this is basically arguing that instead of putting the burden on non-profits, it should instead be left on the shoulders of victims of sexual abuse
+- Even if this ends up being a net negative to society by hampering non-profits, at least the burden would be somewhat distributed
+- If the non-profit contributed to creating the risk, they should bear the burden, not the victim
+- Overall, this notion is rejected
+### Application
+- Recall that we are examining whether the employer created or enhanced the risk of abuse through its operations
+- The terms of employment created the opportunity for intimate private control and a parental-like relationship between Bazley and Curry, significantly amplifying the risk
+- On these grounds, the employer is vicariously liable for the abuse
+- Abuse was not an isolated incident disconnected from the job, but enabled by it

@@ -1,0 +1,27 @@
+- Use IRAC or Ireh will find you and hunt you down
+- Start with the issues, it will give you a structure for the rest of your paper
+- Identify all the issues and explain what they are
+- Is it nuisance, trespass, strict liability, etc.
+- State the issue as a question, just like on a case
+- Can x be found liable for y?
+- Try to focus on only the rules most relevant to the fact pattern, be confident in your assertion of the issue
+- Don't need to prove it's not another issue, just that it's the main issue you're arguing for
+- Only do this for the main question, for the subsequent questions building on the main issue, just answer the question without using a full IRAC formula
+### Question 5
+- Issue here is strict liability, based on the rule from [[Rylands v Fletcher]]
+- So for the Issue section we would ask if Madrid can find Jake liable for strict liability under the *Rylands v Fletcher* rule
+- In the Rule section, we mention the elements from *Rylands v Fletcher*, including the modifications created by [[Smith v Inco]]
+- Defining the issue, you already identified it, now you need to explain what it means
+- Potential problems with the case are whether Madrid can prove that there was an escape from Jake's property that went onto his property and caused damages
+- Another issue is whether or not using an "innovative" herbicide is considered a non-natural use
+- Recall that from *Smith v Inco*, we know that we have to consider time, manner, and place
+- Because using a herbicide is a very normal use of land for farmers, difficult to prove this wasn't an ordinary use of land
+- Also, Jake is a subsistence farmer supporting the food supply of his local community, this may be a relevant public policy issue to consider
+- For the first subissue, we're looking for the defence of consent
+- This would likely limit Jake's liability as we could argue that Madrid consented to the use
+- For the second subissue, we're looking for the defence of malicious act by a third party
+- Need to consider whether he took reasonable steps and could have foreseen this act, consider what would happen assuming he is liable for the escape
+- For the third subissue, we're looking for vicarious liability
+- Was the handyman an employee or a contractor? Was the act committed during his employment? We would use the [[Lecture 23 (Torts)#*Salmonds* Test|Salmonds test]] for this
+- This is a different tort, so you can make a new IRAC for this question if you want
+- 

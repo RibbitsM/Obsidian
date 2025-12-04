@@ -1,0 +1,45 @@
+- In both the Canada and the US, there has been a pattern of depicting Indigenous resistance as criminal, enabling the depiction of Indigenous peoples as lawless savages
+- Especially in the mid 19th century, mass executions of Indigenous alleged criminals were fairly commonplace
+- Coincided with the recognition of the political authority held by Indigenous men through the treaty making process, as they needed to have that authority undermined
+- Indigenous women were not recognized and relegated to domestic roles
+- Also served to conceal the illegal methods by which the colonial administrations seized land from these groups by painting them as criminals
+- Allowed these settler states to incorporate what were essentially foreign nations into their domestic systems by enforcing their jurisdiction
+- The Dakota people in the US declared war after the state had failed to fulfil almost all of their treaty promises, and were imprisoned after a protracted battle against US forces
+- The governor formed a military commission to try the Dakota warriors, running trials often lasting less then 10 minutes which convicted 303 Dakota to death
+- Abraham Lincoln had to step in to stop the mass killing, lowering the number to 38 men which still constituted the largest mass execution in the nations history
+- The Canadian government used this as an opportunity to depict themselves as just and reasonable with their treaty process as opposed to the outright war in the US
+- At the same time, there was organized resistance to assimilation in Canada, with major Cree leaders banding together to resist the injust enforcement of Treaty 6 in Saskatchewan
+- Growing tensions ultimately let to the Northwest Rebellion, leaving 9 settlers dead at the hands of Cree warriors
+- Led to a trial not much fairer than those imposed in the US, leading to the hanging of 8 leaders
+- Despite being a war between nations, the executed and imprisoned Cree were charged with treason
+- Resistance was also used as an excuse to not honour treaty commitments, with the Dakota being expelled from their formerly promised treaty lands after the executions
+- A similar process occurred in Saskatchewan, with the government using the Northwest Rebellion as an excuse to continue negotiating in bad faith
+- All of this was carried out with the express goal of breaking Indigenous resistance and discouraging further attempts to disrupt the colonial project
+- Used as a pretense to ignore further claims of settlement on Indigenous lands and failure to live up to treaty commitments
+- The imposition of British law on Indigenous subjects was pitched as a benefit that would help protect their lands, but often ended up only being a weapon of oppression
+- Usually carried out in the early days by the North West Mounted Police, which had the power to arrest, prosecute, judge and jail any offenders under their jurisdiction
+- Supposed to embody law on the frontier, leading the way for future settlement
+- Played a part in restricting the mobility of Indigenous peoples alongside the Department of Indian Affairs
+- Main manifestation was in the pass system which was used to confine Indigenous peoples to their reserves
+- This was a clear violation of treaty agreements, but was seen as a necessary violation to preserve order
+- A similar process was carried out in the US, going against treaty promises to not enforce US law on reserves in order to prosecute Indigenous offenders
+- Based on a perception of Indigenous reserves as "lawless" since Indigenous legal orders were not recognized by the government
+- Pitched again as a method of protecting Indigenous populations from predatory buyers and speculators by preventing trade with Indigenous individuals and groups
+- Also marked the beginning of the project of assimilation in the US, seen as necessary to protect Indigenous people from each other by punishing them for their crimes
+- Created Indigenous quasi-military police forces to enforce law on Indigenous reserves
+- Also served to further limit Indigenous sovereignty by removing their legal systems and replacing them with their colonial counterparts
+- This was also coupled with a notable lack of punishment for settlers who committed crimes against Indigenous peoples
+- While Indigenous men were constricted in the public sphere, Indigenous women were mainly restricted in private life
+- Home life on Indigenous reserves was specifically controlled on reserves, with Christian missionaries taking special interest in enforcing European domestic norms on Indigenous women
+- Specifically targeted the sexuality of Indigenous women, viewing them as out of control and unsuitable for proper housewifes
+- Under the *Indian Act*, widows could only inherit their husband's property if they could prove they were of "good, moral character"
+- Annuities were also distributed based on the Indian agents understanding of family units
+- Many Indigenous men and women were charged with polygamy, and Indigenous women were charged with bigamy after attempting to remarry as Indigenous divorces weren't recognized
+- Indigenous nations were consistently depicted as "dependant" on their colonial masters, with this being legally recognized in both the US and Canada
+- Even where Indigenous nations had limited sovereignty, they were ultimately always subject to colonial law when it mattered the most
+- In Canada, this took the form of framing Indigenous/treaty rights as "cultural" as opposed to recognizing Indigenous sovereignty
+- These decisions were consistently based on a view of Indigenous society as lawless and savage
+- As [[The Elimination of the Native|Wolfe]] mentions, settler colonialism is inherently eliminatory, it operates with the sole goal of acquiring Indigenous lands, necessitating the elimination of its residents
+- The treaty process reflects this logic, carried out with the goal of separating Indigenous peoples from their land
+- In this way, colonial governments can weave a veneer of legitimacy out of their own law, while preserving small pockets of Indigenous sovereignty as proof of the validity of the treaties
+- 

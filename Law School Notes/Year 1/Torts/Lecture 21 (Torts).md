@@ -1,0 +1,56 @@
+- Strict liability action may have the characteristics of both nuisance and trespass
+- Means imposing liability on the defendant even when there was no intentionality or negligence
+- Vicarious liability is also strict liability, but at least in that case there was some wrongfulness
+- Strict liability in the general sense refers to any situation where someone is liable despite not committing a wrongful act, and is separate from the *Rylands v Fletcher* rule
+- Recall the three states of mind, negligent, intentional, and accidental
+- Strict liability is an exception to the rule as it applies to accidental conduct
+- Not fault-based, different from intentional torts and nuisance
+### [[Rylands v Fletcher]]
+- 1868 House of Lords case from the UK
+- Decided by Blackburn at the Exchequer Chamber and Cairns at the House of Lords
+- Defendants Rylands and Horrocks constructed a reservoir on their property to be used to run their mill
+- Unaware that there was an abandoned mineshaft under the reservoir that connected to a mine being used by Fletcher, the next-door neighbour
+- After the reservoir was built, the opening to the mineshaft collapsed and the mine was flooded with water, preventing Fletcher from using his mine
+- Difficult case, required an innovative decision because clearly Fletcher's rights had been violated, but there was no existing cause of action
+- Didn't qualify as nuisance, as the reservoir was constructed well, and on their own property
+- Also wasn't continuous, it was a one-time disaster but this may be a nuisance
+- Not quite the usual form of a nuisance, that usually needs to harm a person
+- Didn't qualify as trespass because everything happened on Rylands' land
+- There was also no intentionality, and it was an indirect interference
+- Initial decision was made in the exchequer court, and affirmed by the House of Lords with an additional element
+#### Principle
+- Original principle was that anyone who for their own purposes brings onto their land and contains something likely to do mischief if it escapes, is liable for any damage it may cause
+- This is not absolute liability, there are some defences we will explore later
+- First, there has to be an artificial accumulation of something dangerous on the land
+- Focus is on the dangerous nature, the rationale here is that people engaged in dangerous activities should be responsible for any accidents that result
+- Lord Cairns upheld this principle, but added an element that the use of land has to be "non-natural", which has caused countless issues in future strict liability cases
+- What is a natural use of land? The court said it has to be something artificial, put there by humans that wasn't originally there
+- For example, if a river on your property overflows and floods your neighbours house, no liability because there was no non-natural use
+- If there was not a special use of land that increased the danger of the land to others, should be a problem
+### [[Rickards v Lothian]]
+- Plaintiff was renting a space in a commercial building, and sued the landlord when a malicious third party caused the bathroom above the space to overflow, damaging plaintiff's stock
+- Plaintiff sued the landlord for damages
+- Court concluded that the principle from *Fletcher* does not extend to the actions of unrelated third parties
+- Additionally, the elements of the *Fletcher* test are not present here
+- Supplying water to the bathroom is a reasonable use, not a dangerous one
+- This is something completely normal for any residential building
+- Also, this use was beneficial to the community, we want all houses in the region to have indoor plumbing
+- Principle only applies when the property is used in an unusual matter
+- There must be an element of escape, it's key to the *Fletcher* rule
+### [[Read v J Lyons & Co]]
+- Plaintiff was an inspector ordered to inspect a munitions factory
+- During her visit, a shell casing exploded, injuring the plaintiff who sued the owners
+- There was no escape in this case, everything that happened took place within the factory
+- Court also held that this was a natural use of land, case was heard in 1946 when it was perfectly normal to have munitions factories all across England
+- To apply the *Fletcher* rule, must be an escape from a place that the defendant occupies or controls, and the escaped thing must do damage
+- Here there was damage, but there was no escape
+### Summary
+- Principle only applies to anything "likely to do mischief"
+- This is usually trivial to prove, as often torts cases don't emerge until there has been harm
+- Applies to activities deemed unusual or dangerous
+- Overall, there are five key requirements from *Rylands v Fletcher*
+- Must be an artificial accumulation
+- Accumulation is of something likely to do mischief if it escapes
+- Must be part of a non-natural use of land, defined as something creating increased danger and does not benefit the community
+- Must be an escape of the thing accumulated on the land
+- Must be harm caused by the escape

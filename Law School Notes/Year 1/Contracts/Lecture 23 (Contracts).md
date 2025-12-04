@@ -1,0 +1,83 @@
+### Unconscionability
+- Hallmark case is two unfamiliar parties that have unequal bargaining power, where the stronger party leverages this to gain a deeply unfair bargain
+- Different because there's no pre-existing relationship like in undue influence
+- Part of the courts ability to order the rescission of manifestly unfair contracts
+- Classic case is *Waters v Donnelly*, held that when one party can take undue advantage of the other and exercises that power, resulting contract is unconscionable
+- Onus is on the defendant to show that the contract was just and reasonable
+- No clear presumption that arises, but this is how the cases usually go
+- Mostly unique in the sense that this is available no matter the relationship between the parties, technically overlaps with undue influence
+- However, where the relationships are closer, the courts will tend towards undue influence
+- This divide was addressed in *Morrison v Coast Finance*, where the court stated that a plea of undue influence attacks consent, as does duress
+- The focus on unconscionability is less about consent, but more about the power dynamics, and proof of an unequal bargain resulting from that situation
+- Consent is still an issue in the background, but is secondary to evaluating the relative position of both parties, the case is set aside because of inequality, not a lack of consent
+- Traditional test for unconscionability is to show both inequality of bargaining power and an objective unfairness in the agreement
+- Must also be a connection between the first and second part
+- Has evolved significantly over time, eventually ballooning to four parts
+### Uber v Heller
+- Definitive case for Canada is *Uber v Heller*, which asserted that the two part test applies
+- Yes, that Uber
+- Claim was brought by Heller, an Uber Eats driver on behalf of his colleagues
+- Alleged that Uber had violated Ontario's employee standards act
+- Uber invoked a clause in the employee agreement that required that any disputes would be resolved by arbitration in the Netherlands where Uber is headquartered
+- To engage in these arbitrations, had to pay an admin fee of $14,500 which was not explicitly stated in the contract
+- Basically makes it impossible for any Uber driver to make nearly enough to afford this
+- This is where the unconscionability argument arises, Heller argues that this clause precludes any possibility of resolving any sort of dispute
+- Effectively speaking, the dispute resolution mechanism was completely inaccessible
+- Unconscionable term of the contract, and should be set aside to let his claim proceed
+- Clear signs of unequality, financial disparity between Uber and Heller as well as the fact that Heller had no ability to negotiate the standard form he signed when joining Uber
+- Also, the employee contract was clearly unfair as well considering it prevented any sort of employee disputes from being raised against Uber
+- SCC sided with Heller, determining that the contract was unconscionable
+- Struggle for Heller was that the original test required the weaker party to have some sort of particular weakness that made them uniquely vulnerable to exploitation
+- No such difficulty was recognized by the court, but they argued that this is not a required part of the test, just need to show comparative inequality
+- Traditionally, unconscionability would render the entire agreement unenforceable
+- But Heller just wanted one particular clause of the employee contract set aside
+- In fact, this issue has persisted even after the conclusion of this case
+- "All or nothing" argument, unconscionability attacks the whole agreement
+- What Heller wanted was to litigate against Uber, and if the whole contract was thrown out then he couldn't do that
+- Court resolved this by arguing that there were two different agreements here
+- The main agreement was the understanding that Heller would work for Uber, and the dispute resolution portion was seen as a discrete "side agreement" with Uber
+- This was not a novel conception, had been used by the courts previously
+- Now, Heller can have only the side agreement thrown out, and still litigate against Uber on the grounds of the main agreement
+- Basically let the court ignore the issue of whether unconscionability has the capacity to set aside a specific clause of an agreement
+- Justification of the court was that historically, arbitration clauses were seen as separable from the main agreement
+- When it came to proving inequality of bargaining power, the SCC pointed to situations of necessity as an example of qualifying situations
+- One party will be in a desperate financial situation, and will effectively agree to anything in order to pull themselves up
+- Another situation mentioned by the court was cognitive asymmetry, where only one party in the agreement is fully able to understand the terms of the contract
+- Heller's situation wasn't really one of necessity, likely the decision came because of the cognitive asymmetry
+- Clearly, Uber has much more power to structure the interaction compared to Heller
+- When it comes to standard form agreements, the court made sure to mention that this doesn't mean all standard forms are grounds for unconscionability
+- However, these kinds of contracts do tend to result in unequal situations
+- By choosing the way they interact with the weaker party, the corporations has a significant degree of control over the weaker party
+- Especially egregious when these standard forms try to shut off avenues of reprisal like arbitration clauses just like the one drafted by Uber
+### Step 2
+- Recall that even when inequality is proven, the plaintiff also has to prove that the contract that resulted was manifestly unfair
+- Majority stated that it's very difficult to come up with a definitive list of what qualifies as "unfair"
+- More like an "I'll know it when I see it" kind of situation
+- Generally, terms are unfair when they cause unfair surprise or fail to meet the reasonable expectations of the weaker party
+- Court did mention that regarding the industry standard is important, is the contract signed by the weaker party unusual?
+- Assessment of unfairness is determined at the time the contract was signed, and thus the surrounding circumstances we're considering are locked at that time
+- For example, if you made an agreement to buy something at an unreasonably high price, that price would be compared to other prices at the time
+- Another telltale sign of inequality was the undue enrichment of the stronger party
+- In this case, the court pointed to the effective immunity from employee disputes granted to Uber by the contract as a clear sign of undue enrichment or advantage
+- Previous unconscionability cases required evidence of explicit targeting of the plaintiff specifically, but the court waived this requirement here
+- That would certainly help the plaintiff, but is not necessary
+- McCamus summarizes the Court's approach as paving the way for the ultimate conclusion that unconscionability applied to the agreement between Uber and Heller
+- There was a significant gulf in "sophistication" between the parties, as the agreement provided no information on how the arbitration system worked in practice
+- Even if Heller read the contract in full, without knowledge of the Dutch legal system he would have been unable to understand what was actually being implied, the $14,500 sum was not mentioned anywhere
+- If this knowledge was accessible to him, there was no way he would have agreed
+### Other Considerations
+- Do third parties ever have an obligation to act in these cases, like in bank guarantee cases?
+- Where a financial institution is aware of unequal bargaining power between two parties, the bank may have a duty to ensure there is no unconscionability, as well as undue influence
+- Can do the same thing for that case, ensure there is [[Lecture 22 (Contracts)|independent legal advice]]
+- But if the person still wants to sign after getting that advice, the bank might still be liable
+- Better approach is likely that the bank should refuse to let the guarantee proceed
+- After all, why would getting legal advice magically make the agreement fair when it's clearly still a bad deal with unequal bargaining power
+- However this is up to interpretation, has not been clearly stated
+- For the bank, their priority is to make sure that their loan will actually be enforced
+- Definitive case for this issue in Canada is *Morrison*
+- Last thing to consider is whether or not this is an "all or nothing" argument, *Uber v Heller* almost had to address this issue but narrowly avoided it
+- What happens when the court had addressed this issue?
+- No clear examples of this in Canada, though entire agreement clauses have been previously excluded from unconscionable contracts
+- In *Tercon Contractors v British Columbia (Transportation and Highways)*, the SCC used a three step test to see if limitation of liability clauses are enforceable
+- Second step lets the court set aside unconscionable limitation of liability clauses without destroying the agreement as a whole
+- Overall, limitation of liability clauses and entire agreement clauses are really the only thing Canada has addressed in terms of what can be surgically removed for unconscionability

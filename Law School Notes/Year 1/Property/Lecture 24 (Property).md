@@ -1,0 +1,64 @@
+- Small twist from the [[Merger Restaurants v DME Foods]] decision, it turns out that the building in question from *Kontogonis* was actually pretty similar to the one in this case
+- Sure, it was a commercial building but it was a squat 2 floor building in the middle of an industrial park which would probably be inaccessible without a car
+- Recall that leases exist at the intersection of contract and property law
+- In the commercial context, the contracting parties have broad latitude to decide terms
+- But in a residential context, a lot of things can't be contracted out
+- Core elements of a lease can be imported as the "usual covenants" of a decision
+- For the landlords, the usual covenants are grant of quiet enjoyment, an implied warrant of fitness for human habitation, and an obligation not to derogate from the grant
+- Tenants have to pay rent and property taxes, to maintain repairs, and allow the landlord access to inspect those repairs
+- Not all of these are as ordinary as you would think, in BC most tenants don't pay property tax
+- In England, it's less common for rent to include property tax
+- These obligations can be contracted out of, except for maybe the grant of quiet enjoyment
+### [[Southwark LBC v Tanner]]
+- Issue in the case was that there was no soundproofing in the walls of the house
+- Wasn't anything particularly loud happening next door, but annoying nonetheless
+- Tenants sued for breach of the grant to quiet enjoyment and for [[Nuisance]]
+- No statutory basis for the claim, so the tenants based their action on the common law
+- Clause B4 of the lease agreement held that the council would not interfere with the tenant's rights to quiet enjoyment
+- Nothing in the agreement explicitly stated a requirement for human habitation
+- Also no case law basis for an implied warranty of fitness for human habitation
+- Taking the lease literally, there was a breach as there was no quiet, nor any enjoyment
+- The phrase "quiet enjoyment" actually means that the landlord can't interfere
+- Lawful possession of the land will not be substantially interfered with by the landlord
+- The tenant's complaint would have to be based on the implied warranty, which was absent
+- You get what you rent, and you rented a unit where you knew you would have neighbours, who you could reasonably expect would be making noise
+- This was social housing, provided by the London Borough Council
+- The Council has a defined budget for social housing, and any improvement to the housing restricts the amount of future housing that could be built
+- It's up to the Council to remedy this issue, not the courts
+- Better to have more noisy houses than a couple quiet ones
+- Parliament dealt with the problem of poor social housing for a long time, and there was never any obligation to provide good soundproofing imposed
+- Overall, this is an issue of distribution that is better left to the government, not the courts
+- A famous incident in Canada was that one giant building fire that prompted legislature to change building code to make fires less dangerous
+### Canadian Context
+- Important case for this issue in Canada was *Fraser-Reid v Droumtsekas*, a homeowner sued the seller after their basement flooded from snowmelt
+- Sued for implied warranty of fitness for human habitation, court said you get what you buy
+- Another indication of how the common law has historically rejected claims like these
+- Under the BC *Residential Tenancy Act*, landlords have to ensure that property complies with local health, safety, and housing standards
+- Shows that in Canada, the courts also tend towards leaving this issue to Parliament
+- Going back to the issue of quiet enjoyment, can indirect interference from the landlord like nuisances be considered a breach of quiet enjoyment?
+- Case for this is *Pellatt v Monarch Investments* where renovations ordered by a landlord were challenged as interference from the landlord, the court agreed with the plaintiff
+- But does this extend to the actions of other tenants?
+- In *Curtis Investments v Anderson*, the court held that the landlord is only liable if they actively participated in the behaviour causing the nuisance, or consented to that behaviour
+- In that case, the landlord had no active involvement and had not consented, no breach
+- Lack of action from the landlord in dealing with a nuisance may amount to consent
+- Consent can be implied from ignoring multiple complaints
+- The BC Residential Tenancy Branch explains the right to peace, quiet, and privacy as being the same as the right to quiet enjoyment on their website
+### Non-Derogation
+- *Petra Investments Ltd v Jeffrey Rogers Plc* is another British case, the plaintiff was selling high-end womens fashions and entered a lease with a commercial landlord
+- Entered into the lease on an understanding that the shopping mall would be intended as a high-end destination, but ended up performing poorly
+- Mall decided to remedy this by bringing some new tenants, including The Gap
+- Plaintiff complained that this was a derogation of the grant, which included an understanding that this would be a place for high-end clothes shopping
+- Also, some of the other clothing stores were replaced by a giant music store
+- This complaint was addressed as the plaintiff got a rent rebate for the renovations required to make the Virgin Records store, and implicitly agreed to the replacement
+- Test for non-derogation was whether the action complained of made the premises "unfit or materially less fit" for the intended use of the leased property
+- Nothing in the lease agreement specifically referenced high-end womens fashion, although that seemed to be the intent
+- Can we consider this to be an implicit part of the agreement?
+- The court says no, these are commercial parties contracting and it's up to them to specify what they are contracting for explicitly in the lease agreement
+- Could probably argue that these spaces were implicitly retail and clothing stores, but not specifically high-end womens fashion
+- In *Clark's-Gamble of Canada v Grant Park Plaza*, a Woolworth's store sued after the shopping plaza added an extension with another large department store
+- Court ruled that the parties should have included a non-competition clause in the agreement if they wanted to keep competitors out, can't be implicitly added after the fact
+- These kinds of clauses are very common, much more than in the *Jeffrey Rogers* case
+### Tenant Obligations
+- What does "maintaining repair" mean for the tenants?
+- Recall that [[Lecture 24 (Property)|life tenants]] aren't responsible for permissive waste (ordinary wear and tear), but are responsible for voluntary waste (permanent additions)
+- Basically means you have to keep the premises in a good state, cleaning and mending minor damages, and don't wilfully or negligently damage the house

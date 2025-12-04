@@ -1,0 +1,52 @@
+- An example of a duress of goods case is a contract between a landlord and a tenant (*Skeate v Beale*)
+- Tenant was behind on rent payments, and landlord seized most of his possessions and threatened to sell them unless he paid up
+- Tenant entered a repayment agreement, and was able to pay most of the arrears
+- When he could no longer pay, landlord took the case to court
+- Tenant argued that the agreement should be voided based on duress of goods
+- However, Court found that there was no overruling of the will, as the threat was to the tenant's goods, not their person
+- Ruled for the landlord, a widely criticized decision
+- Duress of goods is the second category alongside duress of person and economic duress
+- Economic duress is claimed often in Canada, but is difficult to prove
+### Undue Influence
+- While duress usually involves pressure being applied based on a threat, in undue influence all the force comes from the relationship between the parties
+- Classic hallmark of undue influence is a relationship where one person has power over another
+- Can be described as the "unconscientious use of power by one person over another"
+- Classic Canadian case for this is *Bank of Montreal v Duguid*
+- In this case, a man went to BMO to get a loan, and they told him he needed a guarantor
+- He got his wife as a guarantor, and he got the loan and his investment did not pay off
+- When BMO tried to get the money from the wife, she argued that she was unduly influenced to agree to be a guarantor by her husband, and the contract should be voided
+- Adopted the UK framework for undue influence which uses two categories
+- The first is actual undue influence
+- In these cases, it's very easy to prove undue influence, there is substantial evidence showing the coercion, and the contract can be voided
+- In the absence of such clear evidence, there is presumed undue influence
+- Presumed undue influence relies on a relationship of trust that influence can be implied from
+- The person abusing the relationship has the burden of disproving this presumption
+- This can be done by providing evidence that the alleging party entered the contract freely
+- Among cases of presumed undue influence, there are also two subcategories
+- In the first case, if you are in a set of recognized fiduciary relationships like parent and child or doctor and patient, the presumption will be automatically raised
+- If you are in another kind of relationship which includes spousal relationships, there needs to be proof of a *de facto* relationship of trust
+- There's been some debate over whether or not spousal relationships should automatically raise the presumption, but the opinion of the Court is that these relationships vary in trust
+- To prevent the contract from being voided, the party that is prone to accusations of undue influence should take reasonable steps to ensure the agreement is entered voluntarily
+- Generally, the court is looking for a "dominating influence" from one party in the kind of decision the contract is related to
+- Demonstrated by the leading SCC case, *Geffen v Goodman Estate*
+- Evidence that the contract will be disadvantageous for one party may help, especially in terms of commercial transactions, but is not required
+- In *Geffen*, the court suggested that this may be required in the commercial context, but not for gifts and other personal transactions
+- More important is to examine whether the nature of the transaction is explained by the relationship between the parties
+- The most common way for the defendant to disprove a presumption is to show that the plaintiff got independent legal advice on the transaction (*CIBC Mortgage v Rowatt*)
+- Of course this isn't the only way to do this
+- Third parties to a contract influenced by an undue relationship may have duties to examine the nature of the relationship, usually in terms of bank guarantees
+- The *Duguid* case is a great example of this, bank had notice to take steps to see if there was undue influence before they accepted the wife as the guarantor
+- Usually, guarantor has to talk to a lawyer to make sure they can't claim undue influence
+- Undue influence is a rebuttable evidentiary presumption
+- When the presumption arises, two things happen
+- First the lender is given notice, they have to take reasonable steps to ensure that the guarantor has been properly informed
+- Second, if the lender didn't take those steps and the guarantor tries to avoid liability, the bank can still provide evidence to try and rebut the presumptions
+- Then the judge will consider the evidence surrounding the agreement to see if there was undue influence, as well as any evidence provided by the bank
+- In a case where there is no fiduciary relationship, the presumption is always evidentiary
+- Analytical error for the court to not take into account the nature of the transaction where there is a spousal or some other kind of relationship
+- Also, the agreement will not always be harmful to the guarantor, perhaps the loan is intended to benefit both the person taking out the loan and the guarantor
+- Where constructive notice is established, a duty to inquire whether the transaction was obtained without influence may arise
+- Did the bank take reasonable steps to see whether there was undue influence or did they take steps to ensure there was not?
+- For the banks, best thing is to give the guarantor independent legal advice, but you can also look for other evidence to disprove the presumption
+- Recall that even in cases where there is a fiduciary relationship, presumption can still be disproved
+- There is a theoretical third category proposed by McCamus, but is pretty close to actual undue influence

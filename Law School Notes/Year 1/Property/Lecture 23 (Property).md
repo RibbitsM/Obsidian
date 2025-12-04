@@ -1,0 +1,56 @@
+- An apartment building in Toronto signed an agreement with a laundromat company allowing them to operate their laundry machines on the first floor
+- The owner of the building then sells the building to another landlord named Hulmann
+- The issue is whether they inherit the contract between the original owner and the laundry company (Metro-Matic)
+- To look at this, we have to look at the lease agreement with Metro-Matic and determine if it's a lease or a license
+- Only a property interest can be transferred through privity of estate, if it's just a license, there's no property interest created
+- Labelled as a lease, but as we know from [[Fatac Ltd v Commissioner of Inland Reserve]], that's not determinative
+- Metro-Matic has to allow the tenants of the building to enter and use the laundry room
+- Also, the landlord can't let other laundry companies operate in the building
+- Implies some level of exclusivity, but also that Metro-Matic's rights are restricted to their activities providing laundry machines for the other tenants
+- Trial court held that this was a license, it lists many specific rights and there is no exclusive possession to the land outside maintenance and operation of the laundry machines
+- Court of Appeal reversed this decision, arguing that this was a lease instead
+- Provisions are there to provide additional protections to the tenant, not to benefit the landlord
+- Therefore, these protections should not be used against Metro-Matic
+- Also, the clear structure and intent of the agreement as a lease was an important factor
+- In a very similar case in BC called *Pacific Wash-A-Matic v RO Booth Holdings*, the appeal court ruled that the agreement was a license, not a lease
+- The agreement here was practically identical to the agreement made by Metro-Matic, except it was missing the first clause of the Metro-Matic agreement
+- Clause 16 of the agreement set out that if the land was sold, the buyer would be bound by the agreement as the seller was supposed to get them to sign off on it
+- The *Wash-A-Matic* agreement was not styled as a lease agreement like the Metro-Matic, and did not mention the demise of the landlord's interest in the land
+- The trial judge (Lady Proudfoot) ruled that the court should follow the precedent of *Metro-Matic*, but the appeal judge overruled this decision on the previously mentioned grounds
+- Always check carefully to see if what is being transferred is exclusive possession or something less, but these cases show the importance of looking at formalities too
+- Can't call a fork a spade, but if it's ambiguous, maybe you'd lean towards it actually being a spade
+### Spencer's Case
+- Even if we know that we have a lease, are all the elements of the lease key parts of the agreement?
+- Starting point with this is *Spencer's Case* all the way from 1583
+- Spencer made an agreement with his tenant S that S would build a brick wall on the land
+- Is the agreement to build the brick wall part of the lease?
+- Clearly privity of contract between Spencer and S, but S then transfers their tenancy to J, who then transfers the tenancy to Clark
+- Clark refuses to build the brick wall, and Spencer sues to enforce the agreement
+- The issue is whether or not the agreement to build the wall ran with the lease
+- Judge in this case determined that the agreement doesn't run with the lease if it does not "touch or concern" the land or the thing demised
+- If the agreement is disconnected from the land itself, it won't transfer with the lease
+- In this case, the agreement to build a fence definitely does concern the land
+- Therefore, Clark was obligated to build it
+- But what does "touch and concern" mean?
+- Basically means that personal agreements aren't part of a lease agreement
+-  Has to relate to the lease, meaning it affects the nature, quality, or value of the land
+- Easy test for this is to see if the promise was still useful if disconnected from the land
+### [[Merger Restaurants v DME Foods]]
+- Both parties own restaurants in a strip mall off a Winnipeg highway
+- Originally, the land both restaurants were on was owned by Brousseau Bros, and was sold to Lakeview, who serves as the new landlord
+- No debate over whether the agreement here was a lease
+- However, in the original agreement there was an agreement that parking would be provided to the restaurants
+- Lakeview built a significant extension on the lot where the defendant's restaurant was, reducing the amount of parking devoted to the restaurant
+- In the lease, the tenant is permitted to use the common areas of the land in common with other tenants of the lot
+- The common areas includes parking spaces
+- To fix the issue of the defendant's not having enough parking, Lakeview changed some of the parking spaces by the plaintiff's restaurant to be reserved for the defendant's restaurant
+- Plaintiff challenged this on the grounds that the parking could only be used by the tenants of that lot
+- Issue was whether the parking designations were part of the lease that ran with the land
+- Recall that the test for this was the "touch and concern" standard from *Spencer's Case*
+- Pointed to a similar case in BC called *Kontagonis*
+- In that case, the landlord was obligated to provide the restaurant with sufficient customer parking during business hours
+- There was no definite area specified, and if the landlord failed to provide parking, the lease could be cancelled by the tenant
+- Court in that case ruled that the agreement didn't run with the land, and was not binding on the new landlord
+- However, this case was distinguished on the grounds that *Kontagonis* was in the context of an office building, here we're dealing with a shopping plaza next to a highway
+- Court ruled that the availability of parking affected the "nature, quality, or value" of the land
+- Because of the extremely car-dependent area it was located in, the availability of parking was important enough that an agreement of parking could not be considered collateral

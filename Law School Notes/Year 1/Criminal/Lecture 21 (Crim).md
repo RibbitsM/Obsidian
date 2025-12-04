@@ -1,0 +1,63 @@
+- First lecture in our study of defences, which is most of the second semester content
+- So far we've been considering the elements of an offence that the Crown has to prove
+- Most of the time, the burden of proof here is on the Crown
+- Defences exist separately from the offence, and all have requirements the accused has to meet for it to be considered
+- Crown does not have to disprove every possible defence, only the ones raised by the accused
+- There is a great deal of variation in what is required to raise a defence, but the most common is passing the air of reality test
+- This is kind of like an evidentiary burden, requires the accused to provide evidence for each element of the defence that if believed would prove the defence
+- Some other defences will have to be proven on a balance of probabilities
+- Most defences come from the common law, but some have statutory backing
+- Also, some defences are of general application, meaning they apply to any offence as long as its requirements are met, an example is defence of mental disorder
+- Some have limited application, for example the defence of provocation only applies to murder
+- Finally, not all defences will result in an acquittal, some defences will result in being charged for a lesser included offence
+- Sometimes a common law defence will be given statutory authority, usually accompanied by some additional limits compared to its common law version
+- Overall, you need to consider all these factors when evaluating a defence
+- Not all defences operate in the same way
+- For example, the defence of self defence is a justification, meaning that even if all the elements of the offence you committed are met, you will still be acquitted if the defence is accepted
+- Other defences will simply negate elements of the offence, mistake of fact is a great example of this
+- We've covered several mistake of fact cases already, [[R v Beaver]] and [[R v Chapin]] are both cases where the mistake of fact defence was successfully raised
+- Even though this is just part of proving *mens rea*, we make this a defence because it's information that could only be raised by the accused
+- Generally, we assume that the accused knows the nature of the activities they are involved in
+- This defence is most commonly used when it comes to sexual assault, as we talked about a little in [[Sansregret v The Queen]]
+### [[R v Kundeus]]
+- Drug trafficking case, the defendant was advertising mescaline, hash, and LSD for sale
+- Undercover police officer asks for LSD, defendant has none but offers some mescaline which the officer accepts, which turns out to actually be LSD
+- This is important because there are two classifications of drugs, restricted and controlled
+- Mescaline is only a controlled substance, while LSD is a restricted substance
+- Different from *Beaver* in the sense that if we believe Kundeus, he still committed a crime
+- Also different from [[Lecture 14 (Crim)|Blondin]] who didn't actually make a mistake of fact as he knew what was in the scuba tanks was illegal, and he was correct
+- Trial judge erred by stating that both LSD and mescaline are restricted, and issued a conviction
+- On appeal it was discovered that mescaline isn't a restricted substance, and the defence argued mistake of fact
+- However, the court ruled that the defence couldn't be brought up at this point, their opportunity was in the first trial
+- Argues that there is a general intent to sell drugs, and that it enough
+- Dissenting judge argues that this is mixing the *actus reus* of one crime and the *mens rea* of another crime
+- Kundeus had the *mens rea* of selling a controlled substance, but the *actus reus* was for trafficking a restricted substance
+- Also, the issue arose of whether or not the mistake needs to be reasonable rather than an honestly held belief
+- This is a subjective fault offence, so no need to prove fault objectively
+- So is Kundeus guilty? After all, he did admit to committing a criminal offence
+- However, he was only charged with trafficking in a restricted substance, not a controlled substance
+- Even if he was charged with the latter, there was no *actus reus*
+- To get around this, the Crown would have had to charge Kundeus with an attempt to traffic in a controlled substance, this is the only crime he has committed
+- Could have done this by charging trafficking restricted and trafficking controlled drugs as the attempts are included
+- Can imagine a reverse scenario where the accused intends to commit a more severe crime, but only commits a less serious crime
+- Example of this is *R v Ladue*, where the accused was convicted for necrophilia, and their defence was that they believed the person was only unconscious
+- Means that they would have had *mens rea* for sexual assault, while only meeting the *actus reus* of interference with a corpse, a less serious offence
+- Best current option to resolve these mistake of fact issues is to use the doctrine of attempts
+- This creates an issue, as the defence has no obligation to reveal their evidence
+- Means that the Crown may be surprised when the defence claims the accused committed a crime they were not charged for
+### Summary
+- Is mistake of fact a statutory or common law defence?
+- From what we know, it comes from the common law
+- Is it of general application or limited?
+- It's a general application defence, as long as knowledge is part of the fault requirement
+- What is the result if the defence is successful?
+- Would be an acquittal, as the *mens rea* is being violated
+- But in this case, the accused was actually claiming they committed a lesser offence
+- Is it proven on an air of reality or balance of probabilities?
+- Proven on an air of reality
+- A common issue is charging the jury on several defences that are incongruent with each other
+- For example, someone charged with murder may raise both the defence of mental disorder, and the defence of provocation as a backup
+### Mistake of Fact and Sexual Assault
+- Originally, the criminal offence for this was rape, which was sexual intercourse specifically with any woman except your wife without consent, and has to be done by a man to a woman
+- Mistake of fact was mainly raised in terms of the knowledge of consent
+- Replaced in 1983 with the modern offence of sexual assault

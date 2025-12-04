@@ -1,0 +1,26 @@
+- Fletcher initially brought action to get damages for water flowing into his mines from a reservoir on Rylands' land
+- Rylands and their co-defendant Horrocks owned a mill nearby to Fletcher's mines, and were unaware of the presence of the mines when they had a reservoir constructed for the mill
+- Contractors hired to build the reservoir found old mineshafts during construction, and didn't take the steps to create sufficient supports
+- When the reservoir was filled, one of the shafts collapsed, flooding Fletcher's mine
+- Fletcher had the right to work his mines, and accepted all natural risks that came with it
+- However, the water that flooded his mine came as a result of Rylands' actions
+- Of course, this was not done wittingly, and may not have even done it negligently
+- Judge argues that regardless, Fletcher's rights were violated and he is entitled to damages
+- Concurring judges stated that there was no trespass, and no nuisance either
+- The actions of Rylands and Horrocks were completely legal, how were they to know that not only would their reservoir collapse, but also flood a coal mine they didn't know existed
+- When it comes to damage to personal property, needs to be negligence for damages
+### Appeal
+- Rules for Rylands (the defendant), and Fletcher (plaintiff) brought the issue to the Exchequer Chamber alleging error
+- Issue is whether Rylands had a duty to ensure the water in the reservoir stayed on their land
+- Additionally, is this an absolute duty or is it enough to take reasonable precautions?
+- Argue that the former is true, if someone brings something likely to do mischief on their land and then lets it escape, they are *prima facie* liable for the consequences
+- If they didn't bring whatever it is on their property in the first place, nothing would have happened
+- Most common case is cattle escaping and either eating things or attacking people
+- Extend this logic to apply to water or any other substance brought onto land
+- Uses the example of a factory that was accused of causing damage via chlorine fumes and was ordered to pay damages, despite taking extensive precautions to contain the fumes
+- Ruled for Fletcher
+### House of Lords
+- Rylands appealed to the House of Lords
+- Mainly sided with the Exchequer Court, arguing that the placement of water in the reservoir was a non-natural use of the land, opening Rylands up for liability
+- Pretty much just restated everything that Blackburn said
+- Ruling for Fletcher

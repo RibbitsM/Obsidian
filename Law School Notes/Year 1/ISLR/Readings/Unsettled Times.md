@@ -1,0 +1,39 @@
+- Article covers the disproportionate incarceration rate of Indigenous peoples in Canada
+- Exists at pretty much every level of the justice system from bail denial to sentencing to segregation within prisons and more
+- Example of how neocolonialism appears in the Canadian justice system
+- Similar patterns also emerge in the US and Australia
+- First studies on this disparity emerged in the 1970s
+- Also have been several initiatives to reverse this, with one of thee most significant being the precedent set by the *R v Gladue* case
+- Allowed for sentencing judges to considers alternatives to imprisonment for Indigenous offenders
+- This was later extended to breaches of parole and parole itself
+- Also have been efforts to come up with more significant alternatives like restorative justice Aboriginal courts for trying Indigenous offenders
+- Indigenous people make up over a quarter of the prison population, and Indigenous women are over 37% of female prisoners
+- Penal systems occupy a key role in the context of colonialism
+- Usually serves as a new version of past forms of injustice such as slavery and assimilation
+- Modern colonialism is built on the idea of the other, targeting specific groups to be viewed as inferior to the colonizer group
+- Penal system serves as a key part of the colonial goal to depict Indigenous people as a "problem population"
+- The creation of the modern Canadian justice system based on English law and the establishment of penitentiaries throughout Canada served as a symbol of modernity's goal to eradicate evil through discipline and rule of law
+- Especially federal penitentiaries are seen as a sign of modernity
+- Local jails were more often used for local issues like Indigenous affairs and were loosely regulated
+- The penitentiaries stood in opposition to this, replacing frontier justice with formality and specifically rationalized punishments
+- Seen as a place for reform and moral revitalization
+- Within the penitentiaries, life and labour is carefully reported and micro-managed with the goal of reform
+- Before the mid-20th century, penitentiaries were mainly used for white settlers
+- Indigenous peoples were seen as a contaminating influence for reform, and were viewed as having different capacities compared to white settlers
+- Most Indigenous prisoners were offered clemency or pardoned to get them out of the prison, as most would contract disease and die if kept in the penitentiary
+- Until the 1960s, Indigenous peoples made up a very low percentage of the prison population
+- Justice system was basically reserved for settlers, while Indigenous peoples were mainly managed by Indian Affairs
+- Labour was essential to regulate imprisoned populations, seen both in penitentiaries and in the forced labour experienced by students in residential schools
+- Many of the same punishments given to prisoners were also applied to Indigenous children in residential schools, especially floggings and beatings
+- Also, many of the same issues experienced by prisons were replicated in reserves
+- Overcrowding was a significant issue in both, resulting in dense living conditions and outbreaks of disease
+- After WWII, humanitarian reforms swept across Canada, resulting in a reposition of Indigenous peoples as something to be integrated instead of assimilated
+- Marked the beginning of the [[Lecture 5 (ISLR)|politics of recognition]] era
+- Also marked a period of reform in the Canadian justice system
+- Resulted in a marked increase in the number of prisons in Canada, with construction tripling
+- Began a gradual increase in the percentage of Indigenous inmates over time
+- Where before Indigenous peoples were seen as unfit for imprisonment, now they seemed to be the archetypical criminal
+- A report made in 1964 cited the legacy of colonialism as a major reason for growing incarceration rates among Indigenous peoples
+- Criminal justice system uses language of equality and modernity while hiding the fact that it merely replaces the previous methods of colonial oppression
+- Recognizing this is difficult for most people due to the way that colonialism is often depicted as something of the past
+- 

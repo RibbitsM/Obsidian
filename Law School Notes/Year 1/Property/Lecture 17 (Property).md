@@ -8,7 +8,7 @@
 - The heirs of the daughter took him to court, showing that title had transferred to them after the daughter died, as she was the legal owner of the cottage
 - Recall that occupation is the basis for private property, one of the justifications for property is validating first possession
 - This takes the form of a legal presumption that the possessor has legal ownership
-- If noone can prove them wrong, they are allowed to maintain possession
+- If no one can prove them wrong, they are allowed to maintain possession
 ### Adverse Possession
 - Also called squatter's rights, details the rights of someone who has possession without deed
 - Same as the previous rule, the possessor has all the ordinary property rights and can exercise them against anyone except for the legal owner

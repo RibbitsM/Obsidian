@@ -1,0 +1,62 @@
+- UNDRIP was originally adopted by the UNGA in 2007
+- Initially, Canada was strongly opposed to the declaration, and got several other states to vote against it
+- Over time, Canada became the only country opposing UNDRIP
+- Free, prior, and informed consent was seen as giving a racial group a veto on government actions
+- Canada announced they would fully implement UNDRIP in 2016
+- Initial attempt failed, this article was written right before the federal bill implementing it or at least partially implementing it was passed
+- DRIPA in BC serves as a precursor, showing some of the issues with implementing it
+- Implementation in BC was extremely slow, review of old law and policy to update it to align with UNDRIP takes forever
+- Federal government is giving themselves three years just to write the first action plan
+- DRIPA is an international declaration, meaning it's a statement of intent for future action, not a binding treaty
+- Usually, declarations come before treaties
+- Declarations that incorporate [[Is International Law Real Law|customary international law]] are binding, for example declarations against torture
+- Some of the elements of UNDRIP like the recognition of treaty relationships and ability to practice religion/culture are part of customary international law
+- Builds on things like the *Declaration on Human Rights*, effectively repackaging existing law
+- Part of what BC was doing with DRIPA was committing itself to working with Indigenous peoples
+- Indigenous peoples have obligations too, it would be good for Indigenous nations to try and implement UNDRIP just like BC and the federal government did
+- These implementations can also serve as models for the provinces and country to follow
+- Also provides an avenue to interlace legal systems, implementing UNDRIP in a way that shows how it can be consistent with Indigenous legal practices
+- For example, using the FPIC standard for development within their territory
+### Opportunities and Barriers for DRIPA
+- BC government worked with three Indigenous organizations to help create DRIPA, but not any Indigenous nations directly
+- Big issues for the province are what goes in the action plan, what the priorities are, and what the time frame should be
+- Hardest part is probably making existing BC law consistent with UNDRIP
+- Also requires consulting with Indigenous peoples on all these changes
+- Priority should be including consultation in drafting of new legislation
+- Also, DRIPA requires joint decision making when it comes to use of statutory powers
+- This is a lot more uncertain, not much political will for that
+- No requests for joint decision making have been accepted yet
+- Also, it's already causing problems as most Indigenous nations never saw the draft of the first Action Plan
+- Been several examples where the BC government amended laws without prior information or consent after DRIPA had been passed
+- There was also no mechanism created to interpret key terms in UNDRIP like self-determination
+- Free prior and informed consent is also contentious, as so far the BC government has held that this doesn't constitute a veto
+- If this model can't succeed in BC, it has little chance of working across the whole country
+### Does UNDRIP Align With BC?
+- There's potential to leverage private industry to force this issue, before an Indigenous leader got a global credit rating agency to lower Canada's credit rating for selling land they didn't own
+- International trade law rules on risk disclosure can help out Indigenous peoples
+- During its implementation, UNDRIP has consistently been qualified and domesticated
+- The Canadian versions of the declaration often remove imperative language
+- Also, this version only respects Indigenous rights as they are interpreted by the federal government, which was already a contentious issue
+- Since UNDRIP is interpreted through s. 35 of the *Constitution*, any legal issues with that section persist into the implementation of UNDRIP
+- Main way to remove Indigenous people from land is through court injunctions
+- Tests for injunctions are weighed against Indigenous interests as they prioritize financial matters over the less material values of land
+- DRIPA may be able to help this by amending how injunctions work at common law
+- BC's laws can't be compatible with UNDRIP until this happens
+- Also, we've seen the government consistently try to offload the consent requirement onto private companies, like in the Coastal GasLink issue
+- Usually takes the form of an Impact Benefit Agreement between a company and an Indigenous band, but not the nation itself
+- This hasn't gone unnoticed, the Committee for the Elimination of Racial Discrimination sent Canada a cease and desist letter after this issue, as well as many others
+### Judicial Expertise and UNDRIP
+- Usually, reconciliation has been framed as a need for Indigenous nations to adapt to Crown sovereignty as opposed to the other way around
+- In *Delgamuukw*, Justice Lamer famously said "Let's face it, we are all here to stay"
+- In the *Coastal GasLink v Huson* case, the defendants tried to set aside an injunction granting GasLink access to Wet'suwet'en territory
+- Defendants raised Wet'suwet'en law as part of their defence, which was dismissed as not being part of common law
+- Ignores how Indigenous legal practices like marriage have been recognized for decades
+- Judges are supposed to have expertise on all aspects of domestic law, but rarely know much about Indigenous legal traditions
+- These laws can be interpreted narrowly, or brushed aside by the argument that reconciliation is an ongoing process and the two legal systems are not one yet
+- Circular reasoning that precludes any real progress on reconciliation
+- UNDRIP provides an opportunity to give more deference to Indigenous law
+- Government needs to recognize that they don't have the understanding of these laws that the societies that practice them every day do
+- While currently injunctions can get around s. 35 of the Constitution, when properly implemented, Article 27 of UNDRIP may close this loophole
+- Encouraging deference to Indigenous law would be a great step towards implementing UNDRIP, and would resolve issues like *GasLink*
+- Canada doesn't need UNDRIP to do this, but it's a great motivator
+- Legal reconciliation can pave the way for political reconciliation

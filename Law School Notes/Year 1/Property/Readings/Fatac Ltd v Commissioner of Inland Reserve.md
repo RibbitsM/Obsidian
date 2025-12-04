@@ -1,0 +1,40 @@
+- Case deals with a quarry in New Zealand that was sold, and the decision of whether or not the agreement should be subject to GST hinged on whether it was tenanted property or not
+- The owner had granted another party the right to operate the quarry for many years
+- Issue is whether or not this grant is a license or a tenancy
+- Traditionally, tenancy means having a right to exclusive possession
+- A tenancy is a time-limited interest in land that comes with the right to possess, while a license is just a permission to be on land and use the land
+- In English common law, a grant of the right to log a portion of a forest was held to be a tenancy
+- Justification for this was that the grant also gave the logger exclusive right of occupation
+- Later on, this approach was abandoned in favour of examining the intentions of the contracting parties
+- A personal privilege given to an individual person was a license, while anything else was a tenancy
+- This persisted for a while, until the 80s where the court argued that the right to exclusive possession was, in fact, the deciding factor
+- Australia never deviated, always using the exclusive possession rule
+- This distinction makes sense, the rights granted by tenancy or a license are opposites
+- A tenant has full ownership and right to enjoyment of the land even to the exclusion of the owner, while the licensee can only use the land as the license permits
+- Doesn't matter what the parties call it, did the agreement grant tenant rights or license rights?
+- Judge compares this to someone making a pronged metal implement for digging which ends up being a pitchfork, even though he calls it a shovel and was trying to make a shovel
+- Also, any meaningful right to exclusive possession has to be set for a certain time period, otherwise the owner could remove the tenant at will
+- Rent can help establish the presence of tenancy, but is not required
+- Tenancy also doesn't have to come with unlimited use of the land, natural for there to be some limits on how land can be used
+- We also won't recognize tenancy if the right to exclusive possession isn't recognized
+- For example, if the right can be terminated or the right to entry violates it
+- This is why an employee living on an employer's property doesn't qualify as a tenancy, because the agreement can be ended abruptly by firing the employee
+- Basically, any situation where some external legal relationship lets the owner remove the tenant without warning will preclude a definition of tenancy
+- Only legitimate reasons to terminate tenancy relate to use of land and payment
+- When determining exclusive possession, we look at the contract being signed, but also how it manifests in practice
+### Tenancy and Exclusive Possession in New Zealand
+- Current law in New Zealand at the time considered both the right to exclusive possession as well as the intention of the parties
+- Kind of a weird addition, as adding intention doesn't really add anything to the exclusive possession test
+- In pretty much any case where the owner is found to have a license, this is because the exclusive right to possession had been violated in some way
+- Court concluded that the true distinction is the exclusive possession test
+- Don't need rent, but there has to be a fixed or periodic term for the lease
+- How the parties describe their relationship doesn't matter to the extent that it doesn't assist in determining exclusive right to possession
+- Does kind of matter, as there's no tenancy if there was no intention to enter a binding relationship
+- As we mentioned earlier, there's also no tenancy if the right to possession can be ended for reasons unrelated to the occupation of land
+- In this case, there was no rent paid for the grant, but that doesn't determine anything
+- Additionally, the fact that the initial grant is listed as a "license" is irrelevant
+- The grantee was not shown to have an exclusive right to possession, the owner regularly accessed the land as long as they weren't inconveniencing the grantee
+- Additionally, prior to the sale to the third party, the party was allowed to set up a screening plant and start removing all material not being used by the grantee
+- Grantee was only there to quarry basalt, and the license did not allow them to do anything else
+- Overall, pretty clear that there was no exclusive right of possession, this was a license
+- 

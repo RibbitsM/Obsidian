@@ -52,4 +52,3 @@
 - As an extra twist to the story, the Royal Hotel painting was later put up for auction by Sotheby's
 - Under the provenance section, both Cynthia Nolan and Sidney Nolan, as well as Sidney's estate were listed
 - This case was all in the Australian courts of course, but the same principles apply in Canada
-- 

@@ -1,0 +1,71 @@
+- Defendant (Barton) was charged with first degree murder of the victim, who he claimed he had paid for sex in a consensual encounter
+- Victim was found dead in the bathtub of Barton's hotel room after bleeding out from a perforation in her vaginal wall
+- Barton's defence relied on the defence of honest bust mistaken belief in consent
+- At trial, jury acquitted Barton of first degree murder and unlawful act manslaughter
+- Appealed, which ordered a new trial on first degree murder, and Barton appealed again to the SCC which ordered a new trial only on unlawful act manslaughter
+- Held that the trial judge erred by allowing evidence of the victim's past sexual activity into the trial, which goes against s. 276 of the *Criminal Code*
+- Error resulted in the jury being improperly instructed on the defence of honest and mistaken belief in consent
+- A conviction for sexual assault requires the Crown to prove BAR the *actus reus* and the accompanying *mens rea*, consent is present in both aspects of the offence
+- Consent is voluntary and conscious agreement from the victim to engage in every sexual act in a particular encounter
+- Consent must exist at the time the activity occurs, and can be revoked at any time
+- For *actus reus*, consent is determined by the victim's subjective state of mind
+- For *mens rea*, consent means the victim communicated their agreement to engage in the sexual activity either through words or actions
+- To constitute a valid defence, the defendant has to be an honest but mistaken belief that the victim communicated consent, not that they believed there was consent
+- Otherwise, assumed or implied consent would apply here
+- To prove this, defendant must be able to explain how they came to the conclusion that the victim had communicated consent
+- Sometimes, prior sexual activities establish expectations of how consent is expressed
+- Additionally, discussions between the parties on what is acceptable can be admissible as evidence, but doesn't include broad consent to all kinds of sexual activity
+- Can't raise a defence on the logic that prior sexual activity makes the victim more likely to consent to sexual activity in the future
+### Mistakes of Law
+- Mistake of fact does not apply to mistakes of law, and what constitutes consent is a matter of law, not of fact
+- Three particular examples of mistakes of law, the first is implied consent
+- This was the argument advanced in [[R v Ewanchuk]], and assumes that unless a woman protests or resists a sexual encounter, consent is implied
+- *Ewanchuk* clearly established that this is not the case, and it is an error of law to assume that until an explicit rejection is given, there is consent
+- Second is the argument of broad advance consent
+- Refers to the idea that a victim agreed to an undefined scope of sexual activity ahead of time
+- However, consent must be granted for every individual sexual act, broad advance consent does not exist under the legal definition
+- Mistake of law, not fact
+- Finally we have the idea of propensity to consent
+- This is an inference that if the victim is known to have sex in the past, they are prone to consenting to sex and likely consented to a specific act at issue
+- One of the "twin myths" about sexual assault, prior sexual activity is not an indication of consent
+### Reasonable Steps Requirement
+- Defence of honest but mistaken belief only applies if some requirements are met
+- Belief can't come from self-induced intoxication, recklessness, or wilful blindness
+- Also doesn't apply if the accused didn't take reasonable steps to ascertain consent
+- Unclear what this means in practice, not much case law to go off of
+- The reasonable steps requirement is a precondition to the defence of mistaken belief
+- Has both objective and subjective requirements, the steps must be objectively reasonable, but based on the circumstances at the time
+- No requirement to take "all" reasonable steps
+- The goal of this provision is to criminalize sexual assaults committed by people who claim mistake of fact without taking efforts to ascertain consent
+- Also tries to push back against justifications based on myths around sexual assault, namely implied consent or propensity to consent
+- Reasonable steps inquiry is very fact-specific, but there's a few things that are clearly not reasonable steps
+- First of all, defendant can't point to a lack of resistance or passivity as consent
+- Also, "testing the waters" by attempting non-consensual sexual touching is also not a reasonable step, it's sexual assault
+- Generally, the more invasive the activity and the greater health risk posed by it, the higher the requirement for reasonable steps
+- Also higher requirement for when the defendant and victim are strangers
+- Overall, we should take a purposive approach to this requirement, keeping in mind we're trying to prevent the use of rape myths to justify sexual assault
+- This requirement is also different from s. 265(4) which establishes that judges should instruct the jury that when examining a defence of mistaken belief, to consider the presence or absence of reasonable grounds for the belief
+- Reasonable grounds is only a factor for assessing the honesty of a successfully established defence, reasonable steps is a requirement needed to establish that defence
+- Overall, if either the defendant has no proof they took reasonable steps, or the Crown proves BAR there were no reasonable steps taken, defence cannot be raised
+### Instructions on Defence of Mistaken Belief
+- Barton testified that he had sex with the victim the night before her death, and any sexual activity on the second night were a continuation of a transaction made the day before
+- Agreement to pay the same price on both nights
+- Trial judge stated that the evidence raised the defence of mistaken believe, and told the jury they should consider the presence of reasonable grounds for this belief
+- In assessing this, the jury should consider Barton's testimony of how he perceived the victim's responses to activity that took place the second night, as well as his testimony on the previous night
+- Told the jury to consider if the Crown has proven BAR that Barton failed to take reasonable steps to determine that the victim consented to sexual activity
+- Notably failed to mention that the reasonable steps requirement is a precondition to the defence of mistaken belief
+- The issues of implied consent, broad advance consent, and propensity to consent were all discussed at trial and at the appeal court, so may have still had an effect on the final decision
+- Additionally, the trial judge's instruction failed to mention that these are all mistakes of law, and not mistakes of fact
+- Barton pointed to the similarity of the sexual activities that took place both nights, and the fact that the two agreed to the same price on both nights
+- Raised a lack of noticeable disagreement as evidence of consent, and pointed to the victim's status as a sex worker as evidence of consent
+- As a matter of law, consent has to be renewed for each sexual act
+- Incumbent on the trial judge to mention this and other facts to the jury as mistakes of law
+- Additionally, a s. 276 hearing which would have rendered most of the evidence surrounding the victim's previous sexual history inadmissible and would have avoided these mistakes of law
+- Going forward, there are a couple things to consider for the defence of mistaken belief
+- First step is to demonstrate an air of reality, which requires the judge to consider whether there is evidence that could reasonably suggest that the defendant took reasonable steps and honestly believed the victim communicated consent
+- If these requirements aren't met, the defence should not be left with the jury
+- Otherwise, the defence will be left with the jury and the Crown will have the burden of proving BAR that the defendant did not take reasonable steps
+- Trial judge should inform the jury that this is a precondition to the defence
+- Should also explain what can and cannot be a reasonable step, specifically calling out common mistakes of law
+- If the Crown cannot prove the accused didn't take reasonable steps, the judge should then instruct the jury to consider whether they proved BAR that the defendant didn't have an honest but mistaken belief in communicated consent
+- Only once this step is passed, can the defendant be acquitted

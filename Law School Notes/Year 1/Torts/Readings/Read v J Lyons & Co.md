@@ -1,0 +1,17 @@
+- Appellant (Read) was a government employee inspecting a munitions factory, when an explosion went off killing a man and injuring Read
+- J Lyons & Co are the employees of the factory responsible for filling shell cases
+- Trial judge concluded that [[Rylands v Fletcher]] was applicable, and the respondents were liable as they were undertaking a dangerous activity and were under strict liability to not cause harm
+- In the *Fletcher* case, strict liability was said to have come from the "escape" of something capable of doing mischief as a result of a non-natural use of land
+- Doesn't mean keeping a substance from exploding, just means containing something, there was no kind of escape here like in *Fletcher*
+- Another judge concurs that there is no action against the respondents
+- Read would only have grounds to claim damages for personal injury, which requires evidence of negligence
+- Only example in the common law where injury is actionable without negligence is when damage is inflicted by an animal
+- The shell manufacturer was not under any special duty that would make them liable without any proof of negligence, though they should be held to a high standard
+- The more dangerous the activity, the greater standard of care is expected by its practitioners
+- But this doesn't mean that there should be liability without negligence
+- Creating an arbitrary category of "dangerous" activities that attract absolute liability is a poor idea
+- Doctrine of *Rylands v Fletcher* comes from the Latin maxim that one cannot use their property to injure the rights of others, has nothing to do with personal injury
+- In this case there was no escape from one property to another that came from a non-natural use of the land, so *Fletcher* doesn't apply
+- Another judge argues that it's perfectly logical to impose strict liability in some cases, and liability based on negligence in others
+- No existing rule suggesting that explosive manufacturing is an exception to the general rule of negligence-based liability
+- Appeal dismissed, judgement for the respondents

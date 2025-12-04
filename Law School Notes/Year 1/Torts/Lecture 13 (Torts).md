@@ -27,7 +27,7 @@
 - For the element of intentionality, depends on the knowledge of the defendant and their foresight of the consequences
 - Wrongs can be committed with one of three states of mind: accidental, negligent, and intentional
 - Assault is a direct, non-physical, intentional act that creates the apprehension of imminent harmful/offensive contact
-- Battery is a direct, physical, and intentional ac that creates interference with another individual's body
+- Battery is a direct, physical, and intentional act that creates interference with another individual's body
 - Can be limited by implied consent or privilege by necessity
 ### False Imprisonment
 - Distinctive type of intentional tort protecting the freedom of movement

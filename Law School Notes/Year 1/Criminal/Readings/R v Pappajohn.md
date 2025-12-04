@@ -1,0 +1,59 @@
+- Defendant (Pappajohn) was a Vancouver businessman charged with rape (old offence for sexual assault)
+- Complainant was a real estate agent looking to sell his mansion, the two spent an afternoon together at a restaurant, and went back to his house afterwards, where the offence took place
+- Sexual intercourse took place, complainant ran from the house naked to get help from the neighbour while Pappajohn maintained that she became upset and left after consensual bondage was used
+- Counsel for Pappajohn asked the trial judge to instruct the jury on mistake of fact, stating that if there was an honest belief of consent, must be an acquitta;
+- Trial judge refused, and Pappajohn was convicted
+- Appealed, and the BCCA upheld the conviction, maintaining that there was no consent, and the mistake of fact was irrelevant
+- One judge dissented, arguing that there was evidence of mistake of fact
+- Three issues for the SCC
+- When is mistake of fact left to the jury?
+- What is the test for mistake of fact?
+- Did the evidence require the trial judge to instruct on mistake of fact?
+- SCC upheld the conviction, with one judge dissenting on the third issue
+### Analysis
+- Judges have a responsibility to instruct on any defences that are available based on the evidence, whether raised by counsel or not
+- Does not mean they have to instruct on all defences raised by the counsel
+- The standard for this is the air of reality test
+- Regardless of whether the evidence is true, if there is enough evidence, the defence must be instructed on
+- Trial judge heard all the evidence and all arguments advanced, and determined that the evidence was insufficient to grant an air of reality to the defence
+- If the judge would have charged the jury, this would mean that mistake of fact is applicable in any case where the defendant asserts there was consent and the complainant disagrees
+- Needs to be more evidence that a statement of belief from the defendant
+- For example, in another case called *R v Morgan*, there was evidence that the husband of the victim suggested to the defendant to have sex with his wife, and she would pretend to resist
+- This was sufficient to raise mistake of fact
+- Appeal dismissed
+### Dissenting Opinion
+- Not in dispute that there was intercourse, issue is on the consent
+- We should look at the actual evidence presented to see if the trial judge made an appropriate assessment of the situation
+- After all, if the defence was truly unavailable, it would have been worthless even if the jury was instructed on it
+- Four pivotal issues to consider
+- What is the *mens rea* of the offence?
+- Is mistaken belief of consent a defence to a rape charge?
+- If so, does it apply only if the belief is honest and reasonable?
+- Did the trial judge err in not leaving the defence to the jury?
+- According to *Leary v The Queen*, the *mens rea* is knowledge of non-consent or recklessness in determining consent
+- Must be an intentional act of engaging in sexual intercourse without consent
+- Crown counsel tried to argue that subjective intent is not part of the offence
+- This is not true, rape is a subjective *mens rea* offence like any other
+- Mistake of fact as a defence didn't emerge until the 17th century
+- Applies whenever knowledge is part of the *mens rea*
+- An honest and reasonable mistake of fact in terms of a knowledge portion of *mens rea* is enough to be a valid defence if it negates the mental element
+- Since this is based on the mental state of the defendant, must be raised as a defence
+- Appears that the *mens rea* for rape requires intention or recklessness of non-consent
+- It's a valid defence, but is unlikely to be believed without some sort of evidence
+- Also, due to [[R v Beaver]], reasonability of a belief is not a determinative factor of its reliability
+- Dissenting judge from appeal court argued that it should be for this case, if the woman clearly withdrew consent, the defendant should not be allowed to claim otherwise
+- Dissenting judge here argues that this is unnecessary given that surely the jury would not accept a mistaken belief that is clearly unreasonable
+- Canadian juries tend to be very adept at spotting when someone is lying based on the evidence presented
+- In order to reject the mistake of fact for being unreasonable, the Court would have to overturn *Beaver*, accept a minority decision from *Morgan*, and defy existing principles of law
+- Generally, if the defendant can't raise the defence of consent, they cannot raise mistake of fact either
+- If they don't have enough evidence to claim the victim consented, then it'll be pretty hard to claim that they believed they did so
+- Decent amount of evidence to suggest that the victim acted in a manner consistent with consent up until the the point where they tried bondage
+- Does note that there was "minimal" and "token" resistance, whatever that means
+- Jury found that there was no consent, but may have held that there was mistake of fact and that resistance prior to the bondage was perceived as insincere
+- Appeal allowed, new trial ordered
+### Notes
+- Decision has been widely criticized by women's groups despite the conviction, mainly because the standard of mistake of fact was held to be subjective
+- Cited the fact that sexual assault as an offence is marred by many gendered myths about sex
+- When the offence was reformed, a section was added that specifies that when instructing juries on mistake of fact, judge must state that the reasonability of the belief should be considered
+- Additionally, another section was later added specifying that belief of consent is not a defence unless the defendant took reasonable steps to confirm their belief
+- Also, consent is not a defence if the victim is under 16, and it's not a defence to claim a belief that they were 16 or older unless all reasonable steps were taken to confirm this

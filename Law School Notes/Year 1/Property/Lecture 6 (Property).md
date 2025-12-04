@@ -10,7 +10,7 @@
 - On one hand he wants to protect the land from destruction, but doesn't want to keep it preserved forever
 - Both of these models involve imposing human desires on the land
 - Best approach is to be stewards of the land, taking only what is needed and listening to the needs of the land
-- The land is boss
+- [[The Land is the Boss]]
 - Shows a willingness to move away from the system where humans are at the center of property and own everything around them and towards a system where property rights are not limited to only humans
 ### [[The Principle of Sharing]]
 - The Hul'qumi'num speaking peoples of BC have territory stretching from most of mainland Vancouver across to the Southern half of Vancouver Island

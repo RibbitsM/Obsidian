@@ -1,0 +1,97 @@
+- Two primary foundations of property law, the doctrine of tenure and the doctrine of estates, we've already covered the [[Lecture 7 (Property)|doctrine of tenure]]
+### [[Elements of Land Law|Doctrine of Estates]]
+- Today, all land in Canada is held of the Crown in free and common socage
+- While tenure works vertically, estates dictate the horizontal extent of possession
+- The land is one thing and the estate is another, you don't own the land itself but an estate in the land, which specifies a period of time the land is held for
+- Two broad categories of estates, either freehold or leasehold estates
+- Also have copyhold estates, which did not make its way to Canada and is the form of land that those with unfree tenure held
+- Three different forms of freehold: fee simple, fee tail, and life estate
+- In freehold tenure, the duration is defined, but uncertain where in leasehold tenure, there is a certain endpoint of the estate
+- Easiest way to explain this is with the life estate, it lasts for your lifetime meaning we know when the estate will end, but not exactly when that will happen
+- Fee simple has the potential to last forever, the interest remains for as long as the land does
+- Fee tail lasts for as long as there are living direct male descendants of the original owner
+- Can visualize fee simple as a horizontal line beginning at the time the title deed was granted and extending to infinity
+- However, it can still end potentially by escheating to the Crown
+- The argument for fee simple is mainly framed as a response to the tragedy of the commons
+- Idea is that each owner internalizes the benefits and the costs, while in communal ownership each person gets to reap the benefits but distribute the costs
+- Instead, fee simple theoretically incentivizes landowners to not exploit their land as it will reduce the value of the interest in the land
+- Incentivizes each owner to be a proper steward of their land, law and economics argument
+### [[Property in Land and Fee Simple Failures]]
+- Shoemaker argues that fee simple makes the initial distribution of land very important
+- Because of the infinite length of ownership, whoever initially owns the land has disproportionate influence on how it is owned in the future
+- Especially in rural America, this leads to immense inequalities in terms of how land ownership is distributed
+- Also separates legal ownership of the land from the actual ownership of the land
+- Creates a disconnect between the owners and the workers
+### Types of Estates
+- A fee simple interest can be transferred *inter vivos*, which traditionally meant it had to be granted "to X and their heirs", no other language would suffice
+- If you didn't say that, even in the presence of full intent only a life estate would be granted
+- The "to X" part is the words of transfer, and the "and their heirs" part describes the limitation on the transfer
+- According to the *Property Law Act*, any transfer of land that doesn't specify a limitation will be assumed to be a transfer of fee simple
+- A fee tail interest lasts as long as the family line does, and reverts to its former status once there are no more eligible heirs to receive the fee tail interest
+- To grant land in fee tail, you have to say "to X and the heirs of their body"
+- Basically creates a series of life estates that are refreshed every time the interest is passed to another descendant
+- Can also further specify whether the estate passes to male or female descendants
+- In *Pride and Prejudice*, the problem is that when Mr. Bennett dies, his estate under a male fee tail interest goes to his cousin, Mr. Collins, as all the Bennett children are women
+- But if one of the daughters get married before Mr. Bennett dies, it would transfer to their husband instead
+- Goal of the fee tail was to keep land within the family indefinitely
+- Mainly promoted by the landed gentry, who advocated for creating fee tail estates as a distinct legal category of estate separate from fee simple
+- Technically you could transfer fee tail to someone else, but when you died it would transfer to your descendant, not the descendants of the person it was transferred to
+- Fee tail is a great example of how land was not seen as the possession of an individual, but of a family, something very specific to the English aristocracy
+- Still some examples of fee tail in Canada, but in BC it's been eliminated under the *Property Law Act*
+- Fee simple interests cannot become fee tail, and any transfer of a fee tail after 1921 becomes a fee simple estate
+- Finally, we have life estates, of which there are two kinds
+- Can grant estate *pur sa vie* which goes like "to A for life" or "to A for the life of A"
+- Can also be granted *pur autre vie* by saying "to A for the life of B"
+- Same structure of words of purchase or transfer and words of limitation
+- In the latter case, what happens when A dies before B does?
+- The estate hasn't ended, so it's transferred based on the conditions of A's will
+- Whoever gets the estate has the same thing, an interest in land for the lifetime of B
+- Estate is measured based on the measuring life, no matter what happens
+- At common law, the first occupier of the land becomes the holder of the estate, which would usually be a family member of A
+- By statute, the land transfers according to A's will
+### Reversions and Remainders
+- Smaller interests can be carved out of larger interests, with fee simple being the largest estate
+- Say we take our fee simple interest, and grant someone a life estate *pur sa vie*
+- Once that person dies, the interest will revert back to you or whoever then holds the fee simple interest
+- When an interest does not grant immediate right to land but a future right, it's called the remainder interest
+- In this case, you would keep the remainder of the interest, which you can transfer or pass down to someone else, who will then get the land back when the life estate expires
+- This example is called a reversionary interest, granting a limited interest in land that reverts back to you on expiry
+- Can also grant a remainder interest, for example you could grant land "to A, for the life of A, and then to B in fee simple"
+- A would get a life estate, but B would get the remainder
+- Means that when A dies, the estate transfers to B, or whoever else holds the remainder at that point
+### Doctrine of Waste
+- One issue with this system is that someone holding a life estate is incentivized to exploit the land as much as possible before they die and the land reverts
+- There are four kinds of waste: permissive, voluntary, ameliorating, and equitable
+- Permissive waste is whatever the tenant is allowed to do, mainly ordinary wear and tear
+- Voluntary waste represents permanent changes like demolishing or altering buildings or cutting down trees, they may be liable to the remainder unless they are exempted explicitly from voluntary waste by the transfer contact
+- Ameliorating waste is any permanent change that objectively improves the value of the land, like creating a new building, and the tenant is not liable for these changes
+- Equitable waste is "wanton and severe destruction", severe changes to the land beyond what is considered under voluntary waste, and always imposes liability unless explicitly waived
+- Life estates are almost never used in a commercial setting, only for personal use
+- In the commercial context, usually leases are the main form of land transfers
+- Life tenants, those who hold life estates, have the right to occupy, use, and make income from a property as well as to transfer the estate although the initial conditions still apply
+- Life tenant has a responsibility to maintain the property, paying for everyday expenses like utilities and property tax but not structural repairs
+- Responsible for many of the things that a residential tenant would be responsible for
+- Jeanne Calment was one of the oldest people ever, lived to about 120
+- When she was 90, she sold her 2 bedroom apartment, and he paid her 200 francs per month and she had a life estate to the property and kept living there
+- The idea was that he would pay her for a couple years and would get full ownership after her death
+- Of course, she ended up living for 30 more years and he ended up paying her much more then apartment would have been worth
+- Ironically he ended up dying before she did, and continued to collect the payment from his estate
+### Strict Settlement
+- In Downton Abbey, a key plot point is a strict settlement
+- This was a legal device created in the 17th century and lasted into the 19th century, and is designed to keep land inside the family
+- Reflects the idea of land as an asset of the family, not the individual
+- To do this, you need to have two key things
+- First, you need to keep the estate intact, you never want to divide it between multiple people, this was done through primogeniture where the primary heir gets the estate intact
+- Second, there needs to be restrictions on what each successive heir can do with the land
+- Under a fee tail interest, even if an heir sells the estate, it will return to the family later
+- Eventually, when fee tails were able to be converted to fee simple, a new method was required
+- Under a strict settlement, the family founder holds the estate in fee simple
+- On their death, the estate is given to the primary heir for life, and to their heir in fee tail
+- Since the grandchild holds in fee tail, if they wait long enough they can theoretically turn it into a fee simple interest, but there's a great degree of social pressure to do this again
+- Usually, the child and the grandchild would resettle so that when the child dies, the land will transfer to the grandchild for life, and to their heir in fee tail and so on
+- This may seem counterintuitive, but not only would the grandchild be pressured to agree to this, but they would also usually get a large annual allowance in exchange
+- Combines to recreate the same process over many generations, the next generation would do the same thing with their primary heir
+- An example of this in practice is Percy Shelley, Mary Shelley's husband
+- He didn't want to redo the strict settlement as he was worried his child would be a terrible person, and was pressured to do so to get the annual allowance
+- Famously, Percy Shelley wrote Ozymandias about the legacy of Ramses II
+- You could interpret this as a comment on the futility of preserving your legacy through the strict settlement

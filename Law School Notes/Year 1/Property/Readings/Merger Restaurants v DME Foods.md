@@ -1,0 +1,25 @@
+- Plaintiff operated a restaurant in Winnipeg, defendant ran the restaurant on the neighbouring property
+- Both properties were owned by the same landlord
+- Originally, the lots were owned by another owner before being purchased by the current owner
+- The leases for both properties were originally signed with the previous owner of the land
+- Both lots are divided by a small strip of land designated as a drainage right-of-way
+- Right-of-way allowed cars to come from the highway onto the lots of both restaurants
+- Dispute came over construction on the defendant's land by the landlord which added multiple commercial properties
+- Reduced the amount of parking available for the defendant's restaurant
+- Landlord established that customers could also use parking stalls by the plaintiff's restaurant
+- Plaintiff claimed that it had been given the right to exclusive parking on their lease
+- Trial judge concluded the parking on lot 2 (plaintiff's lot) were exclusively for tenants of that lot, and the landlord could not grant the stalls for the use of the defendant
+- First issue is whether the plaintiff's lease restricts the use of lot 2 parking for lot 2 tenants
+- Second issue is whether the landlord is entitled to change common areas and redesignate parking spaces
+- There was also an issue of whether the grant of common area rights to the plaintiff was a covenant running with the land
+- This issue wasn't raised on appeal though
+- Court concluded that the lease could not be construed to allow the landlord to redesignate the parking stalls
+- Definitively answers the first two issues, but the court still ruled on the third issue anyway
+- At trial, the defendant's counsel cited a case called *Kontogonis* where a restaurant owner held a lease where the landlord was obligated to provide parking
+- In that case, the judge ruled that the parking contract was separate from the lease
+- Trial judge ruled that the parking was beneficial as close parking is good for business in a cold climate
+- Also ruled that it didn't run with the land because the parking clause is a separate contract from the landlord/tenant relationship
+- Court distinguished *Kontogonis* from this case on the grounds that the area was different, and the lease in that case didn't grant common area rights
+- Because the availability of parking in an outdoor mall would affect the value/quality of the land, it should be part of the lease
+- A classic case called *Spencer's Case* rules that for a covenant to run with the land, it must "touch or concern" the matter of the lease
+- Based on this, the common area rights relate to the well-being of the restaurant, not a collateral right

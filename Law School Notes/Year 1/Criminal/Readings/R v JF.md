@@ -14,7 +14,7 @@
 - When criminal negligence and failure to provide necessaries are lumped together, can analyze them in two stages
 - See if you can establish whether accused had the duty to provide necessaries first
 - Then see if the accused failed to meet that duty
-- Then, see if thee accused showed wanton or reckless disregard for the life and safety of the child
+- Then, see if the accused showed wanton or reckless disregard for the life and safety of the child
 - Even though the verdicts are inconsistent, don't need to order a new trial
 - Dissenting judge argued the verdicts weren't inconsistent because "criminal negligence causing death" and "failure to provide the necessaries of life" have different *actus reus*
 - Difference is that criminal negligence includes the 'wanton or reckless disregard' line, but the other mentions "permanent endangerment" of health or life

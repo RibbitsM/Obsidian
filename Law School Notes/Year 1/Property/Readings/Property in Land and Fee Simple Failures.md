@@ -1,0 +1,21 @@
+- Argues that the creation of the fee simple estate simplifies land transactions and encourages the conservation of natural resources
+- Want to make sure the parcel of land you own will continue to be useful in the future
+- Say you own a house and want to put a movie theater in it
+- Even if the owner is quite old, they will want to make sure that it will be usable for many years
+- After all, they might sell the house to a younger person who will use it for much longer
+- Additionally, that person will also see the theater as raising the resale value of the house
+- Theoretically, this continues for eternity, and it's all priced in
+- Many early agricultural civilizations recognized this utility, and granted perpetual private ownership rights to land
+- Has emerged independently in many civilizations that never had contact like the Navajo and the Japanese
+### Fee Simple Failures
+- America's land ownership system was designed to allocate land to white people to the exclusion of people of colour
+- Additionally, the system locked land ownership into that configuration, meaning this unequal distribution still persists
+- Transfer of property within families is a very efficient way to accumulate generational wealth, meaning the original patterns of ownership don't change much
+- If you were originally locked out of land ownership, it's really hard to get in
+- The core feature of the fee simple interest is that it lasts forever
+- This goes contrary to many other systems of ownership which require the owner to actively use their land
+- Security created by the fee simple interest also encourages speculation and rent-seeking while discouraging wealth distribution
+- The other problematic feature of fee simple is that it separates actual possession from legal possession
+- Means that even if someone else labours on and possesses the land, the profit from the land lies in the hands of a completely different person
+- Allows the ownership of land far beyond what any single person could manage, encouraging the concentration of ownership in the hands of the few
+- Also creates a disconnect between the practical reality of agriculture and its ownership

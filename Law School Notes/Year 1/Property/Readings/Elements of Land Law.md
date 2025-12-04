@@ -1,0 +1,24 @@
+- Initially, landownership was limited to the three physical dimensions, although verticality was pretty complicated
+- English law incorporated the idea of an "estate" in land, adding a fourth dimension of time
+- Also contains different degrees of entitlement to land, and explains different landlord-tenant relationships
+- This a pretty unique system of ownership, almost all other systems of land law have one overarching idea of ownership, but not English law
+- Recall that all land in England was held in right of the Crown after the [[Land Law|Norman conquest]]
+- Because of this, there is no direct ownership, only ownership through the Crown or some other right
+- Tenants do not own the land itself, but rather an estate in land
+- Has the distinct advantage of allowing land to be doled out in parcels over time
+- You own not just a slice of land, but that land for a specific slice of time
+- Despite what escheatment might suggest, the Crown does not actually own all the land in England in a practical sense, it's just the concept that estates are based on
+- Exception to the time limit is the "freehold estates" which were divided into *fee tail*, *life estate*, and *fee simple* which we still use today
+- Fee simple is the primary estate in land, and lasts for an indefinite time making it the largest estate a person can own
+- Technically still held under the Crown, but is practically speaking full ownership of the land
+- Can be transferred and still holds the same status, usually unrestricted by the state
+- *Fee tail* or entailed interest is an estate that lasts as long as the original grantee and their descendants are still living
+- However, this rarely had an effect as usually these estates would be converted to *fee simple* after the death of the original grantor
+- Finally, the life estate lasts as long as its grantee does but can still be transferred, although it will not reset the time limit to match the lifespan of the new grantee
+- Estates were particularly useful in the sense that they allowed for many overlapping systems of ownership without raising issues of who **truly** owned a parcel of land
+- Estates could be nested within each other, and ordered based on certain conditions
+- A parcel of land could be owned in life estate, which would then become an entailed interest, which could finally become fee simple
+- Also meant that multiple people could "own" the same piece of land at the same time even though one of them had an estate in the future
+- Could even mortgage land that you hadn't yet asserted control over
+- Also led to regulations preserving the future use of land to benefit future tenants
+- Called the doctrine of waste

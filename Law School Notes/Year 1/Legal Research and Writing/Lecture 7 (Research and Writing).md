@@ -1,0 +1,15 @@
+- Start with secondary sources for research, Halsbury's is especially good
+- Start with browsing, and then do a search to see if you missed anything
+- Depending on the issue, looking at words and phrases can be useful, especially since it'll point you towards some case law
+- Basically, secondary sources are good for directing you to the key cases regarding this issue
+- Once you have the key cases and you've read them and any relevant legislation, you can start looking at citations within those cases
+- Can also just start doing keyword searches if you need cases with specific facts
+- Use multiple databases for these, can find stuff that doesn't show up on another site
+- Always note up your case law and legislation, especially when there is any sort of negative or cautionary treatment
+- Make sure you're also paying attention to binding vs persuasive precedent
+- There can also be different degrees of persuasiveness, depending on how close the situation is
+- Recall that federal law works the same as provincial law, provincial decisions are only binding within the province
+- Journal articles are usually useful mostly for making policy arguments, you might even have to go outside of legal journals to find specific information
+- Can general search on UBC library or look at a specific database
+- However, you shouldn't have to do any non-legal research for the final assignment
+- 

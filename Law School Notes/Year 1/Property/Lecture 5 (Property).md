@@ -53,10 +53,10 @@
 - Donors sued UBC for injury to their personal property
 - Judges in this case turned to [[Multiple-variable Essentialism|Honoré]]
 - Looked at the list of rights available to the donors, and based on these rights determined that sperm were property
-- According to the Warehouse Receipt Act, a warehouser is liable for loss of or injury to goods entrusted to it
+- According to the *Warehouse Receipt Act*, a warehouser is liable for loss of or injury to goods entrusted to it
 - When proving that frozen sperm is property, the judge noted that not all of Honoré's criteria needed to be present
 - After all, the agreement with UBC limits certain key property rights with respect to the sperm, namely the right to sell
-- As the sperm was considered to be property, this also means it is considered to be a good under the Warehouse Receipt Act
+- As the sperm was considered to be property, this also means it is considered to be a good under the *Warehouse Receipt Act*
 - Royal Commission on Assisted Human Reproduction at UBC found that the federal government should ban the sale of sperm or eggs, but allow donation
 - This was a contentious issue, attendees were split on whether allowing women to sell their eggs was empowering or an enabler of oppression
 - Decided that creating a market for biological material is generally a bad idea

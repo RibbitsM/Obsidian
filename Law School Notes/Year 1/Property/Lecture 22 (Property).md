@@ -1,0 +1,70 @@
+- We've already covered freehold estates which have an indeterminate endpoint, now we have to go over leasehold estates, which have a fixed endpoint
+- Once seen as personal property interests, not real property interests
+- Main distinction here is the remedy, if you lose personal property you get damages but for real property you can have specific performance as a remedy
+- When a tenant is able to get specific performance from their landlord, that's when we know that a leasehold interest refers to real property
+- A lease is created by a contract, that in turn creates a property interest
+- Contracts are enforceable only against the parties to the contract, but a property interest is enforceable against the world
+- In a leasehold context, there is a contract binding on the parties that as a side effect, creates a right enforceable against anyone outside the contract
+- This takes the form of a contract between the landlord and tenant, between which there is privity of contract, as well as something called privity of estate
+- Means that if the tenant transfers their tenancy to someone else, privity of contract will also be established between the tenants, but not between the landlord and the second tenant
+- This is not a sublease, you're removing yourself from the lease and transferring it to another tenant
+- Usually, the landlord would sit down with the new tenant and make a new lease, but this isn't necessary under law, a lease can be transferred without a new agreement
+- Landlord is bound by the terms of the lease under the concept of privity of estate
+- New tenant occupies the space under the terms of the contract between the landlord and the original contract despite not directly making an agreement with the landlord, because of privity of estate
+- Same thing applies if the landlord would transfer their interest to another party
+- Even if there's no contract between the tenant and the new landlord, privity of estate means that the obligations of the contract come with the land
+- This is a doctrine tying the lease to the land, ensuring it persists even if the parties change
+- The lease is linked to the land, and will follow the parties as they transfer their interests
+- But what happens in the case of a sublease?
+- Privity of estate and contract between the landlord and tenant, and the same between the tenant and subtenant
+- No relationship between the subtenant and the landlord, so the subtenant has to act through the tenant if they have any issues
+- Four kinds of leases: fixed term, periodic tenancy, tenancy at will, and tenancy at sufferance
+- First is self explanatory, lease lasts for a specific amount of time
+- Second requires a notice period, for example a month-to-month or year-to-year lease
+- Third doesn't have a required notice period, either party can end with notice at any time
+- Fourth doesn't have an agreement at all, as long as the landlord doesn't kick them out, the tenant can technically keep living there without an agreement
+- Some debate over whether or not this even counts as a lease
+- Leases are also diminishing interests, as soon as you start the lease, it's value begins to diminish over time
+- Could discouraging freehold ownership of land reduce speculation of property value?
+### Lease Agreements
+- A lease agreement must transfer a right of exclusive possession good against the landlord
+- Also needs to outline the essential elements: parties, property, term, start date, and rent (if any)
+- Rent is a common element of a lease agreement, but is not strictly necessary
+- Leases are property interests, but licenses are only rights under contract
+- These kinds of agreements are only a temporary defence against trespass, and don't transfer any right to exclusive possession
+- This is what you're buying when you get a lift ticket, or a ticket to a show or movie, it's a license to be on the property without getting kicked out
+- Something a bit closer to a lease would be a hotel or Airbnb stay, but it's still a license
+- If the owner if the hotel or the Airbnb kicked you out, your only remedy would be damages
+- You can't compel them to honour the original contract and give you another room or a place to stay, that's specific performance
+- When you walk into a retail store, you're also there on a license, albeit an implicit one
+- Living in university residence is also technically a license, as your status as a resident is conditional on your status as a student
+- Like we saw earlier with our explanation of privity of contract and estate, leases create interests that run with the land
+- A license is only enforceable against the parties, no privity of estate
+- This is one of the three things that divide leases and licenses
+- First is the exclusive right to possession
+- Second is that leases run with the land
+- Third is that the remedy for breach of lease is specific performance, otherwise you get damages
+### [[Fatac Ltd v Commissioner of Inland Reserve]]
+- Good structure for exam practice, basically written like a FIRAC memo
+- This is what you want to do, minus explaining the facts
+- Issue is on a quarry in New Zealand, where the owner granted a company called Atlas a license to operate the quarry
+- Later on, the owner sells the land to another company, and the issue arises of which company must pay the GST for the sale
+- This issue depends on whether the property was "tenanted" or not
+- To determine this, we need to check whether the agreement with Atlas was a lease or a license
+- Core element of a lease is the exclusive right to possession, that's what is being transferred from the landlord to the tenant
+- Court held that the intention of the parties doesn't matter, although there was a period of time where Lord Denning emphasized that it did
+- This decision focuses on the importance of exclusive possession, regarding any other factors as secondary to this main issue
+- Court goes on to explain the difference between a lease and license, and the rights granted
+- Tenant has exclusive possession, licensee just has a right to not be kicked out
+- Because the effect of an agreement depends on the presence of exclusive possession, the label doesn't matter if the effect is contrary to the label
+- If it looks like a lease and it quacks like a lease, it's going to be a lease no matter how many times it's referred to as a license
+- Court determined that a fixed or periodic term is required for a lease, but rent isn't
+- No tenancy where the landlord's right of entry is incompatible with exclusive possession
+- At some point, right of entry is onerous enough that it interferes with the tenant
+- If the tenant only exclusively occupies a small portion of the land being leased, this also will be unlikely to amount to a lease
+- For example, you can lease a bedroom in a house, but can't lease a house but only have exclusive possession of one bedroom
+- Intention will be relevant to the final decision, but not definitive
+- Eventually, the court determined that Atlas didn't have exclusive possession
+- The area that Atlas could quarry in was shrinking over time, and the company buying the quarry had started setting up buildings and equipment in the quarry
+- Clearly they could only use a portion of the quarry for a specific use, this is a license
+- For the next class, look at the laundromat agreement

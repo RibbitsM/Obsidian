@@ -1,0 +1,5 @@
+- Gerald Stanley was Saskatchewan farmer found not guilty for the murder of Colten Boushie, a young Cree man
+- Trial hinged on the argument that homeowners are entitled to "defend their castle" with deadly force
+- This idea is based on the original colonial vision of Canada, based on the advertisements encouraging settlers to farmstead in the Prairies
+- These depictions notably showed Canada as an empty virgin land, free of its true inhabitants
+- Any attempt by Indigenous peoples to even protest their own oppression was criminalized

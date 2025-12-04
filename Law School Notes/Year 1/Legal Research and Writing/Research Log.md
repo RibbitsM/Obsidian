@@ -1,0 +1,189 @@
+- I'm going to start with the context that I already know that the common law defence of duress is going to be relevant, but pretending I haven't read *Gionet*, *Keller*, or *Laughy*
+### Secondary Sources
+- First step is going to be looking at secondary sources, mainly legal encyclopedias
+- Starting with Halsbury's Laws of Canada, I browsed through the topics in alphabetical order and looked at whatever sections I thought may be relevant to this case
+- First section I opened was "Criminal Offences and Defences"
+- Went to section XI (Property Offences and Fraudulent Transactions), and read all the entries relating to theft
+- This was not very helpful, none of these sections contained info on how an accessory to theft might be prosecuted
+- Next, I decided to take a look at section XV (statutory and common law defences), specifically the page on duress
+- By looking at the references, I found a number of other sources to look at
+- For cases that explain the elements of the defence, I should read *R v Ruzic* (SCC), *R v Mena* (ONCA),  and *R v Li* (ONCA)
+- I should also read s. 17 of Criminal Code, as it is one source of this defence
+- I'm going to read the cases later once I'm done looking through secondary sources, but I'll look at the Criminal Code now
+- Section 17 had some info that wasn't in Halsbury's, but not that much
+- I also checked the secondary sources sections of the Halsbury's volume on criminal offences and defences and found nothing useful, now I'll go back and browse Halsbury's some more
+- I was hoping to find some more information on the doctrine of parties considering Gerry didn't directly commit the theft, but found nothing from browsing
+- Instead, I'll use the search function and search for "doctrine of parties" and limit the results to anything on the topic of criminal law
+- Found nothing useful, tried an advanced search for "party" and "theft"
+- This led me to an index for the criminal offences and defences section which led me to a page called "Parties to offence" which I had missed before
+- This pointed me to s. 21(1) of the Criminal Code, which provided the context for how Gerry could be charged as a lookout for the theft
+- This is about all I think I can get from Halsbury's, but to be thorough, now I'll go over to the Canadian Encyclopedic Digest
+- Here I did the same thing, browsing through the table of contents
+- First I went to the section on Criminal Law Offences, and looked through the information on theft, which again provided little relevant information
+- I also looked through the section in Criminal Law Offences on Parties, specifically Aiders and Abettors
+- This section was more in depth than in Halsbury's and provided additional information on proving the *mens rea* for an aider to a crime
+- Based on this information, it might be useful to look at *R v Leblanc* and *R v Beckman* if I find that whether Gerry met the *mens rea* requirement to aid a crime may be a relevant issue
+- Moving on, I then went to the Criminal Law Defences section of the CED and checked the section on Duress
+- This provided more information on the difference between the statutory and common law version of the defence
+- Gave me more cases to look at for checking the elements, namely *R v McRae* (ONCA), *R v Ryan* (SCC), and *R v Hibbert* (SCC)
+- The *Ryan* case should be particularly useful for determining the differences between the statutory and common law defences
+- Additionally, *R v Hartford* is a BC Court of Appeal case that may be useful considering it's within the jurisdiction, although most of the primary sources I've already marked as potentially useful are Supreme Court Cases anyway, and binding on the BC courts
+- This has all been very productive, I have a lot of potentially useful case law to look at now
+- However, I should try to take a quick look at some books or journal articles that may be relevant before I move on to examining the case law
+- At first glance it looks like the defining features of this case are that the accused is likely going to be charged as an aider, and that they will likely raise the defence of duress
+- From reading the Canadian Encyclopedic Digest, I know that as a likely party instead of a principal offender, Gerry would likely be raising the common law defence
+- I want to find some books/journal articles on the topic of the common law defence of duress, so I'll start by going to the ICLL on Westlaw and searching for documents with "common law" and "duress" in the title by typing "duress & "common law"" in the title search field
+- This returned only one result which was unrelated, so we may need to be less specific
+- Instead, I'll search for just documents with "duress" in the title, and filter out all the results related to contracts
+- Most of the results were either related to the constitutionality of the statutory defence of duress, or explored the connection between duress and necessity
+- I read several articles discussing *R v Ryan*, although they ended up not being very useful, as I noticed they were discussing a Nova Scotia Court of Appeal decision which was flagged by KeyCite
+- I noted up the case on Westlaw and Lexis and discovered it was overturned by the later SCC decision
+- I also tried to choose recent articles to avoid this, preferably after 2013 when *Ryan* was decided, and definitely after 1998 when *Ruzic* was decided
+- I haven't read it yet, but the CED and Halsbury both mentioned *Ruzic* as being a significant turning point for duress, so I'm trying to make sure I get research taking that into account
+- Because of this, I decided to sort the articles by date
+- At several points, I found articles that seemed relevant but were just listed in the index and not available on Westlaw
+- Whenever this happened, I would take the journal name from the citation and look up the journal on the UBC library and find the article from there
+- One particularly interesting article I found was "Reform of the Defence of Duress (and Necessity)" by Steve Coughlan et al.
+- It had a lot of information on the reform of the statutory defence of duress, but might not be directly applicable to this case
+- Overall, it seems like most of the literature on the defence of duress focuses on the statutory defence, and especially focuses on duress as a defence to murder
+- Within these articles there's also lots of insight into the elements of the test as well, so it's overall pretty useful even if the primary themes aren't super relevant to the case
+- I also found another case to examine by reading the articles, *R v Paquette* (SCC)
+- Finally, besides s. 17 and s. 21(1) I mentioned earlier, there are some other relevant elements of the Criminal Code to address, although these are actually primary sources it's a good thing to cover early on before examining cases
+- For the offence of theft, we need to examine s. 322(1), and s. 8(3) allows the common law defence of duress to be invoked in court
+- This should be all I need in terms of secondary sources, now I can move on to primary sources
+### Primary Sources
+- I'm gonna start with the cases that formed the basis for the defence of duress, from my research it seems like *R v Ruzic* and *R v Ryan* are both very important
+- I like using CanLII for major cases because it's free, simple, and I like how they show citations so I'll start by looking up "R v Ruzic" in the case name field on CanLII
+- I want the most current decision, so I'm going to look at the 2001 SCC case
+- Before I read it I want to make sure it's still good law, so it's time to note up
+- I already know this is the most recent version of the case, so no issues with case history
+- Two unfavourable mentions on CanLII, both distinguishing *Ruzic*
+- I also checked on Westlaw, and found more hits, one of the cases distinguishing *Ruzic* is *R v Li* (ONCA), which is also on my reading list
+- Finally, Lexis has three distinguishing cases, but overall much more positive treatment, two of the distinguishing cases here are the same as Westlaw
+- In the future I'll continue noting up my cases but I won't log exactly what I find for convenience
+- Skimming the case, it seems to be quite relevant to the case, but overall focuses more on the statutory defence of duress
+- Most of the analysis of the common law of duress is restated from *R v Hibbert* (SCC), so it would probably be wise to cover that next, since I know from reading articles that *R v Ryan* deals mainly with the statutory defence, and is also a murder case, not theft
+- I'll take the same approach, looking up "R v Hibbert" on CanLII and note up using all three sites
+- Also seems to be good law, only 2 or 3 distinguishing cases
+- This is why citations are important, I didn't realize there were multiple SCC cases named "R v Hibbert" and I initially found the wrong one, a 2002 case unrelated to duress
+- Returning to *R v Ruzic* on CanLII, I located the case I was looking for in the "Cases Cited" section and used the link to open it
+- Time to note up again, no negative or cautionary treatment at all on CanLII and WestLaw, a few distinguishing cases on Lexis
+- Overall this case is useful because it addresses how the defence of duress applies to parties to an offence, but doesn't give a super clear overview of the elements of the defence
+- Does give a good explanation of the standard for the safe avenue of escape requirement
+- The case *Paquette v The Queen* is cited many times as an originator of the defence
+- Will likely be just as if not more vague, but I should give it a look anyway
+- This time I've learned my lesson, I'll just find the link from the Cases Cited section instead of doing another search
+- Before noting up, I noticed that *Paquette* was listed as "distinguished" in the Cases Cited section of *Hibbert* so I know it's not all good law
+- I saw some concerning treatments on CanLII and Lexis including Lexis listing *Hibbert* as treating it negatively, though Westlaw didn't raise any major flags
+- I'll skim it regardless to see if there's a good explanation of the elements, but I'm pretty hesitant on including this case
+- Wasn't particularly useful, I wouldn't include this in my memo
+- After this long tangent, I should probably go back to *Ryan*, I looked it up on CanLII using my earlier method of searching the case name, this time adding "duress" in the document text field
+- Also quick side note, I didn't mention this earlier but since I found the wrong *Hibbert* case, I've been looking up the cases on Westlaw and Lexis for noting up by searching the neutral citation instead of just searching the case name
+- Very little cautionary treatment on *Ryan*, two cautionary cases on Lexis and nothing elsewhere
+- Facts are very different from the fact pattern, but contains an excellent outline of the elements of the common law defence, and seems to be the current authority on duress
+- At this point I should have enough of a background to move on to finding cases with facts similar to the fact pattern, but I'd like to quickly check out *R v Li* (ONCA), I've seen it pop up several times during my earlier research
+- Again, I searched on CanLII by putting the case name and "duress" in the document text section
+- Turns out there's two ONCA cases called "R v Li" that cover the defence of duress
+- I quickly went back to the section of Halsbury's where I initially found the case, and determined that I'm looking for the 2002 case, not the one from 2016
+- This case was harder to find while noting up since it didn't have a neutral citation on CanLII, so instead I searched "R v Li ONCA 2002 duress" on Westlaw and Lexis to find the proper case fast
+- This search only really worked on Westlaw, for Lexis I just used the link from Halsbury's
+- Positive treatment overall, one distinguishing case on Westlaw
+- The common law defence was not really discussed here, as the facts failed to give it an air of reality, overall this case likely won't be very useful
+- I decided at this point I likely had enough basic information, and turned to finding some more specific cases
+### Fact-Specific Primary Sources
+- While I have been mainly using CanLII up until now, it's advance search functions aren't as developed as those on Westlaw and Lexis, so I'll mainly be searching on those sites here
+- I decided to start with a very specific search, and broaden it until I had enough relevant cases to get an idea of how the case in the fact pattern will play out
+- My goal is to find 4-5 cases like this, that should be more than enough for my memo given how much research I've already done
+- I chose to start on Lexis instead of Westlaw for no particular reason, and ran a search in all jurisdictions and courts for cases including all the phrases "farm!", "theft", "duress", and "common law"
+- My exact search query was "farm! and theft and duress and (common law)" (without the quotation marks of course)
+- I filtered the results to only include cases on the topic of criminal law, which gave 22 results
+- Skimming the overviews, I found that most of these charges were unrelated, and few actually involved a charge of theft
+- This was likely because of the inclusion of "farm!" in my search query, it narrowed the scope too much
+- Instead, I used the bar indicating where keywords appear on Lexis to quickly examine where "theft" appears in the case to determine whether there was a theft charge or not
+- This was useful, as the case summary didn't always explicitly state the charges, and there are charges like breaking and entering that do involve theft, but don't include the word in the charge name
+- I also made sure to check for where the keyword "duress" appears as well to make sure the accused actually raised the defence and it wasn't just mentioned casually
+- Also, several cases discussed duress in the context of contract law, which also complicated things
+- I did find one useful source in this source, a 2023 Alberta case called *R v Bonick*
+- Before broadening my search, I chose to try it on Westlaw to see if there were any farm-related theft cases with a duress element there
+- In the Westlaw format, my search query looked like this: advanced: (farm! & theft & "common law" & duress)
+- Again, I filtered to only include criminal cases and got 16 results
+- I took the same approach of looking through the snippets to determine the relevance, and got no new results
+- For completion's sake I repeated the search on CanLII, using this search query: farm* AND theft AND "common law" AND duress
+- Filtering for criminal cases, I got 14 results
+- No new results here
+- Going back to Lexis, I repeated my initial search without the "farm!" portion, my query was theft and duress and (common law)
+- Filtering for criminal cases, I got 178 results
+- The first case was *R v Gionet*, which would certainly be relevant
+- Given the number of results, I decided to also filter results to only BC or SCC cases for now to make manual inspection less time-consuming
+- This returned 37 cases, and I inspected them using the same methods from earlier
+- Only one case here was relevant, that being *R v Gilliland* (BCCA)
+- I will return to this search without filtering for region later, but for now I'll repeat this process for Westlaw and CanLII
+- Search query on Westlaw was advanced: (theft & "common law" & duress), and returned 34 results after filtering
+- I found one case that appeared in the previous search that on closer inspection may be useful called *R v Safari* (BC Trial Court)
+- For clarity, I'll mention here that I'm looking for two things when it comes to relevance
+- First, the case should involve the accused either committing a theft, or ideally assisting in committing a theft
+- Second, the accused must have raised the defence of duress, ideally the common law defence
+- Moving to CanLII, my query was theft AND "common law" AND duress, which returned 31 results after filtering
+- Nothing new here, but I'm going to start with CanLII for the next step
+- Going through the sites in the same order every time means I inspect the Lexis cases more closely than the others, which I tend to skim through as I've seen several of them already
+- Switching up the order might help me catch cases on CanLII and Westlaw I might have otherwise mistakenly skipped over
+- Removing the jurisdiction filters on CanLII gives me 127 results
+- This is a lot of cases, and many of them meet the two requirements I mentioned before
+- To narrow my criteria, I started looking just at cases where either the accused is put under duress from someone they recently met, especially examining cases where the theft occurred soon after meeting that person
+- I also excluded cases that involve other non-theft offences unless those offences were closely connected to the theft, for example assaults or break and enter charges committed as part of a theft
+- While I did look at offences where the accused was the principle, I decided that mainly cases where the accused was an accomplice should be considered relevant
+- I found less cases meeting this criteria than I expected, so I went back and included a few cases involving multiple offences where the person placing the accused under duress was known to them
+- The cases that most closely met my criteria were *R v Mena* (ONCA) and *R v Crawford* (ABPC), with the former actually being one of the cases I ran into during my primary source research
+- *R v Allen* (SKQB), *R v Charles (SKPC)*, *R v Iyanam* (ONSC), and *R v Morrison* (ONSC) didn't fully meet my criteria, but did all involve theft/robbery and the defence of duress
+- Next, I switched over to Westlaw and removed the jurisdiction filters, 155 results
+- Nothing new here, likely won't be anything on Lexis but I'll check anyway
+- Without the filters there's 178 cases
+- Again, nothing new that is relevant to the fact pattern
+- At this point, I believe I have enough cases, but I still think my search query can be adjusted
+- I'm concerned that using "common law" as one of the search terms isn't having the desired effect, I get a lot of cases involving common law spouses
+- Additionally, I get a lot of cases involving confessions under duress and duress in contracts
+- For a more narrow search, I'll start a new CanLII search using this query: "party to" AND theft AND "defence of duress"
+- Hopefully this should only give me theft cases where the defence of duress was raised and the accused was a party to the offence
+- Returns 47 results, seems promising as most of the cases I've already covered show up
+- Didn't find anything new, but instead of switching to the other sites I decided to adjust my search to also cover robbery cases
+- While robbery is certainly a more severe crime than theft, it's tangentially related
+- New search query (still on CanLII) is "party to" AND theft OR robbery AND "defence of duress"
+- 99 results after filtering
+- At this point I'm seeing a lot of repeat cases, and a lot of murder cases that tangentially involve theft
+- *R v Fraser* (NSPC) was one useful case I found, but isn't very closely related
+- Overall, the addition of robbery is not very useful, and I believe I have enough cases now
+- One remaining question is whether there are any non-theft related duress cases that may be useful
+### Noting Up
+- The final step in the research process is to note up all these cases, and during that process I plan to also examine the cases cited while noting up, which may lead me to additional cases
+- The full list of cases is as follows: *R v Bonick*, *R v Gionet*, *R v Gilliland*, *R v Safari*, *R v Mena*, *R v Crawford*, *R v Allen*, *R v Charles*, *R v Iyanam*, *R v Morrison*, and *R v Fraser*
+- My citation process for all these cases is the same, checking on all three sites
+- *R v Bonick* has no citations and is a lower court (Alberta Court of Justice) decision
+- This is likely just because it's a relatively recent (2023) decision in a relatively unimportant court, shouldn't be seen as an issue
+- No cases cited besides the big three SCC cases (*Ryan*, *Hibbert*, and *Ruzic*)
+- For clarity, all these cases were found by looking the case name up on CanLII with the query "duress" in the document text field
+- Then I would search the citation from CanLII to find the cases on Lexis and Westlaw, if no neutral citation was available I would use advanced search on those sites using the same method as on CanLII
+- *R v Gionet* has been mentioned sparingly, but has no negative treatment
+- Hasn't been mentioned outside of New Brunswick and is also a provincial case, but does involve theft under duress, and is likely useful
+- No cases were cited relating to the theft or defence of duress beyond those I have already read
+- *R v Gilliland* was also sparsely cited, used in some Quebec cases but raises no flags
+- One of the only BC cases in this list and an appeal case as well, but no useful citations
+- *R v Safari* has no citations at all, but is also a BC case so is worth keeping around
+- *R v Mena* is well cited, but is distinguished in one other ONCA case
+- One of the more well-established cases in this list
+- *R v Crawford* was reversed on appeal, not good law
+- *R v Allen* has been widely cited in secondary sources, but never in court
+- Indicates it may be less useful for its fact pattern, but still relevant
+- Cites many other duress cases I have seen so far including *R v Fraser*, but nothing new
+- *R v Charles* has only been cited once, but it was cited in a BC case
+- Also pointed me to another seemingly useful case called *R v Sheridan* (ABQB) which I will add to the list
+- *R v Iyanam* has also been rarely cited, but never treated negatively
+- No useful citations, mostly cases I've already seen
+- *R v Morrison* has been cited fairly often, and is actually old enough that it was cited in *R v Ruzic*
+- *R v Fraser* wasn't available on Lexis, but was cited in *R v Ryan* and *R v Allen*
+- Had some relevant citations on the statutory defence, but not much for the common law defence
+- *R v Sheridan* had few citations, but nothing negative or cautionary
+- Cited *R v Keller*, another case that may be relevant
+- *R v Keller* was distinguished in several other case, including in *R v Sheridan*
+- However, this doesn't seem to reflect negatively on the case, mostly seems to be acknowledging differences in facts rather than questioning the decision
+- Main issue is that this case was decided before *Ruzic* and *Ryan*
+- This should be more than enough research to write my memo, finally done

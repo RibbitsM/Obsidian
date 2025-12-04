@@ -14,7 +14,7 @@
 - Appellant relies on the *cujus est solum* maxim, although courts have been hesitant to accept ownership of airspace
 - For example, cases alleging trespass by airplane rarely succeed
 - Respondent argues that trespass only happens if there is actual interference with the use of the space
-- If aircraft can use airspace, then electrical lies can as well
+- If aircraft can use airspace, then electrical lines can as well
 - However, there is a huge difference in permanence here, and low flying aircraft may be considered a trespass as well
 - Respondent pointed to two previous cases where the maxim was restricted, but both related to airplanes
 - Second case (Air Canada v R), held that airspace is *res omnium communis*

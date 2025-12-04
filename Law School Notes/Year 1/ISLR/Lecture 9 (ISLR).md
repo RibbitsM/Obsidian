@@ -1,0 +1,101 @@
+### [[The Murder of Colten Boushie]]
+- The posters used to advertise to Canadian settlers demonstrate a very specific narrative
+- Uphold values of the nuclear family, a self-made farmer holding up his family by working hard
+- Depicts Canada as an empty paradise open for settlement, noticeable lack of Indigenous presence
+- Always see typical symbols of progress like fields of cattle and trains
+- Also important to note that this is never explicitly about race, but the idea of the white settler vs the bloodthirsty savages is always just below the surface
+- Similar to how the Stanley trial went, outwardly saying that it's not a referendum on race but also stacking the jury with white people
+- This is a common theme in a lot of depictions of Indigenous men
+- Ties into the theme of the [[Criminal Empire]], recasting Indigenous resistance as crime
+- State mobilizes any act of resistance as an excuse to justify further oppression, and to cover up the true nature of the state's crimes
+- In the documentary, Hubbard uses the example of the criminalization and execution of Big Bear and Poundmaker set the floor for the narratives of Indigenous peoples as savages
+- This was an event that happened in Battleford, the same town where Boushie was killed
+- Many Indigenous people in the community had living memory or were only a generation removed from the public execution of eight Indigenous men
+- Many of the same themes emerge in the Stanley trial
+- Narrative from the defence was that Stanley was acting in fear, and accidentally discharged his gun, not arguing explicitly that Boushie was killed in self-defence
+- Indigenous youths were presumed to be criminals, and this presumption is never really challenged
+- Defence argued that Stanley's actions were reasonable, the fear created by seeing Indigenous youth on your property would cause anyone else to do the same thing
+- These narratives were also reflected in the media coverage, and certain factors from Boushie's life were strategically ignored and brushed away
+- Firearm experts suggested that the killing was entirely intentional, and eve if it was accidental, it was a sign of great negligence on his behalf
+- Defence relied mostly on appealing to Stanleys family values and the emphasis that anyone on the jury would have done the same in the situation
+- Many anonymous racist comments online came out, expressing that Colten deserved what was coming to him
+- Stanley himself never contested that he didn't kill Colten, he even said as much when the police arrived at the scene
+- It's also telling that the initial investigation focused on Colten's friends that fled the scene
+- Hunt and Starblanket were faced with death threats after writing their op-ed
+- Framing of the defence specifically excluded the broader narratives of violence against Indigenous peoples, focusing on rhetoric the jury would identify with
+- Constantly asserted that this is not a "referendum on race", it was a case of a man defending his castle against unlawful intruders
+- Stanley had a family, and he had to point blank execute a teenager to protect them
+- Defence lawyer emphasized the terror felt by Stanley, drawing on the existing narratives of Indigenous peoples as savages and criminals
+- Dehumanized Colten and his friends as criminals and intruders whose personal lives don't matter, as opposed to the hard-working virtues of the Stanleys
+- Stanley's son was constantly referred to as such but Colten's friends were just youths, stripped of their association with anyone else in the community
+- Stanley's defence lawyer relied on peremptory challenges like picking the jury to swing the trial in his favour, making sure to only choose other white settler farmers
+#### Jury Charges
+- In *R v Barton*, another case about gendered violence against Indigenous peoples which was similarly context-laden, trial judge was supposed to instruct the jury on colonialism
+- Explain that Indigenous people, especially women and girls, are subject to ongoing violence and harm both historically and today
+- Trial judges hold great power with their ability to instruct the jury, these instructions are markedly different from those given in the *Stanley* trial
+- That instruction focused on the fact-based decision, stating the jury should not be trying to think about emotional or sympathetic reasons, leading away from the narratives
+- No significant mention of race or colonialism in a case entirely dictated by it shows that this isn't truly an objective test
+- These racial logics never needed to be explicitly stated, it was woven into their community
+- Ironic that jurors were not allowed to read the news for fear of being influenced by racial logic, but were specifically chosen because they were white
+- As part of the charge, jurors were supposed to examine if Stanley had exceeded the reasonable standard of care in handling his gun given the circumstances
+- Obviously an all-white jury would give a different answer here compared to an Indigenous person
+- When questioning one of the witnesses, Stanley's lawyer questioned them aggressively, making it seem as if they were the one on trial
+- The fact that the situation escalated quickly was given as evidence that Stanley was not negligent, jury was never instructed on if his actions were reasonable in a vacuum
+- Stanley decided to smash the windshield of the youth's car after one of the boys sat on a quad he found in the yard
+- This caused the car to veer into a parked car, at which time Stanley ran to get his gun as he did not see where his wife was
+- Argument that Stanley was protecting his family was constantly advanced in the absence of any clear evidence that he was concerned for his wife or son
+- Defence went to great lengths to provide "context", even trying to get an unrelated liquor store theft admitted into evidence despite the fact that the youth were not involved in the theft
+- Implied heavily that they were, part of the effort to paint them as criminals
+- Even accused one of the witnesses of being involved into the robbery even after the theft was not admitted to evidence
+- Knew that the jurors would be well aware of stereotypes linking Indigenous youth to crime and alcoholism
+- Important to think about how the legal system allowed this killing of a young Indigenous man while his killer was exonerated
+- As some additional context, a former KKK president lived in Biggar, the town where Colten was killed, for many years
+- Additionally, there is a yearly event in the area where local farmers dress up in Civil War clothing and fire rifles while displaying the Confederate flag
+- In homogenous juries, the likelihood that all members will hold a common prejudice is higher
+- If we think that prejudice has effect on a jury trial, if we raise stereotyping as an issue in the trial it will reduce the effect of prejudice on the jury decision
+- As a test, researchers in the US asked jurors to also propose a sentence for a accused
+- In offences where the offender was Black, raising the issue of egalitarianism reduced the severity of the proposed sentence
+- Does the literature suggest a similar effect in Canada?
+- Empirical evidence suggests that this works for Black offenders, but not Indigenous offenders
+- Why doesn't race-salient instruction work? This was before *Barton* btw
+- The approach taken in Canada was adopted from efforts against anti-Black racism in the US
+- Modern prejudice against Indigenous peoples in Canada is overwhelmingly motivated by a sense that they get unearned privileges
+- Theory is that by raising issues of egalitarianism may actually encourage prejudice against Indigenous peoples
+- As disputes over resources increase, the likelihood of siding with the Crown rises
+- Therefore we need to be very careful when crafting jury instructions for Indigenous offenders, there's been mixed results on testing of the *Barton* instructions
+### [[R v Ipeelee|Gladue Sentencing]]
+- The *Gladue* sentencing provisions only apply to sentencing after a conviction, not to bail or other situations
+- Also apply to all offenders, it's just that Indigenous people get a special mention
+- Evidence of the motivation, evidence of abuse, and other factors are all considerations for sentencing
+- The Parity principle states that similar situations should result in similar sentences
+- All available alternatives to jail time should be considered for sentencing, especially when it comes to Indigenous offenders
+- This is the provision that *Gladue* focused on
+- Includes both personal factors, and also the impact of intergenerational trauma, a specific causation related to the offence is not required
+- Trying to draw a connection like this is far too complicated to impose on the defence
+- Goal is to look for a sentence that meets the goals of sentencing, which is denunciation, rehabilitation and deterrence
+- *R v Ipeelee* also takes great lengths to explain why *Gladue* is not a "get out of jail free card" or a race-based discount
+- This is an extension of existing sentencing provisions, not creating whole new rules
+- In the context of Indigenous courts, they are part of the Canadian court system and are staffed by court professionals and likely clinic workers as well
+- Much of the effectiveness of these courts comes from the skill and expertise of its workers
+- Even the construction of the courtrooms themselves are designed to incorporate Indigenous legal practices, for example open ceilings for smudging and circular seating where all parties can see each other equally
+- Helps serve the restorative and healing goals and functions of these courts to reduce recidivism
+- Harold Johnson was a lawyer who wrote a book called Peace and Good Order that talks about the Stanley trial
+- He talked to the judge, who said he was resigning from the legal profession
+- Stated that at some point, a future prime minister will make an apology for the entire legal profession and how it has treated Indigenous people, just as Harper did
+- Makes a case for Indigenous jurisdiction over justice based on treaty rights
+- We're seeing more and more that Indigenous peoples get more severe treatment when it comes to dangerous offender designations
+- Some of the questions used to determine this may be prejudiced against Indigenous peoples
+- There are processes and procedures within Correctional Services Canada that affect this that are entirely outside the purview of the courts
+- These processes tend to disproportionately label Indigenous offenders as dangerous compared to other similar offenders
+- Mass incarceration of Indigenous peoples is a very current and very real issue
+- A correctional investigator resigned early due to a distaste towards the lack of action regarding the disproportionate labelling of Indigenous peoples as dangerous offenders
+- Not only are more Indigenous peoples convicted, but receive worse treatment at almost every step, staying in higher security facilities for longer with less opportunity for bail
+- While the view of many is that *Gladue* gives Indigenous people a free pass for committing crimes, the reality is that incarceration rates of Indigenous people are still rising
+- Recall that these principles only come into play after they have already been convicted
+- No effort is being made to consider colonial factors until guilt has already been established
+- Clearly this effort is not having the remedial effect that we want
+- One of the main issues we've seen is that convicting an Indigenous offender is more acceptable to jurors because they believe they won't be punished severely
+- One way that *Gladue* may actually be increasing conviction rates
+- On the other side of the issue, there are many factors before the court appearance that lead to overincarceration, mostly the overpolicing and oversurveillance of Indigenous peoples
+- We've also seen a recent trend of governments cutting support for the most vulnerable sectors
+- 

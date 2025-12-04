@@ -1,0 +1,58 @@
+### [[Bazley v Curry]]
+- Established the "strong connection" test for determining vicarious liability when an employee commits sexual assault against a child
+- Defendant worked at a non-profit care home for young emotionally troubled children and was a pedophile, positioned as a parental figure to the children
+- Issue was whether or not the home could be sued for vicarious liability
+- *Salmond* shows us that employers are vicariously liable for the acts of employees authorized by the employer, or unauthorized acts connected to the authorized acts
+- Connection means that the unauthorized act is an improper mode of carrying out the authorized act
+- Example would be construction workers trespassing on neighbouring land while constructing a building
+- This case is a lot more complicated than that, how are we supposed to interpret this?
+- Court divided the second option from *Salmond* into two steps
+- First, the court should look for unambiguous precedents to determine the outcome of the case
+- Second, the court should examine policy rationales for imposing vicarious liability
+- Identified two main policy considerations for this case
+- The first was a need for effective compensation, which would provide a substantial remedy for the victims who have suffered so much
+- Second was the idea that imposing vicarious liability would have a deterrent effect, encouraging organizations to prevent similar future harms
+- Both of these considerations are connected to the idea that the employer somehow created or amplified the risk of a wrongful act being committed
+- This is where the test comes from, need to establish a strong connection between the actions of the employer and the risk of the tort being committed
+- Also called the enterprise risk test
+- Look at the connection between the organization and the tort first
+- Then, did the employment create an opportunity for the employee to commit the wrong or did it increase the risk of the wrong being committed?
+- Five key factors to consider in determining the strong connection test
+- First, was there an opportunity given to the employee?
+- Second, did the wrongful act further the employers aims?
+- Third, did the act come from friction or intimacy inherent to the organization
+- Fourth, did the enterprise provide the employee a position of power?
+- Fifth, was the victim put into a state of vulnerability by the organization?
+- When applying these factors to the case, found that Curry had significant opportunity to abuse his power, as he was given extensive time one-on-one with the children
+- At first glance, it would be very difficult to say that the abuse of the children furthered the employers aims, but you could argue that this was a product of the kind of care being provided to the children
+- Can kind of approach this with a "but for" test
+- For the third factor, it's pretty clear that the intimacy of the employee's position was closely connected to the assaults carried out by Curry
+- The employee was also positioned as a parental figure, meaning they had a significant degree of power over the children
+- Finally, this was already a home for troubled children who were by their situation, vulnerable to abuse of power by the employees
+### [[Mohamud v WM Morrison Supermarkets]]
+- Also based on the enterprise risk assessment, did the actions of the enterprise materially increase the risk of the harm that occurred?
+- Strong connection test is generally only applied in cases of physical and sexual assault
+- When you look through the case law, this is usually when we consider the strong connection test, otherwise the courts rely on the *Salmonds* test
+- Encouraged to do this on the exam, even if it's an assault case it's always good to start with the *Salmonds* test
+- In this case, the plaintiff went to a gas station by a supermarket to ask if he could print off some documents from a USB stick
+- Gas station attendant told him no rudely, and when he protested basically swore at him and made aggressive and racist remarks
+- Followed him outside and prevented him from driving away, and ended up beating him up
+- Was this in any way connected to Khan (the attendant)'s job?
+- Two questions to answer, what was his job, and was there any connection between that job and his conduct?
+- Court determined that his activities was within his job, but a gross abuse of his position
+- Happened in connection with the business, was seeking to ban the plaintiff from the gas station presumably based on their conduct
+- This was a UK case, would the Canadian courts have made the same decision?
+### [[EB v Order of the Oblates of Mary Immaculate]]
+- Similar facts to Bazley, except the employee was not a caretaker of the children, worked doing odd jobs around the school
+- Applied the five factors from *Bazley*
+- Little to no opportunity given to Saxey (the employee)
+- The wrongful act did not further the employers aims
+- Little to no friction or intimacy created by Saxey's positio
+- Power conferred to Saxey was little more than just being an adult among children
+- Children were especially vulnerable given that this occurred at a residential school
+- Court wants us to look not just at the nature of the organization, but the specific powers and duties given to the employees
+- If the wrong done is unconnected to authorized acts, then the enterprise will not be held accountable
+- Majority opinion sided with the defendants
+- This was a decision made based on the facts, but ignored the broader context and policy considerations motivating the judgement
+- Sometimes the judges need to take a broader approach to understand what true justice is in this case, they have a significant degree of discretion
+- Open to the judge to rule completely differently on the same set of facts

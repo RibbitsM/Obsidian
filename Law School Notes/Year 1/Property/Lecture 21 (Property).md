@@ -1,0 +1,72 @@
+- Recall that at common law, to transfer an estate in fee simple, you had to use the phrase "to X and their heirs" where "and their heirs" are the words of limitations
+- Example of this comes from a 13th century case where a man named Roger had a grant of military tenure from King Henry
+- His son (Radulf) was trying to get this land from a guy named William of Arundel by right of inheritance from Roger
+- Land was granted from Henry to Roger and his heirs, but then Roger later granted the land to William, and Radulf claimed that it was his by right of inheritance
+- Court said no, the heirs don't get any definitive right, just the hope of inheritance
+- These are just words of limitation, pretty radical decision in the 13th century
+- It should be up to the owner of property to do what they want with it
+### [[Thomas v Murphy]]
+- In a will, things work differently
+- A devise in a will is a transfer of real property, a bequeath transfers chattel
+- Murphy was a lawyer hired by Thomas to help them buy some property
+- Murphy told Thomas that they had full ownership of the property, but Thomas later discovered that the land was seemingly not transferred in fee simple, and sued Murphy
+- Sought damages based on the cost it would take to get the full ownership
+- Murphy traced the title to ensure that the seller had the title to transfer it
+- To do this, you need to find how the seller got the title in the first place and so on
+- May need to trace this all the way back to the Crown grant, or at least 60 years back
+- The seller was a residual beneficiary under a will, meaning they got whatever was left after a will was fully executed
+- Thomas thought the sellers didn't have the fee simple interest, Murphy thought they did
+- To determine this, we need to look at the *Habendum* of the will
+- In the will, the language used that the land would be transferred "to the Grantees, their successors and assigns"
+- This is almost, but not quite the language required to transfer land in fee simple, but that's only required for transfers *inter vivo*
+- For wills, the test is to determine the intention of the person who made the will
+- In this case, it was found that the intention was to pass the land in fee simple
+### Legislation
+- Under the BC *Property Law Act*, you don't need to say "and their heirs", just "in fee simple"
+- Additionally, a transfer of land without words of limitation is presumed to mean that the largest estate owned by the grantor is being transferred
+- Similar provisions exist in the BC *Land Title Act*
+- If there's no words of limitation, largest estate is transferred, otherwise follow the instructions
+- In the BC *Wills, Estates and Succession Act*, a gift takes effect according to its terms, and otherwise gives the recipient every available interest in the property
+- Still doesn't resolve issues relating to ambiguity in a will
+- For example, Raffaele Finucci drafted his will using a form given to him by a travel agent, which carries a significant amount of ambiguity
+- Seemingly grants his property exclusively to his wife, but also grant it to his nieces and nephews upon the death of his wife
+- At the same time grants fee simple, but also a life estate with a remainder
+- When it comes to interpreting a will, the issue is determining the intention of the will at the time the will was made
+- This is done by considering the whole will, as well as the surrounding circumstances
+- Trial court determined that the property was granted in fee simple, and on appeal the court determined that the context indicates he tried to limit this ownership, and it was a life estate
+### *Inter Vivos* Transfers
+- Two stages, a contract of purchase or sale, and a transfer
+- Usually, the contract provides that the grantor will transfer good title in exchange for some compensation
+- Three key elements, parties, property, and price all appear on the standard form
+- Also has a field for any terms and conditions, a completion date, and any included items that resolves the issue of [[Lecture 15 (Property)|fixtures]]
+- At the end, there is a field to sign that makes the acceptance irrevocable
+- If this is not signed, there's also fields for counteroffers and acceptances
+- Don't need to use the standard form, also we're assuming there's a contract
+- Issue is whether or not that contract is enforceable
+- At common law, these contracts have to be in writing according to the *[[Lecture 12 (Contracts)|Statute of Frauds]]* 
+- The BC *Law and Equity Act* specifies that contracts respecting land are not enforceable unless there is an agreement in writing signed by the defendant that contains all the key terms, parties, property, and price (s. 59(3))
+- Also, if the defendant can committed an act or acquiesced in a way suggesting the contract has been made or if the plaintiff showed detrimental reliance, contract can qualify
+- A common way for the second factor to be shown is by paying a deposit
+- In fact, s. 59(4) explicitly states that this is the case
+- Section 59(7) shows that writing is sufficient even if a term is left out or misstated
+- In one of the example problems, a letter cancelling an oral agreement was used to enforce that agreement since it was signed by the defendant and has the parties, property and price
+- The remedy for a breach of s. 59(3) may not always be enforcement or rescission, depending on the context the remedy might just be damages
+- Recall the ceremony of [[Lecture 7 (Property)|transfer of seisin]], this is how land used to be transferred
+- Now, we use a standard form to transfer property, which is called a transfer deed
+- Involves a promise that the grantors have the right to transfer the land, and that the grantees will have quiet (uncontested) possession free from encumbrances like mortgages
+- Transfer deed is signed only by the grantors, and witnessed by a lawyer
+- The signatures of the grantees is not required
+- This deed must be signed, sealed, and delivered to the grantee, and only then does the interest pass to the grantee(s)
+- Nowadays, a seal is no longer required for these kinds of instruments
+- The same rules for [[Lecture 19 (Property)|delivery for gifts]] apply to delivery here
+- Equity will not assist a volunteer, or fulfill an incomplete gift
+- Needs to be intention to deliver as well as intention to accept
+- Often, a court of equity will compel a transferor to complete a transfer, which is a remedy called "specific performance"
+- Assuming there was money granted in exchange, a transferor isn't a volunteer, so equity has a more active role to play in this context
+### Title Registration
+- Under the *Land Title Act*, a transfer of a freehold estate must be made using a standard form (form A), and is limited to a single page
+- Form B is for mortgages, and Form C is for everything else
+- At the discretion of the registrar, other forms of transfer are also accepted
+- Transfer doesn't happen until the transfer instrument is registered, you'll find out what that means in second semester
+- Registration marks the transfer, not the signing of the form
+- This is the modern form of land transfer, replacing the former "signed, sealed, delivered" test

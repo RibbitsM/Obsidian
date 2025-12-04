@@ -1,0 +1,20 @@
+- Plaintiffs retained the defendant (Murphy) to purchase a property for them, and reported that they had marketable title
+- Title came from the beneficiaries of will, which specified that the property was to be granted to the grantees and their successors with power of sale
+- Plaintiffs claim that because the will does not specify that the grant was to the "grantees and their heirs" it wasn't fee simple
+- Means that the title that the plaintiffs got was defective, and more conveyances were required to fix it
+- Claim the costs of doing this as damages against Murphy for negligence in telling them they got marketable title
+- Issue for the court is whether the grantees got a fee simple interest
+- Intention of the grantors was clearly to transfer in fee simple, the original property was fee simple and was supposed to be transferred to the grantees in fee simple
+- Grantees clearly had power of sale, specifically stated in the will
+- Plaintiffs argue that the magic word "heirs" was not included, meaning it wasn't transferred in fee simple
+- Section 12(3) of the *Property Act* specifies that this isn't necessary as long as the words "in fee simple" are used
+- This case was in New Brunswick, where this is the only relevant provision
+- In Ontario, as long as no words of limitation are used, the presumption is that the transfer is in fee simple
+- Overall, the intention of the will clearly suggest that the grantor was trying to transfer the property in fee simple
+- Requirement of words of limitation is met by this intention
+- In a prior case, the New Brunswick Court of Appeal established that a document can be taken as a whole to determine the meaning of specific clauses
+- Additionally, the *habendum* clause which specifies how the property is transferred can help explain the main part of the will
+- In another case called *Spencer v Registrar of Titles*, this principle was used to resolve a similar issue
+- Also important to note that the statutes mentioned earlier only apply to transfers *inter vivos*, not to wills
+- The rule for wills is more permissive, property is transferred in fee simple unless there are clear words of limitation to the contrary
+- Appeal allowed, plaintiff's action dismissed

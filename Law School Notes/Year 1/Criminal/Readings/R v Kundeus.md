@@ -1,0 +1,40 @@
+- The defence of mistake of fact is available as long as the accused holds an honest belief of circumstances that would entitle them to an acquittal
+- Available whenever knowledge of circumstances is part of the *mens rea*
+- For example, for theft you need to know you're taking something that belongs to something else
+- In this case, the defendant (Kundeus) was charged with trafficking LSD under the *Food and Drugs Act*
+- Kundeus was sitting in Travellers Hotel in Vancouver advertising "speed, acid, mda or hash" for sale, when he was asked for hash or acid by an undercover constable
+- Kundeus offered the constable mescaline, which he accepted but Kundeus ended up giving him LSD
+- Convicted at trial, but appealed on the grounds that Kundeus was intending to sell mescaline, a drug not prohibited under the *Food and Drugs Act*
+- Appeal court set aside the conviction
+- Couple different ways to view this situation
+- Kundeus was offering LSD for sale, and handed the constable two vials of LSD for payment
+- However, you can also argue that the specific offer to the constable was for mescaline
+- Both Kundeus and the officer thought the substance was mescaline, only way they found out it was LSD was after it was examined by the police
+- Can argue that in the trial case, when the Crown proved that LSD was sold it created a presumption that Kundeus knew what he was selling
+- Given that the defence called no evidence and only raised the defence of mistake after the conviction, can't go back and retract the conviction
+- Majority followed this view, appealed allowed and conviction reinstated
+### Dissenting Opinion
+- The *Food and Drugs* act specifies two important categories, restricted and controlled drugs
+- LSD is a restricted drug, and selling it is punishable under s. 42 of the Act
+- Mescaline is not controlled or restricted, but is still illegal to sell under s. 15 of the *Act*
+- Also punishable by up to $5000 and three years under s. 26
+- This is a significantly lighter penalty than that for trafficking controlled or restricted drugs
+- Crown argued that *mens rea* was satisfied in this case because Kundeus had a "general intention to traffic in drugs"
+- Raises the issue of whether mistake of fact would have any effect in this situation
+- Even if Kundeus wasn't trafficking in a restricted drug, trafficking any drug was enough to earn him this severe penalty
+- Issue is whether proving intent to commit a lesser offence supports conviction on a more severe offence
+- This case also raises the issue of whether mistake of fact has to be reasonable, or just honest
+- Previously, the only standard required was honesty
+- Finally, the last issue is whether mistake of fact is valid if even according to the accused's belief, they were committing an offence albeit a less severe one
+- As we discovered in our discussion of [[R v Gordon|transferred intent]], the *actus reus* of an offence must coincide with the *mens rea*
+- Because of the relationship between mescaline and LSD, it's difficult to argue that trafficking mescaline can be considered equal to trafficking LSD
+- This decision is reflected in the work of several researchers of the "lesser crime" doctrine
+- In a previous case called *R v Custeau*, the accused was charged with trafficking a restricted drug, while they believed they were selling a controlled drug
+- The accused was acquitted
+- For a non-drug example, in *R v Ladue* the accused was charged with indecent interfering with a dead body, where the accused claimed they were intoxicated, and thought the dead woman in this case was alive
+- Weird example, as this would mean that the accused is actually admitting to instead committing the more severe crime of sexual assault
+- The accused was convicted on the original offence as knowledge that the body was dead was not required for the offence
+- One way to resolve this issue is for Parliament to make a decision on the matter
+- For example, in the US a defence is not available if proving the defence would make the accused guilty of another offence
+- This would eliminate the complication of either having to convict someone who likely did not commit the offence they were convicted of, or acquitting someone who clearly committed a crime
+- Appeal dismissed

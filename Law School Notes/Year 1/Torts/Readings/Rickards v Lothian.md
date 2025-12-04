@@ -1,0 +1,13 @@
+- Rickards sued their landlord, Lothian after someone maliciously plugged a sink and let it overflow in the bathroom above Rickards' business
+- No evidence of negligence found, judges relied on [[Rylands v Fletcher]]
+- Blackburn mentioned that "acts of god" do not impose liability
+- In another case called *Nichols v Marsland*, unprecedented rainfall caused ornamental lakes on the defendants property to overflow and flood their neighbours land
+- No negligence, but if the rainfall could have been expected it could have been accounted for by the construction
+- Wrongful act in *Fletcher* was not building the reservoir itself, but letting the water escape
+- In *Marsland*, the factor that led to the escape of the water was completely outside the control of the defendant, where at least Rylands could have reinforced the reservoir
+- Also mentioned that if the reservoir was destroyed by "the Queen's enemies", the result would be the same and the defendant would not be liable
+- Implies that the malicious actions of third parties do not create liability
+- Judges point out that when trying to create a modern plumbing system, it's pretty much impossible to make it tamper-proof
+- Unreasonable to hold the occupier liable for these kinds of issues
+- No support for Lothian being liable in this case
+- Judgement entered for Lothian

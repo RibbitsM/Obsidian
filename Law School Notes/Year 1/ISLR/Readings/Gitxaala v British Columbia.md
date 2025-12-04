@@ -1,0 +1,54 @@
+- Plaintiffs are arguing that a granting of mineral rights is inconsistent with UNDRIP
+- Finding of the court was that the act implementing UNDRIP into Canadian law doesn't actually make the declaration part of domestic law
+- This was an issue already raised in a previous case, and is yet to be definitively answered by the SCC, this was a BCSC case
+- Canada's endorsement of UNDRIP happened in 2016, but this was just a recognition of the declaration, didn't make it domestic law
+- Declaration is aspirational only and not a legally binding document
+- Also too vague to give actual direction to courts like the *Convention on the Rights of the Child*
+- DRIPA (the act implementing UNDRIP in BC) didn't come into force until 2019
+- First province to do this, and actually predated the federal equivalent
+- Sections 2, 3, 4, and 5 all impose some obligations on the BC government
+- Also, BC passed the *Interpretation Amendment Act, 2021* which requires all provincial enactments to be consistent with UNDRIP
+- Still unclear whether this incorporated UNDRIP into domestic law in BC
+- According to s. 3 of DRIPA, "the government must take all measures necessary to ensure the laws of British Columbia are consistent with the Declaration."
+- Unclear whether this lets people raise issues related to UNDRIP in court
+### Did DRIPA Implement UNDRIP Into Domestic Law?
+- Non-binding international instruments endorsed by the government are not binding until implemented through legislation
+- If this wasn't the case, the executive branch could change domestic laws by accepting international treaties or declarations
+- When legislation "implements" an international instrument, they have to do it explicitly
+- Also relates to distribution of powers, if Parliament wants to implement an instrument that deals with issues normally delegated to provinces, has to explicitly state that this power is being exercised by the federal government
+- BC, and the plaintiffs state that UNDRIP has not yet been "implemented"
+- BCHRC argues that it has, which was done by s. 2(a) "affirming the application of UNDRIP to the laws of BC"
+- Generally, implementation is understood as the point where the text of the international agreement has the same force as any domestic law
+- Province argues that the language in s. 2(a) doesn't do enough to meet this requirement
+- To support this interpretation, both the province and the plaintiffs point to statements made during Hansard debates
+- Section 2 sets out the purposes of the act, which include affirming the application of UNDRIP to BC law
+- These are not substantive provisions, just serves as a way to help interpret the act
+- This issue has come up before, in a case called *Greater Vancouver v British Columbia* where a statement of principles was held to not create any enforceable obligations
+- Because DRIPA doesn't have a preamble, the purposes are set out in a provision instead
+- Usually, when legislation implements a treaty it will say "X applies in British Columbia"
+- Also, the fact that DRIPA is supposed to 'contribute to the implementation' of UNDRIP also suggests that it's not intended to implement it itself
+- The fact that the Act also obligates the government to try and align BC law and UNDRIP suggests that implementation can't happen yet
+- Doesn't implement the declaration itself, just sets the groundwork
+- This was even explicitly stated in Hansard debate of the Act
+- Court holds that s. 2(a) does not implement UNDRIP into domestic law in BC
+### Does S. 3 Raise Justiciable Questions of Law
+- Supposed to interpret DRIPA with the assumption that it's consistent with UNDRIP
+- Justiciability means whether courts have the capacity to resolve a dispute
+- To answer this question requires considering what the authority of the Canadian court systems extends to
+- Determining justiciability depends on the context, and the test is whether addressing thee matter is an efficient use of resources and whether the claim has any grounds
+- Plaintiffs argue that s. 3 imposes a duty that takes effect whenever BC law is found to be inconsistent with UNDRIP
+- To test if a law is inconsistent, need to see if it adversely affects or impedes UNDRIP rights and duties
+- Language of DRIPA requires BC to take "all measures necessary" to ensure consistency
+- Includes an obligation to cooperate with Indigenous peoples to do this
+- If this is true, we need to also consider whether the *Mineral Tenure Act* is consistent with UNDRIP
+- Province argues that the word "ensure" in DRIPA isn't an imperative and doesn't impose a duty
+- While the word "must" does constitute an imperative, this only appears next to "take all measures"
+- Also, any duties imposed on the "Crown" only apply to the executive branch
+- Branch responsible for reforming statutes is the legislative branch
+- Section 3 can't modify legislation, because it only affects the executive
+- Executive branch has to work with Indigenous peoples, but not the legislative branch
+- Therefore, obligations under DRIPA are non-justiciable
+- Court determines that the courts have the ability to determine whether laws are consistent with UNDRIP, that's fully within their capacity
+- However, it doesn't create a requirement to do this, there's no imperative language outside of the single use of "must"
+- Also, s. 3 states that this consideration of consistency must be done in cooperation with Indigenous peoples, it's not done unilaterally
+- Final ruling is that ss. 3 doesn't obligate the courts to address issues of consistency, but does obligate the province to consult with Indigenous peoples

@@ -1,0 +1,84 @@
+- No structured recruit means no set deadlines or interview times
+- All employers are hiring based on business needs and employer resources
+- Usually, big firms and govt hire a year in advance, while smaller firms hire closer to start date
+- Smaller firms rely on unsolicited applications and informal meetings, posting jobs and formal recruits takes time and money
+- Hiring is a big investment, need to have an existing relationship
+- Large public interest orgs usually apply a year in advance, same for smaller ones
+- Need to have a demonstrated interest in whatever field they run in
+- Also should have volunteered with the org or similar causes
+- Check out Beverly Mclaughlin Legal Access award or Dean's Public Interest Fellowship
+- Usually it takes about 3-6 months to find an article with about 5-10 hours of work per week
+- If you're only applying to posted positions, it'll take like 1-3 years
+- Before you start, try to self-assess yourself, and make a system for keeping track of who you've already talked to
+- Visit the CSO so they can look at your resume and cover letter
+- Job search consists of networking, informational interviews, and cold applications
+- Tell everyone you're looking for a job, and be specific in terms of what you're looking for
+- Establish rapport, find new contacts and keep old ones
+- Allard has several ways to do this, the LSS, Canadian Bar Association, FACL BC (if you're Asian) all run networking events
+- If you do OCIs, you can talk to the lawyers you met through that process
+- CSO has a program called Confections and Career Connections that does meetups with medium sized firms
+- Informational interviews are meeting with lawyers to talk to them about what they do
+- Can help with figuring out what you want to do as a career, start now!
+- Don't send your resume, this is just an meeting to get information, not a job
+- Have prepared questions to ask the lawyer what you want to know, and follow up with a thank you note
+- This should help you build a list of firms that you want to target with cold applications
+- Do they hire articling students? are they in the area you want? are they the kind of employer you want?
+- You can check on ACE to see if an employer has hired students in the past, and how recently
+- Contact someone who is more experienced at that firm, usually a partner
+- Find someone you have some kind of common ground with
+- Even better if there's someone at the firm you already talked to
+- Make sure you're talking to a real person, not just sending a message to a general inbox
+- Application will involve a short cover letter in your email, and your resume
+- Send a follow up after 2 weeks, and if there's still no reply after a month, call them
+- Introduce yourself, tell them why you're calling and if they have time to talk
+- If they say they're not hiring, ask for advice and follow up in a few months
+- If they say talk to us in a few months, follow up
+- If they say they might be hiring, get a meeting
+- Broadening your job search can help a lot, especially geographically
+- Apply to basically any employer in a region you could reasonably live that you would be happy with for 9 months minimum
+- If the lawyer doesn't know the regulations for articling students, make sure you know so you can inform them
+- Shared articles are when you split your experience between two firms and two principles, may be good if the firm doesn't want to pay for a full article
+- Try to register to get licensed as a lawyer as soon as you can
+- In BC, you need a secured article position to register, but you can register anyway in the prairies and Ontario
+- You can also just wait, about 5-10% of Allard students don't article after grad
+### Success Stories
+- First girl got her article at a place in Port Moody, she lives there
+- Got matched with a mentor through an affinity group, who gave her the number of a colleague that she became friends with
+- Went to a bunch of family law events, and kept meeting the firm and inviting them to events
+- Very set on family law, knew from the start of 1L she wanted to do family law
+- Initially weren't looking for a student, but when she applied they gave her a meeting and hired her anyway
+- Second girl got her article by volunteering at a cat shelter
+- Other volunteer was a lawyer whose spouse was a partner at an immigration firm
+- Basically mentored her, got her meetings with a bunch of other immigration firms
+- Spouse's firm wasn't hiring, but was helping with the search
+- Eventually, the firm did end up hiring for a junior associate, and hired her as an articling student
+- Third girl got an article by making a list of all the firms by Maple Ridge (she lives there)
+- Went to the website of all the firms, goal was to find a full-service firm hiring solicitors
+- Look at the lawyers on each website and see if she knew anyone
+- At the firm where she did get a job, she recognized her from an affinity group
+- Asked for an informational interview to find out what the job was like
+- Ended up doing a formal interview and getting a job, mostly because they had a couple people at the firm advocating for her
+- The firm wasn't posting any jobs for students at the time, but made an exception for her
+- Fourth girl worked in the summer at a different place than she articled
+- Got really close, but ended up not lucking out in the OCIs
+- The person who interviewed her offered a connection at a boutique firm hiring for a similar position
+- Got the job there, and found a different firm when the articling process came around and applied there
+- Said that doing the structured recruit helped her by learning that even if you don't get a job, the people you meet in the process can help you
+- The job she ultimately got was because someone remembered her from her OCI
+- Out of all four, only two of them did OCIs and one girl only did one OCI just to see how it was
+- Overall, even if you don't want to work in big law it's probably worth it for the connections
+- If you want to work in mid-sized or small firms, better to find some way to get to know the partners personally or just cold email/call
+- Fourth girl got her job through a cold email, said that it's easier if you find someone to message who doesn't scare you as much, and practice makes it less stressful
+- Third girl talked about hating networking and cold emailing, but was helped by the fact that most lawyers you talk to are just genuinely chill and helpful overall
+- Tbh that's also been my experience so far
+- Also a lot of lawyers will offer to send your email to someone else
+- First girl talked about how most lawyers probably won't remember a single email, it's really not that serious
+- She's only been turned down for a coffee chat once, usually people are fine to do it
+- If you can get a mentor, do it because they're literally obligated to help you get a job
+- Second girl recommends going to club events and CSO events to meet lawyers, but make sure to send them an email after!
+- You can also ask the CSO to review your cold email, it can help make you less nervous
+- Third girl also had a mentor because her neighbour was a lawyer, he couldn't give her referrals because he worked out in Chilliwack, but gave her a lot of advice
+- If you're applying somewhere outside of Vancouver, make sure to emphasize it if you have some kind of connection to the area
+- A lot of smaller firms will be worried about their students leaving to move to Vancouver
+- Fourth girl got a mentor through the women's caucus, but didn't help that much since she didn't work in the same area of law and worked outside of Canada
+- Still nice to have someone to talk to who works in law, even if they can't directly help you

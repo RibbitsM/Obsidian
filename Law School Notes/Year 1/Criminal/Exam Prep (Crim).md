@@ -1,0 +1,108 @@
+- According to [[R v Chapin]], public welfare offences are presumed to be strict liability
+- Criminal Code offences are presumed to be subjective fault offences
+- This offence comes from outside the Criminal Code, so we can presume that this is a strict liability offence
+- There is no language in the offence directly suggesting *mens rea*, although you can imply that there is a knowledge requirement that the person possessing/selling/importing an animal can correctly identify the animal
+- *Mens rea* is not whether they knew it's in Schedule 2, that's mistake of law
+- Highly unlikely that this would be absolute liability as this is a hybrid offence, and the punishment even for summary conviction is quite severe
+- Also unlikely that this would be an objective fault offence, even if there is a *mens rea* element, nothing in the wording of the offence implies an objective standard
+- Presumption is that this is a strict liability offence, which is what the Crown will argue
+- To help out Angus, we should attempt to argue that this is actually a subjective fault offence, based on the severity of the punishment and the text of the offence
+- The textual evidence is quite weak, but the severity of the penalty is very unusual for a public welfare offence
+- If the Crown proceeds with summary conviction, proving this will still be difficult but it shouldn't make much of a difference
+- After all when it comes to interpretation, it doesn't really matter how the offence is being charged in this specific case, the fact that it's a hybrid offence may be enough
+- If the Crown's argument succeeds, can Angus successfully raise the defence of due diligence?
+- Potentially, he could be seen as being diligent by only attending "reputable" auctions which would presumably only sell legal reptiles
+- Depends on what he means by "reputable"
+- Even if we succeed in arguing that this is a subjective fault offence, he may still be convicted
+- Can't argue that he didn't know the snake was endangered, that's a mistake of law
+- Only possible argument is that he thought it was a different kind of snake
+- Unlikely to succeed, he owns a zoo and is probably good at identifying reptiles, unless he can show that the tank was labelled otherwise or that the auction presented it as another kind of snake, this argument will likely fail
+### Question 1
+- Start by mentioning the Crown has to prove guilt BAR
+- Then, move on to determining the elements of the offence
+- Criminal negligence (s. 219) requires doing or omitting something that it is your duty to do, causing death
+- *Mens rea* is objective fault, Crown has to prove a marked and substantial departure from the conduct of a reasonable person, established by [[R v JF]] and [[R v Tutton]] (You can use either)
+- What's the duty at play here?
+- This is an omission problem, what is being punished is a failure to do something
+- Duty has to either be found in statute, or in the common law
+- Probably the best option here is s. 217 which states that "Every one who undertakes to do an act is under a legal duty to do it if an omission to do the act is or may be dangerous to life."
+- According to [[R v Nette]], the omission has to be a significant contributing cause of death
+- Can argue that this is a thin-skull case, Cooper would not have been harmed as significantly if he was not so young ([[R v Blaue]])
+- Another issue is whether the chain of causation was broken in the hospital
+- Probably reasonably foreseeable that Cooper may be infected in the hospital
+- Defence counsel for Bianca would likely argue otherwise, the chain of causation was broken
+- Try to avoid repeating arguments you've already talked about
+- Best argument is probably pointing out that the situation here was so ridiculous that it would be unreasonable to suggest Bianca could have foreseen this
+- Another issue that might arise is whether we should consider personal circumstances when evaluating the marked and substantial departure
+- Probably doing too much, but you can mention [[R v Javanmardi]] if you want
+- Make sure to mention the included offences as well, even if the Crown can't prove Bianca caused death, can still be convicted for criminal negligence causing bodily harm
+### Question 2
+- *Actus reus* would be proven easily, Angus clearly exhibited a species listed in Schedule 2
+- Nothing in the statute that explicitly suggests any sort of fault requirement
+- Could classify this as a public welfare offence, as it's outside the Criminal Code
+- Mention *Chapin* was the precedent for this
+- Also would likely not be absolute liability as that poses a charter challenge coming from [[Re Section 94(2) of the MVA]]
+- Can also argue that because this is potentially an indictable offence it could be a true crime and therefore would likely be subjective *mens rea*
+- Two options here, can either proceed under strict liability or subjective fault
+- In a case like this where there are multiple different options, want to address both options, and discuss what difference this makes on the facts
+- Entirely possible that this wouldn't make any difference
+- In the case of subjective fault, he might be able to argue mistake of fact, but because he pretty clearly knows what kind of snake it is, likely doesn't matter
+## Practice Session 2
+- The [[Constitution Act of 1867]] gives the government exclusive jurisdiction over criminal law under s. 91(27)
+- This act is also called the BNA Act, one way provincial laws can be *ultra vires* is if they're crim related
+- Common law offences were abolished under ss. 8 and 9 of the [[Criminal Code]] but defences were allowed
+- Criminal offences can only be enacted by Parliament, and cannot be applied *ex post facto*
+- Only exception to this is the offence of contempt of court
+- Defences were allowed, given that it benefits the accused
+- Any indictable offence allows the accused to choose between trial by jury or by judge alone
+- However, some indictable offences are in the exclusive jurisdiction of the province
+- In these cases, they do not allow this option, a list of these offences can be found under s. 553 of the [[Criminal Code]]
+- The more correct answer would be that any indictable offence punishable by 5 years or more allow this option, as this excludes all the s. 553 offences
+- Ordinarily, the division is at 2 years, but under the *Charter* you need the option for a jury trial for any offence punishable by 5 years imprisonment or more
+- Murder always grants the right to trial by jury, and in fact this is presumed as the default option
+- Crown has to consent if the accused wants to proceed with a judge trial
+- The highest trial court in BC is the BC Supreme Court, the BCCA is higher, but it's an appeal court
+- In other provinces, this court is called the "Superior Court" or "Court of Kings/Queens Bench" (this depends on who the current monarch is)
+- The Crown will satisfy its evidentiary burden by proving all elements BAR, although this is actually a requirement for a persuasive burden
+- Proving BAR is more than enough to pass the evidentiary burden
+- For the accused, to reach a persuasive burden they have to prove their case on a balance of probabilities, this is higher than raising a reasonable doubt
+- For an evidentiary burden, they just have to provide evidence to the contrary
+- Placing a persuasive burden on the accused is constitutional as long as it would be reasonable to conclude that the presumed fact exists
+- The same issue applies for evidentiary burden, but these are easier to justify under s. 1
+- If the trier of fact doesn't believe the evidence from the Crown or the accused, they must acquit because they would have reasonable doubt
+- Assault is an included offence in aggravated assault, but assault with a weapon is not because aggravated assault can be done without a weapon
+- Depending on the facts and the charge, this is definitely possible though
+- Unlawfully causing bodily harm is not an included offence, because it has a different *actus reus*
+- Recall that this was the offence from [[R v DeSousa]], and can result from pretty much any criminal offence as long as it causes bodily harm
+- Technically, proving aggravated assault does suffice for this because that would be the unlawful act for this offence, but would pretty much never be charged over simple assault
+- Criminal liability can be imposed for failing to carry out a duty imposed by statute or under common law, as well as omissions that are directly criminalized
+- An example of the latter option is the failure to mark or cover a hole in the ground/ice
+- This is super common in regulatory offences, especially occupational health and safety
+- The "but for" test is a test of factual causation, which doesn't impose criminal liability, but it's the first step in proving legal causation
+- A significant contributing cause is the test for legal causation, which is technically the same thing as the *de minimis* test, but that language is no longer used
+- A substantial and integral cause is the test from [[Lecture 10 (Crim)|Harbottle]]
+- When it comes to proving causation, whether an infirmity of the victim was reasonably foreseeable is not relevant, that's the [[Lecture 10 (Crim)#R v Blaue|thin-skull rule]]
+- The consideration of whether an intervening act was independent of the accused comes from [[R v Maybin]]
+- Motive is not an element of subjective fault but is a valid consideration, this was determined in [[R v Lewis]]
+- The three main elements are intent, knowledge/wilful blindness and recklessness
+- Wilful blindness means choosing to not pursue knowledge, recklessness is recognizing a risk but proceeding anyway, negligence is when they reasonable should have seen a risk
+- Can also describe wilful blindness as suspecting actions will lead to a certain outcome, but choosing not to confirm these suspicions
+- You need to have some sort of suspicion for wilful blindness, think about [[R v Briscoe]]
+- Judges have a lot of discretion when it comes to instructing on lack of motive, but you can think about motive as a spectrum
+- On one end, the court has proven motive, and on the other end the defence has proven there is no motive, most cases fall somewhere in the middle
+- In a case where the defence has a strong case that no motive was proven, the judge will likely be required to instruct on motive since it benefits the accused
+- Additionally, if the identity of the perpetrator is an issue, motive could be important
+- The federal government can create criminal offences outside the *Criminal Code*, think of drug offences
+- Offences in provincial statutes are always public welfare offences, since they cannot make criminal offences under the *Constitution*
+- We know from [[R v City of Sault Ste Marie]] that all public welfare offences are presumed to be strict liability offences, not absolute liability offences
+- Strict liability offences can have the possibility of imprisonment, we saw this in [[Re Section 94(2) of the MVA]]
+- Not all true crimes require subjective *mens rea*, though that is the presumption
+- We also have offences that can be punished by imprisonment that don't have subjective *mens rea*, think about manslaughter
+- We do know that all offences that carry a "special stigma" require *mens rea*, this was established by [[R v Martineau]]
+- The *actus reus* of dangerous driving is that the driving was objectively dangerous, and the *mens rea* is that the accused's conduct was a marked departure from the reasonable driver
+- In cases of criminal negligence causing death, the court ruled that the objective test will not be modified unless the accused was incapable of assessing risk, comes from [[R v Creighton]]
+- Not relevant that the accused wasn't often fulfilling their duty to take care of their children, this was determined to be evidence of guilt in [[R v Stephan and R v Goforth|R v Goforth]]
+- This can be relevant depending on the circumstances, say if a father is in the military
+- Based on s. 7 of the *Charter*, we know that not all *actus reus* elements have a corresponding *mens rea* requirement
+- Also, we've establish that not all true crimes require subjective *mens rea*
+- Two fundamental principles of justice are that *mens rea* should be proportionate to punishment and stigma, and everyone is presumed innocent until proven guilty

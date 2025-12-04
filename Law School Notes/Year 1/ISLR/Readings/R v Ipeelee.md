@@ -1,0 +1,58 @@
+- Section 718.2(e) of the Criminal Code is the provision specifying that alternatives to imprisonment should be considered especially for Indigenous offenders
+- Used as part of the sentencing principles
+- Indigenous offenders are especially overrepresented in provincial prisons compared to federal ones
+- First time s. 718.2(e) was addressed was in *R v Gladue*
+- Court held that this provision was created to curb the issue of the overrepresentation of Indigenous peoples in prisons
+- Calls for different sentencing principles for Indigenous offenders
+- Must consider the systemic factors leading to the offenders presence in the courts and what alternative sentences would be appropriate based on the offenders Indigenous background
+- Courts have historically been hesitant to apply the first element
+- This isn't used to justify an alternative sentence on its own, but provides a different context to view the facts from
+- In practice, this is done via the collection of individualized information about the offender called a *Gladue* report
+- Kind of pre-sentence report for Indigenous offenders
+- This is basically a band-aid fix, just sentencing less Indigenous people to imprisonment isn't going to fix the underlying factors that led them there in the first place
+- Despite these efforts, it seems that the overrepresentation of Indigenous peoples in prisons has worsened
+- It's been a decade, and it seems that s. 718.2(e) has not done anything to remedy this serious issue
+- There have been many valid critiques of this approach which may explain why it hasn't had a significant effect
+- First, sentencing is an inappropriate way to fix overrepresentation
+- Second, this provision has the effect of lowering sentences based on the race of the offender
+- Third, giving Indigenous offenders special treatment is inherently unfair and violates key legal principles
+- There are only two real explanations for the overrepresentation of Indigenous people in prisons, either they commit more crimes compared to other groups, or are being discriminated against
+- It seems like the true answer is a combination of the two
+- However, sentencing judges can still have a significant effect on both of these factors
+- First, they can try reducing crime rates in Indigenous communities by imposing sentences that encourage rehabilitation
+- By tailoring sentences to Indigenous peoples specifically, we can hopefully reduce recidivism rates and community crime rates
+- Second, sentencing judges can pay attention to the systemic factors that impact discrimination in sentencing
+- For example, stable and employed offenders are less likely to be sent to jail compared to an unemployed person committing the same offence
+- Viewed this way, the purpose of s. 718.2(e) is to rehabilitate criminals and provide proportional sentences, which aligns excellently with the principles of sentencing
+- Parliament wasn't trying to create new goals for sentencing, but adjust it to make sure it fulfills its existing goals better
+- This also isn't the be all and end all of the efforts to end Indigenous overrepresentation in prisons
+- This is even acknowledged in the *Gladue* decision
+- Also important to mention that the provision is not an automatic reduction of a sentence, just a consideration
+- In fact despite all the uproar over reduced sentences for Indigenous criminals, it seems like this hasn't even happened
+- Courts have consistently stated that this is not the purpose of s. 718.2(e) and have not applied it as such
+- The methodology coming from *Gladue* only reduces sentences in the cases where the circumstances of the offender warrant it
+- These systemic factors may play a role in mitigating the guilt of the offender, depending on the circumstances
+- While it is highly unlikely this will completely exonerate them, it will certainly limit their culpability
+- Therefore, they should be incorporated into sentencing as sentences should be proportionate to the responsibility of the offender
+- Additionally, in these circumstances it is often true that a restorative sentence will be far more effective than a punitive one
+- It seems pretty clear that existing sentencing principles have not been effective at dealing with Indigenous offenders
+- This is likely due to the difference in world views and views on justice between Indigenous and non-Indigenous peoples
+- We shouldn't assume that all offenders share our values
+- The court is not trying to lower the incarceration rates of Indigenous peoples regardless of guilt, they are trying to find sentences that are appropriate given the circumstances
+- Even outside of this provision, trial judges are expected to take into account individual factors like life experience
+- Finally, the criticism that this is unfair assumes that there is no difference between Indigenous and non-Indigenous offenders
+- This ignores the significant effect that the legacy of colonialism has on the experience of Indigenous offenders
+- Even among other marginalized offenders, Indigenous peoples have a unique experience of oppression
+- Also, s. 718.2(e) doesn't prevent the same factors from being considered for non-Indigenous offenders as well
+- The parity principle is pretty broad, the "similarity" between two offenders is very difficult to find
+- When it comes to the application of *Gladue*, one major issue is that the courts have falsely suggested that there must be causation between the background factors and the offence itself
+- For example, in *R v Poucette* the Alberta Court of Appeal refused to consider *Gladue* factors as there was no clear evidence that the offender had been affected by colonialism
+- Creates a false evidentiary burden on offenders as well as ignoring the intergenerational effects of colonialism
+- It's extremely difficult to establish any causal link between these circumstances and an offence, it's too complex
+- Plus, it's not like those circumstances are being used to justify the conduct of the accused, just to inform the sentencing
+- Unless the circumstances have an effect on culpability, they won't change the final sentence
+- Additionally, there is a misinformed idea that the *Gladue* principles do not apply to serious offences
+- Judges have a duty to incorporate these principles in all relevant cases, it's part of the *Criminal Code*
+- Also, there is no clear definition of what a "serious" crime even is
+- It could reasonably argued that this means any offence which carries a risk of jail time, which would make s. 718.2(e) irrelevant
+- *Gladue* principles are required to be applied in all cases with an Indigenous offender, lest we hand out a sentence that is inconsistent with the principle of proportionality
