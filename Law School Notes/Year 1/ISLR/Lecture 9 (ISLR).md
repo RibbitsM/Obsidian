@@ -16,7 +16,7 @@
 - Indigenous youths were presumed to be criminals, and this presumption is never really challenged
 - Defence argued that Stanley's actions were reasonable, the fear created by seeing Indigenous youth on your property would cause anyone else to do the same thing
 - These narratives were also reflected in the media coverage, and certain factors from Boushie's life were strategically ignored and brushed away
-- Firearm experts suggested that the killing was entirely intentional, and eve if it was accidental, it was a sign of great negligence on his behalf
+- Firearm experts suggested that the killing was entirely intentional, and even if it was accidental, it was a sign of great negligence on his behalf
 - Defence relied mostly on appealing to Stanleys family values and the emphasis that anyone on the jury would have done the same in the situation
 - Many anonymous racist comments online came out, expressing that Colten deserved what was coming to him
 - Stanley himself never contested that he didn't kill Colten, he even said as much when the police arrived at the scene
@@ -98,4 +98,3 @@
 - One way that *Gladue* may actually be increasing conviction rates
 - On the other side of the issue, there are many factors before the court appearance that lead to overincarceration, mostly the overpolicing and oversurveillance of Indigenous peoples
 - We've also seen a recent trend of governments cutting support for the most vulnerable sectors
-- 

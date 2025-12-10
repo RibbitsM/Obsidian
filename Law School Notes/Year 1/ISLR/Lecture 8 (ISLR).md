@@ -54,7 +54,7 @@
 - A similar case was the Moushoom and Trout class action lawsuits
 - Compensation was issued for both the tribunal decision and the class action suits
 - First Nations Child and Family Caring Society is different from the First Nations Child and Family Services Program
-- Former is the organization bringing the sui, second is the organization the suit was levied against
+- Former is the organization bringing the suit, second is the organization the suit was levied against
 - Federal court approved the Settlement and Claims process for this suit, and the claims period opened earlier this year for the first two classes
 - Includes nine different classes who may be eligible for compensation
 - First Nations government ended up backing out of the requirement to take on long term reform

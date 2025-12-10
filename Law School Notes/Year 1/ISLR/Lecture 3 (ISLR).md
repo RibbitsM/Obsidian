@@ -48,7 +48,7 @@
 - ss. 3 and 4 extend recognition to modern treaties and affirm the gender equality of these rights
 ### Aboriginal Rights
 - Significant question was what the term "aboriginal rights" even referred to
-- In [[R v Van der Peet]], Justice lamer argues that this definition cannot be based on values of liberalism
+- In [[R v Van der Peet]], Justice Lamer argues that this definition cannot be based on values of liberalism
 - Another approach is to define the practices, customs, and traditions of these cultures prior to contact for First Nations and Inuit, and prior to govt control for the Métis
 - These are not the inherent rights of Indigenous peoples, this is a framework allowing some of these inherent rights to be transposed into Canadian constitutional rights
 - Leaves many questions open of how these rights relate to the state, R v Sparrow allowed the govt to infringe on aboriginal rights
@@ -92,4 +92,3 @@
 - Excellent example of [[Culture, Self-Determination and Colonialism|the snare]] in practice
 ### Discussion Group
 - Final is open book, 2 hours, with 1 essay question and some short answer
-- 

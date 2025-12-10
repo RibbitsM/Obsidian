@@ -108,4 +108,3 @@
 - Half of that comes from the group mark, other half is from an individual reflection submission
 - You'll have to do the journal on a different week than the class discussion
 - You should consider the supplementary readings in your journal/discussion, but the required readings will take precedent
-- 

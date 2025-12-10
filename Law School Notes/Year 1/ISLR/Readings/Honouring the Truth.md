@@ -1,5 +1,5 @@
 - First residential school was Roman Catholic, located in Quebec city
-- Created in thee early 17th century, very unsuccessful
+- Created in the early 17th century, very unsuccessful
 - Didn't try again until the project was revived in Mi'kmaq and Maliseet land in the 1820s
 - Superintendent of schools officially endorsed the project in 1847
 - Prompted the opening of several methodist schools, and began receiving federal grants once Canada was established in 1867

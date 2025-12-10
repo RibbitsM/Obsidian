@@ -37,4 +37,3 @@
 - Additionally, prior to the sale to the third party, the party was allowed to set up a screening plant and start removing all material not being used by the grantee
 - Grantee was only there to quarry basalt, and the license did not allow them to do anything else
 - Overall, pretty clear that there was no exclusive right of possession, this was a license
-- 

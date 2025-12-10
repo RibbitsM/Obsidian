@@ -48,4 +48,3 @@
 - Rebuilds social connections, enables an opportunity for sharing stories and grounds community in cultural practice
 - Resisting imperialism is not achieved through rights, or treaties, or a constitution
 - It's done through reinforcing the connection to cultural stories and practices
-- 

@@ -1,0 +1,21 @@
+- Both appellants were renters in London, England, and complained that their flats had no sound insulation and they could hear everything their neighbours did
+- Neither tenancy agreement promised sound insulation
+- Additionally, there is no implied term in lease agreements stating that the property is fit for the purpose it's leased for, in this case fit for living
+- Landlord has an obligation to keep the flat in repair, but this doesn't extend to making improvements to the flat like adding sound isolation
+- Also important to note that this is social housing, their landlord is the respondent, the Southwark London Borough Council
+- Unlikely that the tenants would have had any bargaining power to get a promise like this, but that's Parliament's job to protect tenants
+- Suing for breach of right to quiet enjoyment and nuisance instead
+- Parliament has seen complaints of a lack of soundproofing before and has yet to make it a requirement, likely because it would be too expensive
+- Housing law deals with the allocation of resources balanced against democratic priorities, and the courts should respect those priorities
+- Despite how it appears on the surface, the right to quiet enjoyment has nothing to do with noise, it's the right to possession without interference or interruption of possession
+- Basically means that the landlord can't mess with their rights to the property
+- To establish breach of quiet enjoyment, there needs to be a substantial interference with the tenants ability to use the land in an ordinary lawful way
+- This can be done a couple different ways, two examples are a landlord banging on the door and loudly threatening eviction (*Kenny v Preen*) and a flood of agricultural land where the water came from a neighbouring tenant under the same landlord (*Sanderson v Berwick-Upon-Tweed Corpn*)
+- Previous case called *Phelps v City of London* held that it's doubtful that a nuisance by noise would amount to a breach of quiet enjoyment
+- Other element of quiet enjoyment is that the landlord **will** not interfere with the tenant's lawful possession, which protects against potential future intrusions
+- Here, there's no evidence that the tenants knew the flats weren't soundproof before they moved in
+- Also, we can reasonably assume they expected to have neighbours, therefore the only thing they have issue with is the lack of soundproofing
+- Overall, accepting breach of quiet enjoyment as a valid action would be going against what the covenant has previously been understood as
+- Only way this could have been a breach was if the noise was somehow caused by the landlord, and could not have been predicted in advance by the tenants
+- For example, if the landlord was letting people walk on the roof and it was causing noise, that might amount to a breach of quiet enjoyment
+- Decision made for the respondent (Southwark LBC)
