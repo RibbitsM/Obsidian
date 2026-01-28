@@ -1,0 +1,149 @@
+- Long before the Charter was created, rights were protected by the common law
+- Can be divided into political (participation and voting) and civil (freedom of speech, religion) rights
+- Rule of law in general gives protection for individual rights, as it binds the actions of the state
+- Also ensures some measure of equality as all people have to follow the same laws
+- For a long time, individual rights came from the common law and were enforced by the courts
+- However, this meant they could still be restricted by statute
+- Can argue that Parliament is bound to respect these rights even if they technically can remove them at any time
+- Another way to argue this is that common law rights are also interpretive presumptions, meaning courts will usually interpret statutes to avoid violating these rights
+- Rights can still be removed when the intention is clear
+### Roncarelli v Duplessis
+- Roncarelli was a restaurant owner who sued Duplessis, the Premier of Quebec, for wrongfully revoking his liquor license
+- Restaurant had been licensed for many years, given to Roncarelli by his father
+- License cancelled in 1946 by the Liquor Commission, and refused renewal
+- Roncarelli was a Jehovah's Witness, a community strongly opposed to the Catholic Church at the time, and the province had begun to crack down on them
+- Started arresting Jehovah's witnesses for distributing JW pamphlets and materials
+- Roncarelli often posted bail for these people, since he was pretty well off
+- Didn't have to actually pay, basically "put it on his tab" since he knew these cases would pretty much always not proceed and he wouldn't have to pay
+- Most of these charges likely could not even be prosecuted, but were laid anyways
+- Eventually, the province required cash bail and Roncarelli stopped paying
+- He never actually distributed JW materials, but he was an adherent and often had posted bail for other adherents
+- Province deemed Roncarelli's liquor license as a privilege that could be withheld as punishment for his aid to the enemies of the Catholic Church
+- Basically used him as an example to deter other people from aiding the JW
+- Court found that high end restaurants like this one were expected to have a liquor license, and relied heavily on one as part of the appeal of the business
+- Pretty clear that the decision to cancel to license had nothing to with the restaurant
+- While cancelling licenses is left to the discretion of the relevant commission, this should not be seen as an unlimited and arbitrary power
+- There is an implication that this power should be used in good faith, to do otherwise is equivalent to fraud or corruption
+- Legally speaking, Roncarelli did nothing wrong
+- Duplessis breaches his implied duty to Roncarelli by abusing his power to punish him for an act irrelevant to the liquor statute
+- Commission may be immune to damages, but Duplessis is not
+- Awarded substantial damages on the grounds that his restaurant business was severely harmed
+- This case ended up being a foundational part of the "judicial Bill of Rights"
+## Rights and Federalism
+- Another way that rights are protected comes from how federalism and the division of powers work
+- Federalism does this by separating groups that would otherwise clash
+- A great example of this is how different provinces have a broad mandate on education
+- However, provinces can't negatively affect religious schools from pre-Confederation, and any prejudicial treatment afterwards can be appealed to the Cabinet
+- Also, the fact that Quebec exists at all is a good indication of how federalism reduces conflict
+- For a good part of Canada's history, there was a large degree of racial discrimination against Chinese and Japanese people in western Canada, mostly BC
+- Most early discrimination was in immigration law (head tax), and later discrimination was in labour law
+- Mostly created by the tension between White desire for cheap labour and fear of White labour being replaced by Asian workers
+### Union Colliery Co v Bryden
+- At the time there were ongoing talks about excluding Chinese workers from mines, because not being able to speak English was a safety issue
+- Happened in 1890, s. 4 of the *Coal Mines Regulation Act* was modified to do this
+- Several attempts were made to get it declared unconstitutional, especially from mine owners
+- This case was from a shareholder of Union Colliery declaring a mine was violating the law, hoping that it would be declared *ultra vires*
+- To do this, they appealed to the Privy Council from the BCCA
+- Under s. 92(10) of the 1867 Constitution, provinces can legislate on coal mines
+- However, s. 91(25) says that only the Fed can rule on "naturalization and aliens"
+- Clearly this doesn't apply to the children of immigrants, but could conceivably apply to immigrants who had already been naturalized
+- Section 4 does relate to coal mines, but also only applies to aliens, or naturalized subjects
+- Thus, it's *ultra vires* and should be considered of no force
+- Appeal allowed
+### Cunningham v Tomey Homma
+- Respondent here was a naturalized Japanese man who was on the voting register for Vancouver
+- However, provincial law prevented Japanese people from voting
+- Just like in the previous case, this may be *ultra vires* because under s. 91(25), the federal government has exclusive jurisdiction over aliens and naturalization
+- Additionally, the *Naturalization Act of Canada* grants naturalized aliens all political rights, powers, and privileges granted to any natural-born Canadian
+- Can argue that this isn't *ultra vires* because it would also apply to Japanese people born in Canada
+- Also, it's kind of ridiculous to suggest that any provincial law that mentions aliens or naturalization is *ultra vires*
+- Judge argues that while the responsibilities of Canadian nationality can't change from province to province, the privileges can?
+- Also mentions that *Bryden* was different because the goal of that regulation had nothing to do with coal mines, just restricting Chinese labour
+- Appeal allowed
+- *Tomey Homma* went against *Bryden*, and went on to be interpreted as removing the protections against racial discrimination created by that case
+- Revealed that these decisions were made on a racial logic
+- The labour laws weren't ok because Asian and European workers were functionally similar, but for voting and other laws, racial differences were seen as significant enough
+### R v Quong Wing
+- Saskatchewan created the *Female Employment Act* in 1912 which prevented white women from working or staying in any establishment owned by an Asian person
+- Btw that's all that it did lol
+- Quong Wing owned a restaurant where two white women worked as servers, and was charged under this act and convicted, and appealed to the SCC
+- Argued that the *Act* was *ultra vires*
+- Judge pointed to the *Tomey Homma* decision as evidence that not all racial laws were *ultra vires*
+- Goal of this legislation seems to be the protection of white women and their employment, which seems to be in the provincial jurisdiction
+- Provinces can pass laws regarding property and civil rights
+- Additionally, same as in *Tomey Homma*, this is discrimination on racial grounds which is ok, but discrimination based on citizenship isn't
+- Appeal dismissed
+#### Dissenting Opinion
+- Argues that freedom and equal opportunity before the law are imperative to British law, and should not be able to be restricted by the legislature
+- Also points to the *Naturalization Act* as evidence of this
+- Additionally, the Chinese people affected by this act are there because of naturalization at some point in history, which implies a connection to "naturalization and aliens"
+- If someone has become a British subject, that should mean they are of good character and are deserving of equal treatment
+- Argues the provision should be construed as only applying to non-naturalized immigrants
+- Another judge argues that the racial language of the *Act* implies that there is no relation to naturalization
+- The Saskatchewan Legislature was dealing with a local situation, and should be allowed to do so
+### Internment Camps
+- Confiscation of property, internment, and deportation of Japanese Canadians was imposed under the *War Measures Act* in 1942 in response to Japan's involvement with the Axis
+- While most of this was allowed, the deportation was challenged at the Privy Council
+- The Council argued that this was *ultra vires* as it was a federal order regarding property and civil rights, a provincial responsibility
+- However, it was done as part of emergency measures, meaning the federal government had additional freedom to act beyond the limits of federalism
+- Also held that deportation was not necessarily limited to non-citizens
+- When the Charter was being created, the National Association of Japanese Canadians made special mention of Canada's legacy of racism
+- Goal of the Charter was to make sure that what happened to them never occurred again
+### Switzman v Elbling
+- Challenge to the *Act to Protect the Province Against Communistic Propaganda*, a Quebec law that criminalized allowing someone within their house to promote communism (s. 3)
+- Switzman's landlord tried to evict him for supporting communism, argued that this law was *ultra vires* the province
+- Argument in support of the law was that the province has power over property, which extends to governing acts committed on that property
+- However, it's immediately pretty clear that the province does not have unlimited power in this regard, and cannot do things like remove property from criminals as criminal law is for the Fed
+- Court also pointed out that outside of sedition, obscenity, and libel, there are no commonly placed restrictions on speech and literature
+- Unlike those categories, there is nothing in this provision that seems to protect the civil liberties of others, just hurting the offender
+- Goal is to protect people from the dangerous idea of communism, basically removing the ability of citizens to think for themselves
+- Only real argument to be made is that this is a local matter, and Quebec has some special need of protecting its citizens against communism
+- Judge goes on to discuss the preamble to the 1867 Constitution and how it demonstrates the importance of having freedom of opinion and a free spread of ideas
+- If the government did want to do something like this, it would have to be in the criminal law
+- Appeal should be allowed, entire statute declared *ultra vires*
+- Another judge made a similar argument, pointing to the importance of free expression to democracy, and arguing that such a right can't be limited by the province
+- Only way province can do this is if it's necessary to protect private rights like with defamation
+#### Dissenting Opinion
+- Argues that while the province can't make criminal law, they can make laws designed to prevent the creation of crime
+- Since communism is inherently treasonous, seditious, and subversive, this act prevents crime
+- Just a civil sanction designed to prevent future crime
+- Spreading dangerous doctrine is an abuse of le freeze peach which is a privilege, not a right
+- Argues that the appeal should be dismissed
+- Bro got turbo mogged because the rest of the SCC agreed to allow the appeal
+### Dupond v City of Montreal
+- Challenge to a municipal law banning all public gatherings for a month
+- Argued this was an *ultra vires* criminal law, and infringed fundamental freedoms
+- Again, the 1867 Constitution was cited as the origin of these freedoms
+- Court found that the challenge was too vague, and rejected it for several reasons
+- None of the freedoms they mentioned were explicitly part of the Constitution
+- There was also no right being violated that made it specifically federal or provincial
+- Freedom of assembly and association is distinct from holding gatherings and parades and other such events
+- No right to hold a public meeting on public land like a park or highway existed at the time
+- This matter is also not in a clear jurisdiction
+- The *Canadian Bill of Rights* doesn't apply to provinces/municipalities
+- Appeal dismissed
+## Canadian Bill of Rights
+- Enacted in 1960 by Diefenbaker
+- Influenced by the UNDHR and the American Bill of Rights
+- It's functionally just a federal statute, but it's kind of part of Canada's Constitution
+- Only governs federal matters, and can be amended normally
+- Because of it's weird status, causes issues like retroactively striking down laws made before the Bill was created
+- How expansive is it? Unclear whether it can actually strike down new statutes or if it's just an aid for interpretation
+- In the past, the SCC has not interpreted it very liberally
+- Early example is *The Queen v Drybones* where a status Indian was charged being intoxicated off reserve under the *Indian Act*
+- However, local legislation had an almost identical public drunkenness charge with much lower penalties, but Drybones was charged under the *Indian Act* because he was status
+- Challenged this under the right to equality from s. 1(b) of the Bill
+- SCC states that the Bill wasn't just an aid to interpretation, main issue was that the liquor laws predated the Bill
+- Will an earlier statute bind a later one?
+- Seems like the Bill of Rights can do this, as it dictates the manner in which future statutes will be drafted, requiring a "notwithstanding" clause to avoid the Bill
+- However, the SCC also held that the Bill does not create new rights, only recognizes old ones
+- Calls this the "frozen rights" approach, widely criticized
+- This discrimination ended up being rejected, as not doing so would allow discrimination as long as it was applied evenly to a specific group
+- Later on, a challenge to [[Settler Colonialism in Canada|s. 12(1)(b)]] of the *Indian Act* rolled back this reasoning as it allowed discriminatory status assignment for Indian women
+- As long as all Indian women were treated the same, the provision could stay
+- Another example of using this argument to create gender discrimination was found in the *Unemployment Insurance Act*
+- This act had additional requirements for pregnant women claiming unemployment benefits
+- Court ruled that the discrimination was created by nature, not law as it only negatively affected women because men can't get pregnant???
+- Requiring additional qualifications for pregnant women was achieved to achieve the objective of equitably distributing unemployment insurance
+- Today, the most important parts of the Bill are the property protections (s. 1(a)) and requirement of a "fair hearing" for determining rights and obligations (s. 2(e))
+- This is because both these sections exceed the Charter in some way

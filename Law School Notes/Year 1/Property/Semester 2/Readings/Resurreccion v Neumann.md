@@ -1,0 +1,18 @@
+- Appeal on whether a tenancy was lawfully ended to allow occupancy of the landlord or a family member
+- Neumann claims she was kicked out of the unit but later found the unit listed on Airbnb
+- RTB Arbitrator found this argument convincing, awarded her the equivalent of 12 months rent
+- Landlords appeal the decision arguing the decision was unreasonable and unfair
+- Landlords are a family of three who bought a condo in Surrey intending to give it to their son, Christian
+- Asked the sellers to give a two-month notice to Neumann who was living there at the time
+- Landlords claimed that Christian moved in two weeks after Neumann's move-in date
+- Condo was in an apartment building with many similar suites
+- Neumann noticed she was getting multiple buzzer requests on her phone and saw different cars in the unit parking spot
+- Found an Airbnb listing in October under the name "Cris" who had a pfp of a landmark in Wyoming recently visited by the family
+- Listing was of a unit with the same shower layout and tile patterns, as well as residue marks on the window frame identical to those in the tenant's former unit
+- Also had a distinct floral tablecloth seen in a Facebook post made by the family
+- Airbnb listing and Facebook photos were removed after the RTB complaint was made
+- Section 49(3) of the RTA allowed landlords to end tenancy if they or a family member wants to occupy it
+- But under s. 51(2) they have to pay the tenant 12 months rent unless they can show their reason for ending tenancy was achieved soon after giving notice, and they occupied it for 6 months
+- Can be excused from this requirement if there were extenuating circumstances preventing their occupation of the unit
+- Given all the evidence, it seems extremely likely that the Airbnb listing was for the same unit the tenant vacated
+- Overall, the RTB arbitrator made the correct decision, and Neumann is entitled to her costs, appeal dismissed

@@ -1,0 +1,48 @@
+- Charter has a two-step process for assessing rights claims
+- First step is determining whether a Charter right was limited
+- Party claiming the breach has to prove the scope of the right and the existence of the breach on a balance of probabilities
+- If this burden is met, proceed to the second step
+- Second, need to see if the breach can be justified under s. 1 of the Charter
+- Burden of proof here is on the party trying to uphold the limitation
+- Process requires two different procedures, the interpretation of rights in the first step and the justification of limits on those rights in the second step
+### Hunter v Southam Inc
+- One way to do interpretation is by using the purposive approach
+- Basically means that you try to find the underlying purpose of an existing right
+- This case was addressing the s. 8 freedom from unreasonable search and seizure
+- A government branch was allowed to search newspaper offices without authorization from a judge, which was alleged to be a breach of s. 8
+- Case hinged on the interpretation of the word "unreasonable"
+- Court argues that because the Charter can't be amended, it must be open to growth over time
+- Means that the courts can take a pretty broad approach when interpreting it
+- Again, this makes reference to the idea of the "living tree"
+- In light of this, the SCC tries to take a purposive approach to interpretation
+- Purpose of the Charter is pretty clearly to guarantee and protect the rights it contains
+- Section 8 serves as a limitation on the existing rights of search and seizure granted to governments, and cannot grant any right to reasonable search and seizure
+- Court found that the purpose of s. 8 is to protect individuals reasonable expectations of privacy
+- On this basis, it found the offending provisions to be invalid
+- Appeal dismissed
+### Aftermath and Implications
+- This decisions went against the previous approach to interpreting rights in the *Bill of Rights* which was already being widely criticized
+- Judge that spearheaded this decision, Brian Dickson, was a huge proponent of the living tree approach to the Constitution
+- Ended up being a unanimous decision, set the groundwork for the future of Charter interpretation
+- Any interpretation of the Charter should be done generously, and directed towards fulfilling the original purposes of its rights and freedoms
+- This also extends to deciding which actors are protected by the Charter
+- Later on, this principle was elaborated on by specifying that any purposive interpretation has to start with looking at the language of the provision in question
+- Goal of this is to avoid interpretation diverging too far from the text itself
+- Section 1 actually helps with this, as it puts a natural limit on interpretation
+### Aids to Interpretation
+- The Charter itself includes a couple provisions designed to help with interpretation, namely ss. 25-29 which mention some key values to consider
+- For example, s. 27 requires the Charter to be interpreted to be consistent with the preservation of Canadian multicultural heritage
+- Can view this as prioritizing Charter rights, giving them supremacy over inconsistent rights
+- However, the SCC has never really endorsed this interpretation
+- Can also point to arguments made in the preliminary debates that led to the Charter
+- This is considered admissible evidence for interpretation, but is applied cautiously and has limited weight compared to other sources
+- Main problem with this is that it's basically taking the words of individuals and imposing them on a collective document like the Charter
+- There were also a lot of drastic changes made to the Charter during its drafting, meaning we can't say that all of these arguments relate to the final product
+- Can also consider some pre-Charter decisions made regarding the *Bill of Rights* for interpretation purposes, but these are not super relevant
+- Main problem is that the *Bill* has lower status and a completely different structure, despite seemingly having many of the same goals
+- Finally, the Charter can be compared and contrasted with the rights enshrined in similar documents made by other democratic countries
+- After all, s. 1 just says limitations in a "free and democratic society", not just Canada
+- The SCC has noted caution when it comes to citing cases from America, mainly arguing that it's a different country with differing values from Canada to some extent
+- However, the Court still often cites cases from other commonwealth countries and even from non-government bodies like the European Court of Human Rights
+- Has also previously looked to international sources like the UN *International Covenant on Civil and Political Rights*
+- However, still need to consider which sources are binding like CIL and treaties ratified like Canada, and which are only persuasive like non-ratified treaties

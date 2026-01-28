@@ -1,0 +1,56 @@
+- The trust originally came from equity, which used to be administered only by certain courts in England
+- In law, equity is a body of legal rules and principles administered by Canadian courts
+- Used to only be administered by Courts of Equity, but now is the dominant shape of the modern legal system
+- Originally available mainly from the Chancellor and Court of Chancery
+- Today, equity mainly means justice or fairness, some groups in society seek equity to address historic injustices
+- Equity can also mean something of value, for example an equity market is another word for the stock market
+- Term comes from "equity of redemption" a phrase invented by the Court of Chancery
+- Means a property interest retained by the mortgagor after giving legal title to a mortgagee as security
+- For a long time in legal philosophy we have had the idea that the law should be interpreted equitably
+- The equity of redemption had some of these elements, as it had a number of safeguards protecting the mortgagor
+- Another interest created by the Court of Chancery was the trust beneficiary's interest
+- Term for how the interest of a property purchaser who has signed an agreement of purchase is shared with the seller until the title is transferred
+- In these scenarios, the Chancery could step in to protect the vulnerable party, hence the meaning of equity
+- Another somewhat related term is a "mere equity", which is a claim coming from the circumstances of a case
+- For example, if you owe someone else $2000 and they owe you $500, you can raise that $500 as equity against their claim of your debt
+- Shows how equities can be used to found positive claims for stuff like unjust enrichment or estoppel
+### Historical Development of Equity in England
+- Today, equity is kind of a supplement to the common law, giving support in places where the common law is underdeveloped
+- Trusts, some remedies like injunctions and specific performance, unconscionability, and estoppel are all part of equity
+- Back in medieval times, it was not considered as part of substantive law, as lawyers had no concept of substantive law
+- Medieval law was very procedural, and most of the law dealt with performing specific steps to get certain remedies
+- There was also a lot of legal pluralism, so there were a wide variety of courts with different objectives and jurisdictions
+- Equity came from petitions to the king, which were widely issued by all kinds of litigants and were sometimes even directed against the king himself
+- Usually happened when people were upset with the decision of an ordinary court
+- Originally, the Chancery was a department of state doing mostly administrative work
+- However, they issued the writs to start litigation in royal courts
+- If existing writs weren't enough, sometimes the chancellor would create a new one
+- Eventually, the courts stopped accepting these new writs, which led to the chancellor developing individual remedies
+- Chancellors were also trained in church law, and brought over some of those practices to deal with these petitions
+- First, the petitions (or bills) were allowed to be written in English instead of Latin
+- Chancellor would order the defence to appear or else pay a fine, Latin name for this order is where the word subpoena comes from
+- Once the defendant appeared, they would have to respond to some questions under oath
+- Chancellor decided questions of fact and law, and if the plaintiff made a good case, may order the defendant to either stop doing or to do a certain thing
+- Could even extend to preventing the defendant from enforcing a judgement acquired from a common law court
+- While the Chancellor mainly dealt with issues where the common law courts were unsatisfactory, could also help when the law, applied correctly, resulted in inequitable outcomes
+- This usually happened in debt cases where one person had already paid and the lender was demanding more payment
+- Intervention from the chancellor happened on an ad hoc basis, and as such equity developed in an odd way
+- Nobody really thought of the chancellor as separate from the common law, all justice was vaguely the same
+- Eventually, this practice became so popular that the Court of Chancery was established as its own court in the 1430s
+- Keep in mind that the chancellor did not obey precedent, and Chancery decisions weren't even reported until 1660
+### Law of Uses and Trusts
+- This was likely the area where the chancellor may have actually been creating substantive
+- Earliest example of "use" is from 1225 where land in Oxford was given "to the use of the friars"
+- Franciscans were forbidden from owning property, so land would have to be transferred to a non-Franciscan to hold for their use
+- Allowed someone to transfer the title in land to another, but that person was supposed to allow someone else to use the land
+- This ended up being used as ways to avoid creditors or taxes by transferring property to others while retaining the use
+- Additionally, the chancellor would have to intervene in the case where the landowner was withholding use of property
+- This got even more complicated when we consider what happens if the landowner dies or transfers the property
+- Selling would require giving the buyer notice of the third party's use of the land, which could be actual, implied, or constructive
+- Eventually, this became so widespread and problematic that it had to be addressed by Parliament
+- This eventually evolved into the modern mechanism of equitable title
+- Most important Parliamentary statutes coming out of this were the *Statute of Uses*, *Statute of Wills*, *Statute in Explanation of Wills*
+- The first of these effectively transferred title to the person actually using the land by "executing" the use
+- There were a couple exceptions to this, if the landholder was a corporation or had actual duties, it was ok
+- Designed to prevent uses from being an instrument of fraud
+- The other two statutes related to trusts, and let people pass on much more land, but also attached taxes to *inter vivos* trusts

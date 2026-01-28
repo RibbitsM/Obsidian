@@ -1,0 +1,51 @@
+- Plaintiff/respondent (Canada Strong College) is bringing two actions against the defendants/appellants (Ian Instructor and Sara Student)
+- You're counsel for the respondent, so you're arguing for the case presented by the college
+- Specifically, you need to argue that the trial judge was correct in finding that the doctrine of promissory estoppel doesn't prevent the college from enforcing s. 3.02 against Ian
+- College is a business college offering practical education to entrepreneurs
+- Marketing makes reference to Canadian common sense and resilience, which is reflected in their course offering titles
+- Founder stated that her intention was to give students old-school basic skills that are less emphasized in an online world
+- Focus is on in-person communication and people skills
+- Contract between the College and instructors include provisions banning AI in classrooms
+- Specifically, s. 3.01 states that Ian agrees not to use AI in instruction or teaching materials
+- Section 3.02 states that Ian agrees to prohibit the use of AI tools by students to help with or complete any assignment or test
+- Program is 18 months long, with three six month terms, can pay $10,000 up front in tuition, or $12,000 in three installments of $4000 paid before each term
+- Students paying by installments can continue after the first term if they don't pay the installments, but they have to pay 7% interest per year
+- College requires instructors to be proven Canadian entrepreneurs, Ian comes from a family of Quebecois maple syrup producers, grew the business with his sister
+- Supported the no-AI requirement, he doesn't use it in his business and recognizes the utility and need for personal communication skills
+- Ian followed s. 3.01, and did not mention AI to his students at all, neither positively or negatively
+- Admits that he took no steps to prohibit the use of AI tools in class
+- College claims against Ian for breach of s. 3.02 and seeks damages based on harm to its reputation and reduced enrolment due to the breach
+- Sara joined the College to start a business hosting survivalist retreats for companies, and chose the College because of its focus on in-person skills
+- Entered the installment payment plan, completed all three terms but only paid for one
+- College claims against Sara for non-payment of tuition, and seeks an order requiring her to pay the missing tuition plus interest
+### Relevant Facts and Arguments
+- Sara was in Ian's class, and confirms he did not mention AI in his classes
+- Also mentioned that no other instructors similarly discouraged the use of AI
+- Sara started in May 2023, at the time many students talked about ChatGPT and other AI tools and mentioned that they used them to complete their assignments
+- Also mentions that the College brough in guest speakers that frequently mentioned that they use AI tools in their businesses
+- These uses were also relevant to the students, showing them ways to use AI for their classes
+- Evidence shows that AI was an advertised topic of several lectures hosted by the College
+- Ian was aware of these guest lectures, and believed they were hosted to respond to changes in the market and student interest
+- Also said that student use of AI was notorious among instructors and talked about frequently including when College administrators were around
+- College never told him or the other instructors to enforce s. 3.02 in response to this
+- Ian argues that since the College was promoting AI tools and taking no steps to deal with non-compliance by students, he thought they would not enforce ss. 3.01 and 3.02
+- Sara argues that open discussion of AI tools led to their rampant use and unfairly disadvantaged students like her that didn't use AI
+- Her frustration with the lack of enforcement led her to not pay tuition
+- Argues that even though she wasn't party to the contract and was unaware of s. 3.02, she can still rely on it as a defence against the College's claim
+- Failing to ensure s. 3.02 was followed deprived her of what she thought she was going to get from the program
+- Ian raised the defence of promissory estoppel, and Sara raised the defence of the contract through the principled exception to privity
+### Law
+- Promissory estoppel prevents a party from insisting on its strict legal rights in situations where it would be unjust to allow it
+- [[Central London Property Trust Ltd v High Trees House Ltd|High Trees]] principle was clarified in [[Combe v Combe]] to also apply to promises made by words or by conduct
+- Doctrine doesn't require an express promise not to enforce the term of a contract
+- However, trial judge was not persuaded that the facts raise even an implied promise to support the defence of promissory estoppel
+- Even though Ian thought that the College no longer wished to enforce the no-AI policy, he should have at least asked if this was the case
+- Problem for Sara is that the prohibition on the use of AI tools was not in her enrolment contract, but in the contract between the College and Ian
+- *Fraser River Pile & Dredge* established the principled exception to privity
+- Allows a third party to rely on a contract if they can establish that parties to a contract intended to extend the benefit of a term in the contract to the third party
+- Additionally, the activities performed by the third party have to be the same activities the contracting parties intended to be within the scope of the contract
+- Judge held that students like Sara were contemplated by the College and instructors when they entered the contract, and could be considered beneficiaries
+- Additionally, Sara's conduct was consistent with the intentions of the College and some if not all its instructors
+- However, applying the principled exception to privity for Sara goes too far from existing cases, as she clearly had peers who felt differently from her
+- Facts don't allow for a clearly defined class of third parties intended to benefit from the contract, which is usually required in principled exception cases
+- Claims made out against both defendants

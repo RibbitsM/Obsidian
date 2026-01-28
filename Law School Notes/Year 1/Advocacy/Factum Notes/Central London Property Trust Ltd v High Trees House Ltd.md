@@ -1,0 +1,20 @@
+- Landlord plaintiffs leased a block of flats to the tenant defendant in 1937
+- Only a few of the flats were leased when WWII started in 1939, both parties realized that rent could no longer be paid from the profits of the flats
+- Because of this, the landlords offered the tenants a rent reduction of 50%
+- Arrangement was considered a temporary measure in response to the surrounding circumstances
+- Landlords hired a new receiver who was responsible for that block of flats
+- Didn't realize until 1945 that the tenants had been paying a reduced rent
+- Demanded that the tenants start paying the original amount, and also pay back all of the money they would have owed for the previous years
+- When they didn't pay, the receiver initiated a test case against the tenants claiming rent for the latter half of 1945
+- Tenants argued that the reduction was supposed to last until the end of the 99 year lease, and alternatively argued that increased rent only started in September 1945
+- Existing law of estoppel would not prevent this, since it applied only to representations of existing facts, this is a representation of a future fact
+- However, there were several cases in the past where promises intended to create legal relations were made, and the courts have honoured these promises as binding
+- Arguing that the promise to accept a lower rent is binding because it was acted upon, regardless of the fact that there was no consideration
+- Court held that the reduction of rent applied until the end of 1944, and ended when the flats were fully leased out in early 1945
+- Judgement for the landlords, only got the rent for the end of 1945
+### Factum Notes
+- Ok yeah I can pretty much confirm now that the argument that AI was a new circumstance is not convincing evidence, and pretty much irrelevant
+- This case probably isn't very relevant except for introducing the concept of promissory estoppel because the law has developed so much since then
+- But if we were only using this case as a source, it would be a slam dunk
+- Requires some intent for the promise to be legally binding, also requires the person making the promise to know the other person will then rely on that promise
+- Key issue is probably whether an omission to do something is an implied promise to continue that omission in the future

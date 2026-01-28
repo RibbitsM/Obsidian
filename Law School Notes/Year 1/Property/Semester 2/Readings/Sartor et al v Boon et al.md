@@ -1,0 +1,38 @@
+- Relates to transactions over a home owned by the Sartor's
+- Home was purchased from a man named Bohonos long before this case (1986), financed by a mortgage from Bohonos
+- Renewed several times, and became due in 2004
+- Bohonos told Mr. Sartor that he was in ill health and wanted to end the mortgage
+- At the time, the Sartors had two young children and Mr. Sartor was having employment problems, both had plenty of credit card debt
+- Mr. Sartor didn't tell his wife about the mortgage problem, and tried to look elsewhere for financing without success
+- Bohonos filed a notice to the Sartors in Feb 2005 which the Sartor's deny being served with
+- Boon works in property management, and saw on the Winnipeg Land Titles Office registry that a power of sale notice has been filed against the Sartors
+- Called them to say he could help with their situation, and offered them a letter transferring their property to his company called "502"
+- Sold the property for less than it's value, wasn't a loan but a lease agreement allowing the Sartors to buy it back by fulfilling the terms of the agreement
+- Recall that Mrs. Sartor didn't know Bohonos was trying to foreclose on them, or who Boon was
+- Signed the documents without reading them, wasn't given any explanation and was not aware that it gave up ownership of the house
+- Mr. Sartor thought that Boon was only taking over the mortgage, and thought they were just transferring the mortgage from Bohonos to Boon and paying $600 per month plus taxes
+- Boon claimed he reviewed the document with both of the Sartors and offered them independent legal advice
+- Court held that the Sartors did not intend to transfer title and believed Boon was taking over the mortgage on existing terms
+- Also held that Boon knew the arrangement would eliminate the Sartors' rights under the mortgage and was wilfully blind or knew the Sartors didn't understand this
+- After they signed the documents, Boon also bought the mortgage from Bohonos, and transferred it to another company called 463
+- Sartors started paying $600 per month to 502 in 2005, but didn't pay the property tax
+- On this basis, the house was put up for sale in 2007 and Mr. Sartor got money from his parents to get it back
+- Got a lawyer who told them to stop paying Boon, and tried to argue this agreement violated the *Unconscionable Transactions Relief Act* and the *Mortgage Act*
+### Analysis
+- Sartors argue the transfer was related to a mortgage, and the court has remedial powers for harsh loans to relieve the debtor of payment
+- Pointed to two Manitoba decisions that set out the prerequisites to get relief under the *Unconscionable Transactions* act
+- Need to demonstrate inequality of the parties and improvidence of the bargain
+- Creditor can rebut by showing the contract was fair, just and reasonable and the parties entered it willingly
+- Clear that Boon intended to give the Sartors financing, and used the companies to protect his investment and get around protections for the Sartors
+- Inequality is pretty clear, Boon knew way more and had many more resources
+- Arrangement was obviously improvident, Sartors unknowingly gave up their equity in a home they had been paying off for 20 years for an insane discount
+- Did offer an option to repurchase it within a year, but for far more money than the couple could have scrounged up
+- Boon failed to show the agreement was fair, just, and reasonable or that it was entered into freely
+- Held that the Sartors are entitled to relief
+- As for the *Mortgage Act*, the Sartors argue the agreement is void by violating ss. 14 and 15 of the Act
+- Purchase agreement and transfer of land to 502 removed the rights given to them under these sections
+- Section 14 allows the mortgagor to reduce the money they need to pay when defaulting, and s. 15 allows them to pay off the mortgage
+- What Boon was doing was forcing them to "pay their mortgage" through a separate arrangement while holding their real mortgage in a separate company
+- Court found that the evidence supported the inference that Boon's purchase of the mortgage from Bohonos and agreement to purchase the property through 502 was intended to do this
+- Intentionally tried to avoid the rights the Sartors would otherwise have under the mortgage
+- Declared sale agreement and transfer to 502 as void based on repugnancy

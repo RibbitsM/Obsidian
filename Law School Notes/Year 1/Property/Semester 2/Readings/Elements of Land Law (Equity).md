@@ -1,0 +1,32 @@
+- Can think of equitability as another dimension of land
+- Land can be owned either in law or in equity, or both at the same time
+- Historically, legal rights were only enforceable in common law courts, and equity rights were enforceable through the chancellor
+- Throughout history, the courts of law and equity have often conflicted, and eventually merged together in 1873
+- However, if a legal and equitable principle happen to conflict, the equitable principle will win out
+- Hard to explain what equitable property rights actually are, we know they are based on the maxims of equity
+- In turn, these maxims were based on the goal of filling in the inequitable shortcomings of the common law
+- Some examples of these maxims are:
+	- Equity has regard to intent rather than form
+	- Equity will not suffer a wrong to go without remedy
+	- He who comes to equity must come with clean hands
+	- Equity will not assist a volunteer
+	- Equality is equity
+	- Equity follows the law
+	- Equity looks on that as done which ought to be done
+- These are not rules, more like motivating principles of equity which are not always followed
+- We can look at them to find differences in legal and equitable property rights
+### Differences
+- First of all, legal rights usually come from formal statutory requirements, where equitable rights usually come from circumstance, conscience or informal agreements
+- Additionally, legal rights are often much more concerned with the form of ownership, while equitable rights deal more with the practical reality of property ownership
+- Likely the most important difference is the availability of remedies between the two fields of law
+- Equitable remedies affect the litigants much more personally, often directly affecting the actions of the plaintiff or defendant
+- In contrast, the common law generally can only award damages
+- This has significant implications for property law, as remedies like specific performance for a property agreement can be quite significant
+- If the remedy was merely damages, one party may be able to simply pay their way out of a decision that didn't go their way
+- Additionally, equitable remedies are always discretionary, meaning the trier of fact does not have to award them
+- One party may have proven their case, but did not come to court with "clean hands" and is thus refused a remedy
+- This just means that the party performed some kind of inequitable or unconscionable conduct
+- In summary, no one is ever entitled to an equitable remedy
+- Finally, legal rights are usually automatically binding, while equitable rights require some kind of prior indication like notice or some kind of title registration
+- Today, registering property titles has become much more prevalent, so this distinction is a bit weaker now
+- 

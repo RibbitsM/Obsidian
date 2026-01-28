@@ -1,0 +1,27 @@
+### Midterm Exam Recap
+- First part of the exam was about identifying property protections in the South African Constitution
+- Basically the entire segment has protections, just in different forms
+- Includes direct protections like preventing expropriation, but also in other ways like through compensation requirements
+- One that I missed was s. 5, which protects the access of the public to land in an equitable manner, which is another form of property protection
+- Also asked about the different justifications for property that arise in this text
+- All protections in general are usually driven by the economic justification, which I didn't really mention outside a passing mention
+- A core reason for the resource distribution elements was the promotion of freedom theory, which I did talk about
+- Section 6 and 7 specifically can be used as examples of the personhood theory, I didn't pick up on this
+- Can also argue that the paramount justification was utilitarian theory which I did say, the main goal of the document was to redistribute land for the greater good
+- For the second part of the exam, the topic was about a contract relating to kiosks in a shopping mall
+- The core issue at hand is whether or not the contract was a lease or a license, which I did correctly identify
+- Could talk about whether parts of the agreement are true covenants or not, but this isn't a contested issue in this question as they all involve the use of land
+- Again, the real issue is whether it's a lease or license, because if it was indeed a lease, the buyer would be bound by privity of estate
+- All the core elements of a lease were present, which I identified
+- Also mentioned all three relevant cases
+- Need to determine exclusive possession, it's one of the most important factors
+- Also need to consider how the agreement looks
+- Here, it seems like this document was clearly designed as a lease agreement
+- Also seems like there was intent that the document would run with the land, as there was a provision for that specifically
+- Crucial clauses are the ones that allow the kiosk to be moved which I did identify
+- Each kiosk had a specific spot on the concourse that they had exclusive access to
+- Overall there was really no right answer, prof said that it was a lease
+- I was genuinely on to nothing by talking about the clause talking about business practices, it was basically irrelevant
+- I also didn't make a conclusion, which I was supposed to do
+- But overall I identified most of the important issues and factors
+- 

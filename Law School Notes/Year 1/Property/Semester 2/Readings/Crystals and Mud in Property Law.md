@@ -1,0 +1,15 @@
+- Author labels "hard-edged" doctrines of property law, meaning inflexible rules that often lead to inequitable outcomes as the "crystals" of property law
+- These rules include laws on default and deed recording, and usually do not allow much uncertainty or interpretation
+- These make up the foundation of property law, and are designed to facilitate the economic transfer of property by providing stability
+- The more important something is, the more likely it is to have these hard edged rules attached to it
+- However, in some cases we use very ambiguous rules instead for issues that seem to be open and shut
+- These are called "mud" rules, and the author claims that these have begun to replace the crystals over time
+- Early common law mortgages were very cut and dry, money is borrowed and land is conveyed as a security
+- If the money is not repaid on time, the land is lost
+- Did open the system up to abuse by creditors, and began to be weakened by the influence of equity
+- New questions arose like how much time the debtor has to repay, and what excuses for not paying were acceptable
+- These uncertainties imposed new costs on the creditors, who began to try and recover their crystalline rules
+- Tried to develop new systems that revived the old mortgage system where missing a single payment lost you everything
+- Pattern continues, private parties come up with a new way to crystallize things through contract, and the courts muddy them up
+- Driven by the law of scarcity, those that have scarce resources will try to define their entitlements sharply
+- But courts are unwilling to accept this, especially since this approach often leads to extreme examples of deprivation to vulnerable parties

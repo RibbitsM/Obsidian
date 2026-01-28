@@ -4,7 +4,7 @@
 - Beatty appealed to the SCC, arguing that the appeal court created a presumption that any driver causing an accident negligently will be charged if they don't provide an explanation
 - Argues that this places the onus of proof on the accused
 - Crown argues that the length of the lapse is irrelevant, and the trial judge erred
-- Because of the high risk of danger created by the conduct, the length of time doesn't matter and a reasonable person would still seen a risk
+- Because of the high risk of danger created by the conduct, the length of time doesn't matter and a reasonable person would still have seen a risk
 - Moral blameworthiness is relevant in sentencing, but not in determining guilt
 - But unlike civil negligence, criminal negligence should only punish blameworthy conduct
 - Modified objective test is the standard for *mens rea* in criminal negligence, which is slightly more strict than the civil objective test

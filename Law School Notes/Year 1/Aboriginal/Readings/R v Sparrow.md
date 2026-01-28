@@ -1,0 +1,61 @@
+- Appellant charged under the *Fisheries Act* for fishing with a drift net longer than the one allowed by the terms of his Band's food fishing license
+- Admitted the elements of the offence but argued that he was using his aboriginal right to fish
+- Limit on net length was inconsistent with s. 35(1) of the 1982 Constitution
+### Analysis
+- Court held that s. 35(1) only applies to rights in existence when the Constitution came into effect, and does not revive any previously extinguished rights
+- Additionally, existing rights can't be read to involve the way they were regulated before 1982, and the phrase "existing aboriginal rights" must be interpreted flexibly
+- Crown failed to prove extinguishment, as the right is not extinguished just because it was restricted by the *Fisheries Act*
+- That act shows no intention to extinguish that right, and was just a way to manage existing fisheries
+- Existing aboriginal rights cannot be extinguished by historical policy unless there is clear intention to do so
+- Section 35(1) must be interpreted generously, as it's purpose is to affirm aboriginal rights
+- Additionally, it's not subject to s.1 of the Charter
+### Justification Test
+- For legislation to affect aboriginal rights, it has to meet the test for interfering with s. 35(1) rights
+- Federal power to legislate on Indigenous peoples must be reconciled with the fiduciary duty to these communities
+- To do this, need a test for justification
+- This way, the government must justify any legislation that would negatively affect aboriginal rights
+- First, need to ask if the legislation in question actually interfered with an aboriginal right
+- Aboriginal fishing rights are *sui generis*, they can't be compared to ordinary property rights
+- To establish a *prima facie* infringement, we can ask questions like whether the limitation is unreasonable, or what hardships it imposes
+- In this case, does the regulation adversely restrict the band's ability to fish for food and ceremonial needs
+- Doesn't have to reduce the fish catch below a certain threshold, just needs to impose undue hardships on the Musqueam
+- If this interference is found, move to justification
+- This is a two-step process, first step is to look for a valid legislative objective
+- What was the point of these regulations? saying it's for the "public interest" is too vague, but you could point to conservation or resource management reasons
+- Assuming this step is met, then need to consider if there is a link between the justification and the priorities of the relevant department
+- This is based on the existence of the honour of the Crown in dealings with Indigenous groups
+- If the recognition of an aboriginal rights conflicts with the interests of others, we need to consider how those rights are prioritized
+- In this case, once conservation measures have been implemented, the next priority should be Indian food fishing considering their special relationship with the government
+- In fact, this is already required by current government policy, or at least it does in BC
+- Essentially, because of the honour of the Crown, they have to prioritize Aboriginal rights over other priorities whenever possible
+- Other issues to consider for justification include whether the infringement was as little as possible, whether compensation is available for expropriation, and whether the group in question was consulted on conservation measures
+### Meaning of S 35(1)
+- Established that existing aboriginal rights are not frozen in the form that they were regulated prior to 1982
+- Arguing otherwise would effectively incorporate all of these regulations into the Constitution
+- Can also argue that "existing" just refers to any rights that weren't extinguished by 1982
+- Otherwise, you're arbitrarily freezing rights at a certain point in time
+- We should interpret this phrase flexibly to allow these rights to evolve over time
+- Musqueam right to fish was evidenced by their long history of living along the Fraser river and taking salmon for sustenance
+- Also plays an important role in Salish belief systems, which position salmon as a race bonded with humans to provide them sustenance in exchange for certain rituals
+- Existence of the right to fish was not really disputed, Crown contested that it was extinguished by the *Fisheries Act*
+- Restrictions on this right were initially very lax, but became more severe over time and only required a license from 1917 onwards
+- Because the existing regime of the *Fisheries Act* was inconsistent with the right to fish, that right was thus extinguished
+- However, just because a right is controlled does not mean it is extinguished
+- Precedent shows that the Crown has the onus of proving intention to extinguish Aboriginal title, which must be shown clearly and plainly
+- *Fisheries Act* does not do this, thus it is not extinguished
+### Extent of the Right
+- Crown also argues that the right to fish only extends to fishing for food purposes
+- On the other hand, Sparrow argues the right allows fishing for social and ceremonial purposes, as well as commercial fishing
+- However, the focus of this case is solely on the restriction on a food fishing license, so this case will confine the definition to food and social purposes
+### Recognized and Affirmed
+- Sparrow argues that any statutes regulating aboriginal fishing rights are a limitation on a constitutionally protected right, and thus invalid
+- The validity of this argument depends on how the phrase "recognized and affirmed" in s. 35(1) is interpreted
+- Recall that it is an accepted principle that the Constitution should be interpreted in a generous and liberal way
+- It's been previously established that this principle extends to treaties and statutes relating to Indigenous peoples
+- However, this does not mean any law affecting aboriginal rights is automatically of no force or effect
+- Still subject to a test for justifying the interpretation
+- Rights that are recognized and affirmed are not absolute, even though this right is not subject to s. 1
+- Recall that the government does have the right to make legislation relating to Indigenous peoples under s. 91(24)
+### Conclusion
+- Case will have to be sent back for a new trial to see if there is an infringement of the right to fish
+- Appeal dismissed

@@ -1,0 +1,49 @@
+- When the courts do determine that a term is innominate, the issue of whether or not the breach deprived the innocent party of the benefit that were intended to receive
+- Has also been described as "substantial non-performance", can think of it being a breach substantial enough to "torpedo" the contract
+- Recall that in *Hong Kong Fir*, this was determined by looking at how long the ship would need to be serviced for to be seaworthy compared to the length of the contract
+- Benefit in the contract was the use of the ship, how much was that use limited?
+- In that case, the charterer was allowed the extend the lease to also make up for that lost time
+- Since they still got the full benefit, not a repudiatory breach
+- This is a pretty straightforward case, but what things do we look at in other cases?
+- Can also look at the known purposes for the contract
+- In *Shun Cheong Holdings v Gold Ocean City Supermarket* (2002 BCCA), the issue was a commercial rental for a grocery store that turned out to be too unsanitary to sell food out of
+- Considering the purpose of the contract, their benefit was lost because they couldn't sell food out of the premises they rented
+- Another way is to see if the breach gave rise to a reasonable belief that the breacher is unreliable and cannot be expected to perform in the future
+- Example for this is *Sanko Steamship v Eacon Timber Sales* (1986 BCSC)
+- None of these are hard and fast rules, just guidelines
+### True Conditions
+- Addresses the issue of what happens when parties try to explicitly state that a term is a true condition or a true warranty (though the former is more common)
+- Overall, it seems that the courts are willing to respect these kinds of arrangements
+- If the parties intended to make a certain term crucial to performance, they will honour it
+- However, a more common practice is that contracts will refer to certain provisions as "conditions" of an agreement
+- Courts have also tended to respect these shorthand terms, but still reserve the right to overrule these kinds of clauses
+- This was shown in *L Schuler AG v Wickman Machine Tool Sales*
+- If interpreting a certain provision as a condition because it was described as a "condition of the agreement" would be absurd, they will not respect it
+- After all, it's fairly common for parties to use "condition" as a synonym for "term"
+- Usually you can look at how often the term "condition" is used and what provisions it's applied to tell if they intended it to impose a true condition or not
+- This is what happened in *Wickman*, the court found that in the context of the agreement, the word "condition" wasn't meant to be used in that way
+### Summary
+- Generally speaking, a repudiatory breach can occur when the term that is breached falls into one of two main categories
+- First, it's a repudiatory breach if the term in question is condition
+	- This can happen due to statute, like with sale of goods agreements
+	- Can also arise from the intentions of the parties, they wrote in the contract that the term is intended to be a condition
+	- Additionally, you can sometimes infer that the parties intended a certain term to be treated as a condition by looking at the common law on the subject
+		- Example for this is [[Lecture 28 (Contracts)|Bunge Corp]]
+	- Even when this is not stated, in some cases you can determine that a term is a true condition because it can only be breached in ways that torpedo the contract
+- Second, even if the term is an innominate term, you can apply the *Hong Kong Fir* analysis to see if the breach substantially deprived the innocent party of the benefit of the contract
+- Of course, you can also determine that something is an innominate term but the breach was not substantial enough to be a repudiatory breach
+### Remedies
+- At common law, the victim of a repudiatory breach my exercise a right to walk away from the contract that has been violated
+- Whether they choose to exercise this right or not, they can always claim damages
+- If they do choose to disaffirm? the contract, instead of a claim for damages, they can try and get restitution for the value of the benefits gained by the breaching party
+- When the harmed party exercises the right to disaffirm the contract, they must communicate their decision to the offending party
+- Otherwise, their silence may be seen as affirming the contract, as shown in *Howard v Pickford Tool Co* (1951)
+- Can communicate this explicitly, or through conduct as long as it was communicated to the breaching party
+- In a case called *Vitol SA v Norelf* (1996), a buyer committed a repudiatory breach in a sale of goods contract, and the seller did not take any of the normal steps to fulfill the sale
+- This failure to perform the contract after the breach was seen as evidence that they chose to disaffirm the contract
+- Additionally, the party disaffirming the contract doesn't have to give a reason for terminating the agreement, shown by *British & Beningtons v North Western Cachar Tea* (1923)
+- Finally, if a party does decide to affirm the contract, they are usually allowed to make that choice freely, but if they have a duty to mitigate their losses, may not be able to affirm
+- Say you order a pizza oven and it doesn't arrive on time, and the seller states that they are cancelling the contract, and you affirm anyway
+- If you try to sue later on because the contract still hasn't been performed, that suit will be limited by the duty to mitigate losses
+- Since you were expected to buy another oven instead of demanding performance, can't sue for lost profits when you just could have gotten the oven from somewhere else
+- In this case, affirming the contract limited your ability to sue for damages, would only be able to sue for the amount of time you ordinarily would have lost if you didn't affirm the contract

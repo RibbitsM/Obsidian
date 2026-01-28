@@ -1,0 +1,42 @@
+- Recall that determining whether a breach is repudiatory or not tells you whether a contract can be rendered void by the affected party
+- Good example of how this worked before the innominate term classification appeared is a case called *Bettini v Gye* from 1876
+- Bettini was an opera singer who agreed to perform in some shows run by Gye for a period of four months
+- Within the contract, Bettini agreed to arrive in London at least six days before the beginning of the agreement "without fail"
+- Bettini got sick and showed up late, Gye told him he breached the contract and did not let Bettini perform, Bettini sued for damages
+- Court ruled that this term was a warranty, and Gye couldn't repudiate the contract
+- Can see how this analysis is much more limited than the innominate term analysis, no thought is given to how the order of clauses works
+- Would have been way easier if you could imply a term requiring Bettini to arrive on time before Gye's obligations became enforceable
+### Refinements of [[Lecture 27 (Contracts)#Hong Kong Fir|Hong Kong Fir]]
+- Recall that this case created an intermediate category between conditions and warranties
+- Called innominate terms, and can be violated both in ways that torpedo the contract, but also in ways that don't really affect the contract
+- Example of a true condition would be the clause promising to deliver some oranges in a contract for buying oranges
+- Example of a true warranty would be a clause in a mergers and acquisitions agreement requiring all correspondence between the parties to be written in a certain font
+- The precedent set by this case required an examination of how the original condition-warranty dichotomy was affected
+- Additionally, there remained the issue of whether or not this analysis applied to sale of goods cases, though this was not a major issue
+- For the first issue, Courts had to recognize the fact that the previous definition of what a "condition" was may have shrunk immensely as a result of *Hong Kong Fir*
+- Addressed by a 1981 House of Lords case called *Bunge Corp*
+- Buyer was trying to buy 15k tons of soybeans, and the contract required them to give the sellers 15 days notice of the ship used to transport the goods
+- Buyer failed to do this, and the sellers claimed this was a repudiatory breach, ended the agreement, and also sued for damages
+- Agreement didn't expressly call the notice requirement a condition, so the buyer argued that it was an innominate term
+- House of Lords rejected this argument, and held that it was a true condition
+- Shows that the implications of *Hong Kong Fir* were not full reform
+- Court held that time clauses in mercantile contracts are crucial, and even post-*Hong Kong Fir*, this fact should be reflected as previously these were always considered conditions
+- Even if the clause wasn't explicitly a condition, it's implicitly required when you look at the industry practice, and the previous jurisprudence
+- Court didn't overrule *Hong Kong Fir*, but did hold that the basic principles for determining whether something is a condition or warranty still exist
+- Just because there's no explicit classification of the clause doesn't mean it's automatically an innominate term 
+- Court recognized that when strictly applying the true condition definition, this wasn't really a condition, but it's clear that the parties implicitly intended it to be a condition
+- For the purpose of certainty, this should be classified as a condition
+#### Sale of Goods
+- The *Sale of Goods Act* sets out a list of implied conditions in sale of goods contracts
+- Conflicts with *Hong Kong Fir* by explicitly stating that certain contracts have a set of implied conditions in them that always allow a repudiatory breach if violated
+- This seems to be clear and well-accepted
+- But what about terms included by the parties that aren't in the statutory list, does the innominate term analysis still apply in these situations?
+- Example is *Cehave NV v Bremer Handelsgesellschaft mbH*, where a minor breach was made of a contract requiring shipments to be made in good condition
+- Buyer argued that because the *Sale of Goods* Act explicitly sets out a condition-warranty dichotomy, and thus the *Hong Kong Fir* principles don't apply
+- The "good condition" requirement is therefore a condition, and they can repudiate the contract
+- English Court of Appeal rejected this argument
+- Lord Denning argued that the context of the common law shows us that even before *Hong Kong Fir*, people were doing innominate term analysis
+- Additionally, the *Sale of Goods Act* explicitly recognizes that the common law applies
+- Therefore, the innominate term analysis applies, and the breach of the term in this context was fairly minor, and not enough to warrant repudiation
+- This approach was later adopted by the House of Lords and Canadian courts as well
+- Established pretty firmly that *Hong Kong Fir* applies to sale of goods contracts

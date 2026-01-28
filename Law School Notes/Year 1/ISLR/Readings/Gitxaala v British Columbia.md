@@ -35,7 +35,7 @@
 - Supposed to interpret DRIPA with the assumption that it's consistent with UNDRIP
 - Justiciability means whether courts have the capacity to resolve a dispute
 - To answer this question requires considering what the authority of the Canadian court systems extends to
-- Determining justiciability depends on the context, and the test is whether addressing thee matter is an efficient use of resources and whether the claim has any grounds
+- Determining justiciability depends on the context, and the test is whether addressing the matter is an efficient use of resources and whether the claim has any grounds
 - Plaintiffs argue that s. 3 imposes a duty that takes effect whenever BC law is found to be inconsistent with UNDRIP
 - To test if a law is inconsistent, need to see if it adversely affects or impedes UNDRIP rights and duties
 - Language of DRIPA requires BC to take "all measures necessary" to ensure consistency

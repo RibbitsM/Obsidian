@@ -1,0 +1,63 @@
+- The reason why Lord Wilberforce's formula expanded the definition of liability for negligence is because it expanded the definition of damages
+- Prior, the main form of damages was physical harm or harm to property
+- To prevent from creating broad liability when introducing non-physical harms such as economic and psychological harm, policy considerations were needed
+- The Wilberforce test limits this flood of new liability somewhat by bringing in the second step of the test
+- Keep in mind that this is somewhat unusual for a tort, as the plaintiff's evidentiary burden is shifted to the defendant once a *prima facie* duty is established
+- *Anns* expanded the category of negligence, especially by allowing liability for economic harms
+- To limit this slightly, the decision was made to also include policy considerations in the first part of the test as well
+- Plaintiff needs to establish using policy arguments that establishing a duty of care in the situation would be "just and reasonable"
+- In the *Anns* case, it was held that foreseeability does not alone lead to a duty of care
+- Today, the two-stage test had been abandoned in England and proximity is still determined by a wide variety of considerations
+- However, Canada has decided to use the two-stage test from *Anns*, which was first applied in a 1984 case called *Nielsen v City of Kamloops*
+- First stage requires establishing proximity and foreseeability, which are interpreted as roughly the same thing under Canadian law
+- Second stage requires the defendant to raise policy considerations to argue against recognizing the proposed duty of care
+### [[Cooper v Hobart]]
+- Alongside another case called *Edward v LSUC*, this case redefined the 2-stage test in Canada
+- Basically just made the existing test more complicated and confusing
+- In both cases, the plaintiffs were arguing that they had suffered losses resulting from the failure of regulators to protect them from third parties
+- Court refrained from recognizing a duty of care in both cases
+- To begin with, the court adopted the *Anns* test, which was initially designed to keep the core of the [[Donoghue v Stevenson]] test, but limit the floodgate through policy concerns
+#### Stage 1
+- Need to answer two questions for this stage
+- First question is whether or not the harm that occurred was a reasonably foreseeable consequence of the defendant's act
+- If the answer to this question is yes, then proximity is established
+- Second question is whether there are any reasons notwithstanding proximity that dictate that tort liability should not be recognized here
+- However, the policy considerations here are only based on factors arising from the relationship between the plaintiff and the defendant
+- Basically, look at that relationship and determine whether or not it would be just and reasonable to recognize a *prima facie* duty of care here
+- While the discussion here isn't necessarily limited to policy questions, the court does recognize that policy considerations may arise
+- If proximity is established and there are no sufficiently convincing reasons not to recognize a duty of care based on the relationship, *prima facie* duty of care is established
+- An important consideration here is whether or not there is an existing category of duty of care that matches the scenario at hand here
+- If there are no matching scenarios, you perform the stage one analysis as usual, and otherwise you proceed to stage two
+- When considering just and fairness, important to look at things like the expectations arising from the relationship between the parties
+- You're looking at the nature of the relationship, and the implications of recognizing a duty of care on the members of that relationship
+#### Stage 2
+- Now, we need to consider what policy concerns existing outside the relationship between the parties that may affect the imposition of a duty of care
+- Look at what the impact would be on things like other legal obligations, the legal system, and other aspects of society
+- In this case, the Court found that there was no *prima facie* duty of care owed, and even if there was, it would be negated by external policy considerations
+### [[Dobson (Litigation Guardian Of) v Dobson]]
+- Issue in this case is whether or not a fetus born with disabilities resulting from negligent acts taken by their mother during pregnancy can sue the mother for negligence
+- Recall that *Kamloops* was the first time the *Anns* test was applied
+- Foreseeability and proximity are extremely easy to prove, but only if we assume that a pregnant woman and her fetus are distinct legal entities
+- However, this was contrary to previous Canadian law on the subject, a decision by Justice McLachlin
+- For the sake of the case, the court assumed they had separate legal entities
+- Basically the closest and most proximate relationship you could imagine
+- In fact, this relation is so close that pretty much any decision made by the mother could negatively affect the fetus, more than in any other relationship
+- Because of this, there are a number of considerations going against the decision to impose liability here
+- First, we need to consider the privacy and autonomy rights of women
+- Imposing liability here would substantially interfere with the Charter rights held by pregnant women, as almost every decision they make could potentially lead to liability
+- Additionally, this would also create issues of gender equality since this category of liability would almost exclusively apply to women
+- While unborn children can later sue third parties for injuries they sustained while in the womb, the relationship between unborn children and their mothers is special
+- Would not have any rational limit on liability, and any lawsuit would not result in effective compensation or deterrence anyway
+- Second, we also need to consider the problems with creating a judicial standard of conduct for pregnant women
+- All duties come with standards of conduct that must be met, an intervener suggested that this should be based on the "reasonable pregnant woman standard"
+- Obvious issues with creating any objective or uniform standard, who dictates the standard, and how do we account for disparities between access to resources and other issues?
+- Recall that these criterion against the duty of care emerge as part of the first step of the test
+- Justice McLachlin also points more specifically to the Charter issues created in her opinion
+- Good example of how the first part of the test works
+- The privacy and autonomy argument relates to legal rights and coherence of the legal system, the standard of conduct issue relates to legal obligations, and the relationship issues with the child relate to societal considerations
+- These are all the common categories of things to consider in the first stage of the test
+- There was also a dissent expressing the view that the fact that the pregnant woman owes a duty of care to a third party, that duty should extend to her child
+- Also asks why the rights of the unborn child should be discarded
+- This decision also reinforces the fact that unborn children are not legal persons, Ryan Dobson was only able to sue his mother after he was born alive and viable
+- Can sue third parties for injuries and disabilities sustained before birth
+- However, in light of the Dobson decision, the child cannot sue their mother

@@ -1,0 +1,54 @@
+- Edwin Hughes was a retired minor who had assets cumulatively worth $1.2 million, which he transferred into accounts held jointly with his daughter Paula
+- To make sure these wouldn't impose taxes on her he wrote a letter declaring that he was the sole owner of the assets and they weren't gifts
+- His will named Paula as the executor, and left most of his estate to her and a couple specific things to her husband
+- Paula's husband Michael was injured in a car accident and couldn't work, and eventually married Paula who was caring for him
+- During their early marriage, Hughes would provide for the family and eventually moved in with them
+- After Hughes' death, Michael moved out of the care facility he was in and into the house of another woman he married after Paula
+- In the divorce, Michael claimed half of the joint accounts held between Paula and Hughes
+- This was because Hughes' will said that the remainder would be divided between Paula and Michael
+- Paula argued that she got them by right of survivorship
+- This means that surviving holders of joint property get all of it when the other holder dies, doesn't go to their estate
+- If only one account holder was paying into the account and they die first, did they intend to distribute them upon their death?
+- Undisputed that Paula has legal ownership of the money by right of survivorship
+- However, equity also recognizes beneficial ownership, meaning the real owner of property held in someone else's name
+- If Hughes intended for Paula to hold his assets in trust and distribute them according to his will, Michael has a beneficial interest
+### Issues
+- First, do the presumptions of trust and advancement apply today?
+- If so, how can these presumptions be rebutted?
+- How do courts deal with survivorship in joint accounts?
+- What evidence can be used to determine intention of the transferor?
+- Trial judge found that Hughes intended to gift the assets to Paula, and she main retain the assets
+- Michael appealed, but was dismissed
+### Analysis
+- A resulting trust exists when title to property is in one person's name, but that party is under an obligation to return it to the original owner
+- Usually this only arises if the trust party is a fiduciary or gave no value for the property (a gift)
+- Advancement is a gift *inter vivos* to someone who is financially dependent on the transferor
+- Because of the inherent difficulties in resolving disputes over transfers where there is little evidence of the transferor's intent, the presumptions here are useful
+- General rule for a gift is that it's a resulting trust, and depending on the situation between the parties, presumption of an advancement applies instead
+- In this case, party challenging the transfer has to rebut the presumption of a gift
+- Usually applies to transfers between spouses and between parent and child
+- Historically defined by gender, so husband to wife and father to child
+- However, given modern gender equality, we can dispose of this
+- Issue of whether this applies to transfers to adult independent children also arises
+- Increasingly, elderly parents will open joint accounts so their children can help them manage their finances
+- Because of this, it's dangerous to presume that this is always intended as a gift when it's actually more like a trust
+- There have been several previous cases noting this issue
+- Since the main justification for the presumption was that parents are obligated to support their children, we can probably ignore this when the children aren't dependents
+- Raises the issue of how we determine "dependency"
+- Overall, court holds that the presumption should be kept, but should be limited to transfers to minor children
+- Finally, there's also situations where a transfer is intended to be a gift, and the party claiming this can try and prove it
+- Degree of dependency will be an important consideration here
+- Need to prove it on a balance of probabilities
+- Previously there's been cases where the transferor intended to give withdrawal rights to the dependent
+- Usually, this would mean it's a gift
+- However, the real problem comes if the transferor placed their assets in a joint account, intended to keep full control but also to transfer the assets upon their death
+- Issue is that the beneficiary interest only appears when the transferor dies
+- One judge rejects this idea, arguing that the transferor actually gifted the right of survivorship *inter vivos*
+- Overall, Paula and her father had a very close relationship, and he preferred her over her siblings
+- Paula consistently relied on her father for financial assistance, and was consistently concerned with providing for her after his death
+- Evidence that Hughes stated during his life that the assets in the joint account weren't part of his will was brought up as well
+- If he intended these huge assets to be dealt with through the estate, it would have been mentioned in the will
+- Additionally, it seems clear that the letter saying the transfer wasn't  gift was only to save Paula from capital gains taxes
+- Overall, the trial judge erred in using the presumption of advancement, and instead should have presumed a resulting trust
+- However, evidence clearly shows that this presumption can be rebutted, and that this was actually a gift
+- Appeal dismissed with costs

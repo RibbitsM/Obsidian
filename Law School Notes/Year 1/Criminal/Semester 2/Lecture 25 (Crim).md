@@ -1,0 +1,77 @@
+- In some circumstances, courts are willing to accept mistake of law if the accused was relying on incorrect legal advice
+- Similar to estoppel in contracts, requires some sort of misrepresentation
+- Used in lower courts for a long time, not recognized by the SCC until 2006
+### [[City of Levis v Tetrault; City of Levis v 2629-4470 Quebec Inc]]
+- In this reading there were two cases, one was for driving with an expired license, other was a company failing to reregister a car
+- Tetrault said that he didn't know the date on their license was an expiry date, company claimed the notice of renewal was not sent by mistake
+- Assuming these things are true, is this enough for a defence?
+- Court held that these provisions were strict liability, meaning defence of due diligence is available
+- This requires taking reasonable steps to avoid breaking the law, and also requires labouring under a mistake of fact
+- Similar to officially induced error of law, but is kept separate
+- Court sets out six components coming from the concurring reasons from *R v Jorgensen*
+- Error of law was made
+- Person considered legal consequences
+- Advice came from an official
+- Advice was erroneous and reasonable
+- Person relied on the advice while committing the act
+- Also a number of factual considerations like who the official was, how clear the advice was, etc.
+- First time the court fully recognized the availability of the defence
+- Ended up not being applicable to either case
+- For the company, there was no mistake of law at all, they knew the license would expire, the only mistake was the SAAQ failing to do an administrative duty
+- Different from an officially induced error of law
+- If for example the company tried to pay the fee online but messed up the payment and didn't realize it, then they may have grounds for the defence of due diligence
+- If the company called the SAAQ asking how to register a company car and they said there was no special procedure when there really was, might be an officially induced error
+- Also important to note that *Jorgensen* was a criminal case, charged with distributing obscene materials
+- Accused sold porn at their video rental store, majority concluded that there was no wilful blindness as they didn't know they were selling porn and couldn't check everything
+- Error of law comes from the fact that they were relying on the Ontario Film Review Board to rate the movies before they were sold
+- Ended up differently, but the court seemed poised to go against s. 19 of the *Code*
+- Doesn't seem to be a difference in applicability between criminal and regulatory offences
+- Overall there's not many cases where it's successfully raised
+- Like for all defences, we should try and categorize this
+- It's a common law defence, burden of proof is on the accused, on a balance of probabilities, and it's an excuse that can result in a stay of proceedings
+- Different from most defences which only require an air of reality
+- Seems to apply to all offences, but for now we only know for sure it applies to regulatory offences
+- This gives a judicial stay of proceedings, which is different from an acquittal
+- Basically equivalent in the sense that you're not convicted, but what's happening is that the court is ending the trial because it's an abuse of process
+- This isn't the only way to prove abuse of process, interesting to see why this applies to this kind of situation
+- Judicial stay of proceedings is not the same as a Crown stay of proceedings
+- That just means that the Crown stops prosecuting the case, which is generally final but can be restarted in some circumstances
+- This kind of stay usually happens if the Crown case falls apart for some reason
+- Defence also raises the issue of whether advice from websites count
+### Quebec v Souveraine
+- This applies to advice from government officials, but what if the advice comes from a lawyer?
+- Only example of the SCC considering it is a Quebec case involving a regulatory offence
+- Weird rules about selling RV insurance in Quebec, which has notoriously strict regulations
+- Company wasn't authorized to sell the insurance, argued they thought they didn't need a license because the insurance policies were from Ontario
+- Argued both mistake of law and due diligence
+- Majority said that's not what due diligence is, there was not mistake of fact
+- As for the other issue, the court found the defence of error of law was also not made out
+- Company relied on the advice of lawyers to a Manitoba insurance firm, should have gotten advice from a Quebec lawyer, preferably an insurance lawyer
+- Dissenting judge said officially induced error was met, jurisdiction the lawyers are from shouldn't matter
+- Overall, the court seemed open to the idea that error of law could be based on lawyer advice
+### R v Khanna
+- One of few examples of a successful defence of officially induced error of law
+- Khanna was immigrating to Canada, told she had to disclose any criminal trials
+- Ended up in a car accident, charged with criminal negligence causing death
+- Told immigration officer about the accident, he told her they only care about serious crimes like gun charges or SA
+- This wasn't true, later arrested for concealing info from immigration Canada
+- Used defence to get out of it
+- However, this wasn't a *Criminal Code* offence, defence still hasn't been used there
+### [[R v Suter]]
+- Accused was likely drunk, ran their car into a restaurant patio, killing a young boy
+- Got a lot of publicity, outrage that he wasn't charged with more severe offences
+- Only thing he was charged with was failing to give a breath sample and causing an accident that resulted in death
+- Some vigilantes kidnapped him and cut off one of his fingers as part of the outrage
+- Plead guilty, but at sentencing argued that his lawyer told him that he shouldn't blow, because the penalty for that is less than being charged for the accident
+- This isn't true, the penalties are the same to prevent this exact situation
+- Lawyer didn't know this, and the court needs to consider whether this limits liability
+- Trial judge gave a really low sentence, appeal court raised it quite significantly
+- SCC said the court of appeal went too far, basically sentencing him for the crimes people thought he should be convicted for, not what he was actually convicted for
+- Split the difference, gave Suter a penalty somewhere in the middle
+- Unclear where the error of law was, no one said it was legal to refuse a breathalyzer test. just that it will be a lower penalty
+- Regardless, this advice did affect Suter's decisions
+- Not really a mistake of law, as Suter knew that he was doing something illegal
+- Only want to mitigate sentences if people think they're doing something legal
+- Overall this was a bizarre case, and there were a lot of things to consider
+- Court ended up saying that the vigilante violence also limited the sentencing, and the lawyer's mistaken advice also played a small part
+- Can also consider that this was an incredibly public case, which will likely place heavy stigma on Suter, the court of public opinion found him guilty a long time ago

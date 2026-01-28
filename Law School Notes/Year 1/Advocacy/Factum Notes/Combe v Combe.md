@@ -1,0 +1,34 @@
+- Woman claiming allowance money from her ex-husband based in a verbal agreement
+- After the divorce, the wife's lawyer wrote to the husband's lawyer asking to confirm that the husband had agreed to pay her a yearly allowance
+- Husband's lawyer wrote back saying the husband agreed to pay
+- Later, the wife's lawyer wrote saying that the allowance should be sent in quarterly installments throughout each year
+- Reply came two months later, saying they would not pay it in advance, the first payment wasn't due for three more months
+- Husband never paid anything, and the wife pressed him about it but did not go to the divorce court on the matter
+- After almost seven years, she went to court claiming all the money in arrears
+- Trial court agreed and ordered the husband to pay arrears for six years
+- Held that there was no consideration for the promise, but it was still binding based on the precedent of [[Central London Property Trust Ltd v High Trees House Ltd|High Trees]] and was intended to be binding, intended to be acted on, and in fact acted on
+- Court held that the principle only applies when it would be unjust to allow one party to insist on their strict legal rights, having regard to the dealings between the parties
+- Also applies to the plaintiff, can't enforce a debt if the debtor was carrying on business in reliance on the failure to enforce the debt
+- "Sometimes it is a plaintiff who is not allowed to insist on his strict legal rights. Thus, a creditor is not allowed to enforce a debt which he has ***deliberately*** agreed to waive if the debtor has carried on business or in some other way changed his position in reliance on"
+	-  Emphasis on deliberate here, suggest an omission can't be a promise to continue the omission
+- Held that a promise can be part of a cause of action but not a cause of action in itself
+- Principle is that where one party has, by words or conduct, made to the other party a promise or assurance intended to affect the legal relations between them and the promise was acted on accordingly
+- Wife could only enforce the promise if there was consideration given for it
+- "There was, however, clearly no promise by the wife, express or implied, to forbear from applying to the court. All that happened was that she did, in fact, forbear"
+	- This is the smoking gun I think, but I'll have to look further
+- Could argue that the wife gave an implied promise to forbear from applying to the court
+- But this isn't consideration because the wife's promise wouldn't be binding on her and would be worth nothing because of that
+- Nothing here could take away her right to apply to divorce court for maintenance
+- Unilateral promises like the promise to forbear here are enforced if the forbearance is done at the request of the promisor, express or implied
+- Hypothetically, if we assume the findings of the trial judge are true, we can say that the husband made a promise to pay the allowance in exchange for the wife not applying in court
+- Promise was intended to be binding, intended to be acted on (if we find the husband intended his wife to not apply for maintenance), and actually acted upon
+- However, in reality it seems he did not intend for her to forebear
+### Second Opinion (Birkett)
+- Doesn't really say much of note about promissory estoppel, just points out that it can only be used as a shield, not a sword like in this case
+### Third Opinion (Asquith)
+- Also doesn't mention much about promissory estoppel, only the consideration issue
+- Court held that there was no consideration for the husband's promise and the wife could thus not enforce it
+- Also, I think the part of this case that they're citing as evidence that implied promises are ok actually works against them
+- Quote (I assume) is: "The principle, as I understand it, is that where one party has, by his words or conduct, made to the other a promise or assurance which was intended to affect the legal relations between them and to be acted on accordingly"
+	- Key phrase here is "intended to affect the legal relations between them"
+	- Conduct is worthless for promissory estoppel if it was never intended to affect legal relations

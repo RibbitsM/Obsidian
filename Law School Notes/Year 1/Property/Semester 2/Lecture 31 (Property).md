@@ -1,0 +1,68 @@
+- Recall that a institutional constructive trust can be imposed in cases where the representative of an institution breaches a fiduciary duty
+- Also recall that land transfers are executed in two exchanges, first the contract of purchase and sale is signed, and then a transfer instrument performs the transfer
+- But what happens in between these two exchanges, and the seller refused to complete the deal?
+- This would be a breach of contract, so a remedy for damages will be available, but is there also a remedy of specific performance?
+- Would mean that the seller would be holding the land as a constructive trust for the benefit of the purchaser, and has to transfer it to them
+- Before performance happens, the seller has the legal ownership of the land and can use and profit from it, the equitable interest appears in the form of the right to demand performance
+- When will the courts impose a constructive trust in these cases?
+- Main example is a case called *Semelhago v Paramadevan*, results to the sale of a house under construction in a housing development
+- Seller refused to execute the sale, and the purchaser sued while the value of the property was rising, demanding specific performance
+- Trial judge agreed, when a contract of purchase and sale relates to land, then the remedy of specific performance is available when it usually is not
+- Decided despite the fact that this specific property was not unique, it was one of many almost identical units in the housing development
+- Plaintiff actually wanted damages in the form of the difference in property prices
+### Remedy of Specific Performance
+- Court stated that specific performance should be the default, as this is how it was intended before real estate became so standardized and interchangeable
+- Can't assume that damages is an inadequate remedy in all cases
+- Therefore, to make an order for specific performance, the court wants evidence that the property is unique and the substitute is not readily available
+- Supreme Court agreed with this view, and held that specific performance is not always available for land, and may be available for private property in the future
+- In another case called *Lucas v 1858793 Ontario Inc (Howard Park)*, a developer backed out on selling a one-bedroom condo in Toronto
+- Ended up transferring the property to relatives of the developer instead
+- Pretty clear that the contract was wrongfully terminated, second question was whether the remedy was for specific performance or damages
+- Trial judge gave a remedy of specific performance
+- Court looked at three factors to see if this was appropriate
+	- What was the nature of the property?
+		- This also has three parts
+		- Physical attributes of the property
+		- Subjective interests of the purchaser
+		- Circumstances of the underlying transaction
+	- Would damages be an inadequate remedy?
+	- What was the behaviour of the parties like?
+- Property seemed to be a prime candidate for a situation where specific performance doesn't apply
+- Court held that uniqueness doesn't mean that the property has to be incomparable to other properties, it just needs to have a use that can't be replicated elsewhere
+- In this case, the real estate market was rapidly rising, and the purchasers had to place a deposit to get the contract in the first place
+- Intentions of the purchaser matter too, would they prefer getting the land or the money?
+- If the purchase was intended merely as an investment, maybe damages would be more appropriate, but if it's being purchased to use, that's a different case
+- Evidence suggested that the plaintiffs were intending to move in and start a family there
+- Additionally, the conduct of the seller was clearly unethical, which further supported a decision to award a remedy of specific
+- Overall, the determination of remedies in these cases seems to have moved from the presumption of specific performance towards looking at the property
+### Qualified Transfers
+- These are cases where the transferor places conditions on a transfer that need to be met before the transfer is executed
+- Issue is what conditions are valid, and how conditions can be placed and what kinds
+- Example would "to UBC, so long as it is used for educational purposes"
+- The restriction here would be on the use of the property, can only be used for certain things
+- Another would be "to Dorothea, but not if she marries William Ladislaw"
+- This is from the Eliot novel Middlemarch, and is a restriction on the actions of the recipient
+- "to Mustard, provided that he continues to support his mother and siblings", this is a requirement of an ongoing positive action of the recipient
+- "to Rita once she reaches the age of 21 and completes law school, but not if she becomes a lawyer", this is a condition precedent, meaning something that needs to happen in the future
+- Also a restriction on the recipient as well
+### [[Stuartburn (Municipality) v Kiansky]]
+- In this case, the *Local Authorities Election* Act in Manitoba required elected officials to own property in the region
+- Issue in this case was whether someone holding a remainder interest qualifies here
+- Act requires the person to be the present owner of a freehold estate in land, which can be a fee simple, fee tail, or life estate (though now only the first and last exist in Canada)
+- Kiansky's grandma held a life estate, and granted the remainder in fee simple to Kiansky
+- He didn't have a right in possession, but did have a present right to the interest in remainder, which is still considered a present interest in land
+- Even if he didn't have possession until the life estate ended, the remainder and possession interest can coexist
+- This was because under English law, there couldn't be a point where there was no seisin during a transfer to a remainder or reversionary interest
+### Vested vs Contingent Interests
+- Can either say property is vested in interest or in possession, Kiansky was vested in interest and in possession
+- If someone has a life estate, they are vested in interest and in possession, and whoever holds the remainder is vested in interest, and later in both
+- A vested interest is different from a contingent interest, which requires a condition to be met
+- Common condition for this age, especially when land is being transferred to a minor
+### [[McKeen Estate v McKeen Estate]]
+- Issue in this case was whether an interest in a will was vested or contingent
+- McKeen died, and granted his wife a life estate, which upon her death would be distributed equally between his sisters if they are still alive
+- Also specified that if one sister died, then the interest would go to the surviving sister absolutely
+- Both sisters died two years before the wife, issue was whether the sisters needed to survive the wife to get the interest (contingent), or if it goes to them anyway (vested)
+- If the interest is contingent, then the residue of the estate would be intestate, meaning his property would be distributed based on the current statute
+- Court looked to some rules of construction for wills, most important is that they should be interpreted based on the intention of the testator
+- Second presumption is that whenever possible, the court should choose an interpretation that avoid intestacy, so you want to try and follow the will as much as possible

@@ -1,0 +1,32 @@
+- Accused was staying at his ex-girlfriend's house, got really drunk and set a pan of oil on the stove with the burner on high to make some bacon
+- Went to go get Tim Horton's with the pan still on the stove, the house set on fire
+- Charged with arson under s. 434 of the *Criminal Code*, tried to raise the defence of intoxication
+- Claimed the fire was an accident, he thought the stove was on low and didn't intend to set a fire or foresaw that one might happen
+- Trial judge held that arson is a specific intent offence, and acquitted the accused
+- Court of Appeal upheld the acquittal, issue went to the SCC
+### Analysis
+- First issue to address is whether arson requires specific or general intent
+- Current authority on this issue comes from [[R v Daviault]]
+- That case held that we need to look at the relative importance of the mental element
+- Generally described as requiring an "ulterior purpose" for the crime
+- However, an ulterior purpose is not always required for specific intent, we can see that murder is an example of a specific intent offense that lacks this
+- What we're looking for is any extra requirement like knowing about circumstances/consequences that would require complex thought or reasoning
+- For example, possession of stolen property requires specific intent because the accused must know the goods they have are stolen
+- *Daviault* also didn't address whether policy considerations are relevant to intent
+- Policy limits the defence of intoxication to specific intent crimes because we recognize that intoxication can affect complex intent, but not simple intent
+- Can also consider whether alcohol consumption is usually associated with a certain offence
+- Generally speaking, alcohol most often plays a role in violent crimes, as well as crimes involving damage to property or unruly conduct
+- Presence of a lesser included general intent offence is also relevant, because this offence will still be charged if the accused raises the defence of intoxication to the main crime
+- Final consideration is whether there is a high minimum sentence for the crime
+- Court finds that arson in s. 434 is a general intent offence
+- *Actus reus* is damaging property via fire, and the *mens rea* requires intention or recklessness
+- Nothing additional is required, seems overall to require minimal intent
+- Court of Appeal was concerned that making this a general intent offence would turn the recklessness requirement into an objective test
+- However, this isn't the case, it'll still be subjective
+- In most cases, the risk of damage by fire is pretty obvious, no complex reasoning is required to recognize the danger of setting a fire, even when there are multiple steps leading to the fire
+- Additionally, this offence deals with damage to property, which is associated with alcohol consumption
+- Issue of whether the intent was met in this case still remains
+- The act being criminalized here is not setting a fire, it's causing property damage via a fire
+- Determining how the fire started is important, but not the deciding factor
+- Real issue is whether the accused intentionally or recklessly caused damage to the property
+- Court held that the trial judges error in considering the defence of intoxication may have affected the acquittal, and ordered a new trial

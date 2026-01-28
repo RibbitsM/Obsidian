@@ -1,0 +1,67 @@
+- The parallel system of courts of law and equity also gave rise to a number of unique equitable remedies, as opposed to the damages approach preferred by the courts of law
+- Today, after the fusion of the two courts, all the remedies were preserved
+- When we make reference to an "equitable interest", we're talking about interests that were historically recognized solely by the court of equity
+- Recall that one of these equitable interests was the trust, allowing property to be separated into legal and equitable interests in land
+- Previously covered the idea of a resulting trust, where a trust returns to the party that owned the property in the first place in a number of different scenarios
+- One of the equitable maxims reads "once a trustee, always a trustee", meaning that trusts will not result to the trustee, but rather to the original owner
+- In the BC *Property Law Act*, a voluntary gift does not need to be given for the benefit of the transferee to prevent a resulting trust (s. 19(3))
+- Recall that a gift is presumed to be a resulting trust, unless it's between spouses or between a parent and a minor child, in which case it is presumed to be an advancement
+- To prevent a resulting trust, practice was to write "To A, for the use and benefit of A"
+- Since the *Statute of Uses* collapsed the legal interest into the equitable interest, common practice for a gift was to use the language of "use and benefit"
+- Transfers both legal and equitable interests, preventing a resulting trust
+- Today, the *Property Law Act* states that you don't need to do this, you can just write "To A" without having to worry about the *Statute of Uses*
+- May still give rise to a resulting trust, but can be rebutted
+- Motivation for this was just to get rid of the unnecessary practice of adding additional language to gratuitous transfers
+- Prior to the enactment of the *Property Law Act*, if you didn't use the specific language required, you would often be stuck with the resulting trust
+### Common Intention Resulting Trust
+- Essentially don't exist anymore, happens when two parties contribute to the acquisition of property, but only one party is named as the holder of the interest
+- Person with their name on the deed would be holding it partly in trust for the other
+- Common intention for both parties to be beneficiaries
+- Emerged most prominently in disputes between spouses
+- When divorces occurred, even though the husband's name was usually on the deed, his wife may also have a claim if there was common intention
+### Remedial Constructive Trusts
+- There are two main kinds of constructive trusts, remedial and institutional
+- We'll focus on institutional trusts
+- Remedial constructive trusts are mainly used as a remedy for unjust enrichment
+- Institutional constructive trusts emerge from institutions of trust, generally related to fiduciary relationships
+- Used to resolve and deter unconscionable conduct, or can be used to require specific performance in land transfer cases
+- Going back to remedial constructive trusts, they serve as a remedy by converting the property interest of the offending party into a trust they hold for the benefit of the harmed party
+- Need to prove that there was an enrichment, another party was deprived by the enrichment, and there was no reason in law for the enrichment
+- Arose in its remedial form mainly in family law cases
+- For example, in *Murdoch v Murdoch*, a farmer and his wife separated, wife claimed she should have an interest in the farm, her husband was the only one on the title
+- Majority of the SCC said no, but in dissent, Laskin pointed out that the husband was unjustly enriched, there was a deprivation, and no juristic reason
+- Proposed imposing a constructive trust as a remedy for unjust enrichment
+- Over time, Laskin's opinion became adopted by the majority across a series of cases
+- At some point, the Legislature intervened and changed the *Family Law Act* to make a 50/50 split in property as the default option at the end of marriage
+- Future cases mainly dealt with common law couples
+### [[Soulos v Korkontzilas|Institutional Constructive Trusts]]
+- Two circumstances in which these kinds of trusts can arise
+- First option is with unconscionable conduct
+- In this case, Soulos hired a realtor named Korkontzilas to help him purchase a commercial property in Ontario
+- Before Soulos could close the deal, Korkontzilas got his wife to buy up the property out from under Soulos
+- Soulos had a claim for breach of contract, but since the property value had actually declined since it was purchase, there were no damages to be had
+- Additionally, this meant there was no enrichment, meaning there was no grounds for a claim of unjust enrichment
+- Court held that constructive trusts also extended to cases where there was a violation of good conscience, you don't need proof of enrichment
+- Raises the issue of who's conscience we're talking about, recall the example of the Chancellor's foot, it's an uncertain standard
+- Court recognizes this, but argues that since the application of constructive trusts is so broad, the concept binding it together must also be broad
+- Law can gradually evolve based on the facts of the cases brought before it
+- As for this case, in Canada we can argue that based on this principle of good conscience, we can apply constructive trusts to wrongful acts like fraud or breach of duty, or as a remedy for unjust enrichment and deprivation
+- Established four conditions for imposing a constructive trust in the former case
+	-  Was there an equitable obligation or duty of loyalty?
+	- Did the acquisition of the assets come from a breach of that duty?
+	- Was there a legitimate reason for a proprietary remedy?
+	- Were there any factors rendering the constructive trust unjust?
+- First requirement seems to be met, the realtor was acting on Soulos' behalf, and had a fiduciary duty towards him
+- Second requirement was also met, as the realtor breached his obligation by not communicating information to his client and using that information to buy the property
+- Third requirement is met on the grounds that damages are useless, and Soulos seems to have a vested interest in buying this specific property
+- Fourth requirement is also met, but we can imagine that if a third party was involved in some way, a finding of constructive trust may be barred
+- Called an institutional trust because the violation of good conscience affects the standing of some longheld institution of trust
+### Semiahmoo Indian Band v Canada
+- Dispute over a piece of reserve land near the Peace Arch border crossing near White Rock
+- Canada compelled the nation to surrender 22 acres of the land to expand the border crossing, but is never actually used for that purpose
+- Sued Canada to return the land on the grounds that they surrendered it for no reason, but there was no express agreement from Canada to return the land
+- Court held that this is a context where monetary damages are insufficient because of the special relationship between the Band and the property involved
+- Also keep in mind that Canada has a fiduciary duty to Indigenous nations, and breached that duty by not minimally impairing the rights of the Semiahmoo Band
+- Based on these facts, it was appropriate for the Court to create a beneficial interest in the land through a constructive trust
+- Canada now holds that land in trust for the Semiahmoo Indian Band, shows how a constructive trust can create a property interest, not just affirm existing ones
+- 

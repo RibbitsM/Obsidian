@@ -1,0 +1,69 @@
+- Trust emerged first as a "use" under the equity system
+- Originally used as a way for religious orders that had a pledge of poverty like the Franciscans to have land, someone else would hold the land, and they would have the "use" of the land
+- Also used to postpone the incidents of tenure by giving someone else the land while preserving the use
+- The person providing the use is called the feoffor, person who gets the legal title is the feoffee, and the person who gets the use is called "cestui que use"
+- Example words of purchase and limitation would be "To F and his heirs to the use of C and her heirs"
+- Without the "to the use of" clause, this would be unenforceable, you can't transfer a fee simple interest to two people at the same time
+- However, this would grant the legal title to F, and equitable title to C
+- If a knight was worried he may die in battle and wanted to give their land to their minor daughter, they wouldn't want to do that legally
+- If they did, daughter might have to pay incidences of tenure or issues may arise from granting legal title to a minor
+- Instead, they can transfer it to a trusted friend to hold it for the use of the daughter
+- This way, even if the friend tries to claim title for themselves, court of equity will block it
+- Additionally, they can divide each of these titles differently
+- For example, the legal title can just be a fee simple, while the equitable title is divided into multiple life estates with a remainder
+- The *Statute of Uses* in 1535 tried to stop these tax evasion methods by stating that whoever has the use of the land would have legal title too, and would have to pay taxes
+- In response, lawyers created uses upon uses, looks like "To F and his heirs to the use of C and his heirs to the use of B and her heirs"
+- To distinguish the first use from the second use, people described the second use as a "trust"
+- Now, you say "to F and his heirs to the use of C and his heirs in trust for B and her heirs"
+### Trusts
+- Three main categories of trust, with the most important being the express trust
+- This is where the owner of a property transfers legal title to a trustee, and beneficial title to a beneficiary, all this is explicitly stated in the transfer
+- In this situation, the trustee will have certain obligations to the beneficiary
+- Most common manifestation of this is transfers of property to minors, where the trustee will hold the land until the beneficiary comes of age
+- We're going to focus on the other two kinds: resulting and constructive trusts
+- Three circumstances that can create a resulting trust:
+	- If a beneficial entitlement is not fully disposed of
+		- Pepper holds a fee simple interest, and transfers it to Rigby, in trust to Raccoon for life
+		- Rigby gets the fee simple interest, we can presume this because we assume that a transfer without limitation gives the largest estate possible
+		- Holds the fee simple in trust for Raccoon for life, an equitable life estate
+		- Fee simple transferred in full to Rigby, but the beneficial interest is only partially granted to Raccoon
+		- Reversionary interest isn't specified, so when the beneficial life estate expires, then the reversionary interest is held by Pepper as a resulting trust
+		- Therefore, when the life estate expires, the fee simple reverts to Pepper
+	- A gratuitous transfer (gift)
+		- Pepper holds a fee simple interest, and transfers it to Raccoon as a gift
+		- Assume that intention to give, intention to receive, and delivery were met
+		- Recall that equity presumes bargains, not gifts, and equity will not aid the volunteer
+		- Two possible presumptions here, either resulting trust or an advancement
+		- In the former case, Raccoon holds the property in trust for Pepper
+		- In the latter case, Raccoon holds the property in fee simple
+	- A common intention of a resulting trust
+### [[Pecore v Pecore]]
+-  Deals with the issue of presumptions of resulting trust vs advancement
+- Edwin had a bank account with the majority of his assets in it, and made it a joint account with his daughter, Paula
+- This is joint tenancy, which is a form of co-ownership we'll talk about later, alternative is tenancy in common
+- Under joint tenancy, when one tenant dies, the full ownership goes to the survivor under the right of survivorship
+- Because of this, when Edwin died, Paula got legal ownership of the whole account
+- However, in his will, Edwin gave the residue of his estate to Paul and her ex-husband Michael
+- Paula argues that she gets the whole account because of the right of survivorship
+- Michael argues that because Paula didn't contribute to the account, it was a gift
+- She held the account in a resulting trust with Edwin, and thus it's part of his estate that should be divided between the two of them
+- Questions to address here are which presumption applies, and whether it can be rebutted
+- Generally, all gratuitous transfers are presumed to be resulting trusts
+- However, the presumption of advancement applies instead in cases of transfers from husband to wife, or from a father to a child
+- Court states that we can remove the gendered language and instead apply advancement to transfers between spouses, and from parents to children
+- Today, we should limit that latter case to only transfers where the child is a minor
+- Some debate over whether this should also apply to transfers to dependent adult children
+- However, trying to determine dependency is too difficult to apply this approach
+- Based on this information, the presumption is that of a resulting trust
+- Court looked to evidence whether Edwin intended to give both the legal and equitable interests to Paula, or only the legal interest
+- One issue with this was that Edwin sent a letter to the bank saying that the joint account is not a gift, and is 100% in his name
+- However, considering the relationship between the two, it seems clear that this was done only to avoid Paula having to pay capital gains taxes on the joint account money
+- In the end, the court held that Paula gets everything
+### Madsen Estate v Saylor and Pavlovich v Danilovic
+- Very similar case with a presumption of a resulting trust
+- Instead, the debate between ownership was between siblings, not between ex-spouses
+- In the *Pecore* case, Paula's sibling supported her claim
+- In this case, the Court found that there was insufficient evidence to rebut the presumption
+- *Danilovic* held that where neither party in a case like this was credible, the case will be decided based on the burden of proof
+- The party trying to disprove the presumption has the burden, so you follow the presumption
+- In this case, the presumption was one of resulting trust

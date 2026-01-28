@@ -1,0 +1,9 @@
+- Defendant was a contractor supplying mail-coaches to the Postmaster-General, and supplied a coach to run mail between two towns in England
+- Agreed to keep the coach in good shape and was responsible for repairs and generally maintaining it in good condition
+- Plaintiff was a mailman who agreed to drive the coach, under the assumption that the contractor would uphold this promise
+- Defendant totally failed to take care of the coach at all, it had a bunch of problems, and one day it broke down and threw the plaintiff off the coach
+- Plaintiff was injured for life, and sued the defendant
+- Defendant argued that this lawsuit is baseless since the plaintiff was not a party to the contract between him and the Postmaster-General
+- Because the duty of the contractor to keep the coach repaired was not with the plaintiff, then the plaintiff cannot sue for a breach of that duty
+- Unfortunately, he can't get anything without a contract
+- Case dismissed, judgement for defendant

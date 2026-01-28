@@ -1,0 +1,33 @@
+- Recall that the defence of non-extreme self-induced intoxication is a common law defence, available on an air of reality standard
+- Only applies to specific intent offences, and if the offence is successfully raised for has a lesser included offence of general intent, you will be convicted for that offence instead
+- Otherwise, you will get an acquittal
+- Level of intoxication required for this defence is actually fairly high, doesn't apply to any level of intoxication, examples of cases where accused was quite impaired and the defence failed
+- For the defence of extreme intoxication, accused must be so intoxicated that they are effectively acting in a state of automatism, incapable of even generating simple intent
+- Didn't arise on the facts in [[R v Bernard]], but did come up in [[R v Daviault]]
+- Still a common law defence, but was later modified by statute via the *Criminal Code*
+- However, the burden of proof is higher, needing to be proven on a balance of probabilities
+- Additionally, it is available for all offences, though there doesn't seem to be any reason to raise it for specific intent offences
+- May even be available for strict and absolute liability offences as it has the possibility to negate the *actus reus* as well as the *mens rea*
+- Results in an acquittal if it is successfully raised
+- The *Daviault* decision ended up being quite controversial, even more so since the court decided on a narrow 5-4 split
+- After this decision, although the courts tried to make this a very narrow defence, there were a number of acquittals on this basis for crimes such as sexual assault or domestic violence
+- Parliament moved to amend the *Criminal Code* to limit this defence, and added s. 33.1
+- First version of this provision essentially positioned becoming extremely intoxicated as criminal negligence by statute
+- Effectively eliminated the defence of extreme intoxication for violent general intent crimes
+- Immediately raises the question of whether this kind of substitution is constitutional
+- Most prominent issue is a s. 7 challenge, though there could be the potential of a s. 11(d) challenge, but oddly enough this wasn't challenged on appeal for a long time
+### [[R v Brown]]
+- One of the first examples of a high-profile s. 7 challenge for s. 33.1, likely because it wasn't a sexual assault case and involved more than just alcohol
+- More sympathetic facts, young man took shrooms and alcohol at a college party and began acting erratically and uncharacteristically
+- Ended up breaking into a lady's house and assaulting her
+- In a similar case called *Sullivan*, the accused overdosed on prescription drugs and attacked his mother with a knife
+- In the *Brown* case, the courts ultimately decided that s. 33.1 was a violation of s. 7
+- Reason was that you can't say that anyone who voluntarily consumes intoxicants is guilty of a violent offence unless you can prove the loss of control was foreseeable
+- Additionally, should be able to foresee that you would commit acts of violence as well
+- In the reasons, the Court focused primarily on illegal drugs and not alcohol and relied on evidence to say that the premise of *Daviault* wasn't really scientifically accurate
+- It's pretty clear that alcohol can't actually put you in a state of automatism, though some other drugs can
+- This case effectively confirms that physical voluntariness is a fundamental requirement for criminal liability
+- One of the issues in *Brown* was what role that societal interests should play in the *Oakes* test
+- Very difficult to save a violation of s. 7 under s. 1, kind of a self-imposed limitation
+- In response to this decision, the *Code* was modified again, removing the substitution language
+- Now, can only convict when the defence is raised if all other elements of the offence are met and the accused made a marked departure from the expected standard of care

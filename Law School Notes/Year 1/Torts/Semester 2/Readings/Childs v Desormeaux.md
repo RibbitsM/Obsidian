@@ -1,0 +1,53 @@
+- After leaving a party hosted by two of his friends, Desormeaux (D) drove into oncoming traffic and hit another car, paralyzing the plaintiff who later sued for damages
+- He had a BAC almost over 3 times the legal limit, plead guilty and was sent to jail for 10 years
+- The party he was at was a BYOB event, and the hosts only provided 3/4 of champagne bottle served in small glasses
+- Hosts knew D was a heavy drinker, and when he was leaving the party, one host asked if he was ok before he drove home
+- Issue was whether or not the victim could sue the hosts for negligence because they let Desormeaux drive home drunk
+### Analysis
+- First thing to consider is whether this duty is already recognized at common law
+- Closest thing we currently have is that commercial alcohol providers (CAPs) have a duty to third parties injured by the drunken driving of their patrons
+- Three main differences between CAPs and private hosts
+	- Commercial hosts have a greater capacity to monitor alcohol consumption
+		- Also encouraged to do so because it means they know how much to charge someone when they pay their bill before leaving
+		- Additionally, regulators can training to condition servers to monitor the intoxication of patrons and how many drinks they have
+	- Sale and consumption of alcohol is monitored by law
+		- Who can buy and sell alcohol is limited by statute, and there are laws on where people can and cannot be intoxicated
+		- Also places special responsibilities on those who sell alcohol, and has an accompanying licensing scheme for those parties
+		- Keep in mind that employees also need special training, and have bouncers to enforce their policies and can cut people off if needed
+		- Private hosts have none of these tools or legal frameworks
+	- Contractual nature between bars and patrons is different from those between private parties in a social context
+		- There is a policy reason to impose a duty on CAPs because they directly profit from allowing customers to overconsume, and should be disincentivized
+- Overall, because of these differences, the duty should be considered novel and the *Anns* test is needed
+### Anns Test
+- First stage is establishing sufficient proximity, so the issue is whether or not private party hosts can be linked to third party drivers
+- Since the injury was not reasonably foreseeable, and because imposing a duty would require imposing a duty of nonfeasance
+#### Foreseeability
+- The plaintiff argues that there was foreseeability because the hosts had control and influence over the event where D was drinking
+- Unclear whether or not the hosts actually knew that D was very drunk when he left the party
+- However, the trial judge stated that they could have foreseen this because D was known to have driven drunk in the past and should have monitored his drinking
+- This is way too weak of a link to even make a weak connection, and not enough to establish a new duty of care
+#### Nonfeasance
+- Foreseeability usually only applies in cases where a positive act causes foreseeable harm to the plaintiff, but in this case the hosts made an omission
+- Because of this, you need more than just foreseeability to impose a duty of care here
+- They may have facilitated the consumption of alcohol, but this doesn't immediately create risks to third party drivers
+- Three situations where court impose a positive duty to act
+	- If defendant intentionally attracts third parties to an obvious risk that they have created
+		- Example would be that boat captains have to rescue passengers that fall overboard
+		- Similar to the duty of manufacturers to warn of dangerous products
+	- If the parties are in a paternalistic relationship of supervision and control
+		- Mainly applies to parent-child and teacher-student relationships
+		- Requires one party to be especially vulnerable, and for the other party to have some sort of power over the first party
+	- Where defendants exercise a public function or run an enterprise that comes with implied responsibilities to the public
+		- Usually, defendants are offering a service to the public that requires them to act with special care to reduce risk, this is the category CAPs are in
+- In all these cases, the defendant either created the risk to the plaintiff or has some level of control over that risk
+- Also needs to be something overriding the autonomy of the plaintiff that would waive their ordinary right to participate in risky activities
+- Finally, there is a degree of reliance from the plaintiff on the defendant, either the bar keeps the patrons safe, captain keeps their passengers safe, etc.
+- Only category the present case could fit into is the first one
+- Can say that hosting a party has some risks, but they're far below the risks that would be associated with a violent sport or a boat ride
+- Nothing reducing the autonomy of the guest her either, and the party hosts are definitely not acting in a public capacity
+### Application
+- Everything that happened at the party itself falls within the boundaries of non-dangerous conduct and don't seem to impose any positive duty
+- Might be possible to impose a duty to not serve a visibly drunk person that you know is going to drive home afterwards, but this didn't happen in this case
+- Hosts are entitled to respect the autonomy of their guests, and therefore they should have no reason to be held liable for the decisions of those guests
+- Public relies on CAPs to keep drunk drivers off the road, but the same cannot be said for their private counterparts that have none of the same responsibilities or incentives
+- Overall, no *prima facie* duty of care was recognized, and the appeal is dismissed

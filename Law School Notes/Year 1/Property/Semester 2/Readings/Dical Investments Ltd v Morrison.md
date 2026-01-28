@@ -1,0 +1,41 @@
+- Man named Thomas (one of the respondents) agreed to give Dical Investments $225,000 in the form of mortgage money
+- This was the second of two mortgages entered into by Dical
+- Dical planned to develop a subdivision on some land they owned, and went to a law firm to get financing
+- Firm go them in contact with Thomas, who advanced them the money as a mortgage loan with 15% interest per year, repayable in two years
+- Original mortgagee was a company called Julsta Investments that later assigned its rights under the mortgage to Thomas
+- After this, Thomas held two mortgages, mortgagee for both was Dical Investments
+- Initial letter of commitment (for the first mortgage) allowed the mortgagee to buy four lots for $60,000 each, which would expire when the mortgage was repaid
+- Seems clear that Thomas demanded this term to covince him to provide the advance
+- Letter of commitment for the second mortgage allowed him to buy 5 lots, and the option didn't have an expiry condition
+- Exercised by notice in writing to Dical, and the title to the lots were to be good and free from all encumbrances
+- Second mortgage was redeemed in 1987 before the subdivision plan was registered, and was paid in full plus interest and a bonus
+- A year before it was redeemed, Dical sued the respondents seeking an order that the purchase option was void
+- Argued that since the option could be used after the mortgage was redeemed, it was a "clog on the equity of redemption"
+- Also claimed it was void because it didn't include a condition saying it was only enforceable if there was compliance with s. 49 of the *Planning Act*
+- Trial judge determined that the case law said that this option isn't a clog, and is actually a fair commercial arrangement
+- This doctrine was initially intended to protect the mortgagor's right to redeem, meaning they can get their security back unaffected by the terms of the mortgage
+- Goal to to protect landowners from oppressive mortgages
+- Mortgagor can't have their property taken except by foreclosure, which is a test of the value of the property
+- SCC case addressed this case where two people agreed to a "not mortgage" that totally sold the land to the lendor with an option of repurchase
+- Court said this was a clog because it was effectively a mortgage, but the lender gets full ownership instead of a security
+- In this case, the respondents argued that rigidly applying this doctrine eliminates what was effectively a freely negotiated decision between equal parties
+- Enforceability should not depend on principles, but the nature of the parties and circumstances of enforcement
+- Held in a previous case called *Kreglinger* that a collateral agreement like this is valid unless it meets one of three conditions
+	- It's unfair or unconscionable
+	- It's a penalty clogging the equity of redemption
+	- It's inconsistent with the right to redeem
+- To determine this, you look at the "real bargain" the parties intended to make
+- Court ultimately held that this agreement was intended to make a commercial bargain that was freely and fairly negotiated
+- Didn't want to address the clogging doctrine for fear of undermining it
+- Instead ruled on the basis that the option agreement went against s. 49(21) of the *Planning Act* and is therefore unenforceable
+- Decision for the plaintiff
+### First and Second Mortgages
+- A first mortgage is where a mortgagor borrows money from a mortgagor, secured by equity in a piece of land
+- A second mortgage occurs when the same mortgagor takes out another mortgage, this time using their right to redeem the first mortgage as security
+- Now, in order to redeem their first mortgage, they have to first redeem the second mortgage
+- These are also called equitable mortgages
+- This usually comes up when someone doesn't mortgage their property for it's full value
+- Holder of the second mortgage is next in line behind the initial mortgagee when default happens
+- If they pay off what's left of the first mortgage to the initial mortgagee, they can get the title to the property
+- Because of this, interest rates for second mortgages are pretty much always higher than first mortgages
+- 

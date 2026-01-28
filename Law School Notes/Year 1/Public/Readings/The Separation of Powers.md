@@ -1,0 +1,128 @@
+- Chapter focuses mostly on the role of the judiciary
+- Relevant constitutional principles for the judiciary are the rule of law, judicial independence, and the separation of powers
+- Some of these principles have been affirmed within the Constitution, the 1867 *Constitution Act* specified that the British court system would be adopted in Canada
+- Also enabled the creation of inferior courts at the provincial level, with the federal level having its own courts
+- 1982 Constitution went a bit further by specifically laying out the principle of the rule of law and sets out the courts as the place to grant remedies for Charter infringements
+- Trial and appellate courts have mixed jurisdiction, hence why they can hear criminal trials
+- In 1975, the SCC got the ability to decide which appeals it hears
+## Court Structure
+- Canadian court structure relies on the independence of the superior courts, whose judges have security of tenure and are paid well to discourage manipulation
+- Superior courts have inherent jurisdiction, which basically means they can hear any case unless specified otherwise
+- For statutory courts, the government body creating the court also appoints and pays the judges
+- For superior courts, they're managed by the province, but the judges are appointed and paid by the federal government
+- SCC was created under s. 101 and is enabled by the *Supreme Court Act*
+- Judges are appointed by the executive branch, prime minister appoints the chief justice
+- Federal Court also comes from s. 101 and is enabled by the *Federal Courts Act*
+- Has jurisdiction for federal law matters like copyright and citizenship
+- Has a trial and appellate division, and concurrent jurisdiction with provincial superior courts when it comes to constitutional cases as long it's within that court's authority
+- Statutory courts lack inherent jurisdiction and are subject to appeal or review, but have jurisdiction over civil and criminal matters
+## Separation of Powers and Section 96
+- Most Canadian case law on the separation of powers deals with the judiciary
+- Probably the branch that has changed the most since 1982
+- SCC still refuses to deal with some issues like prosecutorial discretion, parliamentary privilege, and Crown prerogatives as it interferes with other branches
+- Basic elements of analysis when determining a court's jurisdiction under s. 96 are fivefold
+- The historical role of the superior courts, contrast between kinds of adjudication offered for claims, claims to entitlements from policy regimes, kinds of expertise needed by the adjudicator, and the importance of supervision from superior courts
+- Other considerations have been added over time, for example considering the "core" powers of the superior courts
+### Re Residential Tenancies Act
+- Refined the existing s. 96 tests into the *Residential Tenancies* test
+- Issue in this case was whether the 1979 *Residential Tenancies Act* in Ontario could create a tribunal that could resolve landlord-tenant disputes
+- This is basically giving an administrative tribunal a judicial function, is this allowed?
+- Precedent showed that you have to look to the "institutional setting" to see if this power can be given to a provincial body
+- Three steps to this test
+- First, have to consider the power or jurisdiction given to a tribunal in light of the historical conditions when s. 96 was written in 1867
+- Does it conform to a power or jurisdiction exercised by a Superior Court during Confederation?
+- If this analogy can be made, move on to step two
+- For step two, need to consider how the function works within its institutional setting
+- In this case, what kind of questions will the tribunal have to decide on?
+- If it's deciding on private disputes by applying recognized rules, that's a judicial capacity
+- If the court finds that the power here is not a "judicial power", then you can end the analysis there, otherwise move on to the final step
+- For the final step, look at the tribunal's function as a whole, is the judicial function a key part of the tribunal or just a minor part of it's overall function
+- If the grant of judicial power is the sole or central function of the scheme, and all other steps were met, tribunal is a s. 96 court and is therefore invalid
+#### Application
+- Settling landlord-tenant disputes is in the Superior jurisdiction, and the commission in question seemed to be exercising judicial powers like a court would
+- However, when it came to the third element, the central function of the tribunal was resolving disputes, but the judicial hearing was only a last resort after other methods were exhausted
+- I think this means that the tribunal is valid but they said it's invalid????
+- This test has been criticized, mainly for requiring historical analysis and lacking precision
+- Steps are pretty vague, and depend on the history of the province in question
+### Sobeys Stores Ltd v Yeomans and Labour Standards Tribunal (NS)
+- Yeomans was a Sobeys employee for ten years before being fired
+- Complained to the NS Labour Standards Director that he was dismissed without cause
+- Director ordered Sobeys to reinstate him, decision upheld by the Labour Standards Tribunal, but the NSSC said the *Labour Standards Code* gave s. 96 power to the Tribunal
+- Initially, the unjust dismissal provision (s. 67A) was put under the box of jurisdiction for equitable remedy of specific performance of employment contracts
+- As the test progressed, broader characterizations were suggested
+- Main debate was between jurisdiction over reinstatement vs unjust dismissal
+- Judge said that just because Superior Courts initially couldn't give reinstatement as a remedy doesn't mean the test automatically fails at the first step, can keep going
+- This is because the first step is extra narrow, and we need to consider that courts can evolve over time
+- Test also doesn't specify whether pre-confederation means pre-1867 or right before a province joined confederation
+- The *Residential Tenancies* Test says 1867, but that's probably just because it was in Ontario
+- We should be setting one benchmark that all provinces have to follow
+- Court ended up deciding that the Court should look at the jurisdiction in the UK at the time of Confederation, and the test ultimately failed at the third step
+- Appeal allowed, tribunal valid
+### Other Developments
+- In *MacMillan Bloedel v Simpson*, the SCC held that "core" powers of superior courts like the ability to try people for contempt of court, cannot be transferred
+- Superior courts should be uniform across the country, and should control their own processes
+- This is essential because of the role these courts play in upholding the rule of law
+- In this case, applying the three part test would have allowed granting contempt of court powers, which was seen as unacceptable
+- In light of this, another test was added to check whether "core elements" of a court's jurisdiction were being removed
+- Notably, this test did not come with any clear definition of what these elements are
+- However, we know for sure that these elements are required to uphold the rule of law and ensure the separation of powers
+### Re Code of Civil Procedure (Que)
+- Issue here was that art 35 of this code gave the Quebec Court exclusive jurisdiction over civil cases under $85,000 and gave the court's review decisions deference on future appeals
+- SCC needed to assess whether or not this created a parallel to the Superior Court
+- Considered six factors: scope of jurisdiction, exclusivity of the grant, monetary limits, mechanism for appealing decision, impact on superior caseload, and societal objective
+- Granting jurisdiction over any claim under $85,000 is extremely broad, and extends into multiple different fields of law
+- This jurisdiction was also exclusive, removing jurisdiction from Superior Courts
+- Original ceiling for statutory courts was $100, which accounting for inflation would be around 65k at the time of the decision
+- Proposed ceiling of 85k is a bit higher than that, but that may not be an issue
+- For the appeal mechanisms, this would create a different appeal system in Quebec compared to other provinces as cases could go straight from trial to appeal without superior court
+- Fifth factor was ignored, and the societal objective was increasing access to justice
+- However, this could easily be done by funding superior courts more
+- Overall, the majority decided that this decision violated s. 96
+- SCC was split 4-3, other judges argued it was constitutional, and that s. 96 courts currently had too broad of a mandate
+### McEvoy v AG of New Brunswick and AG of Canada
+- Example of s. 96 jurisprudence going beyond provincial laws to also affect Parliament
+- This case addressed the question of if Parliament could give provincial inferior courts jurisdiction to try all indictable offences in the *Criminal Code*
+- Goal was to create a unified criminal court in New Brunswick where all criminal cases could be tried to matter the offence
+- Undoubtable that Superior Courts initially had exclusive jurisdiction over indictable offences
+- Additionally, the proposed court is clearly a judicial body and is solely a court
+- On these grounds, the *Residential Tenancies* test is clearly met
+- Doing this would basically remove the Superior Court's jurisdiction over criminal law in the province, and is a violation of s. 96
+- Even though Parliament has authority over criminal law, the *Constitution Act* prevents it from messing with the jurisdiction of Superior Courts
+- Appeal allowed, proposal rejected
+- Decision didn't address whether judicial functions could be transferred from superior to federal courts, or whether small portions of jurisdiction are allowed
+- This issue has also arisen a couple times regarding youth offenders
+- PEI was allowed to make its inferior court a "Youth Court" that could try all offences committed by young persons, which was allowed because jurisdiction over young persons cases was not in the original Constitution
+- Recall that in *Simpson*, the issue was whether a lower court could get exclusive jurisdiction over contempt of court for youth offenders
+- Rejected because of its exclusive nature
+### Crevier v AG (Quebec)
+- Section 96 also limits the appellate and review functions of inferior courts and admin tribunals
+- This case sets out the structure of these constraints, which has two requirements
+- First, the arrangement of an appeal process has to be part of a general policy goal
+- Second, there can't be a bar to judicial review by the superior courts
+- Case related to the *Professional Code* which created a tribunal staffed by provincial judges that can consider appeals from a discipline committee
+- Issue was that these appeal decisions couldn't be reviewed by the Superior Court
+- Overall it looks like the tribunal here isn't really part of a policy scheme, it's more like an addition on top of a policy scheme
+- Also, the court found that even though the *Code* was written in a way that doesn't step on Superior jurisdiction, limiting Superior appeal power isn't allowed
+- A provincial tribunal cannot determine it's own jurisdiction without appeal/review
+- Appeal dismissed, tribunal struck down
+### Trial Lawyers Association of BC v BC Attorney General
+- Example of s. 96 constraining legislation affecting access to Superior Courts
+- Issue here was that BC was creating court hearing fees to fund the court system
+- Argument was that for many people, these fees that can reach into the thousands of dollars restrict their access to the justice system
+- Hearing fees are part of the "administration of justice" section in s. 92(14)
+- However, provinces have to exercise this power in a manner consistent with s. 96
+- Question is if preventing access to justice affects the jurisdiction of Superior Courts
+- Original goal of these courts is to resolve disputes between individuals, so preventing those individuals from coming to court does affect this function
+- In the past, bars to accessing court have been deemed unconstitutional
+- Additionally, access to courts has been shown to be crucial to the rule of law
+- Hearing fees, if they do exists, must be set at a point where anyone not impoverished can afford them, with exemptions for those who are indeed impoverished
+- Used the example of a plaintiff who was not impoverished but still had to pay her net monthly income as a court fee
+- Additionally, forcing litigants to publicly recognize their lack of money and ask for excused payment is an affront to dignity
+- Goal was to prevent prolonged trials, but this isn't always the plaintiff's fault
+- May promote less use of court time, but not necessarily efficient use
+- Majority chose to rule the fee scheme as unconstitutional
+#### Dissenting Opinion
+- Argued that this is micromanaging the provincial government
+- No clear constitutional provision preventing this, we shouldn't be asking the provincial govt to spend more or forego cost recovery to ensure access to justice
+- Merely adding fees does not significantly damage the Superior Court
+- Right to access Superior Courts is not an express right found anywhere in the Constitution

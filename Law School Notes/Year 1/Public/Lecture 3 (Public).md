@@ -1,0 +1,79 @@
+### Recap
+- [[Antecedents of the Charter#Roncarelli v Duplessis|Roncarelli v Duplessis]] shows us how the rule of law functions in practice
+- Premier tried to use his executive power in a matter not intended, and the courts applied the rule of law and prevented him from doing so
+- Example of how courts safeguard constitutional rights
+- In Canada, the division of powers empowers and limits the branches and levels of the government
+- Don't worry about the details of division of powers cases
+- Main concern is whether or not a rule is directed towards exercising a power held by the relevant level of government
+- Other point of these cases is to show how cases that would today be Charter issues used to be partially addressed by division of powers cases
+- At the time there was no way to have a discrimination issue considered in court
+- Same goes for [[Antecedents of the Charter#Switzman v Elbling|Switzman v Elbling]] and [[Antecedents of the Charter#Dupond v City of Montreal|Dupond v City of Montreal]], these cases would today be under freedom of speech
+- Can see this from the reasons in *Elbling*, the concurring judge talks about how important the freedom of speech is to a democracy
+- Example of the "implied bill of rights" in practice, and the *Dupond* case shows how those implied rights weren't always respected
+- Parliamentary sovereignty means that no Parliament can bind a future Parliament
+- Therefore, past statutes can be overridden by future statutes, any explicit or implicit conflicts will be resolved in favour of the later statute
+- The Canadian Bill of Rights is kind of an exception to this, it states that to derogate from the Bill of Rights, it has to be stated expressly
+- This may be contrary to parliamentary sovereignty, but people avoid this by arguing that this "manner and form" requirement is procedural only
+- Also, it has kind of a quasi-constitutional status that makes it special
+- Example of a statute that's considered part of the Canadian Constitution
+- The manner and form requirement resembles the language used in s. 33 (the notwithstanding clause), which is a part of the entrenched Constitution
+- Feels kind of weird because it's not really a restriction at all, because all the government has to do is say they're derogating from the Bill of Rights
+- Probably a couple reasons for this, the Bill would never have passed Parliament if this clause was excluded, and it at least makes the violation of rights explicit
+### Canadian Judicial System and Section 96
+- Superior courts have inherent jurisdiction, granted by the Constitution
+- All other courts are empowered by statute, including the SCC
+- SCC is the final court of appeal in Canada, and it's decisions are binding on lower courts
+- Besides the ordinary court structure, legislatures are allowed to create agencies with certain powers, including the power to adjudicate
+- For an easy example, think about the RTB in BC
+- Section 96 of the Constitution places limits on what powers these tribunals can hold
+- Goal of this is to avoid statutory courts and tribunals from overlapping and stepping on the toes of the superior courts
+### [[The Separation of Powers#Re Residential Tenancies Act|Residential Tenancies Test]]
+- 1981 case, created a three-step test for determining whether or not s. 96 has been violated
+- In short, the three steps are a historical inquiry into the powers of superior courts, whether the court in question was given judicial power, and how important that power is in the institutional setting
+- For the first step, courts have to specifically look at the powers of superior courts at the time of Confederation
+- Interesting because it's an example of a part of Canadian law explicitly bound by history
+- One thing that make superior courts distinct are that they are managed by the provinces, but the judges are appointed and paid by the federal government
+- For the second step, the definition of "judicial power" is ruling on civil disputes that require the application of a set of rules
+- For the third question, you have to consider how important the judicial function is to the goal of the administrative scheme as a whole
+- Is the purpose of this commission/tribunal solely to work as a court, or does it have these judicial functions as a small part of the broader policy scheme?
+- Overall, this case is a good example of the kind of multi-part doctrinal tests that will be rampant in constitutional law
+- Also the SCC has the same status as superior courts due to the 1982 Constitution, but not exactly in the same way as it's technically a statutory court
+### [[The Separation of Powers#Sobeys Stores Ltd v Yeomans and Labour Standards Tribunal (NS)|Sobeys Stores]]
+- Example of how these tests are developed over time, in this case it's with the *Residential Tenancies* test
+- Again, the finer details aren't really important
+- Two main issues in this case
+- Does the jurisdiction of the new court have to be exclusive compared to the superior court, or concurrent?
+- Also, for the historical test, are we counting what powers the court had in 1867, or what powers the court had when the relevant province joined Canada?
+- Not an issue for the four original provinces, but for other provinces it can create problems
+- Court found that you should look to the powers the provincial superior court had at the time of Confederation, and compare that to the powers of courts in the four original provinces
+- In the event of the tie, look at the powers of UK superior courts at the time
+### Core Powers
+- There have also been examples of cases where the courts find that there are certain powers legislatures can never take away from s. 96 courts
+- In the [[The Separation of Powers#Re Code of Civil Procedure (Que)|Civil Procedure]], the Court held that even if the *Residential Tenancies* test is met, you can't transfer certain key powers
+- In this case the issue was whether Quebec could give their provincial court power over all civil cases under $85,000
+- Met the *Residential Tenancies* test, but the Court refused to allow this to happen regardless because it transferred a core power
+- In [[The Separation of Powers#McEvoy v AG of New Brunswick and AG of Canada|McEvoy]], the issue was a transfer of all criminal court jurisdiction being transferred to a provincial court
+- In [[The Separation of Powers#Crevier v AG (Quebec)|Crevier]], the Court found that there were limits on what Legislature can do to shield tribunals
+- The Quebec legislature gave their Professionals Tribunal final power to decide on its own jurisdiction, designed to prevent interference from superior courts
+- SCC said that this may be ok in some contexts, for example if the only questions addressed related to statutes
+- This is called a privative clause, where a tribunal has isolated jurisdiction
+- However, this is a question of jurisdiction, the province can't isolate the jurisdiction of a court like this
+- Message is that certain powers of the superior courts are protected, and the Legislature is not allowed to give away these powers to tribunals and provincial courts
+### [[The Separation of Powers#Trial Lawyers Association of BC v BC Attorney General|Trial Lawyers Association of BC v BC Attorney General]]
+- Issue in this case was an example of how a moderately well-off plaintiff was forced to ask for a waiving of court fees because they were exceeding her net monthly income
+- Raised the issue of whether or not high court fees pose a barrier to access to justice
+- Access to justice is a core part of the jurisdiction of superior courts, similar to the other core elements we discussed earlier
+- Derives from the fact that the point of these courts is to resolve disputes, which can't happen if the parties can't afford to get into the court in the first place
+- It's also an element of the rule of law, because it serves as a mechanism of accountability, which can only function if individuals can successfully take the government to court
+- Any issue of access to justice is therefore also an issue of rule of law
+- Raises an issue of constitutional interpretation, because rule of law is an unwritten principle of law
+- Dissenting judge argued that on it's own, an unwritten principle cannot be used to strike down an otherwise legitimate piece of legislation
+- Principle behind this is that we shouldn't be giving interpretation this much weight
+- Nowhere in the Constitution does it ever mention an express right of general access to superior courts, the majority was inventing a principle to strike down a piece of legislation
+- It's an overstep of the powers of the court
+- Also, because it's an unwritten right, it's not subject to justification under s. 1 and cannot be overridden under s. 33
+### Summary
+- Should be able to explain the basic judicial structure in Canada
+- Should be able to explain s. 96 and the separation of powers
+- Should be able to shoe how rule of law and access to courts are related
+- Also should be able to consider issues of constitutional interpretation

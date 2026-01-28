@@ -1,0 +1,118 @@
+- Read the prompt, what do we need to talk about
+- Identify all the issues you can, only talk about the ones relevant to the prompt
+- In this example (2023 exam), you want to argue both sides
+- Some issues will be slam dunks, but try to find arguments from either side, thoroughness and a balanced analysis is important
+- Don't be afraid to say that an issue can't be determined, many things are uncertain
+- Most marks come from your analysis, not your conclusion
+### Potential Issues
+- Was there a meeting of the minds?
+- If Frank never intended to supply the apples Gail asked for, was there really an agreement?
+- What is part of the agreement?
+- Can argue that everything before the e transfer is sent was preliminary negotiations
+- However, after this Gail requests that Frank only send half the shipment, did this void the agreement? Can it be incorporated into the argument?
+- There was no written agreement, everything was oral
+- Main analysis will be on certainty of terms, who was going to send the trucks?
+### Answer
+- Could start by raising the issue of whether there was intention to contract, but given there's no real evidence to the contrary this would be a one line type of thing
+- Probably won't hurt if you leave it out, but can help
+- Usually, when an issue is not in contention you will just save time by not addressing it
+- Can also discuss the ad for apples not being an offer in itself
+- Who made the offer, did it start with the ad or was the offer made by Gail?
+- We only know the outcome of the initial negotiations, which indicated that Frank was willing to enter into a binding agreement with Gail
+- This would mostly be based on the fact that Frank was the one who summarized the agreement
+- Gail seemed to have agreed to the contract, she said "absolutely" when Frank said he would dispatch the trucks on April 1st
+- Not everything was decided in the initial negotiation, uncertain terms were the prices of future batches, the type of apples, and how the delivery would be made
+- Starting point is that agreements to agree are unenforceable, but Canada and UK courts have indicated willingness to allow this if the uncertainty was in a non-essential term
+- Agreements like these where future prices aren't determined are usually not enforceable, but it's not impossible
+- Parties were able to easily agree on the price of the initial shipment, and they referenced the market value of apples as a way to determine future prices
+- No arbitration clause here, so no clear way to address the uncertainty
+- Could argue that severance could be used as a remedy, excising everything outside the initial agreement
+- Need to show what case each statement is based on, no need for full style of cause
+- Overall, it seems like there was a functional agreement on the first batch
+- But what about the trucks, there was a disagreement on who would send them
+- The initial agreement suggests that Frank would send the trucks, and usual practice is that the grower will send the trucks
+- However, this is not an essential term, and can probably be ironed out later
+- After the disagreement, they did ultimately agree that Frank would provide the trucks
+- Other uncertain term to address is what kind of apple would be sent
+- Reasonably speaking, you could argue that the variety of apple was left to Frank's discretion
+- Ambrosia apples were highlighted in the ad, and Gail expected to receive Ambrosia apples which was also addressed in Frank's letter at the end
+- The case we use for vagueness is [[Lecture 7 (Contracts)#Scammell and Nephew v Ouston|Scammell and Nephew]]
+- Can imply that the mutual intention of the parties was that Gail was supposed to get Ambrosia apples
+- Consideration was established here, Gail sent the money
+- Privity is not a live issue, there were no third parties involved
+- The contract was mostly oral, but there's no longer a requirement to have written contracts for non-land agreements
+- Another important issue is waiver/promissory estoppel, after the fuel prices were raised, Gail asked to send only half a batch
+- If this is considered to be part of the argument under promissory estoppel, she may be held to this agreement even though no fresh consideration was given
+- However, Canadian courts have started to move away from this in the aftermath of [[Lecture 15 (Contracts)|Rosas v Toca]]
+- Last issue to address is if there were any vitiating factors
+- Letter at the end indicates there was misrepresentation on Frank's part
+- However, it's debatable if the original contract was for specifically Ambrosia apples
+- You'd probably need more information to make a definitive statement on this issue
+- A potential issue that could be raised here is an implicit requirement to negotiate in good faith
+- Usually limited to negotiations made after the initial contract is set
+- In this case, the main bad faith issue is the letter at the end, which relates to a pre-contractual negotiation
+- Overall, misrepresentation would be the better option to address this
+- This is a summary of all the possible issues in this case, you're not expected to put all this on the exam
+- Depth of analysis should be your priority on the exam, that's where the marks are
+### 2019 Practice Exam
+- Leaves a message presuming silence as acceptance (offer and acceptance)
+- Pedro says they'd theoretically accept an order for 3000 pots at the proposed price of $1 per pot (same)
+- Consuelo doesn't specify quantity of order, just a range (certainty)
+- Dad gives pots to Consuelo for past consideration
+- Offers different set of pots in exchange for agreeing to be their guarantor for loan 1
+- Guarantee agreement secures loan 1 in exchange for the continuation of loan 2
+- Dad goes back on promise to give the pots for past consideration, claims they gave them to Bigotes for nominal consideration (2 beers)
+- Bigotes' lawyer says the dad actually promised Bigotes that Consuelo could have the pots in exchange for the beer given to Bigotes
+- This is confirmed by the dad
+
+Implications of dealing with Pedro
+- Issue was if there was offer and acceptance here
+- Initial offer was the message on the answering machine, offeror can't decide that offeree's silence is acceptance (Felthouse v Bindley)
+- This offer was rejected, Pedro's response wasn't a counteroffer because they just said they'd consider an order of 3000 pots, not that it would be acceptable (Dyers or Harvey)
+- Consuelo tried to modify their original offer, but they didn't list a specific quantity, only a price
+- May be a binding offer, but likely not
+- In any case, Pedro did not accept
+
+Can bank enforce the guarantee?
+- Issue is whether there was consideration
+- Normally guarantor agreements are enforceable because in exchange the bank is giving the loan as consideration
+- However, in this case all the bank is doing is agreeing to uphold an existing bank loan
+- This is a promise subject to a pre-existing contractual duty to a third party, which are ordinarily enforceable (Scotson v Pegg and Shadwell v Shadwell)
+
+Can she get pots from dad
+- North greenhouse pots subject to whether the agreement to guarantee the loan in exchange was enforceable
+- First of all this is an agreement between family members, so already we assume it's not enforceable
+- Also nothing to indicate that there was an intention to create legal relations
+- Assuming it is though, we need to see if this was consideration
+- It should be, the dad gets a benefit by having one of his loans guaranteed, and Consuelo gets the pots
+- As long as the dad finds the guarantee valuable, it's all good man (Currie v Misa, 1875)
+- South greenhouse pots also subject to consideration issues
+- Dad promised Sam that Consuelo could have the pots and gave same two beers in exchange
+- Told this by both Sam's lawyer and her dad
+- Technically this is fine, the dad gave something up (the pots) and got two bottles of beer in exchange
+- Use bank guarantee as an example
+- Consideration present for both agreements
+- However, if her dad does later back out on either of these agreements, she can't enforce the first contract because they're family, and can't enforce the second contract because she's a third party
+
+### 2024 Practice Exam
+- Advertisement is invitation to treat, makes statements about the car, unclear if they are sales talk or statements of fact. Seems that "great on gas" and "exquisite working condition" could be sales talk, but "driven 95,000 km" is likely a statement of fact
+- Jim took the car for a test drive and examined the interior/exterior, also took it to a mechanic
+- Likely that this would be considered an independent investigation
+- Jim's initial offer is $4000, Sam's response would likely be considered a counteroffer because the words "for you" implies willingness to accept a certain price (Dyers)
+- Sam tries to amend his counteroffer to $5000, but was never communicated (Blair)
+- When Jim calls Sam, he asks another question about the mileage, implying that Sam represented that the mileage was under 100k after the investigation happened
+- Jim makes an offer for $4,500, Sam makes a counteroffer of that price plus another agreement for Jim to purchase winter tires from Bob
+- This additional term from Sam is valid consideration, benefits to third parties count like in bank guarantee cases, though consideration is already present in the $4500
+- Jim agrees, this seems to be the moment of acceptance
+- Sam gives Jim the keys and Jim pays the money, consideration passes hands
+- When Jim notices some issues, he may have grounds for a claim of misrepresentation
+- Likely can't complain of the mechanical issues (independent investigation + sales talk), and the same goes for the fuel mileage (Andrews v Hopkinson)
+- However, he probably has a claim based on the mileage on the car
+- He stated that he specifically wanted a car under 100k miles, and Sam represented that the car had less than 100k miles several times
+- Even though Jim inspected this independently, this isn't always determinative (Issa v Wilson) and Sam also represented the mileage again after the investigation
+- If he contacts Sam and asks to rescind at this point, he would probably be successful
+- There was a material misrepresentation of fact that induced him into the purchase, and it's only been a week so that should be within a reasonable amount of time for a sale of goods (Ennis v Klassen)
+- Jim also likely breached the contract by not buying the tires from Bob, which would be considered as part of the contract
+- Shown by the fact that Sam only agreed to sell the car at $4500 in the case that Jim also buys tires from Bob
+- Sam could try and enforce this part of the agreement, but likely would not be successful assuming Jim can prove misrepresentation because contracts via misrepresentation are voidable up until the point of rescission (Urban Mechanical v Zurich)
+- However, that case is in Ontario, this is BC

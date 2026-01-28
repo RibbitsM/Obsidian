@@ -1,0 +1,74 @@
+### Recap
+- Courts of appeal are also considered superior courts, a power granted to them by their enabling statutes
+- Recall that s. 96 sets limits on what powers that legislatures can give to tribunals
+- One key purpose of s. 96 is to keep courts consistent across Canada
+- Use the *Residential Tenancies Test* to determine whether the instrument in question is using judicial power and infringing on the purview of the superior courts
+- First step is historical inquiry, second step is judicial power, third step is institutional setting
+- Judicial independence is another method of ensuring the separation of powers
+- For the first step, need to see if the power exercised by the tribunal in question was among the powers of superior courts in the original four provinces
+- If that power was only in two of four provinces, look to the power of UK superior courts as a tiebreaker
+- For the second step, need to see if the function of the tribunal or board is to resolve disputes between individuals by applying a set of rules
+- For the third step, check if this judicial function is a core part of the policy scheme
+- If any of these steps fail, no violation of s. 96 as long as the judicial body doesn't take away any parts of the "core jurisdiction" of superior courts
+- Examples of these are removing responsibility for dealing with civil issues under $85,000 shown by *Reference re Code of Civil Procedure*
+- Originally established by a case called *Macmillan Bloedel*, principle designed to fill any potential gaps left in the *Residential Tenancies* test
+- Section 96 also has an impact on the rule of law, in *Trial Lawyers Association of BC*, the courts held that raising provincial court fees undermines the rule of law by restricting access to justice
+- This is because the goal of the rule of law is holding the executive and legislative branches accountable, which is mainly done through the courts
+- If those courts are inaccessible, makes this difficult or impossible
+- Raises the issue of whether the court can actually make this argument, there is no written requirement of access to justice anywhere in the Constitution
+- Keep in mind that under s. 92(14), provinces have the ability to administer justice and set things like court fees
+- Intentionally left for the legislatures to decide, not the courts themselves
+### [[Judicial Independence#PEI Provincial Court Judges Reference|Elements of Judicial Independence]]
+- Principle of judicial independence allegedly found in the preamble and s. 92(14) of the 1867 Constitution, as well as in s. 11 (d) of the 1982 Constitution
+- Overall recognized as an unwritten principle of the Constitution
+- This, and other unwritten principles serve to fill in gaps in the written text of the Constitution
+- There are existing protections for judicial independence, but only explicitly protect superior court judges, and make no reference to the provincial courts
+- Court recognized this lack of protection, issue is whether or not it should be implied in
+- Question is whether or not this is an overreach of the court
+- Talk about independence of the judges themselves, as well as the ability of the courts to operate independently of other institutions
+- Should be perceived as exercising their powers without interference, as well as being free from interference in reality
+- This privilege should be extended to provincial as well as superior courts, to avoid undermining the principles dictating the independence of the superior courts
+- There is no difference between provincial and superior courts justifying this difference
+- Court discusses three elements of judicial independence
+	- Security of tenure, meaning judges can't simply be dismissed for a decision the government doesn't like for some reason
+	- Financial security, mainly just a minimum level of compensation for judges to make sure they're not subject to bribes
+	- Administrative independence, courts can't be subject to influence from the other branches of the government
+- All three of these elements are designed to isolate the judicial branch as an institution from the influence of the other branches
+### [[Judicial Independence#Ref re Renumeration of Provincial Judges|Relation to Separation of Powers]]
+- Goal of this principle is to ensure the separation of powers, so that courts can operate independently of the legislative and executive branches
+- Major issue is financial independence for the judicial branch
+- Don't want to have judges negotiating with the legislative branch to get funding
+- But without this, how do the courts get funded?
+- Three components for financial security
+	- First are independent commissions, Constitution requires these commissions to determine the salaries of judges
+		- To support this, courts cited a case called *Valente* talking about the individual independence of judges
+		- Commissions are advisory only, and the legislature can decide not to follow these recommendations but that decision is subject to judicial review
+		- Judges lack the ability to bargain collectively compared to other professions, need to maintain the principle of judicial independence
+		- This approach is arguably better than the alternative, which would be not having commissions to determine judge salaries
+	- Second is no negotiations
+	- Third is idk something else
+- Ironically, this case basically consisted of a bunch of judges arguing about the mechanisms by which the government should pay them
+- Keep in mind is that the priority for the government is to avoid "horse trading" and to prevent judges from trying to negotiate their salaries
+- Additionally, we can think about the government not having to follow the commission requests as similar to the Bill of Rights issue
+- They can refuse to follow the recommendations, but they have to publicly justify that decision
+- Raises the issue of whether the courts overstepped their role by determining the elements of financial security
+- We already had a debate over whether courts could determine court fees, here we have courts ordering the creation of entire commissions determining their salaries
+- Can definitively say that none of this stuff is actually in the Constitution
+### [[Judicial Independence#Reference re Supreme Court Act ss 5 and 6|Judicial Appointments]]
+- Sections 5 and 6 of the *Supreme Court Act* relate to the appointment of SCC judges
+- Requires that three of the nine judges must be selected from the Quebec Supreme Court or Quebec Bar as a whole
+- At the time of their appointment, Justice Nadon met neither of these requirements
+- Need to figure out if this requirement has to be met at the time of appointment, as Nadon had previously been a member of the Quebec Bar
+- In s. 5, current and former barristers are allowed, but s. 6 only allows current lawyers
+- Court argues that s. 6 needs to be seen as part of the bargain made with Quebec at Confederation
+- Concern was that the SCC wouldn't be able to understand the law and culture of Quebec
+- Based on that principle, the court held that Justice Nadon wasn't eligible
+- If we follow this reasoning, then someone who joins the Quebec bar for one day can be elected to the Supreme Court on that day
+- Court also held that initially, the *Supreme Court Act* was an ordinary statute, but became entrenched when it was adopted as part of the Constitution
+- Keep in mind that the intention of this provision was to ensure that at all times, the SCC has at least three judges with a deep understanding of the civil law
+- Section 41(d) of the 1982 Constitution Act requires the unanimous consent of the provinces to adjust the Constitution, and details the composition of the SCC
+- This case hinges on how we interpret ss. 5 and 6, and also how the constitutional bargain influences how we interpret the document as a whole
+### Summary
+- These cases raise the big issues of the importance of Constitutional history, and the institutional role of courts
+- We should now know the core elements of judicial independence, and the constitutional aspects of judge appointments
+- Should be able to examine the institutional role of courts and debate issues of constitutional interpretation

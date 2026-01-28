@@ -1,0 +1,58 @@
+- Judicial review can be understood as the power of the courts to determine if a law or action is in compliance with the Constitution
+- Section 52(1) of the 1982 *Constitution Act* declares that any law inconsistent with the Constitution is of no force
+- Most disputes that go to court are where the line between a violation and no violation is thin
+- Some may also ask to rule legislation unconstitutional because it contradicts the principles of the Constitution, not necessarily its text
+- Issue here is that unelected judges are striking down the laws created by a democratically elected body
+- Whether or not judicial review is legitimate is a still-undecided issue
+- Another issue to consider is what sources courts can draw on while performing a judicial review
+### References, Structural Argumentation, and the Organizing Principles of Canada's Constitution (Robin Elliot)
+- Talks about "structural argumentation", a method of argumentation used frequently by the SCC
+- This is one of six forms of argumentation, all using different sources
+- First form is historical argumentation, which points to the intentions of the original creators of the constitution as evidence
+- More popular in the US, but can still be convincing in Canada
+- Second form is textual argumentation, basically focuses on interpreting the text of the provision being questioned in the modern context
+- Third form is doctrinal argumentation, refers to taking precedent from arguments made in previous cases
+- Probably the predominant form in Canada, used extremely frequently
+- Fourth form is prudential argumentation, which means a practical argument
+- Usually used in relation to the proportionality test from [[R v Oakes]], what is the most efficient option when it comes to running the government
+- What are the potential outcomes of interpreting the constitution in a certain way?
+- Fifth form is ethical argumentation, which is described in terms specific to America, but could also be understood as appealing to the "Canadian ethos"
+- Mainly applies to using the Charter, intention is to protect vulnerable groups
+- Can also be described as arguments based on principle, usually one of the four underlying principles of the constitution
+- Finally, structural argumentation comes from inferences drawn from constitutional structures and the relationships between them
+- Basically refers to logical inferences, usually not based on any outside facts
+- Usually comes in the form of considering a text in context of other constitutional provisions
+### Reference re Meaning of "Persons" in S. 24 of the 1867 BNA Act
+- Issue was whether the word "persons" in s. 24 of the 1867 Constitution included women, brought by the famous five
+- Section establishes that the Governor General can appoint "fit and qualified Persons" to the Senate of Canada
+- Goal of the court is to determine whether or not the word "persons" includes women, based on the available information in the Constitution
+- When interpreting a statute, we generally use all the common meanings of the words used
+- Two important facts to consider here 
+- First that the Act created the office of Senator, and therefore nothing outside the Act gives the right to hold that office
+- Second that based on English common law, women cannot hold public office
+- Before 1867, the three provinces of Canada, Nova Scotia, and New Brunswick all recognized the incapacity of women to hold office
+- However, despite this fact, did Parliament indicate that women may be able to be Senators?
+- This would certainly be odd, as women cannot serve in the House of Commons or vote
+- It's clear that the word "persons" includes women, the real question is what the requirement of "fit and qualified" adds to that
+- This question had previously been asked in reference to *Lord Brougham's Act*, which allowed "every man" to vote, which it was ruled did not include women
+- Overall it seems like the common law clearly indicates that women cannot vote or hold public office, and thus are not included in the definition of "qualified persons"
+### Edwards v Canada (AG) (The Persons Case)
+- Same issue as the previous case, the Supreme Court previously held that the answer is no
+- Brought to appeal in the UK, you used to be able to do that
+- Two things to consider when interpreting words in an act of Parliament
+- First, external evidence from previous legislation and decisions
+- Second, evidence from the act itself
+- Initial decision was made based on external evidence of women's historical exclusion from politics
+- *Lord Brougham's Act* from 1850 specifies that all words involving the masculine gender include women unless specifically stated otherwise
+- This was questioned in *Chorlton v Lings* where the court determined that a statute allowing "every man" to vote did not include women despite *Brougham's Act*
+- However, the word "persons" is even more vague than "man"
+- Arguing that no women have ever held office before isn't a great argument since custom prevented such a thing from ever being attempted
+- Countries and societies change, just because something has always been one way does not mean it should not change eventually
+- The goal of the 1867 Constitution was to create a living organism in Canada that would develop over time into something distinct from Britain
+- It should be interpreted liberally, and no decision needs to be made on the rights of women
+- We're only asking whether the Governor General has the ability to call women to the Senate
+- Looking within the act itself, there's nothing directly implying that women are excluded from the Senate
+- In fact, s. 41 specifically uses "persons" to describe those eligible for Senate membership, and "males" to describe those eligible to vote
+- This distinction appears in other sections as well
+- Finally, s. 133 allows that any person can use English or French in court, further indicating that "person" is being used in a gender neutral context
+- Overall, the court overturned the Supreme Court decision, holding that the evidence suggests that "persons" is a gender neutral term

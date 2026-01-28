@@ -1,0 +1,72 @@
+- When we talk about the "common law" here, it's not the same as the modern meaning
+- Before the modern developments of a centralized legal system, used to be multiple different courts and court structures, with common law and equity courts being the two main systems
+- Eventually, over time all these divergent systems were consolidated into what we now call the "common law" in Canada
+- Early English courts could be divided into three categories
+- Local courts, feudal courts, and royal courts
+- Out of these three, the royal courts practiced what we would now call the common law
+- Local courts dealt with small-scale local disputes related to the system of communal agriculture
+- Relied mainly on customary law emerging from the lived experience of locals
+- Had a territorial jurisdiction, only had power in the local area, and existed long before the Norman Conquest and lasted for quite a long time
+- Mostly disappeared as the process of enclosure progressed and private property became the primary mode of ownership
+- The feudal courts came from the structure of feudal ownership
+- Recall that feudal relations connected [[Land Law|personal relationships to property relationships]]
+### [[History and Development of Equity|Royal Courts]]
+- The royal courts mainly served the landed gentry, the peasants were confined to the local and feudal courts
+- Royal courts mainly dictated relationships between the monarchy and nobility
+- Three royal courts: Exchequer Court, Court of Common Pleas, and the Court of King's Bench
+- The King had a court which would follow him around and help him make decisions on various subjects, and eventually became too small to function
+- As members of the court became more specialized, by the early 1200s this developed into multiple separate courts located in Westminster Hall, no longer travelling
+- Basically created the court as an institution
+- The *Magna Carta* is an example of what the royal courts sought to do, it regulated relations between the landed gentry and the Crown
+- First court to really develop was the Exchequer Court, which dealt with the finances of the Crown, basically a tax court
+- Recall that the King funded himself through the incidences of tenure, and issues with this process would go through the Exchequer Court
+- In fact, Canada's tax court used to be called the Exchequer Court as well
+- Second court to develop was the Court of Common Pleas, which settled disputes between citizens, which at the start was just the nobility
+- This is where the writs, or forms of action, first developed
+- Finally, the Court of King's Bench was made up of a set of specialized expert officials who were close advisors to the King
+- Effectively served as the appeal court for the Common Pleas Court, and dealt with serious issues of great concern to the King
+- Also the court for criminal law, but most of what we would today consider criminal law was dealt with by the local and feudal courts
+- Some Canadian superior courts use this naming scheme today
+- Originally, each of these courts had four judges with twelve judges in total
+- All three courts were held in Westminster Hall, the decisions of which were recorded by private reporters and could be purchased inside the Hall
+### Court Process
+- Today, if you wanted to make a claim against someone else, you'd have to fill out a Notice of Claim and send it to the BC Small Claims Court
+- However, historically you had to choose a specific writ or form of action that most closely matched your case
+- Everything was very procedural, and without the right procedure you couldn't get a remedy
+- Today we divide law into substantive areas like property and torts, and those areas are divided into concepts like private property and negligence
+- But back then, everything was divided into specific forms, and you had to pick the right one
+- For example, a writ of *habeas corpus* to summon a prisoner, or a writ of attachment which permitted seizure of property by a creditor
+- There were writs to recover stolen property, and to remove people on your land but only when your ancestor died
+- This list kept expanding, and eventually the court decided to stop accepting new writs
+### Characteristics of the Common Law
+- Common law was very rigid in its application, controlled centrally, and very formalized
+- Also built on a system of precedent which was how writs were recognized, and also decisions had to be consistent over time
+- Authority lay almost exclusively with the twelve judges of these courts
+- Unlike in the civil law system, scholarship of the law was almost unheard of in the common law
+- The main benefit of the rigidity of the system was how predictable the outcomes were
+- Made it a lot easier to manage risk, but also resulted in increasing instances of injustice
+### Emergence of Equity
+- Parties that felt wronged by the common law courts would appeal to the king, who would delegate those appeals to his senior religious official, the lord chancellor
+- The chancellor's job was basically to rectify the supposed wrongs of the king to keep him solid in the eyes of God
+- Unlike the common law courts, the chancellor had a lot more discretion in how to deal with these issues
+- Ended up giving out personalized remedies for each case
+- Over time, this process began to be more standardized, and eventually a fourth court was established called the Court of Chancery
+- This court did not operate on precedent, and was instead a "court of conscience"
+- He wasn't seen as altering the common law, it was simply an additive onto the common law to keep things moving smoothly
+- But what happened if there was a disagreement between both kinds of law
+- This is what happened in the *Earl of Oxford's Case* in 1615, where the Chief Justice of the Court of King's Bench and the Lord Chancellor disagreed on a land case relating to land allotted to a college in Oxford
+- Court of Chancery was designed as an alternative to cover the situations the common law does not, and King James ruled that it should beat out the common law in a dispute
+- However, this does not mean that an equitable interest is superior to a legal interest
+### [[Elements of Land Law|Equitable vs Legal Interests]]
+- We've already explored four dimensions of land law, now the fifth dimension is the difference between a legal and equitable interest
+- The court of equity developed it's own rules, which we call the equitable maxims
+- We already looked at some of these when examining [[Lecture 19 (Property)|gifts]]
+- These were not hard and fast rules, but more like guidelines for the lawyers and judges to consider
+- Equity became kind of a boogeyman because it was so much less predictable compared to the relative consistency of the common law
+- Initially, it was pretty much based on whatever the current Chancellor thought was justice
+- Can see this in the novel "Bleak House" by Charles Dickens which covers an unpredictable mess of a will case in the court of equity
+- Was basically a satire of the Court of Chancery, of how confusing it was and how often the lawyers and even the Chancellor got lost in its processes
+- In 1873, the courts of law and equity were unified, where judges now had jurisdiction both in law and in equity, with remedies for both available
+- Today, the principles and maxims of equity remain within the bounds of law
+- Under the BC *Law and Equity Act*, if a plaintiff claims to be entitled to an equitable remedy, the BC courts are able to give that to them as long as it was a previously recognized equitable remedy
+- Recall that only the **rules** of equity prevail over law, not the interests

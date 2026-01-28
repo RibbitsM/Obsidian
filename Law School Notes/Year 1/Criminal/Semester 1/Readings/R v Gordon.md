@@ -32,7 +32,7 @@
 - Recall that the judge told the jury that if they were satisfied BAR that the appellant intended to kill *a* person, they could find them guilty of attempted murder on the bystanders
 - Attempted murder requires concurrent *mens rea* and *actus reus*
 - Just because murder allows transferred intent does not mean attempted murder allows it
-- Without transferred intent. thee *actus reus* of attempted murder lacks *mens rea*
+- Without transferred intent, the *actus reus* of attempted murder lacks *mens rea*
 - Transferred intent applies when *mens rea* applies to one victim and *actus reus* applies to another
 - However, in attempted murder, there is no specific *actus reus*
 - If Gordon killed one of the bystanders, he would be committing murder but that does not means that he has committed attempted murder

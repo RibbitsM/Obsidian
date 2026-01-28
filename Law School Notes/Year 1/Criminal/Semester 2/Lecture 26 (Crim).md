@@ -1,0 +1,58 @@
+- Starting with the practice question about *R v Ma*
+- Ma was charged with unlawfully helping with a grow op that did not have a valid license
+- Ma was shown the license but could not read it because it was in English
+- Turned out it was invalid, she was arrested when she presented the license to the police
+- If she knew the license was not valid, no MOF, no MOL, convicted
+- If she suspected it was invalid but didn't try to find out, that's wilful blindness same result
+- If she believed it was probably valid but knew there was a risk it was not valid, that's recklessness, same result
+- However, if she believed that the license was valid, it could either be mistake of fact or mistake of law based on what the mistake was
+- Unclear whether she would be convicted
+- If she knew the address on the license was incorrect but thought the license could be transferred to another address, that's a mistake of law
+- No officially induced error here, she would be convicted
+- If she believed the licenses weren't required to grow marijuana, same as before that's a mistake of law
+- Finally, if she had no idea what makes a license valid, that would be ignorance of the law, and she would be convicted
+- In order to have a valid defence, she would have had to believe in a set of facts disconnected from the law that if true, would not lead to a conviction
+### Defence of Self-Induced Intoxication
+- This can sometimes be a defence, but the conditions for raising the defence of self-induced intoxication can be very complicated
+- The traditional rule all this is based on is that the criminal law makes a distinction between offences of general intent and offences of specific intent
+- These classifications exist across the law, but they really only matter for the defence of intoxication
+- For general intent, the *mens rea* is simple and is only concerned with whether there was intention to commit an act, sometimes in a specific circumstance
+- For specific intent, the *mens rea* will also require the act to be committed with a specific purpose, usually the name of the offence will include "with intent to"
+- Important to remember that murder is an offence of specific intent, and manslaughter is an offence of general intent
+- The reason this is important is because generally speaking, only offences of specific intent allow for the defence of intoxication
+- Also, the result of the defence depends on whether or not the offence you were charged with has an included offence that's of general intent
+- For example, if you successfully raise the defence of intoxication for murder, your charge will be reduced to manslaughter, but you won't be acquitted
+- Available on an air of reality threshold for offences of specific intent
+- This is also a common law defence, specifically from a case called *R v Leary*
+### [[R v Bernard]]
+- 1988 SCC case where the court revisits the defence in the context of a sexual assault causing bodily harm case
+- Took place at the accused's apartment, accused testified that they were drunk but witnesses said they could walk straight and talk clearly
+- Victim testified the accused sexually assaulted her and punched her twice in the face, police also found a bloodstained towel and pillow hidden in the accused's apartment
+- Accused was initially convicted, argued on appeal that he should have had access to the defence of intoxication, despite the fact that this offence is of general intent
+- *Actus reus* of this offence is applying force in the circumstances of a sexual nature and without consent, with the consequence of bodily harm
+- The *mens rea* of this offence requires intent to apply force, and knowledge of a lack of consent or recklessness in determining consent
+- Additionally, it's debatable whether *mens rea* is required for the consequence of bodily harm
+- Looking at this, the court determined that this is a crime of general intent
+- Supported by the fact that sexual assault is another form of assault, which has always been understood as a crime of general intent
+- Majority of the court also held that the division between general and specific intent is logical and warranted, and basing the defence on this distinction is also valid
+- Also raised a policy argument in favour of this limit on the defence
+- Obvious issue is that this defence basically offers people who voluntarily get extremely intoxicated and assault people a defence not available to other people
+- Also, the defence is mainly applied to crimes with high gender gaps like sexual assault and domestic violence, which would hurt vulnerable people
+- There is also the question of whether or not it's even possible to get so intoxicated that you can't form the simple intent required to commit one of these crimes
+- Finally, you can make the argument that the act of getting intoxicated enough that you are incapable of controlling your decisions is blameworthy on its own
+- However, the issue remains of what would happen if we could prove that someone was so drunk that they were acting effectively automatically
+- Court was split on this issue, McIntyre argued that you could do a substitution, Wilson said that in this case there should be a defence, and Dickson wanted to remove the specific/general distinction entirely
+- Overall, this issue never arose on these facts
+### [[R v Daviault]]
+- However, in this case the trial judge did find that there was evidence that the accused became so drunk that they were acting completely automatically
+- Accused visited a friend of his wife to drink brandy together, drank almost the whole bottle himself and sexually assaulted the victim, an elderly wheelchair-bound woman
+- Called expert evidence at trial that attested that the accused had an extremely high BAC, enough to kill an ordinary person
+- Court ended up creating a defence of extreme intoxication, based on Wilson's opinion from *Bernard*, which is different in a few ways
+- First of all, the level of intoxication is much higher for this defence compared to the ordinary defence
+- Additionally, this defence must be proven on a balance of probabilities, rather than on an air of reality like with the normal defence
+- To do this, the court suggests that calling an expert witness would be required
+- In order to successfully raise the defence, the accused would have to prove that they were effectively in a state of automatism at the time
+- Court also pointed out that theoretically, proving a state of automatism could also negate the *actus reus* of an offence as well as the *mens rea*
+- This could potentially mean that extreme intoxication could be a defence to a crime of absolute or strict liability
+- Consider the policy debate raised in this case, can you substitute the blameworthiness of getting intoxicated with the *mens rea* of an offence?
+- Dissent said yes in this case, but they were overruled

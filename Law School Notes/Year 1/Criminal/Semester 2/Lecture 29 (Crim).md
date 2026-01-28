@@ -1,0 +1,50 @@
+- Provocation is another defence that has prompted a lot of debate over the appropriateness of its scope, and has also led to a few Charter debates
+- To start with, we should look at the key features of the defence
+- Unlike intoxication, provocation is a statutory defence, found in s. 232 of the *Criminal Code*
+- Also has a relatively low threshold, only need to provide an air of reality for each element
+- Can only raise the defence for a charge of murder, and if it succeeds, your conviction will be reduced to manslaughter
+- This is by far the most limited defence, as it only applies to one offence, and can only reduce that offence, not eliminate it completely
+- Why doesn't provocation apply in other kinds of circumstances?
+- Main reason is because murder has very little discretion in sentencing, as it has a mandatory life sentence
+- For other offences, the court could consider provocation when it comes to sentencing
+- Original provision states that culpable homicide can be reduced to manslaughter if the act was committed in the heat of passion due to provocation to the accused
+- Provocation is defined as a wrongful act or insult of such a nature that it would cause an ordinary person to lose the power of self-control, as long as the accused acts immediately, before their passions can cool
+- Oddly enough, this provision uses the phrase "ordinary person" instead of "reasonable person"
+- Also appears that there is a subjective element here, as the provoked person is required to at on the sudden in response to the provocation
+- Recall that this is not rejecting the *mens rea*, in fact this defence explicitly acknowledges that the accused has the intent to kill
+- Odd to think of calling someone a "reasonable person" when they intentionally killed someone because they were really angry, which seems overall pretty unreasonable
+- Trickiest part of this standard is the "ordinary person" standard, what exactly would we consider to be offensive enough to an ordinary person to prompt this kind of result
+- Additionally, what kind of personal factors can we consider in this test?
+- In *R v Hill*, the issue was whether the trial judge should have instructed the jury to take into account personal factors of the accused, who was a young man
+- Killed the victim, and older man he met through the Big Brothers program, claimed that he was provoked by an unwanted sexual advance from the victim
+- Keep in mind this wasn't in response to fear of a sexual assault, the accused was so enraged by the victim's sexual advances that he killed him
+- Issue was how we can think of the "ordinary person", is it based on the accused, who in this case would be the ordinary straight young man
+- Can argue that the jury would do this unconsciously anyway, judge doesn't need to instruct
+- Also raises the issue of what kind of biases are imported into this ordinary person test
+- Implies that the ordinary young man is homophobic, and thus Hill's reaction was justified which essentially allows a "homosexual panic" defence
+- Ultimately, the conviction in this case was upheld
+### [[R v Thibert]]
+- Context was a marriage where the accused was stalking his estranged spouse, who was trying to avoid him as much as possible and didn't want to be alone with him
+- He was essentially trying to repair their relationship, but she wanted to move on and she was now dating her co worker
+- Accused met the two in a parking lot with a loaded gun, and after an argument with the new couple, shot and killed his ex-wife's co worker
+- Charged and convicted of second degree murder at trial, issue on appeal was whether the defence of provocation could be raised
+- Majority concluded that there could possibly be an air of reality here
+- The accused was clearly emotionally dependant on his wife, and desperately wanted her to get back with him
+- Additionally, he hadn't slept in 36 hours and was in a very fragile emotional state
+- When the co worker started holding his ex-wife by the shoulders, swinging her back and forth and taunting the accused to shoot him, Thibert fired
+- Also, the ex-wife told the victim that Thibert's gun wasn't loaded, which obviously turned out to be incorrect
+- In dissent, Justice Major said that just because their marriage broke up over an extra-marital affair, should not be considered grounds for provocation
+- At law, no one has a proprietary right to their spouse, and we should be careful in considering this as evidence
+- Wife had every right to refuse to see the accused in private, and it was incorrect for him to think that the victim was preventing this from happening
+- Accused also already knew his wife was having an affair with the victim, and should have been prepared to see them together
+- In the end, this case ended up going back to trial, and the accused was convicted of manslaughter
+### [[R v Tran]]
+- Over time, we have more and more cases using cultural explanations to justify their actions
+- Accused's wife broke up with him, but somehow the accused has a set of keys to his ex-wife's new apartment
+- Enters their apartment in the middle of the night, and attacks the couple with two knives, killing her new partner and severely wounding his ex-wife
+- Charged with second degree murder and attempted murder, at trial the second-degree murder charge was reduced to manslaughter based on the defence of provocation
+- Interesting part about this case was that the accused argued that the court needs to consider that a woman leaving her husband is a grave insult in Chinese-born Vietnamese culture
+- SCC kind of walks back their decision in [[R v Thibert]], and argued that a reasonable person is someone who believes in the values of the Charter, including provisions on gender equality
+- Can't apply this argument here because it would legitimize a view of women as property who do not have the agency to end a relationship
+- Ironically, this allegedly Vietnamese-specific view is very similar to Thibert's thought process, and also clearly his ex-wife did not feel the same way
+- Ultimately, this case ended up narrowing the definition of the defence, but also Parliament responded as well and narrowed the statutory definition

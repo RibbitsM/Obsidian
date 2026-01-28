@@ -1,0 +1,44 @@
+- When we talk about a constitution, we usually refer to it in the context of liberal democracy
+- Other forms of states can certainly have constitutions, but that's not what we're focused on
+- Two different ways about thinking about the constitution
+- One way is to imagine it as all the relevant rules for the governance of a country, regardless of where they come from
+- Other option is to specify a set of documents that are the sole source of the constitution
+- The latter is more popular in the US, Canada tends to lean towards the former
+- No slides and no recordings, show up to class and take good notes
+- Constitution serves the goal of empowering government institutions, while also limiting how that power can be used
+- The Charter is a good example of a limiting element of the constitution
+- Other thing that it does is that the constitution expresses certain aspirations for how a society will develop
+- Example is from the [[Judicial Review and Interpretation#Edwards v Canada (AG) (The Persons Case)|The Persons Case]] where the judge speaks about how the Canadian constitution is a "living tree"
+### Canadian Constitution
+- Recall that the Canadian constitution is made up of all relevant rules, which can include common law and statutory rules
+- Also includes constitutional conventions, which are even vaguer in the sense that they are merely practices recognized as constraints that have a set purpose
+- A convention is a repeated practice that parties are bound by that serves a specific purpose
+- Finally, the constitution also includes entrenched constitutional texts, which in the Canadian context mostly involves the 1982 Constitution
+- The fact that they are "entrenched" basically means that they are difficult to change, and prevent any future laws that are inconsistent with the texts from being created
+- Courts have identified four underlying principles of the constitution
+- These are federalism, democracy, the rule of law, and the protection of minorities
+- Explained [[Law School Notes/Year 1/Public/Readings/Introduction|here]]
+- We can see how the constitution empowers and limits the government in the balance of powers between the executive, legislative, and judicial branches
+- These branches are limited in relation to one another, but also in their interactions with individuals and certain groups, Indigenous peoples especially
+- Constitution also empowers and limits the different levels of the government, meaning the federal and provincial governments
+- It is also a site of contestation and debate, not everyone agrees with what the constitution actually does, and what its purpose is
+### Constitutional Interpretation
+- Courts appeal to a number of things when making arguments on interpretation
+- Six main things: history, text, doctrine, prudence, principles, and structure
+- Explained [[Judicial Review and Interpretation#References, Structural Argumentation, and the Organizing Principles of Canada's Constitution (Robin Elliot)|here]] 
+- We can see an example of historical argumentation in how the Supreme Court argued that women are not "qualified persons" since they historically could not hold public office or vote
+- However, this decision and the later Privy Council decision also use many more types of argumentation, all six in fact
+- For example, great importance is put on the text of the provision (text), and other parts of the relevant document are brought in for comparison (structure)
+- A historical argument is also made by the privy council to understand what "qualified" means
+- There's also reference to the initial intentions of the drafters of the constitution (principle)
+- More common today is principle arguments made with explicitly moral framing, especially when it comes to the protection of minorities
+- Sankey talks instead of the constitution as an evolving document, which is supposed to grow and change over time as the context shifts
+- Both decisions make reference to previous decisions as well (doctrine)
+- Prudential considerations emerge in the form of how the Supreme Court judge argues that women are excluded from public office for reasons of decorum (prudence)
+- Recall that Part V of the Canadian Constitution allows amendment, but is quite difficult to do
+- In practice, most change comes from judicial interpretation, which creates a debate over whether that power should be used conservatively or liberally
+- This is an open debate, should we allow judges the power of interpretation but risk abuse of that power, or prevent interpretation but risk becoming unwieldy and inflexible
+### Recap
+- Need to identify features of constitutions and the Canadian constitution
+- Need to analyze how courts do interpretation
+- Need to be able to discuss broad issues regarding constitutional interpretation

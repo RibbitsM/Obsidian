@@ -1,0 +1,26 @@
+- Appellant drove onto a restaurant patio and killed a 2-year old boy, likely drunk at the time
+- Talked to duty counsel, who advised him to not give a breath sample, as the penalty for not giving a breath sample is less than that for driving impaired, which was incorrect
+- Suter was also later kidnapped by a vigilante which resulted in his finger being amputated
+- Plead guilty to refusing the breath sample while suspected of impaired driving causing death (s. 255(3.2)), got four months in prison and 30 month driving prohibition
+- Trial judge was also partly relying on the advice of the duty counsel, hence the low sentence
+- Alberta Court of Appeal substituted a 26 month sentence with same prohibition
+- Stated that the evidence didn't suggest that Suter believed it was not an offence to refuse a breath sample, which would be required to argue mistake of law
+- Suter appealed to the SCC which reduced the sentence to 10.5 months imprisonment
+### Analysis
+- SCC argued that the ABCA erred by sentencing Suter for the careless driving offence they were not convicted of, and didn't consider the vigilante violence
+- Sentencing judge also erred by concluding that Suter was acting under a mistake of law by refusing to give a breath sample
+- Judge never established that Suter believed this was lawful, therefore mistake established
+- This had an impact on the sentencing, which was initially inadequate
+- Can be used as a mitigating factor in sentencing, as it reduces moral blame
+- Confusion on the lawfulness of an action generally doesn't count
+- Sentencing judge established that Suter was confused by the lawyer's advice, the lawyer told him not to give a breath sample, and Suter followed this advice
+- However this does not mean that Suter believed he was not committing a crime
+- Suter believed that he had the right to refuse the breath sample, and didn't think his lawyer would tell him to do something illegal
+- Judge didn't make an explicit finding of fact based on this info, and we can't infer that they did it implicitly
+- If the lawyer had told Suter that refusing the sample was legal, might have a case
+- Officers also told Suter that it was illegal to refuse the sample, but it makes sense that Suter would not follow their advice over his lawyer
+- Overall, we can only conclude that Suter was confused, not enough to prove mistake of law
+- However, he was given incorrect legal advice that led him to refuse to cooperate with police
+- This will limit his blameworthiness, but should not be seen as suggesting that imperfect legal advice will always mitigate a sentence
+- However, his blameworthiness was not lowered to such an extent that justified the initial sentence of 4 months
+- Allowed the appeal in part, reduced prison sentence and kept driving prohibition

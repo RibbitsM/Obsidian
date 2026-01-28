@@ -1,0 +1,53 @@
+- Issue in this case is whether a real estate agent buying property for themselves that they were negotiating for on the behalf of a client has to return the property to the client
+- May apply even if the client can't prove a loss
+- Also can word this as saying whether a constructive trust over property can be imposed with unjust enrichment of the defendant
+- Defendant was a real estate broker, plaintiff was his client
+- Plaintiff made of offer to buy a building, which was replied to with a higher counteroffer
+- Plaintiff gave another price which the vendor agreed to, defendant didn't tell plaintiff that the seller agreed
+- Instead, defendant got his wife to buy the property and transfer title to the plaintiff as joint tenants
+- Trial judge held that the defendant breached his fiduciary duty to the plaintiff by taking the property for himself
+- Issue is what remedy the law gives in this case
+- Plaintiff claimed that the property should be transferred to him for the price paid by the defendant, adjusted for losses
+- Argued that it's his under the doctrine of constructive trust
+- This claim was rejected at trial because constructive trust requires unjust enrichment on the part of the defendant
+- Main basis for this was because the plaintiff didn't actually suffer any damages from this process
+- However, the Court of Appeal held that a constructive trust could arise even without loss to punish the defendant's improper act
+- Shows a tension between two views of the constructive trust
+- Either it's only a remedy for established lost, or is able to extend to other cases like condemning a wrongful act
+- Courts is inclined to follow the second approach
+### History of Constructive Trust
+- History of constructive trust suggests that it was created to prevent persons from holding property which in "good conscience" they should not have
+- Not only does justice but also protects relationships of trust and the institutions that depend on them
+- Do this by treating the person holding the property as a trustee for the benefit of the wronged person
+- Could arise from a breach of a fiduciary relationship, or to prevent an absence of writing from unfairly depriving someone
+- Overall closely linked to the fiduciary relationship, but not all breaches of such a relationship lead to a constructive trust
+- This is how it originally worked in England, and most of this has been imported over into Canadian law
+- Unjust enrichment has been suggested as a unifying theme for all the situations where the English applied constructive trusts
+- In reality, this does not coverall possible types, better description is more like violations of good conscience
+- Main concern for the courts here is to maintain the integrity of institutions like fiduciary relationships
+- Not only would imposing constructive trust in breaches of these relationships do justice to the parties, but would also leave the parties to the required high standards of trust
+- This is an equitable remedy and is thus quite flexible, we can make sure to not apply this remedy if it would have an unfair or unjust effect on the parties involved
+### Good Conscience
+- Today, we can divide cases where a judge may impose a constructive trust into two categories
+- First, where the defendant obtains property by a wrongful act, namely a breach of fiduciary relationship or breach of duty of loyalty
+- Second, where the defendant did not wrongfully obtain the property, but would be unjustly enriched by keeping the property to the plaintiff's detriment
+- Canadian courts have previously recognized constructive trusts as a remedy for both of these cases
+- Can lump both of these kinds of cases under the umbrella of good conscience
+- For unjust enrichment cases, there are also four conditions that should be met in order to impose a constructive trust
+	- Is the defendant under an equitable obligation related to the activities that brought him these assets?
+	- Were the assets of the defendant a result of their activities in breach of an obligation to the plaintiff?
+	- Can the plaintiff show a legitimate reason to seek a propriety remedy?
+		- Reason can either be personal or based on a need to keep others like the defendant accountable
+	- Are there any factors that would be make imposing a constructive trust unjust given the circumstances?
+### Application
+- Court held that the defendant's breach of their fiduciary duty was severe enough to support a finding of constructive trust
+- Defendant was under an obligation to pass on information related to the property at issue
+- Used the information obtained on his client's behalf to purchase the property for himself
+- Committed an inexcusable breach by allowing his own interests to conflict with those of his client
+- Acquisition of the property was a direct result of his breach of duty to the plaintiff
+- Even if the defendant was not enriched monetarily by this process, there is still reason to impose a constructive trust
+- Clearly, the plaintiff still wishes to own the property for non-monetary reasons, which would return the parties to the position they would have been in without the breach
+- Finally, it's also important to note that real estate agents should not be allowed to retain properties they obtain through a breach of duty to their clients
+- This would undermine the institution of real estate brokerage
+- Additionally, there are no factors in this case that would make imposing a constructive trust here unfair
+- Overall, appeal dismissed and a constructive trust was imposed

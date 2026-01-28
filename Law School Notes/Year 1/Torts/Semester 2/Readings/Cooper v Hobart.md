@@ -1,0 +1,53 @@
+- Appellant was an investor suing a statutory body regulating mortgage brokers
+- Alleged that they acted negligently by failing to oversee an insurance company licensed by the Registrar
+- Issue is whether or not the Registrar owes a duty of care to investors that can give rise to negligence related to economic losses suffered by those investors
+- This has not previously been recognized by Canadian courts, and spoiler alert it wasn't recognized in this case either
+### Analysis
+- Generally speaking, negligence can only be extended to the point where harm is reasonably foreseeable by the defendant
+- Comes from the decision in [[Donoghue v Stevenson]]
+- Recall that there also must be close and direct relationship of proximity/neighbourhood between the plaintiff and the defendant
+- Novel development that applies to this case was the decision by Lord Wilberforce in *Anns v Merton London Borough Council*
+- Here, the court determined that a duty of care can be established in a novel situation by providing evidence of proximity enough to create a *prima facie* duty of care
+- After this, the defendant can present policy arguments arguing against recognizing proximity in this situation
+- Important because it expressly recognizes the importance of policy considerations
+- However, this case didn't really explain exactly how this two-stage test works in practice
+- Unclear what factors determine the *prima facie* duty of care, and whether or not policy considerations are relevant for both stages of the test or only the second one
+- Court identifies two key questions to address for the first stage of the test
+	- Was the harm a reasonably foreseeable consequence of the defendant's actions?
+	- Are there reasons unrelated to proximity why tort liability should **not** be established in this relationship?
+- As we can see, the court believes that policy considerations are relevant to both stages of the test
+- If the harm is found to be reasonably foreseeable and there are no convincing reasons not to recognize a *prima facie* duty of care within this relationship, the test progresses
+- The second stage considers policy considerations against imposing liability that lie outside of the relationship between the plaintiff and defendant
+- If there are none, liability can be established
+- Keep in mind that when it comes to establishing proximity in the first test, this is usually done by referring to existing categories of negligence
+- Introducing new categories is not unheard of, but is rather difficult to do
+- The term "proximity" generally describes the "close and direct" aspect of the relationship detailed in *Donoghue*
+- Also no set list of what factors contributing to the establishment of proximity, vary widely depending on the circumstances of the case
+- However, we can at least list the recognized categories
+- First, we can impose liability if the defendant's act foreseeably caused physical harm to the plaintiff or their property
+- Can also be liable even if the harm caused is merely nervous shock
+- Defendants have previously been held liable for negligent misstatements and misfeasance in public office as well
+- Duty of care extends to warning plaintiffs of the risk of danger, and municipalities have a duty to homebuyers to inspect housing developments without negligence
+- Other governmental bodies have similar duties, for example performing road maintenance non-negligently
+- In some cases economic loss has been recognized as a legitimate harm in cases where issues of contract performance arise as long as the loss is relational if one of a few conditions are met
+- Things are a bit clearer when it comes to conditions for the second stage
+- Important questions include whether there are existing remedies at law and how broad the liability created by the duty is
+- Additionally, it's been previously established that government actors cannot be liable for policy decisions, only operational decisions
+- This is a consequence of a policy consideration outside of the relationship, it's because making policy is the point of the Legislature, and the courts cannot interfere with that
+- This second step is usually only relevant if there was no recognized category in the first step
+### Application
+- Recall that the appellants argue that the Registrar broke their duty of care towards them by not acting to suspend the offending firm or warn them that they had breached the rules before they lost their investments
+- This is not a recognized category of duty, so it will need to be established
+- It's possible that it was foreseeable that failing to suspend Eron (the firm) or issue any warnings about their behaviour would lead to financial loss on the part of the plaintiffs
+- Mere foreseeability isn't enough, also need to establish proximity
+- Source of all the duties of the Registrar is the statute they are appointed under
+- This statute details that the Registrar has a duty to the public as a whole, but not to any individual investors
+- The regulatory scheme for mortgage brokers exists to keep the marketplace functioning efficiently, and requires balancing many competing interests
+- Some parts of the enabling statute are certainly targeted at protecting investors, but as a whole the goal is to benefit the public at large
+- A duty specific to investors in mortgage brokers would have to come at the expense of other interests like efficiency or public confidence
+- Therefore, the test fails on the first stage
+- Even if the first stage was met, there are other considerations that discourage liability here
+- For example, the Registrar is expected to act quasi-judicially when deciding to remove a broker's license, a decision that shouldn't be clouded by a duty to investors
+- Additionally, this could create a broad range of liability as the Registrar is connected to a potentially unlimited number of investors with no statutory controls on the number
+- Finally, this would effectively result in an insurance scheme for investors paid for with taxpayer money
+- Overall, decision for the defendant 

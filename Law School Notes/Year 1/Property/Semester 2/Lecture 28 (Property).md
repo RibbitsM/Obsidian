@@ -1,0 +1,60 @@
+- Mortgages are a type of security interest, which is a method of managing risk
+- We already discussed a kind of security interest in fixtures, the carpets in [[La Salle Recreations v Canadian Camdex Investments]] were secured by a [[Lecture 15 (Property)|conditional sales agreement]]
+- Mortgages are probably the most common and well-known one of these interests
+- Purchaser goes to a bank, and in exchange for a loan, you give the lender a mortgage
+- The purchaser is the mortgagor, and the lender is the mortgagee
+- Mortgages are created by contract, which include terms, interest rates, and the amortization
+- The amortization is the time to repay the principal and interest, which is usually 25 years
+- Term of a mortgage is traditionally 5 years, at the end of the term the agreement is renegotiated, generally to change to a higher interest rate
+- The mortgagor transfers the title in the land to the lender, which must be transferred back to the mortgagor once the mortgage contract is fulfilled
+### Common Law vs Equity
+- At common law, the laws of mortgage are quite strict, where any deviation from the text of the mortgage contract means the lender keeps the title and any payment until then
+- Worst cases were where the borrower misses the final payment, meaning they lose title to their land plus almost the full value of the mortgage
+- [[Crystals and Mud in Property Law|Carol Rose]] describes this approach as a hard-edged "crystal" approach, with no wiggle room
+- Naturally, this rule is prone to creating some pretty unjust results
+- Recall that when the royal courts of common law produced injustice the [[Lecture 27 (Property)|Court of Chancery]] would step in
+- Comes in the form of giving the borrower the equitable right of redemption
+- Basically, this allows them to still redeem the mortgage when their common law right has expired
+- Equitable right only arises when the legal right expires, and lasts until the equity of redemption is extinguished by sale or foreclosure
+- At some point, the court of equity feels that your time is up, and allows the lender to foreclose on the property
+- Even when the borrower has taken out their first mortgage, if the mortgage was not for the full value of the property, they can still get more money
+- By offering their equitable right of redemption as collateral, they can get a [[Dical Investments Ltd v Morrison#First and Second Mortgages|second mortgage]] worth up to the remaining value of their property
+- This is also called a second mortgage
+- When the borrower defaults, the lender from the first mortgage gets the property, and the lender from the second mortgage gets the right to redeem
+- If the second lender pays the remaining balance of the mortgage to the first lender, they get the property
+- Theoretically, this can continue infinitely as long as there is still value in the property to give
+- Only the first lender has a legal mortgage, all the others are equitable
+- In reality, what would happen is that the property would be sold after default happens, and the lenders get priority to recover their loans in order of when the mortgage was taken out
+- Obviously, the further you are down the chain, the higher the risk to the lender and the higher the interest rate will be
+### [[Sartor et al v Boon et al]]
+- The Sartors buy a property in Winnipeg from a guy named Bohonos in the 80s for $51,000
+- They also got a mortgage from Bohonos, called a "vendor take-back mortgage"
+- Gave them a discount in exchange for the title
+- After the first two mortgages, he wanted the property back, but the Sartors couldn't pay and he put the house up for sale
+- Boon noticed the sale notice, and told the Sartors that he could help them out
+- Gave them a letter of agreement to sell that sold their house to a company (502) owned by Boon for a fraction of what it was worth
+- Gave the option of paying it back within a year for a certain amount, and required the Sartors to pay Boon $600 plus taxes per month
+- Boon also purchased the mortgage from Bohonos through another company (463)
+- Seems like the letter is a rent to own type of deal, and it's unclear who was supposed to be paying the property taxes
+- Eventually the city comes to take the house because the taxes weren't getting paid, and the Sartors get money from the husband's parents to prevent that and they get a lawyer
+- Lawyer tells them to stop paying Boon, and they sue him on the grounds that what Boon offered them was effectively a mortgage, and the transaction as unconscionable and violated the rules for mortgages in Manitoba
+- What he offered them was a terrible deal, they gave up all their equity in the house when they transferred the deed, and the "rent to own" agreement was very vague
+- Additionally, this agreement gave up all their rights as mortgagors
+- Court held that it was an unconscionable transaction, but also considered whether or not this was actually a mortgage, and thus whether their right to redeem was restricted
+- Manitoba Court of Queen's Bench held that whether something was a mortgage or not is determined by substance, nor form
+- Recall that equity considered substance over form, it's one of the maxims
+- Since the substance of the agreement was a mortgage and the form tried to make it into something else, it was repugnant to the idea of a mortgage
+- Violated the Sartors' equitable right of redemption, and statutory rights
+### [[Dical Investments Ltd v Morrison]]
+- A company lent $250,000 to Dical in exchange for a mortgage on some vacant lots that Dical was developing, and Dical also got the same amount from a man named Thomas on a second mortgage
+- Thomas later bought the first mortgage from the company, so he holds both
+- Both agreements included provisions allowing an option to buy some of the lots in the new development
+- Option in the original mortgage was for four lots which expired when the mortgage was paid off, and the option in the second mortgage was for five which didn't expire
+- Dical argued that this interferes with the right to redeem, because the mortgagee can buy some of their land, meaning they can't redeem that land
+- Anything that allows the lender to keep some of the land given as security may be illegal
+- Court looked to a SCC decision to say that equity will not allow a lender to make an agreement with the borrower at the time of the loan to purchase absolutely part of the property
+- Court found that this was a commercial bargain where both parties made a fair agreement, not a clog on the equity of redemption
+- However, the court didn't want to say anything to affect that agreement
+- What ended up happening was that the agreement was unenforceable anyway because according to local land laws, the land couldn't be subdivided and there were no lots to sell to the mortgagee anyway
+- Dissenting judge argued strongly that this was a fairly negotiated transaction that should not be interfered with by the principles of equity
+- Considering these two cases, how does the distinction between crystal and mud rules appear?

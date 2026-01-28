@@ -1,0 +1,37 @@
+- Rizzo was a company that operated a chain of retail shoe stores across Canada
+- They filed for bankruptcy in April 1989, and the day after that, all of their employees were fired and their property was seized
+- The respondent in this case, a law firm called Zittrer, was appointed as the trustee in bankruptcy for Rizzo
+- Their land and assets were liquidated by another company, called PML, who also paid all the wages and other expenses to the employees up to the point of bankruptcy
+- Later that year, the Ontario Ministry of Labour audited Rizzo to see if they still had to pay termination or severance for their former employees
+- Showed Zittrer that Rizzo owed about 2.6 million to their employees
+- Zittrer tried to disallow this claim on the grounds that bankruptcy is different from a dismissal, and thus they don't owe them severance
+- Ministry appealed this to the court, which reversed the disallowance, which was overturned on appeal
+### Analysis
+- Only issue in this case is whether or not firings based on bankruptcy owe termination pay
+- Have to look at the *Employment Standards Act* to determine this
+- Relevant sections are s. 40(1) and s. 40a(1a), which only make reference to termination of employees, but don't specify what that means
+- Thus, the question is whether bankruptcy causes termination of the employees
+- On first glance, this seems to only apply to active terminations
+- However, we need to interpret this provision purposively
+- According to s. 10 of the *Interpretation Act*, this is how all statutes should be interpreted, and all statutes should be deemed remedial
+- Court of Appeal erred by looking only at the plain language, and not the purpose of the Act
+- A previous case recognized the importance of employment, and by extension the harm caused by termination of employees
+- In that case, the goal of the *ESA* was to protect employees by requiring employers to comply with minimum standards
+- Should interpret the act in a way that extends protections to as many employees as possible
+- This is also evidently the purpose of s. 40 as a whole, to protect employees from termination
+- Point of giving termination pay is to cushion employees when they are terminated without notice, to help them while finding new employment
+- The consequences if the Appeal decision is upheld would go against the point of both the act and the relevant provisions
+- Would lead to the absurd consequence of granting pay to the employees fired immediately before bankruptcy, but not those who stayed on until the end
+- In practice, this means that the most senior employees who would ordinarily get the largest payouts are the ones still on board when bankruptcy happens
+- Seems unreasonable to discriminate based on the timing of the termination
+- Additionally, s. 40a was introduced later in the Act's lifespan, and came with an accompanying transitional provision in s. 2(3)
+- This specifies that s. 40a doesn't apply to employers that became bankrupt in the period before the Act received royal assent
+- Implies that the severance pay obligation is supposed to extend to bankrupt companies
+- Additionally, when the amendments to the Act were made, the Minister of Labour specifically mentioned that bankrupt employers have to pay severance pay if assets are available
+- While Hansard debate evidence usually isn't much help, it can support an argument for a specific interpretation that is supported elsewhere
+### Decision
+- Considering all the available evidence, it seems that termination under ss. 40 and 40a is supposed to extend to termination resulting from bankruptcy
+- The *ESA* is a "benefits-conferring" legislation, and thus should be interpreted in a way that extends those benefits to as many people as possible
+- Intention of the Legislature clearly supports this
+- Overall, termination due to bankruptcy does allow a claim to termination and severance pay under the *ESA*
+- Appeal allowed, former Rizzo employees can make claims for pay

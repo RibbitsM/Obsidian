@@ -1,0 +1,53 @@
+- Generally speaking, Parliament is perfectly within its right to limit a common law defence, given that statutory law takes precedent over the common law
+- However, in this case there were arguments that these constraints may violate the Charter
+- This will become a common theme with any future statutory limitations on defences
+- In [[R v Brown]], the court ended up striking down the limitations on the defence of extreme intoxication under s. 33.1 as it violates both s. 7 and s. 11(d) of the Charter
+- To avoid this, Parliament has several options that don't create these violations
+- Court gives two main options, with the first being creating an offence of dangerous intoxication
+- If intoxication is an element of an offence, then this limit is not unreasonable
+- However, this created some concerns on the grounds that this would be a lesser offence that would become the new default for sentencing in these cases
+- Parliament took the other approach by reworking s. 33.1 to add some more requirements
+- New provision requires all other elements of the offence to be met, and the accused must markedly depart from the reasonable standard of care before becoming intoxicated
+- To determine the marked departure, the court has to consider the objective foreseeability of becoming extremely intoxicated and harming another person
+- To determine this, you have to look at all relevant circumstances, including any steps taken by the accused to limit or avoid the risk
+- There has been only a couple cases decided since this amendment was made, and in one case the accused raised evidence that they did some prior internet research on shrooms
+- Can argue that this should actually limit the defence because they knew more about the risk
+- General rule is that when we use an objective standard for defences, you use factors that are individual to the accused
+- However, in this case we're actually trying to negate a defence
+- Thus, you can argue that we shouldn't consider personal factors here
+- Inevitably, this provision will be challenged under the Charter, will it be ok?
+- Overall, today we still have a defence of extreme intoxication at common law, but it is significantly limited
+### [[R v Tatton]]
+- Accused in this case was charged with arson under s. 434 of the *Criminal Code*
+- Criminalizes intentionally or recklessly causing damage by fire or explosion to property not fully owned by them
+- Accused was drunk, set a pan of oil on high on a stove in his ex-girlfriend's house, and left to go get a coffee
+- House ended up burning down, and the accused was arrested and charged under s. 434
+- Overall this offence is pretty simple, *actus reus* seemingly only requires causing damage to property by fire or explosion (conduct) if you don't own it (circumstance)
+- The *mens rea* of the offence is clearly intention or recklessness when it comes to damaging the property, not necessarily setting the fire itself
+- Issue for the court was whether this is a general or specific intent offence
+- Trial and appeal court both decided that it was a specific intent offence, and thus the accused could raise the defence of intoxication
+- Usually, we think about specific intent crimes as requiring an ulterior purpose for the act
+- However, can also think of this requirement as needing intention of a certain consequence, the difference between murder and manslaughter is the best example of this
+- Finally, offences that require knowledge of complex circumstances are also specific intent
+- Doesn't apply to all circumstances, for example consent is not a complex circumstance
+- Unlike other arson offences, s. 434 doesn't require any special motive or circumstance
+- Only *mens rea* element here is causing damage to property that is not your own
+- Can also look at policy considerations to help us decide whether a certain offence requires general or specific intent
+- One way to look at this is whether the offence in question is often associated with the consumption of alcohol, which in this case certainly exists
+- Another important consideration is how much leniency the judge has in sentencing, for offences with a high minimum penalty, we may want to allow the defence
+- Otherwise, intoxication could inform sentencing
+### Practice Questions
+- First offence is causing an explosion with intent to cause bodily harm (s. 81(1)(b)(i))
+- Seems to be a specific intent offence, because of the intention to create bodily harm
+- Possession of an explosive substance could conceivably be an included offence here depending on the charge and facts
+- However, just causing an explosive substance to explode doesn't mean that the substance was in your possession
+- Second offence is robbery, specifically s. 343(a)
+- For this offence, need to steal and for the purpose of extortion or to steal in the first place, use violence or threats of violence
+- Again, this seems to be a specific intent offence, because of the words "for the purpose of"
+- Third offence is also robbery, but s. 343(d)
+- Here, all that is required is stealing from someone while armed with an offensive weapon or an imitation
+- Generally speaking, robbery is theft while coupled with elements of assault
+- Theft is a specific intent offence, it requires taking something belonging to someone else, with one of several purposes
+- All robbery offences require proving theft as part of the offence
+- Thus, all robbery offences require specific intent
+- As for the other two offences, murder is always specific, and sexual assault is always general

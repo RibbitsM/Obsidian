@@ -1,0 +1,52 @@
+- Federalism distributes powers between the provincial and federal legislatures, but that power is limited to some extent by the Charter
+- Goals today are to look at the *Oakes* test, what the components of section 1 are, to understand the contextual approach to the Charter and deference factors, and the *Dore* analysis
+- Overall theme is on the justification of limits on the Charter
+- Can think about the Charter in two basic ways
+- First of all, can assess whether or not a law infringes a Charter right, and whether that infringement can be justified under s. 1, using [[R v Oakes]]
+- Second, we can look at a certain administrative decision, and use the *Dore* analysis to consider whether that decision balanced Charter rights with legislative objectives
+- Both have the goal of ensuring compliance with the Charter, but in different ways
+### [[Greater Vancouver Transportation Authority]]
+- According to the [[Greater Vancouver Transportation Authority]] case, to see if a rule is prescribed by law, we first need to see if it's a rule of general application, and if it's sufficiently precise
+- In this case, the GVTA was a public body created by statute given the authority to regulate advertising on Vancouver busses and trains to generate revenue
+- Not all rules enacted by these bodies are law, some are for internal use only
+- However, some of these rules are authorized by law, and generally applicable to people outside the GVTA, in this case that would be the advertisers
+- Establishes that this is a rule of general application
+- Second, is the rule precise enough that other people can structure their lives around it?
+- In this case, this requirement was also met
+- These are described as rule of law values, to be consistent with the rule of law, rules have to be intelligible and accessible to allow for accountability
+### Oakes Test
+- Once we know that there has been an infringement, and the infringement was caused by a rule prescribed by law, can move on to the *Oakes* test to see if it's justified
+- Four steps to this
+	- Is there a pressing and substantial reason for the violation?
+	- Is there a rational connection between the violation and its goal?
+	- Is there minimal impairment of Charter rights?
+	- Is the benefit of the infringement proportional to the damage it causes?
+- For the first requirement, if the purpose of a law is to infringe a right, that is categorically not a pressing and substantial objective
+- For example, a law was passed called the "Lord's Day Act" to prevent certain activities on Sundays, which is straightforwardly intended to infringe on the freedom of religion
+- Some argue that looking at impairments of rights demands a contextual approach
+- For example, we're not thinking about the value of these rights and freedoms in the abstract sense, what matters is how important it is in context
+- Importance of s. 7 in a criminal context is different compared to the environmental context
+- Courts will look these s. 2(b) rights, and give different weights to different kinds of speech
+- For example, they tend to value political speech more over hate speech
+### Deference
+- Court says that in some circumstances, it will defer to legislative decisions in the event that the legislature was trying to balance two competing rights
+- Also defers if the legislature is protecting vulnerable groups, the Charter cannot be used to undermine the rights of those people
+- Likely the most controversial deference factor is balancing competing interests, but does not apply to all competing interest cases (which is almost every case)
+- Finally, if there is conflicting social science evidence dictating the case, the court will defer to the legislature for their interpretation of that evidence
+- Can argue that any degree of deference goes against the usual respect for minority rights, since it essentially places power in the hands of the majority
+- Main reason for deference here is because a lot of these tasks require skills hat go beyond the ability of the courts
+### *Dore* and Administrative Decisions
+- In these cases, instead of focusing on a generally applicable rule, instead we are assessing the legitimacy of an administrative decision
+- For *Dore*, the administrative body in question was the Quebec Bar
+- Instead of asking if there was an infringement of a Charter right, issue is whether the administrative body balanced Charter rights with statutory objectives
+- This is an example of judicial review, when we usually talk about this we're referring to a review of a specific law
+- Other meaning is when courts assess administrative action
+- Did the administrator act reasonably?
+- Two standards, either the court extends no deference to the decisionmaker and instead recreates the decision, or they use a reasonable standard, was the decision reasonable?
+- Main reason for this difference is that the *Oakes* approach doesn't really fit into the administrative law context
+- Also, the *Oakes* test is a direct application of s. 1, which assesses things prescribed by law, and thus only really works for laws of general application
+### Recap
+- Need to be able to identify the basic structure of Charter analysis
+- Need to identify the components of the prescribed by law requirement
+- Need to identify the steps in the *Oakes* test
+- Need to also be able to understand the *Dore* analysis

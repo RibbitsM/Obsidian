@@ -5,7 +5,7 @@
 - Promise must be given for something of value in exchange
 - This is what consideration means, something must come from each person in a transaction
 - A gift is not a contract, value only flows one way
-- Another rule to use is by looking at thee formality of the agreement
+- Another rule to use is by looking at the formality of the agreement
 - For example, common law establishes that agreements made under seal are always enforceable
 - Pretty uncommon now, but used to be a lot more common
 - Don't use red wax seals anymore, usually done with a stamp or a sticker

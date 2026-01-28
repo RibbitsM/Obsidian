@@ -1,0 +1,33 @@
+- Use point first writing, same advice as in LRW
+- You're not writing a mystery novel, be up front with what you're writing about and what the purpose of the facts/arguments are
+- Serves to provide context for the details you're going to explain, don't do it in chronological order, introduce information in a way that builds up
+- Remember you want to filter out only the relevant information, you don't need to be throwing in stuff like names and addresses if they don't matter
+- Helps to know what the point is, then it makes it easier for them to understand the relevance of your supporting details
+- This applies both on the small scale and large scales, need to do it throughout the entire factum, but also within each paragraph
+- Easier to do if each paragraph has only one topic, depends on your writing style
+- Again, use short sentences and break up your writing whenever possible
+### Statement of Facts Exercise
+- Which facts are relevant is somewhat subjective, depends on what argument you're trying to make
+- You're trying to "tell the story" of your case, organize your information appropriately
+- Again, make sure to only include the relevant facts in this telling
+- Also don't need to summarize trial judge's reasons for judgement, just the decision
+- Plaintiff went to the store with his three children, and allowed his older children to use the self-checkout while he managed his younger child
+	- Depending on if you are counsel for the dad or the store, may want to emphasize that he watched the older children
+- This may have resulted in some of the items not being scanned properly
+- Plaintiff and his children were apprehended by a store employee while leaving the store who grabbed hold of the plaintiffs shopping cart, and directed them to his office
+- Employee alleged that the plaintiff did not pay for several items and told the plaintiff to produce the receipt or else he would call the police
+- Plaintiff eventually returned the receipt and left without the items that the employee claimed were not paid for
+### Summary
+-  Use point first writing
+- Use short, clear sentences
+- Present things in a logical order
+- Goal is to tell a compelling story, and make it so that the outcome seems inevitable
+- Reader should have all the information they need to come to your desired conclusion, and only that information
+- Don't start writing right away, figure out what are the key points that you want to make, and write them down
+- Think about what order you want to present those points in, and experiment with different ways of ordering those points
+- Once you finish this, you got an outline
+- Remember you're trying to tell a story, present the facts in a way that paints your client in a good light and gains the sympathy of the trier of fact
+- Make your structure explicit, use those headings and subheadings
+- Don't use the words "believe" or "think"
+- Your subjective beliefs and thoughts as counsel are irrelevant
+- Say "the Appellant/Respondent say, submit, their position is"

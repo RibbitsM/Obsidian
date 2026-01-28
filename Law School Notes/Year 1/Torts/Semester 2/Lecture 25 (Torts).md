@@ -1,0 +1,77 @@
+- Three readings to do for duty of care
+- Winterbottom v Wright, Donoghue v Stevenson, and Palsgraf v Long Island Railroad
+- The duty of care is one of several elements to establish in a negligence action
+- One of, if not the most important subjects in tort law
+- Other elements are standard of care, causation (factual causation), remoteness of damages (legal causation), and damage
+- Not all instances of harm give rise to legal liability
+- Elements of the negligence action are designed to limit the number of cases that can be sued upon
+- If a duty is not owed to you, you cannot benefit from suing the person who created the harm
+- The fact that the defendant created a harm or risk of harm to the plaintiff doe snot automatically lead to liability unless a duty to the plaintiff was present
+- This in called the theory of correlativity, needs to be a correlation between the duty to take care, and the harm to the plaintiff
+### Who and What
+- Breach of the duty must result in correlative harm to the plaintiff to whom the duty is owed
+- Established in [[Palsgraf v Long Island Railroad]]
+- When we talk about liability for fault, we need to know that the risk that was created is unreasonable in some way
+- Only certain kind of person can bring a claim for negligence
+- We call this the "who" question of negligence, answered by duty of care
+- Additionally, only certain types of harm can be compensated by the law
+- Some harms, even though unreasonable or negligent, are not protected by law
+- Question of what harms can be compensated is the "what" question
+- To answer this question we need to look at standard of care, causation, and remoteness
+- These elements restrict recovery to certain kinds of losses, and the element of duty of care restricts recovery to certain kinds of people
+- Generally, losses that are foreseeable can be compensated, this is decided by standard of care
+- Losses that are not too remote can be compensated, decided by remoteness
+- Requires assessing how many steps exist between the action and the harm
+- Finally, only losses connected to the action in question can be recovered
+- ***Negligence is the failure to exercise due care an skill in the face of foreseeable risk that causes harm to a person***
+- Was there unreasonable risk? what was the risk? who was the risk to?
+- This is how the courts determine the presence of a duty of care
+### [[Winterbottom v Wright]]
+- Together, the who and what questions lead us to the concept of duty
+- Any person who may be affected by the defendant's creation of unreasonable risk falls under the category of duty of care
+- Plaintiff was a coach driver for a third party, who had a contract with the Postmaster who then had a contract with the defendant, a manufacturer
+- At the time, duty of care could only emerge from a contractual relationship
+- Because of privity of contract, no direct link between the parties
+- Today, this is just one possible cause of action for negligence but used to be the only one
+### [[Donoghue v Stevenson]]
+- Foundational case for pretty much all of tort law and duty of care, created negligence
+- Appellant drank a bottle of ginger beer manufactured by the respondent company, found the remains of a snail in the bottle
+- Because of this, the plaintiff went into shock and suffered severe gastro-enteritis
+- Argued that the defendant created a product to be consumed, and thus had a duty of care to ensure the goods contained no noxious elements
+- Because the defendant neglected this duty, they are liable for any resulting damages
+- Main question to determine was whether the manufacturer had a duty of care to the plaintiff
+- Problem at the time was that there was no contractual relationship
+- Trial judge compared it to releasing a dangerous thing into the world, duty can arise from the creation of a danger
+- On appeal, court held that based on the precedent, there was no duty of care
+- House of Lords determined that there was in fact duty of care
+#### Dissent
+- One lord argued that *Winterbottom* had already set the precedent, and should not be altered just because a case appeared outside of the existing principles
+- Stranger to the manufacture and sale sought to recover damage for injuries sustained, privity of contract holds that we should confine the right to recover to parties only
+- Generally, breach of contract does not automatically lead to damages
+- Only exceptions are if the article is inherently dangerous, or if the objects are dangerous by reason of some defect or other reason known to the manufacturer
+- In these cases, the manufacturer has constructive knowledge of the harm
+- If there was concealment of knowledge, can pursue action for fraud
+- However, in this case none of that applied, and there was no special duty for manufacturers of food
+- This was the current state of the law, and the generally correct answer
+#### Majority
+- Lord Atkins asked whether the manufacturer had a legal duty to the consumer to abstain from causing them harm
+- Issue in this case isn't establishing a breach of duty, issue is the presence of a duty
+- Recall that the mere presence of harm doesn't imply the existence of a duty
+- Start by asking the who question, is Mrs. Donoghue someone who is owed a duty of care?
+- Before this case, to establish this you need to fit the facts into one of several pre-existing situations where duty of care has previously been found
+- Examples of these are malfeasance in public office, constructive knowledge of danger, incorrect advice given negligently (negligent misrepresentation), fiduciary relationships, and contracts
+- Donoghue didn't fit into any of these categories, and decided to disengage negligence from these categories and privity of contract as a whole
+- Duty of care in negligence is now open-ended, and isn't reliant on a closed set of situations
+- However, if this is to be the new rule, it needs some limits
+-  Instead of determining duty of care by looking as specific cases, now we look at the facts and assess its proximity to a general principle
+#### Neighbour Principle
+- This was the new principle used for duty of care
+- You are to love your neighbour, and thus you should be able to foresee all the ways your actions could harm them
+- Overall, you must take reasonable care to avoid acts or omissions that you could reasonably foresee would be likely to injure your neighbour
+- Your neighbour is anyone who is so closely and directly affected by an act that you should reasonably have expected to think of them when considering your acts and omissions
+- In this case, Donoghue was a consumer of Stevenson's ginger beer, and thus was closely and directly connected to him
+- These two elements of closeness and directness make up the principle of proximity
+- This proximity isn't physical, basically refers to how "connected" two parties are
+- Part of the first test for establishing duty of care
+- Now we know the duty is to take reasonable care to avoid acts or omissions that could reasonably create injury
+- Defined as damage to property or bodily security

@@ -1,0 +1,46 @@
+- Important part of this topic is contrasting statutory interpretation with constitutional interpretation
+### [[Re Rizzo and Rizzo Shoes|Statutory Interpretation]]
+- Only one real approach, which is reading the words of a statute in their entire context
+- Look at the normal meaning of the words, and their purpose in light of the other parts of the Act, the goal of the Act, and the intentions of Parliament
+- Somewhat similar to constitutional interpretation, which also starts with the text
+- Core question in the *Rizzo* case was whether employees terminated due to bankruptcy can seek severance pay under the *Employment Standards Act*
+- Essentially a statutory interpretation issue, the Act only refers to "termination of the employment of an employee"
+- Can argue that since it also says "no employer shall", this implies that the termination has to be an intentional act on the part of the employer
+- This is the interpretation that the Court of Appeal came to on this case
+- However, the SCC says we also need to look at the object of the Act
+- Purpose of the *ESA* is to protect employees, in this case from termination without notice
+- Additionally, the Act includes transitional provisions from when it was enacted
+- One of these provisions states that until the Act comes into force, businesses do not have to pay severance pay to employees when they become bankrupt
+- Implies that after the Act is in force, this is now a requirement
+- Court also looked to the intention of Parliament
+- This is a statute that confers benefits, and an existing principle of interpretation is that these kinds of statutes should be generously interpreted to grant those benefits
+- In this case, that would mean the interpretation that favours the employee
+- While looking at legislative debate for interpretation is usually discouraged, here the court did look at statements made by the Minister of Labour that support this argument
+- Additionally, the court argues that not interpreting the Act in this way creates an absurd result by only granting severance pay to employees fired prior to bankruptcy
+- When a company goes bankrupt, generally the only employees left are the most senior ones who would receive the greatest severance benefits
+### [[The Framework of the Charter|Constitutional Interpretation]]
+- Court states that statutes are different from the constitution, in the sense that statutes can be easily modified, and exist to address an issue in the present
+- The Constitution is forward-looking, and significantly more difficult to alter
+- Thus, it should be interpreted more broadly to give effect to its purpose (living tree)
+- Is this a principle that we should follow? Are there good reasons to keep it constant?
+- Concern is that the Constitution can be interpreted to mean whatever the judges want it to mean, basically becomes an empty vessel
+- However, there are certainly some things that the original drafters of the Constitution could not have predicted
+- Additionally, there is the question of whether all parts of the Constitution should be interpreted in this way, for example the Charter is intentionally vague and open to allow for this
+#### [[Reference re Secession of Quebec]]
+- Issue in this case was whether the National Assembly of Quebec can secede from Canada based on a provincial referendum
+- The SCC was entirely in their right to just say no, but they referred to unwritten principles
+- Specifically, they are talking about the four core principles of federalism, democracy, constitutionalism/rule of law, and protection of minorities
+- Descriptions of these principles bring out the nuance in these topics, and show how they connect together
+- For example, democracy is limited by the rule of law and constitutionalism, and federalism enables the protection of minorities
+- Precedent holds that the unwritten principles cannot on their own strike down legislation, but they can fill gaps in provisions and statutes
+- When the court requires consultation between provinces on the matter of secession, they may be reaching into political matters
+- Also important to note that unilateral secession was something never contemplated by the Constitution, so can the Court even discuss this?
+- Quebec refused to participate in this reference for that reason
+### Recap
+- So far, we have defined the constitution in terms of its sources and functions
+- We've looked at some features of the Canadian constitution like the branches of government, the rule of law, federalism, parliamentary sovereignty, and judicial independence
+- We've looked at doctrinal rules like the [[The Separation of Powers#Re Residential Tenancies Act|Residential Tenancies]] test
+- Going forward, we're going to look at Charter analysis and determining whether a law infringes a Charter right, and whether it can be justified under s. 1
+- Special importance is put on balancing Charter rights with policy objectives
+- After this, we have to look at the modern approach to statutory interpretation, and look at how Canadian courts approach constitutional interpretation
+- Finally, you can debate a central issue with constitutional interpretation

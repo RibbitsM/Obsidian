@@ -1,0 +1,48 @@
+- Recall that based on the *Tran* decision, the Court held that the ordinary person is one who adheres to the Charter, and thus does not hold bigoted beliefs
+- In response, s. 232(2) was modified in 2015 to try and prevent cases where the accused tries to raise the defence of provocation to justify "honour killings"
+- Called the *Zero Tolerance for Barbaric Cultural Practices Act*, which also modified a number of other statutes to prevent forced marriage, child marriage, and polygamy
+- Attracted a good deal of controversy from cultural organizations due to the fact that the Act was intended to target specific cultural groups
+- Should have been directed at just limiting conduct, not groups of people
+- Also prompted by a case in Kingston where a husband killed his daughters because they were acting unacceptably and dressing provocatively
+- Now, the section reads that culpable homicide can be reduced to manslaughter where the conduct of the victim constituted an indictable offence punishable by 5 years or more
+- Other than that it's mostly the same, needs to deprive an ordinary person of the power of self control, but doesn't specifically reference insults
+- This can include assault, as well as most other offences involving bodily harm
+- Can also include death threats, but excludes things like infidelity, sexual advances that fall short of sexual assault, as well as hate speech
+- Raises a Charter issue because it technically limits liberty by removing a way for the accused to limit their prison sentence to manslaughter
+- Does this violate a principle of fundamental justice?
+### Provocation and Section 7
+- Main issue for extreme intoxication was the substitution of *mens rea*, which is a pretty firmly established principle, and has been recognized for a long time
+- Doesn't really apply here, there's no issue of the Crown failing to prove any elements of the offence, because this defence is not a full justification
+- Crown has to prove all the elements before the defence is raised
+- The principle that's allegedly being violated here is that liberty is being limited in an arbitrary and overbroad way
+- Parliament can't limit liberty in an arbitrary way in the sense that the limit is unconnected to the purpose, and overbroad in the sense that it includes conduct not intended to be limited
+- These are very flexible principles, and the main issue here is the intent of Parliament
+### [[R v Brar]]
+- This case references an earlier BCSC case called *Simard*, where the Charter argument succeeded
+- In that case, the court found that the restriction was overbroad because it was sweeping in conduct that bore no resemblance of the point of restricting the defence for gendered violence
+- Also a Quebec case and trial decision in Ontario that made the same conclusion
+- However, it was hard to take these decisions to the appellate level, because in most cases the jury rejected the defence anyway and the accused was convicted
+- Only the accused can appeal a conviction, and they usually didn't want to
+- Can technically appeal to the SCC from trial, but the SCC rejected in
+- This is one of the first cases where s. 232(2) was addressed in an appellate court
+- Ontario Court of Appeal here upheld the restrictions on the grounds that there was a rational connection between the purpose and outcomes of the restriction
+- Aim of the *Zero Tolerance* act was supposed to be very specific, but the court here argued otherwise, saying that it was broader than most thought
+- Court made a deliberate decision to also prevent other kinds of conduct
+- Counsel for the accused argued that even if the facts of the case didn't really indicate any sort of Charter violation, it should still be considered
+- Brought up the hypothetical of an abused woman killing her husband over insults being denied the defence based on the new version of s. 232(2)
+- Court says that this is pretty unreasonable, why would the insults be considered separate from this history of abuse?
+- Even if this is possible, it is still consistent with the purpose of the legislation, we're trying to remove the possibility of someone raising it based on insults
+- Also, it's important to note that the problem with the defence in the first place was that it's only really used by men to justify killing women
+- Another interesting outcome is when small parts of multiple defences are used together to try and raise a reasonable doubt
+- This is called a "rolled-up charge", and is possible under Canadian law, and pretty much only used in murder cases, and given to the jury
+### [[R v Williams]]
+- In this case, the victim called the accused a racial slur while crossing the road in front of the accused's car
+- Accused got out of the car with a knife, and the victim attacked him, pushing him through a window and injuring him
+- Accused started stabbing wildly, and ended up killing the victim
+- Trial judge asked whether they were arguing provocation, and both sides said no, because self defence requires fear while provocation is connected to anger
+- However, the appeal court stated that yes, it is possible to raise both defences although self defence is more powerful, and may be weakened by an argument based on provocation
+- The jury at trial did not find that there was an air of reality to self defence
+- On appeal, they found that the trial judge should have instructed on provocation anyway
+- Didn't end up succeeding anyway because a reasonable person would not have gotten out of the car, inviting the assault
+- Also, this didn't happen all at once so the suddenness element wasn't met, was prevented by the fact that the assault from the victim was reasonable foreseeable
+- Based on the accused's testimony, there was also no evidence that he lost control

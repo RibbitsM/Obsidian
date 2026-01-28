@@ -1,0 +1,49 @@
+- Accused charged with sexual assault causing bodily harm contrary to s. 246.2(c)
+- Victim visited the accused, went out to dinner with friends, and the two returned and were alone in the accused's flat
+- Victim stayed because she wasn't feeling well and wanted to talk about the death of her father the year prior
+- Accused was drunk but could walk, see and talk clearly, and had control of his motor skills
+- Victim testified that he forced her to have sex without consent and punched her twice and threatened to kill her, a blood-stained towel and pillowcase was found hidden in his flat
+- Accused admitted to forcing the victim to have sex with him, but argued he did not know why because he was drunk at the time
+- Trial judge didn't really address this fact, said that drunkenness is no defence
+- Court of Appeal held that the offence was of general intent, and therefore the defence does not apply
+- Issue is if this offence is specific or general intent, and whether self-induce drunkenness can affect guilt for an offence of general intent
+- Distinction comes from *R v George*, and states that there is a different between intention applied to acts related to the purpose and intention applied to acts regardless of purpose
+- Sometimes, only general intent is required, but specific intent may be required as well
+- General intent is when you only need to prove the accused intended to commit an act, specific intent requires some kind of intended result of said act
+- For example, common assault vs assault with intent to maim or wound
+- In a previous case called *Leary v The Queen*, majority of the SCC held that SA is a crime of general intent, and defence of drunkenness doesn't apply
+- Reason intent is relevant is because for specific intent cases, if the accused is so intoxicated they cannot form specific intent, may be a defences
+- However, you can argue that this intent distinction is arbitrary and illogical, and is more like a policy decision than a logical one
+- However, the intent distinction seems pretty solid, and policy is a valid justification
+- Sexual assault is a general intent offence because whether or not the assault is sexual in nature is assessed on an objective basis
+- Motive of the accused is a consideration, but not determinative
+- Supported because the old crimes of rape and indecent assault are also general intent
+- Only intent requirement for SA is the base intent requirement for assault under s. 246.2(c)
+- Additionally, this case only adds an additional requirement of bodily harm to the victim
+- Mental element remains the same
+- No reason to extend the defence of drunkenness, this just protects people who commit crimes while voluntarily consuming drugs
+- Accused argues that the *Leary* rule frees the Crown from proving *mens rea* for general intent and makes these offences effectively strict liability
+- In reality, no such relief happens, all this does is remove a defence from the offence
+- Additionally, triers of fact have always been able to infer *mens rea* from the *actus reus*, and in this case all that's needed is intent to apply force
+- Secondly, if the accused was so intoxicated that they may not have been acting voluntarily, it remains that they voluntarily impaired themselves
+- It's quite unlikely anyone could get so drunk that this proposition would even be needed
+- But it does follow that getting so drunk you cannot tell what you're doing is behaviour reckless enough to meet a *mens rea* requirement
+- Considering this, it's impossible for one to use voluntary drunkenness as a defence to a general intent offence
+- This follows logically, and in no way removes the requirement of a mental element
+- Appeal dismissed, lower courts correctly convicted Bernard
+### Concurring Opinion
+- Agrees that sexual assault causing bodily harm is a general intent offence, and that most cases involving general intent offences preclude the defence of intoxication
+- However, they disagree that substituting self-induced intoxication for *mens rea* is constitutional
+- Based on the facts of the case, the accused was clearly sober enough to act voluntarily
+- On that grounds, the decision of the majority is correct
+- Would prefer to keep the *Leary* rule as it was, which allows the defence for general intent offences in cases of extreme intoxication
+- Even if the *Leary* rule was applied, the Crown still has to prove BAR that there was intent to apply force, it's not strict or absolute liability? (not sure why this is necessary to discuss)
+- Overall, argues that the CJ accepted that the *Leary* rule could cause absolute liability and in reality it's fine, and should be kept as is
+- When it comes to substituting *mens rea*, we have seen that sometimes this can be done, but there's limitations
+- Can only substitute if there's proof BAR that the substituted element would satisfy the trier of fact that the required element exists
+- Can't really argue that self-induced intoxication can inexorably lead to the presence of criminal intent when the crime was committed
+### Dissenting Opinion
+- Argues that the court should consider evidence of self-induced intoxication as part of the *mens rea*
+- Does specify that this shouldn't extend to offences where consuming alcohol is part of the offence
+- Also mentioned that the distinction between general and specific intent is artificial
+- Overall, appeal was allowed, conviction set aside, and a new trial was ordered

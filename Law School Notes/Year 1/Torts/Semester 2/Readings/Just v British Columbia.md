@@ -1,0 +1,47 @@
+- Appellant and daughter went to go skiing at Whistler, bur had to stop on the sea to sky highway because of heavy snowfall
+- While waiting in traffic, a huge boulder fell off the mountain above them and fell onto their car, killing the daughter and injuring the appellant
+- There had been rockfalls on the same stretch of highway around the same time, and the buildup of snow also increased the risk
+- Argued that the respondent didn't pay enough attention to this and should have inspected the highway to find the rocks before they fell
+- Department of Highways at the time had a rock work section to do this exact job as well as remove any dangerous trees
+- Rock work engineer was responsible for inspecting the slopes above the highway, and would then mark rocks for the rock work crew to remove
+- Before this accident, the engineer would only visually inspect the rock cuts from the road unless there was a history of instability on the slope
+### Analysis
+- Need to apply the *Anns* test in this case
+- There was clearly an invitation to the public to use the highway, as it's a major throughfare and the only major road connecting Vancouver to Whistler
+- Seems that the province should obviously owe a duty of care to those that use its highways
+- Extends to ordinary maintenance, and the appellant was proximate to the province as a user of one of these provincial highways
+- Appellant could reasonably expect that those highways would be maintained, and the defendant could foresee that harm might come to the drivers if not maintained
+- Based on the evidence from the appellant, this may extend to preventing injuries from falling rocks
+### Presence of a Policy Decision
+- Crown is liable for its acts as if it was a person, but is immune to tort liability for any harm resulting from its policy decisions
+- Because of this, we need to distinguish between what is a policy decision, and what is merely an operational decision
+- Test for this is usually that a policy decision is any decision dictated or involved with financial, economic, social, or political factors or constraints
+- Previous public negligence cases held that agencies must consider whether to inspect, and if they choose to, must provide a reasonable inspection
+- Generally speaking, a decision to inspect or not, or to choose the volume of inspection is a policy decision and doesn't impose liability
+- Once the decision to inspect is made, the Crown has to make sure it's reasonable and can be carried out reasonably with respect to resource constraints
+- Policy decisions can also happen at a lower level based on resource constraints like choosing to do spot checks instead of full inspections
+- Duty of care compared to private cases is obviously different here, given the volume that the province is expected to maintain
+- As long as the frequency and method of inspection is reasonable considering the limits and the potential risks, it's all ok
+- Policy decisions are usually made by peoples with high authority, but can also come from the lower level depending on the scope of the decision
+- Finally, if the govt wasn't using a *bona fide* exercise of discretion when making these decisions, they may still be open for liability???
+### Application
+- In this case, the issue was how the inspections and rock work were done, and their frequency
+- Seems that decision of the authority to inspect slopes visually in most cases, and only look closer when the risk was higher was an operational decision
+- The policy decision to inspect highways was already made, they were just deciding how those inspections would play out in practice
+- Therefore, they can be reviewed by the courts
+- Trial judge concluded that these decisions were based on policy
+- Because of this error, the appellant should get a new trial
+- This is just one step, still need to prove that a duty exists, whether the govt med the standard of care, and whether the system and manner of inspection was unreasonable, given the existing constraints on resources
+### Dissenting Opinion
+- Argues that this would expand liability for negligence by opening policy decisions to review
+- States that the manner and extent decision were policy, and the court can't affect that
+- *Anns* did recognize that the decision to inspect, as well as the manner of inspection are all within the discretionary power of the government
+- Plaintiff needs to prove that the action was not within the limits of a *bona fide* exercise of discretion before establishing a duty of care
+- In this case the relevant statute did not impose a duty to inspect but rather the power to inspect, and thus everything below that is a discretionary power
+- Lower courts found that it was a policy decision to create the Rockwork Section, and to give them the responsibility of inspecting the slopes by highways
+- Crown never made a policy decision that slopes above highways should be inspected for rock falls or guidelines to deal with any danger found, just to create the Rockwork Section
+- This crew decided how to proceed mainly on its own, and inspected the section where the incident happened and deemed it not to be a priority
+- By saying that the authority has to consider whether to inspect and to create a reasonable inspection system if so, this unreasonably extends liability compared to *Anns* and *Nielsen*
+- If we accept this argument, then the only decision immune to review is the one to inspect in the first place
+- This is arguably the least important decision in this chain, and needs the least amount of protection from judicial review
+- We should be immunizing mainly decisions that entail using up public funds, not decisions that may theoretically do this in the future

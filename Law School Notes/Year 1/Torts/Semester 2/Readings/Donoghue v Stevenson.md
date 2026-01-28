@@ -1,0 +1,9 @@
+- Plaintiff drank a bottle of ginger beer manufactured by the defendant, and found the decomposed remains of a snail inside the bottle
+- Plaintiff suffered shock and severe gastro-enteritis, and sued the defendant
+- Argues that as the manufacturer of the goods, the defendant has a duty to ensure that they don't contain anything noxious
+- They neglected this duty and are liable for the resulting damages
+- Closest relevant case to this was [[Winterbottom v Wright]], but in that case there was no action because the parties had no contract between them
+- Two exceptions to this rule
+- Either if the thing is inherently dangerous or if the thing is dangerous because of some defect, liability can be imposed outside a contract
+- Hard to argue that ginger beer is inherently dangerous, so it has to fall into the latter category
+- No existing authority implies that the manufacturer has a duty to protect the consumer 

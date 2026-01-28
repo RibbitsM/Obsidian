@@ -1,0 +1,97 @@
+- There isn't really any explicit protections for judicial independence, mostly based on interpretation of constitutional texts
+- Generally accepted conditions for judicial independence are as follows:
+	- Guaranteed tenure
+	- Merit-based appointment and promotions
+	- Fair and secure renumeration
+	- Enough systemic funding to enable judges to function
+	- Authority to decide judicial matters, and whether an issue falls within judicial competence
+	- Personal immunity against suit
+	- Rules allowing recusal and disqualification
+	- Protection against improper use of complaints
+	- Independent legal profession
+	- Political attitude of respect for the law and legal system
+- Section 100 of the 1867 Constitution requires judge salaries and benefits to be provided by the government, and are fixed by Parliament
+- Goal is to avoid executive and legislative interference in the judicial branch
+- Parliament can modify benefits like pensions, but any discriminatory treatment of judges could be a violation of judicial independence
+### PEI Provincial Court Judges Reference
+- Point of guaranteeing financial security to judges is to ensure judicial independence, which is an important part of maintaining public confidence in the judiciary
+- Case dealt with a number of different appeals all based on s. 11(d) of the Charter
+- This section guarantees the right to a fair trial, which includes guaranteeing an independent trier of fact, in this case a judge
+- While some constitutional provisions do address judicial independence, the court argues that overall it's an unwritten principle
+- Sections 96-100 deal with judges, but only in superior courts
+- Additionally, s. 11(d) only applies to courts that deal with criminal offences
+- Like many other unwritten constitutional rules, this principle is usually explained by also looking at the preamble to the 1867 Constitution
+- Specifically, the important part is that Canada's Constitution should have similar principles to the UK Constitution
+- Origin of protecting judicial independence comes from the 1701 *Act of Settlement*
+- Because the courts make up one of the three branches of government, it stands to reason that ensuring their independence reinforces federalism, and by extension the Constitution
+- Previous case called *Valente v The Queen* held that not only should courts be independent, but should also be reasonably perceived as independent
+- Three core characteristics of judicial independence are security of tenure, financial security, and administrative independence
+- First means judges can only be removed for reasons affecting their ability to perform judicial functions
+- Second means that judges have a legal right to a salary, that cannot be interfered with by the executive
+- Third means that courts should have control over administrative decisions relating directly to judicial functions
+- Can also measure independence of individual judges vs the independence of the court as a whole
+- Latter is important for federalism, and the court argues that it should be granted to provincial courts because they serve the goal of protecting constitutionalism
+- Court also identifies three key components for financial security
+	- Salaries of provincial court judges can be reduced, increased, or frozen as long as an independent body recommended it
+	- No member of the judiciary can negotiate renumeration
+	- Any reductions in renumeration cannot reduce salaries below a minimum level
+- Same principles for judge salaries extend to other benefits like pensions
+- Particular emphasis is put on the requirement that the relationship between the branches has to be depoliticized
+- This is such an important requirement that s. 11(d) should be interpreted to support it
+- Makes things difficult because using taxpayer money to pay judges is pretty political
+- However, judges aren't civil servants and should get special treatment
+- Additionally, they're at a disadvantage in the sense that they can't negotiate or lobby for changes to their renumeration
+## Judicial Appointments
+- Section 96 of the 1867 Constitution enables the Governor General to appoint the judges for superior courts in each province
+- Also mentions some minor selection criteria and basic tenure guarantees
+- Doesn't say anything about provincial courts
+- Most constitutional democracies have some kind of merit-based process for appointments
+- Usually, a committee is formed with a set of formal criteria, and seeks to make diverse choices to ensure the judiciary represents all of society
+- Supposed to be a transparent process to help ensure independence
+- This is the approach that provinces use, usually either having a list of potential candidates or doing a search when a vacancy happens
+- Superior and federal court appointments are less formalized
+- Historically, the minister of justice would make appointments, but this often led to partisanship when it came to judiciaries
+- New process requires applications to a special commissioner that screens candidates, who must all personally apply
+- Advisory committees for each province examine the candidates and vote on them
+### Supreme Court Appointments
+- Governed by the *Supreme Court Act*, which actually doesn't impose many requirements
+- Judges have to be lawyers for at least 10 years, have a bar membership, and three of the nine seats have to be for Quebec
+- Today, we do three for Ontario as well, and then two for the west and one for the Maritimes
+- Historically, the PM selected the judges based on advise from their justice minister
+- Early on, a lot of judges were previous ministers or politicians
+- Wasn't really any formal process, but factors like qualifications and diversity were considered
+- In 2004, an ad hoc committee for appointments was created which would review the two most suitable candidates found by the justice minister and advise the PM
+- Future iterations of this process also involved a televised hearing of the nominee
+- This could potentially raise issues of parliamentary involvement in judicial matters, but overall the main issue was the competence of the MPs on this committee
+- In 2008, the Supreme Court Selection Panel was created which would be staffed by MPs from all the parties to create three names for consideration
+- While this wasn't used for the next appointment, it was later used for two more appointments
+- Real issue came in 2013 when Harper tried to appoint Marc Nadon in a Quebec spot
+- Nadon was not a member of the Quebec bar at the time since he was a sitting Federal Court judge, which may go against s. 6 of the *Supreme Court Act*
+- This clause requires the Quebec appointee to be from the appeal or superior Quebec courts, or from the Quebec bar
+- Government tried to amend the act to allow former Quebec bar members to be appointed
+- Issue went to court almost immediately
+#### Reference re Supreme Court Act ss 5 and 6
+- Issue for the court is whether or not someone who was on the Quebec bar for at least 10 years at any time qualifies under s. 6
+- If the answer is no, can Parliament enact law to make someone like that eligible?
+- Regarding the first issue, Justice Nadon is not on the Quebec Court of Appeal or Superior Court, and thus can only be eligible based on the fact that he was on the Quebec bar for over 10 years
+- Looking at the *Act*, we can see that s. 6 imposes additional criteria on top of what is already required for Supreme Court judges under s. 5
+- Goal of s. 6 is to ensure the SCC has civil law expertise, and the legal traditions and values of Quebec are represented in the court
+- Also, although the *Supreme Court Act* was initially a normal statute, it deals with the composition of the SCC which is protected under Part V of the 1982 Constitution
+- Thus, Parliament's ability to amend it is limited
+- The Quebec requirement comes from the bargain struck between Quebec and the rest of Canada that created the SCC in the first place
+- Sections 5 and 6 have to be read together, with s. 6 going on top of s. 5
+- Since s. 6 was created with the intention of ensuring Quebec's unique legal and cultural aspects are reflected in the SCC, it's crucial for the legitimacy and function of the court
+- Quebec was initially hesitant about the SCC because they were worried it couldn't deal with issues of civil law properly
+- Question is if allowing former Quebec bar members fulfills the same goal
+- Can argue that it does by pointing to the fact that Quebec has previously agreed to Constitutional provisions that would allow this during the Charlottetown Accords
+- However, this was far from the most important thing in those negotiations
+- Can't imply they agreed to that provision specifically
+- Overall, the court held that Nadon could not be appointed to the SCC
+- Leaves open the possibility that Nadon could join the Quebec bar for one day and be appointed
+### Current Issues
+- New appointment process was created in 2016
+- Requires filling out an extremely detailed questionnaire, and a background check
+- Applicants that pass screening are referred to an advisory board
+- Board creates a shortlist of 3-5 nominees reviewed by the PM, the minister of justice can also consult the list with the current chief justice and other officials
+- There are also some optional public elements, and a required public report from the advisory board on the appointment process
+- Some say this process is too onerous, but more comprehensive

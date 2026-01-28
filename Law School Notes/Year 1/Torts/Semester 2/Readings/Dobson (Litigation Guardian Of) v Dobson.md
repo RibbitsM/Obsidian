@@ -1,0 +1,67 @@
+- Appellant was 27 weeks pregnant and got into a car accident during a snowstorm
+- Alleged that the accident happened because she was driving negligently, allegedly injuring her unborn son, the defendant
+- Because of the accident, the baby was delivered prematurely by c-section and now suffers from several physical and mental impairments including cerebral palsy
+- The grandfather of the infant sued the appellant as the litigation guardian of the infant son for damages sustained by the infant
+- Issue on appeal is whether a mother is liable for damages to her child coming from a prenatal negligent act damaging the fetus
+### Analysis
+- Previously established that an existing duty of care can be not imposed for policy reasons
+- Court argues that despite the existence of duty of care towards an alive child, this should not extend towards unborn children
+- This is not an issue for the courts, the legislature should handle it if it wishes
+- The *City of Kamloops v Nielsen* case set out a test for liability that requires a close relationship between the parties and a lack of any policy considerations to the contrary
+- If we consider pregnant women and their fetuses as separate legal entities, it's pretty easy to establish the first requirement
+- For the purpose of analysis, we can assume that this is the case
+- Additionally, it is very easy to prove that any negligence on the part of the mother could foreseeably cause harm to the fetus
+- The relevant issues here all fall on the second step of the test
+- Two main policy considerations against this are the privacy and autonomy rights of women, and the difficulties in creating a judicial standard for pregnant women
+- Additionally, since this duty pretty much only applies to women, it may even be considered gender discrimination and a violation of s. 15(1) of the Charter
+#### Privacy and Autonomy Rights
+- While children can sue a third party for injuries inflict prior to their birth, this liability should not be extended to their mothers
+- Relationship between the child and the third party is completely different from the mother-child relationship
+- Probably most relevant factor is just how interconnected these two parties are, more than basically any other relationship we could imagine
+- Anything a pregnant woman does or fails to do may affect their fetus
+- Would make pretty much every decision she makes after becoming pregnant leading up to the birth potentially grounds for a lawsuit
+- Also extends to activities she performs alone in her home, which is unique compared to basically any other duty of care relationship
+- Could also have devastating consequences for a mothers future relationship with her child
+- Likely already being punished by having to cope with the demands of giving birth to a child with special needs, doesn't also need to be subject to a trial and forced to pay damages
+- Doesn't even help anyone, as the child would likely be affected negatively by the outcome of the trial anyway, no matter the decision
+- If it doesn't provide compensation or provides a deterrent effect, what's even the point
+#### Judicial Standard of Conduct Issue
+- Even if the other issues didn't exist, court would still have to come up with a standard of conduct for pregnant women
+- Intervener argued that this should be based on the "reasonable pregnant woman" standard, which is a ridiculous suggestion for the same reason the court has rejected reasonable parent standards
+- Would effectively let the trier of fact decide, based on their perspective, what is and is not acceptable for a pregnant woman to do
+- Any attempt to establish a uniform standard would also be inherently unfair as it doesn't account for differences in financial situations, education, access to healthcare, etc.
+- Similar issue addressed in *Stallman* where similar arguments were made regarding the potential of a judicial standard for pregnant women
+- Counsel for the infant argued that most of these considerations are irrelevant to this case, which deals only with the issue of liability arising from driving
+- Liability will naturally be limited to activities that are not "peculiar to parenthood" or a "lifestyle choice"
+- Since the mother would already owe a duty to others while driving, it's ok to extend that to her unborn child
+- Court rejects the idea of any duty of care that is owed to the public at large, even one arising from driving
+- Long established that the duty of care for negligence has to be specific
+- Additionally, even when we only consider activities that could be considered to have a "general duty of care", that's still a very broad range of activities
+- Additionally, leaves open the possibility of interpretation of what is considered a "lifestyle choice" by the court
+#### Insurance Rationale
+- Argument is that car accidents are a special case because there's mandatory insurance for automobile negligence
+- Previously established that insurance is irrelevant to determining tort liability
+- Insufficient grounds to dismiss this appeal
+- Overall, this appeal is allowed, and the mother should not be held liable
+### Concurring Opinion
+- Justices McLachlin and L'Henreux-Dube provided a separate opinion to talk about how this would also violate the Charter
+- Without even getting to the gender equality issues, this is a significant limit on the liberty of all pregnant women by imposing potential liability on each decision they make
+- Also violates the right to equal treatment, as these women would not be able to freely choose how they eat, drink, work, and other matters
+- Unfair to punish women because only their sex can bear children
+- Also not enough to argue that they consented to pregnancy
+- Additionally, can't base the argument on the existence of duties to others while driving, because a duty of care must be based on the relationship between the plaintiff and defendant
+- Goal of the Court of Appeal is arguably noble, they want children affected by injuries suffered before their birth in traffic accidents to be able to get damages from their mother's car insurance policies
+- However, doing this through the courts comes at too high of a cost, either distorting common law principles or restricting women's rights
+### Dissenting Opinion
+- Argues that because the mother owed a duty of care to the other driver she hit, she should also owe a duty of care to her unborn child
+- This would not limit her autonomy at all, as she already had a duty to drive without negligence
+- Argues that the duty of care owed to the other driver is exactly the same as the one owed to her unborn child
+- The dissent is incorrect in saying that this duty of care relies on the existence of a third party
+- What the argument really is is that you can't raise women's freedom of action as a policy consideration in this issue because it's not threatened in this case
+- Extending liability to the child here would not create any new restriction on the mother's actions
+- If the facts of the case were different, and those considerations did apply, they would certainly remove any liability that might arise
+- Argues that in any case where a third party is involved, then there will be no limitation of freedom to the mother
+- Also speaks about how focusing on the rights of the pregnant woman ignores the rights of the unborn child as well
+- Removal of an individual's cause of action is severe and needs to be justified by obvious and persuasive policy reasoning
+- Not fair for the child to go through life with a debilitating disability without compensation
+- The removal of the unborn child's right to sue lies with legislature

@@ -1,0 +1,38 @@
+- Plaintiff was waiting on a train platform when two men hurried to catch a train, and one was carrying a package
+- Hopped onto the moving train, and the man with the package was about to fall out the door when a guard on the platform pushed him into the train
+- When he pushed him, the man dropped the package which contained fireworks
+- Fireworks exploded when they hit the train tracks, and the force of the explosion knocked down some scales that fell onto the plaintiff
+- Plaintiff sued the railroad company for injuries caused by the scales hitting her
+### Analysis
+- Guard was not negligent with respect to Palsgraf, nothing about the package indicated that it could hurt someone so far away
+- Negligence requires invasion of a legally protected interest
+- Because no one could have expected the package to pose a hazard, the act does not become a tort just because it caused harm
+- Additionally, negligence requires some sort of duty to be present
+- Generally, the defendant must have a duty to keep the plaintiff safe from the kind of harm they suffered
+- In this case, the harm to the plaintiff was personal to her, and not the result of some breach of duty
+- Case for the plaintiff was that the wrong committed against the passenger by shoving him on the train transferred to the plaintiff because of the package?
+- To make a claim for negligence, the plaintiff must show that a recognized right she holds was damaged
+- As for the duty, this does not have to be a legally defined duty, but rather can come from an implied duty to not hurt others while doing anything dangerous
+- The reasonable perceived risk of an activity correlates to the strength of the duty, and the proximity that duty extends to
+- Here, the perceived risk of causing the package to fall to the ground was quite low
+- All of these elements are required to establish negligence
+- Need to show that your rights were violated in some way, and that the violation came from a wrongful act
+- The wrongful act must objectively pose a risk to the plaintiff to the point where the defendant owed them a duty of care
+### Dissenting Opinion
+- Determining the result of this case depends on whether or not negligence requires a breach of a duty owed to others or if it can be caused by an act threatening the safety of those around the tortfeasor
+- Describes negligence as an act or omission that may or does unreasonably affect the rights of others, or which unreasonably fails to protect one's self from the dangers resulting from such acts
+- At the time, negligence was limited to breaches of a legal duty of care that is owed specifically to the plaintiff
+- Dissenting judge disagrees with this conception of negligence
+- For example, speeding down a busy road is negligent, whether or not anyone is harmed
+- Duty of care is held by anyone, and requires protecting society from unnecessary danger
+- Each person has a duty to refrain from acts that may unreasonably threaten the safety of others
+- Anyone who could potentially be harmed by these acts is wronged by the person committing the acts
+- However, to recover damages, the plaintiff needs to prove that the injury to their rights was caused by the negligence of the plaintiff
+- Negligence must be the proximate cause of the injury
+- When it comes to determining what is and is not "proximate", there is a limit to how far the courts will follow the chain of causation
+- If you go deep enough, pretty much every action is linked, but we need to draw the line somewhere for mainly policy reasons
+- At the very least, proximate cause is something that the incident at hand could not have happened without it coming to pass, the "but for" test
+- Argues that in this case, the defendant committed a wrongful act by knocking the package from the passenger's arms
+- The act was wrongful in the sense that it posed an unreasonable risk to the package 
+- This was a negligent act, and therefore they are responsible for the proximate consequences, even though they could not have foreseen them
+- Therefore, the injury to the plaintiff was a proximate cause of the defendant's negligence

@@ -1,0 +1,32 @@
+- Recall that we determine a lease from a license by looking at the substance of the agreement, not just its form
+- In BC, all tenancy agreements are governed by the *Residential Tenancy Act*
+- Act describes a "tenancy agreement" as any agreement between a landlord and tenant over possession of a rental unit
+- This definition can include licenses to occupy rental units
+- Rental unit is defined as a living accommodation that is rented to or intended to be rented to a tenant
+- Act doesn't apply to a number of accommodations, including those used by non-profit co-ops, university residences, travel accommodations, units with shared facilities, etc.
+- Also doesn't apply to emergency shelters, care homes, prisons, or anywhere that is rented for a term of over 20 years
+- The Act cannot be contracted out of, and always applies to applicable situations
+- Every tenancy under this Act shares the "standard terms", which are defined in the *Residential Tenancy Regulations*
+- The standard form for tenancy agreements includes spaces for the key elements of parties, property, and price, with the price here being the rent
+- Also specifies the start date and term of the agreement
+- Other important things on the form include the security deposit section, and information regarding rent increases, subletting/assigning, and repairs to the unit
+- Finally, the form also lists the rules for ending tenancy, has a reminder regarding privity of estate, and has room for any additional terms required
+### Ending a Tenancy
+- For a fixed term tenancy, the landlord can require the tenant to vacate the unit after the end of the tenancy, but is only allowed to do this in a few circumstances
+- Reasons can be found in s. 13.1 of the *Residential tenancy Regulations*
+- Main circumstances are where the landlord or one of their close family members is going to occupy the rental unit once the rental term expires
+- A "close family member" is a landlord's parent, spouse, child or a parent/child of their spouse
+- Landlords can also end a tenancy if rent is unpaid any day after it is due, and end it by sending the tenant a 10-day notice to vacate the unit
+- Can also end tenancy with a one-month notice if the tenant didn't pay a security deposit within a month, was repeatedly late paying rent, or was bringing an unreasonable number of occupants into the unit
+- Other causes for eviction here include the following:
+	- Tenant or guest interfered with another occupant or landlord
+	- Tenant or guest seriously jeopardized the health/safety or lawful right of another occupant/landlord
+	- Tenant or guest put the property at significant risk
+	- Tenant or guest engaged in illegal activity that damaged the property, affected quiet enjoyment or safety of another occupant, or jeopardized a right of another occupant/landlord
+	- Tenant or guest caused extraordinary damage to the unit
+- Landlord can also end a tenancy with 3 months notice plus one month's rent if they or a close family member intends to occupy the unit
+- Same goes if they sold the unit, all conditions on the sale have been satisfied, and the buyer asked the landlord in writing to end the tenancy so they could occupy the unit
+- Example of someone invoking the clause is in [[Resurreccion v Neumann]]
+- As we saw in that case, the landlord has to pay their tenant a year's worth of rent unless they can show that the rental unit was actually being used after they got kicked out
+- Can also end the tenancy with 4 month's notice if they want to demolish or convert the unit for a variety of uses, including making it a strata lot or for non-residential uses
+- Same goes for renovictions, which only apply if the intent is in good faith, the work actually requires the unit to be empty, the work is necessary, and eviction is the only way to get the unit vacant

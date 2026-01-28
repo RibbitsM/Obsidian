@@ -1,0 +1,76 @@
+### [[Donoghue v Stevenson]]
+- Atkin held that the manufacturer of a product that cannot be examined between the point of manufacture and consumption, owes a duty of care to the customer
+- At the time, there was no pre-existing categories to fit this situation into
+- However, there's a clear relationship between the plaintiff and defendant
+- Sometimes, this is all that is needed in negligence law
+- Defendant thus owes a duty to the customer regardless of the presence of a contractual relationship between the parties
+- Any negligence in the handling of the product that leads to injury to the consumer's protected interests imposes liability on the manufacturer
+- Different from the way the law applies for remoteness
+- Atkin held that [[Winterbottom v Wright]] didn't apply to this case, which isn't really true
+- If it was applied, this case would be dismissed almost immediately
+- What actually happened here was a dramatic reconstruction of the existing law
+- Supported by a number of the other lords, and a majority was reached
+- Going back to the neighbour principle, recall that simply hurting someone nearby is not enough to establish negligence
+- Neighbour must be someone closely and directly affected by the defendant's action or omission
+- According to this decision, law does not consider mere carelessness, there needs to be an existing relation between the plaintiff and defendant
+- Can still have cases where someone is harmed by the carelessness of another, but without being closely and directly affected, there's no liability
+- Also relates to the concept of foreseeability, within the relationship, the defendant should be able to reasonably expect that their actions could harm someone
+- Foreseeability of harm is how these relationships are established
+- Manufacturer thus had a relation of duty to all potential customers
+- Establishing duty of care also means you have to establish a standard of care
+- Overall, seems that the defendant failed to meet the standard of care here
+- Landmark case, but doesn't really establish how the connection is made
+### [[Palsgraf v Long Island Railroad]]
+- Two men were boarding a moving train, one man holding a package was about to fall out of the doorway of the train
+- Station guard pushed him back on the train, man dropped the package which contained fireworks, and exploded when it hit the tracks
+- Blast broke a weighing scale which fell and hit the plaintiff, injuring her
+- Raises the issue of correlativity, to establish a tort, the wrong committed by the defendant must relate to the right of the plaintiff that was interfered with
+- Additionally, defendants cannot be expected to prevent harms they could not foresee
+- Should be able to predict harm to people who are closely and directly related to you
+- Unreasonableness of the act is punished through the negligence action, defined by what you foresaw but failed to prevent
+- Thus, without foreseeability, there is no liability
+- Majority judgement from Cardozo held that negligence is only actionable if a protected interest is violated
+- Act of the defendant must give rise to a duty of care to the plaintiff
+- Not every wrongful harm is a tort
+- Previously stated that negligence (wrong) and duty (right) are correlated
+- In this case the plaintiff claimed to have suffered from a breach of duty of care between the railroad company and the man carrying the explosives
+- However, plaintiff cannot be a vicarious beneficiary of a breach of duty to another, she was outside of the relationship between the passenger and railroad
+- Even though she was injured, there was really no wrong done to her
+- As a comparison, Cardozo argues that if someone bumped into another person in the crowd and caused a bomb they were carrying to explode, someone on the edge of the crowd can't sue the person bumping into the bomb carrier
+#### Principles
+- Knowledge leads to foresight, and can either be actual or constructive
+- Ability to foresee harm to others creates the proximate relationship
+- Based on this fact, the person being held liable is the person who can predict what would happen, in this case it would be the man carrying the explosives
+- The railway employee could not have predicted the explosion and resulting damage, and thus does not owe any duty of care to the plaintiff in this case
+- Also, if the man being pushed onto the train fell and injured himself as a result, the railroad employee could have foreseen this, and the man could sue the railroad
+- Finally, the plaintiff must show a wrong committed to themselves, interference with a right is not an actionable injury without an accompanying duty
+- In the context of *Donoghue*, the person closely and directly affected is the person who is entitled to recover damages
+- Every time we talk about risk, we also have to consider the relation imported by that risk
+- Who that relation is imported to is determined by the "range of apprehension"
+- Case also touches on the principle of remoteness
+- If a defendant releases a destructive force that is known to be dangerous, even if it does something unexpected, the defendant should still be liable
+- Explains why if the plaintiff sued the man carrying the package, she would likely have succeeded even though he likely could not foresee the package exploding and knocking the scale onto the plaintiff
+#### Outcome
+- In this case, the plaintiff's position was not within the risk created by the actions of the railroad company employee
+- She was not so closely and directly related that the employee should have reasonably considered her well-being when pushing the man onto the train
+- Therefore, there is no proximity between the two and no duty of care owed
+- Plaintiff cannot sue the railroad company for negligence
+### Post-Donoghue
+- Canadian equivalent of the negligence test comes from [[Cooper v Hobart]]
+- Neighbour principle was established, showing that reasonable foreseeability and proximity, led to a duty of care
+- Greatly expanded the variety of cases that could now be litigated
+- Requirement of reasonable foreseeability worked for personal injury and harms to property cases, but didn't work as well with non-physical injury cases
+- In cases where the injury was psychological or economic, especially when the act was merely speaking words like giving another advice, less directly applicable
+- Makes establishing reasonable foreseeability much more complicated
+### Anns Test
+- Policy considerations sought to develop the relationship of proximity, and the opportunity arose in *Anns v Merton London Borough Council*
+- Case created the unified neighbour principle, which was established the same way as before, but now creates a *prima facie* duty of care that must be negated via policy considerations
+- Two questions to answer to determine if duty of care arises
+- First, need to ask if there is a relationship of neighbourliness between the plaintiff and the defendant based on reasonable foreseeability
+- Second, look for any considerations that would reduce or limit the duty, the class of persons it would apply to, and what damages it could give rise to
+- Basically designed to limit the huge expansion of liability from *Donoghue*
+- Could be applied to any fact situations, not just injury or harm to property
+- Expanded liability by creating a *prima facie* duty without requiring the plaintiff to prove it
+- Policy consideration requirement became separated from the *prima facie* duty, and shifted the burden of proof onto defendant
+- Right now, we know that the plaintiff has to prove a number of things, and for duty they need to prove reasonable foreseeability and proximity
+- The Wilberforce formula from this case made things weird, because it added an additional burden to the defendant

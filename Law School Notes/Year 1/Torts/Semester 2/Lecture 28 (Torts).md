@@ -1,0 +1,54 @@
+### Liebig v Guelph General Hospital
+- Kevin Liebig was born with cerebral palsy due to negligence during the birth process on the part of the doctor
+- However, the defendants argued that the doctor did not owe a duty of care to Kevin
+- Long-standing precedent of born alive infants being able to sue doctors for damages caused to them while they were in the womb
+- However, the defendant raised two cases, *Bovingdon* and *Paxton*, where the child could not sue
+- In both of these cases, a mother received a teratogenic drug, which is known to create birth defects and cannot be given to women who may become pregnant
+- In both cases, the doctor believed the women could not become pregnant, and prescribed a teratogenic drug
+- When the children were later born, they had significant birth defects
+- These cases fell under a category called "wrongful life", which usually cannot be litigated because the court would have to assess the difference between a child being born disabled and not being born at all, which they refuse to do
+- Serves as a contrast to wrongful conception cases, where a doctor is negligent in sterilizing a patient for some other reason leads to a baby needing to be aborted
+- These cases are generally allowed, doesn't have the same issue since child wasn't born, the mother can sue for damages related to the abortion process
+- Issue in these cases were whether physicians owe a separate duty of care to a future child
+- This was because they didn't want to litigate on the wrongful life issue
+- Court held that no duty of care to a future child applies if the negligence took place prior to conception, doctor only has a duty to the mother
+- Reasons for this were mainly based on the same policy considerations from [[Dobson (Litigation Guardian Of) v Dobson]]
+- This case was distinguished from the previous two because the health care happened when the mother was already pregnant
+- In *Paxton* and *Bovingdon*, the mothers were not pregnant while they were being treated
+### Nonfeasance
+- Also called the duty to assist others
+- Means an omission to prevent harm, the non-prevention of harm
+- On the other hand, misfeasance is the wrongful infliction of harm through a positive act
+- Misfeasance generally gives rise to negligence
+- Malfeasance is the same, but with intention to inflict harm, while misfeasance is negligent
+- When we use terms like "omitted" or "failed" to act, this implies that there was a duty to act
+- Nonfeasance in action in the face of a novel peril where a duty to act exists
+- Negligence attaches to nonfeasance due to the affirmative duty to act arising in some circumstances, but generally there is not duty to save another in law
+- Emerges only in situations where there is a special relationship between the plaintiff and the defendant, called the duty of affirmative care
+- [[Donoghue v Stevenson]] actually cites the Good Samaritan story from the Bible
+- This was a major influence on the neighbour principle, which may extend to giving assistance to people you find who are suffering
+- However, the neighbour principle specifically only applies to persons affected by the act of the defendant they could have reasonably expected to affect them
+- Anyone who doesn't do anything to cause the harm is not responsible
+- Another English case criticized Atkin's test in *Donoghue* by pointing out that the priest and Levite in the Good Samaritan story would not be liable under English law
+- An omission to help alone does not give rise to liability without an accompanying duty
+- While we may find this morally reprehensible, it does not extend any legal liability
+- In the absence of correlativity between act and harm, no duty to prevent harm exists
+- In the video we saw, the Good Samaritan had no duty to the victim, as she caused him no wrong, would only have a duty if she harmed him or had a special relationship to him
+- In relationships like spouses or parent-child, a duty to prevent harm does exist
+- Arises from the neighbour principle because there is proximity
+### [[Union Pacific v Cappier]]
+- Young man bled out after being run over by a train, and his mother sued the company because the employees didn't give him first aid
+- Court held that when a trespasser is injured due to their negligent conduct, those in charge of the instrument that injured them have no duty to give immediate aid
+- This is not a recognizable legal relation for negligence, no liability
+- Moral law may obligate a need to help here, but the law of the land does not
+### [[Childs v Desormeaux]]
+- A couple named Dwight and Julie hosted a BYOB party, one of the guests bought a lot of alcohol and drank twelve beers over the course of a party
+- Let him leave because they didn't think he was visibly intoxicated
+- On his way home, he got into a collision with the plaintiffs, who sued the hosts
+- Previously established duty of care for bars to prevent people from driving drunk
+- This is a novel duty, this was just a social function and no one has previously claimed against a private host for alcohol-related injuries caused by a guest
+- Three key differences
+	- Commercial parties can monitor alcohol consumption of guests by looking at sales
+	- Sale and consumption of alcohol is regulated by statute, no similar structure functions for private events
+	- There is also a unique contractual relationship between commercial parties and patrons, as the public demands they forgo profit to prevent alcohol consumption
+- Need to apply the *Anns* test to establish a *prima facie* duty of care

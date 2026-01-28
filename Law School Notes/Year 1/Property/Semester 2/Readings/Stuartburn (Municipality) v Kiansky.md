@@ -1,0 +1,14 @@
+- David Kiansky was elected as the Reeve of Stuartburn, a municipality in Manitoba
+- Under local law, to hold elected office you have to own land in the area, found in the *Local Authorities Election Act*
+- At the time of the case, Kiansky sold his home and moved out of the district, but held a life estate to his grandmother's land
+- Issue was whether this interest meets the ownership requirements under the *LEA* Act
+### Analysis
+- Kiansky was recorded as being the owner of an estate in remainder on his grandmother's land
+- Issue is whether that remainder interest is enough to classify him as a land owner even though he sold his main property
+- Provision requires the official to be "in his own right an owner of land"
+- Court held that the wording implies that the person has to be a present owner of a freehold estate in land
+- The remainder interest is a right to a freehold interest in fee simple, currently held by Kiansky's grandmother
+- A remainder interest is considered a present right, because it co-exists with the life estate although it doesn't include a right to enjoyment and possession of the property
+- This is because at common law, there can't be any point where there is no ownership of land when an owner of a life estate dies
+- Based on this information, and academic work on the development of seisin and estate law, the remainder interest qualifies
+- Held that Kiansky met the definition under s. 5(1) of the *LAE* Act

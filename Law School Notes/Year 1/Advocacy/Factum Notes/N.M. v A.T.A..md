@@ -1,0 +1,34 @@
+- Ms. A made a claim trying to enforce a promise by Mr. M to pay the outstanding balance on the mortgage on A's home in England if she agreed to live with him in Canada
+- In reliance on the promise, A quit her job and moved to Vancouver, but M didn't pay off her mortgage but instead gave her a loan she used to pay her mortgage
+- Week after the loan, he evicted her from his house
+- Issue is whether the promise should be enforced, the trial judge refused to do it because there was no legal relationship between the two when the promise was made
+- Satisfied that there was a promise and A showed detrimental reliance on the promise
+- However, promise wasn't intended to be legally binding because there was no legal relationship between them when the promise was made
+- In this case, the appellant (A) is arguing that the proper version of promissory estoppel is the broader version which extends to any promise coupled with detrimental reliance
+- Asks that at least she shouldn't have to pay back the loan
+- Respondent (M) argues that the promise was made as part of a romantic relationship which by its nature involves risk-taking
+- Also points out that there was no evidence that either party thought a legal relationship has been created by the parties, that their legal relations were affected, or that the promise was binding
+- According to a previous case called *Waltons*, a failure to fulfill a voluntary promise doesn't amount to unconscionable conduct, it requires something more
+- As part of this case, they ask if the promisor was entitled to stand by in silence when they must have known the promisees were proceeding on the assumption they had an agreement
+- Sets out the first two requirements of equitable estoppel
+	- Plaintiff assumed a legal relationship existed between the plaintiff and defendant or expected that a particular legal relationship would exist between them that the defendant could not withdraw from
+	- Defendant induced the plaintiff to adopt that assumption or expectation
+		- When they talk about "inducement" in the factum, I think they're misquoting this
+		- Up for debate, but you can argue that what's being induced here is the assumption of a legal relationship
+		- That's not at issue in the factum case, the parties are in a legal relationship
+- Promisor must stand by knowingly and silently while the promisee acted to its detriment on an assumption that they had a binding agreement induced by the promisor
+	- Further reinforces my point that the promise isn't established by omission, only the existence of a binding agreement
+	- Should bring up the point that just because the College was refraining from performing an action does not imply that they will never perform that action
+	- Raises the issue of how long of a delay is required before a right is implied to be waived
+	- Unreasonable for Ian to assume that the lack of enforcement implies a legally binding promise not to enforce the clause, rather than ordinary negligence
+- Appeal dismissed
+
+- In terms of the implications of this case for the factum, the most important point to rebuke is the argument that promissory estoppel applies where one party has induced the other to hold a certain assumption regarding their legal relations
+- This is only mentioned in the context of assuming that a promise is legally binding
+- Additionally, this is based on a statement from an Australian judge
+- Finally, it would be unreasonable for Ian to assume this, and we should not be allowing promissory estoppel to be determined this way
+- Also important to note that this quote also requires the defendant to know that the plaintiff believed in this version of events
+- While it's established that the administrators were aware of student AI use, this does not necessarily mean they knew Ian assumed they would never enforce the policy
+- Entirely reasonable for them to only enforce the policy once it began to affect the school negatively, though it may be a little scummy
+- As for the second mention of *N.M.* in the factum, this is really easy to distinguish because you can't equate the explicit promise given by Mr. M to an implicit promise the College may not have even been aware they were making
+- Overall, the bare minimum standard for promissory estoppel should be that the defendant is aware they made a promise prior to the litigation began

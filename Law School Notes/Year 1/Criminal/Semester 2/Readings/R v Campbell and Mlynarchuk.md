@@ -1,0 +1,19 @@
+- Generally speaking, mistake of law is not an appropriate defence
+- Section 19 of the *Criminal Code* specifically prohibits this
+- Exception is with the common law defence of an "officially" induced error of law
+- Accused charged in 1972 with unlawfully taking part in an immoral performance (s. 163(2)), she was a stripper/go go dancer working at a club in Edmonton
+- Court found that the dance was a performance under the definition set out in the section, and that it was immoral based on the precedent of a previous case (*R v Johnson*)
+- In that case it was determined that being naked in public is immoral because it's illegal under s. 170 of the *Code*
+- Accused argued that she only agreed to do the performance because the club owner told her it was legal based on a lower level decision in *R v Johnson* his friend was involved in
+- However, this is not mistake of fact as Pierre (the owner) was directly quoting the judge from that decision, not stating that it was legally binding
+- The mistake was assuming that the words of that judge were legally binding
+- This is a mistake of law,  which cannot be raised as a defence under s. 19 of the *Criminal Code*
+- Reason for this is because it would be unreasonable to expect the courts to have to determine someone's understanding of the law
+- However, it may be used as a consideration for reducing the penalty for a crime
+- Overall, the reason why mistake of law isn't a defence is not because it's just, the just thing would be to allow it as a defence
+- It's not a defence because of practical reasons
+- Accused was relying on a statement of law made by an Alberta Supreme Court Judge, and advanced legal knowledge would be required to determine whether that statement was right
+- Trial judge allowed defence of mistake, but this isn't appropriate
+- Accused is guilty, but their sentence should be mitigated
+- Ended up giving the accused an absolute discharge, which is the appropriate punishment in these kinds of circumstances based on English law
+- Ironically, the decision the accused was relying on was later upheld by the SCC

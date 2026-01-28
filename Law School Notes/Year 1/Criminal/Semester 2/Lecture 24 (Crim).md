@@ -1,0 +1,47 @@
+- Most of the time, defences will operate as a justification, meaning that they exonerate the accused even though the Crown proved all elements of the offence
+- Slight difference between a justification and an excuse, in the former case the Crown is effectively saying that the actions of the accused were right
+- In the latter case, the wrongful nature of the act is still acknowledged, but the accused should not be punished for some other reason, example for this is duress
+- Today there is not functional difference between justifications and excuses, in the past a justification was an exoneration and an excuse only reduced the penalty
+- Recall that almost all defences must be proven to have an "air of reality"
+- Some defences also place a persuasive burden on the accused to prove the elements of the defence on a balance of probabilities
+- Additionally, not all defences will result in a complete acquittal, some will simply result in a charge on a lesser included offence
+- Some defences come solely from the common law, while others are found directly in the *Criminal Code*
+- There are also a number of Charter arguments related to defences, in the past courts have had to decide whether common law defences can be limited by statute
+- Also, the proof requirements for defences have also been previously challenged
+### Mistake of Law
+- Overall, the *Criminal Code* seems to indicate that mistake of law is not a defence
+- This is directly stated in s. 19 of the *Code*, which specifies that ignorance of the law is not an excuse for committing an offence
+- There are a number of strong arguments for this approach, we want people to educate themselves on the law and we should not discourage that
+- Additionally, trying to determine in court the extent that a person knows or understands the law is quite difficult and usually impractical
+- Overall this is considered a policy of practicality, not one of justice
+- It's entirely possible for unfair situations to be created by this lack of a defence resulting from a mistake of law
+### [[R v Campbell and Mlynarchuk]]
+- Pretty clear example of why mistake of law is not a rule of unfairness
+- Accused was charged with unlawfully taking place in an immoral performance under s. 167(2), which is still an offence today but is infrequently charged now
+- This statute is publicly available, but does not give much information as to what an "immoral" or "indecent" performance actually is
+- These are fairly subjective terms, and some are not even defined in the *Code*
+- To determine this, what we really need is the judicial decisions interpreting this law
+- Campbell was told by the manager of the club she worked at that in a high-profile case against a nightclub ran by the manager's friend, the court held that "bottomless dancing" is legal
+- Based on this representation, Campbell went ahead with the performance and was arrested
+- However, unbeknownst to Campbell, the court decision she was relying on was later overturned by the Alberta Court of Appeal
+- The new law was that "bottomless dancing" is immoral/indecent
+- At the time that Campbell went to trial, this was the binding precedent the trial court had to follow, but at the time of the performance, this was not the case
+- However, it can be argued that the decision of a trial judge is not law, and it is entirely possible that the judge is mistaken as to the true nature of the law, which was the case here
+- Therefore, Campbell's performance was always immoral and indecent
+- Court brings up s. 19, and talks about how in some cases, knowledge of the law could be part of the offence, but in all other cases, mistake of law is not a defence
+- An example of this can be found in s. 423 which deals with the offence of intimidation
+- This offence criminalizes wrongfully or without lawful authority, committing one of several acts with the goal of compelling another to do an act they lawfully don't have to, or vice versa
+- In the context of this case, the accused was actively seeking knowledge of the law, and basically the Court expects her to know the law better than a trial judge
+- While the Court has to convict Campbell, they can consider this fact in sentencing
+- The trial judge found that they had the ability to issue an absolute discharge, which is found in s. 730 of the *Criminal Code*
+- Allows the accused to be found guilty without entering a conviction as long as the offence does not have a minimum penalty or a penalty of fourteen years or more
+- This can either come with conditions, or can be unconditional (absolute)
+- Also does not result in a criminal record, but there is a mark of a discharge
+- Ironically, in the end this was arguably all unnecessary because the Alberta Court of Appeal decision was later overruled by the Supreme Court
+- While s. 19 seems straightforward, it also only applies to offences inside the *Criminal Code*
+- Theoretically, offences from other statutes like regulatory offences do allow mistake of law
+- While it's easy to claim that people should know that criminal offences are illegal, it's a lot more difficult to argue the same for the convoluted world of regulations
+- Can argue that the courts should at least accept the defence in the situation where the accused took steps to find out what the law was and were misled in some way
+- Potentially, this could also apply to offences within the *Code* itself
+- This is called the defence of officially induced error of law
+- Does exist, and there's a few cases using it

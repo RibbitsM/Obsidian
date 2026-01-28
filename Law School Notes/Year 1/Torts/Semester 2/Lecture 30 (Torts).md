@@ -1,0 +1,35 @@
+### [[Just v British Columbia]]
+ - To determine whether liability should be imposed on a government through the *Anns* test, you need to determine whether a decision is a policy decision or not
+ - First thing to do is to look at whether there is a pre-existing category you can apply
+	 - In this case, you would have to check if there is an existing duty to maintain highways that gives the government a duty of care over the drivers
+	 - Two parts to this, need to look if there's a duty and whether there's an exemption from liability for the current case
+	 - Where do these obligations come from, is it from a statute?
+	 - Purpose of this is to establish proximity and foreseeability
+	 - If we can find a statute that establishes an obligation, and if there is no other body of law exempting the government from liability, we can establish a *prima facie* duty of care
+	 - Example of a case where there is an exemption is for COVID-19 lawsuits
+	 - Both BC and Ontario passed laws exempting themselves from liability for deaths or harms caused in nursing homes due to mismanagement of COVID
+	 - Only exception is if the plaintiff can prove "gross negligence", a much higher standard
+	 - These statutes also listed specific positions that could not be sued either
+	 - Overall, look for a pre-existing duty, then go to the proximity analysis by looking at statutes that impose an obligation, then look for exemptions
+	 - Can also look at the history of interaction between the government and powerful public citizens to find an obligation, example would be *Imperial Tobacco*
+- If there is a obligation and no exemption, then need to test if it would be "just and fair" to impose liability, including the additional factors from [[Cooper v Hobart]]
+- Governments are unique from private actors because of the immense scope of its duty
+- Once you get past this stage, the burden shifts to the defendant to raise policy considerations
+- Same as before in some senses, need to look at the impact of the duty on legal obligations, the legal system, and society as a whole
+- Some traditional considerations are looking at are indeterminate liability, issues regarding the separation of powers, the coherency of the legal system, and more
+### Test for Policy Decisions
+- Finally, the last step of this section is to determine whether the decision that led to the alleged breach of duty was an operational decision or a policy decision
+- Even if it is a policy decision, it had to be taken in good faith to be immune to liability
+- Recall that because of the separation of powers, genuine policy decisions cannot be interfered with by the judiciary
+- Test for this is from [[Nelson (City) v Marchi]], and can be considered part of the policy considerations section of the test
+- In [[Just v British Columbia]], the answer to the first section was that a *prima facie* duty of care existed
+- Every policy decision deemed to be a true policy decision is immune from judicial oversight
+- Example of a policy decision made in bad faith where how the Alberta gov managed to the pandemic because they went against the scientific consensus
+- Because Kenney was just going apeshit and making decisions mainly based on retaining the support of his base, he wasn't actually trying to make decisions to protect people
+- True policy decision is one that is based on social, political, and economic reasons
+- Can argue that Kenney was making decisions based on politics, but we should seek to divide these from decisions intended to achieve a personal goal of staying in power
+### Summary
+- First section of the test seeks to establish the duty of care, this is where you look at statutes and litigation history to see if there is an existing obligation
+- If there is no clear pre-existing obligation, see if you can establish reasonable foreseeability and a relationship of proximity
+- Where all this goes well, a *prima facie* duty of care is established
+- Second section of the test is where the burden is on the defendant to raise policy considerations

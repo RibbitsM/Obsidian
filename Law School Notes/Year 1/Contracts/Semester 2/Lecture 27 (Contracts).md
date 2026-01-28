@@ -1,0 +1,52 @@
+- A repudiatory breach is a breach of contract so severe that it entitles the victim not only to damages, but also to treat the contract as void
+- On the other hand, non-repudiatory breaches simply entitle the victim to damages
+- Generally speaking, you can always sue for damages but may not be able to walk away
+- Parties to enforceable agreements may need to answer one or both of two questions
+- First, if an agreement doesn't stipulate the order of performance, may need to figure out which party acts first in fulfilling their contractual obligations
+- Second, does the victim of a breach of contract have the ability to bring an end to the contract?
+- These issues are also interrelated, as the order of performance can be relevant when it comes to determining where one party may fail to perform
+- If this happened, other party may be able to withhold performance or end the agreement
+- Type of breach that allows the innocent party to terminate a contract is called a "repudiatory breach", but not always
+- May also see language saying that the bad actor has "repudiated" the contract by breaching it
+- Some scholars will also say that the victim has "repudiated" by leaving the contract
+### Promises
+- Generally incorrect to think of contracts as a series of promises, they usually also specify circumstances required to make obligations of a party enforceable
+- For example, a sale of some land may be conditional on the rezoning of the land by a particular date
+- If that circumstance doesn't arise, then the obligation to close the sale is no longer enforceable
+- In this case, the circumstance depends on a third party, but can also involve the other party
+- Basically creates an order in which the promises within a contract are fulfilled
+- For example, an employer may not be obliged to pay an architect until they have completed their drawings
+- In this case, the promise of the architect to create the drawings must be fulfilled before the promise of the employer to pay them
+- Contracts are thus made out of two components, the promises of the parties, and clauses providing conditions and order of these promises
+- Within that second category, we can divide these conditions into precedent and subsequent conditions
+- A condition precedent requires a state of affairs to exist before a promise is enforceable
+- Condition subsequent details a state of affairs where the obligations of the parties are no longer enforceable, for example in bankruptcy
+#### Conditions Precedent
+- A clause could stipulate that one party must perform their promise for the obligation of the other party to become enforceable
+- These are called "promissory" conditions, and basically set out the order in which the promises of the parties will be performed
+- Considered distinct from "non-promissory" or "contingent" conditions that require some event other than execution of a promise, like in our rezoning example
+- Courts are usually able to pretty easily enforce these agreements as long as the parties clearly set out the promises from each party and the necessary conditions
+- However, in less clear situations one party may claim that a promise that was supposedly performed was actually breached
+- For example, the employer has issue with the drawing produced by the architect, and refuses to pay them and fulfill their end of the contract
+- In these cases, what divides a breach from a repudiatory breach?
+### Repudiatory Breach
+- Historically, repudiatory breaches were those where the breach affected the "root" of the agreement, and the breached condition was key to the contract
+- Recall that important terms were called "conditions" and less important terms were called "warranties" which did not allow rescission if breached
+- Over time, this division of terms was criticized for being arbitrary and focusing too much on labelling terms, not looking at the substance of the breach itself
+#### Hong Kong Fir
+- Decisive case on this in England was *Hong Kong Fir Shipping Co v Kawasaki Kisen Kaisha Ltd* (1962)
+- Hong Kong Fir hired their ship of the same name to the defendant for two years, which was supposed to be seaworthy and fitted for cargo service
+- Defendants refused to pay because they needed five weeks to repair the boat's engines, and wasn't going to be used for another fifteen weeks for other repairs
+- Seemed that the term requiring the ship to be seaworthy was breached, issue remained of whether Kawasaki could void the contract or just get damages for keeping the ship off hire
+- Judge on the case (Diplock) decided to dispose of the condition-warranty dichotomy, and decided instead to look at the consequences of the breach
+- Created a new, three type system
+	- True conditions were terms that always cause a repudiatory breach if disrupted
+	- True warranties were terms that could never cause a repudiatory breach
+	- Innominate terms were most terms, and could be breached in either way, depending on the conditions at hand
+- Can imagine multiple scenarios where the seaworthiness term could be breached, with varying levels of severity, makes no sense to say the outcome would be the same every time
+- The ship could require 1 days worth of repairs, which would be relatively minor, but having to repair it for 6 months would significantly affect the contract
+- Looking at the facts of the case, the seaworthiness clause seemed to be one of these innominate terms
+- To determine the severity, need to look at how much Kawasaki was deprived of the benefits of the contract
+- In this case, the breach was not severe enough to deprive them of the full benefit, as they still had access to the ship for at least a year and a half after repairs were completed
+- Can't rescind the contract, but they could sue for the money they would have made if the boat was operational during the repair period, plus the repair expenses
+- 

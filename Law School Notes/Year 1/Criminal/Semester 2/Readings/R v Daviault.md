@@ -1,0 +1,75 @@
+- Victim was a partially paralyzed 65-year old woman who used a wheelchair, knew the accused's wife as her dressmaker
+- Accused showed up at her house with a bottle of brandy at her request, she drank part of a glass and fell asleep
+- Later, she woke up and the accused grabbed her chair, wheeled her into the bedroom, and sexually assaulted her
+- Found later on that the accused had drank the rest of the bottle between 6 pm and 3 am, left around 4 am
+- Accused was a chronic alcoholic who had already drank 7-8 beers that day
+- Recalled nothing between having a glass of brandy when arriving at the house and waking up naked in the bed
+- A pharmacologist testified, that the accused would have had a BAC between 400 and 600 mg per 100 ml of blood
+- This is ridiculously high, enough to kill a normal person
+- Testified that this could lead to acting in a "blackout" state where the person temporarily disassociates from reality
+- Trial judge found that the accused had indeed committed the offence, but acquitted him because he did not have the requisite intent
+- Overturned at appeal, and sent to the SCC
+- Lamer, who concurred with the dissent in [[R v Bernard]], argued that an exception should be made to the *Leary* rule and a new trial should be had
+### Majority Opinion
+- Issue for appeal was whether or not a state of extreme drunkenness approximating automatism under s. 16 could be a defence for a crime of general intent
+- Believes that self-induced intoxication is not blameworthy enough to warrant criminal culpability
+- Also disagreed that the mental element can be eliminated for crimes of general intent
+- However ss. 7 and 11(d) of the Charter allow an exception to the *Leary* rule where evidence of automatism can be considered
+- Diverges from the dissent by arguing that situations of extreme intoxication may negate the mental element of general intent offences
+- One option would be to keep using the *Leary* rule, but it violates the Charter and is therefore unacceptable
+- Another option is to use the *O'Connor* decision which leaves evidence relating to drunkenness with the jury to determine of the mental element is met
+- However, this would mean we would have to always give evidence of intoxication to the jury in all general intent cases
+- Additionally, this approach was already rejected in *Bernard*
+### *Leary* Rule
+- Decision here was that even if the level of intoxication is enough to raise reasonable doubt of mental intent, can't acquit
+- Instead, self-induced intoxication is a replacement for the mental element of the crime
+- However, it's difficult to argue that the events leading from the consumption of alcohol to the commission of a crime can be considered continuous
+- As we saw in *Bernard*, this does not inexorably flow
+- Also, you can't infer the *mens rea* from the *actus reus* in a situation like this because it's unclear if the action was voluntary in the first place
+- Alcohol consumption may increase the risk of violence, but does not on its own cause violence
+- *Mens rea* is a fundamental aspect of a crime, and even if it's minimal in general intent offences, it's still required
+- We've also seen in *R v Whyte* that there are limits on substitution of one element for proof of that element
+- In this case, performing such a substitution would remove the mental element, which violates a fundamental principle of justice
+- We know from [[R v Martineau|Vaillancourt]] that this is against the Charter
+- Dissent tried to get around this by arguing that voluntariness is not required, but this is false
+- It's never actually been proven that self-induced automatism is not a defence to a crime of general intent
+- Additionally, voluntary intoxication is not itself a crime, and thus should not be considered blameworthy
+- We've also seen from [[R v DeSousa]] and [[R v Theroux]] that there must be a link between the mental element and prohibited act
+- Overall, some kind of mental element is required for sexual assault, and to suggest otherwise goes against the Charter
+### Justification for a Flexible Approach
+- Majority supports the approach taken by Wilson in the dissent from *R v Bernard*
+- May favour the extremely drunk over those less inebriated, but that is precisely the point
+- We only want to punish people capable of forming the intent required to commit a criminal offence
+- Crimes of general intent have very low mental elements that likely can be met even by significantly drunk people
+- Exception only kicks in if the accused can show that were so intoxicated that they were acting automatically
+- This kind of situation should be rare enough that it would not create severe problems, and also is not guaranteed to get an acquittal
+- Wilson's approach is definitely preferable to using the *Leary* rule and causing a clear violation of the Charter
+- Suggests that the accused would have to prove drunkenness approximating automatism on a balance of probabilities
+- Could be considered a violation of s. 11(d), but such defences have been justified under s. 1 in the past
+- Additionally, the rarity and requirement of expert evidence would help the case for this defence
+- The same would apply for if the offence had an *actus reus* requiring voluntariness
+- Since someone in a state of automatism cannot act voluntarily, they would be unable to satisfy the *actus reus* of the offence
+- To not acquit someone who was not acting voluntarily would be a violation of s. 7 of the Charter
+- Overall, appeal should be allowed and a new trial ordered
+### Dissenting Opinion
+- Argues that the *Leary* rule still stands, and evidence of intoxication only defends against specific intent offences
+- This is supported by policy arguments, we should not be encouraging people to drink more to give themselves an acquittal
+- The *Leary* rule is not a violation of the Charter, because intent to perform the *actus reus* is not a requirement of sexual assault
+- Overall, this rule doesn't relieve the Crown of any burden of proof for the *mens rea* or any other element of an offence of general intent
+- There are no relevant principles of fundamental justice requiring that intent to perform the *actus reus* of an offence of general intent is required
+- Instead, proof of voluntary intoxication can be used
+- The argument against this relies on the claim that symmetry between the *actus reus* and *mens rea* is constitutionally required
+- While the SCC did accept this as a general rule in [[R v Creighton]], but it still has exceptions
+- Therefore, it's not a fundamental principle
+- Additionally, as long as a blameworthy mental element is proven and the level of blameworthiness is not disproportionate to the seriousness of the offence, it's all good
+- Practically speaking, we should consider mental incapacity to appreciate intent or consequences caused by self-induced intoxication as a wrongful state of mind
+- To allow an accused to plead absence of *mens rea* while voluntarily rendering themselves incapable is a violation of the principle of *mens rea*
+- As for the blameworthiness portion, drunkenness cannot be a defence to special stigma offences like murder
+- Additionally, sexual assault is not a special stigma offence either meaning subjective intent isn't constitutionally required
+- Even if the accused was intoxicated, they still deserve any stigma placed upon them
+- Additionally, this offence has a broad range of punishments, which can further account for blameworthiness
+- Therefore, the *Leary* rule does not violate any fundamental principles of justice
+- Also briefly mentions that general intent offences require minimal intent, and are often inferred from the commission of the act
+- Even in extreme cases, drunk people will have this minimal degree of consciousness
+- Would dismiss the appeal
+- The defence created by this case was later removed via s. 33.1 of the *Criminal Code* after public backlash

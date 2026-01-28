@@ -1,0 +1,35 @@
+- Review of the midterm exam
+- Average was around 74
+- Order of issues addressed didn't matter
+- Offer seems to be clear, may have made a mistake by mixing up certainty of terms and offer/acceptance
+- Acceptance was unclear, which I think I did acknowledge
+- Small subissue of acceptance by delivery, didn't note this
+- I forget where I said acceptance happened but I think I fucked it up a lil
+- Also didn't address the objective approach
+- I definitely addressed the certainty of terms issue, though I think I did it in the wrong section
+- Didn't label it as specifically incompleteness or vagueness
+- Did mention the relevance of what the consultant said
+- Also didn't cite anything to support that courts will accept this
+- Could also have talked about Hillas because the deal was functioning well
+- I don't remember if I gave any conclusions, I know they're not important but I think I should have at least taken a side
+- I did address intention to create legal relations, but I kind of glossed over it and made a conclusion very early on
+- Didn't talk about Balfour, I figured they weren't family so it's not an issue
+- But I did talk about all the facts that suggest intention to create legal relations
+- Might have spent a bit too much time discussing whether or not the liability form could be incorporated
+- I think I did bring up the rent a car case and talked about how release from liability is onerous
+- Pretty sure I also brought up past consideration? doesn't seem too important tho
+- I definitely did bring up promissory estoppel, but didn't explore all the implications
+- Did mention detrimental reliance tho, don't think I mentioned rosas v toca
+- I did address both undue influence and unconscionability
+- Pretty sure I correctly identified that it might be a class 2b relationship
+- Also mentioned the fact that Sarah took reasonable steps by suggesting a consultation
+- However, this on its own doesn't prevent undue influence, what's important is that Pam actually got advice
+- Didn't identify this, but Bird marked this easily because we didn't learn this
+- I also talked about misrepresentation, and I also brought up the sales talk defence
+- I don't think I remembered to bring up the Andrews v Hopkinson exception
+- My bit on unconscionability was pretty good, I did bring up the cognitive asymmetry issue between the parties
+- Also identified that there was unjust enrichment and mentioned the potential motive
+- Pretty sure I did bring up remedies and barriers to rescission too
+- Didn't go into too much detail tho, I think that's fine because of time constraints
+- Can't remember if I made any more arguments that weren't in this recap
+- I don't think so tho, other than talking a bit more about the limitation of liability form

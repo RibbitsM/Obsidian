@@ -1,0 +1,63 @@
+- Appellants were members of the Heiltsuk band charged with attempting to sell herring spawn on kelp not caught under the authority of a Category JJ herring spawn on kelp license
+- This is a violation of s. 20(3) of the *Pacific Herring Fishery Regulations
+- Shipped 4,200 pounds of herring spawn on kelp from Bella Bella to Richmond, and took some of it to a fish store in Vancouver to ask the owner if he was interested
+- Owner told them he didn't buy herring spawn on kelp from Indigenous peoples, and the appellants were arrested after leaving the premises
+- One appellant presented a license to catch 500 lbs of herring spawn on kelp
+- Facts of the case are not disputed, the appellants argue that s. 20(3) and similar sections violate their aboriginal rights under s. 35(1) of the *Constitution Act*
+- Trial judge accepted this argument, finding that the Heiltsuk had historically traded spawn on kelp and this right had not been extinguished, citing [[R v Sparrow]]
+- Regulations infringed these rights, and could cause hardship, meaning there was an infringement but also held that it was justified
+- Crown had a valid legislative objective of conservation, and there had been consultation with the Native Brotherhood of BC on the topic
+- Skipping other judgements
+## Analysis
+- Court quickly dismissed the argument that there was no attempt to sell
+- Actions of the appellants were proximate enough to complete the offence of selling herring spawn on kelp beyond just preparation towards an attempt
+- All lower courts were unanimous on this decision
+- Recall that in [[R v Van der Peet (ATR)]], the court determined that an aboriginal right must come from a custom integral to the distinctive culture of the group claiming that right
+- First step is characterizing the claim itself, what aboriginal right would the appellants have to prove in order to protect their claim under s. 35(1)
+- Two options, could either be a right to exchange spawn for money or other goods or a right to sell spawn on the commercial market
+- Second step is determining whether the alleged custom was an integral part of the specific group prior to European contact
+- Trial judge found that the historical and anthropological records demonstrate this, there's evidence that traded spawn between tribes documented in English journals
+- Some of the earliest Europeans to visit Bella Bella wrote about this, and all the descriptions of it are what you would reasonably expect
+- Journal of Alexander Mackenzie described the Heiltsuk as trading fish-spawn, and other journals record examples of canoes laden with goods going between tribes in the region
+- Expert testimony also supports this, Pacific herring only spawn in some regions controlled mainly by the Heiltsuk and other nearby tribes
+- Explains why the trade of spawn specifically was so common, and why the volume of the trade was so significant, described as being in the tons
+- You basically couldn't ask for better evidence considering what *Van Der Peet* requires
+- Trade of spawn was a central and significant feature of Heiltsuk society, not merely incidental like in *NTC Smokehouse*
+- This right can be firmly established
+### Extinguishment
+- Using the test from *Sparrow*, the Crown needs to prove that there was specific intent to extinguish this right through statute
+- Regulatory scheme generally prohibited taking or selling spawn except for Indigenous peoples who could take it for food only
+- Eventually this would change to only allow taking with a license with no Indigenous exception
+- None of these regulations show clear or plain intent to extinguish this right
+- Rights of Indigenous peoples in this regulatory scheme have changed a lot over time, meaning that there doesn't seem to be any consistent intent
+- Similar to *Sparrow*, there's intention to control fisheries but not to extinguish rights
+- Crown argues that it was extinguished by Order in Council, P.C. 2539
+- This regulation suggests the government was trying to ensure that salmon reach their spawning grounds and they wanted to continue to protect Indian food fisheries
+- Made it clear that any Indian commercial fisheries would be regulated
+- Neither of these goals actually extinguish the commercial right to fish
+- Can see this by looking at the fact that Indigenous people could still get commercial fishing licenses, and government consistently gave preference to Indigenous commercial fishers
+### Infringement
+- Under *Sparrow*, this is proven by examining if the limitation is unreasonable, imposes hardship, and denies the holders their preferred means of exercising a right
+- While this case is focused on s. 20(3), the aim is to get rid of all related regulations as well
+- Originally, herring were only really caught to turn them into oil, but later on it became a popular export product to Japan, where it's eaten during New Years
+- Most restrictions were placed on the herring roe fisheries where eggs were extracted from the female fish, killing the herring
+- First spawn on kelp licenses were given in 1975 with preference given to Indigenous fishers
+- Four main parts of the regulatory scheme
+	- Government sets the total amount of stock that can be harvested
+	- Allots the stock to fisheries for roe, spawn on kelp, and other fisheries
+	- Allots spawn on kelp fishery to use groups
+	- Allots commercial spawn on kelp licenses
+- Cumulative effect of this scheme is the limit on the total amount of spawn on kelp that can be harvested by the Heiltsuk Band for commercial fisheries
+- Before the Europeans arrived, the only limits were those imposed by the Heiltsuk themselves, as well as whatever resource constraints they faced
+- New limits are clearly a violation of that original right
+### Justification
+- Test from *Sparrow* requires the govt to show a valid legislative objective, and that its actions are consistent with its fiduciary duty to Indigenous peoples
+- There's also a bunch of other factors to consider I'm not going to list
+- Overall it's an extremely contextual test, which will have to be adapted to this case
+- Right in *Sparrow* had the inherent limit found in food rights, can only take what fish was needed to meet the food, social, and ceremonial needs of the community
+- Commercial sale does not have an internal limitation, which makes setting priorities harder
+- If we take the approach directly from *Sparrow*, this would give the Heiltsuk an exclusive right to harvest and sell kelp spawn
+- Doctrine of priority requires the govt to consider the existence of aboriginal rights when allocating whatever resource that is in issue
+- We can't assume that this grants an exclusive right, so the best option is to assess whether the govt is minimally impairing the right on a case by case basis
+- Standard for minimal impairment can be drawn from constitutional law from things like the *Oakes* test and the reasonability standard for judicial review
+- 

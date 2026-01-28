@@ -1,0 +1,20 @@
+- Action brought by a mother upon the death of her son who was run over by a train operated by the plaintiff company
+- Trial court held that there was no negligence on the part of the railway company's employees
+- Petition asserted that the son had a leg and arm cut off by the traincar wheels, and the employees did not call a doctor or help him, and let him bleed out
+- Incident happened at 5:35, immediately an employee called the police who dispatched an ambulance at 6:05, and took him to the hospital by 6:20
+- Claim of negligence was based on the fact that the employees did not provide first aid to the victim as soon as the accident happened
+- Issue here is whether the employees had a legal duty to the victim once his injury was realized
+- Cited a textbook that states that railroads sometimes have a duty to injured trespassers to do whatever possible to heal the injury
+- Also cited a case where a railway company was found to be negligent by running a train too fast over a road crossing without blowing the whistle or having enough brakemen
+- In that case, the court held that the employees had a duty to remove the injured person from the engine
+- Instead, they didn't send him to a doctor, presumed him to be dead and put his body in a warehouse overnight without informing his family
+- Next morning, they found that the guy had woken up and moved around before dying of blood loss
+- Employees had proposed putting him in the station house but the operator of the house told them to put him in the warehouse instead
+- However, this precedent does not establish a need to provide first aid, just to help the injured
+- In this case, the employees did help him by calling the ambulance
+- Court refuses to punish the employees for not immediately tending to wounds that were technically self-inflicted by the act of trespassing and acting negligently
+- Punishment for withholding help from those who are suffering comes from the law of morality and conscience, not the law of torts
+- Law has consistently refused to enforce agreements based on moral obligations, and this is no different from those cases (somehow)
+- Railway company was not responsible for the injuries caused by the victim's negligence, and thus no duty of care can be established between them and the victim
+- In the cited cases, the negligence came from failures occurring after the victim was already in the custody and care of the defendant
+- Overall, trial judgement was reversed, decision for the plaintiff

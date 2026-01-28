@@ -1,0 +1,81 @@
+- Main focus of the second semester is on what happens when a contract is breached
+- Another major topic is performance of a contract in good faith
+- Also look at remedies, we already covered recission but there's also other remedies to consider
+### Performance and Breach
+- When courts are covering an alleged breach of contract, an important question to consider is what the nature of a breach is, and how severe it is
+- Usually two categories of terms, either conditions or warranties
+- A warranty is different from the general use of the term like for insurance
+- If the breached term is a condition, the innocent party has the option to terminate the contract
+- However, they are not obligated to do this, they can continue in the contract
+- Rationale is that the other party basically treated the contract as void
+- If a warranty has been breached, innocent party may sue for damages, but does not have the option of exiting the contract
+- Important to note that you can also sue for breach of a condition
+- Main difference is that some breaches allow void of the contract, and some don't
+- Conditions are generally considered more important to the function of a contract than a warranty
+- Warranties are considered lesser terms, breach does not make the contract void
+- Common example is the type of font used for a future product
+- Can be difficult to draw a clear line between warranties and conditions
+- A modern case called *Hong Kong Fir* created three categories instead
+	- There are true conditions, which can only be breached in ways that allow repudiation
+	- There are innominate terms, which can be breached both in ways that allow repudiation, but also in ways that do not
+	- Finally there are true warranties, which can only be breached in ways that do not allow repudiation
+- Most terms fall into the second category, need to decide on a case to case basis
+- Generally speaking, a breach of a term will allow repudiation if the breach is such that we can infer that the person responsible was treating the contract as if it had ended
+- What happens if there is an indication that a contract will be breached in the future?
+- For example, you agree to a delivery on a certain date and your negotiating partner lets you know that their delivery will be late?
+- Governed by the principle of anticipatory breach or repudiation
+- Described in *Fram Engin Mills 90 Inc v Romandale Farms Limited* (ONCA 2021)
+- Occurs when one party repudiates their contractual obligations before they are due either through their words or their conduct
+- This does not itself end the contract, but once the offending party shows their intention, innocent party can accept the breach and has the option to sue immediately
+- In this case, the contract will be ended before the breach occurs
+- On the other hand, they can choose to keep the contract going and press for performance until the actual breach occurs, at which point they may sue and repudiate the contract
+- If this option is chosen, the innocent party must accept the performance if the offending party does actually fulfill their obligations
+### Interpretation of Contracts
+- This is what a lot of legal disputes over contracts boil down to, issues of interpretation
+- Usually happens when one party perceives a breach based on their interpretation of a term
+- Recent statement on this is from *Sattva Capital Corp v Creston Moly Corp* (SCC 2014)
+- Goal is to determine the intent of the parties and the scope of their understanding
+- Decent amount of overlap between this and statutory interpretation
+- Involves a lot of examining context, for example looking at other contracts within the same industry to understand the meaning of a certain term
+- Meaning of words in a contract come from many contextual factors that might not be found within the contract itself
+- Need to consider the purpose of the contract, and the relationship between the parties
+- What's the history of this relationship like? You need to consider this
+- Circumstances are relevant, but will never overturn the words of the agreement itself
+- Goal is to get a deeper understanding of the parties mutual intentions
+- Previously, the approach was much less contextual and more focused on technical assessment of the text itself
+- However, modern approach is much more practical
+### Good Faith Performance
+- As we know from [[Bhasin v Hrynew]] (SCC 2014), there is a general principle of good faith in the performance of contracts, that may appear in other parts of contract law
+- First time this kind of principle was collected together and recognized
+- In general, the implications of the principle are determined by looking at doctrine that determines how good faith emerges in specific situations
+- For example, we can talk about how good faith appears in unconscionability
+- Can think of it like an underlying principle appearing all over contract law in different forms
+- Together, these manifestations come from a common source of good faith
+- Court added the duty of honest performance to this collection of principles
+- Basically requires parties to act in good faith and be honest with each other while performing aspects of their contract
+- Doesn't impose a duty of loyalty or disclosure, just don't lie or mislead the other party in matters related to your contractual performance
+- If you lie while executing the contract and this is discovered, you can be sued for breach of the implicit duty of good faith performance, this is what happened in *Bhasin*
+- This duty also can't be contracted out of, it's a permanent feature of contract law
+- A couple years later, the court also held that this extends to a duty to exercise contractual discretion in good faith
+- This refers to any situation where one party has some sort of power granted by contract to make a choice
+- Courts have yet to come to a definitive decision over whether or not a breach of a good faith principle allows repudiation or simply damages
+- Recall that you can't sue for a breach of good faith in general, you have to point to a specific doctrine like performance or discretion (which is arguably part of performance)
+### Remedies
+- Good summary comes from *Atlantic Lottery Corp v Babstock* (SCC 2020)
+- Remedy is usually compensation, measured in the form of what would be acquired in the case that a breach did not occur and the contract was successfully performed
+- Basically, the goal of the court is to satisfy the "expectations" of the harmed party
+- Can be really difficult to calculate damages for some of these issues
+- Also extends to cases where the party being harmed wants damages to compensate for some kind of expenditure they made in reliance on the contract
+- Called "reliance" or "wasted expenditure" damages
+- Often happens when one party can't prove expectation damages
+- Explained in *PreMD Inc v Ogilvy Renault LLP* (ONCA 2013)
+- Usually, this is because the contract was unprofitable, or calculating expectation damages is too difficult or impossible
+- Goal of these kinds of damages is similar to rescission, trying to restore the harmed party to the status they were at before they entered the contract
+- However, keep in mind that the default option for most contract breaches is expectation damages
+- In the *Atlantic Lottery* case, the SCC also mentioned other kinds of remedies
+- One of these is specific performance, where the court requires the offending party to successfully perform the contract or else they will be in contempt of court
+- Also discusses an injunction, an order to cease a certain act
+- Another option we don't talk about much is disgorgement of profits
+- Usually pops up in cases where the offending party breached a contract in order to unjustly enrich themselves
+- Exceptional remedy, requires them to give up their profits, but not necessarily to the plaintiff
+- Only used when other remedies are insufficient

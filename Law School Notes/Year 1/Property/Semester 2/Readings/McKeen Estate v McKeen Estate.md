@@ -1,0 +1,26 @@
+- Harry McKeen died in 1981, his will stated that his estate would be held in trust for his wife for her life
+- When she died, his trustees were told to divide the residue between his two sisters after some other gifts were made
+- The sisters died before the wife, so the question is what happens with the residue of the estate
+- Either it gets divided between his living relatives according to New Brunswick law, or it goes to the estate of his sisters
+### Analysis
+- Court held that the most important part is determining what the intention of Harry McKeen was
+- This is determined by looking at the words of the will, and failing this, what would a reasonable person have intended
+- Also, there's a couple presumptions for interpreting wills
+- First, the testator is presumed to try and dispose of all of their property
+- Second, testator intends to create vested interests, not contingent interests
+- The first presumption means that if the court has to choose between two interpretations, it will lean towards the one that doesn't leave a gap in the will
+- For the second presumption, a contingent interest is defined as one that is subject to a future event hat may or may not happen
+- Example of this would be if someone gets married, or turns a certain age
+- Generally, this is determined by looking for words like "if", "when", or "upon" among other things
+- Courts are generally inclined to determine that a gift is vested instead of being contingent, especially where the property is land
+- Will try to achieve "early vesting" where it's not super clear that the intent was to create a contingent interest
+- Additionally, if a gift doesn't specify when it's supposed to be vested, assume it's vested when the testator dies
+### Browne v Moody
+- This case established that a gift is *prima facie* considered to be vested if it's being postponed to allow for a previous life estate
+- Seems that the intention of the will was for McKeen to provide for his wife during her life, and to ultimately benefit his sisters
+- Only reason for postponing the distribution of his property to his sisters was because of the life estate, not personal reasons
+- Seems that this was not supposed to be conditional on the sisters being alive
+- Additionally, this would mean that the interest is vested, not contingent which is supported by the common law
+- In another case that followed the *Browne* principle called *Re Stillman*, a very similar situation happened
+- In that case, the gift to three cousins was considered not to be conditional on them outliving the testator
+- Court held that the residue would be split between the survivors of both sisters equally

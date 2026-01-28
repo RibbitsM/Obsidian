@@ -1,4 +1,5 @@
 {
   "nativeMenus": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": ""
 }

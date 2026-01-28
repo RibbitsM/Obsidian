@@ -1,0 +1,90 @@
+- The main point of oral advocacy is to take your written argument, and bring it to life before the court
+- Written arguments can be convincing, but oral communication is much different
+- Also lets you focus the court on the most important parts of your argument
+- Try to clear up any potential misunderstandings of your argument
+- Court gets to ask you questions, and you get to clarify those questions
+- Your written submission can create confusion, and the question process helps resolve these confusions by having a conversation with the trier of fact
+- Finally, this is important because courts are open and transparent
+### Details
+- Appellants sit on the left side facing the judges, respondents sit on the right
+- Wait to start until the judges are ready to start the hearing
+- Appellant 1 starts first, states their last name, first initial, and pronouns for themselves and their co counsel, and who they are representing, and then sits down
+- Respondent 1 does the same thing, and then also sits down
+- This is usually how it works in court, also make sure to spell your last name
+- Appellant 1 then stands and starts their submissions
+- Stand when you're addressing the court, anyone who isn't currently speaking is sitting
+- Make sure you're paying attention, the judges will be watching you
+- Address the judges as Justice individually, and Justices or This Court collectively
+- Don't worry about names, you won't know them
+- Refer to yourself as we, describe our position, or say the respondent or the College's position is
+- Call the opposing counsel "my friend"
+### Roadmap
+- Start with a clear statement of what the case is about, favouring your position
+- Ideally word this in your own words, don't read out from your factum
+- For the 1st respondent/appellant, explain the division of issues between you and your partner
+- Once you did the basic overview of the case (like we are affirming the decision that the elements of promissory estoppel are not met), then outline your argument
+- Issue first always, give an overview of your arguments and signpost where you are in your factum from time to time
+- Make sure to make a separate document for your speaking notes, but mark what argument or point is from what page/paragraph of your factum
+- Once you get to the end, have a brief closing statement and hand it over to your partner
+- The first and last thing you say to your audience are the most important parts
+- In our moot we're going to have both appellants go first, then both respondents
+### Planning Submissions
+- Reading your factum out loud is not oral advocacy
+- Write yourself abbreviated notes, and base your speech off of that
+- Having notes gives you confidence, and writing them out in point form lets you fill in the gaps on the spot which makes your speech more natural
+- Choose the facts and arguments you want to highlight carefully
+- What are your best points? What are the best points in the other sides argument you need to address?
+- Don't be summarizing all the facts, but you can highlight them as needed
+- Remember that the factum is the backbone of your argument and the point of the oral component is to flesh out that skeleton
+- Use analogies, this is a really powerful way to get your point across
+- Can be pointing out potential negative implications if the other side wins, or just describing a point you made in more detail
+- See if you can zoom out of the facts of the immediate case and take a broader perspective
+- Keep in mind that this is a precedent system, the decision may have future implications
+- Do not overstate the other sides position, or mock them in any way
+- Don't read lengthy quotes from cases unless you're doing something with it
+- Also know the facts of the cases, the judges might ask you about it
+### Speaking Skills
+- People tend to talk to fast, especially lawyers
+- Make your submissions slowly, and it will be way easier to understand
+- Use your voice and use pauses for emphasis, this is super important when you are making an especially crucial point, let that sink in for a bit
+- Avoid unnecessarily formal or legalistic language, which is especially important when you are trying to read your flowery writing out loud
+- Maintain eye contact with the judges as much as possible
+- This helps you sell your point a lot better, hard to be convincing with your head down reading off a sheet, and lets you assess the reactions of the judges
+- Pay attention to when the judges are taking notes, wait for them to finish before you move on with your argument
+- Try to avoid fidgeting or making other distracting movements while talking
+- See if you can identify your tics and work on suppressing them when you talk
+- Avoid hand movements when you're talking in court
+- Never interrupt a judge when they are talking ever, this is a terrible idea
+- It's rude, you don't know what they're going to say, and it reflects poorly on you
+### Potential Problems
+- If the judge asks you a question and you don't know the answer, it's ok to take a minute to think before you respond
+- This is totally fine, you're expected to think before answering
+- You can always ask for clarification or to repeat it to buy time or figure it out
+- Failing this, you can always honestly say that you don't know
+- Judges will be keeping time, if you run out of time then it's usually ok
+- Can always just conclude by saying I rely on the answers in my factum
+- Sometimes this happens because the judges are asking lots of questions, that's good
+- If they're not asking questions, then you might run out of time
+- If this happens, make sure you've covered all of your key points before you sit down
+- Might be an error in your factum, but it's probably not going to be major
+- Once you get to that point, mention it to the court and correct it
+- Unlikely that you will get a question related to the other persons issue, but if you do, just say that your co counsel will address the issue
+- You actually want the judges to ask you questions, otherwise you won't know what they are thinking, silent judges are generally the scariest to deal with
+- Not every question is a trap, especially here where it's just intended for practice and the judges probably don't know much about the issue
+- Keep your answers brief, and ask for clarification if you need it
+- Never tell the judge that you'll get to something later, doesn't matter if they skipped ahead in your argument, you want to address it immediately
+### Authenticity
+- Don't try to play a role when doing your advocacy, be authentic to yourself
+- Trying to speak unnaturally or in a way you're not used to will only hurt you
+- Effective advocacy can be done in many ways, you don't have to fit into a preconceived mold of what works and what doesn't
+- Always remember that it's supposed to be an educated conversation, not a performance
+### Summary
+- Write jot notes to speak from that are referenced to your factum
+- Probably don't need case briefs but you can have them for comfort
+- Practice speaking alone or get someone to listen to you, and time yourself
+- Ideally you should have about ten minutes of material, but it depends on how many arguments you have and what points you think are important
+- Try to pre-empt the questions that you are most afraid to answer
+- Use a couple iterations of your wording, find what feels comfortable
+- Don't need to read or answer questions about cases cited within cases
+- Also don't need to worry about reply, you're not supposed to use it anyway
+- Only exception is if the respondent makes a point not included in the factum

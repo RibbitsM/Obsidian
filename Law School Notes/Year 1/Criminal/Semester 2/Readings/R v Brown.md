@@ -1,0 +1,86 @@
+- Accused consumed shrooms and alcohol at a party, and later violently attacked a stranger
+- Took several half-gram portions of shrooms, had tried it once before
+- Began to lose grip on reality, and ran out of the house naked (during a Calgary winter) around 4 am and broke into two houses, assaulting the resident of the first house
+- He had no memories of anything that happened outside the house, and had no criminal record as well as no history of mental illness
+- The victim had done nothing to invite the assault, trial judge described the accused as being so delirious and intoxicated that they were acting automatically
+- Acquitted at trial, and the Alberta Court of Appeal convicted for aggravated assault
+- Recall that [[Lecture 17 (Crim)|automatism]] negates the *mens rea* and sometimes the *actus reus* of an offence
+- Issue for the court was whether Brown can raise the defence of self-induced extreme intoxication, and whether s. 33.1 of the *Code* is constitutional
+- Court makes a point that this case did not involve alcohol consumption alone, which has been proven to be unable to cause a truly automatic state
+- Amendment initially made in response to blowback from [[R v Daviault]], and effectively removed the defence of extreme intoxication
+- Does this by imposing liability on the basis of self-induced extreme intoxication
+- This risks convicting the accused for conduct committed when they were incapable of forming the appropriate *mens rea* and may not have been able to commit the *actus reus* either
+- This would be a violation of ss. 7 and 11(d) of the Charter
+- Court applauds the intention of Parliament, but points out that it could have been done in other ways that do not affect the Charter like making voluntary intoxication an offence
+- SCC ultimately finds that s. 33.1 is a violation of the Charter and cannot be saved by s. 1
+- It has legitimate goals, but they do not justify the fundamental infringements they create
+- Punishing Brown for his actions given the circumstances is unacceptable
+- At the Alberta Court of Queen's Bench, the court held that s. 33.1 was a violation of the charter and could not be justified because it wasn't minimally impairing
+- Court of Appeal reversed this declaration, stating that it was acceptable for Parliament to criminalize voluntary intoxication as long as the risk of harm is foreseeable
+- Pointed out that s. 33.1 uses the marked departure standard which has previously been shown to be an acceptable measure of fault in [[R v Creighton]]
+- Also pointed to the legitimate goals of the amendment as valuable enough to justify the infringement as it protects citizens from violent crime and punishes violent citizens
+- Concurring opinion argued there was no breach, as the new provision has an alternate objective fault requirement
+- Another concurring opinion also said it was saved under s. 1 as well
+### Analysis
+- Only issue here is whether s. 33.1 is a violation of ss. 7 and 11(d) of the Charter, and whether or not it can be saved under s. 1
+- In principle, intoxication is not enough to evade a proper conviction under common law, and is never a defence to crimes of general intent unless automatism can be shown
+- This rule was established in *Leary* and upheld in *Bernard* where a concurring reason from Wilson opened the door for the defence of extreme intoxication
+- Defence of automatism removes the element of voluntariness and thus negates the *actus reus* of the offence
+- Original Wilson opinion also noted that substituting proof of self-induced intoxication for the intent of the offence is unconstitutional
+- Brown argues that s. 33.1 applies to situations where no foreseeable risk of violence exists, and this imposes absolute liability on the accused
+- Crown argues that this is a false interpretation, and s. 33.1 only punishes voluntary consumption of drugs at the extreme level
+- Also includes a true objective standard requiring objective foresight of harm, Parliament is allowed to set standards of behaviour, and this is an example of that
+- Interveners point out that the standard here follows the previously established acceptability of the minimum objective fault requirement
+- These arguments hinge heavily on the interpretation of s. 33.1 particularly whether the voluntary intoxication requirement is based on an objective standard
+- This argument comes from the interpretation of s. 33.1 in the *Sullivan* and *Chan* cases, which recognized that this is not explicitly stated in the provision itself
+- Attorney General argues that it has to be read with a presumption of constitutionality
+- Court finds that the interpretation by the Crown goes against the actual text
+- The section does not create a new offence, instead the accused is expected to face the full penalties of whatever offence they were accused of
+- Even though Canadians may see voluntary extreme intoxication as morally reprehensible, it is not currently an unlawful act
+- Can't make a parallel between this and impaired driving, Brown is not facing an offence that involves intoxication, the prohibited conduct here is something else entirely
+- Section 33.1(2) defines a marked departure as when the intoxicated person interferes or threatens to interfere with the bodily integrity of another person
+- Conditions for liability are self-inducing extreme intoxication, and then committing a violent act while still in that state
+- Can't argue this is a criminal negligence standard, just because the act is self-induced suggests nothing about what the accused foresaw or ought to have foreseen
+- Can't read this in a way suggesting self-induced intoxication creates reasonable foreseeability of bodily harm
+- Labelling the violent act as the marked departure just points to the consequences to impose liability, basically just absolute liability
+#### Charter Breaches
+- Section 33.1 requires intention to become intoxication, but does not require foresight of a loss of awareness or control
+- Imposes criminal liability even where intoxication carries no objective foreseeability of harm
+- Applies even in situations where the intoxicant is being consumed for other reasons such as relaxation, as a painkiller, or for therapeutic properties
+- Trier of fact can't just infer a marked departure, you need to consider if a reasonable person could have foreseen the risk and taken steps to avoid it
+- Because this provision punishes a violent act even when a loss of control wasn't foreseeable and the accused did not depart from the standard, it violates the principle that liability requires proof of fault, going against s, 7
+- Also violates s. 7 by imposing liability where the accused is not acting voluntarily
+- This could be avoided if Parliament criminalized intoxication causing harm, which would impose liability for the intoxication, not any following conduct
+- Additionally, this provision violates s. 11(d) because it substitutes proof of one fact to satisfy an essential element of the offence
+- This kind of substitution is only valid if the substituted fact leads inexorably to the other element, which is pretty much impossible to argue here
+- Main problem is discerning between blameworthy individuals and those who consume intoxicants for personal or medical purposes
+- Even if the drug was illegal, the inexorable connection doesn't exist
+- Finally, Brown also argued that there was in infringement of the principle of contemporaneity, because the offence happens after the intoxication
+- Crown argued this is ok because symmetry between *mens rea* and consequences is not required
+- Symmetry is not the same thing as contemporaneity, but the latter isn't actually a fundamental principle of justice and is quite flexible, so no violation here
+- Overall, s. 33.1 violates ss. 7 and 11(d) of the Charter
+#### Justification
+- Crown must prove on a balance of probabilities that the violation is justified under s.1
+- Requires the application of the [[R v Oakes]] test to show there was a pressing and substantial goal for the provision, and there was proportionality between those goals and the means
+- For the goal, Parliament pointed to the correlation between drug use and violent offences, and raise the need to protect vulnerable groups often subjected to intoxicated violence
+- Court looked at these rights, and determined that though these aims are noble, the risk of wrongful conviction is too high a cost to achieve those aims
+- The objective was pressing and substantial, and s. 33.1 was rationally connected to those objectives
+- However, several alternatives exist for the minimal impairment requirement
+- Finally, Brown argues that the Court of Appeal minimized the deleterious effects of s. 33.1, meaning that their assessment of its proportionality was incorrect
+- Court agreed with this assessment, stating that the benefits of the provision do not outweigh the costs, mainly due to the violation of the sacred principle of presumption of innocence
+- This is pretty serious since it both denies voluntariness and *mens rea* on top of also removing the presumption of innocence
+- Final part of the justification test is weighing the benefits and drawbacks qualitatively as well as quantitatively
+- Overall, the Crown does not make a convincing case, as while sexual and intimate partner violence are definitely widespread, the common law already prevents the use of the defence of intoxication in most of those cases
+- It's also open for Parliament to review this amendment by adding a standalone offence of extreme intoxication, which would solve most of the issues here
+- In summary, the appeal is allowed and s. 33.1 should be declared unconstitutional and of no force, and Brown's acquittal is restored
+### Aftermath
+- Parliament amended s. 33.1
+- Now requires all other elements of the offence to be present to negate the defence
+- Another case called *R v Penno* held that the defence doesn't apply if the Crown also has to prove intoxication as an element of the case
+- Involuntary intoxication may be a defence in these cases
+#### R v Sullivan and R v Chan
+- Decisions that happened at the same time as *Brown*
+- Sullivan overdosed on prescription drugs and attacked his mother with a knife
+- Refused the defence of extreme intoxication
+- Chan also took shrooms and then attacked and killed his father, and seriously injured their partner
+- After the finding in *Brown*, Sullivan was acquitted and Chan got a new trial
