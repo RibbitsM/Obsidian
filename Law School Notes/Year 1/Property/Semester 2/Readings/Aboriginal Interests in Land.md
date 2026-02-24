@@ -1,0 +1,29 @@
+- Supposed to be sixteen in total, also supposed to be limited to what you would generally find in BC
+### Reserves
+- Most of these interests in land originate from the reserve system under the *Indian Act*
+- Section 18(1) of the act establishes these reserves, which are usually held communally and controlled by the Chief or Band Council
+- A nonmember being on reserve land constitutes trespass
+- Band member houses on reserve are usually not registered under any sort of central system
+- Houses are passed through generations according to the laws and customs of the band
+- Under s. 20(1), no status Indian can legally hold reserve land unless that land has been allotted to them by band council with approval of the Minister of Indian Affairs
+- *Indian Act* also bans private leases on reserve land, which are called *buckshee*
+- These leases have always been illegal, they are banned under s. 28(1)
+- Land on reserve can be "designated", meaning the land is being surrendered conditionally by the band
+- Means there was a public decision to allow non-Indian settlement on this land, and requires a lengthy formal process
+- Usually what happens is that the Minister enters a lease with a corporation, which becomes the landlord of a bunch of subleases registered in the Designated Lands Register
+- Power to do this originates from s. 53(1)
+- Some bands also allocate reserve land to individual band members, this is called a certificate of possession
+- Power to do this comes from s. 20(2), and the interest can pass to other band members via a will, but cannot be sold to non-members
+- These interests are recorded in the Reserve Land Register, but time of registration does not create a priority interest
+- Section 58(3) allows leases to be created from these certificates of possession
+- Can also have temporary use permits, which are usually done for rights of way for pipelines, power lines, etc.
+- Power for this comes from s. 28(2), Minister can approve for one year and the Band Council can authorize more than that
+- Only way to transfer reserve land into the provincial system is an absolute surrender, which no longer exists
+- Only time this is relevant is where we are trying to find if land was once part of a reserve but was surrendered
+- If the land was surrendered absolutely it goes to the province, if the surrender was conditional the land is "designated"
+- Rules for this come from ss. 38 and 39(1)
+- One of the only situations where a non-Indian can live on reserve is where that person is married to a band member
+- As long as the spouse is or was a band member and lived on reserve during the marriage, a non-Indian spouse can occupy the family home
+- This right cannot be sold, mortgaged, or granted in a will
+- Finally, lawyers must also check to see if a band has its own Land Code which are enforced by the *First Nations Land Management Act*
+- Enables the nation to replace land provisions of the *Indian Act* with their own laws, which are unique to each nation

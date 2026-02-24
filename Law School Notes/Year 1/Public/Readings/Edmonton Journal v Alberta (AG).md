@@ -1,0 +1,23 @@
+- Newspaper challenged s. 30(1) of the Alberta *Judicature Act* which limits publishing information on court proceedings relating to marriage disputes
+- Argued that it was a violation of s. 2(b) of the Charter, Alberta claimed it protects privacy
+- Court found that it was a violation, but were split on whether it was justified
+### Analysis
+- Two main approaches to interpreting the Charter, you have the abstract and the contextual approach
+- Which one of these approaches you take determines how the s. 1 analysis will pan out
+- No matter what, you have to figure out what the underlying value is for the right in question
+- Do this by using a purposive interpretation of the Charter
+- In this case, the relevant right is the freedom of expression, which is arguably the most important right in the entire Charter when it comes to democracy
+- On the other side is the right of litigants to protect their privacy in marriage disputes
+- This is currently clashing with the public right to an open court process
+- Neither right can fully co-exist with the other
+- Question is how do we view this issue when it comes to s. 1
+- Is the conflict between the freedom of expression and privacy, or is it between the right to an open court and the right to privacy?
+- The former is the abstract approach, and the latter is the contextual approach
+- Not assessing the importance of the underlying right itself, but how it manifests in this particular case
+- Allows us to overlook the abstract importance of the freedom of expression by examining how it applies in a limited way here
+- Makes sense, we shouldn't balance one value in the abstract against another value in context
+- Also seems unfair to balance a private interest (privacy) against a public interest
+- Appropriate comparison here is between the public interest in protecting the privacy of litigants in marriage cases vs the interest in an open court process
+- Recognizes that different rights and freedoms vary in value depending on the context
+- Makes sense to do it this way, s. 1 is designed to assess situational violations
+- Also remember that whenever we're interpreting rights and freedoms, we interpret them generously to ensure the full benefit is earned from them

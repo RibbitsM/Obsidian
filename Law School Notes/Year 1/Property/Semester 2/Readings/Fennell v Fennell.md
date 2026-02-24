@@ -1,0 +1,11 @@
+- Josephine Fennell died in 2008 with a will executed earlier that year
+- In a previous will, she left her family home to one of her grandchildren, but in this 2008 will she left the home to five of her eleven children on these terms
+- All of her family must be able to use that home without costs as long as they share in the upkeep of the house
+- Judge found that this was a condition subsequent, which was void because it was a undue restraint on alienation
+### Analysis
+- Couple things left uncertain here, for example who is "family" and how contribution to upkeep is determined
+- Previously, courts have held that the term "family" is too vague and usually is not enforceable
+- Nothing in the will itself indicates what she meant by this and we don't really have any context to look at either
+- Additionally, there were no guidelines in the will for determining the method of paying upkeep or how much money is required
+- The law requires a practical level of clarity, this isn't up to that standard
+- Overall, the condition is void, and will be expunged from the will

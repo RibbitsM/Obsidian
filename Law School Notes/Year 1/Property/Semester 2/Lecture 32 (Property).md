@@ -1,0 +1,32 @@
+- Issue for this topic is how public policy can limit transfers by a property owner, and specifically how they can qualify these transfers
+- First category is with broad social policy concerns
+- Next subject is on limitations regarding the property interest itself, if the description vague or uncertain?
+### [[Re Leonard Foundation Trust]]
+- Also called *Canada Trust Co v Ontario Human Rights Commission*
+- Reuben Wells Leonard was a metallurgical engineer who enlisted in the army, fought against the Metis in the Red River Rebellion, and later made a ton of money in cobalt mining
+- Was part of a group seeking to reimagine the British Empire as a federal state including only the white settler colonies
+- Donated a ton of money to Ontario universities and established the Leonard Foundation
+- Very clear on his view of history that empires were important, he believed strongly in social Darwinism, and was very religious, especially focused on missionary work
+- Valued education strongly, and believed in philanthropic duties
+- Gave a bunch of money to the Foundation trust, which operated under the terms of the trust for 60 years before it was challenged by the Ontario Human Rights Commission
+- Questions were whether the provisions of the gift went against public policy, and if they do, can they be removed and maintain the rest of the Foundation?
+- Royal Ontario Museum was particularly interested because they were one of the beneficiaries
+- Recipients had to be WASPs who couldn't get an education without financial assistance
+- Gave preference to the children of a range of professions that Leonard was involved in
+- Also stated that only 1/4 of the money given each year could go to women
+- Trial court upheld the trust, court of appeal found that the provisions were offensive on public policy grounds
+- Main issue was determining what exactly the public policy is, it's quite subjective and should only really be invoked in clear cases
+- Trying to contain the discretion used in future cases
+- Attempting to balance the freedom of the property owner with public policy considerations determining that the goal of the trust went against modern social values
+- Trust was obviously based on ideas of racism and religious superiority
+- While this may have been ok when it was created, it should not be continued today
+#### Tarnopolsky
+- Went a little deeper on the issue, pointing out the lack of case law on the subject
+- How do we navigate this balancing act?
+- Looks at Ontario human rights acts, the Charter, as well as some international documents on non-discrimination ratified by Canada
+- Also looked at some private transfers where the court found that racial or religious requirements went against public policy
+- Trying to limit public policy to what is clearly stated by statute
+- Puts particular emphasis on the fact that this is a public trust facilitating access to a public university
+- In the end, the court upheld the trust and severed the offending parts
+- Trust still exists today, kept the non-offensive priorities like giving money to the children of teachers, clergymen, and engineers
+- Overall it's an example of how the courts will attempt to balance the need to allow for testatory freedom against the need to preserve public policy

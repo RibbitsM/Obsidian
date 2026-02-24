@@ -1,0 +1,52 @@
+- Land here is the Joeyaska Indian Reserve Number 2 located by Merritt, allocated to the Lower Indian Nicola Band
+- Divided by the Coquihalla into a north and south portion
+- Land has usually been used for residential and agricultural purposes, but the appearance of the highway made it useful for commercial reasons
+- North portion is particularly benefitted by this, band member named David Shuter claims 80 acres adjacent to the Coquihalla
+- Argues this claim comes from his family's traditional use and occupation of the land
+- Shuter died in 1994 and his children are claiming this land
+- Band doesn't recognize "traditional or customary" entitlement to the land, and wishes to enforce its collective interest
+- Wants to develop a bunch of land in North Joeyaska including the disputed land to build a casino, truck stop, restuarant, hotel, and other tourist stuff
+- Council already passed an order designating the land for a 99 year lease, but it hasn't passed a referendum yet because of this dispute
+- Band is seeking a declaration that Shuter has no interest in the land
+- Shuter had previously made an agreement with the defendant company to set up some billboards
+- Band wants to establish that the company is trespassing and needs to leave and remove the billboards
+### Shuter Estate Claim
+- Claim is based on a trade made in 1968 between Shuter and a man named George Spahan from the Coldwater reserve
+- Spahan had inherited about 6 acres in North Joeyaska from his father, but this land is not at issuehre
+- Section 50 of the *Indian Act* prevented Spahan from getting right to his father's land because he's not a band member
+- Shuter also bought some land in Coldwater from his wife which he also can't own because he's not a band member
+- Spahan agreed to trade the land he inherited in Joeyaska for the land Shuter bought in Coldwater so they could use the land
+- Neither parties registered these interests in land, which is required under ss. 20(1) and 20(2)
+- In 1987 the principal for the defendant asked a Nicola councillor for permission to set up billboards, councillor referred him to Shuter who he said owned the land
+- This is how the original billboard agreement was formed, was conditional on Shuter getting approval on ownership
+- Shuter told the defendant the Band approved it, they never did
+- These agreements were also not registered, which is required under s. 28
+- Defendant knew this might be an issue and also knew the agreement was only enforceable with approval from the Minister
+- Current Chief has made several efforts to resolve this land dispute, but none have been successful so far
+- Main issue is if an individual traditional or customary claim exists and how this would work under the *Indian Act*
+- Basically, can individual landownership co-exist with a communal land holding system?
+### Indian Act
+- Focus of the Act is to protect reserve land for the benefit of the Bands, and defines the terms reserve and Band
+- Band authority is strictly limited in the sense that it cannot be exercised without majority consent from councillors and the band population
+- Additionally, the band's interest in the reserve is held in common with all band members
+- Collective right can be enforced through an individual member using s. 20(1), which requires possession to be allotted by the band council and approved by the Minister
+- Then this land can be transferred to another band member through s. 24 with the permission of the Minister
+- Any interest granted under s. 20(1) has to be recorded in the Reserve Land Register
+- This is the only way that an individual band member can exercise the right to use and benefit individually
+- Requirements of s. 20(1) have historically been strictly enforced
+- Seems clear that Shuter did not legally possess any of the land here, and neither did Spahan for that matter
+- Only remaining issue is if Shuter has a claim based on traditional or customary use
+### Traditional or Customary Claims
+- Recognizing this kind of land claim cannot create a legal interest that would defeat or conflict with the *Indian Act*
+- Can be used as the basis for granting an allotment under the *Act*
+- Band Council has the authority to decide the best use of the 80 acre parcel for the benefit of the community, since the land is held in common
+- Exercised this duty by allowing the Shuters multiple opportunities to give evidence supporting their claim
+- Created a public forum on the issue, created a land committee to review land claims, and reviewed the claim privately
+### Conclusion
+- Overall the provisions of the *Indian Act* have to be strictly applied
+- Shuter does not lawfully own any of the land, and never got a valid allotment from the band council
+- Defendant has no right to the use of the land as it did not get approval from the Minister
+- Traditional or customary ownership does not create a legal interest unless the requirements under the *Act* are met
+- This is usually only done for non-commercial purposes, and the band has a fiduciary duty to use the land in the best interest
+- Shuter and the defendants have no interest, and both have been trespassing on the 80 acre parcel
+- However, the band council did recognize Shuter's traditional or customary claim to the smaller 6 acre parcel which can be applied as an allotment to the council if the Shuters wish to do so

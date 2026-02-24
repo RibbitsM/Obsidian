@@ -1,0 +1,38 @@
+- In a case called *McCorkill v McCorkill Estate*, the New Brunswick Court of Appeal rejected a large gift by will to a neo-Nazi organization, which extended public policy doctrine for property transfers
+- Involved the will of Harry McCorkill, who wished to give his entire estate (valuing about $250,000) to an American neo-Nazi organization called the National Alliance
+- Died in 2004, his sister challenged the will in 2013 arguing that it was contrary to public policy
+- Distribution of the estate was frozen, and a year later a judge ruled that yes, the will was invalid
+- Main argument centered around the goals of the National Alliance, which was clearly hate-inspired and described as disgusting, repugnant, and revolting
+- Publications of the NA clearly violated criminal law prohibitions on the willful promotion of hatred, and went against Canadian public policy
+- Generally, property dealings were rejected based on conditions in the granting document, but this gift had no strings attached
+- First time a gift was rejected based on the character of the recipient
+- Previously there were only two kinds of "unworthy heirs"
+	- If the donee killed the donor and triggered inheritance, then the donee is ineligible
+	- It's also a criminal offence to give financial support to a terrorist group, so gifts of this kind are presumably also invalid
+- Other than in these cases, one can commit basically any crime and act terribly towards the testator and still get inheritance
+- The NA is validly incorporated in Virginia, and is not technically an illegal organization as it has never been charged or convicted of hate crimes in Canada
+### Juridical Backdrop
+- Nothing unusual about turning to public policy to police private conduct, but it should be used in a constrained way
+- Law has been pretty unconclusive on whether discriminatory conditions are invalid
+- Most recent decision, and arguably most important was [[Re Leonard Foundation Trust]]
+- Case was mostly decided on the basis of the qualifications, and did not decide whether the offensive purposes could be the sole reason for opposing the trust
+- Court determined that the public nature of the trust was significant, and left private gifts untouched
+- Some private transfers conditional on religious affiliation or marriage to someone of a certain religion have been invalidated based on uncertainty, but not public policy
+- Addressed in a case called *Blathwayt v Baron Cawley* where a beneficiary would be disinherited if they became Roman Catholic
+- In this case, the court said it was ok, but public policy could have motivated not upholding this term
+- Similar cases in Canada have decided otherwise, saying that gifts restricting religious affiliation are against public policy
+- In *Fox v Fox Estate* the executor of a will used her discretion to disinherit her son after he married a non-Jew
+- Court found that this was an abuse of office, and one judge suggested disinheriting a beneficiary for these reasons goes against public policy
+- Overall, there are three areas where discriminatory transfers are challenged
+- Those are in covenants, scholarships, and disinheriting clauses
+### Assessing McCorkill
+- Two main concerns here, what private discrimination the judgement doesn't constrain, and the danger that the decision is too open-ended to the point of being overbroad
+- Some actions may be beyond the reach of the law, like overturning a will where a beneficiary is disinherited *ex ante* because they did not adhere to a specific religion
+- As for the overbroad problem, main issue is that this decision was not based on a condition precedent
+- Can argue that in this case, the clear extreme racist preferences seems to be a limiting factor
+- Additionally, *Leonard* doesn't seem to have opened the floodgates
+- This decision overall does seem to be correct in the present case
+- Judge suggested a two part test for future tests
+	- When the gift takes effect, the core aim of the organization must be to pursue a goal violating Canadian public policy
+	- The donee must have pursued those goals illegally
+	

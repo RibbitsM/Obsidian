@@ -1,0 +1,62 @@
+- Accused was charged with the first degree murder of his wife
+- Admitted to killing her at trial, but argued that the Crown had not proven *mens rea* or that the defence of provocation applied
+- Also challenged the constitutionality of s. 232(2)
+- Immigrated from India to Canada, and married his wife in India and brought her to Canada, where the couple had three children
+- Marriage became troubled, the wife was in a long-term affair with a friend of the accused, and was described as angry and depressed in the home
+- Often had disputes with the accused and his family
+- Planned to move back to India for several years with two of the children
+- Accused was a long-haul trucker, brought his wife with him on a trip in 2016 and had both of them execute their wills before the trip, leaving their assets to each other
+- Accused claimed that they began to argue on the trip, his wife mentioned the affair and claimed the youngest child wasn't his, made other insults as well
+- Also claimed she tried to strangle him, he went crazy and beat her to death with a mallet
+- Tried to cover up the killing by covering the truck in gas and setting it on fire
+- Accused claimed he didn't know about the affair, Crown claimed he had known for a long time, and was motivated to kill her before she left him
+- Crown also showed that the fuel used to set the truck on fire was a mix of diesel and gasoline, which burns faster but is not needed for a diesel truck
+- Accused claimed the gas was mistakenly put in the cans by his son
+### Amendment to s. 232(2)
+- In 2015, the defence of provocation was changed to require the victim to commit conduct that amounts to an indictable offence punishable by 5 years or more
+- Raised the bar, meaning that wrongful acts and insults don't qualify unless they meet that rule
+- All other elements of the offence remain the same
+- Accused claims that this amendment infringes s. 7 of the Charter
+- Deprivation of liberty comes from the difference between the manslaughter and murder sentences, the latter is a mandatory life sentence
+- Violates the principles of fundamental justice because the requirement is arbitrary and overbroad
+- This provision was previously deemed unconstitutional in three different Ontario cases, which severed the language requiring an indictable offence
+- However, in all those cases the accused was convicted of murder anyway and weren't appealed
+- Crown argues that answering the constitutional question is unnecessary because the defence does not meet the air of reality requirement on the facts
+- Court agrees, as even if the defence was met it wouldn't matter because if you believe the victim tried to choke the accused, this meets both versions of the defence
+- However, the court should still address the issue anyway for fairness reasons
+### Constitutional Challenge
+- Arbitrariness and overbreadth deal with the relationship between the goal and effect of a certain piece of legislation
+	- Arbitrariness means there is no rational connection between the purpose and effect
+	- Overbreadth means that the law captures conduct unrelated to the purpose
+	- In both cases, there is a disconnect between purpose and effect
+- Likely the hardest step in determining this is figuring out what exactly the purpose of s. 232(2) is supposed to be
+- Trial cases found that the goal was to avoid the defence from being raised to justify "honour killings"
+- However, it seems that the actual purpose is limiting the defence to situations where the triggering conduct violates societal norms as shown in the *Code*
+- Nothing in the provision itself suggests it's limited to honour killings or domestic violence
+- This is especially notable considering that other changes intended to limit gender-based violence use specific language referencing violence against women
+- Additionally, a main motivator for the amendment was [[Lecture 29 (Crim)#R v Tran|R v Tran]] 
+- In that case, the judge explained that the meaning of "wrongful act or insult" should be changed to reflect modern norms and values
+- That case was also specifically about honour killings, but the decision was more generally talking about how the defence should be updated to reflect modernity
+- Finally, other jurisdictions have semi-recently limited this defence as well for similar reasons and adopted similar restrictions, in NSW the limit is the same as in Canada
+- Also notable to mention that the amendment to s. 232(2) was part of Bill S-7, which is called the *Zero Tolerance for Barbaric Cultural Practices Act*
+- This act also amended legislation regarding issues like polygamy or forced marriages
+- Seems clear that one goal of this amendment was to prevent honour killings, but its position in this bill is only one factor in this analysis
+- Parliamentary record also emphasizes this specific rationale for the change, but also includes more general statements regarding a need to narrow the defence
+- In fact, the final statement made before the final vote reflects this
+### Application
+- Considering this broader purpose of the amendment, we can reject the claims of arbitrariness and overbreadth, it's doing exactly what it is intended to do
+- In basically any situation you can imagine the defence of provocation failing someone who is domestically abused, self-defence would be a much better alternative
+- Goal is to prevent non-violent acts from justifying the defence, and this goal succeeds
+### Other Grounds of Appeal
+- Accused also raised a number of other grounds for appeal
+	- Crown advanced a religious or cultural motive to kill
+	- Trial judge erred in their charge on motive by mentioning the Crown theory
+- For the first one, the accused argued the Crown was prejudiced by suggesting he was motivated to kill his wife based on his Sikh culture and heritage
+- Court rejects this as the defence also relied on religion in their defence, and even raised the issue first as evidence he did not know about the affair
+- Defence repeatedly asked questions about the acceptability of extramarital affairs in Sikh culture, Crown only brought it up after this
+- The trial judge was also very careful about this, trying to lead away from that line of questioning as no one there was an expert on Sikh culture
+- Overall, no prejudice on the part of the Crown
+- For the second ground of appeal, accused claimed the judge erred by saying the ordinary person does not hold extreme religious views in the jury charge, implying the accused does
+- However, this is a statement of fact, it is true that extreme religious views are not included in the objective test here
+- Trial judge was fully in their right to mention this to the jury
+- Appeal dismissed

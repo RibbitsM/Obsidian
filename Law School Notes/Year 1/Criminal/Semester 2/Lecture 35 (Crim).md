@@ -1,0 +1,40 @@
+- Recall that the main differences between sleepwalking as automatism and other forms of automatism were that it's not considered a mental disorder and can be avoided easily
+- Court turned away from the internal/external cause theory and used this "continuing danger" theory to justify finding non-mental disorder automatism here
+### [[R v Stone]]
+- Man charged with killing his wife, charged with manslaughter and given an effective sentence of seven years on the grounds of a provocation defence
+- However, the defence also raised the defence of non-mental disorder automatism, issue on appeal was whether judge should have instructed on this
+- Accused claimed that the constant verbal abuse and stress he experienced led him to disassociate and lose his memory
+- Felt his senses fade and a "whooshing" sensation go over his body, when he regained consciousness he had stabbed his wife to death
+- Didn't recall the events of the attack until it appeared to him in a dream weeks later
+- After the killing, he hid the body, wrote a note to his stepdaughter, and fled to Mexico
+- Later returned to Canada and turned himself in
+- Brought expert evidence at trial, two psychiatrists interviewed him and one supported his claim (defence psychiatrist), the other one refuted it (Crown psychiatrist)
+- Neither found that he had any recognized mental disorders
+- Main issue with this is that there are no witnesses, everything here is based on the testimony of the accused, with the first interview occurring 18 months after the killing
+- What is the psychiatric evaluation even for if the accused has no mental disorder?
+- Also some past evidence of psychiatrists genuinely just making shit up, being a professional forensic psychiatrist is apparently a lucrative career
+### Analysis
+- Court says that the first step is to look for evidence suggesting the accused was in a dissociative state
+- Second step is to distinguish that evidence between mental disorder and non-mental disorder
+- Needs to be proven by the accused on a balance of probabilities, same as other similar defences like extreme intoxication
+- Five main factors to consider here
+	- The nature of the trigger leading to the dissociative state
+	- Severity of the response
+	- Presence of any bystanders witnessing the event
+	- History between the parties
+	- Presence of a motive
+- Generally, automatic behaviour is supposed to be erratic and irrational, makes it harder to prove when the accused had a reason to do the actions they committed
+- Presumption is that it's mental disorder automatism, otherwise it's an acquittal
+- Faking automatism is quite possible, and we should demand a fairly high standard of proof before this defence will be left to the jury
+- Up for the judge to determine this, if the accused wants the chance of an acquittal, they will have to prove they were in a state of non-mental disorder automatism
+- Jury's role is to determine if the evidence suffices to prove automatism of whatever kind of automatism the judge deemed appropriate based on the evidence
+### Review Questions
+- First statement was that a reasonable doubt as to whether the accused was operating under an officially induced error of law entitles an accused to an acquittal
+- This is false for two reasons, first this defence only entitles the accused to a stay of proceedings, not an acquittal and second, the defence has to be proven on a balance of probabilities
+- Second statement is that extreme intoxication is not a defence to specific intent crimes
+- Third statement is that words can no longer give rise to a defence of provocation in Canada
+- Reason this is false is because the defence of provocation requires the victim's actions to amount to an indictable offence punishable by five years or more
+- This may include some offences that are purely verbal like extortion, and it also may be possible that the five-year restriction is unconstitutional
+- Fourth statement is that mental disorder can only be raised as a defence to offences with a *mens rea* requirement
+- This isn't true because proving a state of mental disorder automatism can potentially negate the *actus reus* of an offence as well, meaning it can be raised for strict liability offences
+- 

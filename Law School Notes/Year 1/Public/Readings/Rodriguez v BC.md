@@ -1,0 +1,39 @@
+- Appellant suffered from a neurodegenerative disease that would inevitably lead her to become bedridden and unable to care for herself
+- Sought a determination that she can have assistance in committing suicide
+- Under s. 241(b) of the *Criminal Code*, assisting someone in committing suicide is an indictable offence
+- Issue for the court is whether this violates s. 7 by preventing the appellant from determining the timing and manner of their death
+- Appellant argues that s. 241(b) deprives her of liberty and security of her person by preventing her from ending her own life with assistance
+- This is because she has the right to live her remaining life with dignity and the right to control what happens to her body
+- Also argued that this is governmental interference with a fundamental personal choice
+- Seeks a remedy to give her control over her time and manner of death
+### Analysis
+- Need to consider these arguments in the context of the sanctity of life protected under s. 7
+- Pretty clear that the appellant's issues are being caused by the government
+- However, it can be argued that the right to security of the person does not extend to the right to take one's own life
+- Is this right ever acceptable given the inherent value of human life?
+- Appellant argues that for the terminally ill, the right is merely to choose the time and manner of death since death is imminent and inevitable
+- Death is inevitable for everyone, not even the terminally ill can predict the precise time and circumstances of their death
+- Choice is still an intentional preference for death over life
+- The decision in [[R v Morgentaler]] established a right of personal autonomy which allows for control over bodily integrity and freedom from state-imposed psychological harm
+- Appellant fears the loss of physical control over her body while maintaining control of her mental faculties, a fate arguably worse than death
+- She would be completely dependant on machines to perform her bodily functions
+- Section 241(b) deprives her of autonomy and imposes pain and psychological harm that infringes her right to security of the person
+### PFJs
+- This seems to be a real violation of a security interest, but it does not violate the principles of fundamental justice
+- This is desirable legislation that achieves the goal of protecting life
+- How do we find the principles that relate to this issue?
+- Appellant argues that the relevant principle is that the human dignity and autonomy of all individuals should be respected
+- Undeniable that the respect for human dignity is a foundational principle of society as a whole, but is not necessarily a principle of fundamental justice
+- Making this a PFJ would also be redundant because it would make any violation of the security of the person automatically contrary to a PFJ
+- Also need to consider a balancing of the interests of the person vs the state
+- Can argue that where the rights of a person are violated to little or no benefit to the state, that could be a breach of fundamental justice
+- Means that a limit is not arbitrary just because there is no relation to the underlying objective, need to consider the state interest
+- Is the prohibition of assisted suicide unrelated to the state interest in protecting the vulnerable?
+- This is the goal of s. 241(b), to preserve the life of human beings
+- Democracies do limit the sanctity of life in certain circumstances, but this is generally only a passive intervention, assisted suicide is too active
+- Also related to the argument that assisted suicide should be allowed because the law allows individuals to deny life supportive or life saving treatment
+- There definitely seems to be a line between these practices and assisted suicide that many are not willing to cross
+- Consensus seems to be on the side of respecting human life
+- Overall, the prohibition on assisted suicide is not arbitrary or unfair and seems to reflect the fundamental values held by society
+- For these reasons, s. 241(b) does not violate s. 7
+- 

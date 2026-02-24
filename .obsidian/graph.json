@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"Law School Notes/Year 1/ISLR\"  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.2525951557093,
   "linkStrength": 1,
   "linkDistance": 327,
-  "scale": 0.22941987779779532,
-  "close": false
+  "scale": 0.13469985027590547,
+  "close": true
 }

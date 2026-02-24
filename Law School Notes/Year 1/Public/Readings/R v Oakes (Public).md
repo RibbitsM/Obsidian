@@ -1,0 +1,23 @@
+- You already know how this case goes, summary [[R v Oakes|here]]
+- Section 1 of the Charter has two functions:
+	- Constitutionally guarantees the other rights and freedoms
+	- Explicitly states the justificatory criteria for any limitations on those rights and freedoms
+- The use of the words "free and democratic society" shows the purpose of the Charter itself, Canada is supposed to be free and democratic
+- Based on this fact, the Court should follow the principles that come with that
+- Some of these principles are the inherent dignity of all persons, social justice/equality, respect for cultural and group identities
+- These are the values underlying the rights and freedoms protected by the Charter, and are thus the ultimate standard why which those rights will be measured
+- Keep in mind these rights and freedoms are not absolute and may have to be limited to achieve collective goals based on those underlying principles
+- Recall that the party trying to uphold the limitation faces the burden of justifying it
+- Standard proof for s. 1 is the balance of probabilities, but has to be applied pretty rigorously
+- Depending on the case, might want a slightly higher or lower standard
+- Argument should ideally make it clear to the Court what the implications of imposing or not imposing a certain limit will be and what alternatives exist
+- Recall that a successful limitation requires a pressing and substantial objective
+	- For something to be important enough to overrule a Charter right, has to be pretty important
+- Next, need to prove the means are proportional to the limitation
+	- Requires the adopted measures to be designed to achieve the objective being sought
+	- Can't be arbitrary, unfair, or irrational
+	- Have to be rationally connected to the objective
+- Limitation should impair the right in question as little as possible
+- Finally, effects of the measures have to be proportional to the objective
+	- This last one is probably the most important
+	- More severe the effects of a limitation are, more important the goal must be

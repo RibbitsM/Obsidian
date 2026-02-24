@@ -59,6 +59,8 @@
 - Can also grant a remainder interest, for example you could grant land "to A, for the life of A, and then to B in fee simple"
 - A would get a life estate, but B would get the remainder
 - Means that when A dies, the estate transfers to B, or whoever else holds the remainder at that point
+- Difference is that if the original grantor has the interest in FS, that's a reversionary interest
+- If anyone other than the original grantor has it, that's a remainder interest
 ### Doctrine of Waste
 - One issue with this system is that someone holding a life estate is incentivized to exploit the land as much as possible before they die and the land reverts
 - There are four kinds of waste: permissive, voluntary, ameliorating, and equitable

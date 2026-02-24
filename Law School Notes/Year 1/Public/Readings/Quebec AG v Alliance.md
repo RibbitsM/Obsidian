@@ -1,0 +1,24 @@
+- Issue was Quebec's *Pay Equity Act* which was designed to reduce the gender pay gap
+- Specifies how to identify pay gaps, and in what situations where women can receive compensation for these pay gaps
+- Based on this information, the Act clearly distinguishes on the basis of gender
+- Court examined whether or not the distinction can be examined due to s. 15(2)
+- Argued that s. 15(2) doesn't apply in this case, as the purpose of the section is to prevent "reverse discrimination" claims
+- This is where a group not intended to benefit from the legislation sues, claiming discrimination on the basis that they were not given benefits
+- However, in this case the issue is that the *Pay Equity Act* disadvantages women, which is the group that the Act is intended to benefit in the first place
+- The 2009 amendments to the Act perpetuated existing disadvantages faced by women by creating unnecessary barriers to compensation
+### Dissenting Opinion
+- Court also pointed out that it's important to do the s. 15(2) analysis after the first step of the s. 15(1) analysis, before doing the second step, this is the approach from [[R v Kapp]]
+- This is because otherwise the court would have to conclude that the legislation violates the principles of equality before "saving" it under s. 15(2)
+- However, if we strictly apply s. 15(2), it would mean that cases like this don't work because the analysis ends at s. 15(2)
+- Even though the group the legislation is intended to benefit is raising the issue, the fact remains that the legislation is still ameliorative
+- Court argues that where this is the case, the s. 15(2) analysis should be avoided until the entire s. 15(1) analysis is finished
+	- This will definitively determine whether the government created or perpetuated a disadvantage, and helps find the true object of the legislation
+- Still need to give some deference to the legislature when doing this analysis
+- Finally, where you have a case like [[Alberta v Cunningham]] where the group at issue is protected but isn't included under the relevant legislation, use the *Kapp* approach
+- Only in the case where the claimant is a member of the group the legislation intends to benefit do you move the s. 15(2) analysis after s. 15(1)
+### Application
+- Court ultimately found that the amendments violated s. 15(1) and were not justified under s. 1
+- Minority found that the amendments did not violate s. 15(1)
+- Argued that the goal of s. 15(2) is to support the implementation of measures for combatting systemic discrimination
+- In this case, the genuine goal of this legislation is to promote substantive equality, and because of this, it should not violate s. 15(1)
+- Even if the mechanism is not perfect, s. 15(2) should be able to protect it

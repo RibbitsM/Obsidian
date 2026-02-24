@@ -1,0 +1,17 @@
+- Read this case previously, see [[Re Section 94(2) of the MVA|here]]
+- Major issue for this case was whether or not the "principles of fundamental justice" detailed in s. 7 included substantive matters
+- Especially relevant because judges were concerned about overreaching by doing this, as this is what happened in the US
+- Shouldn't define the issue though, as the US Constitution is missing a lot of the checks and balances that Canada's has
+### PFJs
+- Section 7 clearly protects three interests, life, liberty, and security of the person
+- PFJs are a qualifier on these rights, the government can deprive an individual of any of these three protected interests only if they follow the principles of fundamental justice
+- Because of how this works, the narrower of a meaning that we give to the PFJs, the more likely someone will be deprived of their rights
+- If these are only procedural matters, than as long as the government has not made any clerical errors or skipped elements of procedure, infringing these rights should be simple
+- Would be inconsistent with the language the rights are expressed with and the overall goal of the Charter
+- Also creates some absurd results, like making the right to liberty narrower than the right to not be arbitrarily detained or imprisoned
+- Recall that this right, and the other rights in ss. 8-14 are supposed to be examples of deprivations under s. 7 that are implied to be inconsistent with the PFJs
+- By looking at all this evidence, and especially by examining the commonalities in those examples, we can conclude that the PFJs come from the basic tenets of the legal system
+- Pretty clear that it's not just the principles of natural justice, if they were, they could have specified that
+- Most of the basic tenets of the legal system are procedural in nature, but not all of them
+- In the end, the imposition of absolute liability in this case went against the principles of fundamental justice
+- Appeal dismissed

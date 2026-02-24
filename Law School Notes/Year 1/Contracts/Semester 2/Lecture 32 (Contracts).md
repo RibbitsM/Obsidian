@@ -1,0 +1,51 @@
+### Affirmation
+- In the context of anticipatory breaches, there are a lot more implications to affirmation compared to the normal breach context
+- Recall that there's an important distinction between affirming a contract and waiving an obligation to perform the contract
+- In one case, you have to press for performance and can still sue later
+- In the latter, you are indicating acceptance of the breach, and may not be able to sue on the basis of that breach in the future
+- But if you are pressing for performance and merely affirm the contract, the victim still has rights good against the repudiation party who is still expected to perform
+- Generally, affirmation is pretty risky for the victim
+- Because the agreement is still in full force, even the repudiating party may be able to rely on any future events that could provide a defence for the victims damages claims
+- On the other hand, if the victim chose to disaffirm, this would not apply because the contract no longer has any force, even though it still exists
+- Recall that if the victim becomes unable to fulfill the contract for some reason before the breach occurs, this can cancel out their claim for damages
+- A party who affirms the agreement has to maintain a readiness and willingness to perform
+- Depending on the nature of the breach, the victim may be able to also commit a true repudiatory breach which would switch the positions of the parties
+- Another possibility is that the events between affirmation and the breach may make performance from the repudiating party impossible or unlawful
+- For example, say the government passes an act banning the sale of pizza ovens after you already affirmed the delivery contract
+- Finally, recall that the repudiating party may decide to not breach the contract, and in that case the victim is obliged to accept that performance
+### Duty to Mitigate Loss
+- Depending on the circumstances, a decision to affirm may be constrained by the duty to mitigate loss
+- Where affirming will increase the amount of damages that could have been avoided by disaffirmation or other actions, victim may be obliged to take those actions
+- UK case law has suggested that the right to affirm isn't constrained by this, but overall in Canada the victim is usually obligated to disaffirm
+- Unless they can show a good reason for pressing for performance and affirming, the duty to mitigate will likely force them to disaffirm
+- Mainly depends on how successful pressing for performance would likely be
+- If the situation clearly indicates that performance is not going to happen, then the victim will likely have to disaffirm if they want to sue for damages afterwards
+- However, if the victim doesn't have alternatives or it seems like the repudiating party will be able to perform, duty to mitigate likely won't kick in
+- Standard for the victim to prove is a "substantial and legitimate interest" justifying the decision to affirm and press for performance
+- The decision to affirm is pretty limited, but it still exists in some cases
+- Compared to ordinary breach cases, the decision to affirm is likely more attractive in anticipatory repudiation cases as the breaching party has more time
+### Calvin (Creekside) Limited Partnership v Logoteta
+- 2025 Ontario Supreme Court Case
+- Deals with a contract to buy a townhouse under construction, purchase happened in 2022 and the house was supposed to be available for 2023
+- Buyers made the initial deposits, but failed to make further on ones
+- In response, the seller extended the payment deadline by a couple months
+- As the deadline was coming up, the buyers indicated that they likely couldn't pay
+- Sellers said that if the deposit wasn't made by the deadline, all the deposits were forfeit and the agreement would be terminated
+- However, they said that they were looking forward to receiving the funds
+- Nothing happened for a while until the vendor sold the property to a new buyer
+- Original buyers showed up with the money and tried to restart the deal
+- Sued the vendors for repudiatory breach for selling the contract to someone else
+- Issue was whether or not the contract had been voided
+- Sellers actually sued the original buyers as well because the original price of the house was less than what they were selling it for to the other buyers
+- Main argument from the sellers was that the letter sent after the anticipatory breach amounted to a disaffirmation of the contract
+- Plaintiffs argued that the language was not clear, and they had given them extensions in the past meaning there was no disaffirmation
+- Court ultimately sided with the original buyers, the original contract was still intact and actually the sellers had affirmed the breach
+- Real breach was selling the house to someone other than the original purchasers
+- Court said there was no dispute that the signal they would not be able to make a deposit was an anticipatory breach, both parties agreed on it
+- At this point, the letter from the vendor saying they were expecting the buyers to pay the deposit was an indication that they were affirming the contract
+- Because the vendors had been so lenient with the buyers in the past, they had to be extremely clear when ending the contract, which they did not do
+- The vendors didn't actually say they were going to end the agreement in that letter, they were only **threatening** to end the agreement
+- Keep in mind that even outside this case, the decision to disaffirm has to be "clear and unequivocal"
+- When the vendors tried to sell the property to someone else, they made it so they could no longer perform the original agreement, and breached it
+- Because of this, the vendors were no longer the innocent party and were now the repudiating party
+- Court ordered the sellers to return the deposit, didn't get the house though

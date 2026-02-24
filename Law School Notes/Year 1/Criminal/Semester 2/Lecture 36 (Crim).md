@@ -1,0 +1,51 @@
+- Next topic is the defence of self-defence
+- More like a category of defences, also applies to defence of property and defence of another
+- Function of the defence is to establish that you were entitled to use force to defend yourself, it works as a justification
+- Technically can be used for any offence, but in practice mainly appears as a defence to assault and its variations, murder, and manslaughter
+- Statutory defence, laid out in s. 34(1) of the *Criminal Code* but has been modified greatly by the common law
+- Results in an acquittal if successfully raised, no matter the offence
+- Self-defence provisions in the *Code* were repealed and replaced in 2013, the old ones were very confusing because it varied based on a wide number of factors
+- Depending on who initiated the conflict and the level of damage suffered, the defence would apply differently or not at all
+- For the sake of this class, you only really need to know the new provisions but we can look at some of the old provisions
+### [[R v Lavallee]]
+- In this case, the accused was relying on s. 34(2) of the *Code* as a defence
+- Requires the accused to be unlawfully assaulted, and the accused must cause death or grievous bodily harm to the assaulter
+- Defence applies if the accused was under a reasonable apprehension that they were going to suffer death or grievous harm from the assault
+- Also must reasonably believe that they had no other option to protect against that harm
+- The accused was in an abusive relationship with the victim, incident happened at the night of a party held at the couple's apartment
+- Couple got into a fight during the party, guests testified to hearing screaming and thumping from upstairs
+- Victim threatened the accused with a loaded gun and then handed it to her, saying that either she can kill him now or he will kill her after the guests leave
+- Accused shot the victim in the back of the head as he was leaving the room
+- Shows that there was an unlawful assault caused by the victim, the accused clearly caused the death of the victim, meeting the first two elements
+- Main issue is with reasonable apprehension and reasonable belief
+- Argument from the Crown was that a reasonable person would not have apprehension of death after the assault had presumably ended
+- Also, the accused had the option to leave the house or the relationship instead of killing the victim
+- Some sort of proportionality requirement as well, an assault doesn't warrant deadly force
+- Self-defence generally requires the assault to be active and in progress when the retaliation occurs, the victim here was unarmed and leaving the room when the accused killed him
+- Defence raised expert psychiatric evidence on the nature of abusive relationships, showing that the strict requirement of an in-progress assault is unnecessary here
+- It may be appropriate in an altercation between two men fighting in a bar, but this is a completely different situation
+- Accused knew the victim was going to kill her later that night, no reason for her to have to wait until he actively tries to kill her before fighting back
+- The psychiatric evidence also showed why battered women choose not to leave abusive relationships, and it appeared that many of these factors arose in this case
+- Because the accused had developed a pattern of "learned helplessness" in her abusive relationship, she was effectively unable to leave
+- Had sought assistance in the past, and in many of these situations, leaving the relationship is actually a very dangerous proposition
+- Placing the blame on the woman in this situation for not leaving is victim blaming, as well as based on a lot of harmful myths about abusive relationships
+- Ultimately, Lavallee's acquittal was upheld mainly because of this psychiatric evidence
+### Aftermath
+- This was a pretty important case for allowing the application of the defence of self-defence in contexts outside the normal situations
+- Backlash against this decision took the position that this would allow women to kill their husbands with impunity by establishing a "defence of battered woman system"
+- On the other side, people were also concerned that the definition of a "battered woman" set in this case was too narrow
+- Not very many cases after this where the defence was successfully raised, partly because the stakes of raising this defence for a murder change is so high
+- In most cases, the accused would prefer to plead down to manslaughter instead of rolling the dice on the defence of self-defence
+- Additionally, the Canadian Association of Elizabeth Fry Society pushed for a review of the convictions of women in similar situations that had raised self-defence as a defence
+- Several of these convictions were reviewed, and out of 98 claims, fourteen women were reviewed and none of them were ultimately released from prison
+- As it turns out, the precedent set by *Lavallee* did not change very much at all
+### [[R v Malott]]
+- In another similar case, the husband worked for the police which made it very difficult for the accused to get assistance
+- Accused shot him, and also violently attacked her husband's girlfriend
+- Counsel tried to get the trials split as the self-defence claim didn't work against the girlfriend, but ultimately the two charges were heard together
+- Argued intoxication for attempted murder, her husband was dosing her with prescription drugs at the time
+- Ultimately, the jury convicted and the case was appealed to the SCC which upheld the conviction
+- In the concurring reasons, the court addressed the criticisms of *Lavallee*
+- We need to be careful of requiring the model of the how the accused acted in that case for all similar future cases
+- This shows us how the court can take seemingly drastic steps with little to no practical impact
+- Going forward, it's good to consider how the new self-defence provisions may apply to similar situations

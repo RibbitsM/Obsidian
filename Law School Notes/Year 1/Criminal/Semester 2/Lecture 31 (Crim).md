@@ -1,0 +1,42 @@
+- Unlike the other defences we've looked at, the defence of mental disorder can actually be raised by the Crown in certain circumstances
+- Additionally, it doesn't result in an acquittal or lower conviction, but actually puts the accused into a completely different system from ordinary criminal law
+- There is a strong medical component here, and expert evidence is often submitted in these cases, but at it's core we are trying to answer a legal question
+- Also has a significant policy component, we're basically trying to draw a line between people who are "sick" and should not be punished but treated, and people who are "bad" and should be punished and rehabilitated
+- This is explicitly a policy line, there is no clear scientific process setting this line
+- There are a lot of people with mental illnesses that we do punish criminally, and though we do take those conditions into account for sentencing, they are still punished
+- For example, there is fairly significant evidence between FASD and certain criminal offences
+- Seems like people with FASD may be more susceptible to criminal recruitment
+### Defence of Insanity
+- Used to be referred to as the defence of insanity, and those found not criminally responsible were acquitted on the basis of insanity
+- Original provision under s. 16(1) holds that no person convicted of an offence regarding an act or omission committed while that person was insane
+- Followed by two more provisions defining insanity, and states that a person who has delusions will not be acquitted unless those delusions justified their act
+- Finally, every person is presumed to be sane until proven otherwise
+- Originally, every person who successfully raised this defence was placed in a secure psychiatric facility for an indefinite period of time, which was arguably worse than jail
+- Because of this, a lot of people preferred to simply plead guilty, and it was generally pretty rare for the accused to raise the defence outside of murder
+- To get around that, the Crown could also raise evidence of insanity as well
+- In a case called *Swain*, this was challenged for violating several sections of the Charter, as well as the detainment system as a whole
+- Court invalidated the whole thing, but didn't invalidate the s. 16 definition
+- Also pointed out that there are circumstances where the Crown should be able to raise insanity against the wishes of the accused, but this ability should be limited
+- Couple different ways the defence can be raised
+	- First, the accused can plead insanity at the start of the trial
+	- Second, they can wait after guilt is proven, but before sentencing and then raise the defence
+	- Additionally, the Crown can raise the defence at that point as well
+- Reason for this is to allow the accused to raise other defences as well that might get them an acquittal, and only argue insanity as a last resort
+- Also why the Crown can only raise it at the end, otherwise the Crown could use that to limit the credibility of the accused
+- Only exception to this is if the accused does something that puts their mental state at issue
+- Proving insanity is also difficult for a couple of reasons
+- First, the Crown does not have an easy scientific way to determine this, they can't compel the accused to get a psychiatric evaluation, and even that isn't conclusive
+- Additionally, the goal is to prove insanity at the time the offence was committed, not at the time of the trial which can be many years afterwards
+- Overall a very complex process with a lot of roadblocks
+### [[R v Chaulk]]
+- Issue in with case was mainly with s. 16(4), the presumption of sanity
+- This factor is preserved in the new version of s. 16, now under s. 16(2)
+- The provision is almost identical, except specifying that insanity must be proven on a balance of probabilities
+- Definition of not criminally responsible is slightly different, but not significantly
+- The delusion provision was removed entirely, now the definition requires the accused to suffer from a mental disorder making the accused incapable of understanding the nature or quality of their act, or from knowing that it was wrong
+- Key thing to note is that this does not apply to all mental disorders or diseases of the mind
+- Two ways the defence can be established
+	- The accused can't understand the nature or quality of the act
+		- Means that the accused is unaware of what they are actually doing, use the example of believing you are chopping bread while decapitating someone
+	- The accused is incapable of appreciating that their actions are wrong
+		- Raises the most significant issue, namely what the definition of "wrong" is

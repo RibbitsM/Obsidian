@@ -1,0 +1,23 @@
+- Thomas Hayes died in 1929, leaving half of his farm to his wife for life, and then to his son Harold
+- Divided the other half in two and gave one half to each of his younger sons on the condition they live on the land and cultivate it
+- If they decided to not accept this condition, then that lot would be given to Harold if he paid the younger sons $1000 each
+- One younger son (Frank) took their lot, but the other son (James) moved to the US, and later returned to the property
+- When he returned, he built a house on the lot designated to him and transferred the part of the lot with the house on it to him ad his sister as joint tenants
+- When James died, Harold's widow sued James' successors
+- Plaintiff argues that Harold owns the property because James failed to fulfill the conditions of the will
+- Alternatively argue that Harold owns it through adverse possession
+- Defendants argue that James owns the property because the conditions in the will fail for uncertainty, and otherwise argue the conditions were met
+- Provisions are either conditions precedent or subsequent, and it's not entirely clear which one they are
+- Precedent is that where it's unclear, we presume that it's a subsequent position because of early vesting
+- If we say that it's a condition precedent, then the property goes to no one because James didn't fulfill the condition and Harold never paid James the $1000
+- Because there was no residual clause, this would leave Thomas intestate
+- The way the will was worded seemed to intend that James needed to get something, either the land or $1000
+- Seems like overall we should interpret this as a condition subsequent, that follows the presumptions for early vesting and against intestacy
+### Uncertainty
+- In light of this information, are the conditions void for uncertainty
+- James did end up living on the land and building a home there, but does this meet the requirement in the will?
+- It didn't have any explicit time limit
+- Previously, the court has said that a subsequent condition must allow the court to see exactly what event is required
+- Because of the uncertainty regarding the length of time, this fails the pre-existing test for uncertainty
+- Overall, the provisions in Thomas's will are conditions subsequent and are void for uncertainty
+- James got title to the property when his dad died

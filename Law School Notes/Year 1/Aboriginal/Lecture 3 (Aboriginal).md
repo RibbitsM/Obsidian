@@ -1,0 +1,132 @@
+## [[R v Gladstone]]
+- Recall that this case was part of the *Van der Peet* trilogy
+- Mainly deals with the first question from *Sparrow* which deals with what is required for proof of an Aboriginal right
+- Court found that the Heiltsuk people had been harvesting herring spawn on kelp for hundreds of years, since the spawn was concentrated in their territory
+- Several prominent examples of evidence proving the extent of this trade
+- Huge case for establishing what evidence is needed to prove an aboriginal right
+- Donald Gladstone and his brother were charged with attempting to sell herring spawn on kelp without a Category J license
+- In the final decision, 8 of 9 judges found that the right existed, but ultimately could not conclude whether the infringement of the right was justified
+- Example of how these kinds of tests evolve and change in response to new situations
+- First element was determining whether or not the commercial sale of spawn integral to the Heiltsuk culture prior to European contact
+- Second element was whether he right was extinguished, with the burden being on the government
+	- In this case, the court found that the right was not extinguished, though La Forest argued that there was clear intent to extinguish it before 1982
+- Third element was whether the legislation created a *prima facie* infringement of the right
+- Finally, the fourth element puts the onus on the government to prove that this infringement was justified
+### Element One
+- Need to determine the precise nature of the right, you need to characterize it
+- Supposed to take the aboriginal perspective into account for this element, but the court seemed to not do this here, relying mainly on historical evidence
+- Court found that there were two possible definitions of the right here based on the fact that the regulations ban the commercial sale of spawn without a license
+	- Right to exchange spawn for money and goods, which can be a commercial right
+- Usually, the perspective of the Indigenous nation is that they would manage natural resources based on their traditions and legal practices
+- When it comes to the [[R v Van der Peet]] test, the government needs to translate this into something they can deal with
+- The main evidence relied on here were the journals of early European explorers as documented evidence of pre-contact practices of coastal First Nations
+- There was specific mention of trade in spawn, among many other goods
+- Journal of a fur trader described huge supply canoes going up and down the coast constantly between the Heiltsuk and other neighbouring nations
+- Lastly they had an anthropologist testify, and there was also some oral evidence from the Heiltsuk community, but this took a back seat to the other sources of evidence
+- Overall, the court found that the Heiltsuk society was firmly based on the trade of spawn
+- Seems pretty clear that they have an aboriginal right to sell spawn in the commercial context
+- Right to fish for and sell herring spawn on kelp was an existing aboriginal right
+- Compared to VdP, the evidence here was much more comprehensive
+- In that case, examples of salmon trade between nations were much more incidental
+- Trade really only developed significantly once the Europeans set up Fort Langley and started accepting the exchange of salmon for money and goods
+- Wasn't integral to the Sto:lo culture
+### Element Two
+- Court also found that the regulations on spawn prior to 1982 did not demonstrate any consistent intention on the part of the Crown
+- Ranged from not being allowed to sell at all, being allowed to sell a certain volume, and being allowed to sell through a license
+- No clear intention to extinguish the right, just to regulate it (same as [[R v Sparrow]])
+- Also assessed the government regulation as a whole
+- Start by setting the total amount of catch for the year
+- Then, this is divided between the different fisheries for different products
+- Then, those fisheries are divided between different groups via fishing licenses with the Heiltsuk being one of those groups
+- Finally, the government allots the amount granted to each specific license
+### Element Three
+- Needed to see if the regulations interfered with the exercise of the right
+- Before contact, the Heiltsuk were allowed to collect and sell spawn subject to no external limits and were dictated mainly by their own practices
+- Now, they can only sell to the extent allowed by the government
+### Element Four
+- Court found that there was insufficient evidence to determine whether there was a justification
+- *Sparrow* test needed to be modified in a couple important ways, but the outline is the same
+- Still two parts, establish a compelling and substantial objective, and then assess whether the means of pursuing the objective respected the fiduciary relationship
+- The primary objective here was conservation, to make sure that the herring population remains healthy, same as in the other fishing cases
+- But this case is different from *Sparrow* because the right to fish for food and social purposes is inherently self-limiting, while this right has no real limit
+- We saw before that aboriginal rights take priority over other rights, but applying that to this case would give the Heiltsuk an exclusive right to sell herring spawn on kelp
+- Commercial fishing is only limited by external factors like supply and demand
+- Other thing the court did was that it explicitly tied this to the *Oakes* test
+- Interpreting the right similarly to other rights in the Charter, even though aboriginal rights come from outside that document and aren't limited by s. 1
+- Similar to *Oakes*, the court should see whether the government has taken into account the existence and importance of aboriginal rights
+- Uses the same approach of assessing competing interests when it comes to the [[Application|Charter]]
+- Not exactly the same, these are group based rights and are intentionally kept separate from the Charter rights which are mainly individual and not aboriginal
+- Other fishers may have limited rights to fish based on community practice and tradition, but they're not constitutionally protected like aboriginal rights are
+- But when you have rights that aren't internally limited, you'll need more objectives besides conservation to consider
+- Lists a couple of things that could potentially be relevant
+	- Pursuit of economic and regional fairness
+	- Recognition of the historical reliance on and participation in the fishery by non-aboriginal people
+- In light of these new objectives that weren't argued before, there was insufficient evidence to determine whether the infringement was justified or not and a new trial was ordered
+- In the end, the new trial never came up and the government instead reallocated fishing rights to the Heiltsuk and other groups
+- Seems to be a pretty marked departure from the *Sparrow* approach with different justifications
+- Recall that one of the rejected objectives in that case was the public interest, which was way too broad to justify a specific infringement like this
+- After this case, the court got so hung up on the duty to consult that this test was pretty much never revisited again so this is about how it stands today
+### Van der Peet Dissent
+- All these cases were decided at the same time, so this dissent is closely connected to McLachlin's opinion on the other cases
+- The way that McLachlin interpreted the right in all of these three cases was much broader than the majority and focuses more on the purpose of the original trade
+- In VdP she defined this as the right for Indigenous people to make a living from the river or the sea, not just to sell fish
+- Aboriginal rights are not just about specific cultural practices and ceremonies
+- Today, this definitely has a commercial aspect because of how the modern capitalist economy works, but originally that was not its purpose
+- Because the court erred in defining the right, everything after that gets distorted
+- Clearly its not a right to sell as much fish as the market demands, there's no issue of priority because the right is limited to the extent that it keeps the community self-sufficient
+- These societies originally did not value excess exploitation or generating wealth, so the right will be inherently limited 
+- Only way to take these rights away is through negotiating a treaty
+- The fact that the majority wants to reconcile the aboriginal right to fish with the need for non-aboriginal peoples to fish in unconstitutional
+- You can't just give away portions of an aboriginal right away for economic fairness reasons
+### Assumptions and Outcomes
+- It seems like there is an underlying logic behind this decision that the government is the only entity here that is taking conservation into account
+- The specific relationships between the Heiltsuk and the herring aren't discussed here, neither are any of their cultural practices or legal traditions
+- Looking at all three cases together, much of the language used here compared to *Sparrow* is a reigning in of what looked like a really promising future for aboriginal rights
+- Recently, the Heiltsuk nation has launched another lawsuit on this topic, and in 2023 the government closed the herring spawn on kelp fishery entirely
+- It was pretty much the sole source of revenue and employment for the nation
+- Until this point, the Heiltsuk Nation and the government have been co-managing the fishery
+- Claimed the closure was a violation of their rights
+## NTC Smokehouse
+- This case related to a company that bought and sold salmon caught under an Indian food fishing license, meaning it was all illegal
+- Again, the issue of whether there is an aboriginal right to fish commercially was raised
+- Court applied the VdP test and found that the practice of selling salmon was not an integral part of the Sheshaht and Opetchesaht cultures
+- Sale of salmon in the pre-contact period was mainly limited to ceremonial circumstances
+- Seems that because the herring spawn on kelp fishery was so limited, that it was the only ground the government was willing to concede a little on
+- Have been some lower court decisions recognizing a generalized fishery for some First Nations
+- Also some larger-scale decisions at the SCC that were also unsuccessful in arguing for the presence of a commercial fishery
+- Overall, the specificity of VdP has made these cases much more difficult
+## R v Pamajewon
+- Takes place in Ontario in Anishinaabe territory, specifically with the Shawanaga and Eagle Lake nations who held bingo games to fund social services
+- Games were organized according to their local circumstances, but were not in accordance with the *Criminal Code* standards regarding gambling
+- Generally speaking, it's only lawful to engage in gambling with approval from the local gaming commission under the province
+- Convicted under the *Criminal Code*, and argued that s. 35 protects their right to self-governance, which includes regulating economic activities on reserve
+- Went all the way up to the SCC, and the nations ultimately lost the case
+- This is how most Indigenous groups think about their rights, they have self-governance and can regulate activities within their territories
+- Included in the negotiations of treaties, and was also included in the Charlottetown Accords
+- Pretty hostile to the VdP test which requires much more specific practices and rights
+- The key process here is the characterization of the right, this is where the protections under s. 35 are limited the most
+- Court found that considering all the factors, the right here was to regulate and operate high-stakes gambling operations on reservation
+- Recall that the court needs to consider the nature of the act, the relevant regulations, and the practices, customs, and traditions underlying these rights
+- Indigenous peoples tend to focus more on the overall sovereignty of their territory, as opposed to seeing it as a product of their customs and traditions
+- When framed this way, the right would obviously not be recognized
+- The claimants were never arguing that they had a traditional right to gamble, they were saying they had a right to manage economic activities on their land
+- On trial, the court looked to evidence that the Anishinaabe engaged in games of chance prior to contact, but held that this wasn't enough
+- Gambling was not an integral part of the culture, only evidence was testimony on the importance of gaming in the Anishinaabe culture
+- Evidence didn't address how these games were regulated within the community
+## R v Sappier/Gray
+- Regards the aboriginal right to harvest timber on the traditional lands of the Mikmaq and Maliseet
+- Slightly relaxed the VdP rules
+- Two men collected fallen logs from Crown land and used them as firewood and to make furniture for their local communities
+- Charged because they were harvested from Crown land without a timber license
+- Argued that they had an aboriginal right to do so, and actually succeeded
+- Modified the VdP test because of the widespread criticism of the need for individual practices and anthropological evidence to show continuity
+- Court here said that the original intent of the test was lost, and the point was to understand the way of life of aboriginal societies prior to contact and how the claimed right relates to that
+- Mainly aimed at lower courts which were requiring much too narrow evidence
+- The requirements of the practice being part of the core identity and a defining feature of the culture was creating artificial barriers
+- Clarified that there is no aboriginal right to sustenance, but the traditional means of sustenance used prior to contact can be considered integral to the distinctive culture of a group
+- Keep in mind that this was only regarding harvesting for personal use, not sale
+- Addressed the issue of whether the peace and friendship treaties extinguished this right, found that they did not
+- Important because it shows that the court was aware of the limits of the VdP test, and the Crown did not challenge that the laws prohibiting harvesting logs wasn't an infringement
+- Mostly focused on arguing that the right was extinguished
+- Also didn't really provide any evidence justifying the infringement
+- Recognized a right to harvest logs for domestic uses within the Mikmaq and Maliseet communities

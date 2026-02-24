@@ -1,0 +1,12 @@
+- Where a thief steals some property and sells it to a third party, there are a couple ways to ameliorate this
+- Either the owner gets to retrieve their property from the buyer who then has to recover their money from the thief, or the owner has to sue the thief
+- Generally, the law will try to deter the thief and allow the innocent parties to get their money back
+- But what happens if the thief is immune from judgement?
+- Burden would likely go on the owner, who failed to keep their property from being stolen
+- On the other hand, you can argue that the buyer should have exercised more care in ensuring that they were not buying stolen property
+- Want to put the burden on whatever party has the greatest capacity to absorb the risk
+- Usually comes in the form of seeing whoever has the greatest level of insurance against the loss
+- Property law, as opposed to tort law, seeks a general rule on how to deal with liability in these situations
+- Main motivation is that we want to catch thieves, so we should be incentivizing the buyer and owners to provide information to help achieve that goal
+- Who will be favoured between these two parties is the real issue, it will generally be determined based on the capacity of each party
+- 

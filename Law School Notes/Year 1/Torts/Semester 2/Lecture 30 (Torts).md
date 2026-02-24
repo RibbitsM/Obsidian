@@ -2,8 +2,8 @@
  - To determine whether liability should be imposed on a government through the *Anns* test, you need to determine whether a decision is a policy decision or not
  - First thing to do is to look at whether there is a pre-existing category you can apply
 	 - In this case, you would have to check if there is an existing duty to maintain highways that gives the government a duty of care over the drivers
+	 - Pre-existing duties come from the case law, not from statutes
 	 - Two parts to this, need to look if there's a duty and whether there's an exemption from liability for the current case
-	 - Where do these obligations come from, is it from a statute?
 	 - Purpose of this is to establish proximity and foreseeability
 	 - If we can find a statute that establishes an obligation, and if there is no other body of law exempting the government from liability, we can establish a *prima facie* duty of care
 	 - Example of a case where there is an exemption is for COVID-19 lawsuits
@@ -11,7 +11,7 @@
 	 - Only exception is if the plaintiff can prove "gross negligence", a much higher standard
 	 - These statutes also listed specific positions that could not be sued either
 	 - Overall, look for a pre-existing duty, then go to the proximity analysis by looking at statutes that impose an obligation, then look for exemptions
-	 - Can also look at the history of interaction between the government and powerful public citizens to find an obligation, example would be *Imperial Tobacco*
+	 - Can also look at the history of interaction between the government and powerful public citizens to find an obligation, example would be *R v Imperial Tobacco*
 - If there is a obligation and no exemption, then need to test if it would be "just and fair" to impose liability, including the additional factors from [[Cooper v Hobart]]
 - Governments are unique from private actors because of the immense scope of its duty
 - Once you get past this stage, the burden shifts to the defendant to raise policy considerations
@@ -28,8 +28,43 @@
 - Because Kenney was just going apeshit and making decisions mainly based on retaining the support of his base, he wasn't actually trying to make decisions to protect people
 - True policy decision is one that is based on social, political, and economic reasons
 - Can argue that Kenney was making decisions based on politics, but we should seek to divide these from decisions intended to achieve a personal goal of staying in power
+- If the government does decide to take action on an issue, then we shift into the realm of operational decisions
+- Courts impose liability on the outcomes of administrative decisions, expert opinions, technical standard, and general standards of reasonableness
+- All of these factors are connected to an initial decision to act on an issue, for example to maintain public roadways
+- In this case, the court determined that decisions to act or not, or decisions to modify the scale of this action are unassailable policy decisions
+- Still subject to a claim that the decision was not based on a reasonable exercise of discretion
+- Once the decision to act is made, then that action has to be performed reasonably, and the courts are allowed to assess whether the standard of care was met by that action
+- Standard of care is pretty open in these cases, government can argue that it was doing the best that it could have done regarding the resource constraints it was facing
+- Appellants argued that the manner of inspection and the frequency of the inspections were all operational decisions, and subject to judicial review
+### [[Nelson (City) v Marchi]]
+- City was clearing snow to create parking spaces, but didn't clear the snow between their parking spot and the sidewalk
+- Plaintiff injured themselves trying to climb over the snowbank after parking to get to the sidewalk
+- Trial judge said there wasn't liability because the standard of care wasn't breached, and the plaintiff had contributory negligence, and it was a matter of policy
+- Appeal rejected all these arguments, SCC found there was a duty of care, there was proximity and foreseeability and no exemption
+- City invited the public in by clearing the streets but were negligent in not also clearing the snowbanks between the parking spots and the sidewalk
+- Four factors to consider when deciding whether conduct is policy or operational
+	- Level and responsibility of the decision
+		- Higher up the decision was made, more likely that it is a policy decision
+	- Process by which the decision was made
+		- Was it done democratically through deliberation, or was it more like a unilateral decision, the former is more likely to be policy
+	- Nature and extent of the budgetary considerations
+		- High level department budgets would be more likely considered to be core policy as opposed to the budgets of low level organizations
+	- Extent to which the decision was based on objective criteria
+		- The more it's based on a set standard, less likely it is to be policy
+- Court noted that the mere presence of budgetary restrictions does not determine whether a decision is policy or administrative
+- Additionally, whether something was labelled as a "policy" or not is not determinative, remember that a shovel that's called a pitchfork is still a shovel
 ### Summary
 - First section of the test seeks to establish the duty of care, this is where you look at statutes and litigation history to see if there is an existing obligation
-- If there is no clear pre-existing obligation, see if you can establish reasonable foreseeability and a relationship of proximity
+	- Is there reasonable foreseeability?
+	- Are the parties in a relationship of sufficient proximity?
+	- Is there an empowering statute?
+	- Is there an explicit exemption from liability found in a statute?
+	- Would imposing a liability be just and fair given the relationship between the parties?
 - Where all this goes well, a *prima facie* duty of care is established
 - Second section of the test is where the burden is on the defendant to raise policy considerations
+	- First part is looking at the usual concerns of effect on legal obligations, the legal system, and society as a whole
+	- Next, you need to look at whether the decision was one of pure policy or if it was an operational decision
+		- What level of government made the decision?
+		- How was the decision made, was it deliberative or more like a low level discretionary reaction?
+		- What was the nature and extent of the budgetary constraints?
+		- Was the decision based on objective criteria?

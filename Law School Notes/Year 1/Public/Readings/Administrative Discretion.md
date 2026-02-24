@@ -1,0 +1,13 @@
+- The court has been pretty consistent in affirming that the Charter applies to administrative decisions, but the way its done has varied a bit
+- One approach was from *Slaight* and *Blencoe* where they checked if a decision infringed a Charter right, and if so, did a s. 1 analysis
+- Other approach was to give the decision makers a bit more deference when it comes to decisions in their areas of expertise
+- [[Dore v Barreau du Quebec]], the court determined that the more flexible approach is the one that should be followed
+- Question for the court is if considering the nature of the decision, and the context, whether the decision appropriately balanced the Charter rules with statutory objectives
+- This case, the bar's decision to dismiss Dore for his insulting letter balanced the right to freedom of speech with the need to maintain civility well
+- In a later case, a Catholic high school appealed a decision by the Minister of Education refusing to exempt the school from teaching students about world religions
+- The school wanted to teach it from the Catholic perspective, but couldn't get an exemption because what they were proposing wasn't equivalent
+- Court was unanimous in finding that this decision was unreasonable
+- In this case, the SCC further explained the process for Dore analysis
+- First, you need to consider if the decision engages the Charter in the first place
+- Then, look at if the decision showed a balancing of the relevant Charter protections, meaning they were given as much effect as possible regarding the statutory mandate
+- In this case, the minister's decision went against the school's freedom of religion by requiring them to teach about their own religion neutrally

@@ -1,0 +1,34 @@
+- Accused charged with five counts of criminal harassment against Mark McBride and his wife, Donna, consisting of repeated communication and threats
+- Trial judge found that two counts were proven but acquitted on the other three, later found not criminally responsible for the other two counts and was institutionalized
+- Accused tried to appeal this decision
+- Accused initially became enamoured with Mark around 2000, he was married at the time
+- Started showing up at his work, and leaving stuff in his car and at his house
+- Also found looking in the windows of his house with a stepladder
+- Initially sentenced for criminal harassment in 2005, given two years probation
+- When the probation order expired, the accused called the McBrides and said she wanted to be a step mother to Mark's children
+- Several examples of the accused following the McBrides after this
+- Accused divorced her partner around 2006, and legally changed her last name to McBride in 2012 while working at a restaurant near the town where the couple lived
+- Bookkeeper at the restaurant took a copy of the name certificate the accused gave her to her friends, the McBride couple
+- Two weeks later, Donna called the police to tell them about the name change, police found that the accused bought a wedding dress and was looking for weeding venues
+- Searched her apartment, found a bunch of freak ass shit relating to Mark McBride
+### Appeal
+- Crown raised the issue of whether the accused was NCRMD, defence opposed the order but the Crown called in an expert doctor
+- Crown argued that the accused did not know her act was wrong under the second branch of s. 16(1)
+- Doctor stated the accused suffered from an Erotomanic Delusional Disorder
+- Accused argues this was a legal error, admits that she suffered from a mental disorder at the time, but that there was no evidence she did not know her conduct was wrong
+- Argued that the trial judge's findings for *mens rea* were incompatible with the NCRMD findings
+- Also, the judge focused too much on the belief that changing her last name wasn't wrong
+- Subjective belief that conduct is right isn't enough for NCRMD if the accused also knows the conduct is wrong on a societal level
+- Crown argues that the judge was correct, and that the accused could not have been able to rationally evaluate her own conduct based on morals
+### Analysis
+- Goal for the Crown was to prove on a balance of probabilities that the accused was incapable of knowing her acts were morally wrong at the time of the offence
+- Trial judge held that any ordinary citizen would look at the history between the parties and determine that pursuing Mark at all at this point would be wrong
+- In this decision, the judge focuses on what the accused did or did not know, but not what she had the capacity to know
+- Court in this case argues he was misleading himself here, the main issue is whether or not the mental disorder prevented the accused from knowing what was wrong
+- Committed an error of law by focusing instead on what she did or did not actually know
+- Also pretty clear this wasn't just a linguistic confusion
+- Does seem that some of the judge's findings are irreconcileable
+- During the NCRMD ruling he said that the accused was unaware of the implications of her actions, and did not know what she did was wrong
+- However, at trial he stated that the accused knew how Mark would react to the name change, and was at best wilfully blind of the consequences of her actions
+- Overall, court held that the NCRMD verdict was affected by a legal order and should be set aside
+- Appeal allowed, verdict replaced with a conditional discharge for two counts of criminal harassment by threatening conduct to be served concurrently

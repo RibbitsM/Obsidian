@@ -1,0 +1,17 @@
+- Not a real lecture, it's the demonstration moot
+- Topic for the moot is a real lawsuit between the Toronto School Board and various social media companies like Meta and Tiktok
+- Suing for harms caused by social media platforms, school board has a duty to promote the success of students, and the harmful design of these products hurts their students
+- As a result, the school board has to keep their students safe from harm
+- Corporations have created and profited from platforms creating an unhealthy dependence
+- Topic for debate here is whether the defendants were negligent in their actions
+- At this point, the school board has filed the motion and the companies are moving to strike down the claim, lower court approved
+- Issue is if there is a potential claim for negligence here
+- Do an intro to your argument before stating the facts
+- Clear signposting of the parts of your argument
+- Make sure to do your definitions immediately if the judge asks
+- Connect your detailed arguments back to your stated argument
+- Find the weakest points in your argument and prepare answers to questions about them
+- For me, it's probably the lack of intent to create legal relations
+- Remember you don't need an answer to everything, if you need to just take the L and move on
+- Talk slowly, use pauses instead of filler words
+- Whether or not you want to review the facts at the start is a matter of judgement, usually better to weave it into your argument

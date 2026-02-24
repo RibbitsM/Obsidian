@@ -1,0 +1,52 @@
+### Recap
+- When determining whether something is an analogous ground or not, we have a couple different things we can look at
+- First is mutability, is that characteristic difficult to change or inherent to the person who possesses it in some way?
+- Can also argue whether that characteristic is key to the holders personal identity in some way
+- Need to look at patterns of discrimination, is this ground often used as the basis for some form of discrimination?
+### [[R v Kapp]]
+- A potential violation of s. 15(1) can be excused under s. 15(2) if the legislation has an ameliorative purpose
+- In fact, you don't even assess the violation under s. 15(1), the question is whether or not the law has the goal of improving the condition of a disadvantaged group
+- Two steps here, first need to identify an ameliorative purpose, then you need to find if the law/program is using rational means to fulfill that purpose
+- Means you need to find a correlation between the program and the disadvantage experienced by the targeted group
+- Analyzing the actual effects of the law is not relevant, as it would eliminate some innovative programs, we should be giving the state more leeway
+- In this case, the issue was whether or not the government could give exclusive fishing rights to Aboriginal groups living along the Fraser River
+- Court never asked if this program was discriminatory or not, they went straight to the s. 15(2) analysis
+- The point of s. 15(2) is to enable the government to act, it's basically permitting the government to pass ameliorative legislation
+- Otherwise, any sort of ameliorative legislation could be challenged under s. 15(1), even though that challenge would be likely to fail
+### [[Alberta v Cunningham]]
+- In this case, the main issue was whether a rule excluding status Indians from being members of a Metis reserve advances some sort of ameliorative purpose
+- The purpose here is to prevent compromising the unique identity and the role of the Metis
+- Would allowing people who are both Metis and status Indians to be members compromise this identity in some way?
+- Court said that in some circumstances, this could create incentives to use that membership to limit Metis rights, especially when it comes to hunting
+- Creates a conflicting interest because being a status Indian would mean you already have many of these rights, don't need to pursue them as a Metis person
+- Exclusion here advances the purpose of protecting Metis identity
+### [[Quebec AG v Alliance]]
+- Issue in this case was that an ameliorative program was found to be discriminating against those it was designed to protect
+- Pay equity scheme distinguished between mixed-gender and women-only workplaces, latter had a longer delay in getting pay equity redress because of calculation issues
+- Purpose of the scheme was ensure pay equity between sexes, issue was whether this delay can be considered to be discriminatory
+- Goal of s. 15(2) is to prevent advantaged groups from challenging ameliorative programs on the grounds that it does not benefit them
+- Court found that if legislation aims to advance the interests of a group, you can't use s. 15(2) to insulate that kind of law against a claim of discrimination coming from that group
+- This is an important exception to s. 15(2) as it allows challenges for insufficient ameliorative programs
+### Summary
+- If the claimant can show a distinction on an enumerated or analogous ground either in practice or explicitly, the analysis can proceed, otherwise it stops
+	- For this step, we first need to look at [[Corbiere v Canada (Minister of Indian and Northern Affairs)|Corbiere]] to find if a ground is analogous, can also look at the three cases that have already proven analogous grounds
+		- Will need to distinguish or analogize to these cases to find immutability and importance to personal identity
+	- The main basis for this step is [[R v Sharma]], for finding a distinction overall
+	- When looking to see if the case creates an impact, we can look at cases like [[Vriend v Alberta]], [[Eldridge But Again]], and [[Fraser v Canada (AG)]]
+		- Impact on face is easy, hard one is for adverse effect discrimination
+		- Some of the impact on face cases are [[M v H]], *Ontario v G*, *R v CP*
+		- There are different versions here, not all discriminate fully explicitly
+- Then, look to see if the government action serves or advances some ameliorative goal that targets a disadvantaged group on enumerated or analogous grounds
+	- Government bears the burden here need to look at cases like *Kapp* which gives us the test, and *Cunningham* and *Alliance* which provide some variation
+		- In *Cunningham* the issue was underinclusion, in *Alliance* the issue was that the benefitted group was challenging the scheme
+- If yes, then the analysis stops as s. 15(2) applies, otherwise continue
+- Additionally, because of *Alliance* we can proceed if this is met, and the claimant is showing a distinction on the same grounds protected by the legislation
+- Finally, we can apply the s. 15(1) analysis to determine whether this discrimination reinforces, perpetuates, or exacerbates an existing disadvantage
+	- Authoritative test for this step comes from *Sharma*
+	- Three factors to consider are arbitrariness, stereotyping, and prejudice
+	- Recall that the pay equity scheme in *Alliance* allowed claimants to seek retroactive redress, and was constantly monitoring pay
+		- Later replaced with an intermittent auditing system and removed retroactive claims
+	- Court found discrimination because the system perpetuated disadvantage by removing retroactive compensation and continuous monitoring
+	- Finish this 
+- If so, the action violates s. 15(1) and we proceed to s. 1, otherwise it can be upheld
+- Responsible for *Alliance* and *Centrale* on the exam, other note cases are harder to analyze

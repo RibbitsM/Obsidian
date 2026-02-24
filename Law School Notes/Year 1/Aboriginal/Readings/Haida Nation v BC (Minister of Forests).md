@@ -1,0 +1,97 @@
+- BC has been issuing licenses to forestry companies to log on Haida Gwaii, issue in this case is Tree Farm License (TFL) 39, given to MacMillan Bloedel in 1961
+- In 1999, this license was transferred to a company called Weyerhaeuser, which was challenged by the Haida people as it was done without their consent
+- Government has legal title to the land, but the Haida are also in the process of proving Aboriginal title on that land
+- Issue is what duty the government owes to the Haida and whether they are required to consult with and accommodate the Haida regarding decisions on land they may have title to
+- Without these duties, if the Haida do establish title, there will be nothing left at that point
+- Trial judge found the gov has a moral duty to negotiate, appeal court found that the gov and Weyerhaeuser have a duty to consult and accommodate
+### Analysis
+- Can argue that we can avoid the duty question by checking if the Haida can apply for an interlocutory injunction against the gov and Weyerhaeuser
+- Need to establish that there's a serious issue to be tried, that irreparable harm will be caused without the injunction, and a balance of convenience favours an injunction
+- This would only give a partial relief, and are an all or nothing solution
+- Haida may be able to go this way, but they don't have to
+- Overall, an interlocutory injunction here wouldn't fully address Haida interests
+### Source of Duty to Consult and Accommodate
+- All of this comes originally from the honour of the Crown
+- In all its dealings with Aboriginal peoples, the Crown must act honourably in order to reconcile the pre-existence of Aboriginal societies with the sovereignty of the Crown
+- Where the Crown has discretionary control of Aboriginal interests, this honour manifests in the form of a fiduciary duty
+- However, this issue is not specific enough for the fiduciary duty to engage
+- Also applies to treaty making, Crown has to act with honour and integrity here, which extends to negotiations regarding rights guaranteed under s. 35
+- The Crown must act honourably in defining the rights guaranteed under this section, which implies the existence of a duty to consult and accommodate
+- Also considered in [[R v Sparrow]] and [[R v Nikal]], as well as [[R v Gladstone]]
+### Where the Duty Arises
+- How do we treat interests under discussion like the Haida claim here?
+- Is the Crown allowed to use its asserted sovereignty to use the resources contested by an Aboriginal claim as it wishes?
+- Honour of the Crown prevents this, it cannot run roughshod over Aboriginal interests where claims to those interests are in the process of negotiation
+- Can still manage that resource, but must consult and accommodate Aboriginal interests in the meantime instead of unilaterally exploiting that resource
+- Crown argues there is no duty until the right is determined
+- Pointed to *Sparrow* as an example where the duty only arose after a right was determined
+- Also argues that it will make things much more difficult, and it is unclear what degree of consultation is actually needed
+- Claims here don't seem to hold up
+- Duty to consult is party of the process of reconciliation which does not start and end with the formal recognition of a claim
+- Reconciliation is an ongoing process, not an event, giving Aboriginal claimants barren land does nothing for reconciliation, nor is it honourable
+- However, there is substantial difficulty in figuring out where exactly the duty arises if the Crown doesn't know the right exists yet
+- Claimants should try to clarify their claims, and focus specifically on the scope and nature of the rights they want to assert
+- While it may be more difficult in other cases, here the Haida have been very clear about what land they are claiming
+- Knowledge of a credible but unproven claim will trigger a duty to consult, a weaker claim may only come with a duty of notice
+- Courts are more than capable of assessing the strength of claims
+- Establishing this duty is not easy, but is essential to the reconciliation process
+### Scope and Content of the Duty
+- Exact content will vary from case to case, and will be defined as the case law develops, but for now it seems clear that the scope of the duty is related to the strength of the claim
+- This is pretty close to what the court said about the duty for established claims in *Delgamuukw*
+- In all cases, the Crown must act in good faith to give meaningful consultation
+- Required on both sides as well, sharp dealing will not be permitted meaning Aboriginal claimants can't make unreasonable requests or deny good faith attempts
+- On the weak end, the duty will be merely to give notice, disclose information, and discuss any issues raised in response
+- Where a strong *prima facie* claim has been made, a deep consultation process with the goal of creating an interim solution may be required
+- Can take the form of a dispute resolution process or a joint decision-making process
+- Everything else lies in between these extremes and will be approached individually
+- May also require the Crown to make changes to their proposed actions based on information that they get through consultation, that's what New Zealand has to do with the Maori
+- If this process suggests that Crown policy must be amended, accommodation kicks in
+- Addressing Indigenous concerns may require ways to avoid irreparable harm to the claim or to minimize the extent of the current infringement
+- Does not give Aboriginal groups a veto over what can be done with the land, unless the right has already been established
+- This is how accommodation worked in *Sparrow*, and several other outcomes have reflected similar principles of balance and compromise
+- Government can also set up regulatory schemes to facilitate this process
+### Duty and Third Parties
+- Court disagrees with the finding that Weyerhaeuser also owes the Haida a duty to consult and accommodate
+- Would come from the ability of a third party to rely on justification as a defence against infringement, but the duty comes from the honour of the Crown and sovereignty
+- Not really any room for third parties in that rationale
+- Ultimate legal responsibility for consultation and accommodation rests with the Crown, and the honour of the Crown cannot be delegated
+- Appeal court also suggested that some trust law doctrine applies here
+- However, the duty to consult is distinct from the fiduciary duty owed by the Crown, this duty does not apply to all relations between the Crown and Aboriginal peoples
+- It's not a true trust in the legal sense, it just mimics one
+- Final argument was that third parties should have a duty to provide an effective remedy, but remedies do not dictate liability, it's the other way around
+- Also, it seems like this wouldn't even be necessary, the government has the power over resource distribution necessary to give an effective remedy here anyway
+- Overall, third parties do not have a duty to consult or accommodate but can still be liable to Aboriginal peoples if they act negligently or breach contracts with them
+### Duty of the Province
+- BC argues that the duty to consult only applies to the federal government, based on s. 109 of the Constitution that gives provinces exclusive ownership of their land
+- Means that the province has exclusive right to the land at issue which cannot be limited by Aboriginal rights under s. 35
+- However, s. 109 also specifies that this interest is subject to any interest other than that of the province in the same
+- Duty to consult predates Confederation because it originates from the assertion of Crown sovereignty, province right is subject to that duty
+### Administrative Review
+- Theoretically, if the government fails to discharge its duty to consult then the courts would be able to review that decision
+- Unclear what the standard of review it would be
+- Since the duty to consult itself is a legal issue, would probably be correctness because it's a question of law
+- However, assessment of the facts would also be required, so will probably need to defer to the findings of fact from the initial adjudicator
+- If there is no error on the legal issues, standard of review of reasonableness, and the same goes for issues of mixed fact and law
+- Whole process would be examined on a standard of reasonableness to determine if the scheme or action accommodated the collective aboriginal right in question
+- As long as the government made reasonable efforts to inform and consult with the aboriginal community, they met their duty
+### Application
+- First question to ask is if the province had real or constructive knowledge of the potential existence of an Aboriginal right or title, and contemplated conduct that would affect that
+- Answer is definitely yes, the Haida have been claiming Haida Gwaii for at least a century and have been consistently complaining for years about logging in the area
+- Additionally, they specifically objected to the replacement of TFL 39 when it initially happened
+- Province definitely knew that there was a potential Aboriginal right and title over Block 6 which would be affected by its actions there
+- Because of this, the honour of the Crown required them to consult before making a decision
+- Second question is the scope of the duty, which we know is proportionate to the strength of the claim to title and seriousness of the violation
+- Haida have a crazy amount of evidence proving their right to Haida Gwaii
+- They've lived there continuously since at least 1774, were never conquered, never surrendered their rights by treaty, and those rights have not been extinguished by law
+- Means there is a reasonable chance they can establish to at least part of Haida Gwaii, including Block 6, and a strong chance they have a right to harvest cedar from Block 6
+- Haida claims overall have a strong *prima facie* case, especially when it comes to their right to harvest red cedar, which they have been doing for centuries in the region
+- Because of this right, they could pretty easily prove that logging Block 6 would be an infringement of their right to harvest cedar
+- Another issue is when the duty actually arises, it could come when the TFL was granted, or when cutting permits were given as the TFL itself doesn't authorize cutting
+- Province argues they have been consulting on cutting decisions
+- Overall, the province has the duty to at least consult on TFL decisions, as they reflect a choice to make a strategic plan to use a resource
+- These decisions can definitely impact Aboriginal rights and title, so the duty should engage
+- Facts don't tell us whether consultation would lead to accommodation, but based on the strength of the claims and impact of decisions, it would probably be required
+- Final question is if the Crown fulfilled its duty here
+- Pretty evidence that the government did not consult when replacing TFL 39
+- May have consulted in other aspects, but the setting of the license in the first place without input means there was no meaningful consultation overall
+- Crown appeal dismissed, Weyerhaeuser's appeal allowed

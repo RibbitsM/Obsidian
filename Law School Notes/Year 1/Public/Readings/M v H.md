@@ -1,0 +1,27 @@
+- Leading cases on s. 15(1) state that discrimination can be done by impact, but most successful claims have discrimination on the face of the policy in question
+- Former is called adverse effects discrimination, latter is direct discrimination
+- The two women in this case, M and H, lived together in a same sex relationship from 1982 to 1992
+- H made more money, and owned the house they lived in, both started an advertising business together where M mainly did domestic tasks and H handled the business
+- After the business failed, only H could find a new job and M sued H claiming support under part 3 of the *Family Law Act* (FLA)
+- Section 29 of the FLA defines spouses, which includes heterosexual couples who have lived together for three years or more
+- M argued this was unconstitutional, and should be read in to be gender neutral
+- Trial judge accepted this argument, but H and the AG for Ontario appealed
+- Appeal court upheld the decision and suspended to order to allow for an amendment to the FLA, appealed to the SCC by the AG
+- SCC applied the *Law* test, this part is about the first question of that test
+- Issue is if the law discriminated and exacerbated existing inequalities
+### Analysis
+- Court held that the law drew a distinction between unmarried same sex and opposite sex couples living together by only giving the opposite sex couples rights
+- Not granting full marital status, only common law status
+- Basically, they qualify as "spouses" in the FLA, which mainly allows people financially dependent on their non-married partner to get financial relief after a breakup
+- Mainly designed to lessen the weight on the welfare system
+- Definition under s. 29 requires a relationship between a man and a woman that has a specific degree of permanence, and must be conjugal
+- No reason why gay and lesbian couples can't meet the conjugal and time requirements, only distinction here is same-sex vs opposite-sex couples
+- Seems pretty clear that this is a formal distinction based on personal characteristics
+- Couples whose relationships are identical besides the gender of the individuals would be allowed or denied access to benefits on that basis
+- Access is denied solely on the basis of sexual orientation
+- This is an analogous ground, court was split on if it's justified
+- Majority held that this violated the purpose of s. 15 because it denied benefits to an already vulnerable population
+- Basically signals that same-sex relationships are less deserving of legal protections
+- Ordered that it should be severed and declared of no force and effect after 6 months
+- Only dissent argued that it was not discriminatory because it didn't perpetuate a view that same-sex relationships are less valuable
+- 

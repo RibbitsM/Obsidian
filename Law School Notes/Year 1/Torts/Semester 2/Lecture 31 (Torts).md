@@ -1,0 +1,58 @@
+### Practice Question 9B
+- We know that the issue is duty of care, it's the only thing we've learned
+- Therefore, the question is whether or not the brothers organizing the bouncy castle owe a duty of care to the children using it
+- First thing to do is to check if this is a novel duty of care
+- This is probably debatable, it has some similarities to [[Donoghue v Stevenson]], but this is a commercial actor providing a service, not a consumable product
+- That's the only case we've studied so far that is at least reasonably proximate to the facts here
+- Assume that we need to establish a novel duty of care using the [[Lecture 27 (Torts)|Anns-Cooper]] test
+- First step is determining proximity and reasonable foreseeability
+- Should be fairly easy to determine proximity, the children were indirect customers of Ted and Bob
+- Whether or not the harm here was reasonably foreseeable likely depends on why the castle collapsed, and whether it has done this before
+- However, we can probably argue that this is a foreseeable risk of operating a bouncy castle, things like this occasionally happen
+- Next step is looking at the relationship between the plaintiff and the defendant for reasons why liability should not be imposed
+- Honestly I'm not sure what the brothers could argue here, it seems pretty appropriate that the organizers of children's recreation activities should owe a duty of care to the children that participate
+- This is very common for pretty much any activity involving children, especially where parent supervision is not involved like in daycares or summer camps
+- However, the parents were right outside the bouncy castle, so the brothers may argue that this means they shouldn't owe a duty of care
+- Brothers are still responsible for maintaining and operating the castle, so that seems to be a pretty strong reason
+- Plus, society has a firmly vested interest in protecting the well-being of children
+- Overall there seems to be sufficient evidence here to establish a *prima facie* duty of care using the *Anns* test
+- Imposing a duty here is likely just and fair, the brothers were inviting a vulnerable population to use their product, and they should be held responsible for failures to maintain that product
+- Assuming this wasn't a freak accident caused by some completely unforeseeable failure of the castle, seems appropriate
+- Brothers could also argue that maybe there was some contributory negligence where kids didn't take their shoes off and somehow punctured the castle, but there's no evidence indicating this
+- Moving on to stage two, now we have to take into account any policy considerations that may negate the duty of care
+- Need to consider the impact on other legal obligations, the legal system, and other aspects of society
+- Again, I can't think of any sufficiently compelling reasons to not impose a duty of care here
+- The protection of children seems like an important enough goal, and I don't think it would be overbroad to impose liability on the brothers
+- Again, imposing a duty of care for providers of children's recreation activities is already fairly common
+- Could argue that this would negatively impact local communities by discouraging people from offering similar activities
+- However, this is a pretty minor downside, and not likely to happen
+- If we think about similar activities like going to a play place or a trampoline park, those places usually provide a liability waiver
+- If the providers of things like bouncy castles truly were worried about this, they could just use a waiver
+### Answer
+- Supposed to look at [[Childs v Desormeaux]] for nonfeasance, as well as [[Williams v Richards]]
+- *Stevenson* also seems to be important though
+- Also, the side issue here isn't contributory negligence because that's a first semester thing, now it's a *novus actus interveniens*
+- In this case, that would be the parents charging into the castle
+- This is a causation issue, we're focusing on duty of care here
+- For question 3 here, you would also have to look at [[Just v British Columbia]] and [[Nelson (City) v Marchi]]
+- This would make it a negligence by public body issue
+- In 3(b) we have to go back to the differences between contractors and employees, but ignoring vicarious liability
+- Also a nonfeasance issue because the Johnsons stood by while the castle collapsed
+- Looking at what the question asks, we are supposed to advise the couple of their chances of success
+- This means we are supposed to look at the arguments brought from both sides
+- We know the brothers aren't challenging the causation here
+- Likely, they will be denying that they had no duty of care, based on an argument related to [[Lecture 28 (Torts)|nonfeasance]]
+- Here's all the relevant cases for the first two cases:
+	- *Stevenson*, *Childs*, *Williams*, [[Hummel v Jantzi]], maybe [[Union Pacific v Cappier]]
+- Need to look at the cases where positive duty of care arose in *Childs*
+	- One of these is where the defendant invited others into an obvious risk that they created
+- Only problem with this analysis is that you then have to go the extra mile to establish that a bouncy castle has an obvious and inherent risk
+- The brothers were materially implicated in creating the risk, or had control over the risk to which others were invited into
+- Therefore, the relationship between the plaintiff and the defendant creates a special link of proximity which would give rise to foreseeability
+- Should have been able to foresee that harm would occur if they did not exercise due care
+- Overall, this case seems to fall within a defined duty of care, but still need to see if it's just and fair to impose liability here
+- For the second step, it's so open ended that pretty much anything you say is ok as long as it's reasonably related to the case
+### Practice Question 9
+- This is a case about harm to the unborn, so we have to look at [[Dobson (Litigation Guardian Of) v Dobson]], [[Paxton v Ramji]], and [[Lecture 28 (Torts)#Liebig v Guelph General Hospital|Liebig v Guelph General Hospital]]
+- Issue is whether or not the hospital owes a duty to the plaintiff as they were still a fetus when the alleged harm occurred
+- 

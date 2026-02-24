@@ -1,0 +1,53 @@
+- Issue for this class is conditions precedent and subsequent, also called promissory conditions
+- For example, a building contract has a promise to build a house according to certain specification, and a promise to pay a price for the house
+- However, may also have a clause where the building of the house is a necessary condition for the requirement to pay for the house to be enforceable
+- Function of this is to determine the order in which the contract is enforced
+- Keep in mind that the word "condition" here is different from how we use it in repudiatory breach analysis, it literally means a condition to be met
+- In this example, the condition to build the house before payment is enforceable is called a "promissory condition"
+- However, can imagine a different requirement, like the performance of the entire contract is conditional on some third-party action like the issuing of a building permit
+- Where a condition is based on something outside the contract, it's a non-promissory condition
+- Neither party can promise that the city will issue the permit, so it's non-promissory
+- In the first example, one party is promising to pay as long as the house is built
+- Can further subdivide these into conditions precedent and conditions subsequent
+- A condition precedent is a state of affairs that has to exist before a promise becomes enforceable, both of the previous examples are CPs
+- This is what we mainly focus on throughout this topic, specifically non-promissory CPs
+- The requirement of a building permit is a classic example of one of these terms
+- Three main issues here:
+	- Where non-fulfillment of the term may lead to the conclusion the contract never existed
+	- Where courts imply promissory obligations for one or both parties to cooperate to fulfill a non-promissory CP
+	- Where one party can waive the fulfillment of a CP and enforce the contract
+### Prevents Formation of Contract
+- Some examples where non-fulfillment of a condition can prevent the existence of an agreement
+- One case is where the condition gives one party unilateral discretion to withdraw from the deal
+- In this case, there is no agreement until that condition is fulfilled and the right to withdraw is gone
+- Case for this is *Black Gavin & Co v Cheung* where a purchase of a hotel was contingent on the purchaser's approval of the property was found to be not binding
+- Bare offer to sell where the seller could withdraw before the purchaser approved
+- Basically no acceptance, so it wasn't a real contract until the approval was made
+- Non-fulfillment of a CP can also prevent the existence of an agreement if the condition is so vague that the agreement fails for uncertainty
+- Courts often try to look at the context and reasonable expectations of the parties to avoid this kind of uncertainty
+- Usually done by implying a [[Lecture 7 (Contracts)#Best Efforts|best efforts]] clause into the transaction
+- Commonality in all these cases is that a contract only manifests once the condition is fulfilled
+### Implied Obligations
+- Where an agreement is subject to a non-promissory CP like in our building permit example, courts can imply obligations on either party to cooperate to make that condition happen
+- Classic case for this is an SCC case called *Dynamic Transport v OK Detailing*
+- A land transaction had a condition that the land would be subdivided, purchaser tried to get specific performance but the seller argued they didn't have subdivision approval
+- Reason for this was because the vendor never applied for subdivision
+- Argued that because subdivision never happened it wasn't enforceable, and the contract never specified who had to apply for the subdivision
+- In court, the SCC implied a promise from each party to do everything necessary to make sure that the condition was fulfilled
+- By looking at the planning legislation, the person proposing to subdivide the property has the burden of actually applying for the subdivision
+- In this case that was the vendor who initially proposed it, so they had an implied duty to apply
+- Courts can also imply promises that impose an obligation to refrain from conduct that would interfere with the fulfillment of a non-promissory CP
+- Means that these promises can be both negative and positive
+- Also ties into the previous issue because this technique helps avoid the conclusion that no agreement exists because a condition wasn't fulfilled
+### Waiver of Conditions
+- Usually, the party who benefits from a condition can waive the non-performance of that condition so the contract can proceed
+- Requires a determination of whether a CP is a "true CP" or not
+- Landmark case for this is *Turney v Zhika* where a land sale contract had a condition requiring the property to be annexed to a village and approved for subdivision
+- When approval never happened, the purchaser decided to waive the condition as it was only for his benefit, and sued for specific performance
+- SCC rejected this claim, as there was no right to be waived
+- Contract depended entirely on the will of a third party, meaning it was a true condition precedent, which is an external condition required for obligation
+- Without that promise being fulfilled, the contract cannot be breached
+- This is still law today, a condition cannot be waived if it is fully in the hands of a third party, even if the fulfillment of that condition only benefits one party
+- Rationale is that neither party has promised to enforce the contract yet, the existence of the contract is dependent on the decision of the third party
+- Case also raises the issue of what a "false" condition precedent would be
+- 

@@ -66,3 +66,46 @@
 - If the interest is contingent, then the residue of the estate would be intestate, meaning his property would be distributed based on the current statute
 - Court looked to some rules of construction for wills, most important is that they should be interpreted based on the intention of the testator
 - Second presumption is that whenever possible, the court should choose an interpretation that avoid intestacy, so you want to try and follow the will as much as possible
+- If the interest here was contingent, McKeen would be intestate as there would be nowhere for the money to go, and it would be distributed by statute
+- Question is how we should interpret this, we have five rules of construction
+	- Testator's intention is paramount, this is the main framework for wills
+		- Sometimes intention is not obvious, but we should try anyways
+	- Presumption against intestacy
+		- If it's not clear, favour the meaning that avoids intestacy
+	- Construction in favour of vesting
+		- Also, favour the interpretation that grants vested rather than conditional interests if it's unclear whether an interest is conditional or not
+		- Where a potential condition includes the words "when", "at", or "upon", then the presumption is that it's a condition
+			- The word "if" is weaker and doesn't create this presumption???
+		- But if the words are not clearly contingent, presumption is that it's vested
+	- Rule in *Browne v Moody*, presumes that a gift is *prima facie* vested if it's being postponed to allow for a life estate
+	- Rule in *Re Francis*
+		- Not explicitly stated, but if the requirement is personal to the recipient (say they have to reach a certain age), then it's contingent
+- In this case, all of these presumptions with the exception of the rule in *Re Francis* seem to lead towards deciding the will gives the estate to the estates of the two sisters
+### Practice
+- To A and B for the life of C, and then to B in fee simple
+	- A and B have an interest vested and in possession
+	- B has a vested interest in the fee simple
+	- If B dies before C, then C holds the interest in trust for B until C dies, upon which the property goes to B's estate in fee simple
+- To A and B for their lives, and then to the survivor of them in fee simple
+	- A and B both have life estates vested and in possession
+	- While both are alive, they have a life estate together
+	- While the life estate exists, each has a contingent remainder interest in fee simple
+	- Survivor gets the interest in fee simple, vested and in possession
+- To A for life and then to C in fee simple if C marries D
+	- A has a life estate vested and in possession
+	- C has the remainder interest in fee simple, which is contingent on them marrying D
+	- If C marries D before A dies, then it becomes a vested interest not in possession
+- To A for life and then to B in fee simple if, and only if, B attains the age of 19 years
+	- A has a life estate vested and in possession
+	- B has a remainder interest and fee simple contingent on turning 19
+	- If B turns 19 before A dies, then they have a vested interest in remainder, not in possession
+- In either of the latter two cases, if the life estate expires before the contingent requirement is met, then the land is held in trust by the transferor's estate
+### Defeasible or Determinable
+- If you have a vested interest, it can be defeasible if there is a condition subsequent, meaning a condition that determines where the interest ends
+- For example, might have to take care of your mother to keep the interest
+- A determinable interest comes to the end based on a determining event
+- Same as before, but there's a specific event happening that ends the interest
+- For both of these, if the condition is met than the transferor gets the interest back
+- For a defeasible interest, this is called the "right of re-entry", for a determinable interest this is called the "possibility of reverter"
+- The right of re-entry is actually a contingent interest or condition precedent because it's required to initiate the interest
+- We don't have to know about this for the exam

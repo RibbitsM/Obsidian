@@ -64,7 +64,7 @@
 - Judges will be keeping time, if you run out of time then it's usually ok
 - Can always just conclude by saying I rely on the answers in my factum
 - Sometimes this happens because the judges are asking lots of questions, that's good
-- If they're not asking questions, then you might run out of time
+- If they're not asking questions, then you might have extra time
 - If this happens, make sure you've covered all of your key points before you sit down
 - Might be an error in your factum, but it's probably not going to be major
 - Once you get to that point, mention it to the court and correct it

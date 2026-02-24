@@ -1,0 +1,69 @@
+- Case involves an adverse effects discrimination claim, and is the first successful claim of its kind since [[Vriend v Alberta]] and [[Application#Eldridge v British Columbia (AG)|Eldridge]], both of which were almost 30 years ago at the time
+- Claimants were retired RCMP officers who enrolled in an RCMP job-sharing program after maternity leave as they could no longer work full-time
+- RCMP members who went on leave without pay could pay a contribution to the pension fund when returning to work to "buy back" their pension benefits
+- However, people who weren't working full-time like job-sharers were not allowed to do this, meaning they permanently reduced their pension benefits
+- Pretty much the only people this applied to were women with children who had to go on maternity leave and then could not return to full-time work
+- Sued arguing the scheme disproportionately affected women who had to care for their children
+- Claim rejected at Federal Court and on appeal mainly because the women had to make an intentional choice to enter the job-sharing program
+### Analysis
+- To prove a *prima facie* violation of s. 15(1), the claimant has to prove that the law/action in question distinguished on enumerated or analogous grounds and imposed burdens or denies benefits in a way that reinforces disadvantages
+- Appellants aren't arguing that the pension policy is explicitly based on sex, but rather that the policy disproportionately affects women with children
+- This is an example of something called adverse impact discrimination which is where a neutral law disproportionately affects a protected group
+- Instead of singling out members of thar group, the law disadvantages them
+- Important part of the substantive equality movement, moves away from the previous focus on more explicit forms of discrimination
+- Much more prevalent form of discrimination and arguably much more insidious
+- By addressing issues like this, the courts can strike at the core of the equality mission
+- The SCC has previously recognized adverse impact discrimination cases in *Eldridge* and *Vriend*, and substantive equality has always been the goal of s. 15
+- Also shown through how the test works, we are more concerned with how policies work in practice compared to how they're intended to function
+- Proving this is usually done with two kinds of evidence, either proof of the situation the claimant group is in or evidence regarding the results of the law
+- Goal of the first kind of evidence is to provide context for the claimant group's situation, specifically to show that being in that group is associated with disadvantages
+- When it comes to this kind of evidence, the court should be accepting of testimony from the claimant or other members of their group, expert advice not required
+- As for the second kind of evidence, statistics on the outcomes of the policy in practice is preferred, especially to show disproportionate effect
+- No clear measure for what level of disparity is required here
+- Both kinds of evidence are not always required based on the context
+- Proof of discriminatory intent is not required to establish a claim, and ameliorative legislation is not immune to claims under s. 15
+- As long as the claimants prove there is a disproportionate effect, they don't have to prove that this impact is due to some protected characteristic they share
+- Also do not need to prove whether the law itself is the main reason for this disadvantage
+- Finally, claimants do not need prove that the factors used in the law affect all members of the protected group in the same way
+### Proving Disadvantage
+- For the second step of the test, there is no defined range for the kind of harm caused to the affected group, can range from psychological to political harms
+- Overall goal is to keep s. 15(1) focused on the protection of groups that have experienced disadvantages based on their group characteristics
+- Don't need to prove there is any sort of social prejudice or stereotype affecting a group to qualify under s. 15(1)
+- Can be used as evidence, but is not an element of the test
+- Also important to note that the presence of a legitimate state objective does not negate a claim under s. 15(1)
+- Claimants do not have to prove that a distinction is arbitrary, government has to prove it's not arbitrary when justifying the law under s. 1
+- First part of the test is mainly about proving the law is imposing differential treatment based on protected grounds, no matter how that happens
+- Second stage is about seeing if that law then exacerbates disadvantages
+### Application
+- Lower courts misinterpreted the s. 15 jurisprudence, the SCC has previously held that differential treatment is still discriminatory if it's based on choices
+- Often, these choices are shaped by systemic inequality
+- In this case, for many women the decision to work part time usually a choice beyond their effective control due to systemic factors
+- Evidence shows that RCMP members in the job-sharing program are mostly women with young children who couldn't get childcare
+- Generally speaking, most part time workers in Canada are women, because child care responsibilities fall on them disproportionately
+- Court found that there was no doubt over whether that this adverse impact reinforces existing disadvantages
+- Can find similar issues in many other pension plans which are generally designed for middle and upper income full time male employees with long service records
+- Also argues that the Attorney General has been unable to identify any pressing and substantial policy concern to justify not giving job-sharers full pension credit
+- The remedy should be some way for these women to regain their pension credits
+### Dissenting Opinion(s)
+- Used a different test for s. 15(1) that had an extra factor in the second step of the test
+- This requires the impugned law to fail to respond to the actual capacities and needs of the group in question
+- Disagreed on step 2 of the test as they felt that the distinction was based only on the hours worked, not on sex
+- Only real distinction was employment status, which isn't an analogous ground
+- Pointed out that overall, the pension scheme accommodates the various stages of an RCMP member's career, meeting different needs at different times
+- Seeks to ameliorate the pre-existing disadvantages faced by women by allowing alternate employment options to allow for child care
+- Argue the real issue is if the Court can strike down part of a statutory scheme for not being remedial enough
+- Point out that the cause of the disadvantages here is entirely due to the unequal distribution of domestic work which is outside the purview of the courts
+- As long as the government intended to accommodate the protected group, that will be enough
+- Government has no positive obligation to address systemic discrimination, so ruling in favour of the appellants here would be asking the state to fix an issue it didn't cause
+- Argue that ruling otherwise would disincentivize the government from creating other ameliorative programs in the future
+### Substantive Equality
+- Argue that substantive equality is being used as a way for the court to enforce their own policy preferences as it's so open-ended
+- So far it has remained mostly undefined, meaning that parties don't know what their s. 15 rights are ahead of time, nor how they will be judged
+- Because of this lack of bounds on the concept, the court essentially gets an arbitrary power of review and can impose their own policy preferences
+- Goalposts of equality are constantly being moved in accordance with these preferences
+- Finishes by arguing that this decision will have a chilling effect on future events to ameliorate systemic disadvantages by discouraging governments from trying this again
+### Cote Dissent
+- Other dissent was way shorter, focused mainly on the argument that this law did not discriminate on the basis of sex
+- Instead, the dividing line was people who have childcare responsibilities
+- Argued that the test for discrimination needs a causal link between the distinction and a protected ground
+- Would have dismissed the claim because caregiving status isn't an analogous ground

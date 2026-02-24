@@ -1,0 +1,119 @@
+- Defendants broke into a home in Winnipeg, robbed it, and then killed the occupant of the house and later turned themselves in
+- They were 15 and 16 respectively, so the case was transferred from Youth Court to the Manitoba superior court
+- Raised the defence of insanity under s. 16 of the *Criminal Code*
+- Expert testimony at trial suggested that the defendants suffered from a paranoid psychosis leading them to believe they could rule to world and needed to kill people
+- Believed they were above the ordinary law and that they were justified in killing the victim
+- Section 16(4) of the *Code* states that until proven otherwise, everyone is presumed to be sane
+- First issue for this case is whether this provision is inconsistent with s. 11(d) of the Charter
+- If so, is this violation justified under s. 1 of the Charter
+- Other issue is what the word "wrong" means in s. 16(2), provision says that a person is insane when they are in a state of insanity rendering them incapable of understanding they were doing something wrong
+### Analysis
+- Point of the insanity provisions is an exemption from criminal liability based on the fact that they were incapable to create criminal intent
+- Can come in a couple different forms
+- May even be able to claim a denial of *actus reus* which is similar to a claim of insane automatism based on a mental illness
+- If the accused raises the argument that their mental condition prevented them from acting consciously, will likely negate the *mens rea* but could also negate the *actus reus*
+- Accused did not know what was happening and therefore did not intend to kill anyone
+- Does operate in some cases where the accused fully intended to kill the victim, but justified it on the grounds that they believed that they were committing a morally correct right
+- Usually this arises where the accused believes that the victim was evil or planning to kill them
+- Depending on the mental state of the accused, the insanity defence can be raised in different ways with different outcomes
+- Among all these variations, the commonality is an underlying claim that the accused lacks criminal intent based on their distorted mental condition
+- Basically stating that they do not fit within the normal assumptions of the criminal law
+- Overall, the defence of insanity is an exemption from criminal liability based on a lack of capacity for criminal intent
+### Section 16(2)
+- Usually manifested under s. 16 as a denial of *mens rea* or as an excuse
+- This is because of the language in s. 16, it defines insanity as being in a state of natural imbecility or mental illness to the extent they cannot see the nature of their acts
+- This is commonly called the "first branch" of the defence
+- Previously, this has been defined in *R v Abbey* as being unable to understand the impact or results of their act, not an inability to foresee the legal consequences
+- Generally speaking, a delusion under the first branch negatives the *mens rea* regarding the circumstance or consequences from the *actus reus*
+- Also possible to deny the *actus reus* through a claim of insane automatism
+- The "second branch" of s. 16(2) regards cognitive capabilities, not the understanding of consequences
+- Mainly arises where the accused is faced with a mental condition preventing them from distinguishing between right and wrong
+- This is not a denial of the *mens rea*, as it generally does not require knowledge of wrongness
+- Sane people are presumed to be able to distinguish right and wrong, so if a sane person believes murder is right, they are criminal, not mentally ill
+- Bringing a claim under the second branch challenges this presumption
+- Even if all elements of the *actus reus* and *mens rea* are established, the accused can still be acquitted if they successfully raise this defence
+- Based on the same denial of criminal capacity, but in a different form
+### Charter Argument
+- Several parties to the appeal raised the argument that s. 16(4) does not violate s. 11(d) because the defence of insanity only arises after all other elements have been proven
+- Thus, even if the accused cannot raise the defence successfully, they're not convicted because they failed to raise the defence, but because all other elements were proven
+- This case was heard along two others called *Romeo* and *Ratti* where the defence also argued that s. 16(4) violates the Charter
+- In the *Romeo* case, the Crown argued that the defence is only raised when *mens rea* is established, and the defendant has to prove they were in a diseased mental state
+- Presumption of innocence requires the accused to establish a mental disorder after the Crown proves *mens rea*
+- If they fail to convict the jury, they're convicted not because they're presumed to be sane, but because the prosecution proved the rest of the offence?????
+- SCC rejects this argument on two main grounds
+	- First, the insanity isn't always raised after *mens rea* has been established
+		- Where the defence is intended to negate the *mens rea*, it would likely have to be raised when that aspect of the case is established
+		- If the accused raises evidence of mental illness, trial judge has to charge the jury on s. 16
+		- Trier of fact has to reject the defence to consider evidence of the mental condition as it relates to the *mens rea*
+		- Not true that evidence of insanity can be raised to deny *mens rea* separate of the defence of insanity
+	- Second, can't say that the issue of insanity only arises after *actus reus* and *mens rea* were both proven
+		- Crown doesn't prove anything BAR until the end of the trial
+		- Therefore, if the accused claims insanity to contest a finding of *mens rea*, then that would certainly come before all elements are proven
+- Overall, if a claim of insanity is raised as a denial of *mens rea*, can't say that *mens rea* has been proven until the claim has been raised and rejected
+- Seems that the presumption of sanity violates s. 11(d)
+- If the defence is successful, then the accused will not be found guilty, therefore since insanity precludes a guilty verdict, sanity must be required for guilt
+- Sanity does not have to be proven, it's presumed to begun with and requires the accused to disprove it on a balance of probabilities
+- Because of this, it allows a conviction where a reasonable doubt remains, violating the presumption of innocence
+### Section 1 Justification
+- The main goal of s. 16(1) was to prevent insane people from being convicted to avoid stigmatizing mentally ill people as criminals
+- This was the goal cited by most of the people at the lower courts
+- Ironically, s. 16(4) goes against this goal by allowing some genuinely insane people to be punished as criminals
+- Question remains of what Parliament's objective was here
+- Seems that the goal is evidentiary, to relieve the prosecution of having to prove the sanity of the accused in order to get a conviction
+- If we had some kind of medical test to conclusively prove whether someone was insane under s. 16, this would not be an issue and s. 16(4) would not be justified
+- This further proves that the true goal is to reduce the burden on the Crown
+- Really hard to get the accused into a psychiatric examination both for legal and practical reasons
+- Also, remember that the Crown would have to prove sanity at the time of the offence, not the time of the trial
+#### Rational Connection
+- This is pretty easy to prove, assuming the objective is to avoid placing an unreasonable burden of proof onto the Crown
+- Moving that burden partially onto the accused certainly furthers this objective
+#### Minimal Impairment
+- Attorney Generals for several provinces argue that this is fulfilled because the burden is only placed after the Crown proved all other elements
+- However, we already know that this isn't true
+- There are also other arguments regarding the infrequency or weight of the burden, which are also not super persuasive
+- Real question is what else they could have done
+- Parliament isn't expected to find the absolute best method, but is there a less intrusive wat to achieve essentially the same objective?
+- Accused argues that Parliament could have imposed an evidentiary burden instead
+- Can argue that it's really easy to fake insanity, making it just an evidentiary burden would defeat the purpose of the presumption
+- It remains that a successful insanity plea is not necessarily an ideal outcome, the accused would still be institutionalized and lose most of their autonomy
+- Objective is still pressing and substantial given the weight of the burden on the Crown
+- If insanity was easier to prove, it would naturally be raised more, even though the total number of insanity pleas is still quite low
+- Lowering the burden would not achieve the same goal
+- Can also change it by requiring the accused raise reasonable doubt of sanity or submit to a psychiatric evaluation
+- Still has the problem that we need to prove insanity during the offence, not the trial
+- Impossible to know if this would actually work
+- These alternatives may also create other Charter issues
+- Overall, lacking any clear alternative, it seems that this element is met
+#### Proportionality
+- Three important interests at play here: avoiding an impossible burden, convicting the guilty, and acquitting those who are truly insane
+- Because of this compromise, some guilty people will be institutionalized, and some insane people will be convicted as criminals
+- This is pretty much inevitable no matter which of the former approaches we take, some of which may even violate the Charter in other ways
+- Overall, given the importance of these objectives, there is proportionality between the effects of the measure and the objective
+- Finally, s. 16(4) is a reasonable limit on s. 11(d) upheld under s. 1
+### Meaning of "Wrong"
+- To begin with, the SCC decides to override a previous case called *Schwartz*
+- Majority judgement failed to consider how the normal principles of criminal responsibility do not apply to an insane individual
+- Specifically, the court is overruling the definition of the word "wrong" settled on in that case
+- One factor when deciding to overrule a case is whether the judgement expands criminal responsibility beyond reasonable limits
+- This occurred because the decision of that case would expand liability to include people who for mental illness reasons understand an act is legally wrong, but not morally wrong
+- Recall that the rationale from this defence comes from the idea that insane people may lack the capacity to distinguish between right and wrong
+- Seems pretty clear based on this information that "wrong" should mean more than just legally wrong
+- It's entirely possible that someone may be aware that an act is illegal, but at the same time unaware that the act is morally wrong
+- Several examples of accused that know its legally wrong to kill but they were divinely ordered to do so anyway
+- Can argue that the real test is whether the accused knew an act was something they should not do, regardless of legal or moral motivations
+- If we do it this way, then the only people acquitted are those who are capable of knowing an act is contrary to law but incapable of know that act is condemned and that their particular act would be condemned generally as well
+- It seems that the test in s. 16(2) is directed at analyzing whether accused can understand the meanings of "right" and "wrong" which are generally moral judgements
+- Just because the accused cannot retain factual information does not mean that they cannot engage in moral reasoning
+- Knowledge of the law doesn't really imply any sort of capacity to analyze data
+- We should instead focus on requiring a full normative understanding of what a violation of a rule would mean to other people and how they would respond
+- This would not open the floodgates to amoral offenders, because the ability to make moral judgements has to be linked to a mental illness
+- Additionally, a "moral wrong" is not judged by the standard of the offender, it's based on how society will react
+- Only protected by s. 16(2) if the accused is incapable of understanding that the act is wrong according to the standards of society
+- In this case, the trial judge told the jury that the defence was not available because the accused knew that their act was against the laws of Canada
+- Overall, based on the reversal of *Schwartz* and the new meaning of "wrong", the appeal is allowed and a new trial is ordered
+### Dissenting Opinion
+- One judge dissented by arguing that the violation could not be saved under s. 1
+- This is because the Crown failed to establish that an evidentiary burden would cause a serious increase in the number of insanity claims
+- Persuasive burden on the accused was thus not the most restrictive means
+- Concurring opinion held that the burden did not violate s. 11(d) because the presumption of sanity is consistent with the presumption of innocence
+- Finally, some other judges dissented on the meaning of the word "wrong" because if the accused knew they should not do the act, you can hold them criminally responsible

@@ -1,0 +1,66 @@
+- Issue in this case is whether a scholarship trust established by Leonard before he died goes against public policy
+- Leonard created the Leonard Foundation trust to be used for educational scholarships and appointed the Canada Trust Company as the successor trustee
+- Trust document starts with a description detailing Leonard's intent to use the trust to maintain the white race and ensure that the British Empire is lead by white British Christians
+- Specifies that the trust can also only be managed by white British Christians
+- As for who the scholarships can go to, they have to be WASPs and preference is given to the children of clergymen, school teachers, military officers, graduates of the military college, engineers, and members of the mining institute of Canada in that order
+- Also specifies that when giving money to women, can only give them 1/4th of the total amount of money given that year
+- Requires that the benefits of the scholarship has to get a club to give financial assistance to other WASPs
+- Over time, multiple universities have complained about the scholarship, so have human rights groups
+- Most argue that the eligibility requirements are discriminatory and against public policy
+### Public Policy Issue
+- Trial judge ignored the intent part of the trust and mainly focused on the operative clauses, recognizing that the motives are offensive but irrelevant to interpreting the document
+- On appeal, court decided that you can't ignore these, as they are not clearly severable from the rest and contain operative words
+- Recitals don't contradict with the operative clauses, and are referenced frequently throughout the document
+- Recitals were also intended to give guidance to the committee awarding the scholarships
+- Keep in mind that according to the recitals, not all WASPs are eligible, only those whose birth and training could reasonable expect them to be leading citizens of the British Empire
+- Also excludes any people holding allegiance to any government or authority outside the Empire
+- Trust was privately created, but has clear public implications because they are used to grant scholarships for public schools
+- Foundation has been running for a long time and now has at least a semi-public character
+### Does the Trust Violate Public Policy?
+- Generally speaking, public policy is only invoked for trusts and wills in clear cases where harm to the public is clearly present
+- Trying to avoid the risk of replacing the will of the public with the will of the judge deciding the issue
+- This is clearly the kind of issue where intervention is required
+- Foundation seems to stand on two main propositions
+	- The white race is best qualified by nature to progress civilization
+	- Attainment of world peace and civilization is best promoted by educating WASPs
+- Extremely obvious that this trust is explicitly based on the notions of racism and religious superiority that go against public policy
+- Violates constitutionally guaranteed equality rights, as well as the inherently multicultural heritage of Canada
+- The fact that the Foundation has been so widely criticized is a great example of this
+- Continuing this trust would thus not be conducive to the public interest
+### Cy-pres Doctrine
+- Under this doctrine, if a charitable trust cannot be carried out as intended, the court can revise it to fulfill the settlor's intentions as closely as possible
+- This trust is clearly charitable, and would have been valid if it wasn't for public policy making it void
+- At the time the trust was made in the 1920s, public policy probably allowed this, but things have changed significantly (it's the 90s now)
+- Trust should not fail completely, the Court should apply the *cy-pres* doctrine and use its jurisdiction to make it consistent with public policy
+- Held that the court should remove the recitals, as well as the restrictions on race, religion, and sex among other things
+- Preference to children of officers and engineers still applies
+### Trust Void for Uncertainty or Public Policy
+- This is the decision of a different judge on the case
+- For a trust to be charitable, has to meet one of four requirements
+	- Relief of poverty
+	- Advancement of education
+	- Advancement of religion
+	- Advancement of other purposes beneficial to the public
+- Also has to be wholly charitable, and must promote a public benefit
+- For the public benefit requirement, that means that the trust has to be available to a decent segment of the public and not be harmful to the public
+- In this case, these tests are met
+- A condition precedent isn't void for uncertainty if you can definitely say that a beneficiary isn't or is a member of the class
+- Generally speaking, charitable trusts shouldn't fail for uncertainty
+- Except for the allegiance requirement, determining the qualifications for this trust is fairly easy
+- For the public policy issue, judge argues that at common law, there is no finding that a charitable trust can be void because it's discriminatory
+- Number of cases where racial discrimination was not found to be contrary to public policy around the 1940s
+- By the 1980s, the common law recognized a distinct tort of discrimination
+- Because of this decision and the *Human Rights Code* of Ontario, it seems clear that the promotion of equality is part of public policy in Ontario
+- Further affirmed by s. 15 of the Charter and general anti-discrimination policies in international law
+- This is clearly a charitable trust void on public policy grounds
+- Does not necessarily mean that all charitable trusts limiting the class of beneficiaries are invalid
+- There's a lot of scholarships available for groups like women or visible minorities, these should be evaluated on case by case basis
+- Usually, these trusts would be justified under s. 13 of the *Human Rights Code* or s. 15(2) of the Charter
+- For example, there's no reason why giving preference to the children of clergymen or school teachers is invalid
+- Court has to engage in a balancing process, the ability of individuals to dispose of their property as they wish is not an absolute right
+- It's already limited by law, under the *Conveyancing and Law of Property Act* s. 22, you can't restrict sale, ownership, or occupation of land on several grounds including race
+- This decision also doesn't affect private trusts or any gifts that are not charitable trusts
+- Charitable trusts are already benefitted and protected in many ways, as they are supposed to be beneficial to the public
+- Because of this public nature, they are supposed to conform to the public policy against discrimination
+- Therefore, restrictions of public policy only really apply to charitable trusts
+- Appeal allowed

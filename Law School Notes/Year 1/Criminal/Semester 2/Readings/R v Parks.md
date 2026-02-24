@@ -1,0 +1,36 @@
+- Accused attacked his parents-in-law with a kitchen knife, killing the wife and seriously injuring the husband
+- Drove 23 km to the house to do this, and immediately turned himself to the police afterwards, horrified by his actions
+- Claimed that the incidents occurred while he was sleepwalking, had a history of sleepwalking and was under a lot of stress stemming from a gambling problem and theft from his employer
+- He had an excellent relationship with his parents-in-law, especially his mother-in-law
+- Charged with first degree murder of the wife, and attempted murder of the husband
+- Trial judge put the defence of automatism to the jury, acquitted the accused on all counts, upheld by the appeal court
+### Analysis
+- Issue is whether the appeal court erred by stating that sleepwalking is non-insane automatism, granting an acquittal instead of being considered a disease of the mind
+- Previously, the court stated that sleepwalking is not a "disease of the mind" in [[R v Rabey]] as an obiter dictum
+- Need to determine whether we should proceed with this and say that sleepwalking allows for the defence of automatism
+- Couple British decisions supporting this, but also some support for the argument that sleepwalking is more akin to insanity
+- Medical evidence seems to suggest that the accused was likely sleepwalking when he committed these acts
+- Expert evidence was very consistent in holding that sleepwalking is not a product of mental illness and is a separate phenomenon
+- Also consistently stated that while sleepwalking, a person cannot think or perform any voluntary acts
+- Common phenomenon, about 2% of the adult population does it and the accused had a family history of sleepwalking
+- Most sleepwalkers do no act aggressively however, it's happened before but is quite rare
+- Can be mainly avoided by practicing good sleep hygiene, it's fairly easy
+- Crown relied on an English case called *Burgess* where the accused hit their friend on the head while asleep
+- Expert evidence in that case characterized the event as a hysterical dissociative state, but distinguished this from sleepwalking
+### Dissenting Opinion
+- Two main policy approaches for this kind of issue, the "continuing danger" and "internal cause" theories
+- First theory argues that any condition that will likely pose a recurring threat should be considered insanity
+- Second theory argues that a condition caused by the unique state of the accused should be considered insanity, as opposed to a condition caused by some outside force
+- In both cases, the main concern is whether or not the accused is likely to repeat their behaviour
+- Internal cause theory has been very popular in Canada, that's what the court used to decide *Rabey*
+- Not suggested that this should be the universal approach, after all it clashes with the expert evidence in this case
+- Cause of the sleepwalking in this case was completely internal, caused by the accused's natural susceptibility and the stresses of life
+- Former factor is internal, and latter factor has previously been rejected as a valid external factor
+- The second theory is purely practical, and while it will rarely be determinative, it's certainly relevant
+- Danger of recurrence provides a reason to consider a condition to be a disease of the mind, but a lack of recurrence doesn't necessarily mean it's not a disease of the mind
+- Pretty clear that there's a very low risk of recurrence here, but this does not mean we should grant an acquittal
+- Internal cause theory also doesn't really help us here
+- Also need to consider that faking insanity is a real concern and we don't want to open the floodgates here
+- However, this does not seem to be an issue here mainly because it's hard to fake sleepwalking and the defence has existed for a while
+- Overall no compelling policy reasons to not allow a finding of non-insane automatism in this case
+- Appeal dismissed, acquittal upheld

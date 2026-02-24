@@ -1,0 +1,17 @@
+- Have to reread this case for s. 15, same facts ofc
+- After the application issue was decided, courts also had to figure out if the failure to provide sign language interpreters infringed s. 15(1)
+- Purpose of s. 15(1) was stated as being to express a commitment to equality, as well as to show a desire to prevent discrimination against disadvantaged groups
+- Deaf persons are physically disabled, which is an enumerated group and is one of the most marginalized groups listed in s. 15(1)
+- Practically all physically disabled people face constant social and economic disadvantages
+- Deaf people specifically face substantial barriers to communication
+- No question that the distinction here is based on a personal characteristic which is irrelevant to the functional values underlying the healthcare system
+- Only issue here is if the plaintiffs were given equal benefit of the law without discrimination, no distinction is made explicitly here so it's an adverse effects case
+- This is usually the case for disabled persons, they are often left unaddressed because the drafters of laws fail to take them into consideration
+- Trial judge and Appeal court found no discrimination as this law mere fails to ensure that deaf people benefit equally from a service offered to all
+- Assumes a distinction between a state-imposed burden and a lack of a state-imposed benefit
+- Can argue that effective communication is essential to medical services, so how can deaf people benefit equally from medical services?
+- For all other people, effective communication is provided automatically, free of charge
+- Because of its necessity, interpretation should not be seen as an ancillary service
+- When considering this fact, it seems pretty clear that this is a violation of s. 15(1)
+- Court has repeatedly held that if the state intends to provide a benefit, then it is obliged to do that in a non-discriminatory manner
+- Court also found this violation was not justified under s. 1, gave the government 6 months to ensure that sign language interpreters are provided

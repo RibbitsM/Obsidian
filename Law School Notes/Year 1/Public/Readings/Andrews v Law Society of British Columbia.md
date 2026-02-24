@@ -1,0 +1,52 @@
+- Section 15 of the Charter didn't come into force until three years after the rest of the Charter did, mainly so the government could make sure new laws matched it
+- This section deals with equality, which is often called the most difficult part of the Charter
+- Main problem is with the difference between formal equality, or treating all people the same, and substantive equality, which is closer to equity
+- SCC court claims that the appropriate meaning is substantive equality, but this still seems to be unconfirmed and contested
+- The original *Bill of Rights* was influenced much more by ideas of formal equality
+- Most of the equality-seeking challenges under the Bill were rejected
+- These groups wanted the Charter to go beyond viewing all people as equal before the law, and put out real anti-discrimination provisions
+- Led to a couple major changes, first ensuring equal benefit from the law and later making the list of protected grounds open ended and including many more explicitly
+- Additionally, the name was changed to equality rights from non-discrimination rights
+- Another unusual part of s. 15 is that it applies to "every individual", meaning it extends to non-citizens of Canada, but not to corporations and other legal persons
+- Section 28 is also somewhat of an equality provision, ensuring the benefit of the Charter is shared equally between genders
+- Most important equality right overall is definitely s. 15(1)
+- Additionally, s. 15(2) specifies that s. 15(1) also applies to legislation intended to benefit marginalized groups
+## Andrews v Law Society of British Columbia
+- Andrews was a British subject living in Canada who brought a claim arguing that requiring Canadian citizenship to join the BC Law Society was a violation of s. 15
+- Issue for this case is whether the citizenship requirement to join the legal profession in the BC *Barristers and Solicitors Act* goes against s. 15(1) of the Charter
+- Charter guarantees equality before and under the law, this is not a general guarantee and is mainly concerned with the application of the law
+- In this case, the issue is with a statute, so that aspect seems to apply
+- Equality is a comparative concept which can only be imagined in comparison to an inequal condition
+- Not every difference in treatment is inequality, and in some cases identical treatment can create inequality
+- Goal is to try and ensure that each person has equal benefits and protections and no more restrictions that are imposed on any other person
+- However, applying this in a straightforward way may have unintended consequences
+- Recall how in *Bliss v AG of Canada*, a pregnant woman couldn't argue inequality after being disqualified for unemployment benefits because she was pregnant
+- This was because the offending act treated all pregnant people equally
+- True equality means the accommodation of differences, so it may be necessary to make distinctions between treatments at law
+### Discrimination
+- Right to equality is granted on the condition that it is given without discrimination
+- Defining this term is way easier that equality, we can draw on the wealth of human rights cases dealing with discrimination prior to the Charter
+- Described in one case as where an employer sets a rule that imposes on one employee or group of employees additional obligations or penalties based on some special characteristic of the employee(s)
+- Discrimination does not have to be intentional as well
+- Systemic discrimination can be described as practices or attitudes that have the effect of limiting individual or group rights to ordinarily available opportunities based on their attributed characteristics
+- Also does not have to be intentional, and has to be based on the personal characteristics of an individual or group and impose burdens not imposed on others
+- These are descriptions of only the most common kinds of discrimination, and should not be limited to these definitions
+### Section 1
+- Generally, section one is kept separate from the rest of the Charter when analyzing it
+- First thing you always ask is whether a right has been infringed, and then see if that infringement is justified under s. 1
+- In these cases, the first part is on the plaintiff and the second is on the state
+#### Approaches
+- Three main approaches to interpreting the relationship between s. 15 and s. 1
+- First is to say that any distinction is a breach of s. 15 that needs to be justified under s. 1
+	- This is obviously pretty dumb, and ignores the concept of discrimination
+- Second is to consider the reasonableness of any distinction drawn by the law under s. 15(1)
+	- Issue here is that it takes too much away from s. 1
+- Third approach was the one favoured here, which focuses on the idea that discrimination is usually expressed by the specific kinds of discrimination mentioned in s. 15(1), also called the enumerated grounds
+- Focuses on these grounds and anything that can be considered analogous to them
+- Not enough to just see if the alleged grounds of discrimination match up with the Charter, also need to look at the effect on the complainant
+- Complainant has to not only show that they are not receiving equal treatment, but also that the law has a differential impact on them when it comes to a protection of benefit
+- Finally, must show that the legislative impact of a law is discriminatory
+- If this can be shown, then there is a breach of s. 15(1) and any justification stuff can happen now
+- Lets us both screen out trivial claims while also allowing a role for s. 1
+### Application
+- In this case, the distinction between citizens and non-citizens imposed a burden by delaying admission to the bar, and is thus discriminatory

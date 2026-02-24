@@ -60,4 +60,26 @@
 - Doctrine of priority requires the govt to consider the existence of aboriginal rights when allocating whatever resource that is in issue
 - We can't assume that this grants an exclusive right, so the best option is to assess whether the govt is minimally impairing the right on a case by case basis
 - Standard for minimal impairment can be drawn from constitutional law from things like the *Oakes* test and the reasonability standard for judicial review
-- 
+- Can also consider if the government encouraged the aboriginal right to fish by doing things like reducing license fees
+- What's the percentage of aboriginal rights holders in the fishery compared to the general population?
+- Another thing to consider is that the government also has to consider how to allocate fish between different groups holding aboriginal rights
+- Does the right to food trump the right to sell?
+- Because other groups holding aboriginal rights have the same priority, we can't give one group exclusive access
+- Would also mean that the common law right to fish would be extinguished which likely isn't intended
+- Other significant difference is that conservation is not the only concern here
+- Once the total level of the herring catch is set, the way that catch is allocated makes no difference for conservation
+- There's no clear evidence of what other objectives the government might have here outside of conservation, but we can infer some
+- *Van der Peet* recognized the goals of s. 35(1) as recognizing the indigeneity inherent to aboriginal rights
+- Aboriginal rights are an important part of reconciliation, but putting limitations on those rights are also important
+- Conservation is a great example of this
+- Outside of conservation, the likely other goals are economic and regional fairness and historical reliance on and participation in the fishery by non-Indigenous groups
+- Evidence presented at trial is insufficient for the court to determine whether the regulatory scheme was justified
+- There was evidence regarding how the licences were distributed, but not justification regarding why
+- Also no evidence of how much aboriginal participation there is in the herring roe fishery or any existing rights
+- Gets even worse when it comes to the priority analysis, especially when it comes to allocation decisions between bands
+- Lower courts usually dealt with this by saying that the actions of the appellants actions justified the actions, or that the current allocation was justifiable since it's mostly held by aboriginal people
+- First approach is just incorrect and irrelevant, and the second approach does not on its own show that the current allocation considers aboriginal rights
+- New trial might not solve all these problems, but it will definitely provide better information on the subject
+- Evidence does suggest that the current total allowance of the fishing stock is justified, but the rest is uncertain
+- Also, the connection between the DFO and the Native Brotherhood shows some amount of consultation is present
+- Overall, new trial is needed

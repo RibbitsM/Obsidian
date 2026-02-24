@@ -1,0 +1,10 @@
+- Case dealt with restrictions on advertising aimed at children
+- Part we're reading only deals with the issue of legislative deference
+- Legislature often has to deal with competing claims between different groups, inevitably has to make a choice where some claims end and others begin
+- If they drew this line reasonably, especially in cases where resource distribution and scientific evidence are in the picture, court can't contest that decision
+- Legislature will never be absolutely certain this decision is the right one
+- Courts are allowed to review the results of these decisions, especially when they end up impacting vulnerable groups
+- However, they should be mindful that the legislature is a representation of the democratic will
+- Generally speaking, the legislature's area of expertise is in assessing the needs of the people, assessing conflicting scientific evidence, and balancing demands for resources
+- Court's area of expertise is where the government is the main antagonist of an individual, for example in a criminal context
+- Recognizing this, the court should extend the legislature a degree of deference when dealing with issues in it's area of expertise

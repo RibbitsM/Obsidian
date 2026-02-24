@@ -1,0 +1,22 @@
+- Issue here was whether the Quebec Bar was correct in reprimanding Dore for a letter he wrote to a judge after a court proceeding
+- Dore challenged the constitutionality of the decision, arguing it was a violation of the freedom of expression under s. 2(b) of the Charter
+- Raises the issue of how to protect Charter rights in the context of administrative decisions
+- If a discretionary administrative decision is made by an adjudicator within their mandate, that decision can be judicially reviewed for reasonableness
+- Way to reconcile this process with the Charter is to recognize that unlike a law, an administrative decision does not apply under s. 1
+- How to ensure Charter protections still exist while also adjusting the process to meet this new context
+- Can't apply the [[R v Oakes (Public)]] test straight up, but we can use the principles of balance and proportionality to create a new test
+- Need to determine whether or not the decision maker disproportionately and unreasonably limited a Charter right through their decision
+- Need to remember that this is a contextual assessment as well
+- Administrative bodies are expected and required to consider Charter values while making their decisions, and the court should be able to hold them accountable on that
+- The test for administrative decisions is going to be much easier because these decision makers have a high degree of discretion
+- Also recognizing how hard it would be to identify a specific objective and who would have the burden of defining that objective
+- Previously, the court also said that the *Oakes* test isn't needed when applying the Charter to the common law in [[R v Daviault]]
+- Same goes here, the *Oakes* test is not the appropriate method to balance interests here
+- We know that the standard of review for determining the constitutionality of a law is correctness, but this doesn't extend to administrative decisions
+- Seems like the standard here should be reasonableness instead
+- When an administrative decisionmaker is applying Charter values, they are balancing those values with the statutory objectives
+- Considering those objectives, how can that value best be protected?
+- This is an exercise in proportionality, and the court is able to review this balancing using reasonableness as the standard of review
+- Technically this is pretty close to how it works in the *Oakes* test
+- Overall, if the decision maker properly balanced the relevant Charter values with the statutory objectives, the court will find that their decision was reasonable
+- In this case, the Bar's decision to reprimand Dore was reasonable based on this test

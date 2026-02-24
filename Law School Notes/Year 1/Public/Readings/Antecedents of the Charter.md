@@ -50,7 +50,7 @@
 - Section 4 does relate to coal mines, but also only applies to aliens, or naturalized subjects
 - Thus, it's *ultra vires* and should be considered of no force
 - Appeal allowed
-### Cunningham v Tomey Homma
+### Cunningham v Tomey Homma 
 - Respondent here was a naturalized Japanese man who was on the voting register for Vancouver
 - However, provincial law prevented Japanese people from voting
 - Just like in the previous case, this may be *ultra vires* because under s. 91(25), the federal government has exclusive jurisdiction over aliens and naturalization

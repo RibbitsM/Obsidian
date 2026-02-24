@@ -1,0 +1,30 @@
+- Suit was brought to enforce an option to purchase land based on an agreement made between the plaintiff and the respondent's parents
+- Plaintiff is a residential school in Port Hope called TCS
+- There was a small farm next to the school that was owned and operated by the Bennett family for many years
+- Father of the respondents was born there, and gave TCS milk was well as doing various jobs for the school
+- In 1963, the father and mother made some agreements to sell part of their land to TCS and gave them the option to buy more
+- Specific agreement at issue here gave TCS the right of first refusal on the lot where the couple lived and the option to purchase it upon the death of the survivor
+- Father died in 1978, mother died in 1991, after which TCS served notice that they were using the purchase option
+- Respondents claimed that the option wasn't valid because their parents gave the lot to them as a gift
+- Plaintiffs sued for specific performance and damages
+### Analysis
+- Agreement states that the option is only valid unless at least one member of the couple had beneficial ownership of the property when they died
+- Issue here is that the mother was no longer the owner of the land when she died, but the agreement didn't consider what would happen if the land was gifted
+- For the right of option to survive, the Court needs to imply a term that the owners can't transfer the land without offering it to TCS first
+- Court held that the owners shouldn't be able to get around the right of first refusal by transferring the property
+- Another issue is whether having an option to sell for a fixed price is unenforceable because it's an improper restraint on alienation of an estate in fee simple
+- Generally, a condition that removes normal incidents of estate like the right to profit or transfer, is void
+- Reason for this is that to allow these restraints would take property out of the market and encourages concentration of wealth
+- Previously, options to sell land at fixed prices significantly below the market value are considered restraints on alienation (sale)
+- Wherever there is a condition attached to the grant of land that is considered an absolute restraint on alienation, it's void
+- An option to purchase can often be seen as this kind of restraint, and usually a right to pre-emption is preferred
+- This kind of right is generally valid if it requires sale at a negotiated price, but not if it's a fixed price
+- Reason for this is because the fixed price is usually the value of the land when the provision was written
+- In a previous case called *Stephens v Gulf Oil*, the plaintiff wanted to purchase some land, which the holder agreed to
+- Holder had to consult with the defendant who had the right to first refusal, who also agreed but on some conditions
+- Required the holder to also give the plaintiff the right of first refusal on his remaining land?
+- Court held that the right of first refusal imposed on the plaintiff was void, but he could still have a right of pre-emption???
+- Based on this reasoning, the right of first refusal given by the couple in the present case was not void
+- However, the option to purchase upon their death is void
+- Especially egregious because this option was exercisable according to the will of TCS, not the executor of the will
+- Overall, application dismissed

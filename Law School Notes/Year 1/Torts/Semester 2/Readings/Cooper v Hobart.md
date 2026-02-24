@@ -24,12 +24,12 @@
 - The term "proximity" generally describes the "close and direct" aspect of the relationship detailed in *Donoghue*
 - Also no set list of what factors contributing to the establishment of proximity, vary widely depending on the circumstances of the case
 - However, we can at least list the recognized categories
-- First, we can impose liability if the defendant's act foreseeably caused physical harm to the plaintiff or their property
-- Can also be liable even if the harm caused is merely nervous shock
-- Defendants have previously been held liable for negligent misstatements and misfeasance in public office as well
-- Duty of care extends to warning plaintiffs of the risk of danger, and municipalities have a duty to homebuyers to inspect housing developments without negligence
-- Other governmental bodies have similar duties, for example performing road maintenance non-negligently
-- In some cases economic loss has been recognized as a legitimate harm in cases where issues of contract performance arise as long as the loss is relational if one of a few conditions are met
+	- First, we can impose liability if the defendant's act foreseeably caused physical harm to the plaintiff or their property
+		- Can also be liable even if the harm caused is merely nervous shock
+	- Defendants have previously been held liable for negligent misstatements and misfeasance in public office as well
+	- Duty of care extends to warning plaintiffs of the risk of danger, and municipalities have a duty to homebuyers to inspect housing developments without negligence
+	- Other governmental bodies have similar duties, for example performing road maintenance non-negligently
+	- In some cases economic loss has been recognized as a legitimate harm in cases where issues of contract performance arise as long as the loss is relational if one of a few conditions are met
 - Things are a bit clearer when it comes to conditions for the second stage
 - Important questions include whether there are existing remedies at law and how broad the liability created by the duty is
 - Additionally, it's been previously established that government actors cannot be liable for policy decisions, only operational decisions

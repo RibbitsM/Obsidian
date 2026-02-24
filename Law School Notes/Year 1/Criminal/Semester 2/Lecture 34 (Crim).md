@@ -1,0 +1,51 @@
+- Recall that there are three different ways a finding of automatism can go
+- Can be considered a mental disorder, where it would lead to an NCRMD finding
+- If it is a result of the voluntary consumption of drugs or alcohol, need to the consider the defence of [[Lecture 28 (Crim)|extreme intoxication]]
+- Third option is non-mental disorder automatism, which earns you an acquittal, appeared before in cases like [[R v Jiang]]
+- Obviously, the third option is preferable to the first option, which would place you in a mental institution potentially indefinitely
+- Major issue with this is the possibility of the accused faking a state of non mental disorder automatism, so making this decision is quite difficult
+### [[R v Rabey]]
+- First important case raising this issue, from the Ontario Court of Appeal, and was eventually appealed to the SCC which affirmed the reasons here
+- Written by G Arthur Martin, an important decision-maker in criminal law
+- Accused was friends with his classmate and was very emotionally attached to her
+- Read a letter she wrote to one of her friends where she writes about how she's attracted to another student, and referred to the accused as "nothing"
+- Next day, the victim and the accused were walking together in a stairwell, and he ask her about the student she was attracted to
+- Victim claimed he was just a friend, and also told the accused that she also thinks of him as just a friend
+- This prompted him to hit her over the head with a rock he was carrying (accused was a geology student), and drag her under the stairwell to strangle her
+- Ends up surviving, accused claimed he was in a state of automatism prompted by the mental blow of the victim's rejection of his affections
+- Conflicting evidence on whether or not this was true, accused was in shock and incoherent after the fact and psych evaluation suggested he could have been disassociating
+- Seemed to have no memory of actually committing the attack, came to his senses soon after
+- Crown argued that his actions were closer to being motivated by anger
+- Charged with having a weapon (rock) with intention to cause harm, and with assault causing bodily harm
+- Main issue is whether or not the psychological blow put the accused into a state of automatism, and whether accused is NCRMD or should be acquitted
+- Court in this case held that this would be mental disorder automatism
+- Said that the ordinary stresses and disappointments of life do not put a person in a healthy mental state into a state of automatism
+- The psychological blow here was simply not enough to warrant that kind of reaction without some kind of underlying disposition
+### Internal Cause Theory
+- Question is whether the trigger for disassociation was from a cause internal to the accused which would lead to NCRMD, or an external cause, granting an acquittal
+- Court doesn't reject the idea that a psychological blow could ever trigger disassociation in an ordinary person, but the blow would have to be much more extreme
+- Also a policy component to address here, and we are making a legal decision, not a medical decision
+- Should not be allowing these kinds of circumstances to grant an acquittal
+- This was also before the reforms to the NCRMD system were made, so the punishment for the accused is actually quite severe here
+- One doctor's testimony was rejected for not being relevant to the case because he was effectively ruling on whether the accused had *mens rea* or not
+- This was going beyond his role in determining whether there was a mental disorder
+### [[R v Parks]]
+- While sleeping, the accused drove 20 km to his in-laws house and killed his mother-in-law, and severely injured his father-in-law
+- Several different experts confirmed that the accused was sleepwalking here
+- No obvious motive and the accused turned himself in immediately after committing the offence
+- Some extenuating circumstances, accused was a gambling addict and had previously stolen a large sum of money from his former employer
+- Family had a history of sleepwalking, and the stress exacerbated this
+- Issue is whether or not sleepwalking is an internal or external cause
+- Seems to be an internal cause, but the expert evidence strongly suggests that this is not a mental disorder, and is rather a fairly common phenomenon
+- Court comes up with another factor, which is the potential for recidivism
+- The accused does not pose a continuing danger because of the extreme unlikeliness that the accused will sleepwalk again and commit another crime
+- Focus is less on the outcome and more on the trigger, expert evidence suggests that if the accused practiced better sleep hygiene he could avoid further sleepwalking
+- Because there was no continuing danger and the fact that it's generally not considered a mental disorder, sleepwalking is non-insane automatism
+- This is the main distinction to note here, this is a expansion of the internal/external cause theory
+- Important to note that to even get to the point where the classification is needed, accused needs to prove on a balance of probabilities that they were in a state of automatism
+- Accused ultimately received an acquittal
+### R v Luedecke
+- In another case called *Luedecke*, an accused claimed they committed sexual assault while sleepwalking and brought anecdotal and expert evidence to support this
+- Crown didn't call any contradictory expert evidence, and accepted this argument
+- This was appealed alongside several similar cases, mainly on the grounds that the need for special treatment suggested something closer to NCRMD
+- Review board in that system gave him an absolute discharge as they did not believe that this kind of incident was likely to happen again

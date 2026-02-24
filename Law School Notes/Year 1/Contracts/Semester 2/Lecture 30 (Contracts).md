@@ -1,0 +1,49 @@
+- Anticipatory repudiation is where one party manifests through words or conduct an intentions to breach a contract in the future
+- Does this give the same remedies to the victim as an ordinary repudiatory breach
+- Generally speaking, anticipatory repudiation gives the same rights as an actual repudiatory breach
+- If a term of the contract would normally allow repudiation, then a future breach of that contract will also apply
+- Therefore, if a term being breached in the present would allow for repudiation, the same goes for a breach in the future
+- Where the victim chooses to disaffirm the contract based on an anticipatory breach, they may sue immediately for damages
+- Anticipatory repudiation only applies to prospective breaches that would be considered repudiatory
+### Hochster v De La Tour
+- Plaintiff was hired by the defendant as their courier for a trip abroad
+- Defendant cancelled the agreement a few weeks before the trip began, plaintiff sued immediately
+- Soon before the trip began, the plaintiff found another job
+- Defendant argued that the plaintiff could not sue because they got a different job before the performance date, this was a breach of the contract
+- Judge ruled for the plaintiff, establishing the doctrine of anticipatory repudiation
+- General purpose is the recognition of an immediate right of action in response to a future breach
+### Intro
+- Victim is allowed to either affirm or disaffirm the agreement, and sue for breach of contract either way
+- Victim can disaffirm immediately and sue, or affirm the agreement to encourage performance, or even wait to see if the breach actually manifests in the end
+- Three issues to consider
+	- Elements of anticipatory repudiation required to ensure the breach is actually repudiatory
+	- The way in which the victim can use the option to disaffirm and the potential consequences
+	- Implications of the decision of the victim to affirm or wait and encourage performance
+### Elements
+- Generally described as an intimation of an intention to abandon and altogether refuse performance of a contract
+- Intention can be indicated by words or conduct, though determining it by conduct is obviously more difficult
+- Basic test comes from *Universal Cargo Carriers Corp v Citati* (1957)
+	- Whether the breaching party acted in a way that would make a reasonable person conclude they will not perform the contract
+- Conduct for anticipatory breach includes the following:
+	- Sale of the subject to a third party
+	- Making performance impossible
+	- Preventing the innocent party from performing
+	- Intending to exercise contractual rights that do not exist
+- Anticipatory repudiation is closely connected to repudiatory breaches, most of the same principles apply
+- The main difference is with the timing, this is for repudiation that is going to happen in the future, indicated either through words or conduct
+- Can happen in two main ways
+	- Party that is going to breach says they are abandoning the contract prior to performance
+		- This is pretty much always a repudiatory breach, easy to establish
+	- Party that is going to breach states that they are not going to perform a specific aspect of the contract
+		- Here, you need to bring in all the principles from *Hong Kong Fir* and related cases to determine if the future breach is going to be repudiatory
+		- Apply in the same way, just that you need more foresight
+		- Identify the term, if it's an innominate term, look at the information you have and determine if it's a repudiatory breach or not
+		- Can walk away from the contract, or affirm it and stay in, and sue for damages either way
+		- Diplock stated that all this applies in *Afovos Shipping v Pagnan*
+- If you get the diagnoses wrong, especially if you mistakenly walk away from the contract, now you can be accused of wrongfully repudiating the contract
+- The fact that the perceived victim acted in good faith to try and diagnose the breach and genuinely thought they had the legal right to walk away will not be considered by the court
+- However, if you did get it right, the courts will uphold the decision to disaffirm
+- Overall you really want to identify the kind of breach right, it's a risky decision to make
+- But, if there is information that comes out later that would retroactively justify the decision from the party perceived to be harmed to disaffirm, the court will accept that
+- Usually this happens because the party walking away based their initial decision on one term and when the breach happens, it also affects another term they didn't mention
+- Same thing goes for an ordinary repudiatory breach

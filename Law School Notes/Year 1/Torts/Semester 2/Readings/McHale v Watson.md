@@ -1,0 +1,58 @@
+- Plaintiff was on a holiday with her mother in Australia, and was playing tag with a couple other kids
+- Used four wooden posts as their "base" for the game which surrounded a little tree
+- After the end of the game, the plaintiff and another kid were standing on opposite sides of this structure
+- Other kid (Barry) took a piece of a welding rid and threw it in front of him, which hit the plaintiff in the eye, blinding her
+- He had been keeping it in his pocket all day and sharpening it, and was previously using it to stab starfish on the beach
+- Plaintiff and one of the other kids claimed that Barry intentionally threw the rod at the plaintiff, Barry said he was just trying to throw it at the post to get it stuck in the wood
+- Trial judge stated that when assessing whether Barry was negligent the court should use the reasonable person standard regardless of his age (Barry was 12)
+- Standard first affirmed in [[Vaughan v Menlove]], still applies
+- Still left for the judge to determine what a reasonable person would have considered in the circumstances and what they should have foreseen
+- By considering the fact that Barry was 12, this is not considering the idiosyncrasies of the particular persons, childhood is not an idiosyncrasy
+- An adult may have considered that a piece of metal not fully turned into a dart may have bounced off a hardwood pole and injured someone
+- However, based on the facts, Barry should not be found negligent
+### Analysis
+- Case was appealed on the grounds that the trial judge erred in stating that the standard of care exercised by Barry differed because he was a child
+- Other issue was whether the judge should have made a finding of negligence even if he tailored the standard of care to Barry
+- Court doesn't agree with either of these grounds of appeal
+- American courts have consistently applied a lower standard of care when it comes to assessing negligence for young children
+- Three standards exist for different levels of childhood
+	- First is for children who are so young they are incapable of having any qualities required for the perception of risk
+		- Includes babies and young toddlers, these children are incapable of negligence
+	- Second is children who are still minors but are as capable as adults of foreseeing the consequences of their acts
+		- In this case, these children would have the same standard of care as adults
+	- Third is for all the children falling in between these two extremes
+		- Very broad category, standard is based on what would be reasonable for a child of that age, intelligence, and experience
+- Recall that Barry was twelve, so he was fairly old but still definitely playing like a child would, it's appropriate to refer to him and the plaintiff as young children
+- Can't really argue that he is not liable at all, nor that he has the same liability that an adult would have
+- What he was doing was arguably pretty normal for a child, he had a piece of scrap he was playing with and kept it in his pocket to use later
+- A parent probably would have taken it from them if they found it, considering he had been sharpening it on the rocks to turn it into a dart
+- Makes sense to a child of that age that a wooden post would be a tempting place to test your makeshift dart
+- Trial judge found that based on this information, Barry could not have reasonably foreseen that the dart would have bounced towards the plaintiff
+- No grounds to disagree with the trial judge on this point
+- This does not mean that there is a general principle that boys who cannot be classified as adults will never be guilty of negligence
+- Appeal dismissed
+### Kitto Opinion
+- Argues that a defendant cannot escape liability just be showing they are unable to show foresight or prudence in some way, this applies to children as well
+- If we don't do this for adults that act like children, why should this be done for children
+- However, this case is not an appeal to a specific subjective shortcoming, it's a characteristic informed by human development
+- Important because this still allows for an objective standard
+- Absurd to talk about normality as if what is normal for people of all ages is the same
+- In fact, the concept of normality itself does not arise without experience
+- Until the point where a child gains the normal capacity for foresight and prudence expected of all adults, we should compare them with their peers of the same age
+- Therefore, the trial judge was correct on the first issue
+- Regarding the facts of the case, it seems that what the defendant did was an unpremeditated and impulsive act that would be expected of a twelve-year old boy
+- Points out that for a boy of this age, a piece of wood and a sharp spike would have a particular affinity, and would not consider whether the wood was soft or hard before throwing the spike
+- Overall, children accept risks whenever they go out in society, and one of these risks seems to be the behaviour of young boys
+- Appeal dismissed
+### Dissenting Opinion (Menzies)
+- Argues that a fundamental principle of negligence is that negligence is assessed on the objective standard, which is only changed in exceptional circumstances
+- Applying a hard and fast rule will inevitably lead to unfortunate consequences
+- Negligence is generally concerned with where a person can get compensation, there's no connection between legal liability and moral culpability here
+- Can also argue that it's not for the judges to impose their mature values on someone who is clearly still immature
+- This argument loses sight of the point of the objective standard, negligence would not be negligence if we assessed it based on individual capacity
+- Argues that the duty of care here is that of a reasonable man, and thus the appeal should succeed
+- Even if the standard was that of the reasonable boy, the defendant would still be negligent
+- No boy of that age could reasonably think they could throw a nail into a post, and this was not even a nail, basically a blunt chunk of metal
+- Also refrained from inferring that the rod bounced off the post like the other judges did
+- It's clearly unreasonable to throw a piece of metal head high in the direction of another person
+- Argues that the appeal should be allowed and a new trial ordered

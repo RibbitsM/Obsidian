@@ -1,0 +1,30 @@
+- Accused was a geology student at U of T, smashed the victim over the head with a rock after realizing that she did not share his romantic feelings towards her
+- Two had been friends for a while, accused found a letter she wrote to a friend where she mentioned she had a crush on another student, and referred to the accused and another friend as annoying and "nothings"
+- Later went for a walk with her, asked him what she though of him, and she said he was just a friend
+- Accused then hit her on the head with a rock, dragged her under a stairwell, and attempted to strangle her
+- Another student found the two of them, accused said he was going to kill them, and the student ran for help
+- Sent the accused to the nurse, and the victim was taken to the hospital where she made a complete recovery
+- Accused was later admitted to a psychiatric hospital, where the doctors found no neurological disease
+- Claimed to have amnesia for most of the incident, doctor's report corroborated this and suggested that he was in a dissociative state
+- Did not find any signs of an underlying mental illness
+- Another doctor claimed this dissociative state was triggered by the emotional shock of being rejected by the victim
+- Also stated that the accused was of average disposition and is unlikely to experience this kind of episode again
+- Crown doctor believed that the accused instead went into an extreme state of rage, and even if he was in a dissociative state, that would mean he had a disease of the mind
+### Disease of the Mind
+- Main issue here is whether or not this kind of dissociative state can be considered a disease of the mind
+- This is a legal term, not a medical term, and is made up of equal parts medical and policy components
+- Need to determine what kind of exemption is given by a mental disorder, and how to protect the public from these people
+- Main medical component is how the mental condition is often viewed from a medical standpoint at the time
+- Not fully determines by expert witnesses, the judge makes the final determination
+- Judge gets to decide what conditions are included, and whether or not the accused suffered from one of those conditions, both of which are aided by expert evidence
+- A disease of the mind can be physical or purely functional, permanent or temporary, recurring or not, and curable or incurable
+- Historically, conditions that are caused by an external factor like hypoglycaemia created by insulin use, are not diseases of the mind
+- Sleepwalking is also not a disease of the mind
+- For a disease of the mind, seems like you need a cause internal to the accused, not caused by some external factor
+- Trial judge found that in this case, the dissociative state was caused by an external cause, the psychological blow delivered by the victim
+- This court disagreed, pointing out that the ordinary stresses and disappointments of life like rejection do not qualify as an external cause here
+- Put simply, if someone is susceptible to being driven into a murderous automatic state by being rejected by a classmate, there must be something going on internally
+- Trial judge erred in saying it was external, need a new trial
+- Crown psychiatrist stated that although the accused was not in a dissociative state, he could probably form intent but it is difficult to tell for sure
+- Seems like this raises a reasonable doubt as to intent
+- Appeal on count 1(possession of weapon with intent to harm) dismissed, appeal on count 2(assault causing bodily harm) allowed, acquittal removed, and ordered a new trial on count 2

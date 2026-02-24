@@ -1,0 +1,35 @@
+### Recap
+- An anticipatory breach happens when one party, by words or conduct, repudiates their obligations under the contract that haven't come into effect yet
+- This does not itself extinguish the contract
+- Innocent part can choose to accept the breach and sue immediately, but the acceptance of the breach has to be clear and unequivocal
+- If they do choose to stay, they can press for performance and then bring suit when the breach does actually materialize
+### Disaffirmation
+- Same as in an ordinary repudiatory breach, the victim has the choice to affirm or disaffirm
+- If they choose to disaffirm, they have no obligations to keep performing the contract and have the right to immediately sue for damages
+- Disaffirmation does not have to happen immediately after the innocent party learns of the breach, but there are some limits on how long they have
+- If the repudiating party can show they faced some kind of prejudice by a delay in disaffirmation, then the victim can lose the right of disaffirmation
+- Need to prove some kind of harm like being unable to find another party to contract with
+- Other thing that can happen is if the court construes your conduct as affirming the contract by not disaffirming soon enough, you can be forced into affirming the contract
+- Mere fact that the victim encouraged the breaching party to change their mind is not evidence that you intended to affirm, that's considered a natural reaction
+- Can still disaffirm after doing this as long as neither of the first two cases apply
+- Also, if during the period where the innocent party can disaffirm, the party breaching the contract changes their mind and decides to perform anyway, can't disaffirm after that
+- Additionally, the decision to disaffirm doesn't need to be explicit, it can also be communicated through conduct like removing your employees from a work site
+- Once the innocent party does decide to disaffirm, that decision is binding and irrevocable
+- Courts are generally more willing to allow revocation of affirmation compared to disaffirmation
+- Repudiating party doesn't have to continue performance after the other party disaffirms, but this doesn't absolve them of their wrongdoing, they're still liable for non-performance in the past as well as the projected breach
+- Same goes for the victim, they don't have to keep performing the contract in the future
+- Contract still exists, but performance of the contract is no longer required
+- If the repudiating party can show that the victim would not have been able to perform the contract anyway, this can affect the damages
+- Say if you were obligated to build a fitting for the pizza oven, and it never came but the deliverer found that you wouldn't have had the fitting ready anyway, they can get that included in the assessment of damages
+- This comes from a case called *Maredelanto Compania Naviera v Bergbau-Handel GmbH (The Mihalis Angelos)* (1971)
+- Also raises the issue of if this could also be evidence to justify the repudiation
+- In *The Mihalis Angelos*, the court said no to this question, inability to perform can only affect the damages, but the repudiation is still not justified
+- Whether or not disaffirmation was for a normal or anticipatory breach, the assessment of damages are mostly the same, it's based on the expected benefit of the contract
+- If expected damages doesn't apply, then you can get restitutionary relief
+### Affirmation
+- If the party chooses to affirm, they can await performance of the agreement (subject to the duty to mitigate)
+- Some cases such as *Stocznia Gdanka v Latvian Shipping Co* say this decision is irrevocable
+- While this is still an unsettled question, seems like you can still disaffirm up until the time of performance unless repudiating party was damaged in some way as a result
+- When confronted with an anticipatory breach, affirmation has to be distinguished on the facts by a waiver on the part of the victim
+- If you are still demanding performance, that is affirmation, but if it appears that the innocent party is accepting the breach, this could open a claim for waiver or promissory estoppel
+- Where the conduct looks more like a waiver, the innocent party may be excusing the breaching party from the breach, and may not be able to sue

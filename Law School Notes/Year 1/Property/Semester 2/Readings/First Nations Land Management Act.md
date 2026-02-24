@@ -1,0 +1,24 @@
+- A significant portion of the *Indian Act* deals with land a resource management, and approval of the Minister is required for most management under these provisions
+- For land on reserve to be leased, it has to be surrendered to the Crown to designate it, which requires a majority vote, and approval by the Minister
+- However, ss. 53 and 60 allow the Governor in Council to delegate some aspects of lease/permit management to the nation
+- Does allow increased authority over land, but is still less than what the First Nations Land Management Act offers
+- Under this system, the nation still doesn't have authority to register leases and permits and still needs to surrender land to lease it
+- Also places restrictions on what changes can be made to land tenure and other institutions
+- Governor in Council can also withdraw this privilege at any time
+- In response, the *Framework Agreement on First Nation Land Management* was negotiated by 14 nations in 1996
+- Ratified in 1999 when the government passed the *First Nations Land Management Act* (FNLMA)
+- Created a Lands Advisory Board that supports nations in creating and implementing their own land codes
+- Initially restricted to the original 14 signatories, but later on the Governor in Council gained the ability to add more nations
+- To be eligible, need to meet basic requirements for financial management and demonstrate readiness to create and execute a bespoke land code
+- After being approved, need to negotiate an individual agreement with the govt and write the land code
+- FNLMA and framework agreement specify mandatory content for all land codes
+- Includes rules on use and occupancy of land, and under leases, licenses, certificates of possession, and other interests
+- Also need to deal with things like expropriation, granting interests, passage of land after a divorce, dispute resolution forums, amendment processes, etc.
+- However, the land is still reserve land even after the land code comes into force
+- Needs to be ratified by a majority of all eligible voters within the nation, and the code must be independently verified for compliance and approved by the Minister
+- Once all these requirements are met, the nation receives control of all land and resources they possess and are exempt from all land management provisions of the *Indian Act*
+- Other than the creation of the land code itself, there are no other mandatory requirements for approval
+- Most nations have chosen pretty similar provisions, all nations so far have required registration for new interests and most nations allow expropriation
+- No codes ban mortgaging leasehold interests, or allow for transfer of a permanent interest to a non-member
+- The FNLM Resource Centre also created a model land code with some suggestions for future land codes
+- Requires community approval for a couple actions, including leases on community land for over 25 years

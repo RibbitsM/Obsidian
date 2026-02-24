@@ -1,0 +1,69 @@
+- Issue here is whether expert evidence can be used in a jury charge for a self defence plea against a murder charge faced by an abused common law spouse
+- Accused had been living with the victim for 3-4 years, got into an argument after guests had left following a party at their residence
+- Accused killed the victim with a rifle, shot him in the back of the head as he was leaving the room
+- In her police statement she stated that the victim had come into the room to beat her, and that she had been slapped and grabbed on the arm that night
+- Victim loaded the gun and gave it to her, accused's recollection was hazy
+- She went to use the gun to kill herself, victim told her not to, but said that he would kill her once everyone else left the house
+- When he walked out of the room, accused shot him
+- Ample evidence to show that the accused was being consistently abused physically and psychologically by the victim
+- Friends of the couple testified to this, even mentioned that the victim has previously pointed a gun at the accused and threatened to kill her
+- Neighbours and guests also testified to hearing sounds of yelling and seeing the victim chase the accused around the house
+- Expert evidence was from a psychiatrist who testified that the accused genuinely thought she was going to be killed and this was her only way out
+- Psychiatrist conducted lengthy interviews with the accused and mentioned facts that were not corroborated as the accused did not testify at trial
+- Acquitted at trial, overturned at the appeal court
+- Section 34(2) of the *Criminal Code* deals with the defence of self-defence
+- Court of appeal found that without the psychiatrist's evidence, the jury would not have accepted the plea of self defence
+- That evidence should be excluded entirely, or the evidence was okay but the trial judge instructions relating to that evidence were in error
+- Issues are if the appeal court erred by determining that the jury should consider the self-defence plea without the expert evidence
+- Also whether they erred by holding that the charges relating to that evidence were insufficient
+### Analysis
+- Defence of self defence requires the accused to be under reasonable apprehension of death or serious bodily harm at the time the act was taken
+- Accused also must believe on reasonable grounds that they could not preserve themselves against death or serious bodily harm by any other means than the acts they committed
+- Both of these requirements impose an objective standard of reasonableness
+- Raises the issue of how we apply the reasonable man standard for highly gendered issues like this
+- Previous cases where women plead self-defence take the impact of sex discrimination into consideration when determining reasonableness
+#### Reasonable Apprehension of Death
+- In this case, the victim's threat to kill the accused once the guests had left is the main source of apprehension
+- Requirement comes from s. 34(2)(a) which does not directly require the apprehension to coincide with the act, but the case law requires this
+- Reason for this is to avoid granting the defence for retaliatory strikes
+- Similar issue was raised in a case called *Whynot* where the accused shot her husband as he slept
+- Court held that there was no active physical assault, so no way for the accused to gauge the appropriate amount of force to use
+- Expert evidence showed that the abuse faced by the accused followed a predictable pattern
+- Tension would build, would argue verbally, wife attempts to placate, and if unsuccessful, the husband becomes physically violent and later apologizes and "makes up"
+- This has been academically described as the Walker Cycle Theory of Violence, common in many "battered wife" cases
+- Mental state of the accused in this kind of case can only be understood in the context of this repeating cycle of violence lasting over several years
+- Gives the accused an advanced sense of foresight when it comes to incoming violence
+- Can notice changes in the behaviour that indicate that their abuser genuinely intends to escalate by killing them in the next bout of violence
+- In many of these cases, the murder weapon is used to threaten the accused, and the victims often dare the accused to use the weapon to kill them
+- We should not be assessing this from the perspective of an outside observer unfamiliar with this long history of violence
+- Because of the obvious physical mismatch between battered women and their abusers, it seems unreasonable to require the women to wait until an active physical confrontation to attempt to defend themselves using lethal force
+#### Lack of Alternatives
+- Section 34(2) also requires the accused to prove they had no other option
+- Obvious question here is why the battered woman does not simply leave the relationship
+- Plays into common myths about domestic abuse, which can be dispelled with expert evidence
+- A couple of reasons why the abused party may choose to stay in the relationship
+- First, they are so badly beaten that they lose the will to try and escape
+- Other option is where the abuser consistently apologizes, leading the abused party who often has esteem issues to feel a need to stay in the relationship
+- Often the abused party will seek to hide the cause of their injuries
+- Occasionally, the victim also blackmailed the accused to staying in the relationship, threatening to reveal that she had an abortion in the recent past
+- Main motivation seemed to be the draw of the next "forgiveness" period
+- These battered women also often developed the feeling of "learned helplessness"
+- Abused person feels subjugated by their abuser, and become dependent on them, especially where there is only periodic abuse interspersed with periods of forgiveness
+- Also seen in relationships between prisoners and guards, and in cults
+- Accused had pointed a gun at the victim in the past, and had hit back to defend herself but was unsuccessful in deterring the victim
+- This "learned helplessness" creates a strong psychological barrier preventing the accused from seeing any other avenue of escape in their most desperate moments
+- Not for the jury to judge a battered woman for staying in an abusive relationship
+### Summary
+- Expert evidence can be used to draw inferences where the expert has special knowledge
+- Difficult for an ordinary person to understand battered woman syndrome, mainly due to sexist myths about abusive relationships that affect this understanding
+- Expert evidence can be used to dispel these myths
+- Expert evidence on the ability to perceive danger can be used to help determine the "reasonable apprehension" requirement of self-defence
+- Expert evidence on why abused parties remain in a relationship can be used to help determine the nature of the abuse
+- Expert evidence can be used to explain why an abused party chose to kill their abuser rather than fleeing in a case like this
+### Conclusion
+- Ample evidence that the accused was brutally abused consistently by the victim
+- Trial judge did not err in allowing the expert testimony to be used by the jury
+- Being a battered woman does not automatically lead to an acquittal, we still need to consider the precise facts of the killing
+- Up to the jury to determine if the accused's actions and beliefs were reasonable, they are not compelled to obey an expert opinion
+- However, they should have to consider that opinion
+- Appeal allowed, acquittal restored

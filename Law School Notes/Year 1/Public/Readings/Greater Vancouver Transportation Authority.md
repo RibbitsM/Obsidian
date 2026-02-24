@@ -1,0 +1,30 @@
+- Case deals with what is considered a rule "prescribed by law" under s. 1 of the Charter
+- BC Transit and Translink refused to run political ads on their vehicles, sued by a union and a student organization who were asking for ads
+- Argued this rule limited their right to free speech under s. 2(b) of the Charter
+- SCC had to address whether the policies of transit authorities are considered "law"
+### Analysis
+- To figure out if something is "law", need to determine whether the entity was authorized to enact those policies, and whether they were rules of general application
+- If these requirements are met, second stage of the test requires determining whether the policies are sufficiently precise and accessible
+- Reason for this is that we want to prevent arbitrary actions of government officials to not be considered a valid limit on a right
+- Also, citizens should have the chance to know what is against the law
+- Because of that, a rule prescribed by law has to be accessible to the public, and written with enough precision to give guidance on how to act
+- Usually, a rule prescribed by law either comes directly from a statute or regulation, or is implied by the terms of a statute or regulation
+- Court doesn't require a rule to literally be prescribed by a "law", can also come from other sources like regulations or even the common law
+- Also applies to municipal bylaws, as well as collective agreements that include a government entity, as long as it's authorized by statute and a binding rule of general application
+- Don't forget about the accessibility and clarity requirements too
+- Overall the approach is pretty inclusive, and mainly aimed at excluding arbitrary state actions
+### Application
+- Just because a rule comes from a governmental entity doesn't mean s. 1 applies to it, case law shows that we need to distinguish between admin and legislative rules
+- Administrative rules only relate to the implementation of other laws, and mainly exist for administrative efficiency
+- Usually informal and intended for internal use, not as a general law
+- A policy can be law if it establishes a norm or standard of general application and was enacted by a government entity pursuant to a rule-making authority
+- An entity is a rule-making authority if the legislature have delegated power to that entity for the purpose of creating binding rules of general application
+- Rules do not have to be statutory, as long as the enabling legislation lets them make binding rules and those rules establish general rights and obligations, they're considered "law"
+- In this case, where a government policy sets a binding standard, as long as it's also sufficiently accessible and precise, it can be considered legislative, and works for s. 1
+- By looking at the enabling legislation here, it looks like the policies were adopted through statutory powers given to BC Transit and TransLink
+- Enabling statutes gave the board of directors broad discretionary powers to create rules shaping its conduct including rules for advertising
+- If the legislature gives an entity power to make rules, it only makes sense to assume that those rules are supposed to binding
+- Seems clear that these rules are also supposed to establish rights for the individuals they apply to, and are also general in scope
+- Establish standards applicable to anyone who wants to engage with the advertising service
+- Policies are also both accessible and precise, they're available to anyone who wishes to advertise on a bus and clearly specify which kinds of ads are allowed
+- Limits of these policies are thus considered limits prescribed by law, and applicable to s. 1

@@ -1,0 +1,67 @@
+- We know that the common standard we use is the reasonable person standard, but what exactly does this mean?
+- When can we "chance it", and where is it better to err on the side of caution
+- Can look at this through a couple of different perspectives
+- The first is through the lens of law and economics, what are the potential outcomes from a decision and how can we weigh those outcomes?
+- Also have the critical theories, namely feminist legal theory and critical race theory
+- Former is the reason why it is now called the "reasonable person" standard and not the "reasonable man" standard, should no longer be gendered
+- Commonalities between all these theories is that they criticize the reasonable person standard in some way, pointing out the things it doesn't incorporate
+- For example, feminist legal theorists may demand damages calculations to consider the social cost of reproduction
+- Critical race theory may point out how racial injustice affects employment, for example black immigrant women have the lowest employment rate in Canada
+- This disqualifies them for things like EI because they don't have the requisite work hours
+- Man on the Clapham omnibus does not have to deal with these issues
+### [[The Learned Hand Formula]]
+- Written by Richard Posner, a legal positivist meaning that he views the law as neutral, and you can calculate how it will apply to anyone regardless of personal characteristics
+- Famous law and economics scholar from the US, used to work at the 7th circuit appeal court
+- This is generally a way to understand law through an economic lens, to use the law as a way to promote maximum economic efficiency
+- Differs from how other people think about the law, it's usually understood as a way to punish wrongs, uphold standards, and compensate the victims
+- Goal of the article is to use tort law in economic terms, uses the example of *US v Carroll Towing*
+- Barge was left unattended in a busy harbour, broke from it's moorings and collided with another ship, were the owners negligent?
+- Duty to prevent injury can be calculated through a function of the burden or cost of precautions (B), the probability of the accident (P), and the loss or injury suffered (L)
+- Formula is B < P x L
+- If the burden is less than the probability times the loss, need to take precautions
+- P x L is predicting the expected loss, only efficient and reasonable to prevent the loss if the expected loss is less than the precautions
+- Obvious problem with this is the issue of distribution, the precautions are being paid for by the defendant, while the plaintiff must suffer the loss or injury
+- Goal is to minimize the overall burden on society, regardless of who it falls upon, ignoring the fact that one party may be better positioned to absorb the risk
+- As an example, if B=100, P=0.25, and L=600, need to take precautions, but would not need to take precautions if B= 200
+- Probability here is mainly based on the history, how often has this happened in the past?
+- Economics should not be the primary goal of the law, but this test doesn't even work in many circumstances, for example how do we value the loss when a person has died?
+- Formula has been used in a couple cases, such as *McCarty v Pheasant Run Inc*
+- Easy to assess the cost of the burden, but probability and loss are much harder to assess, and gets even harder when the jury is required to do this on their own
+- Also doesn't really consider the qualitative aspects of harm, not everything can be fixed just by throwing money at the victim
+- In the cases where the burden is greater than the expected cost, the wellbeing of the plaintiff is effectively being sacrificed to minimize the economic impact on society
+- Fails to consider what would be qualitatively "just" and "fair"
+- Law is not simply about the rules and the function of those rules, it is supposed to uphold societal principles of equity and justice
+### Bender's Perspective
+- Feminist legal scholar at Syracuse university
+- Argues that this formula essentially turns the standard of care into a measure of economic efficiency
+- Abstracts individuals from the suffering they are actually experiencing
+- Has little to do with the traditional test of care and precaution, we are supposed to be concerned for the safety of others
+- Reasonable person test is one of conscious care and concern of a reasonable neighbour under similar circumstances, there are ethics involved here
+- Closeness of the relationship is a key element that is being ignored here (caring person test)
+- Posner argues that this test doesn't do much to advance the debate, and most neighbours don't actually care about each other
+- All this would do would encourage strict liability in too many circumstances
+- Does this reply actually address the core of Bender's point?
+- Didn't address the issue of equating suffering with money
+### Exam Review
+- Average was 75, there were multiple As
+- First issue was strict liability, pretty obvious tbh
+- Stronger papers were the ones who included Smith v Inco when defining elements of strict liability
+- Conclusion didn't matter that much, the focus was mostly on the analysis
+- Answer for the second question was private nuisance, can get bonus points for public nuisance
+- This is probably where I lost all my points, I was probably the only person that went with false imprisonment here lol
+- For the second part, the issue for the traffic stop was false imprisonment based on psychological coercion, need to consider length of questioning and threats
+- For the Riley issue, the problem was with informed consent, answer should have been "no cause of action" because there was no harm
+- Needed to talk about negligence here, even though we didn't cover it 1st sem
+- Answer for next question was trespass to chattel, mistake is no defence, conversion could have been possible if confiscation is grounds for conversion
+- The Leslie case where she took a purse, trespass to chattel was possible because there was direct intention, detinue was possible because it was theft, conversion is also possible
+- Stealing is a clear example of conversion, she never taught us this lol
+- 1 false
+- 2 true
+- 3 false
+- 4 C or E (majority C)
+- 5 false
+- 6 false
+- 7 D
+- 8 E
+- 9 F
+- 10 F

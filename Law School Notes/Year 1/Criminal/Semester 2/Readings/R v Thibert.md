@@ -1,0 +1,69 @@
+- Accused was charged with first degree murder after killing his wife's boyfriend
+- Early on in the couple's marriage, the accused told his wife that he had been cheating on her, soon after that, the wife began having an affair with the accused
+- Told her husband about the relationship at the start of 1991, and decided to leave him soon afterwards, living in a hotel room instead of returning home
+- Accused would drive around the city searching for his wife, and in the evening returned home and took a rifle and shotgun out of his basement
+- Loaded the rifle and thought about killing the victim, but decided against it
+- The couple's daughter found her father in this distressed state, who told her about the affair the wife was having
+- Wife called the house to tell her husband she was leaving him, the two agreed to meet at a Smitty's in St Albert the next morning
+- Accused and the daughter met with the wife and the victim, accused promised to not bother his wife at work and she promised considering coming home to talk to him
+- Before leaving, the accused threatened the victim
+- Accused testified that he thought about killing himself when he got back, and tried sawing off the shotgun but realized it was broken
+- Called his wife at work several times, at one point she asked to stop calling and said she was leaving work to go deposit some money
+- Accused went downtown hoping to find his wife at the bank, brought the loaded rifle
+- Brought it with the intention of killing the victim, but later changed his mind and decided to use it as a bluff instead
+- Followed her to the bank, out of fear she returned to her workplace, accused followed her
+- During this time he kept trying to convince her to talk to him in private, she kept refusing
+- Ultimately said he had a gun in his car but it wasn't loaded, and threatened to take it into her workplace if she didn't talk to him
+- Victim left the building to escort the wife inside, accused took the gun out of the car
+- Victim started taunting the accused, repeatedly telling him to shoot
+- As the victim approached the accused, he closed his eyes and pulled the trigger
+- Wife ran into the building, accused tried to follow her but gave up and left in his car
+- Pulled over by the police, surrendered immediately claiming he was only after the victim
+- Found guilty of 2nd degree murder at trial
+### Analysis
+- Only issue in this case was whether the trial judge erred in leaving the defence of provocation with the jury, was there an air of reality
+- Trial judge didn't tell the jury that the onus was on the Crown to disprove the defence
+- Therefore if he was correct, new trial needed but otherwise the error is irrelevant
+- Defence of provocation is only used to reduce murder to manslaughter, found in s. 232
+- Requires a wrongful act or insult sufficient to deprive an ordinary person of the power of self-control, assessed on an objective standard
+- Also requires the accused to act on the insult immediately without time to cool off, this portion of the test is assessed on a subjective standard
+- To leave the defence to the jury, trial judge must be satisfied that there is evidence supporting both elements of the defence
+- Means evidence that the insult in question would have caused an ordinary person to lose control, and evidence that the accused lost their self-control as a result
+- Judge doesn't evaluate the strength of this evidence, just whether or not it's present
+### Elements
+- For the objective element, this test was originally very narrow, but has since been extended to include features of the accused like age, sex, and race
+- Also need to apply the test while recognizing that the criminal law is intended to encourage reasonable and responsible behaviour
+- Need to consider how an ordinary person sharing the background characteristics of the accused would react in the situation at hand
+- As for the subjective element, the "sudden provocation" has been described as having an unexpected impact inflaming the passions of the accused
+- In this case, this means we should consider the long history between the accused and victim
+- Victim had been consistently insulting the accused, which may have created a desire for revenge, but may not have induced a desire to kill up until the end
+- Generally, insults over a long period of time count for provocation as long as the accused did not intend to kill the victim until the very end
+- Last insult is the "last straw" that pushes the accused to commit murder
+- Previous cases have held that the judge can take factors like this into account
+- Overall, we can definitively say that the wife's affair was the dominant factor in motivating the victim, which obviously does not justify the accused's actions
+- Defence of provocation exists to recognize human frailties for situations just like this
+- Court also held that it would be appropriate to include the history between the accused and the victim in the objective test
+- Also point out that the accused hadn't slept for 34 hours and was in a state of heightened mental distress when the victim began taunting him
+- Exacerbated by the fact that the victim was holding the wife by her shoulders and moving her around in front of him while taunting the accused
+- Found that the first element was met
+- Same factors were considered in the second part of the test
+- Also pointed out how fast everything happened, the shot happened very soon after the accused picked up the gun
+- Does recognize that romantic rejection is no basis for the defence of provocation
+- However, the accused was not there to kill the victim, he just wanted to talk to his wife and saw the victim as obstructing this goal and taunting him for it
+- Seems like the accused took significant effort to avoid seeing the victim
+- Overall, court held that there was enough evidence to establish the defence
+### Actions of the Victim
+- One limitation on the defence comes from s. 232(3) which states that provocation cannot be caused by doing anything one has the legal right to do
+- Actions of the victim were clearly legal but could be construed as insulting behaviour
+- Can also not be considered self-defence, wasn't necessarily illegal but nothing they had the legal right to do
+- Overall, a jury could potentially find that the defence of provocation applied here
+- Of course, none of this means that the jury would have actually accepted this defence
+- Appeal allowed, new trial ordered
+### Dissenting Opinion
+- Argued that there was no evidence of an act or insult sufficient to deprive an ordinary person of their self-control, statements of the victim were not an insult
+- Instead, the victim's actions were arguably a legitimate reaction to the situation
+- It would be a dangerous precedent to set to allow an extramarital affair to be the grounds for the defence of provocation, we don't want to encourage this behaviour
+- The wife had made it clear in several situations that she did not wish to be alone with the accused, and this was within her rights to choose
+- Even if the objective test was met, the subjective element fails because the accused certainly could have predicted this situation
+- This was not his first time seeing his wife with the victim, should not have been a surprise, and thus there is no element of suddenness in this case
+- Overall, there was no evidence that a reasonable jury could use to find the defence here

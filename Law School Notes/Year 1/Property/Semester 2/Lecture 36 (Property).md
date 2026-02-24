@@ -1,0 +1,36 @@
+- Framework Agreement on Land Management was created in 1996 as an inter-governmental agreement between several First Nations and the Canadian government
+- Several of these signatories were from BC, including the Musqueam
+- Not a constitutional agreement, but gives parties the option to manage their own land and natural resources
+- Under this agreement, the land would remain under s. 91(24), but would be controlled by the nation, meaning the fiduciary duty still applies
+- Framework agreement sits between the govt and the First Nations, Canada's role was to pass the *First Nations Land Management Act* to ratify the framework
+- The agreement was repealed and replaced in 2022 to be renamed to the *Framework Agreement on First Nation Land Management Act* to give more importance to the framework
+- Core of Canada's responsibility is granting the interests, licenses, and land rights for reserve land to a First Nation that creates its own land code
+### Entry Process
+- Four phases to entry, the entry phase, the developmental phase, the ratification phase, and finally the transitional/operational phase
+- Not a treaty in the s. 35 sense, this is explicitly stated and the use of the term "framework agreement" is very intentional in this way
+- About 20% of First Nations in Canada have signed on and are in various different phases
+- Land codes usually have to describe what land is being transferred, and allow for administrative information as well as funding from the govt to the nation
+- Depending on the size of the community and the land involved, this may be more or less resource intensive
+### Musqueam Agreement
+- A majority of the agreement is devoted to transfer provisions, specifying how information and financial matters will change or be transferred
+- Also need to notify any third parties that have an interest on reserve land like parties with leases or easements about how things will work going forward
+- Land code itself gives law-making power to determine use, zoning, transfer, leasing etc. of land
+- Similar to the powers granted to municipal governments regarding land
+- Band councils may be able to expropriate reserve land provided that compensation is given, and be able to establish their own land registration systems
+- The Musqueam Land Code specifically mentions that this law is based on the inherent right of self-government of the Band
+- Technically not called reserve land anymore, when it's subject to a land code, it's called First Nation Land
+- Musqueam Land Code came into operation in 2017, the Squamish made a land code as well, but the community refused to ratify it so it failed the community vote
+- Tsleil-Waututh also made a land code, one of many in BC
+- Also a lot of heavy lifting done in the band bylaws, the land code deals with broad principles, and most of the fine details like zoning and registration are done in the bylaws
+- Musqueam also own some land in fee simple, which includes the University Golf Course and also the land that Lelem is built on
+- These holdings are separate from the Musqueam Land Code, the Musqueam have several corporations that they use to hold land in fee simple
+- Also subject to different bylaws because it's on normal commercial land
+- Musqueam also hold a couple properties in common with the other local First Nations like the Squamish and the Tsleil-Waututh
+- Most of this is former Crown land, including a former Army warehouse and RCMP lands
+- The Lelem developments and other Musqueam commercial ventures usually do not sell land in fee simple, instead offering long-term leasehold interests
+- Main Indigenous companies in Vancouver are the MST Corporation and Canada Lands Inc
+- The land we visited on our trip was on Squamish reserve land so it's not subject to Vancouver bylaws, but these commercial developments are
+- Vancouver has also come to an agreement with the MST Corp where the corporation and the province will offer significant discounts for first-time buyers on the RCMP lands
+### Property Law Act
+- Reason First Nations have used corporations to hold land is for mostly liability and tax reasons, but also because they were not allowed to hold land directly in fee simple
+- In 2024, the *Property Law Act* had s. 44(2) amended to allow First nations to acquire and dispose of land in British Columbia

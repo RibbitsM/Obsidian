@@ -24,4 +24,3 @@
 - I was genuinely on to nothing by talking about the clause talking about business practices, it was basically irrelevant
 - I also didn't make a conclusion, which I was supposed to do
 - But overall I identified most of the important issues and factors
-- 

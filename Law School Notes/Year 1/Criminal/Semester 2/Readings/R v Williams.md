@@ -1,0 +1,31 @@
+- Accused was driving when three people ran in front of his car, accused got into an argument with the victim who called him a racial slur
+- Accused got out of the car with a knife, and the victim charged him, pushing him through a store window a seriously injuring himself
+- Accused began stabbing wildly, stabbing the victim five times, killing him
+- Raised the defence of self defence at trial, convicted of 2nd degree murder
+- Appealed arguing the trial judge erred by not instructing the jury on provocation
+### Analysis
+- Defence of provocation has four clearly defined elements
+	- Conduct of the victim constituted an indictable offence punishable by 5 years (objective)
+	- Conduct must be serious enough to deprive an ordinary person of the power of self-control (objective)
+	- Accused acted in response to this conduct (subjective)
+	- Accused must have acted suddenly before regaining self-control (subjective)
+- Major issue in this case is whether this defence can co-exist with self-defence
+- At trial, the Crown argued that provocation should not be left to the jury because it was incompatible with the defence of self-defence
+- Defence counsel argued that although the racial slur prompted the accused to stop his car, that's not what started the physical confrontation
+- On appeal, the accused's new counsel argued that the previous lawyer focused too closely on the insult instead of the physical actions
+- Slurs don't qualify for provocation after 2015 so the trigger was the victim's assault on the accused
+- Trial judge never ruled on if this could apply, and was not asked to do so
+### Air of Reality
+- In this case, there was pretty clear evidence that the victim committed an indictable offence punishable by 5 years or more, and the accused acted in response to that conduct
+- Crown argues there was no air of reality on the other two elements of the defence
+- Court held that the accused never lost self-control, their testimony suggests that they were stabbing wildly, but this was intentional to get the victim off him
+- Also, his shirt was over his head at this point, so he couldn't see anything
+- Main dispute here was over the element of suddenness
+- Jury could have believed that the accused did not expect the victim to attack him, even though he had already pulled out the knife
+- Also, accused was unexpectedly pushed through a plate glass window, which could certainly deprive them of the power of self-control
+- However, this attack did not come without warning, it seems clear that the altercation was initiated by the accused
+- When he stopped his car, the victim was crossing the road, and turned back to face off against the accused when he saw him get out of the car
+- Accused could have just driven away, but appeared to intentionally wait for the victim to attack him
+- Overall, the victim's assault was objectively foreseeable given the circumstances
+- Doesn't matter what the actual attack was, the situation seemed to clearly be the start of a street brawl
+- Appeal dismissed

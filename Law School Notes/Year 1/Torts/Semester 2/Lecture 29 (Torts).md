@@ -1,1 +1,43 @@
-- To do
+### [[Childs v Desormeaux]]
+- To establish a *prima facie* duty of care here, we're using the *Anns* test
+- Need to look at the relationship between the parties to see if there's a relationship of sufficient proximity
+- Here, the parties are social hosts and motorists, what connection can we draw there
+- Maybe a weak one, probably a relationship between a social host and a motorist leaving their party but not a random driver
+- Also need to consider if it's just and fair to impose liability given the relationship between the parties
+- Court found no link and no proximity here, social hosts do not and should not owe a duty of care to public highway users
+- The injury to Ms. Childs was not reasonably foreseeable by the hosts, and even if it was foreseeable, there is no duty
+- As long as one part of the proximity test fails, no duty arises
+- Hosts do not control the people leaving their party, or at least not in the same way that CAPs do
+- Even if the hosts could have reasonably foreseen the harm that befell Childs, what could they have done?
+- Additionally, recall that this is a nonfeasance case, not a misfeasance case
+- Foreseeability without any additional considerations can definitely give rise to a duty of care, but only when the harm was caused by an overt act of the defendant
+- In this case, the hosts didn't actually do anything actively, their only mistake was not stopping Desormeaux from driving
+- Court will examine the nature of the relationship to determine the link, omissions can lead to negligence where there's a duty
+- However, the fact that someone becomes a danger to others doesn't require others around them to act
+- Positive duty of care like this only arises where there's a special link of foreseeability and proximity present
+- Three examples of this:
+	- Where the defendant intentionally attracts and invites third parties to an inherent and obvious risk that they created or controls
+	- Paternalistic relationships of supervision and control
+		- Main example of this is parent and child relationships
+		- Teacher and student also counts, as long as the plaintiff is vulnerable and the defendant is in a relative position of power, it qualifies
+		- Reasoning is that the right of control comes with the duty to take care of the vulnerable party
+	- Where defendant either exercises a public function or is in a commercial enterprise including implied responsibilities to the general public
+		- Service must be to the public, and requires the defendant to use special care to reduce some risk
+- In all of these three examples, the defendant has some sort of power or responsibility to the plaintiff
+- Additionally, the plaintiffs autonomy is limited in some way
+- Social hosts do not fall into any of these categories
+- May be responsible for serving alcohol who you know is going to drive and is already visibly drunk
+- But that wasn't the case here, the hosts weren't even serving Desormeaux
+### Conclusion
+- Proximity was not established, and injury was not foreseeable
+- Even if it was foreseeable, it was only nonfeasance
+- Thus, not *prima facie* duty of care arises, 2nd stage of *Anns* test not necessary
+### [[Hummel v Jantzi]]
+- Wesley, Phillip, and their friends went to a bar in Ontario, drank a ton of beer because it was 12 beers for $12
+- Phillip had a BAC of 0.192, Wesley's was 0.102 when it was measured around 3 am that night
+- Phillip pleaded guilty to driving while impaired causing bodily harm, Wesley was the one injured
+- Plaintiffs sought damages from Phillip, the car owner (his dad), and the All Star Bar
+- Sued Phillip for negligent driving, the bar for serving him until he could no longer drive, and for failing to ensure he wouldn't be driving
+- Court found that the bar had no policy to prevent a drunk person from driving after leaving
+- Also no effort to monitor the number of drinks consumed
+- Overall, commercial alcohol providers have an obligation to monitor alcohol consumption, and are liable if it or its employees knew or ought to have know the patron was going to drive drunk

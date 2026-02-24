@@ -1,0 +1,44 @@
+- Before we get to the point where there is a breach of contract, we may need to determine the meaning of the term that was allegedly breached
+- Point of interpretation is to determine what the intentions of the parties were by looking at the content of the agreement between the parties
+- Goal is to find an interpretation that seems to promote the true intent of both parties at the time the contract was formed
+- Two key aspects here, we are looking at intent of the parties, and intent at a specific time
+- However, this is not necessarily purely subjective intent, we use a lot of objective tests in contracts, so the result is a blend of subjective and objective factors
+- We're trying to figure out the subjective intent of the parties, and later on using objective tools to settle specific points of contention that can't be determined subjectively
+- If possible, a holistic subjective finding of intent is great, but where parties disagree we need to use some objective tools to resolve those disagreements
+- Traditionally accepted that it's appropriate to look at the objectives of both parties to interpret provisions
+- Party trying to argue that a term means something other than the literal interpretation will have to deal with the objective factors of contract law
+### Sources of Interpretation
+- First issue is what we are interpreting, what things can we look at to determine the intention of the parties, often called rules of construction
+- Need to consider things like the [[Lecture 13 (Contracts)|parol evidence]] rule, is a written agreement the sole source of the contract, or do other communications between the parties support it?
+- Recall that this rule excludes parts of the contract that would add to or contradict the terms of the written agreement, but doesn't bar evidence for interpretation purposes
+- Might not be able to include a verbal statement as a term of the agreement, but we can consider it when it comes to interpreting what is actually written in the agreement
+- Difference is between admitting evidence for determining the contents of an agreement and evidence for interpreting the agreements
+- Surrounding circumstances are a key part of determining the surrounding circumstances of the agreement
+- Example of this would be looking at commercial contracts differently from personal contracts, relevant for looking at what intentions and information available to the parties
+- Some cases have argued that some evidence of subjective intentions are less important or inadmissible compared to looking at the objective facts of the case
+- Recently, the SCC addressed this issue in *Sattva* (2014) where the court said that knowledge of background facts must be objective
+- Means that for something to count as a surrounding circumstance, both parties must have been aware of it or reasonably could have been aware of it at the time
+- However, the surrounding circumstances of an agreement can help with interpretation but cannot take priority over the terms of the agreement itself
+#### Subjective Intent
+- Where there is an ambiguity that cannot be resolved through objective means, we can now bring in the subjective factors
+- Generally seen as a last resort, there is also a principle stating that subjective intent can only be used for ambiguities that only arise after considering the surrounding circumstances
+- However, this is widely criticized and not often followed
+- Generally speaking, evidence of prior negotiations is inadmissible when it comes to determining intention in the final agreement
+- Will be admissible to show that a relevant background fact was already known to the parties, used to determine the content of the surrounding circumstances
+- Difficult to use this kind of evidence for determining subjective intention, but it's allowed when it comes to setting up the surrounding circumstances
+- Hard line for judges to draw, but generally this kind of evidence is inadmissible unless the point of admitting it is to show the goal of the contract, or how it first emerged
+#### Recitals, Conduct, and Related Deals
+- Recitals are preambles, often set out the context of the agreement and it's goals
+- This is definitely admissible, and is some of the best evidence you can get for this
+- Also extends to certain drafting techniques like headings used within a contract, and any collateral agreements like warranties
+- Headings can be used to interpret terms below them, but have to concede to the terms if there happens to be conflict between the terms and the heading
+- Debate over whether or not the later conduct of the parties can be used as evidence to interpret that term
+- Principle for this comes from a BC case called *Re Canadian National Railway and Canadian Pacific Ltd*
+- Rule is similar to subjective intention, usually not relevant but can be used as a last resort to resolve issues that can't be determined otherwise
+- Can also consider related agreements where multiple smaller agreements are being used to form a single larger transaction
+- As long as there is no dispute that these agreements were related, we can take information from one contract to interpret another, related contract
+### Words, Deletions, and Omissions
+- Words are usually interpreted in their ordinary sense, and courts may refer to dictionary definitions to determine this
+- If the words have some technical meaning, can admit expert evidence to support this and the same goes for technical legal terms
+- When it comes to deleted words, this usually does not matter as the courts tend to focus on the final version of the contract
+- Where a deleted word creates some ambiguity, may be able to look at those deleted words to resolve that ambiguity

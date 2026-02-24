@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "042380c08c9ce26d",
+        "id": "ba94630eb80d03c8",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7bb064055f3528",
+            "id": "162dac00d3431ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law School Notes/Year 1/Torts/Semester 2/Lecture 30 (Torts).md",
+                "file": "Law School Notes/Year 1/Property/Semester 2/Readings/Security of Property Rights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 30 (Torts)"
-            }
-          },
-          {
-            "id": "fafa2faa2af14b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Law School Notes/Year 1/Torts/Semester 2/Readings/Just v British Columbia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Just v British Columbia"
+              "title": "Security of Property Rights"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"imperial tobacco",
+                "query": "walker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "a0f75118967a7564",
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law School Notes/Year 1/Advocacy/Factum Notes/N.M. v A.T.A..md",
+                "file": "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Rabey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for N.M. v A.T.A."
+              "title": "Backlinks for R v Rabey"
             }
           },
           {
@@ -184,34 +171,35 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cd7bb064055f3528",
+  "active": "162dac00d3431ff3",
   "lastOpenFiles": [
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Just v British Columbia.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 30 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 28 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 27 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Cooper v Hobart.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Nelson (City) v Marchi.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Hummel v Jantzi.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Williams v Richards.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Childs v Desormeaux.md",
-    "Law School Notes/Year 1/Aboriginal/Readings/R v Gladstone.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 29 (Torts).md",
-    "Law School Notes/Year 1/Advocacy/Lecture 3 (Advocacy).md",
-    "Law School Notes/Year 1/Property/Semester 2/Lecture 31 (Property).md",
-    "Law School Notes/Year 1/Property/Semester 2/Lecture 28 (Property).md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/Stuartburn (Municipality) v Kiansky.md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/McKeen Estate v McKeen Estate.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 30 (Crim).md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Williams.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Brar.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Tatton.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Thibert.md",
-    "Law School Notes/Year 1/Public/Lecture 7 (Public).md",
-    "Law School Notes/Year 1/Public/Readings/Application.md",
-    "Law School Notes/Year 1/Advocacy/Factum Notes/Factum Planning Notes.md",
-    "Law School Notes/Year 1/Advocacy/Factum Notes/Combe v Combe.md",
-    "Law School Notes/Year 1/Advocacy/Lecture 2 (Advocacy).md",
+    "Law School Notes/Year 1/Property/Semester 2/Readings/Northern Counties Fire Insurance v Whipp.md",
+    "Law School Notes/Year 1/Property/Semester 2/Readings/Security of Property Rights.md",
+    "Law School Notes/Year 1/Property/Semester 2/Readings/Good-Faith Purchaser.md",
+    "Law School Notes/Year 1/Property/Semester 2/Readings/First Nations Land Management Act.md",
+    "Law School Notes/Year 1/Property/Semester 2/Readings/Nicola Band v Trans-Can Displays.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Lavallee.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Malott.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 36 (Crim).md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 35 (Crim).md",
+    "Law School Notes/Year 1/Public/Lecture 13 (Public).md",
+    "Law School Notes/Year 1/Property/Semester 2/Lecture 36 (Property).md",
+    "Law School Notes/Year 1/Public/Readings/B (R) v Children's Aid Society.md",
+    "Law School Notes/Year 1/Public/Readings/Canada AG v Bedford.md",
+    "Law School Notes/Year 1/Public/Readings/Canada v PHS Community Services.md",
+    "Law School Notes/Year 1/Public/Readings/Canada v Bedford.md",
+    "Law School Notes/Year 1/Public/Readings/Rodriguez v BC.md",
+    "Law School Notes/Year 1/Public/Lecture 12 (Public).md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/McHale v Watson.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/The Reasonable Man.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/The Learned Hand Formula.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/Bolton v Stone.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/R v Sask Wheat Pool.md",
+    "Law School Notes/Year 1/Public/Readings/Carter v Canada.md",
+    "Law School Notes/LSLAP and PBSC/LSLAP Intake Notes.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Stone.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Parks.md",
+    "Law School Notes/Year 1/Advocacy/Moot Material",
     "Law School Notes/Year 1/Advocacy/Factum Notes",
     "Law School Notes/Year 1/Aboriginal/Readings",
     "Law School Notes/Year 1/Aboriginal",
@@ -221,7 +209,6 @@
     "Law School Notes/Year 1/Torts/Semester 2/Readings",
     "Law School Notes/Year 1/Torts/Semester 2",
     "Law School Notes/Year 1/Torts/Semester 1",
-    "Law School Notes/Year 1/Property/Semester 2/Readings",
     "Untitled.canvas",
     "Attachments/Exported image 20250409135206-2.png",
     "Attachments/Exported image 20250409135202-0.png",

@@ -1,0 +1,51 @@
+- Issue here is "psychological blow" automatism, accused claimed that his wife's words put him into an automatic state causing him involuntarily to stab her repeatedly
+- Can mere words be enough to cause an automatic and involuntary state?
+- Accused went on a business trip to Vancouver and planned to visit his two sons from a previous marriage, his wife went with him and berated him constantly throughout the trip
+- Prevented him from seeing his sons from more than 15 mins, and his wife asked for a divorce on the way back while continuing to berate him
+- Two pulled into an empty lot, she continued to yell at him, telling him she reported him to the police claiming he was abusing her
+- Threatened to have him arrested and removed from their house and to financially drain him through child support
+- Also insulted him repeatedly yelling into his face
+- Accused reported his senses begin to fade as he dissociated, and felt a "whooshing" sensation wash over his body as his eyes unfocused
+- Came back to his senses standing outside the truck, he had taken a hunting knife from the car door and stabbed the victim 47 times, killing her
+- Hid the body in the back of his truck, cleaned up the blood and went home where he waited outside the house
+- Packed a bag and wrote a note for his step daughter, and fled to Mexico
+- Only recalled the events of the killing a week later while staying in Mexico, later came back to Canada and surrendered to the police
+- Psychiatric evidence suggested that the accused experienced a dissociative episode caused by a series of psychological blows
+- Crown psychiatrist testified that it was much more likely that the accused was in a state of extreme rage instead
+- Neither psychiatrist suggested that the accused suffered from any sort of mental disorder
+### Analysis
+- Trial judge found there was enough evidence to raise the general defence of automatism, but only instructed the jury on insane automatism because of a previous case called *MacLeod*
+- Jury had the options of NCRMD, guilty or not guilty for 2nd degree, or guilty/not guilty for manslaughter due to provocation
+- Charged for manslaughter, found criminally responsible
+- Issue was whether the Court of Appeal erred in upholding the decision to not leave non-insane automatism with the jury
+- Recall that a successful defence of insane automatism triggers s. 16, a successful defence of non-insane automatism grants an acquittal
+- In the dissenting opinion from [[R v Parks]], La Forest set out two steps for determining whether automatism should be left to the jury
+- First need to see if the evidence allows for the defence, then check whether accused's condition was insane or non-insane automatism
+- This is part of the voluntariness requirement because a successful defence is seeking to negate the *actus reus*
+- We assume that people act voluntarily, so the burden is on the accused to rebut that presumption by raising some evidence to the contrary
+- Ordinarily, this would then require the Crown to prove voluntariness beyond a reasonable doubt
+- However, given the very real policy considerations surrounding this defence, it may be more appropriate to also require the accused to prove involuntariness on a BOP
+- This is likely a violation of s. 7 of the Charter, but should be justified under s. 1
+### Evidence Requirements
+- In [[R v Rabey]], the Court held that a particularly severe psychological blow would be required before non-insane automatism would be left before the jury
+- Something similar should be done in all automatism cases, need to consider the nature of the "trigger"
+- Evidence raised by the accused should mainly be evidence of a history of similar states, especially attached to a similar trigger
+- Also, evidence of an unusual or unresponsive disposition on the part of the accused from a bystander will be very helpful
+- Need to consider this carefully, these are not experts
+- Another important factor will be the availability of a clear motive, more likely an act is automatic if the act was unusual or seemingly had no reasoning behind it
+- Also suspicious where the victim of the act is also the person who triggered the act
+- *Parks* is a good example where the accused had a strong case for non-insane automatism
+- No reason to kill the victims, and the "trigger" seemed completely unrelated from his actions
+- In the future, advances in medical knowledge may provide us with further ways to find evidence here
+### Jury Charges
+- If the appropriate level of evidence has been met, then at this point the judge can consider leaving insane or non-insane automatism with the jury
+- Comes down to a determination of whether the condition faced by the accused should be considered a "disease of the mind"
+- Recall that this is a legal term, not a medical term
+- Generally, we assume that the accused is suffering from a disease of the mind and look for evidence to the contrary
+- Can use the "internal cause theory" to determine this, which starts from the same assumption according to *Rabey*
+- The dissent from *Parks* sets out the two main approaches to this issue, the internal cause and continuing danger theories
+- Approach going forward should be a combination of these, alongside some key policy considerations
+#### Internal Cause Theory
+- Mainly applied to "psychological blow" cases, need to consider whether a normal person in the same situation would have reacted in a similar way
+- If not, it seems that there is some underlying reason for the accused's unusual actions
+- 

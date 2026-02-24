@@ -1,0 +1,30 @@
+- Indians, Metis, and Inuit are all grouped under the category of "Aboriginal" according to s. 35 of the 1982 Constitution
+- Claimants were members of a Metis settlement but were also status Indians, meaning they cannot be members under the *Metis Settlements Act* (MSA)
+- Argue that denying them membership violates s. 15
+- Court held that the purpose of the MSA was to protect Metis identity and culture and is ameliorative in nature
+- Because of this, excluding status Indians from membership is a protected form of discrimination under s. 15(2)
+### Analysis
+- Section 15(2) serves to encourage the process of "reverse discrimination", allowing the government to target disadvantaged peoples based on their personal characteristics to help them
+- Approach to determining what kinds of legislation are protected under this section comes from [[R v Kapp]]
+- For a distinction to qualify under s. 15(2), it has to be on a ground that "serve(s) and are necessary to" the purpose
+- Does not mean you need proof the exclusion is essential to achieving the goal of the program
+- As long as the distinction supports the overall goal of substantive equality, it should be protected
+- Ameliorative programs are supposed to give benefits to one group and not to others, which still applies even if the excluded groups are also similarly disadvantaged
+- Because these distinctions serve to reduce disadvantages faced by groups that were historically discriminated against, they are acceptable
+- Applies even if other disadvantaged groups are excluded from the benefits
+### Application
+- In this case, the group being targeted is the Metis, who have a unique status under s. 35
+- Metis are listed as being distinct from Indians and Inuit, the other two Aboriginal groups listed in the Constitution
+- Considered aboriginal, but not granted the same protections as those other groups
+- Purpose of the *MSA* was to ameliorate that distinction by giving the Metis protections
+- Can broadly describe this as needing to enhance the identity, culture, and self-governance abilities of the Metis
+- Without drawing a line between Indian and Metis, this program cannot achieve that goal
+- Metis have historically distinguished themselves from both settlers and Indigenous groups, otherwise they likely would have been absorbed into either group
+- Main argument is that allowing status Indians into Metis settlements would dilute their unique culture, and also affect Metis political power
+- Status Indians already receive many benefits from the *Indian Act*, so they would not be motivated to fight for these same protections for the Metis
+- Also supported by the fact that the Metis intentionally requested this exclusion during consultation with the Canadian government
+- This fact does not automatically exclude the MSA from *Charter* challenges, but it does mean the government has to respect the desires of the Metis to some extent
+- Overall, the exclusion of status Indians from becoming members of a Metis settlement is part of an ameliorative program
+- Based on historical distinctions between the groups, and furthers the objective of protecting Metis identity
+- Many people hold mixed identities, we need to draw the line somewhere and in this case it means that not all Metis get the benefit of *MSA* membership
+- 

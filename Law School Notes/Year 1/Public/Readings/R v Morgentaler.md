@@ -1,0 +1,82 @@
+- Issue with this case was s. 251(1) of the *Criminal Code*
+- This provision made taking steps to cause an abortion an indictable offence punishable by life in prison
+- Section 251(2) specifies that a pregnant woman seeking to cause her own abortion is also guilty, but liable for only two years imprisonment
+- Section 251(4) allows exceptions for abortions performed in an accredited hospital where the therapeutic abortion committee of that hospital has stated that the continuation of the pregnancy would endanger life or health
+- Morgentaler and two colleagues operated an abortion clinic in Toronto, but they were not accredited and had no abortion committee
+- Charged under s. 251(1), argued it was a violation of s. 7
+### Security of the Person
+- At common law, any medical procedure done without consent in assault, the protection of bodily autonomy has long been recognized by law
+- This existed long before the Charter, and we should consider that history when interpreting its constitutional form
+- Appellants argue that this right is the right to control one's body and made fundamental decisions
+- Crown argues that the right only protects an individual's interest in their bodily integrity
+- Court decided to limit its analysis to cases where s. 251 leads to imprisonment
+- Held that based on the available facts, it is undoubtable that s. 251 is a *prima facie* violation of the security of the person faced by all Canadian women who wish to discontinue their pregnancy
+- At the base level, this provision states that all pregnant women cannot get this medical procedure she wants unless she meets a set of criteria unrelated to her priorities
+- Removes her decision-making power which both poses a physical threat as well as imposing psychological damage
+- Function of s. 251 is to force women, by threat of imprisonment, to give birth unless they can meet criteria outside of their control
+- Even if the women can meet this criteria, the process imposes an unnecessary delay on the process
+- Risks caused by a delayed abortion are clearly established, and suffice as a violation of security of the person
+### Principles of Fundamental Justice
+- Procedural requirements to get accredited to perform an abortion meant that few hospitals could actually do them
+- At least three doctors needed to sit on the committee, and a fourth doctor was needed to perform the abortion
+- Combined with other restraints, this meant that only about 20% of hospitals in Canada could perform abortions
+- Also no clear standard as to when a therapeutic abortion should be granted, a threat to "life or health" is too vague
+- These committees applied vastly different definitions of health, with some allowing psychological help and others requiring physical danger
+- Impossible to know that the standards would be ahead of time
+- Because of these issues, the process for getting a therapeutic abortion does not comply with the principles of fundamental justice
+- A basic tenet of the criminal justice system is that a defence to a criminal charge cannot be illusory or so vague that it's practically illusory
+- Can imagine several scenarios where a married pregnant woman getting an abortion would be barred from the defence under s. 251(4) by the processes of s. 251 itself
+- System has so many barriers to functioning properly that the defence it creates is practically unavailable in many scenarios
+- For these reasons, s. 251 is in violation of s. 7, if Parliament wants to make abortions illegal, they need to allow for a proper defence
+- Majority also held that this violation was not justified under s. 1
+- Stated that the impairment is way more than necessary, and the limitations is disproportional to the goal
+- Objective of s. 251(4) is presumably to protect the life and health of women, but in practice it actually causes more harm
+### Concurring Opinion (Beetz)
+- Held that the primary purpose of s. 251 was to protect the fetus
+- Security of the person includes the right of access to care for a condition posing a danger to life or health
+- If that person has to choose between committing a crime and getting adequate treatment, this is a violation of security of the person
+- Pregnant women who face a danger to their life or health have the option of either following s. 251(4) and risking being denied as well as experiencing delays, or breaking the law
+- Places emphasis on how the legislation created delays as the primary rationale for the s. 7 challenge
+- Can't be invoked solely on the basis that a pregnancy is a medically dangerous condition, only if the delays create an additional danger to health
+- Main risks are medical concerns related to delays, the risk of seeking unofficial means of abortion and the additional psychological harm
+#### Principles of Fundamental Justice
+- Because of the unnecessary delays created by the structure of s. 251, it violates the principles of fundamental justice
+- Some of the procedural requirements have no connection to the legislative objectives of the provision, and some are manifestly unfair
+- Within legislature's rights to require an independent medical opinion to approve an abortion, but the process to get this is too nebulous
+- Need to balance the life interest of the fetus with the interests of the mother
+- Some delay is inevitable, especially if there are also rules regarding the safety of the abortion procedure
+- However, the requirement that the abortions be done in hospitals and with a committee of at least three doctors who do not perform therapeutic abortions is unnecessary and unfaair
+- Also cannot be saved under s. 1 because there is no rational connection between these requirements and the protection of the fetus
+### Concurring Opinion (Wilson)
+- Argues that the real consideration is whether or not a pregnant woman can be required by law to give birth against her will
+#### Right of Access to Abortion
+- First thing to consider is whether or not the interests protected under s. 7 extend to a right to access abortion
+- First thing to address is whether the right to liberty helps here
+- This right is tied to human dignity, which is the underlying justification for most of the individual Charter rights
+- Generally speaking, liberty does not require the state to approve of the personal decisions of citizens, and the state has to respect those decisions
+- This is supported by American law, certain kinds of decisions that intimately affect the lives of people are protected by law
+- Seems pretty clear that the decision to terminate a pregnancy is in this class, it has huge psychological, economic, and social consequences
+- Probably impossible for a man to respond to this kind of issue simply they fundamentally cannot relate it to their personal experience
+- Right to reproduce or not is only now being understood as an integral part of asserting human dignity
+- Also clear that s. 251 violates this right by taking the decision to end a pregnancy away from the woman
+- Committee will make their decision based on criteria completely outside of the woman's priorities
+- Taking this decision away from her in the first place is already a violation of the right to liberty
+#### Right to Security of the Person
+- Agrees that this protects from physical and psychological harm, and state enforced medical procedures violate this right
+- Effect of s. 251 is to put the capacity to reproduce under the control of the state, interfering with her physical person
+- Treats the woman as a means to an end that she does not desire
+- Deprives them of human dignity and self-respect, stripping them of any security to their person
+- Also deprives women of their right to freedom of conscience under s, 2(a)
+- This is because the decision to end a pregnancy is a moral decision
+- Finally, it's not in accordance with the FPJs and isn't saved by s.1
+### Dissenting Opinion
+- Response to Wilson's opinion, arguing that there is no right to an abortion under s. 7 of the Charter
+- All laws have the potential to interfere with individual priorities
+- No language in s. 7 or any other section of the Charter suggests that women have a constitutional right to an abortion
+- Only explicitly addressed in certain human rights documents, and the Charter does use specific language regarding other issues like language rights
+- Especially considering how controversial of a topic abortion is, cannot argue that the underlying philosophies of society support a Charter right to an abortion
+- Only explicit mention of an abortion in Canadian law is in s. 251
+- Also argues that more is required than state-imposed stress or strain to establish a s. 7 violation
+- Need to have an infringement of another right on top of the stress
+- Argued for rejecting the challenge and dismissing the appeal
+- Final result was the appeal was allowed, and Morgentaler and their associates were acquitted

@@ -1,6 +1,6 @@
 ### Intro
 - Start by introducing LSLAP and explaining what we do
-- Briefly set out how the session will work, and what they can expect
+- Briefly set out how the session will work, and what they can expect (2 week turnaround)
 - Establish that I can't give legal advice over the phone, and set the time limit
 - Cover the waiver and fill out the stats sheet
 - Explain that I'll send the program info sheet later so they have my email, if they want to phone me then call the switchboard

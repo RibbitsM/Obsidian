@@ -1,0 +1,12 @@
+- Case involves a haystack created by the defendant on the boundary of their property that set fire and spread to the plaintiff's house
+- Told several times in the weeks leading up to the fire that the haystack was a fire hazard and he should take it down
+- Judge instructed the jury that the issue was whether the fire was caused by gross negligence by the defendant, and mentioned he had to have used reasonable caution
+- Trial jury ruled for the plaintiff, appealed because the jury should have considered not whether there was gross negligence, but whether he acted to the best of his judgement
+- Basically said he shouldn't be liable for being stupid
+- Issue on appeal is whether the defendant acted honestly based on his best judgement
+- Court says this is way too vague, how do we determine the level of judgement available to each person
+- In bailment cases, the general rule is to assess the actions of the borrower against what a reasonable person would do
+- But in some other bailment cases, the borrower has to use the strictest care and diligence to keep the goods safe
+- Based on this information, the rule is always what care would be taken by the prudent man, and juries in those cases have generally been able to successfully identify negligence
+- Instead of making liability for negligence based on the subjective judgement of the accused, we should assess it on an objective standard of what a reasonable person would do
+- Held that the subjective rule should be discharged

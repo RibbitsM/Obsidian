@@ -1,0 +1,29 @@
+- The override or the "notwithstanding" clause is found in s. 33 of the Charter, and is generally considered the most controversial part of the Charter
+- Only example where the SCC was asked to review the exercise of the power is *Ford v Quebec*
+- Background for the case was that the Quebec government was excluded from the final discussions on the amendment of the Constitution in 1982
+- To protest this, Quebec used s. 33 to shield its laws from the application of the Charter
+- Used something called a "standard override clause" in all of its laws saying that the Act operates outside of ss. 2 and 7-15 of the Constitution
+- Did this by repealing and re-enacting all pre-Charter legislation in the province through something called an omnibus amendment
+- Happened on June 23, 1982, which was three months after the Charter came into effect, but was supposed to apply retroactively as well
+- Court concluded that you can do this, but s. 33 doesn't work retroactively
+## Ford v Quebec (AG)
+- Based on a challenge to the *Quebec Charter of the French Language*, which requires all signs in the province to be in French only
+- Challenged under the Charter as well as the Quebec version of the Charter
+- This portion of the case considers whether the omnibus override was valid
+- Main argument against the override was that it did not specify which rights and freedoms the amendment intended to override
+- Argue that the wording of s. 33 suggests that for a declaration under that section to be valid, it must specify which provision they want to override
+- Instead of just listing the section number, you have to specify the words of the provision that is being overridden to allow for transparency to the public
+- Should be a political cost for doing this
+- However, s. 33 only really deals with issues of form and thus there is little reason to allow judicial review of policy exercising that section
+- If there was also a part in s. 33 that required a link between the overriding act and the provisions that it is overriding, that would be substantive
+- However, this is not the case
+- Legislature may not even be able to tell what parts of an act crash up against what parts of the Charter, after all that is not their expertise
+- Overall, it seems that the standard override clause is valid
+- It's ok to just list the section number, and you only need words if you're overriding a specific part of a section
+- Because the clause is valid on its own, there's also no reason why that clause cannot be inserted into all past Quebec laws
+- Counsel argued that this is an abuse of s. 33, but this is not an argument relating to the validity of the override
+- Since this can't be subject to judicial review, can't make decisions of reasonableness
+- However, the retroactive effect of the override may not stand up
+- Section 33(1) reads that an Act may "operate notwithstanding" a section of the Charter
+- The word "shall" implies a future effect, but is ambiguous about it
+- In these situations, we look to the narrower interpretation, meaning that s. 7 cannot give retroactive effect to the override???

@@ -30,6 +30,7 @@
 - If there are no matching scenarios, you perform the stage one analysis as usual, and otherwise you proceed to stage two
 - When considering just and fairness, important to look at things like the expectations arising from the relationship between the parties
 - You're looking at the nature of the relationship, and the implications of recognizing a duty of care on the members of that relationship
+- Also need to look at potential reliance from the parties, what kinds of promises were made to the involved interests
 #### Stage 2
 - Now, we need to consider what policy concerns existing outside the relationship between the parties that may affect the imposition of a duty of care
 - Look at what the impact would be on things like other legal obligations, the legal system, and other aspects of society

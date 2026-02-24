@@ -1,0 +1,32 @@
+- Section 32 of the Charter applies the act to all matters within the authority of federal and provincial governments, this is an [[Application]] issue
+- This also extends to preventing inaction from a government to fulfill a positive duty under the Charter relating to matters under its control
+- Present case is an example of where the Charter applies to an omission
+- Involved a challenge to Alberta's *Individual Rights Protection Act* on the grounds that it did not provide protections from discrimination on the basis of sexual orientation
+- Vriend was an employee at a Christian college who was fired for being gay
+- SCC found that the omission of sexual orientation violated equality rights
+### Analysis
+- Issue in this case is whether the Charter applies under s. 32
+- Test for this is whether the matter was within the authority of the Alberta legislature
+- Can't argue that the courts should not be able to read a provision into a piece of legislature, as this would draw an unnecessary line between legislative action and inaction
+- If the court can strike down legislation violating the Charter, it should also be able to elevate legislation to meet Charter standards
+- Nothing in s. 32(1)(b) suggests that it only applies to positive acts, it just says that the Charter applies to all matters within the legislature's authority
+- Application of the Charter is not limited to where the government is encroaching on rights
+- If it couldn't punish omissions, then legislation could just omit certain groups instead of explicitly excluding them, and it would be allowed
+- This is illogical, unfair, and should not be accepted
+- Overall, the matter is certainly within the authority of the legislature, and the Charter applies
+# Section 15
+- Have to read this case twice, this time focusing on s. 15
+- Facts are the same obviously
+### Analysis
+- This was both a direct and adverse effects case at the same time
+- Defendants argued that since the *IRPA* doesn't mention sexual orientation at all, it cannot be held to be creating a distinction
+- It protects people of all sexual orientations equally, and thus does not discriminate, any discrimination based on sexual orientation is the fault of society
+- Court held that these ideas are based on a flawed concept of equality, long held that identical treatment does not constitute equal treatment
+- As long as there is a distinction in practice, it does not matter how the law creating it is written
+- Saying "A benefits" and "everyone benefits except B" impacts B in the same way
+- Just because non-heterosexual people can bring discrimination complaints based on the other grounds in *IRPA* doesn't mean they're fine, they would obviously prefer to be free from discrimination based on their sexual orientation
+- Same argument about omissions made in the earlier notes
+- This act also discriminates between gays and lesbians and other disadvantaged groups by denying them the protections those other groups enjoy
+- Also discriminates between homosexual and heterosexual individuals because a lack of protection for discrimination disproportionately affects the former group
+- Defendants also acknowledge the discrimination faced by those groups in society, which is precisely why their exclusion here is discriminatory
+- Remedy was reading in sexual orientation as a protected group

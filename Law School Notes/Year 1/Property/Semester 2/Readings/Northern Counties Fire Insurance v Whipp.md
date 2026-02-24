@@ -1,0 +1,26 @@
+- Manager for the plaintiff mortgaged a bunch of properties and kept the deeds to those properties in a company safe
+- Later took the deeds but not the mortgages from the safe and gave them to the defendant
+- Manager had executed a mortgage for her in the past, but she did not know that the manger had taken out mortgages on the properties the deeds belonged to
+- Manager went bankrupt, liquidator tried to foreclose on the defendant who was the manager's trustee in bankruptcy
+- Defendant argued that the mortgages were fraudulent and did not apply against her
+- If this isn't possible, the mortgages should be postponed to her security and the company should give the properties to her
+### Analysis
+- Basically, the main issue is whether or not Whipp should have to pay for the mortgages on these properties even though she didn't know they existed
+- Plaintiffs argue that fraud is requires to postpone the mortgages, defendant argues that gross negligence is enough
+- Need to look at two different kinds of cases, those where a legal mortgagee didn't get the title deeds and those where the legal mortgagee gave up or did not retain the title deeds after getting them
+- In this case, the company was the legal mortgagee and the manager was the mortgagor?
+- Issue came when the manager gave the deeds to Whipp even though the mortgages had never been resolved
+- One kind of fraud that can emerge here is where one person takes a legal estate when they knew there was a prior right to that estate
+- Can happen if a mortgagee took the legal estate but did not get the title deeds
+- Where the mortgagee did get the title deeds but then gave them up, to find fraud you need to prove the mortgagee was working with the mortgagor to defraud someone
+- Court will postpone the legal estate to the equitable estate where the legal owner assisted in the fraud that led to that equitable estate being created without notice of the prior legal estate
+- Will also postpone where the owner of the legal estate has made the mortgagor his agent and the equitable estate is created by the fraud of the agent
+- Will not postpone on the grounds of carelessness from the legal owner
+### Application
+- Seems clear that there was carelessness, but was there fraud?
+- Plaintiffs never coordinated with the manager to induce Whipp to lend money in exchange for the property deeds
+- However, the manager may be considered as the agent of the plaintiff
+- Because the manager had the key to the safe where the title deeds were kept, this may suggest that he was an agent
+- However, overall it seems like he was not acting as an agent
+- Appeal allowed, and the plaintiffs get priority, not the defendant
+- Also, defendant has to pay costs

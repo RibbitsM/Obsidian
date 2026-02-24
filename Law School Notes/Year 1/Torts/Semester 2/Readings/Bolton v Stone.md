@@ -1,0 +1,12 @@
+- Plaintiff got injured by a cricket ball that flew onto a public road during a match
+- Court took notice of the significant improbability of this happening as a reason to not impose liability in this case
+- Happened about 6 times in the last twenty-eight years
+- Act wasn't reasonably foreseeable because of the low probability and thus is not negligence
+- Based this on definitions of negligence from previous cases, including a case where a dog broke a window of a car, sending a glass splinter into the plaintiff's eye
+- Argument in this case was because the ball had gone onto the road before, then that means it would be foreseeable that could happen again
+- Even though the chance was small, the fact that it had happened before meant it was still reasonably foreseeable
+- Irrelevant how busy the road was at the time, the act is still foreseeable
+- Court argues that the standard should be not creating substantial risks
+- As long as the risk of damage to the person on the road was small enough that a reasonable man would choose to not prevent the danger, it's ok
+- The cricket ground was already safe for all reasonable purposes, and restricting it more would be ridiculous
+- Overall, the case was dismissed and decided for the defendant

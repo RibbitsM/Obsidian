@@ -1,0 +1,40 @@
+- Recall that the designation of NCRMD is legal, not scientific
+- We're not trying to medically determine mental illness, just whether or not someone should be held accountable on policy and legal grounds
+- Often applied to murder, but of course works for other offences as well
+### [[R v McBride]]
+- This case deals with criminal harassment, the accused was obsessed with a man named Mark McBride and constantly followed and stalked him throughout his life
+- He was married, but she continued to show up and attempt to contact him, being convicted once for criminal harassment and required to stay away from the McBrides for two years
+- After this period ended, she also changed her last name to McBride, which the McBrides found out about when her manager told them
+- Also continued harassing the McBrides in other ways and apparently began planning a wedding between herself and Mark
+- Eventually charged with criminal harassment again
+- Offence was initially added to the *Code* because of several instances where this kind of conduct was followed by a murder
+- Requires the accused to know that the other person is being harassed and cause them to reasonably fear for their safety
+- Conduct for this offence would be following someone or engaging in threatening conduct
+- Circumstances are doing it without lawful authority
+- Consequence is causing someone to fear for their safety
+- Trickier part is the *mens rea*
+- Need knowledge that the other person is being harassed or recklessness in determining that
+- This offence has been criticized both for being too specific and too broad at different times
+- Trial judge focused mainly on the name change, pointed out that the accused could potentially be escalating to killing Mrs. McBride, causing her to fear for her life
+- At the end of the trial, the Crown raised the argument that the accused was suffering from erotomanic delusions and that she was NCRMD
+- Trial judge accepts this argument, and she is institutionalized, put in custody for five years until the appeal, way more than the jail sentence would have been
+- Wants to have the NCRMD label removed, because she could potentially be confined indefinitely as long as the review board doesn't think she's rehabilitated
+- Appeal focused on two main errors, the judge focused too much on the actual knowledge of the accused instead of her capability for knowledge, and that they made contradictory statements on the *mens rea* and the NCRMD designation
+- First, the Crown proved that she knew her conduct was harassing, but then later argued that she did not know because of her mental disorder
+- Court of appeal accepted that argument, recognizing the inconsistency here
+- Can't both prove the *mens rea* of criminal harassment and that the accused was NCRMD
+- Way the offence is drafted makes it quite difficult for a finding of guilt and an NCRMD declaration to coexist
+### R v Reeves
+- Similar thing happened in this case where the judge conflated capacity to form intent with the fact of intent
+- Accused was charged with second degree murder after killing his stepfather
+- Defence did not argue the accused was NCRMD, but rather that his mental state meant that he could not develop the requisite intent for murder
+- Court of appeal agreed with this argument, and substituted the original charge for manslaughter
+- Because the question to the jury was whether appellant actually formed intent, not whether they were capable of forming it, they should have been able to consider their mental state when the offence occurred
+- Trial judge erred by not instructing the jury to consider the delusions the accused was experiencing
+### Automatism
+- There's a couple of ways that the law recognizes automatism, [[R v Daviault|extreme intoxication]] is one of them, and [[R v Jiang]] is another example
+- However, can also be triggered by a mental disorder, called mental disorder automatism
+- This puts you in the NCRMD system, but can also argue non-mental disorder automatism that will earn you an acquittal, this is what happened in *Jiang*
+- Raises the issue of where to draw the line between these two forms of automatism
+- This is what we're going to cover next week in [[R v Rabey]]
+- 
