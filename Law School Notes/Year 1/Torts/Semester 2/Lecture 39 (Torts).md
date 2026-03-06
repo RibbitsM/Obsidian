@@ -1,0 +1,82 @@
+### [[Cook v Lewis]]
+- Issue here is factual uncertainty coming from multiple tortfeasors
+- Three people going hunting, defendants were hunting grouse and saw that their dog had found a group of grouse
+- Grouse flew up, both defendants took their shot at the same time, and the plaintiff hiding in a nearby bush was hit in the eye
+- Unsure which defendant hit them, also could have been both
+- Four questions for the jury
+	- Was the plaintiff shot by either of the defendants?
+		- Clearly yes
+	- If so, which one?
+		- Not certain
+	- Can you figure out which one?
+		- No you can't
+	- Were the plaintiff's injuries caused by the negligence of either defendant?
+		- Trial jury said no
+- Plaintiff appealed to the BCCA, found for the plaintiff and ordered a new trial, appealed to SCC
+- SCC dismissed the appeal, upholding the order for a new trial
+- Jury charge regarding negligence was improper, specifically on the standard of proof
+- If a plaintiff shows guilt in one or both of two persons, the plaintiff has discharged their responsibility for proving liability
+- Onus shifts to the defendants to disprove this, give an alternate explanation
+- Court found that based on the facts, the jury ought to have determined that at least one defendant was negligent
+- Onus shifts when you can't segregate the wrongdoers, main ratio of the case
+- Concurring opinion argued that both defendants should be liable
+- Same principle from [[Snell v Farrell]] and [[McGhee v National Coal Board]], not necessary to have perfect knowledge of causation because you can draw an inference
+### [[Clements v Clements]]
+- Parties were a couple who were motorbike enthusiasts, they were driving on the same bike, which unknown to both parties had a nail in the back tire
+- Sped up above the speed limit to pass a truck, rear tire deflated, destabilizing the bike and leading to a crash
+- Wife sued him after suffering a TBI on the basis that his speeding caused the injury
+- Bike was also overloaded, should not have been driving at that speed with that load
+- Husband did not deny that he was negligently operating the bike, argued that his negligence could not be directly tied to the injury
+- Expert witness testified that the tire puncture could have caused the accident
+	- When you have an expert witness testifying that the probable cause is something else, usually they're saying that the injury would have happened anyway
+	- Causation is not proven, negligence was irrelevant to the injury
+- Trial court rejected this argument, saying that he still contributed to the accident
+- Could not meet the "but for" test for causation though
+- Didn't have the evidence necessary to determine this scientifically, we already know that this is an issue
+- Because of this inability to show precise proof of which factor was more significant, can ignore the but for test and substitute material contribution and find Mr Clements liable
+- On appeal, the BCCA held that the material contribution test did not apply
+- Supreme Court found the same thing, sent the case back to trial to use the but for test only
+- Described material contribution not as a test, but a specific approach
+- **Where it is impossible to determine which of a number of negligent acts of multiple tortfeasors caused an injury, where we know one or more of them caused the injury, can apply the material contribution approach to determine liability**
+- SCC said that this is not a test for causation, it's a policy driven approach
+- Goal is to allow plaintiffs to recover where they fail to prove causation due to limits of science to clearly show how the injury happened
+- Applied in cases where it would be manifestly unfair to not provide compensation, waives the traditional requirements of causation
+	- Would offend basic notions of fairness and justice to not do so
+- Generally, you need three elements to apply material contribution
+	- First, you need multiple tortfeasors who can all be at fault based on the facts
+	- Second, one or more must be responsible for the injury
+	- Third, but for their negligence, the plaintiff would not have been injured
+- Means that the plaintiff has proven but for causation against the group, but cannot apply it to any individual defendant
+- When this happens, the law demands compensation for the plaintiff for policy reasons
+- But in this case, we were only determining whether the injury was caused by an accident or negligence, not between multiple tortfeasors
+- Trial judge committed two errors, first they stated that scientific precision was required for but for causation, and second, they applied material contribution to a case with only one defendant
+### Recent Cases
+#### Fowlow v South Lake Regional Health Centre
+- Appellant's family member died after going for surgery by the respondent (axillary-femoral bypass)
+- This is a graft of two arteries to bypass a blockage in another artery
+- Respondent used a product not recommended for this kind of bypass, did not read the manufacturers manual for the grafting device
+- Patient died of massive blood loss four days after being discharged because one end of the graft had detached
+- Trial judge found that the respondent was negligent for several reasons, consistently fell below the standard of care
+- However, they found that the appellants did not meet the burden of proof for causation
+- Couldn't expressly connect the detachment to the quality of the graft (bro dumb ash)
+- Appealed on the grounds that the trial judge focused too much on the specific mechanism of detachment, should have applied the approach from *Snell*
+- Also argued that they didn't apply the modified objective test from [[Reibl v Hughes]]
+- Use of the graft materially contributed to the risk of detachment
+- If the patient was informed that the doctor was using a graft not recommended for the kind of bypass they were having, they definitely would have rejected it
+- Appeal rejected because the material contribution test was not applicable because it was not impossible to satisfy the but for test, and only one defendant
+- Also said that the plaintiffs still need to provide some evidence of causation
+- Idk what they're on because it seems pretty easy to infer here
+- Guy got two arteries grafted using a non-recommended grafting device and died four days later from massive blood loss, what else could have possibly happened?
+#### Wilson v Beck
+- Another case where patient died after being treated by some doctors
+- Court of Appeal affirmed that the but for test is needed, and you can take a "robust and pragmatic approach to the facts"
+- Reaffirms the various tests we've already learned
+#### Hansen v Sulyman
+- Appellant and passenger ran out of gas and pulled over on the curve
+- Drunk driver rear ended them, appellant's passenger became a quadriplegic
+- Apportioned 70% damages to the driver, 5% to the bar that served them, and the rest to the appellants for not putting their hazards on
+- Appealed this on the grounds hat the judge applied the wrong test by only saying they caused or contributed to the accident
+- Held that where there are several factors that might not be sufficient on your own, the accident would not have happened without all three actors
+- Clear application of the pragmatic and robust but for test for causation
+- We know what all three parties did to contribute, this is how the but for test is supposed to work
+- Appeal dismissed

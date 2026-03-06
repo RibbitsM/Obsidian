@@ -1,0 +1,92 @@
+- Eastern Canada is mostly covered by pre-Confederation treaties, called the "peace and friendship" treaties in the Maritimes
+- Mostly dealt with trade issues, designed to create alliances with local groups
+- Like most other treaties, these were interpreted very differently by the Indigenous communities
+- Further west, the Robinson-Huron treaties dealt more with resource extraction issues, especially establishing routes for the CPR
+- Also some pre-Confederation treaties on Vancouver Island, namely the Douglas treaties
+- As for modern treaties, started with the James Bay and Northern Quebec Agreement in 1975 and Northeastern Quebec Agreement three years later
+- Also plenty of modern treaties in BC like the Maa-nulth treaty
+- Numbered treaties were probably the starkest difference of gaps in understanding between the Crown and Indigenous nations
+- Crown mainly saw it as an exchange of land, Indigenous communities viewed them as statements of mutual respect and co-living between nations
+- Especially notable was that the Crown saw these agreements as legitimizing Crown sovereignty over "surrendered" lands
+- Indigenous perspective was definitely known and partly understood on the Crown's end
+## [[R v Badger]]
+- Dealt with Treaty 8, one of the geographically largest treaties covering most of the northern prairies
+- Issue was with several Cree status Indians hunting on Treaty 8 lands
+- Three key issues the court needed to address to figure how to interpret treaty rights
+	- What is the scope of the right to hunt under Treaty 8?
+	- Was this right modified or extinguished by the *NRTA*?
+	- Are the *Wildlife Act* provisions a justified limit on those rights?
+### Treaty 8 and the NRTA
+- Original Treaty 8 guarantee granted hunting, trapping, and fishing rights on surrendered lands subject to regulations made by the government
+- Did not apply to lands needed for settling, mining, lumbering, trading, or other purposes
+- Recall that actions on these lands also trigger the duty to consult post-1982
+- All these cases come to court in different ways, and the approach will change accordingly
+- Similar to [[R v Van der Peet (ATR)]] and [[R v Gladstone]], these are criminal cases where the focus is really on the scope of the right and the facts of the case
+- When we have judicial review cases, focus will change, especially if it's a title case
+- This likely wasn't an intentional test case like [[R v Sparrow]], just happened to come up
+- The *Natural Resources Transfer Agreements* mainly dealt with transferring authority over natural resources to the provinces, Indigenous groups were not consulted and were affected on the side
+- Under the original Constitution Act, authority over resources rested with the fed
+- Paragraph 12 of the *NRTA* discusses the right to hunt and fish regardless of season on unoccupied Crown lands and other lands where Indigenous people have a "right of access"
+- What does this mean in relation to Treaty 8?
+- A previous case called *Horseman* in 1990 had a 4-3 decision where the majority accepted the argument that the Treaty 8 rights were merged and consolidated into the *NRTA*
+- Argued that this meant those rights were extinguished and replaced
+- Because they talked about "fish for food", commercial rights to these activities were extinguished, and what was left was only rights to hunt/trap/fish for food
+- In another case called *Sioui* very recently after *Horseman*, a unanimous decision was made that a treaty cannot be extinguished unilaterally without permission of the Indigenous group
+	- Dealt with one of the peace and friendship treaties in Quebec
+### Principles of Treaty Interpretation
+- Court needed to restate the relevant principles of interpretation which had already been established in a couple previous treaties
+- First, need to recognize that a treaty is an exchange of solemn promises
+- Second, the Honour of the Crown is always at stake in dealings with Indigenous peoples
+	- Need to assume the Crown intends to fulfill its promises
+	- Keep in mind that from the Indigenous perspective this was very important and expected as necessary to uphold the legitimacy of these agreements
+	- No "sharp dealing" will be tolerated (allegedly)
+- Third, where there are any ambiguities regarding meaning, need to resolve them in favour of the Indigenous parties to the agreement
+- Finally, the onus of proving that a treaty provision has been extinguished lies with the Crown
+	- Need to prove clear and plain intention to extinguish
+	- Treaties won't be interpreted in the technical sense, but rather how they were understood by the Indigenous communities at the time of signing
+		- This is in accordance with existing principles of contract law like *contra proferentum*
+		- Indigenous peoples generally could not read the written contract so they could only rely on oral promises and their own understanding of the agreement
+- Separate principles compared to statutory interpretation, very different context
+### Application
+- Court concluded that the existing treaty right was the right to hunt for food only, as it was modified by para 12 of the *NRTA*
+- Original agreement only extended to the boundaries of Treaty 8, the *NRTA* actually extended to the entire province, not just in the Treaty region
+- Overall, the right to hunt commercially was extinguished, but the geographic scope of the right was expanded
+- Can argue that you can't do this, the original right was to pursue the traditional activities of hunting, fishing, and trapping, you can't separate this into food vs commercial rights
+- Final decision was that the existing right is to hunt/fish/trap for food
+- Next thing to determine was where within the province this right could be used
+- Original promises made regarding Treaty 8 involved assurances that the Treaty 8 region would likely be settled slowly, as the land was poor for agriculture
+- Recall that these cases involved hunting on private land, does the existing right allow this?
+- Treaty 8 refers to lands not taken up, the *NRTA* says lands where you have a "right of access"
+- Court found that the standard is you can hunt on land without visible active use
+- Need to determine whether this is true on a case by case basis
+- Allowed to hunt on any unoccupied land without an active visible use
+- Three defendants here, court found there was no visible use in one case
+- First two appellants were hunting close to a farmhouse and near some old barns respectively, no visible structures in the area around the third appellant
+### Justification for Infringement
+- Crown did not argue on this point as it was initially not an issue
+- Court needed to order a new trial on this point, that never happened (as usual)
+- Need to consider whether the *Sparrow* test even works here, what makes Aboriginal rights distinct from treaty rights?
+- Can argue that these are on a more solid footing, as it has already been agreed
+- Might need consent to justify an infringement of these rights
+### Summary
+- Main value of this case comes from the principles of interpretation
+- Other significant development was the division of rights which may not be legitimate
+- Also important to know how the *NRTA* affected treaty rights, one of the rare cases where a right was extinguished
+- Finally, also good to know that the *Sparrow* test applies to treaty rights
+## Exam Prep
+- Need to get the test right, and apply the facts correctly to distinguish/analogize
+- Exam will have a longer fact pattern compared to the sample question
+- Make sure to assess the relative strength of arguments, need to have a conclusion
+- Almost never going to be a slam dunk, but you should also be clearly taking a side
+- First thing to consider for the practice question is whether the claimant has an existing Aboriginal right and if they do, what is the extent of that right?
+- Potentially could also be a title claim here, implied in some of the language and the refusal to go through the BC treaty process
+- Overall, seems more likely that the Aboriginal right claim is the priority
+- Could advise the client on title, but it seems better suited to another case
+- 2 hour exam, have 10-15 minutes of reading time
+- Should be using this time to map out the answer, do not start writing until you have a full outline of what you're going to deal with and where
+- Some things don't matter as to where it's raised like the duty to consult
+- Can come up at the start when you're identifying the right, or later on once you get to the *Sparrow* test
+- See if you have time to do the practice question at home
+- Might also need to address the duty to consult
+- Also don't forget there's multiple issues, the imminent clearcutting and the distribution of forestry  licenses
+- Not really an issue spotting kind of exam, limited set of issues to deal with

@@ -1,0 +1,59 @@
+- Case involved several apartment tenants who were banned from setting up a "succah" on their balcony, which is a hut used for the Jewish festival of Succot
+- Court found no violation of the claimant's property rights, but did find that this restricted their religious freedom, although minimally so
+- Orthodox Jews are required to live in these succahs for nine days each year during Succot, which takes place in the early fall
+- After setting it up for the first time after moving in, the respondent requested that it be removed according to the building's co-ownership rules
+- These rules prevented any decorations, alterations, and constructions on balconies, none of the appellants had read these rules prior to moving in
+- Respondent proposed to set up a communal succah in the building's gardens, but the appellants rejected this on the grounds that this would make observance much harder
+- Set them up anyway, and the building filed for a permanent injunction
+- Trial judge found no violation of the Quebec Charter and issued the injunction
+### Analysis
+- First issue is whether the clauses preventing constructions infringe the appellant's freedom of religion under the Quebec Charter
+- Second issue is whether the respondent's refusal to allow the succahs was justified by their reliance on ss. 1 and 6 of the Charter which give the rights of enjoying property and personal security
+- Third issue is if the appellants waived their freedom of religion by agreeing to the declaration of co-ownership
+- Principles discussed in this case are also applicable to the Canadian Charter
+- Definition of freedom of religion has generally revolved around the broader right to personal choice and individual autonomy
+- Doesn't just protect the parts of religious belief that are recognized as obligatory parts of religious observance
+- Don't need to prove a belief is valid as long as it is sincere
+- Obligatory and voluntary religious expressions are equally protected by the Charter
+- To decide otherwise would require the courts to rule on whether a doctrine of faith is mandatory or not, which is beyond its competence
+- Also just generally inappropriate in the context of s. 2(a)
+- When it comes to assessing the sincerity of a belief, these inquiries should also be as limited as possible
+- This is a question of fact based on many things, including the testimony of the claimant
+- Can also look at the consistency of this practice with their other religious practices, but this does not extend to past practices
+- Claimants can also choose to raise expert evidence to support the commonality of their belief, but this is far from a requirement
+- Expert testimony should not be seen as a replacement for the claimant's own sincerity
+- Overall, there are two things required to trigger an assessment of freedom of religion
+	- First, need to prove a religious practice or belief that requires certain conduct based on either personal connection with the divine or a subject/object of their faith
+	- Second, need to prove that they are sincere in their belief
+### Infringement of Religious Freedom
+- At this point, the court needs to determine if there has been enough interference with this right to constitute an infringement
+- Previously established in [[R v Edwards Books and Art]] that this burden has to be non-trivial
+- As long as the claimant can show their the impugned provision or conduct interferes with their ability to follow their religious beliefs in a non-trivial or substantial way, they're good
+- No clear standard for non-trivial or substantial, need to look on a case-by-case basis
+- No freedom is absolute, and the freedom of religion is no exception to this rule
+- Even if sincere belief is established, still need to consider how exercising this right will affect the rights of the other people around you
+### Application
+- Trial judge relied on the testimony of a rabbi who testified saying that practicing Jews are not required to build their own succahs
+- This is an incorrect interpretation of the law, the freedom of religion is not based on what practices are considered obligatory or not
+- Drawing distinctions between objective and subjective obligations is an unwarranted restriction on the freedom of religion
+- Creates an arbitrary hierarchy of beliefs that are protected or not protected under the law
+- As long as there is sincere belief in a religious practice, that practice will be protected under the Charter
+- Respondent argues that none of the appellants sincerely believe their religion obliges them to build their own succahs
+- However the trial judge already found that at least one appellant does hold a sincere belief
+- Also found that two other appellants did not sincerely believe because they had not set up succahs in the past, this is incorrect as past belief is not a symbol of present belief
+- Finally, the true test is not whether they believe they need to make a succah under Judaism, it's whether they believe it's necessary for their connection to the divine
+- According to the rabbi, under Jewish law the succah is supposed to be done festively and joyously, without distress to the individual
+- This was the reasoning for refusing the communal succah, as well as establishing that voluntary compliance is not expected or necessary
+- Seems to support a finding of sincere belief
+- Using a communal succah or those of families and friends detracts from the joyous nature of the holiday which is essential to the celebration
+- Therefore, this is a non-trivial infringement
+### Justification
+- Alleged intrusions on the respondent's rights are pretty minor and do not justify imposing limits on the appellant's religious freedom
+- How much harm does it really do to let a couple Jewish guys make tents on their balconies for 9 days out of the year
+- Respondent gave no proof of any such harm, and it's hard to imagine a real reason
+- Definitely wouldn't drop the property value given how temporary the structures are
+- Overall, the infringement of religious freedom greatly outweighs any potential concerns pushing against this
+- Aesthetic preferences just aren't strong enough to defeat religious freedom, especially in a multicultural society like Canada
+- Another potential concern would be fire safety, but the appellants already agreed to set them up in a way that doesn't block any doors or fire lanes
+- Finally, since the huts don't need any specific external appearance, they can be erected conforming as much as possible to the aesthetics of the property
+- Overall, appeal allowed with costs

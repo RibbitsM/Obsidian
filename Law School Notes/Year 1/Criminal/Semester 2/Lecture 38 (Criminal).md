@@ -1,0 +1,66 @@
+### [[R v Hodgson]]
+- Another self defence case under the new amendments
+- Involved a guest at a party who was asked to remove an unruly guest who was very drunk and was making unwelcome advances and running into other people
+- Hodgson put him in a chokehold to remove him from the party, and he ended up dying of suffocation
+- Most of the focus at trial was on the question of whether this met the *mens rea* requirements for murder, was there subjective foresight of death?
+- Even if he's acquitted here, can still be charged for manslaughter
+- Raised self defence against the included offence of manslaughter, did Hodgson acted reasonably when he used the chokehold
+- Argued that this was a known way to restrain people, and the court ultimately upheld his acquittal at trial
+- Trial judge focused a lot on the relative size and physical capabilities of the parties
+- This is a very common element in self-defence cases, and is often used as a consideration to decide one thing or another
+### [[R v Perka]]
+- Deals with the defence of necessity, which is rarely invoked and is even rarer to succeed
+- Legal recognition of moral involuntariness, allows the accused to be acquitted if they had no moral choice when it came to breaking the law
+- Different from ordinary involuntariness, you still physically control your actions
+- Established on an air of reality, has to be disproved by the Crown
+- This case is the first example of the defence of necessity, offence in question was importing drugs into Canada
+- Sailors were trying to smuggle weed into Alaska, but the ship was quite battered and they ended up needing to moor on Vancouver Island to get repairs before continuing
+- Argued that they did not intend to smuggle drugs into Canada, and only stopped in order to save the lives of the people on board
+- Conscious decision make to come ashore, and the court found that this decision was essential to the safety of the crew
+- SCC recognized necessity as a defence and pointed out that it is difficult to establish
+	- Need to be facing an urgent and pressing peril where obeying the law would be preferable
+	- Also needs to be no legal way out of the situation
+	- Finally, needs to be proportionality between the effect of breaking the law and the benefit to the people in the emergency
+- Classic example of this is getting stuck in a blizzard and needing to take refuge in a cabin in order to stay alive
+- However, the defendants in this case were clearly not innocent, they were smuggling drugs
+- SCC said that this doesn't make a difference, unless the illegal act itself was what caused the incident
+- Unless the course of conduct you were on made the emergency an inevitability, does not matter if it was criminal or not
+- Exception is still pretty narrow, still need to establish moral involuntariness
+- Ended up ordering a new trial as the jury was not properly charged on the elements of the defence, now they can be after the SCC has set the elements
+### Reasonable Legal Alternative
+- One major issue with this was that not only did the crew get off the boat, they also decided to remove the drugs from the boat
+- They did have the option of just dumping the drugs in international waters before trying to moor in Canada
+- Already committed the offence once they entered Canadian waters
+### [[R v Latimer]]
+- Offence committed in this case was that the accused killed his daughter as she was suffering from cerebral palsy, and did not believe anything could be done for her
+- Main issue in this case was the mandatory life sentence for murder, but the defence of necessity was also raised
+- Did not contest that the elements of murder were met
+- Trial judge chose to not leave the defence with the jury as there was no air of reality, appealed to the SCC
+- Argued that the jury should always be given the option to acquit the accused even if the actions of the accused did not meet a recognized defence
+- This is called "jury nullification", and is limited to the US only, not present in Canada
+- Assessing the moral validity of necessity is objective, and cannot be modified to account for the personal beliefs of the accused
+- This is far from the typical case, but useful for learning about the elements
+- First two elements use the modified objective test, but the third element is purely objective
+- Unclear of how certain the risk of harm must be for the first element, as well as the proportionality measure in the third element
+- Also, how would this work with the degree of harm? Is a less likely but more harmful possibility equal to a more certain but less severe situation?
+- Court ultimately found that the most serious violation here was in the proportionality step, any potential harm to the victim was clearly disproportionate compared to killing her
+- Her condition was not necessarily life threatening, there was existing medical methods to deal with her condition, even if they would still be painful
+### Example
+- This was a real case in the UK, and one of the only examples of a successful necessity defence
+- Involved conjoined twins who had an upcoming surgery to separate them
+- Doctors found that the larger girl could survive if the surgery was successful, but the smaller girl would die
+- If the twins were not separated, both would die within a year
+- Mother didn't want to have the surgery, mainly for religious moral reasons
+- Doctors sought a pre-emptive court order to immunize them from liability for murder based on the defence of necessity so they could perform the surgery
+- Can argue that this is proportionate because the only way to save a human life here would be to choose to actively kill another human
+- Court decided unanimously to allow the surgery, but were split on the issue of necessity
+- One judge decided to frame this in terms of self-defence arguing that the larger twin would want to have the surgery to prevent the smaller twin from killing her
+- Surgery occurred, and as predicted, the larger twin survived and the smaller one did not
+- Example of the very particular set of facts needed for necessity when it comes to murder
+### [[R v Breen]]
+- Couple of these cases in BC specifically where protestors argue the defence of necessity against offences related to their protest activities
+- In this case, the protestors argued that the imminent danger posed by climate change required them to disobey court orders and break various other laws
+- Judges found that this is not an appropriate case for the defence of necessity, mainly because of the clear availability of legal alternatives
+- Not clear that this kind of protest is actually more effective than legal protests
+- Does raise the issue of how we examine imminent peril in these cases
+- May need a more immediate issue like someone who's about to be deported

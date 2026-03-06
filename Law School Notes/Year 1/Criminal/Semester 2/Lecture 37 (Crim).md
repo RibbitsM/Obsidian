@@ -1,0 +1,75 @@
+- What finally prompted Canada to change self-defence provisions was an Ontario case where a store owner was fed up with a shoplifter and the police were not dealing with it
+- Caught the shoplifter and locked him in a van for a while before calling the police
+- Charged with a number of things, prompting a public outcry that led to an amendment of the *Criminal Code* regarding citizens arrest, including the defence of self and property
+- Now we have two separate provisions, defence of persons and defence of property
+- Has three requirements
+	- Reasonably believe force/threat of force is being used against them
+	- Act constituting the offence was used for the purpose of defence
+	- Act was committed reasonably in the circumstances
+- This is a pretty broad provision, putting a lot of weight on the third element
+- Also provides a number of factors to consider in assessing reasonableness aside from considering the relevant circumstances of all related parties
+	- Nature of force and whether threat was imminent
+	- Person's role in the incident
+	- Size, age, gender, etc. of both parties
+	- Nature and history of relationship between the parties
+	- History of interaction
+	- Nature and proportionality of the response
+	- Was the act committed in response to a lawful act
+- Pretty broad and open ended list, not limited to these factors
+- Would someone in a position like in [[R v Lavallee]] be in a better or worse position?
+- Defence of property requires a few things
+	- Need to reasonably believe they rightfully possess property
+	- Need to believe reasonably that another person entered their property or is about to take of damage the property
+	- Act was committed to prevent the other person from doing so
+	- Act was reasonable given the circumstances
+- This is the same position the law is in today
+- No list of factors for defence of property, judges have mostly come up with their own
+### [[R v Caswell]]
+- No precedential value, mostly just illustrates how defence of property applies
+- One of the main issues was whether these new provisions were prospective or not
+- Which version applies, the version when the act was committed or the version when the case went to trial?
+- General rule is that the substantive law is the law existing at the time offence was committed
+- Means that evidentiary and procedural rules are tied to the time of the trial
+- Defences are weird because they don't really fall into either category
+- Most appellate courts have applied the provision that applies at the time of the offence
+- Important for murder especially, lots of very old murder cases going to trial
+### Facts
+- Case revolved around a disintegrating domestic relationship, there were two young children under the custody of the accused which he shared care with the victim
+- Got into an argument when the accused started smoking around the kids, victim threatened to break his tv if he didn't leave the house
+- Picked up a microwave tray to throw at the tv, two fought over it and the accused punched her in the arm to make her let go of it
+- Evidence that the victim had previously destroyed some of the accused's property as a result of past arguments was raised
+### Analysis
+- Court found that the defence of property applied here
+- Was in peaceable possession of his property (the TV) and reasonably believed that she was going to break it, she explicitly threatened to do so and picked up the tray to do it
+- Acted solely to get her to drop the tray, and delivered one blow for the sole purpose of preventing the harm to the TV
+- Interesting that the judge didn't really consider the relationship between the parties that much and only considered the past violence on the part of the victim
+- Also, does the value of the threatened object matter? What about subjective or personal value?
+### [[R v Khill]]
+- Fairly high-profile and controversial self-defence case
+- Accused was at home with his spouse, woken up by a noise outside and saw someone outside his truck, and saw the lights in the truck turn on
+- Got a shotgun and went to go confront the guy, saw him messing with the door of the truck
+- Told him to put his hands up, and thought the guy had a gun when he turned around
+- Shot him twice immediately, killing him and discovered he had no gun, only a folded knife in his pocket, was charged for second degree murder
+- Crown argued that he should have just called 911, didn't need to do all this
+- Khill relied mainly on his previous military training, argued that this informed his response
+- Needed to confront the threat before the guy potentially broke into his house
+- Mainly high-profile because the victim was an Indigenous man from a neighbouring community that had previous conflict with Khill's community
+- Argued that this would not have happened if the victim wasn't Indigenous
+- Just because he was trying to steal from the truck didn't mean he should die
+- Khill was acquitted at trial, Court of Appeal overturned the decision and ordered a new trial
+- Focus was on how the trial judge didn't instruct the jury on the person's role in the incident
+- This basically means everything leading up to the point where Khill thought he saw a gun was not considered by the jury
+- SCC ultimately agreed with the Appeal Court and ordered a new trial
+- Judge should have instructed to jury to consider the whole chain of events
+- Because of the crucial importance of this factor, needed to instruct on it
+- At the new trial, Khill was acquitted of murder and charged for manslaughter
+- Controversy continued as Khill was sentenced to 8 years in prison, and then later wrote to the Chief Justice to say that he meant to sentence him to 6 years, not 8
+- Court ended up reducing the sentence to 6 years
+### Analysis
+- Was Khill's argument about military training relevant? Should this be included?
+- Can argue that we shouldn't be encouraging this kind of behaviour
+- Can also say that even if this is included, this may not even help the accused, wouldn't it impose a higher standard on them?
+- Another thing to consider is whether Lavallee would be in a better situation under these provisions
+- Recall that there was concern in that case over whether imminence of harm should be read in to the self defence provisions, now it's explicitly included
+- Because the use of force against her wasn't clearly imminent, this might have harmed her case
+- On the other hand, there are a lot of explicit references to considering relationships

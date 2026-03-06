@@ -1,0 +1,49 @@
+- Defendant was a drug store that was charged with selling goods on a Sunday under the *Lord's Day Act*
+- Challenged the constitutionality of the act under s. 2 of the Charter
+- Previously, these kinds of legislation were tested through ss. 91 and 92 of the Constitution which deals with the division of powers
+- Freedom of religion was traditionally only legislated on by the federal govt
+- According to the *Lord's Day Act*, it's illegal to sell or offer to sell/purchase goods, services, and property on Sundays, as well as employing people to do work on a Sunday
+- Any person who does have to work on a Sunday is instead given another day off
+- Various other things are also prohibited on Sundays such as games/performances with an admission fee or shooting firearms
+- There are also certain exceptions to these rules like railways
+### Purpose of Legislation
+- Can think of this act either as securing public observance of the Sabbath, or simply providing a standard day of rest from all labour activities
+- Both of these can be true, without the specification of Sunday as the relevant day, this would otherwise be a statute all about preserving a day of rest every week
+- While it may have secular purposes in practice, the reality is that this is clearly a religious piece of legislation, which can trace it's origins back to similar laws in the UK
+- AG of Alberta argues that we need to look at the effects, not the purpose
+- Court rejected this argument, stating that both are relevant at the same time
+- Also pointed out that looking only at effects makes applying the Charter much more difficult, it should be enough to just point at the purpose without having to prove the effects
+- Trial judge in this case pointed out that original purpose is not necessarily relevant, differences in social conditions over time can shift the purpose of laws
+- If this was true, it would create unacceptable uncertainty in the law
+- Allowing judges to revise the purpose of laws would allow previously valid laws to be suddenly struck down as invalid after having their purposes reassessed
+- Also goes contrary to the principle of Parliamentary intention, purpose should be determined based on the intent of those who drafted and enacted laws
+- Overall, the primary purpose of the *Lord's Day Act* should be defined as compelling observance with the Sabbath
+### Freedom of Religion
+- Point of freedom of religion is the right to openly declare your beliefs and follow them freely
+- Characterized by a lack of coercion or constraint on the part of the state
+- This is also the broader purpose of the Charter, to prevent coercion and constraint
+- Based on these principles, a religious majority should not be able to impose their views and practices on minority religious groups
+- *Lord's Day Act* is a piece of coercive legislation that is opposed to the spirit of the Charter and the dignity of all non-Christians in Canada
+- Basically translates religious values and transposes them into binding law
+- Allowing Parliament to compel observance of one religion's practices is inconsistent with the multicultural values of Canada, as noted in s. 27 of the Charter
+- Court has previously established that we are supposed to take a purposive approach to interpreting the Charter
+- Generous interpretation, focused on fulfilling the initial goals of the legislation beyond what is explicitly stated in the language of the Charter
+- Historical context for s. 2 comes from religious struggles in Europe
+- Specifically designed to protect religious minorities against dominant groups
+- First opposition to state-enforced religious practices was on the grounds that compelling belief is not an effective way to fulfill religious goals
+- God is supposed to be followed freely, not under coercion
+- Centralizes the importance of individual conscience and choice
+- This also happens to be the driving force behind our political system in Canada
+- Every individual should be free to hold whatever beliefs their conscience dictates, as long as those values do not cause harm to their neighbours
+- Religious values are the classic example of a conscientious belief
+- At the very least, individual freedom means the government cannot coerce individuals into following a specific religious practice like the Sabbath
+- This does not mean that Sunday cannot be a religious day, only that the preservation of Sunday as a day of rest should be secular
+- Because the purpose of the *Lord's Day Act* is to compel observance of the Sabbath, the Act is therefore an infringement of the freedom of religion and conscience under s. 2(a)
+### Section 1 Justification
+- Reasons for justification are that choosing Sunday as the designated day of rest is a practical consideration since Canada is majority Christian
+- However, this is not a valid justification because it's only an argument of convenience and doesn't negate the reason why the legislation is invalid in the first place
+- Second argument is that everyone accepts the value of having a universal day of rest
+- This has been pretty clearly stated already, but it's also very clear that establishing a secular day of rest was not the intention behind this act
+- Because the purpose of the Act is explicitly to compel religious observance, there is no justification for this that does not also violate s. 2(a)
+- Therefore, we do not have to do a full s. 1 analysis, it fails automatically
+- Declared of no force or effect

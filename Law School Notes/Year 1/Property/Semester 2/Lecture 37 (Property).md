@@ -1,0 +1,63 @@
+- Issue we're dealing with here is how the priority of various different interests are determined
+- Say someone owns a house and they lease it to some tenants
+- The tenants represent themselves as the owner of the fee simple interest, and sell the house to an innocent buyer
+- Tenant disappears with the money, and the original owner appears to contest the buyer's purchase of the fee simple interest
+- Two innocent parties on either side, question is who gets the property?
+- This is a surprisingly contentious issue, does the original property interest take precedent, or should the transaction take precedent?
+- At common law, the original owner is protected
+- Latin maxims dictate that one cannot give what you don't own, and the buyer must always beware
+- Places the risk entirely on the buyer, so the security lies in the property interest
+- This is static security in the sense that you know you will always have the interest until you choose to sell it
+- Dynamic security would be protecting the transfer of property
+- This common law rule was upended by the title registration system
+### Example (Equitable v Equitable)
+- Where the owner of a property signs a contract of sale, and later signs a different contract of sale for the same property, a conflict is created
+- The owner maintains the legal interest before the transfer is complete, and both buyers have an equitable interest in the form of a constructive trust
+- Each buyer has the right to specific performance, but the common law holds that the interest that was first in time takes priority
+- Thus, the first buyer is the only one who can exercise the right to specific performance
+### Rice v Rice
+- This case uses this principle, if you need to choose between two otherwise equal equitable interests, the interest first in time takes precedent
+- Last resort tiebreaker, will try anything else first
+### Example 2 (Legal v Legal)
+- Owner leases their property for seven years, and sells and transfers the fee simple interest while the lease is ongoing
+- New owner wants immediate possession, but the leaseholder disagrees
+- These are both legal interests, and the fee simple interest is superior to the leasehold interest
+- Because the lease contract was complete, the right of possession has been transferred and now the lease is a legal interest
+- Recall that a transfer of land is initially an equitable interest which becomes legal once the transfer is completed
+- However, since the leasehold interest predated the fee simple interest, it persists
+- Same rule of temporal priority, but unlike in equity, the interests do not have to be the same
+- Recall that you can't give what you don't have, the owner didn't have the right to possession to give to the new owner, he already gave it to the tenant
+### Example 3 (Legal v Equitable)
+- Owner seeks to mortgage their property for $500,000 to a record company
+- Title deed goes to the company, and is kept in their vault
+- Owner later negotiates another loan from a third party, and goes into the company vault to fetch the title deed and give it to the third party
+- Owner then goes bankrupt, who has priority for repayment?
+- Record company has the legal interest, because the owner transferred it to them when the initial (legal) mortgage was made
+- The second mortgage was an equitable mortgage, as the owner no longer held the legal title to give as security
+- Issue is whether the legal or equitable interest prevails
+- Generally, the legal interest will take priority unless the party holding the legal interest was somehow complicit in the fraudulent creation of the second mortgage
+- This is a copy of the case [[Northern Counties Fire Insurance v Whipp]]
+- Only cases where the equitable interest prevails is where the legal interest holder actively participated in the fraud or appointed the mortgagor as their agent
+### Example 4 (Equitable v Legal)
+- Two parties sign a contract to transfer a fee simple interest, the buyer pays a deposit but the transfer has not completed yet
+- During the time before completion, the value of the land increases dramatically, and the seller gets a better offer for the land
+- Accepts this offer, and transfers the interest to the new buyer before the completion date
+- Who has the priority, the original buyer or the new buyer
+- Original buyer has an equitable interest in the land because the transfer wasn't complete, and the second buyer has a legal interest because the transfer was completed
+- Need to know whether or not the second buyer had notice of the prior equitable interest
+- If he did have notice, then the first buyer takes precedent, but if there was no notice, then the second buyer prevails
+- As long as the purchase is *bona fide*, a later legal interest can defeat an earlier equitable interest
+- *Bona fide* means that the purchase has to be done without fraud
+- Notice in this case can be actual notice, implied notice, or constructive notice
+- Keep in mind that this is the only example where the "first in time" rule doesn't apply
+### Deeds Registration System
+- A deeds registration system keeps all interests registered in a central location
+- Does not on its own establish the priority, lawyer's have the job of tracking the title and looking through the documents in the deeds registry
+- Doesn't affect the common law priority system, it just makes it easier to track
+- Next class we'll talk about the **Title** registration system, which does overrule the common law system
+- Operates on four core principles
+- Registration principle says that nothing transfers until a form of transfer is registered
+- Indefeasibility principle says that the registration of a transfer instrument is conclusive evidence that the person named as the owner is indefeasibly entitled to the estate
+	- Even if that land was gotten through illegitimate means, the title holds up
+- Abolition of notice principle says that notice of a prior unregistered interest is irrelevant to any issues regarding a transfer of land
+- Assurance principle holds that a claimant who was deprived of an interest in land that they would have kept at common law can recover the land or get compensation

@@ -1,0 +1,112 @@
+- Main issues for this case revolve around Aboriginal title to land
+- What is the test for granting title, what rights does it confer, and what pieces of legislation and other legal constraints apply to it?
+- Court determined that Aboriginal title comes from regular and exclusive occupation of land
+- Title was successfully established in this case
+- The Tsilhqot'in have lived on their ancestral land for centuries, repelling any outside incursions and never signing a treaty with the Crown
+- Issue arose when BC granted a forest license on Tsilhqot'in land in 1983
+- Logging was stopped by protest, and several court cases on the title claim followed
+- This case seeks declaration of Aboriginal title over the area of land recognized as Aboriginal title in a previous 2002 case with the exception of any privately owned or underwater lands
+- Principles developed in *Calder*, *Guerin*, and [[R v Sparrow]] were applied in an Aboriginal title claim in *Delgamuukw*
+- Determined that Aboriginal title grants the right to exclusive use and occupation of land, and their title cannot be alienated in a way that deprives future generations
+- Government infringements of this title can be justified under s. 35
+- When it comes to pleadings on the topic of Aboriginal land claims, the court should take a functional approach rather than a technical one
+- Minor issues with the claim can be overlooked to to get a clear outcome
+### Analysis
+- This test raises the issue of how the test for Aboriginal title works for a semi-nomadic group
+- We know that sufficient, continuous, and exclusive occupation is required
+- Trial judge established occupation on the grounds that the Tsilhqot'in had regular and exclusive use of the land over a long period of time
+- Applied both to village sites and hunting/gathering grounds
+- Court of appeal required site-specific occupation, but this is unnecessarily strict for a semi-nomadic group like the Tsilhqot'in
+- Together, the three requirements for occupation make up one element
+#### Sufficiency
+- Can be established by construction of buildings or cultivation of land, as well as regular use of land for hunting, fishing, or gathering
+- Group also needs to historically act in a way that shows they mainly used the land
+- All these requirements are sufficient, but not necessary
+- Similar to the test for general occupancy at common law
+- Any consistent use of the land beyond mere travel will suffice
+- This approach should also be culturally sensitive to the perspectives of the group in question, we don't want to rely solely on english common law
+- In this case, that means considering regular use for hunting and foraging as sufficient use
+#### Continuity
+- This just means there has to be some evidence of pre and post-sovereignty occupation
+- Bar here is pretty low, just need enough to draw an inference
+#### Exclusivity
+- Means that the group must have the intention and capacity to exercise exclusive control of the lands
+- Just because other groups were on the land doesn't immediately negate this
+- Can prove that the others were excluded in some way or were only allowed access with permission, or that some treaty was made regarding the land
+- Again, this will be considered from both the common law and Indigenous perspectives
+### Application
+- Whether evidence supports Aboriginal title is a question of fact, so the trial judge must have made a palpable and overriding error for this to be reversed on appeal
+- Evidence supports a finding of sufficient occupation
+- Trial judge also examined direct evidence of recent occupation and historical, oral, and archaeological evidence of past occupation
+- Based on this evidence, the element of continuity seems to be properly established
+- Finally, they found that the Tsilhqot'in repelled other groups from their land pre-contact, establishing the element of exclusivity
+- Criticisms from the province are mainly based on the idea that only specific and intensively occupied lands can support Aboriginal title
+- This is not true, the proper test is much broader
+- Crown has not proven any significant error on the part of the trial judge
+- Overall, the trial judge was correct in holding that the Tsilhqot'in had sufficient and exclusive possession at the time of sovereignty
+### Aboriginal Title Rights
+- Crown title to the land of Canada is subject to the pre-existing rights of Aboriginal peoples
+- What the Crown has is whatever is left after Aboriginal title is extracted
+- Title owners have the right to the benefits associated to the land, and the Crown does not
+- What remains is the fiduciary duty, and the right to encroach on that title if the encroachment can be justified under s. 35
+- This is a *sui generis* relationship that is different from all other forms of property
+- The restriction on Aboriginal title is that's held collectively for all future generations
+#### Infringements
+- To justify an infringement, the government has to show it did the duty to consult and accommodate, it has a compelling and substantial objective, and their actions are consistent with the Crown's obligations
+- Degree of consultation was determined in [[Haida Nation v BC (Minister of Forests)]]
+- When it comes to assessing the govt objective, need to consider all perspectives, even Aboriginal considering we are "all here to stay"
+- Court found that some potential objectives are building infrastructure, protecting the environment, and developing extractive industries
+- Fiduciary duty means the government has to respect the future-generation and group nature of Aboriginal title
+- Also need to act in a proportional matter, basically need to satisfy the *Oakes* test
+#### Remedies
+- Before title is established, the Crown has to consult with any groups asserting title based on the scale established in *Haida*
+- Once title has been established, the Crown needs consent to develop on the land or will have to go through the same duty to consult process
+- Also, the Crown may have to reassess it's previous conduct once title is established
+- In this case, BC had the duty to consult and accommodate the Tsilhqot'in interest in the land, because of the strength of their claim
+- Now, they have the right to determine the use of their title lands
+- Alleged breach was from the issuing of forestry licenses while the Tsilhqot'in had a strong claim to the land the licenses applied to
+- By not consulting, the Crown broke it's duty when planning timber removal
+### Provincial Laws and Aboriginal Title
+- Also can consider whether provincial laws of general application apply to Aboriginal title land
+- Specifically, does the BC *Forest Act* apply, and is this application blocked by the Constitution
+- Generally speaking, these kinds of general laws do apply but are limited by the Constitution
+- Limited first by s. 35, and further limited by s. 91(24)
+- *Sparrow* established that we can look at the reasonability of a limitation, whether in imposes undue hardship, and whether it denies preferred means to see if a general law violates Aboriginal rights
+- If these requirements can be met, general provincial laws apply to Aboriginal title lands
+- The words of the *Forest Act* specify that the Crown can issue licenses on "Crown land"
+- Aboriginal title confers the right to the land, and the Crown has to justify any infringements on that, so it seems clear that it's not ordinary Crown land
+- Instead, the possession is vested in the Aboriginal group
+- But this would mean that any land potentially under Aboriginal title would be immune from forestry regulations, which cannot be the intention
+- Without Aboriginal title, the groups can't manage the forests either
+- Therefore, until title is proven, the Crown can manage the land while respecting potential claims
+- *Forest Act* applies to lands under title claims up until the point that title is confirmed, at which point the lands are vested in the Aboriginal group
+- Means that in this case, the land was "Crown land" when the licenses were given, but now the timber on that land no longer belongs to the Crown
+#### Constitutional Issues
+- Already established that s. 35 requires the government to justify any law or action that infringes Aboriginal rights
+- Need to establish a *prima facie* infringement and then attempt to justify it
+- In this case, the rights at issue are the rights granted by Aboriginal title
+- General regulations on forest management will not cause an infringement, but the issuing of timber licenses that transfer Aboriginal property to a third party will
+- Lower courts already established that BC did not have a compelling and substantial objective in issuing cutting permits on Tsilhqot'in land
+- This was because the land wasn't even economically viable, and there was no need to cut to prevent the spread of pine beetles
+- Crown dropped the latter argument, and the Court of Appeal held that even if there was economic viability, it's disproportionate compared to the harm to the Tsilhqot'in
+- Therefore, the infringement cannot be justified
+### Division of Powers
+- Forestry regulation is handled by the province under the property and civil rights powers granted by s. 92(13)
+- However, "Indians, and Lands reserved for the Indians" is under federal jurisdiction according to s. 91(24)
+- Means that forestry on Aboriginal title lands leads to concurrent jurisdiction
+- Where there is a dispute in these cases, the doctrine of paramountcy says the fed wins
+- Doctrine of interjurisdictional immunity says that where laws on one level impair the core of the jurisdiction of another level, the core power wins out
+- Raises the issue of whether the *Forest Act* touches on a protected core of federal power
+- These were the reasons the trial judge gave for the *Forest Act* being inapplicable
+- Aboriginal rights are at the core of s. 91(24), so the province cannot legislate in a manner that limits Aboriginal rights
+- However, it's never been clearly established that s. 35 rights are the core of s. 91(24)
+- Where a federal law interferes with s. 35 rights, the *Sparrow* rules apply
+- But what happens when it's a provincial law?
+- Seems clear that s. 35 is supposed to impose limits on all levels of the government
+- Because of this, there is no room left to make an argument based on interjurisdictional immunity, it just doesn't apply
+- This doctrine was designed to deal with conflicts between levels of government, but the conflict here is between Aboriginal title holders and the government
+- Also would just be confusing if we allowed this because there would be two tests depending on if the restriction came from the fed or the province
+- Could even led to legislative vacuums in some areas
+- Previous case law has already warned us of the issues that interjurisdictional immunity creates
+- Overall, the doctrine is irrelevant here, and the *Sparrow* approach takes precedent
+- Appeal allowed, and Aboriginal title granted to the area at issue, and BC breached it's duty to consult by granting timber licenses on Tsilhqot'in land

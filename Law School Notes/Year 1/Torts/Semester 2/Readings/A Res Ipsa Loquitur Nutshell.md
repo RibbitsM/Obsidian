@@ -1,0 +1,25 @@
+- Debate on this doctrine is mainly over two things
+- One, does it allow the trier of fact to infer that the defendant was negligent, or does it compel them to do this?
+- Two, what are the conditions necessary to forestall this inference?
+- Canadian law seems to indicate that this is just an inference, but the only place where it's still kind of unclear is in England
+- Common law there seems to suggest that it's mandatory unless the defendant can raise some evidence to suggest otherwise
+- Idea behind the principle is that in some cases, the facts will allow any reasonable person to safely infer that the accident could only be the result of negligence
+- Number of propositions that apply to the action in these cases
+- First, this conclusion does not adjust the normal burden of proof
+	- Plaintiff still has to convince the tier of fact that the defendant caused their injury by breaching a duty of care
+	- All that changes is that they have some help on the evidence front
+- Second, once the plaintiff is done presenting evidence, the defendant can't call for a non-suit even if no conclusive evidence was presented
+- Third, if the defendant moves for no evidence or a non-suit where there is evidence of an injurious event, the judge will tell the jury that they can infer negligence from the proof of the injury
+- Finally, whether or not the defendant calls evidence, the jury charge has to be like this:
+	- If you can't decide who to find for, find for the defendant
+- This is to remind them that the ultimate burden of proof falls on the plaintiff
+- But where evidence introduced by the plaintiff allows for an inference of negligent conduct, then the burden shifts to the defendant
+- Defendant only needs to adduce evidence that would prevent this inference, not necessarily evidence of their innocence
+- Some judges believe that *res ipsa loquitur* functions more as a procedural safeguard where there is a significant knowledge gap between the plaintiff and defendant
+- However, the new rules of discovery in Canada make this function pretty much moot
+- This rationale usually comes up in cases where the evidence of an injury allowed for a conclusion of negligence through normal reasoning
+- Weight of the knowledge gap is pretty much just used to justify the outcome
+- However, a small number of cases have used a knowledge gap to use the principle even when ordinary reasoning would not lead to a finding of negligence
+	- Example of this was a case where the plaintiff was injured during surgery, but was unconscious so they didn't know who specifically caused the injury
+	- Knowledge gap was used as the reason for applying *res ipsa loquitur*
+- This is a misinterpretation of the principle, which at its core deals with establishing circumstantial evidence of negligence

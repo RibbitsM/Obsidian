@@ -1,0 +1,54 @@
+- Principles we looked at [[Lecture 37 (Property)|last class]] only apply to a deeds registration system, not a title registration system
+- In that system, getting an opinion on title requires tracing the chain of title back to it's root, which can be extremely time consuming
+- This is because of the *nemo dat* maxim, if at any point in the chain a transaction was invalid, then everything that comes after that is also invalid
+- Title registration systems reject this system by providing a guarantee of title, the state is saying that when one registers an interest, they have an indefeasible property interest
+- Product of a statutory regime, not the common law which can be a difficult transition
+- Dealing with a large set of interests like life estates, mortgages, etc.
+- For the system to function, all of these interests have to be transferred and registered into the new system
+- First done in South Australia, spearheaded by Robert Torrens who modelled the system off of a ship's registry
+- Title registration systems are also called "Torrens systems"
+### [[Review of The Law of the Land]]
+- Vancouver Island was the first jurisdiction to do this in Canada, spread slowly across the country
+- Originally, BC granted "absolute title" when land was first registered, which was not actually absolute, your title could be challenged by anyone with a competing claim
+- After five years, this title would become indefeasible title
+- Did this instead of having to ensure the legitimacy of any interest before it was registered, basically outsourcing the process to the public
+- Initially opposed by the legal profession, which made a lot of money off of giving title opinions
+- There were also broader concerns about how this new system would focus on dynamic security instead of static security, increasing risk for already held properties
+- Because of this, provinces where land was mostly already settled were generally more resistance to the onset of the Torrens system
+- In less settled provinces like BC and Alberta, land speculation was a core part of the economy, and people were more favourable to protections for land transfers
+- No states in the US use a Torrens system, they rely on deeds systems with private title insurance, most other common law jurisdictions use Torrens
+### Justifications
+- Looking back at the justifications for property, we can see how the [[Economic Theory]] drives the need to reduce transaction costs
+- Torrens system offers more secure transfers, encouraging the movement of property towards the people who would put it to the best use
+- On the other end, the idea of property as propriety seems to encourage the common law system of property, which emphasizes the right of the original owner above all else
+- *Nemo dat* ensures that no one except for the rightful owner can act on the land, at the risk of making transferring the land more difficult
+- Can see this in old mechanisms of property like the fee tail interest
+### Principles of Title Registration
+- Four main principles
+- Registration Principle
+	- Enshrined in s. 20(1) of the *Land Title Act*, any instrument affecting land does not work unless that instrument is registered under the *LTA*
+	- Means that registration is not mandatory, but is highly encouraged
+	- Example of these transfer instruments are things like a Crown grant or a standard form for transferring land like [[Lecture 21 (Property)|Form A]]
+	- Recall that Form B is for mortgages and Form C is for charges, these are all transfer instruments
+	- Looking up who owns a piece of land is called a title search
+	- This will show the fee simple interest, and all related interests charged against the fee simple interest like mortgages
+- Indefeasibility Principle
+	- Enshrined in s. 23(2) of the *LTA*, holds that indefeasible title is determinative evidence that the person registered as the owner in fee simple is the legal owner
+	- Interesting that this only applies to fee simple interests, not lesser interests
+	- This guarantee of indefeasible title also comes with a number of exceptions
+	- Can be limited by the terms of the Crown grant, for example the Crown will also reserve subsurface rights to anything of value under the soil
+	- Also still have to pay taxes, or any associated municipal charges
+	- Subject to any lease for a term of less than three years as long as there is occupation
+		- These smaller leases do not need to be registered, longer ones do
+### Lease Exception Example
+- Say a buyer purchases a fee simple interest which was subject to a lease, but that lease was not registered in the system, title system says there's no charges
+- If it's a 2 year lease expiring in 18 months, buyer cannot take possession for another 18 months as long as there is actual occupancy
+- If it's a 4 year lease expiring in 2 years, buyer can take immediate possession because the lease was not registered
+- If it's a 2 year lease with no actual occupation, buyer can take immediate possession because of the lack of occupation
+- If it's a 2 year lease with an option to renew for 2 more years, need to look at s. 1 which specifies that if a lease agreement includes an option of renewal and that renewal extends beyond 3 years, it needs to be registered
+- In this case, buyer could take immediate possession because this is functionally a four year lease
+### Description of Boundaries and Fraud
+- One of the other exceptions to indefeasibility is where there is a wrong description of the boundaries
+- Title registrations do not resolve boundary disputes, that's the role of surveys
+- More importantly, under s. 23(2)(i), indefeasibility can be limited by the right of a person deprived by fraud that the registered owner participated in to any degree
+- Clear that the fraudster cannot benefit from indefeasible title, issue is which innocent party gets to keep the property in this situation

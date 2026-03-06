@@ -1,0 +1,6 @@
+- Husbands of the plaintiffs were killed in a head on collision with each other
+- Plaintiffs brought action in negligence for the company owners of the respective vehicles, but the evidence surrounding the incident was pretty weak
+- Judges inferred that in the absence of any other evidence, both drivers seemed to take the same negligent acts
+- Inferred from the facts that both were negligent, and awarded damages evenly
+- Lord Denning argued that where negligence is present, there must be some compensation especially when passengers were at risk
+- Clear that at least one of the drivers was at fault given the circumstances, and in the absence of any evidence showing one was more negligent, both are equally negligent

@@ -1,0 +1,33 @@
+- Appellant was employed at the respondent's brickworks to empty pipe kilns
+- After being asked to empty some brick kilns, he got skin irritation that developed into dermatitis because of the hot and dusty conditions in the brick kilns
+- Sued for damages based on this injury, shown that the dermatitis was a result of the brick kiln work
+- Respondent admitted this, but argued that it hasn't been proved that the failure of the appellant to wash himself that led to the disease
+- Medical witnesses attested to this, if you don't immediately wash yourself after working in hot and dusty conditions dermatitis is likely to develop
+- Appellant was biking home from work without washing himself, which is likely what led him to getting dermatitis by sweating more after finishing work without washing
+- Thus, there were actually multiple causes of the injury here, with one of those causes coming from the appellant
+- No conclusive medical evidence proving this, but it seems likely that the appellant materially contributed to their own injury?
+- Appeal should be allowed
+### Lord Wilberforce
+- Argued that we don't need to reject a case where the plaintiff has shown a breach of duty that increased their risk of disease but cannot prove their actions didn't also increase that risk or contributed to the injury
+- Employers cannot prove the contrary either
+- Can argue that since the onus is on the plaintiff, the case should fail
+- However, the defendant has clearly breached their duty of care and created a risk
+- Why should the plaintiff also need to prove they didn't contribute to their injury where the defendant cannot prove they did contribute?
+- Seems logical that the person creating the risk should bear the consequences
+- Without proof that the condition had no effect, employers should be held liable for an injury they created the risk for
+- Appeal allowed
+### Lord Simon
+- Argued that where there are multiple factors of causation where one factor is a breach of duty and the other is not and it's impossible to determine the proportion of how they acted, the plaintiff is entitled to damages
+- As long as they can prove the breach contributed substantially to the injury, it's ok
+- In this case, a failure to take steps that would materially reduce the risk is a substantial contribution towards the injury
+- Respondent did not provide shower baths, so they should have foreseen that this would also contribute to the injury
+- Not allowing the appeal would mean the respondents ignored a legal duty based on the medical knowledge they had available to them
+- Appeal allowed
+### Lord Salmon
+- Said that the appellant needs to prove a causal connection between their injury and the negligence on the part of the respondents
+- Do not need to prove that this negligence was the sole source of their injury
+- Unrealistic to say that negligence that materially increases the risk of injury does not also materially contribute to causing the injury
+- We want to always encourage employers to materially decrease the risk of injury whenever possible, so we should consider these to be identical concepts
+- True view is that when it's proven that an employer was negligent and materially increased the risk to their employees, they should be liable for damages if that risk comes to pass
+- This seems to be what happened in this case
+- Appeal allowed

@@ -1,0 +1,77 @@
+- Issue in this case was with the *Retail Business Holidays Act* in Ontario, which defines all Sundays as holidays, as well as other important Christian holidays
+- Offence to do business on a holiday, punishable by a fine
+- Also several exemptions to this rule, including an exception for businesses which have seven or less employees on Sundays and use less than 5,000 sq ft
+- Court found that the purpose was to create uniform holidays for retail workers, not to encourage religious worship
+### Freedom of Religion
+- This act has a secular purpose, but an argument can still be made that the effects of the Act violate the Charter in some way
+- Two forms of alleged coercion in this Act
+- First, it may make it more expensive for retailers who have a day of rest that's not on Sunday to practice their religion
+- Second, the Act has the effect of requiring conformity with Christianity by forcing retailers to close on Sundays
+- Court in [[R v Big M Drug Mart]] pretty much set out that indirect burdens on religious practices are violations of the freedom of religion
+- All coercive burdens on the exercise of religion are potentially challenged by s. 2(a)
+- Does not mean that every burden will be a violation though
+- For example, the state is allowed to impose sales taxes that also apply to goods required for religious worship
+- For a burden to qualify under s. 2(a), it has to interfere with religious belief/practice
+- Second form of religious coercion is the freedom to abstain from the religious practices of others, which this Act allegedly requires
+- Religious freedom will not inevitably impaired by legislation that requires conduct that is consistent with the religious beliefs of others
+- For example, a ban on theft and murder is not a state enforced compulsion to follow religious beliefs where some religions ban their members from killing or stealing
+- In the present case, this second form of coercion has not been established
+- Only other thing to consider is if the Act limits the freedom to practice religious beliefs
+### Impact of the Act
+- This Act impacts four classes of people: those with no day of rest, those with a day of rest on Sundays, those with a day of rest on Saturdays, and those with another day of rest
+- Act prevents the first class from doing business on Sundays, which without this Act would give them an advantage over other retailers
+- Effects on these people is secular, and does not violate freedom of religion
+- The Act favours those who observe Sundays, who otherwise would lose some business
+- There are several groups with Saturday as a day of rest, namely Jews and Seventh Day Adventists
+- Ontario AG argues that any detriment suffered by these groups is a result of their religion, not the Act itself
+- Even if we accept that the purpose of the Act is only to benefit Sunday observers, the highly competitive nature of retails turns this into a loss for other groups
+- If there was no legislation, then both groups would be open six days a week, and would only lose out to those who observe no day of rest
+- In this context, their detriment would be solely from their religious beliefs
+- Because of this competitive pressure, it seems clear that these groups do have their freedom of religion restricted by the Act
+- This also puts a burden on consumers who observe a day of rest on Saturdays, as these groups will have no day on the weekend to do certain things
+### Section 1 Justification
+- The establishment of a day of rest is a valuable thing that can be enjoyed by all, thus this Act does have a pressing and substantial concern
+- Two questions emerge when we try to find a rational connection
+- First, can the legislature focus only on the retail industry?
+- Second, is the exemption scheme under the Act acceptable?
+- Commission report on this Act showed that without the Act, competitive pressures will push owners to extend business hours against their wishes
+- Additionally, this sector has little protections for workers, and is mainly made up of women
+- Retail workers are particularly vulnerable to pressure from employers, justifying the need to target the retail sector
+- Additionally, the business exemptions are also justifiable, as it's open to the legislature to focus the law on areas where need is especially present
+#### Minimal Impairment
+- Main issue is whether or not this is a minimal impairment on the freedom of religion for those who observe Saturday as a holy day
+- One alternative would be allowing workers to refuse to work on Sundays, but this would not address the pressures exerted by businesses on their employees
+- Other option would be an exemption for owners with sincere religious beliefs which require them to close their stores on a different day
+- However, the exemption for small businesses is already very generous, as only 8% of retailers have 10 or more employees according to the last census
+- Because of this, there is no shortage of goods available for people who do not observe Sunday as a day of rest
+- Legislatures are allowed to be concerned with minimizing the impact of an exemption for a pause day, and it would not be ideal to base exemptions on hiring people who share a religion with the owner
+- Allowing large retailers to open on Sundays would greatly disrupt the quality and purpose of having a rest day in the first place
+- But the main issue is the limitation on the benefits received by the employees of these businesses
+- Don't forget that a key concern is giving retail workers a weekly holiday
+- Courts should be caution in allowing the Charter to be used by powerful individuals to roll back legislation designed to protect those who are less fortunate
+- When we weigh the interests of the employees against those of their employers, it seems clear that the employees should prevail
+- Additionally, the existing structure of the Act provides an exemption for smaller businesses without needing an inquiry into their religious belief
+- This kind of inquiry is a violation of dignity, and should be avoided whenever possible
+#### Conclusion
+- There is definitely a trade off here between a scheme which would give full relief to most Saturday observing retailers and one that would give partial relief to all Saturday retailers
+- These are both serious attempts to minimize the adverse effects, and it's unclear which one is actually better
+- Overall, it seems that the exemption for business with seven or less employees is just as minimally impairing as one that extends to all businesses observing Saturday
+- This is a serious effort to accommodate the freedom of religion for Saturday observers within the constraints of keeping with the purpose of the Act
+- Act upheld under s. 1
+### Concurring Opinion
+- Argued that the legislation does not violate s. 2(a) at all, so s. 1 is not engaged
+- Flaw in the majority judgement was saying the burden on Saturday observers comes from the legislation
+- If there were no day of rest laws, a devout observer would close on Saturdays while their competitors remained open all week
+- In this situation, they are making a choice between observing their religion and meeting competition from other businesses
+- Therefore, any economic harm suffered by this same person under the present Act comes from this choice, not the Act itself
+- To violate s. 2(a), the state needs to impose a coercive burden
+- If the real reason behind this challenge was giving an unfair benefit to Sunday observers, then the challenge should have been based on s. 15
+- One other concurring opinion said that they would uphold the Act under s. 1 even without the exemption for small retailers
+- Reason for this is because the choice of what day of pause to use is a matter for the legislature, not for the courts
+### Dissenting Opinion
+- Disagrees with the majority's application of s. 1, arguing that the real question is whether a common day of pause can be established for retail workers
+- Majority found that this is justified for large, but not small retailers, which discriminates on the basis of business size, not religion
+- Argues that any limit on the freedom of religion which does not apply to all members of a group evenly cannot be justified under s. 1
+- Legislature needs to decide whether freedom of religion or having a pause day is more important, and apply the chosen scheme in all cases
+- If this kind of disparate treatment can be justified under s. 1, then you at least need more compelling evidence than the evidence presented in this case
+- Proper way to decide this would be to remove the exemption for small retailers

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law School Notes/Year 1/Property/Semester 2/Readings/Security of Property Rights.md",
+                "file": "Law School Notes/Year 1/Contracts/Semester 2/Lecture 40 (Contracts).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security of Property Rights"
+              "title": "Lecture 40 (Contracts)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "walker",
+                "query": "\"statutory interpretation\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "a0f75118967a7564",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Rabey.md",
+                "file": "Law School Notes/Year 1/Contracts/Semester 2/Lecture 40 (Contracts).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for R v Rabey"
+              "title": "Backlinks for Lecture 40 (Contracts)"
             }
           },
           {
@@ -173,32 +172,33 @@
   },
   "active": "162dac00d3431ff3",
   "lastOpenFiles": [
-    "Law School Notes/Year 1/Property/Semester 2/Readings/Northern Counties Fire Insurance v Whipp.md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/Security of Property Rights.md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/Good-Faith Purchaser.md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/First Nations Land Management Act.md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/Nicola Band v Trans-Can Displays.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Lavallee.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Malott.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 36 (Crim).md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 35 (Crim).md",
-    "Law School Notes/Year 1/Public/Lecture 13 (Public).md",
-    "Law School Notes/Year 1/Property/Semester 2/Lecture 36 (Property).md",
-    "Law School Notes/Year 1/Public/Readings/B (R) v Children's Aid Society.md",
-    "Law School Notes/Year 1/Public/Readings/Canada AG v Bedford.md",
-    "Law School Notes/Year 1/Public/Readings/Canada v PHS Community Services.md",
-    "Law School Notes/Year 1/Public/Readings/Canada v Bedford.md",
-    "Law School Notes/Year 1/Public/Readings/Rodriguez v BC.md",
-    "Law School Notes/Year 1/Public/Lecture 12 (Public).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/McHale v Watson.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/The Reasonable Man.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/The Learned Hand Formula.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Bolton v Stone.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/R v Sask Wheat Pool.md",
-    "Law School Notes/Year 1/Public/Readings/Carter v Canada.md",
-    "Law School Notes/LSLAP and PBSC/LSLAP Intake Notes.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Stone.md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Parks.md",
+    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 38 (Contracts).md",
+    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 40 (Contracts).md",
+    "Law School Notes/Year 1/Torts/Semester 2/Lecture 39 (Torts).md",
+    "Law School Notes/Year 1/Contracts/Untitled",
+    "Law School Notes/Year 1/Torts/Semester 1/Readings/Reibl v Hughes.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/Clements v Clements.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/Cook v Lewis.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/Snell v Farrell.md",
+    "Law School Notes/Year 1/Property/Semester 2/Lecture 40 (Property).md",
+    "Law School Notes/Year 1/Property/Semester 2/Readings/Finding Nemo Dat in the Land Title Act.md",
+    "Law School Notes/Year 1/Public/Readings/Judicial Review and Interpretation.md",
+    "Law School Notes/Year 1/Public/Readings/Antecedents of the Charter.md",
+    "Law School Notes/Year 1/Public/Lecture 5 (Public).md",
+    "Law School Notes/Year 1/Property/Semester 2/Readings/Review of The Law of the Land.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 38 (Criminal).md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Breen.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Latimer.md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Readings/R v Perka.md",
+    "Law School Notes/Year 1/Public/Lecture 16 (Public).md",
+    "Law School Notes/Year 1/Public/Readings/Alberta v Hutterian Brethren of Wilson Colony.md",
+    "Law School Notes/Year 1/Public/Readings/Syndicat Northwest v Amselem.md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 6 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Badger.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Sparrow.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/Clyde River v Petroleum Geo-Services.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/Haida Nation v BC (Minister of Forests).md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Gladstone.md",
     "Law School Notes/Year 1/Advocacy/Moot Material",
     "Law School Notes/Year 1/Advocacy/Factum Notes",
     "Law School Notes/Year 1/Aboriginal/Readings",
@@ -208,7 +208,6 @@
     "Law School Notes/Year 1/Public",
     "Law School Notes/Year 1/Torts/Semester 2/Readings",
     "Law School Notes/Year 1/Torts/Semester 2",
-    "Law School Notes/Year 1/Torts/Semester 1",
     "Untitled.canvas",
     "Attachments/Exported image 20250409135206-2.png",
     "Attachments/Exported image 20250409135202-0.png",

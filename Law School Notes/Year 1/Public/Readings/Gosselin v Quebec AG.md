@@ -1,0 +1,15 @@
+- Issue was with Quebec's *Social Aid Act* which paid out much less money to people under 30 unless they were in an educational/work program, which many could not access
+- This distinction was removed but the accused sued anyway for retroactive harm, could not have sued earlier because the notwithstanding clause was in all Quebec laws
+- Claimant argued that this was a violation of both s. 15 and s. 7
+- Section 7 argument was based on the idea that denying someone social assistance is a violation of security of the person because they can't meet their basic needs
+- Raised the issue of whether s. 7 could apply to issues outside of the administration of justice
+- It's been suggested before, but never litigated
+- Main issue here is if s. 7 can impose a positive obligation, it's worded to say that the state cannot deprive you of those rights, but does it have to ensure those rights?
+- It's probably possible, if we take a "living tree" approach then there's nothing barring the courts from interpreting it in that way
+- Facts of this case ultimately don't suggest enough to warrant that kind of expansion here
+- The impugned program has other ways to get benefits while underage, and there's not much evidence of real hardship being experienced
+- Several other judges dismissed the appeal for other reasons, like saying s. 7 only applied to administration of justice issues
+### Dissenting Opinion
+- Argued that s. 7 does have a positive dimension, mainly because Canada is an advanced welfare state with the obligation to protect its citizens
+- The fact that the court has consistently left the possibility open is an indication of that
+- Couple of barriers to finding this, but they aren't very significant and usually only there for normative reasons, not substantive ones

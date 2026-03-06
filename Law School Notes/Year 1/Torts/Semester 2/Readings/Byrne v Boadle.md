@@ -1,0 +1,15 @@
+- Defendant's servants negligently transported barrels of flour using a hoist, and one of the barrels fell off and hit the plaintiff
+- A witness saw the incident, but the plaintiff couldn't remember seeing anything out of the ordinary before being struck
+- However, none of the witnesses actually saw the barrels before they hit the plaintiff
+- Defendant argued there was not enough evidence for the jury
+- Court agreed, the plaintiff had not provided enough evidence to prove negligence, nor could they even prove that the barrels were being lifted up since nobody testified to seeing that
+- Attempted to apply the principle of *res ipsa loquitur*
+- What we know is that the plaintiff was injured but they had no way of knowing it was by negligence, and the defendant is not confirming or denying that
+- Unless the plaintiff can provide some evidence of negligence, then there is nothing for the defendant to argue against
+- Defendant, who knows what happens, has no obligation to speak up
+- Dangerous to substitute a presumption where no evidence is shown, the jury will invariably sympathize with the plaintiff
+- Court said that we should not remove the ability to presume negligence, there are still cases where it's clear the result could not have happened without negligence
+- Can also imagine cases where the plaintiff would be unable to have knowledge of the specifics of that negligence
+- In these cases, the injury can be *prima facie* proof of negligence
+- Here, the fact that the barrel fell on the plaintiff is *prima facie* evidence of negligence, and the defendant has to prove otherwise
+- Ultimately decided to hold for the plaintiff

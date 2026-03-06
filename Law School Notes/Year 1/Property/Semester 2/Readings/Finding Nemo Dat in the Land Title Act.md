@@ -1,0 +1,58 @@
+- Deals with the case of *Gill v Bucholtz*, which is an archetypal example of two innocent parties dealing with a rogue
+- Issue in this case was whether *nemo dat quod non habet* applies to non-fee simple interests in the BC system
+- Needed to decide whether the insurers of the mortgagees would pay out two fraudulent mortgages or whether the assurance fund should compensate the holder of the land the mortgages were based on
+- Rogue forged the transfer of a fee simple interest to their associate, who used the land to secure two mortgages
+- When the company getting the first mortgage went to file it, the plaintiff filed a caveat
+- Where the fee simple holder registered their title through fraud, can the innocent mortgagees be subject to a claim from the person wrongfully deprived?
+- Court said yes, the *Land Title Act* uses the *nemo dat* rule for any interest less than fee simple (also called a charge)
+- Established in a previous case called *Credit Foncier*
+- Even where the instrument making the mortgage seems to be valid, it's invalid if the registered holder go their title through fraud
+- This is different to what would happen if we were dealing with a fee simple interest, where the innocent buyer would have indefeasible title
+### Indefeasibility and Charges
+- Title registration system mainly based on fee simple, which pretty much always gives indefeasible title
+- In 2005, the *LTA* was modified to specify that the system was based on immediate indefeasibility
+- Also reinforced the *nemo dat* principles, except for where there is a fee simple interest acquired in good faith for consideration or is already registered
+- Specified under s. 25.1
+- Recall that these exceptions only apply to fee simple, not charges
+- Someone who registers a charge is only deemed to be entitled to that interest, they only have a rebuttable presumption of ownership
+- Therefore, someone who was defrauded can challenge their ownership
+- This is what happened in *Credit Foncier*, the BCCA said that indefeasibility doesn't apply to charges and allowed a claim by someone wrongfully deprived
+- In another case called *Canadian Commercial Bank*, the forged instrument involved the discharge of a second mortgage to let an innocent mortgagee become the second mortgagee
+- When bankruptcy happened, the original second mortgagee tried to get back their status
+- Court concluded that the forged discharge would be annulled under common law and be of no effect
+- Judge argued that this would remove the protection under the *LTA* for innocent mortgagees
+- Established that as long as the registered holder of a charge was dealing with a registered holder of a fee simple interest, the charge will be valid???
+- But what happens if the fee simple holder does not have indefeasible title because of fraud
+- This exception is recognized in s. 23(2), and did not come up in wither of these first two cases
+- When *Gill* came along, it was now clear that charges are not indefeasible, and presumption of ownership can be rebutted
+- Unclear whether even this presumption could stand up where the registered fee simple holder was fraudulent
+### Decisions in Gill v Bucholtz
+- First analysis of whether a charge derived from a fraudulent registered fee simple holder is valid
+- Trial judge argued that the different treatment of fee simple and charges is not a real distinction
+- Also rejected the argument that the mortgagee is in the best position to detect the fraud, as the rogue is still a registered owner
+- Should be able to rely on what the registry says
+- On appeal, this argument was challenged by the appellants on the grounds that this is not how BC's title system is supposed to work
+- Respondents argued that this would defeat the true intention of the act, which was to ensure the validity of the Torrens system
+- Appeal judge emphasized that we should ignore what people say about the intentions of the system and look at the language
+- When looking at the text of the *LTA*, becomes clear that indefeasibility only applies for fee simple, not charges where *nemo dat* still applies
+- Seems clear that the legislature wanted a policy where the cost of mortgage fraud is borne by the lenders and charge-holders, court will not interfere with that
+- Respondents were denied appeal to the SCC
+- Overall, the amendments didn't really change much as charges already did not have indefeasibility, but they made things clearer
+- Whether this outcome was intended by the legislature is not clear, but it seems to be a good assessment of how the law works in practice
+### Title Registration and Risk
+- These systems are designed to facilitate transfers of interests in land, and to give purchasers greater security
+- Also make things way easier to validate title claims
+- Bunch of important variations in how title systems work
+- One example is using immediate or deferred indefeasibility
+- Recommended that BC should use immediate indefeasibility, which was established as the main principle through the 2005 amendments
+- Task force making this recommendation also said that indefeasibility should not apply to mortgages and other charges
+- Too many ways to forge these, can't ensure that the system will guarantee their validity
+- Also recommended reversing decisions like in *Credit Foncier*, but only to give compensation for the innocent mortgagee
+- Still only deemed to be entitled, but you should have compensation for being defrauded out of the entitlement
+- *LTA* amendments did not follow this latter recommendation, may have assumed that mortgagees will have valid mortgages even if the fee simple holder had fraudulent title
+- Also important that both of the mortgagees had title insurance, shows that trust in the title system is not absolute
+- Result of this decision will probably be increased use of title insurance
+- Now, charge holders don't have confidence that when they get an interest from the title holder, that charge is valid
+- Alternative would be to enhance protections for charge holders under the *LTA* to avoid loss of confidence in the title system
+- Question is really how far a title system can diverge from the traditional Torrens system before problems arise
+- Need further analysis to see if that's what's gonna happen with *Gill*

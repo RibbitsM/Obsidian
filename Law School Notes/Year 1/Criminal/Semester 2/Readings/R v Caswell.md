@@ -1,0 +1,22 @@
+- Accused hit the victim, leading to a charge of assault under s. 266 and argued in their defence that they were acting to protect their personal property
+- Defence of property was addressed by ss. 38-42 of the *Criminal Code*, while defence of person as handles by ss. 34, 35, and 37
+- Between the time of the incident and the trial, these sections were replaced by the *Citizens Arrest and Self-defence Act*
+- Court held that the new self-defence provisions should apply to this case, as the changes were only imposed to address inconsistencies in the previous system
+- Accused and the victim has been in an inconsistent relationship for two years, and never lived together but has two children, one from the victim's previous marriage
+- Accused invited the victim over, and the victim became upset when the accused began smoking around the children
+- Asked him to leave the house and threatened to break the television when he refused
+- Still refused to leave, so she picked up a microwave tray and went to throw it at the television, which resulted in a struggle over the tray
+- At some point the accused struck the victim in the shoulder
+- Victim admitted that she had a temper and had previously destroyed property in the accused's house several times
+- Issue is whether the accused can raise the defence of property
+### Analysis
+- Section 35 allows a defence under four conditions
+	- Person believes they are in rightful possession of property or are helping someone who also reasonably believes they rightfully possess property
+	- They reasonably believe that another person is about to damage or destroy that property
+	- Act of the offence was done to prevent the other person from harming or taking the property
+	- Act committed was reasonably given the circumstances
+- Accused was in possession of all his personal property on the premises, and had reason to believe the victim was going to smash his television
+- Additionally, it's also pretty clear that the accused acted with the purpose of preventing the victim from smashing the television
+- Finally, the blow he delivered was not very hard, and was reasonable in the circumstances, he did not escalate any further and was a proportionate response
+- Overall, the actions of the accused did not meet the elements of assault, and the defence is successful
+- Found not guilty

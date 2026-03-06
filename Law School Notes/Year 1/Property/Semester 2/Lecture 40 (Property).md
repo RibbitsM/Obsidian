@@ -1,0 +1,38 @@
+- Recall that the title registration system allows fee simple owners to register their land to get indefeasible title over that fee simple interest
+- BC's system works on a system of immediate indefeasibility, as it appears that s. 25.1 prevents claims that a transfer instrument is void from challenging ownership
+- But this only applies to fee simple interests, all other interests are considered "charges"
+- Examples of these would be mortgages (Form B) and other interests (Form C)
+- For these interests, the registrar has to register a charge when an application is given as long as the charge is registrable under the *LTA* and the applicant shows good title
+- The registered owner of a charge is deemed to be entitled to that interest under s. 26
+### Charges and Fraud
+- In an old BCCA case called *Credit Foncier*, a guy named Allen forged a mortgage to a company called Todd Investments
+- This company assigned the mortgage to a guy named Stuart, who later assigned it to Credit Foncier
+- Todd, Stuart, and Credit Foncier didn't know about the fraud, and nothing happened until Credit Foncier tried to foreclose on the original owners (who had never taken out a mortgage)
+- If this was a fee simple interest, then Credit Foncier would be the rightful owner of the property
+- *LTA* only says Credit Foncier is "deemed to be entitled", which the court found means that they have a rebuttable presumption of ownership
+- Looking to the principles of legislative drafting, the word "deemed" usually means assuming something is true that may or may not be true
+- This is an issue of statutory interpretation, how do we understand this phrase?
+- Court took a contextual approach, they compared the relevant section to other parts of the statute to infer what the intention was
+- Found that since other similar sections said that registration was "conclusive evidence" of entitlement and they didn't say that here, it's probably a rebuttable presumption
+- In this case, the presumption could be rebutted by proof that at some point, the instrument was rendered void
+- Because the initial transfer to Todd Investments was fraudulent, the presumption could be rebutted
+- As for Credit Foncier, they can sue Allen to get their money back, but if this fails, they can try and claim compensation from the assurance fund under s. 296
+### LTA Amendments
+- After this decision, they added s. 26(2) which specifies that registration of a charge does not conclusively means that the charge is enforceable
+- Also added s. 27(3) which specifies that a transferee of a mortgage also inherits the equities, basically legislates the *nemo dat* rule
+### [[Finding Nemo Dat in the Land Title Act|Gill v Bucholtz]]
+- Fraudster worked with a friend to fraudulently transfer a fee simple interest to her
+- She then took out two mortgages on the property, but before one of the mortgages could be registered, the original owner found out and filed a caveat
+- This meant that the title is basically frozen
+- Mortgagees had title insurance, owner waned to get title without the mortgages
+- Different from *Credit Foncier* because the instruments transferring the mortgages were valid, the issue was that the underlying fee simple interest was invalid
+	- In that case, the fraudster never transferred the interest to themselves, they just forged the owner's signature on the mortgage
+- If the mortgages were valid, then the mortgagees keep the mortgages and the original owner would be able to claim compensation from the assurance fund
+- He meets all the requirements, he was deprived of an interest in land because of the register and due to fraud, and would have normally been able to get it back under common law
+- If the mortgages were invalid, the mortgagees couldn't claim against the assurance fund, but they could get money from title insurance, and owner would have unencumbered title
+- Actual case here was between the insurance company and the assurance fund
+- Issue to address is whether someone without indefeasible title could grant a valid mortgage
+- We know she doesn't have indefeasible title because she got it though fraud
+- Court found that the *LTA* keeps the *nemo dat* rule for charges, and because of this, the fraudster couldn't have gotten the mortgages in the first place due to s. 25.1
+- This raises a policy issue, should we give indefeasibility for charges?
+- Court didn't decide that, left the issue to the legislature

@@ -1,0 +1,70 @@
+- Cassidy Ediger suffered from bradycardia during birth that gave her severe and permanent brain damage resulting in cerebral palsy and spastic quadriplegia
+- Sued the doctor who delivered here alleging the injury came from his decision to deliver her using forceps
+- Trial judge found that the doctor breached the standard of care by not having surgical staff on hand for an emergency C section and not telling the mother about the risks of a forceps delivery
+- Issue was if they made an error in determining causation
+### Facts
+- Mother consulted the doctor during pregnancy, who deemed her pregnancy high risk and decided to induce the pregnancy early
+- High risk factors are irrelevant to the injury
+- During birth, doctor saw that the baby was stuck sideways in the birth canal, decided to use forceps to rotate the baby
+- A forceps delivery at this part of the birth canal is the riskiest forceps delivery doctors are allowed to perform
+- Did not inform the mother of potential risks which include pinching the umbilical cord leading to a drop in heart rate before delivery (bradycardia)
+- Did the procedure in a normal rule next to a C section operating room, but did not ask if anyone could potentially do an emergency C section if complications arose
+- Started the forceps delivery but positioned one blade incorrectly and decided to do a C section instead
+- Couldn't get an anaesthetist because the one on call was preoccupied with crucial surgery
+- Another doctor saw that the baby was experiencing bradycardia, doctor came back and confirmed this
+- Convinced the anaesthetist to leave surgery and help with the C-section, Cassidy was born 20 mins after the forceps attempt and 18 minutes after starting bradycardia, resulting in severe and permanent brain damage
+- BCSC rejected a claim that the doctor needed a C section teams standing by to meet the standard of care as it was not uncommon to go without this
+- Did agree the standard needed immediate surgical backup, and thus the doctor still breached the standard of care
+- Found causation as the forceps attempt was a but for cause of bradycardia
+- Finally found that the doctor did not get informed consent before attempting the forceps delivery
+- Awarded $3,224,000 in damages
+- Appeal court held that the trial judge erred as evidence did not support the conclusion that the forceps attempt caused bradycardia
+- Usually, bradycardia happens within seconds of the cord being compressed, and Cassidy only experienced bradycardia at least a minute after the forceps attempt
+- Also found that there was no evidence that having a back up team would speed delivery
+- Appeal allowed, action dismissed
+### Analysis
+- Duty of care, breach of standard, and compensable damage are all present, only issue in this case is causation
+- Doctor made three arguments against causation
+	- First, bradycardia would have occurred regardless of procedure
+	- Second, even if the forceps delivery caused bradycardia, the injury would have occurred even if he met the standard of care
+	- Finally, Mrs. Ediger would have only postponed the forceps procedure if properly advised, and the same result would have occurred
+- Three issues to consider
+	- Did trial judge err in saying the forceps delivery caused bradycardia?
+	- Did they err in saying the lack of back up caused Cassidy's injury
+	- Did they err by saying the failure of informed consent caused the injury
+- Causation is based on the "but for" test from *Clements*
+- Causation is factual, so need to find a palpable and overriding error
+### Issue One
+- Recall that the Court of Appeal put weight on the gap between the forceps delivery and the onset of bradycardia
+- Trial judge did address this argument, but expert evidence suggested that the forceps could have moved the umbilical cord into a position where it would be compressed by the next labour contraction, hence the lack of immediate bradycardia
+- Accepted this evidence, and concluded this was likely what occurred
+- Court of Appeal erred in saying this finding was inconsistent, the probably thought the trial judge was relying on [[Snell v Farrell]]
+- This case established that in malpractice cases, the plaintiff has to prove causation on BOP
+- However, the trier of fact can draw an inference against a defendant without enough evidence to the contrary of the plaintiff's theory
+- Doctor testified that he had only used one blade, so the baby's head could not have moved to displace the umbilical cord
+- However, the second doctor testified that he had actually used both blades
+- Trial judge correctly weighed the conflicting evidence and made a conclusion
+- No palpable and overriding error here
+### Issue Two
+- Trial judge found that the standard was to take reasonable precautions to deal with the risk of bradycardia, and then the doctor did not do this
+- Doctor argued that the standard only required that he make sure that the anaesthetist was available before the forceps procedure
+- If he had delivered Cassidy 10 minutes faster then she would be fine, and even if the anaesthetist was available, they would only have saved about 2 minutes
+- Took 13 minutes to confirm bradycardia and move/prep Mrs. Ediger for surgery, and the C section took 5 minutes
+- Would be an error to say the anaesthetist's absence caused the injury but this is not what the trial judge said
+- Standard is supposed to be responsive to the risk of bradycardia, what's the point of having an anaesthetist on standby if it won't avoid injury via bradycardia?
+- Under the doctor's interpretation, a doctor will never be liable for injury from fetal bradycardia
+- Main issue at trial was whether the standard of care required full surgery prep before a forceps procedure was done
+- In this situation, the time gap between a failed forceps delivery and a successful C section is about 2-5 minutes
+- This would avoid any potential risks entirely
+- Trial judge Found that this was not strictly necessary, but at least need immediate surgical back up
+- Overall, the standard of care set by the judge did not allow the doctor to ignore the risk of bradycardia coming from a mid-level forceps rotation
+- Did not take any precautions addressing this risk, this finding is sound
+### Issue Three
+- Since the previous issue was resolved, don't need to consider this but it further reinforces that finding
+- Trial judge found he had a duty to get informed consent, including informing Mrs. Ediger of material risks including bradycardia
+- Did not make a finding if Mrs. Ediger would have requested a C section in this context, there was some inconsistent evidence on this
+- Found that at the very least, if she knew there was no surgical backup she would have waited for that to be available
+- As we previously established, the doctor's standard would surely result in severe brain damage, and he would have to tell Mrs. Ediger this
+- If informed of this, she would surely opt for a C section
+- This pretty clearly shows the difference between the doctor and the trial judge's interpretations of the standard of care
+- Overall, trial judge did not err, and the appeal is allowed with costs

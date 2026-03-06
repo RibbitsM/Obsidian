@@ -1,0 +1,71 @@
+- Accused woke up and heard a sound outside his house, saw that the lights of his truck were on outside
+- He took a shotgun and went outside and confronted the victim who he found messing with the door of the truck
+- Thought they had a gun when they turned around and shot them twice, killing them
+- Guy did not have a gun, only a knife that was still in their pocket
+- Crown argued that he should have called 911 before confronting the person himself, trial focused mainly on how the accused had military training
+- Acquitted at trial, but the jury instructions did not include the accused's "role in the incident" which is required under s. 34(2)(c)
+- Court of Appeal overturned the acquittal and ordered a new trial on the grounds that the trial judge erred by not leaving this with the jury
+### Analysis
+- New Code provisions on self-defence came into force in March 2013
+- Gave the trier of fact a lot of flexibility, mostly by letting them assess the reasonableness of the response made by the accused
+- One of the factors for determining this is "the person's role in the incident"
+- Issue if whether this factor includes only unlawful conduct, or does it include any relevant conduct throughout the incident
+- SCC ultimately found that the failure to instruct the jury on this factor was an error of law
+- New version of self-defence under s. 34 is simplified, and contains the same three components of any self-defence claim
+	- Must reasonably belief force is being used against them
+	- Purpose for responding must to be protect yourself
+	- Act must be reasonable in the circumstances
+- The Code then goes on to list nine non-exhaustive factors to consider when assessing reasonableness of an act
+- These changes marked a substantive change in the law of self-defence, and these new changes should be interpreted in light of this
+#### Reasonable Belief of Force
+- Recall that unless the accused subjectively believed that force or threat of force was being used against them or another, the defence doesn't work
+- Belief must be held reasonably, which is related to their moral blameworthiness and determined based on community values 
+- Assessed with a modified objective standard, meaning what would an ordinary person with the same relevant attributes, experiences, and circumstances
+- Will still not include people that are overly fearful or vigilant, intoxicated, etc.
+- Personal prejudices or irrational fears also don't qualify, for example an honest belief that all young black men are armed will not be considered
+- An honest but mistaken belief can still be reasonable, and does not bar a claim of self-defence
+#### Motive for Using Force
+- Goal is to ensure that the accused was not taking their actions for vengeance or another personal motivation, and is related only to self-defence
+- Range of reasonable responses depends on the goal, for example for defending property vs defending themselves
+- Reason for acting can also change as the incident escalates, which was recognized by these amendments
+- Need to make sure that the threat existing at a certain point in time is aligned to the purpose
+- Also a major motivation for making self-defence laws so flexible
+#### Reasonability of the Response
+- Reasonableness requirement here is also measured against community norms for conduct
+- Recall that reasonableness is also tied to whether the accused acted in a morally blameless way
+- Most previously essential factors for determining self-defence are now only factors
+- Big part of the reason for these changes is also to make self-defence more comprehensible and accessible by couching things in broad and flexible language
+- Need to start be determining the relevant circumstances regarding how the act happened, what role each person played, and what characteristics of each party are relevant
+- Also need to consider the experiences of the accused, especially between the parties
+- Focus is still on what a reasonable person would have done, not what the accused thought
+- Law of self-defence does not offer different rules for those with military experience, the question is still what a reasonable person with the same training would have done
+- We're also not really questioning the reasonability of the accused beliefs, just the reasonability of their actions
+- An objective assessment should not be the perspective of the accused, but a similar person
+- It's also obligatory for the court to consider all relevant circumstances, which include the nine listed factors in s. 34(2)
+- Ultimate question is whether the "act committed" (the shooting) was reasonable, and all these factors serve to help with that
+- None of them will be determinative, but will all have an effect on the final decision
+#### Meaning of "Role in the Incident"
+- Accused argues that this factor only covers conduct that is also unlawful or morally blameworthy, or is otherwise considered excessive
+- Applying this restriction is an unnecessary restriction on what can be considered by the trier of fact, legislature could have just said "wrongful role" if that's what they wanted
+- Intention was clearly to consider the person's conduct from the beginning to the end of the incident, namely what the accused's role was in bringing about the conflict
+- This would include any potentially unlawful conduct, but also anything else that could be relevant to determining their role
+- Result is that the trier of fact must consider whether the accused played a role in bringing about or avoiding the conflict
+### Application
+- Trial judge gave extensive instructions to the jury regarding the three elements of self-defence, especially regarding the first element
+- However, he told the judge he would not review the evidence regarding the reasonableness factors and just told the jury to consider the evidence in light of the factors without specific mention of any factor
+- Did not give any specific instruction on the accused's role in the incident
+- This does not cause an automatic error of law because these factors are not technically elements of the defence
+- Don't need to consider factors when there's no reason to, for example there was no prior relationship between the parties to consider here
+- Crown assets that s. 34(2)(c) is a mandatory factor that the jury is obliged to consider
+- Because the accused's role in the incident leading to the shooting is potentially a significant factor in assessing whether he acted reasonably, the trial judge erred
+- Main importance of this factor is to consider whether accused's actions eliminated all other methods of dealing with the situation except for using deadly force
+- The accused was the only one doing anything in this situation, all the victim did was turn around when asked by the accused before being shot
+- Accused had already checked the house for intruders, and made the conscious choice to go confront the victim
+- Without a direction to consider the accused's role in the incident, this line of questioning could have never emerged from the jury
+- Most importantly, without this instruction they probably would not have focused on anything except the moment between he thought he saw a gun and when he pulled the trigger
+- Many other options existed like calling 911, shouting from further away, or firing a warning shot
+- Overall, it seems that the accused played a significant role in bringing about the incident that led him to killing the victim
+- Nothing in the trial judge's instructions would have led the jury to consider the accused's role in the incident
+- This was a significant error that could reasonably had a bearing the jury's acquittal
+- Can reasonably say that this might have affected the jury, so a new trial is needed
+- Found guilty of manslaughter at the retrial

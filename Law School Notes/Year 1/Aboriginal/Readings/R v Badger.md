@@ -1,0 +1,114 @@
+- Case regarded a group of Indigenous men hunting on private land
+- Issue was whether the *Wildlife Act* infringes the right of Indians to hunt for food
+- Clear that the *National Resource Transfer Act* duplicated the right to hunt for food and allowed hunting across the whole province
+- Also put responsibility for game laws on the provinces, eliminated the right to hunt commercially, and is a constitutional document
+- Seems clear that there was an intention to merge the rights under Treaty 8 into the *NRTA*, it was not an amendment of the Treaty
+- Therefore, any status Indian hunting outside treaty lands is covered by the *NRTA* and not Treaty 8
+- Overall, seems like the intention was a merger and consolidation of Treaty rights
+- Therefore, the current sole source of the right to hunt for food is the *NRTA*
+- Does not means we have to neglect the principles of treaty interpretation that require ambiguities to be resolved in favour of Indigenous communities
+- Also, the fiduciary obligation of the Crown still applies because this is part of the relationship between Indigenous peoples and the Crown
+### Validity of the Wildlife Act
+- *NRTA* granted provinces the right to pass legislation on "gaming", **subject to** the Indian right to hunt for food
+- However, earlier cases have rejected this interpretation, pointing out that there was already existing conservation legislation affecting Indigenous communities when the *NRTA* was formed
+- Para 12 of the *NRTA* (which protects hunting rights) is already in a constitutional document, so there is no need for s. 35(1) to apply to the *NRTA*
+- Currently no method in the *NRTA* that allows scrutiny of government measures to impinge on the right to hunt for food, but it definitely requires the balancing of rights
+- Because of this need, we can safely apply the [[R v Sparrow]] test even though it was initially created to deal with s. 35(1) which doesn't apply here
+- Three questions to answer here
+	- Do status Indians under Treaty 8 have the right to hunt for food on privately owned land located on surrendered land?
+	- Have the rights from treaty 8 been extinguished/modified by para 12 of the *NRTA*?
+	- Do ss. 26(1) and s. 27(1) of the *Wildlife Act* apply to the appellants, and if so, to what extent?
+### Facts
+- Badger was charged with shooting a moose out of season under s. 27(1)
+- Other appellants, Kiyawasew and Ominayak also shot moose but were charged under s. 26(1) for hunting without a license
+- All three were Cree status Indians under Treaty 8 and were hunting on land surrendered to Canada under Treaty 8
+- Land was all privately owned, Badger saw no fences or signs but was fairly close to a farm house
+- Kiyawasew saw no fence but saw a couple old barns and saw some signs but could not read them
+- Ominayak saw no fences, signs, or buildings
+- All three convicted in Alberta, appealed to superior court and appealed to the ABCA where all three appeals were dismissed for different reasons
+## Analysis
+- Need to determine the extent of the right to hunt for food under para 12 of the *NRTA*
+- Three stages to this analysis:
+	- First, need to see the effect of para 12 on the right in Treaty 8
+	- Second, need to consider if the existing right to hunt for food can be done in private land
+	- Third, do the impugned sections of the *Wildlife Act* limit and define the scope of the right to hunt
+		- To do this, need to consider the *Sparrow* principles
+### Existing Right to Hunt for Food
+- Key guarantee under Treaty 8 was the right to hunt, fish, and trap
+- Imposed two limitations on this right, first it can only be used on surrendered land except for land used for settlement, mining, etc.
+- Second, could be limited by government regulation for conservation reasons
+- When interpreting the *NRTA*, need to consider the honour of the Crown and resolve ambiguities in favour of Indigenous communities
+- Finally, onus for proving extinguishment is on the Crown, need clear and plain intention
+- Court found that the *NRTA* did not extinguish and replace the right to hunt for food
+- Clear intention is to simultaneously limit and expand this right
+- Previous case called *Horseman* held that the *NRTA* showed a clear intention to extinguish the right to hunt commercially, but that the right to hunt for food was extended and protected
+- Undoubtable that this is the current legal instrument detailing the right to hunt, but Treaty 8 is still a sacred promise bound by the honour of the Crown
+- Because of this, and based on another previous decision, the Treaty 8 right was only modified by the *NRTA*, not extinguished and replaced
+#### Geographical Limitations
+- Para 12 allows hunting for food on all unoccupied Crown lands and any other land that Indians have right of access to
+- In this case, hunting was done on surrendered and privately owned lands, did the appellants have right of access to these lands?
+- "Right of access" means a right of access for the purposes of hunting
+- Also, the extent of the right to hunt is different based on the relevant treaty
+- In this case, Treaty 8 allowed hunting on surrendered land except land required or taken up for settlement, mining, etc.
+- If the land was not required or taken up in this way, right of access is available
+- Keep in mind we need to interpret treaties in the sense that they would have been naturally understood by the Indians at the time of signing
+- Evidence shows that this means that "required or taken up" means land being used for something incompatible with the right to hunt
+- Specifically, this means land where buildings or fences are present, as well as crops or domestic animals, these were the usual signs of settlement
+- Abandoned lands may qualify, but need to determine how abandoned it was from case to case
+- Overall, the limitation is based on visible, incompatible, land use
+- Verbal promises made to the peoples under Treaty 8 are also relevant, which in this case included a promise that they would be free to hunt and fish as they wish as long as they did not interfere with miners, travellers, or settlers
+- Government expected little settlement in the Treaty 8 region except for some prospectors
+- Different oral promises were made at different treaties, but generally, this is roughly what was promised in all cases in the prairies
+- Oral promises and Cree oral history indicates that land was not free for hunting whenever it was being put to visible use, courts have accepted this interpretation
+#### Case Law
+- However, previous cases mainly only considered Crown land, only two cases where there was hunting on private lands
+- In the first case, the accused were shooting very close to a farmhouse to the extent where the farmer was awoken by their gunshots
+- No doubt that there was active and visible use here
+- In the second case, the private lands were visibly and actively being used for farming
+- Overall, there has yet to be any cases of hunting on unoccupied private land, except for one BC case called *Bartleman*
+- In this case, the court found that the appropriate right to hunt could be exercised on land where hunting does not interfere with the use and enjoyment of land
+- Because the land was unused and uncultivated, hunting was allowed
+- Overall, limitations on the right to hunt is determined based on treaty terms, but in this case that right has been modified by the *NRTA*
+- In any case, for private land we need to determine if the defendants have a right to access, which in this case means it has to be unoccupied and not put to visible use
+### Application
+- Badger was hunting a quarter mile from a farm house which was not abandoned
+- Kiyawasew was hunting on a field containing signs and several run down barns, and it appeared that the land has been recently cultivated
+- In both of these cases, it seems that there was visible use of the land, and therefore they had no right of access and the right to hunt for food did not apply
+- *Wildlife Act* was applied appropriately to both of these appellants, appeals should be dismissed
+- However, Ominayak was hunting on uncleared muskeg with no fences, signs, or buildings
+- Seemed like the land was not put to any visible use, so Ominayak was allowed to hunt here
+### Permissible Limitations on the Right to Hunt for Food
+- We know that provincial laws of general application apply to Indians, except where they conflict with aboriginal or treaty rights
+- Treaty 8 and the *NRTA* also specified that the right to hunt is subject to conservation laws
+- Based on this information, it seems that provincial game laws apply to Indigenous peoples as long as they serve to conserve game
+- Licensing provisions of the *Wildlife Act* are partially but not entirely for conservation
+- Need to apply the *Sparrow* test to figure this out, as while that case only dealt with aboriginal rights, s. 35(1) also applies to treaty rights
+- *Sparrow* jurisprudence has reinforced that conservation is a valid objective, but these regulations can still be scrutinized using the *Sparrow* test
+- Any statute or regulation creating a *prima facie* infringement of aboriginal rights or treaty rights must be justified by the government due to the *sui generis* nature of those rights
+- Recall that the *NRTA* only modifies the Treaty 8 right, and we should construe that right considering the provisions of Treaty 8
+- Therefore, any *prima facie* infringement of a Treaty 8 or *NRTA* right must be justified by considering the limitation in the context of the treaty using the *Sparrow* principles
+### Prima Facie Infringement
+- Licensing provisions have the objectives of public safety and conservation, but it also clearly creates a *prima facie* infringement of the Treaty 8 right to hunt
+- Regarding the public safety component, all license holders have to take gun safety courses and pass specific tests, which makes sense
+- Previous cases have found that the right to hunt for food implicitly must be exercised in a manner that does not endanger the lives of others, so it does not conflict with hunting laws
+- Reasonable regulations regarding safety do not infringe the right to hunt for food
+- Conservation provisions do create an infringement, as it has consistently be held that there is no limitation on the method, timing, and extent of hunting under treaty rights
+- Recall that para 12 specifies that conservation laws affect the right to hunt, so these regulations are still valid if they don't unreasonably apply to Aboriginal peoples
+- Regulations do technically have a subsistence hunting licenses, but it's way too limited to be considered equivalent to the right to hunt under treaty 8
+- Under the current system, Indians have to apply for hunting licenses in the same way as all other Albertans, and get one from a small pool of licenses
+- Even if they do receive a license, they have to pay a fee for it
+- This is all clearly a conflict with the Treaty 8 and *NRTA* provisions
+- Therefore, the current system denies rights holders the means of exercising their rights, meaning that s. 26(1) of the *Wildlife Act* conflicts with the right to hunt
+- *Prima facie* breach of the right to hunt can be established
+### Justification
+- Seems obvious that we use the *Sparrow* test for this as well, as the *NRTA* puts the Alberta government in the same position the Crown would normally be in
+- Shares the duty to not unjustifiably infringe the right to hunt
+- Recall that the first step is to establish a valid legislative objective
+- Government gave no evidence of justification
+- Court held that conservation is still important enough to warrant a new trial to address the issue of justification (damn bro)
+### Conclusion
+- Hunting rights confirmed by treaty 8 were modified by para 12 of the *NRTA*
+- Badger and Kiyawasew were hunting on occupied land with not right of access, so ss. 26(1) and 27(1) did not infringe their right to hunt for food
+- Ominayak was exercising his right on unoccupied land, and s. 26(1) was a *prima facie* infringement of his right to hunt
+- Lower courts did not consider justification, new trial needed to address this
+- Dismissed appeals of Badger and Kiyawasew, Ominayak's appeal allowed and new trial ordered

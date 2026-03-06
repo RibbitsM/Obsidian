@@ -1,0 +1,63 @@
+- City of Saguenay started all their meetings by reciting a Christian prayer
+- Claimant in this case was an atheist who regularly attended these meetings and complained about the prayer to the Quebec Human Rights Tribunal
+- While this complaint was ongoing, the city established the prayer through a bylaw
+- Tribunal granted the claimant a declaration that the bylaw was inoperative, as the prayer was religious in nature and reciting it went against the neutrality of the state
+- Quebec Court of Appeal reversed the decision, saying that the prayer expressed universal values that were not necessarily tied to one religion
+### Analysis
+- State must be neutral in any matters involving the freedom of religion
+- In this case, the sponsorship of one religion by the state breaches this duty of neutrality
+- Reciting the prayer excludes the claimant on the basis of his religion (or lack thereof)
+- Impairs their right to full exercise of the freedom of conscience and religion, but this is all dependant on whether the prayer is actually religious
+### Neutrality of the State
+- Freedom of religion protected under s. 3 of the Quebec Charter, and s. 10 prohibits discrimination based on several grounds, including religion
+- Constitutional counterpart is s. 2(a) which is very similar to s. 3, can interpret them in the same manner for these purposes
+- Freedom of religion protects the right to practice your beliefs and protects you from being compelled to follow another religion or depart from their beliefs
+- Also extends to the lack of belief like atheism
+- Duty of neutrality is not specifically stated, evolved over time
+- If we're going to allow churches in public life, the government needs to act as a neutral intermediary between the churches and the public
+- Basically requires the state to not favour or hinder any particular belief
+- Religion is an integral part of a person's identity, and by preferring one religion over another, the state is giving preference to those people over others
+- Public space should be free of discrimination where citizens can belief whatever they want
+- Therefore, the state cannot promote the participation of certain groups to the detriment of other groups
+- Tribunal was correct in holding that the duty of neutrality prevents the state from promoting a religious belief
+- Appeal Court Judge argued that absolute neutrality is not possible, as this would go against the multi-religious history of Canada?
+- This does not change the fact that neutrality means not encouraging or discouraging any form of religious conviction
+### Interference with Freedom of Religion
+- State can interfere with the freedom of religion by adopting a law, which will be deemed inoperative if it has a religious purpose
+- Complaint here was not just about the bylaw, but the practice itself
+- Need to prove breach of neutrality by showing that the state is favouring one belief to the exclusion of all others
+- If the evidence shows an intention to favour one to the exclusion of others and the practice interferes with the freedom of religion of individuals, duty of neutrality breached
+- As long as this bar is met, doesn't matter if the practice is traditional
+### Application
+- Reasonable for the tribunal to find that the practice was religious
+- This was an appropriate finding of fact, based on looking at the text and origin of the prayer
+- Tribunal also concluded that this was discriminatory interference with the claimant's freedom of religion
+- Court of Appeal couldn't overturn the tribunal's findings of fact unless they were unreasonable, seems pretty clear they ruled reasonably
+- Argued that neutrality should not prevent recognizing the historical religious dimensions of Quebec society
+- Court agreed that neutrality doesn't require ignoring religious heritage, but this is not a justification for a discriminatory practice
+- Seems very clear from the testimony at the Tribunal that the prayer was intended to profess one religion to the exclusion of others
+- The state does not have a freedom to manifest a belief, but officials of the state are still allowed to follow their religion when not acting officially
+- Claimant argued that the prayer isolated and excluded him from participating, impairing his freedom of religion
+- Because he was forced to choose between reciting the prayer and violating his religious beliefs or physically leaving the room, Tribunal considered this to be substantial interference
+- Court found that this ruling was reasonable, and held that the bylaw regulating the prayer was also discriminatory
+- Because the municipality did not advance any justification for the bylaw, s. 1 not needed
+### Other Arguments
+- Respondents raised a variety of miscellaneous arguments for why the prayer was valid
+- First, they argue that preventing the prayers gives atheists preference over religious people
+- This is a recognized issue with the duty of neutrality, and a major reason why absolute state neutrality is impossible to reach
+- Court's approach is to neither favour nor hinder any particular belief, and showing respect towards all religions including the lack of religion
+- Abstaining from discussions on religion is not the same as supporting atheism, cannot assume a lack of belief based on silence alone
+- Second, they argued that the prayer was non-denominational
+- This fact has never been clearly established, and the tribunal was able to prove that it was clearly closely related to Catholicism
+- Also, even if it was non-denominational, it's still a religious practice
+- The point of the state being neutral is that the state does not engage in any religious practices, including non-denominational practices
+- Third, the respondents argued that the prayer is similar to the one recited in the House of Commons
+- No evidence of what the purpose of that prayer is, and the circumstances where the prayers are used are totally different
+- Finally, the House's prayer may be subject to parliamentary privilege, this prayer is not
+- Without more evidence, this argument has to fail
+- Fourth, they argue that the reference to the supremacy of God in the preamble of the Charter shows that God is the source of the morals protected by the Charter
+- However, this mention of God is more of a reference to the political theory behind the Charter, and it would also be contrary to change the freedom of religion to let the state be Christian
+- Recall that the provisions of the Charter are supposed to be interpreted generously, can't rely on the preamble to limit express provisions
+### Conclusion
+- Tribunal's findings were reasonable, the prayer created a distinction based on religion
+- Court restored the judgement of the tribunal

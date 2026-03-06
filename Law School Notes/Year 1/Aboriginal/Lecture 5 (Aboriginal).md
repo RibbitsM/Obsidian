@@ -1,0 +1,80 @@
+- Recall that in [[Haida Nation v BC (Minister of Forests)]], the court established the duty to consult which based on the honour of the Crown
+- Supposed to be a core precept that is grounded in concrete practices, government needs to act in good faith in negotiations and consultation with Indigenous groups
+- Established that it's not a veto
+- Duty is owed by both levels of the government, but not by private actors
+- Government can delegate some elements, but are always ultimately responsible
+- Duty arises where the Crown has knowledge of a potential claim, not just proven rights
+- Issue in this case is who exactly "The Crown" is
+- What is required for the duty is determined by plotting the case in terms of the seriousness of the impact, and the strength of the Aboriginal claim
+- Going forward, parties cannot pretend this doesn't exist and will be held liable for not following the duty to consult and accommodate
+- Claims can be based on treaty rights, but treaty obligations are generally more specific and need less interpretation
+- For a treaty right, that's going to be pretty high on the claim strength scale
+- Duty will always be to negotiate in good faith, and anything extra depends on the circumstances
+- Minimum obligation is to agree to consult and negotiate and hear the concerns of the Aboriginal group
+- Depth of the consultation varies, as well as the power of the remedy
+### [[Clyde River v Petroleum Geo-Services]]
+- Case happened in Nunavut, during that time the Inuit started a modern treaty called the *Nunavut Land Claims Agreement*
+- Granted a whole range of rights, and is different from a s. 35 right
+- Specific right at issue here is the right to hunt, fish, and trap including marine mammals
+- Company was applying to do seismic testing, which is very loud and disruptive to the local environment, needed to get approval from the *Canada Oil and Gas Operations Act*
+- At the time, the body was called the *National Energy Board*, changed afterwards partly in response to this case to include Indigenous concerns
+- Independent tribunal, not directed by the government but created and operated by statute
+- Main question for the environmental assessment is if the project is in the public interest
+- Have to weigh benefits against any potential downsides, Inuit were concerned about the impact on local marine mammals and filed a petition to oppose it
+- NEB was collecting comments from local groups on potential concerns
+- Proponents (the company) were supposed to come answer these questions, but they did not answer all the concerns of the Inuit
+- Sent a 4000 page document to send to the Inuit, which the mayor's computer couldn't even open and was not translated into Inuktitut
+- Supposed to be the consultation process, community was still very concerned with the inadequate answers
+- Wrote to the Minister of Aboriginal Affairs complaining the duty to consult was not achieved
+- Asked for a more stringent assessment, Minister rejected it and the testing was approved
+- Clyde River sought judicial review on that decision
+- Current NED mandate didn't have any sort of policy for dealing with consultation issues like this
+### Duty to Consult
+- Main issue was how does the duty to consult work with non-governmental bodies
+- Reinforced that the honour of the Crown is a general principle of the duty
+- Cited *Rio Tinto* to show that regulatory bodies can be considered the Crown, similar case with a purchase of energy rights from BC Hydro
+- Project was built in 1976, new decision was to expand the volume of the energy purchase agreement
+- Issue was if this new decision could trigger the duty to consult, court held that regulatory bodies can have the duty to consult delegated
+- Also had to consider if cumulative effects and harms could trigger the duty, court held that there had to be some new change to trigger the duty
+- Crown is always responsible for the duty, and the regulatory process should fully incorporate that duty as well
+- If it's not adequate, then the Crown is responsible so they have to make sure there's no gaps in the process, which can be forced by finding a failure of the duty
+- Can lead to a decision being postponed or modified
+- NEB in this case is the vehicle through which the Crown acts
+- NEB approval process triggered the duty, lower courts said only ministerial approval could
+- Otherwise, the Crown could delegate away the duty to consult
+- Once triggered, the Crown can use another body to fulfill the duty
+#### Was the Duty Triggered and Fulfilled?
+- NEB had significant powers, and the nature of it's operations allow it to do substantial consultation
+- Also has the ability to grant substantial remedies, so the Crown can use it as its vehicle
+- Then, we need to determine that since they could do it, did they actually fulfill the duty?
+- Weren't able to answer many of the pressing questions and their method of sending their answers were insufficient
+- Also didn't make it clear that they were acting on behalf of the Crown and didn't state that they were trying to consider Aboriginal rights
+- Mainly an environmental assessment, without taking treaty rights into account
+- Crown would have needed to make it clear that the NEB was carrying out the duty to consult
+- Also little to nothing done in terms of accommodation
+- Hearing process itself was quite limited, no funding was given, participation was limited, and the hearings were written only, not oral
+- Based on these facts, the court held that the duty was definitely triggered and was not fulfilled
+- Also supposed to be deep consultation because of the severity of the damage and strength of the claim
+- Court says that any decision affecting Aboriginal treaty rights where consultation in inadequate breaches the duty and should be quashed when challenged
+- This is not a substitute, only undoing past injustices we should try to make it so the consultation process happens without going to court
+- Process of rushing approval only to get held up by litigation is inefficient and harmful
+- Ultimately, the Crown blocked the testing
+### Chippewas of the Thames
+- Treaty rights case in Ontario also dealing with an NEB issue
+- Violation was an Enbridge pipeline that had been there for a while, pre s. 35
+- Enbridge wanted to modify the pipeline and increase it's capacity to carry heavy crude, which would increase the risk of oil spills
+- Requested Crown consultation, appealing to the Minister who told them the Crown was relying on the NEB public hearing process
+- NEB approved the changes, and the Chippewa brought a judicial review challenge
+- Decided at the same time as *Clyde River*
+- Court found that the notice was sufficient, and the process provided by the NEB was also sufficient
+- This one had public oral hearings, not just on paper
+- One of several reasons why the Crown ultimately found the duty was met
+- Also got funding to participate in the hearings and could also make information requests from the NEB
+- NEB recognized the rights and considered the potential negative effects, and made some accommodations to account for those risks
+- Enbridge had to file an environmental protection plan and some other reports on how consultation would work going forward
+- Also had to give the communities training on how to deal with potential emergencies
+- Duty was triggered by the new expansion, Chippewas argued they needed deep consultation because of the potential new harms and cumulative harms
+- Chippewas wanted concerns recognized beyond what they got, but the court said no
+- Duty to consult is not used to address historical grievances, the impact of the new expansion would be relatively low
+- Ended up putting the case in the moderate consultation bracket
+- 

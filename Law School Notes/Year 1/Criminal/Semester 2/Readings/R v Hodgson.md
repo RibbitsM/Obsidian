@@ -1,0 +1,16 @@
+- Accused was at a party and was helping to remove an aggressive guest
+- Put the guest in a chokehold to restrain them, which caused them to lose consciousness and die
+- Acquitted at trial for lacking the *mens rea* for murder and raising an air of reality to a self defence argument against manslaughter
+- Crown appealed on the grounds that the judge failed to consider whether putting someone in a chokehold until they pass out is inherently dangerous
+- Court of Appeal ordered a new trial on the grounds that the trial judge erred in the application of the self-defence provisions, saying they made it too subjective
+- SCC allowed the appeal and restored the acquittal, saying that arguing a chokehold in inherently dangerous would add an objective element to the *mens rea* for murder
+- Found that the trial judge separately addressed all the factors that were relevant to determining what a reasonable person would have done
+- The victim was very intoxicated, and was posing a nuisance and potential harm to the other people at the party
+- He was not complying with requests to leave and had elbowed the accused in the head when he tried to intervene
+- Accused was asked to help remove him because he was the strongest guy there
+- Accused and the victim were roughly equal in physical characteristics
+- Parties had no relationship, though they had talked during the party, may have been upset with the way he was treating the other party guests
+- Carrying out a known "calm down" move like a chokehold from behind seemed reasonable and proportionate given the sudden and urgent nature of the incident
+- Had already tried to pull him but was elbowed away
+- No error in law in how the trial judge did the reasonability analysis
+- Appeal allowed, acquittal restored

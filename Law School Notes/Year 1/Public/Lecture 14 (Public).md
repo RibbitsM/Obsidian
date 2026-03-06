@@ -1,0 +1,69 @@
+### Recap
+- Section 7 interests in [[Rodriguez v BC]] were liberty and security of the person, but in the context of a life interest
+- Didn't really find a PFJ, but considered whether sanctity of life is one
+- In [[Carter v Canada]], the s. 7 interests were life, and the PFJ was overbreadth
+- Action wasn't justified under s. 1 because there was no rational connection
+- Wasn't minimally impairing because it was an absolute prohibition
+- An absolute prohibition will generally fail the minimal impairment test unless it is warranted by clear evidence
+- What changed between these cases?
+- Trial judge in *Carter* was not bound by *Rodriguez* because of changes in fact on the ground, as well as changes in law happening in other jurisdictions
+- Societal consensus against euthanasia that existed in *Rodriguez* had dissipated for the most part
+- Also, the doctrines of arbitrariness and gross disproportionality developed after *Rodriguez*
+- Section 7 interests in [[Canada AG v Bedford]] were security of the person, and potentially life as well
+- Not being able to work in a fixed indoor location caused risks, as did not being able to hire bodyguards or communicate with clients in public
+- Section 7 interests in [[Canada v PHS Community Services]] were all three
+- Liberty related to the clients, who could now be incarcerated
+- Security of the person was engaged because of the increased risk of drug use outside of Insite, and at some point this is a significant enough threat to engage the life interest
+- PFJs in *Bedford* were overbreadth, arbitrariness, and gross disproportionality
+- Remember that overbreadth is arbitrariness in part
+- PFJ in *PHS* was arbitrariness, because the effects of the decision undermined it's objective
+- Goal was to protect public health, but not exempting Insite hurts public health
+- *Bedford* was not justified under s. 1 because the provisions were not minimally impairing, and the law's potential positive impacts were greatly outweighed by the downsides
+- *PHS* established that a provision that fails the principle of arbitrariness is very unlikely to also pass the rational connection test
+- Court in both of these cases recognized that regulating drug use and sex work is something that the legislature should be empowered to do
+- By challenging these complex social policy decisions, the court is imposing its own moral reasoning onto the legislature
+- Effectively, they were stepping into an area where they have no competence
+- Can argue that all the court is doing is looking at the impact of these policy decisions and determining that rights were violated, not making new policy decisions
+### Application of Carter
+- Issue here revolved around whether or not certain individuals can consent to MAID
+- In that case, the patients were suffering from extreme pain caused by physical illness, but how would this play out if they were suffering from mental illness
+- Much harder to establish a violation of s. 7, don't have the same facts needed to establish the physical and psychological threat like in *Rodriguez*
+- Main purpose of the decision in *Carter* was protecting vulnerable individuals
+- The availability of MAID creates a problem, because it may be possible that people will choose MAID rather than suffering long wait times for treatment
+- By offering this option, the state is creating the risk that people will prematurely end their lives
+### [[Gosselin v Quebec AG]]
+- Main issue here was whether or not s. 7 can impose positive obligations
+- Appears that there aren't many clear barriers to interpreting s. 7 in this way, but what is the threshold for this kind of new interpretation to be warranted
+- Court said that a positive right could not be recognized based on the weak factual evidence presented in this case
+- Leaves open the opportunity for future decisions to recognize a positive right
+- There's also a bit of a *stare decisis* issue here because of how long s. 7 has been interpreted as only granting purely negative rights
+### [[Chaoulli v Quebec]]
+- Right to security and life were engaged here because the long wait times for the Canadian health care system caused physical harm and even death to citizens
+- PFJ engaged here was arbitrariness, the concurring decision found that the objective of the legislation was to protect the public health care system and ensure high quality health care
+- However, the court looked to the examples of other OECD countries and found that many of those states had well-functioning two-tiered healthcare systems
+- Therefore, it wasn't clear that there was any need to keep private healthcare out of the picture in order to have a successful health care system
+- Crown argument in this case was that this is outside the purview of the courts because the issue of determining how a health care system will function is very complex
+- Court held that the state is actively endangering people's lives and has not taken any action to try and limit this harm
+- Because of this inaction, the court has the right to move in and try and resolve the issue
+- Dissenting opinion pointed out that it's inappropriate to look at other countries when we can't even figure out our own health care system
+- Argued that this was a debate over social values, not over constitutional principles
+### Michaud
+- Issue in this case was a law requiring devices on semi-trucks that keep them from going above 105 km/h
+- Argued that this is a risk to life and security of the person because the drivers may need to briefly go above 105 km/h to avoid a collision
+- Can say this is overbroad because in some particular situations, this is contrary to the goal of the provision which is to avoid collisions
+- However, this law ended up being saved under s. 1
+- While it may be overbroad in some niche situations, the overall effect of the law is that it benefits public safety more than it hurts it
+### Map of Section 7
+- Finding the interests that are engaged (is it life, liberty, security, or a mix of the three)
+- Then you need to find causation to prove a protected interest was violated
+	- Causation threshold is that the state deprived the claimant of a protected interest
+	- In most cases, the state does not have to be fully responsible, there's room for individual choice
+- Next step is determining if any PFJs have been violated
+	- Can look at the main three of arbitrariness, overbreadth, and gross disproportionality
+	- Also can look at pre-existing PFJs, or attempt to establish a new one
+	- To establish a new PFJ, has to be a legal principle, needs to have societal consensus, and has to be precise and easily applicable
+- Onus is on the claimant for all of these steps btw
+- Final step is justification under s. 1, where the onus is on the Crown
+	- Generally speaking, a violation of arbitrariness or gross disproportionality will lead to the s. 1 analysis failing
+	- Will fail for rational connection in the former case, and minimal impairment in the latter
+	- However, it

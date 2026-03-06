@@ -1,0 +1,4 @@
+- Issue was whether plaintiffs in malpractice suits need to prove causation normally
+- Claimant was a 70 yo woman having trouble with her vision, needed cataract surgery
+- Known issue that anaesthetizing eyeballs can cause a retrobulbar haemorrhage, which normally you just need to wait out
+- 

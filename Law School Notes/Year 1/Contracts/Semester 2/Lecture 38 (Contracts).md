@@ -1,0 +1,52 @@
+- Main issue for the next two classes is how to deal with limitation of liability clauses
+- Example for this kind of clause was a limitation clause where the total liability for any errors caused in a home inspection is limited to the amount of the inspection fee
+- Usually used in commercial and consumer transactions limit the liability for breach of contract, and potentially other issues like negligence
+- Not all designed in the same way, can merely limit liability or excuse one party from liability completely
+- Common versions allow for some liability to a maximum fixed amount
+- Can impose other kinds of restrictions as well, for example you can have a notice period for claims where the claim has to be raised
+- Usually only talk about strict limitations, but can also be manner and form restrictions
+- Also no unified title for these kinds of terms, can be called exculpatory clauses, disclaimers, exclusion, waiver, and exemption clauses among other things
+- Courts have multiple different ways to deal with these clauses, and even gain control over them in some cases
+- Previous doctrine used for these cases was the doctrine of "fundamental breach"
+	- Used to determine cases where an exemption clause can be ignored
+	- Now abandoned, but is still useful to look at
+	- Basic idea is that some breaches of contract are so severe that any exclusion clause, no matter how secure, should be read down to not block the damages claim
+### Tercon Contractors v BC Ministry of Transportation
+- This case was before the SCC in 2010, and finally ended the doctrine of fundamental breach
+- Reliance on that doctrine had created a lot of confusion regarding [[Lecture 27 (Contracts)|repudiatory breaches]]
+- Seem very similar, but fundamental breach only applies to exclusion clauses
+- It's possible to have a repudiatory breach, but will not be a fundamental breach
+- In these cases, the wronged party would be able to walk away, but could not sue for damages
+- To avoid this confusion, the SCC created a new test for enforcing exculpatory clauses, this was the first case where Canada had a definitive approach to these issues
+- Three part test:
+1. Look at the terms of the contract and determine whether the exclusion clause applies to the circumstances of the case
+	- If you find that the exclusion clause doesn't cover the present circumstances, no issue
+	- Otherwise, you need to move on to the second part of the test
+	- Also need to consider the intentions of the parties in drafting the contract to determine what is and is not covered by the exclusion clause
+2. If the exclusion clause does apply, then need to consider if the clause was unconscionable
+	- Need to apply the vitiating factor of [[Lecture 23 (Contracts)|unconscionability]], using the test from *Uber v Heller*
+	- We are looking at how the contract was formed, not at the breach itself
+	- If the clause is found to be unconscionable, then the clause is set aside
+3. Finally, the Court can then choose to ignore the exclusion clause anyway for some kind of overriding public policy reason
+	- Burden for this is on the party trying to avoid enforcement, needs to be pretty strong to overcome the public interest in enforcing contracts
+	- Usually, you will need to prove something bordering on criminal conduct to reach this
+- First step mainly relies on the principles of contractual interpretation
+- This will become relevant mainly because of the rule of *[[Lecture 36 (Contracts)|contra proferentum]]*, which applies frequently to exclusion of liability clauses
+- Since these are pretty much always to the benefit of the party trying to enforce them, they can be removed for being too vague
+- The application of unconscionability at the second step is focused mainly on the element of the inequality of bargaining power
+	- What we're looking for here is an unfair exploitation of that unequal position
+- The third step is certainly the broadest one, as most applications of public policy are
+	- Only guideline provided is that cases approaching serious criminality or egregious fraud will be enough to remove the exculpatory clause
+- In an earlier 2004 case called *Plas-Tex Canada*, a supplier was aware their product had defects that could risk human health and damage property, it was some kind of resin for pipes
+- Because of this significant risk to the public and the knowledge of the defect, the court held that the company could not rely on their exclusion of liability clause
+	- Unclear whether this kind of intentional/reckless breach of contract will always remove the protections afforded by limitation of liability clauses
+- Also important to note that even when an exculpatory clause is found void, the rest of the contract remains intact
+### Facts
+- Issue in this case arose from the tendering process for construction bids
+- First round was just expressing interest in the process, and the province picked six bidders from this round to participate in the final bid
+- Round two was whether the invitation to tender was actually made, which specified that none of the bidders could make any claim for compensation based on the tendering process
+- This was because of the precedent set in *[[Lecture 4 (Contracts)|Ron Engineering]]* that made this initial invitation to tender a valid contract under law
+- Because of this, a failure from the government to follow the rules set out in the invitation to tender functions as a breach of contract
+- For this reason, they tried to avoid this issue by including an exclusion clause in the invitation to tender to avoid being sued later on
+- In this case, during the bidding process two of the companies merged together and submitted their bid as a new entity
+- One of the losing bidders argued that this new entity was not a qualified bidder, and the government had breached the implied condition of not accepting unqualified bidders
