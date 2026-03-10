@@ -1,0 +1,30 @@
+- Accused were a group of drug smuggler taking a bunch of weed from Columbia to Alaska, and ran into a storm off the coast of Vancouver Island
+- Needed to stop and make repairs, and were arrested for importing weed into Canada, argued that only intended to make repairs and leave
+- Expert witnesses said that the decision to come ashore was prudent, acquitted at trial
+- Raised the defence of necessity, saying that they had to come ashore to avoid capsizing
+### Analysis
+- Necessity is a general defence covering all cases where non-compliance with the law is excused by an emergency or a greater good
+- Best thought of as an excuse based on the fact that people are not expected to strictly obey the law in emergency situations where instinct prevails
+- Creates a situation where the accused is acting morally involuntarily, the moral of society require that they must break the law to avoid some great disaster
+- Need limits to make sure the defence is successful only in these limited circumstances
+	- First, the situation must be so emergent and the peril so pressing that human instincts cry out for action and make patience unreasonable
+	- Second, the accused cannot be able to realistically act in a way that would have avoided the harm without breaking the law
+	- Finally, the harm inflicted must be less than the harm that was avoided
+- Crown argues that the defence should not apply because the accused were committing a crime when the emergency situation arose
+- However, the accused were technically not violating any Canadian law, they were importing drugs into the US, not Canada and were in international waters when the storm hit
+- Real question is not if they were acting legally, but if they were acting voluntarily
+- If the accused did play a role in creating the emergency situation, this would be relevant but this does not mean that their previous criminal conduct should always limit the defence
+- If the accused could have reasonably foreseen that their actions could lead to an emergency situation where they would have to break the law, conduct wasn't really involuntary
+- Therefore, we can keep the focus on the voluntariness of the action
+- Crown always bears the burden of proving that the act was voluntary
+### Conclusion
+- Defence should be recognized as an excuse, comes from s. 7(3)
+- Necessity does not imply vindication of the deeds of the actor
+- Based on the moral voluntariness of the wrongful action
+- Voluntariness is measured based on society's expectations of resistance to pressure
+- Negligence or criminal involvement does not disentitle the accused to the defence
+- Circumstances indicating the act was not involuntary do disentitle them, same with the availability of a reasonable legal alternative
+- Only applies in circumstances of imminent risk where the action was taken to avoid a direct and immediate danger
+- If the accused gives the Crown enough evidence to raise the issue, they need to prove it beyond a reasonable doubt
+- In this case, the judge did not instruct the jury directly on a number of important points
+- Overall, their charge was adequate except for the fact that the jury likely did not consider the question of a reasonable legal alternative

@@ -1,0 +1,36 @@
+- Accused took the life of his 12 year old daughter who suffered from cerebral palsy, was found guilty of 2nd degree murder
+- Relevant issue was whether the trial judge mishandled the defence of necessity
+- Victim was quadriplegic and immobile, could only communicate through facial expressions, laughter, and crying, completely dependent on others
+- She was in a great deal of pain and couldn't take painkillers because she had regular seizures and tool anti-epileptic medication, also had trouble swallowing
+- Could have been fed with a feeding tube, but the Latimers rejected this because they did not want to preserve her life articially
+- She was not terminally ill, she would have to have repeated surgeries, but had a life ahead of her and did enjoy some significant parts of her life
+- Most of her surgeries were related to scoliosis, one of these surgeries resulted in her right hip becoming dislocated
+- Needed another surgery for this, and the doctors said the procedure would be painful and she would need further surgery to reduce the pain
+- Wife saw this as mutilation of her body, husband believed her life was no longer worth living
+- Tried to put her in a group home, but the accused eventually chose instead to take her life instead of subjecting her to additional surgeries
+- Put her in his truck and killed her via carbon monoxide poisoning by funnelling the exhaust into the cab of the truck
+- Lied and said she had passed away in her sleep, but the police found carbon monoxide in her blood and the accused later confessed
+- At trial, the judge did not allow the jury to consider the defence of necessity
+### Analysis
+- Recall that the three requirements from [[R v Perka]] are an imminent peril, no reasonable legal alternative, and proportionality between the harm inflicted and avoided
+- Outside of obvious cases, there must be careful balancing of the harms on the third step
+- Seems that the first two steps require a modified objective test, considering they deal with the specific situation faced by the accused
+- Accused must honestly and reasonably believe they are in a situation of imminent peril with no reasonable legal alternative
+- Can consider any circumstances that would legitimately affect their ability to evaluate the situation
+- Third requirement needs to be measured on an objective standard, as evaluating the nature of an act is basically looking at what society considers to be a violation of the law
+### Application
+- Would a reasonable jury have concluded that the defence applied in this case?
+- Court found that there was no air of reality to any of the three requirements
+- First, there was no imminent peril as there did not seem to be anything regarding Tracy's condition that she was in a dangerous situation
+- She was thought to be in pain prior to the surgery, and that pain would continue following the surgery, seems that this is not an emergency
+- Accused clearly did not see it this way, but he should have been reasonably expected to understand that this was not an emergency
+- Second, the accused had many reasonable legal alternatives here
+- Most obvious thing is that he could have continued to struggle with his daughter's condition and helped her live while minimizing her pain as much as possible
+- Could have done many things to facilitate this like using a feeding tube or keeping her in the group home he applied to have her paced in
+- Clearly aware of this option and actively rejected it
+- Finally, the harm was clearly not proportionate to the harm inflicted
+- Pretty much no cases where homicide can meet the proportionality requirement
+- Prime example of this is *R v Dudley and Stephens* which was the eating each other on a boat case
+- Even assuming this is possible, the harm avoided would have to be comparable to heath
+- Seems pretty clear that killing someone to prevent medically manageably harm from a physical or mental condition is not a proportionate response
+- Overall, the trial judge was correct in removing the defence from the jury, appeal allowed

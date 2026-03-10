@@ -16,3 +16,10 @@
 - However, this deprivation was done in accordance with the fundamental principles of justice
 - Procedure for granting wardship under the *Act* allows notice, a hearing before a judge, and places a heavy onus on the applicant to prove the need for wardship
 - As such, there is no violation of s. 7 in this case
+
+### Section 2(a)
+- Five judges held that because the law denied the parents the right to choose medical treatment for their child based on religion, breached s. 2(a)
+- Justified under s. 1 because the state has an interest in protecting children at risk and the parents can challenge a state claim that their child needed protection
+- Arguably, the child has no religious affiliation and has the freedom of conscience that includes the right to live long enough to freely choose a religion
+- Different from the case of children old enough to hold religious beliefs, in many provinces mature minors have the right to refuse medical treatment
+- 

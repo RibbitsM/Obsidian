@@ -1,0 +1,20 @@
+- SL and DJ are the appellants, and have school-aged children
+- Argues that the refusal of the respondent school board to exempt their children from an ethics and religion class violates s. 2(a)
+- Court found that there was no interference with a religious observance here, so the school board did not err
+- Recall that the Canadian state has a policy of religious neutrality
+- Heavily influenced by the multicultural makeup of Canadian society
+- Recall that an infringement requires a sincere belief in a religious practice or belief
+- Need to prove on a BOP that this practice or belief has been infringed objectively
+### Application
+- Appellants sincerely believe they are obliged to pass on the precepts of Catholicism to their children, this belief is not challenged
+- Need to show that the ERC program interfered with their ability to pass their faith to their children, but they only argued that the program infringed their right
+- Argue that students taking the ERC course would be exposed to relativism which would make it harder to pass their faith on to their children
+- This is supposed to be a neutral course, but clearly they do not see it this way
+- Goes back to the difficulty inherent in ensuring religious neutrality
+- Purpose of the program is to foster an understanding of several religious traditions that are relevant in modern life. not to promote a new religious doctrine
+- Teaching children about various world religions does not amount to indoctrination
+- Parents object to this, saying that teaching them about multiple beliefs on equal footing will confuse their children
+- Court points out that this is part of the ordinary cognitive dissonance inherent to childhood
+- Exposure of children to realities outside of their immediate family environment is an ordinary fact of life in society
+- Overall, the appellants have not proven that the ERC program infringed their freedom of religion
+- Appeal dismissed

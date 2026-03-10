@@ -1,0 +1,84 @@
+- Accused was a Yugoslav citizen who flew to Canada with two kg of heroin strapped to them and a fake passport, charged for unlawful importation of narcotics
+- At trial, they successfully challenged the constitutionality of s. 17 under s. 7, arguing that she should be allowed to raise the common law defence of duress
+- Admitting to committing both offences, but said that she was forced to do so by a man named Mirko Mirkovic in Belgrade
+- This was peak Yugoslav war times, and Mirkovic belonged to one of the large gangs of paramilitaries that would roam Belgrade and do pretty much whatever they wanted
+- He first met her when she was out walking her dog, and kept showing up and threatening her, assaulting her, sexually harassing her, and threatening her mother
+- At some point he strapped the heroin to her body and told her to take them to a restaurant in Toronto, giving her the false passport and travel money
+- Threatened to harm her mother of she did not comply
+- Accused did not tell anyone else about Mirkovic and did not go to the police, as she believed they were corrupt and could not help her
+- Also did not get police help in any other city she travelled to, or in Canada
+- Main issue for this case was whether the s. 17 requirements of an immediate threat issued by someone who was physically present during the crime violate s. 7
+- Many side issues coming out this, one is whether s. 17 can preclude access to the defence of duress where the threatened harm is to a third party
+### Analysis
+- Crown argues that s. 17 is susceptible to Charter review, but the courts should defer to Parliament when assessing whether it violates s. 7
+- Parliament decides when criminal conduct should be excused, and determining who can use the statutory defence of duress is a policy exercise
+- History shows us pretty clearly that the criminal law has never been in the exclusive jurisdiction of Parliament, [[Re Section 94(2) of the MVA]] is a great example of this
+- Courts regularly need to review criminal offences to ensure they conform with the Charter, and this right should extend to statutory defences as well
+- Previously established that it's not a breach of s. 7 to withdraw a defence if it is inconsistent with the offence it's applied to, like the defence of intoxication and drunk driving
+- No indication that duress is inconsistent with the offences Ruzic was charged with
+- Crown has failed to make a convincing case why there should be a higher level of deference when considering the constitutionality of statutory defences
+- Deference to the legislature is generally only considered when we get to s. 1
+- However, they do get some leeway early on, for example we interpret legislation with the assumption that it was intended to comply with the Charter
+### Principles of Fundamental Justice
+- Important issue for this case is whether there is a PFJ that dictates that morally involuntary conduct should not be punished
+- We know that PFJs need consensus, have to be based on societies' notion of justice, and they have to be precise enough to apply consistently
+- Idea of moral voluntariness first emerged in [[R v Perka]] for explaining necessity, occurs when an accused is faced with circumstances where they have no moral choice other than law-breaking
+- Duress rests on this same notion, the accused avoids conviction because they are merely acting in response to a threat of impending harm
+- Court has consistently recognized that moral blameworthiness is essential for criminal liability, and is protected under s. 7
+- Crown argues that this only arises in the absence of either the *actus reus* or *mens rea*
+- Question is whether we can equate moral blamelessness and moral involuntariness
+- We know that criminal responsibility applies only to acts resulting from a conscious choice made by an autonomous will, this is a PFJ
+- Can see this by looking at the various cases where the courts have struck down absolute liability offences like in [[R v City of Sault Ste Marie]]
+- Generally considered a violation of s. 7 because it can impose confinement on the morally innocent without even offering the defence of due diligence
+- Establishes that criminal responsibility should be attributed only to acts that are the result of a free and conscious mind
+- Recall that duress does not negate *mens rea* and is an excuse, established in [[R v Hibbert]]
+- An excuse serves to acknowledge the wrongfulness of the act, showing that morally involuntary acts can still be wrongful
+- Serves as a concession to human frailty, recognizing that people will not always do all that they can to avoid breaking the law
+- Overall, it seems that there is not a PFJ stating that morally involuntary acts should not be punished
+### Moral and Physical Voluntariness
+- Accused also argues that it's a PFJ that an act must be voluntary to attract criminal liability
+- Meaning of "voluntary" here is in the physical sense, relating to the *actus reus*
+- Duress does not negate *actus reus* just as it generally doesn't negate *mens rea*
+- However, the principle of voluntariness can still be relevant for s. 7 even after we establish the basic elements of the offence
+- Principle of voluntariness has already been established by [[R v Daviault]]
+- Mainly applies to automatism-related defences like mental disorder and intoxication
+- Court has explicitly linked the concept of moral involuntariness to physical involuntariness, while in most cases the accused retains conscious control over their body
+- However, we can certainly imagine scenarios where duress can overcome the will instead, forcing the accused to commit acts without offering them a realistic choice
+- Recall that criminal offenders are expected to be rational and autonomous agents
+- Not only must an act be voluntary, but it must also be intentional in many cases
+- We also know that liability depends on the ability to reason right from wrong, think about the insanity provisions of the *Code* discussed in [[R v Chaulk]]
+- If a person can reason right from wrong and has the ability to choose between these options, punishing them when they consciously choose wrong will be morally justified
+- When looking at it from this perspective, we can see how it is not only unjust to punish someone who acted physically involuntarily, but also for morally involuntary cases
+- In both cases, the actions of the accused cannot be really attributed to them, their will was constrained by some external force
+- While it may not negate the *actus reus* or *mens rea*, these cases deserve protection under s. 7
+- Principle of fundamental justice that only behaviour that is a product of a free will and controlled body unhindered by external constraints will attract criminal liability
+- If the accused truly did not have a realistic choice, depriving them of their liability will be a violation of an PFJ and infringes s. 7
+### Immediacy and Presence Requirements
+- Accused argues s. 17 infringes s. 7 by being underinclusive, the immediacy and presence requirement could lead to individuals being punished for involuntary actions
+- Crown argues that the threatener does not actually have to be physically present, as long as they can immediately execute the threat if the accused does not comply
+- This does not seem to be the case, the plain meaning of s. 17 is very restrictive
+- Court has also usually construed it very narrowly, requiring an active threat of physical harm at the time the offence was committed 
+- A threat will rarely meet the immediacy requirement if the threatener is not physically present at the scene of the offence, clearly also precludes threats of future harm
+- Does not seem to be any requirement that the accused is the target of the threat, as long the threat was made to them
+- Based on these strict conditions, s. 17 breaches s. 7 of the Charter by allowing individuals acting involuntarily to be criminally liable
+- Need to also look at the common law to confirm this?
+### Common Law of Duress
+- Not limited by the immediacy and presence requirements, arises where someone is subjected to external danger and commits a crime to avoid that danger
+- Complicated defence, we need to look at both the position and rights of the threatened party as well as those of the third parties affected by the crime
+- Three conditions for necessity apply to duress, can adopt them from [[R v Latimer]]
+	- First, need a clear and imminent danger
+	- Second, need no reasonable legal alternative
+	- Third, need proportionality between harm inflicted and avoided
+- Focus here is on the safe avenue of escape, which is assessed on a modified objective standard informed by the gravity of the threats and the availability of easy escape routes
+- Proportionality requirement is also important as the accused is expected to put up normal resistance to the threat
+- Immediacy requirement obviously doesn't exist for necessity, and it wasn't read into [[R v Hibbert]]
+- If this is a requirement, it's been interpreted pretty flexibly in Canada and in other Commonwealth countries like the UK and Australia
+- In a case called *Langlois*, the QCA interpreted duress as excluding the immediacy and presence requirements, and this has been copied by other Canadian appeal courts
+### Conclusion
+- There is a substantial consensus that immediacy is not a requirement of the defence, and in some cases threats of future harm are enough to trigger the defence
+- Also seems like s. 17 is a clear breach of s. 7 considering that we can imagine multiple scenarios where the presence and immediacy requirements criminalize morally involuntary actions
+- Can't read it down to save it, the interpretation strains it too much
+#### Justification
+- The Crown does not attempt to make a s.1 justification, therefore s. 7 is not saved
+- Also pretty clear that it's hard to justify a violation like this, and it's likely to fail under the proportionality requirement anyway
+- Overall, the requirements of immediacy and presence are struck down, appeal dismissed, and the accused is officially acquitted

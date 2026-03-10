@@ -1,0 +1,48 @@
+- Accused was charged with attempted murder and convicted of aggravated assault, a lesser included offence
+- Accused was present when a drug dealer shot another dealer in the lobby of the victim's apartment building
+- Accused had brought the shooter to the victim's apartment building because he feared that the shooter would kill him if he did not comply
+- Had no opportunity to run away or warn the victim without being shot himself
+- Appealed on the grounds that the trial judge erred in instructing the jury on the defence of duress
+- Specifically, he argued that he erred by saying that the defence operates by negating common intention, and by saying the defence is unavailable if you didn't use a safe avenue of escape
+### Analysis
+- Even someone who commits the *actus reus* of a criminal offence in response to a threat of death or serious bodily harm may still fulfill some elements of the *mens rea*
+- Usually the person doing that action knows what they are doing and are aware of the probable consequences, even if they likely don't desire those consequences
+- To see if *mens rea* is "negated", need to see whether the mental element includes any reference to the motives or desires of the accused
+- Intention is generally considered distinct from desire
+- For the purposes of this case, we can focus the analysis on just s. 21 of the *Criminal Code*, which deals with the parties to the offence
+- Only issue left with the jury here was s. 21(1)(b) which criminalizing aiding people in criminal activities, but s. 21(2) (common intention) will also be relevant
+- Reason for this distinction is because there was a previous case called *Paquette* where the court ruled that the common law defence of duress applies to cases involving party liability
+- In summary, there are three important points to note here
+	- First, the fact that someone committed a criminal act due to threats is relevant to whether they possessed the necessary *mens rea*
+		- Depends on the structure of the offence, does the way that the *mens rea* was written allow this to be a relevant consideration?
+	- Second, someone in this situation can also invoke an excuse-based defence either under s. 17 (if they're the principal) or the common law (if they're a party)
+		- Does not matter if the *mens rea* is affected by coercion or not
+	- Mental states mention in ss. 21(1)(b) and 21(2) cannot be negated by duress
+		- Means that people charged under these section cannot argue they lacked *mens rea*, they have to use the common law defence of duress
+### Safe Avenue of Escape
+- Issue here is whether the "safe avenue of escape" rule, and if it does, whether it should be determined on an objective or subjective basis
+- Since we know that duress is a justification/excuse, we can compare it to other defences
+- Self-defence, necessity and duress all come from cases where someone is subject to danger and commits a criminal act to avoid that harm
+- Main distinction between duress and necessity is the source of the harm
+- Main distinction between duress and self-defence is the party making the threat
+- In self-defence cases, the victim is the originator of the threat prompting the accused to commit what would otherwise be assault or homicide
+- In duress cases, the victims are generally unrelated third parties
+- Overall, seems like duress is more similar to necessity
+- Main distinction in Canada is that duress is reinforced by statute (s. 17) while necessity is common law, but here we're focusing on common law duress
+- Can use necessity as essentially the same defence, both are based on the same principles
+- Recall that we know from [[R v Perka]] that necessity requires no legal way out
+- Can apply this here too, defence is unavailable if the accused had a legal way to escape the situation by safely evading the threat levelled against them
+- Raises the issue of whether an action will be normatively involuntary where the accused believes they have no choice, or only if this belief is correct
+- Can argue that we should not punish people who thought they were acting reasonably, or whether we should require them to inform themselves of the true state of affairs
+- Seems that the latter option most closely matches the reasons from *Perka*
+- Even if we accept that a failure to learn about your options is a form of choice, this only holds true if the accused had a chance to get that information
+- Can argue that the standard for determining safe avenues of escape should be based on the capacities and abilities of the accused
+- Previously stated that we can consider the circumstances of the accused including their ability to find alternate options in [[R v Lavallee]]
+- Makes sense for duress to have a similar reasonableness requirement as self defence
+- Overall, the perceptions of the accused can be very relevant in determining whether their conduct was reasonable given the circumstances
+### Conclusion
+- Accused cannot rely on the common law defence of duress if they had an opportunity to safely escape the situation
+- If they had the chance to do something to avoid committing an offence, then they clearly had a choice whether to break the law or not
+- Internal logic of excuse-based defences suggests that we should determine this on an objective standard, but we can take into consideration the personal circumstances of the accused
+- Overall, the trial judge erred in their jury charge
+- Appeal allowed, new trial ordered

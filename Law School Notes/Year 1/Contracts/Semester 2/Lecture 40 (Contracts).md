@@ -1,0 +1,47 @@
+- Next topic is good faith performance, in the decision from *Bhasin* the court pointed out that contracts should generally be performed in good faith
+- Courts have the ability to draw on this general principle of good faith performance to create specific rules for how parties must perform contracts
+- Basic principle is that parties must generally perform their contractual duties honestly, reasonably, and not capriciously or arbitrarily
+- Three main lines of authority coming out of this
+	- First, parties have to cooperate to achieve the goals of the contract
+	- Second, parties have to exercise discretionary powers only for the purpose for which they were originally conferred
+	- Third, parties must not behave in ways designed to evade their contractual obligations
+- Multiple examples of pre *Bhasin* cases where one or more of these principles were applied
+- Normally, you would need to rely on one of these three categories to apply good faith performance but it's still possible to add more rules and lines of authority
+- This is pretty much what happened in *Bhasin*, a fourth rule was created dictating that parties must comply with a duty of honest performance
+	- Means that parties can't lie or mislead each other about matters linked to the performance of the contract
+	- In this case, means you can't lie about intending to perform the contract or that you have already performed your end of the contract
+- Also identified specific kinds of contracts that are especially stewed in the requirement for good faith, main examples are tenders, insurance contracts, and employment contracts
+## [[Bhasin v Hrynew]]
+- Facts dealt with the right of nonrenewal in a dealership agreement for selling investment products
+- Company called Can-Am sold education savings plans through contractors called enrollment directors who were hired on renewable three year contracts
+- Contracts would automatically renew unless one party gives six months notice
+- Hrynew was another enrollment director competing with Bhasin, and wanted to merge both parties agencies to get in on Bhasin's niche market
+- Encouraged Can-Am to force the merger, Bhasin refused the merger
+- Later, Hrynew was appointed by Can-Am to be the officer reviewing other enrollment directors for compliance with securities laws
+- Bhasin objected to having his competitor review his business documents
+- Became clear that Can-Am wanted to restructure its agencies in Alberta where Bhasin worked, which included putting Bhasin under Hrynew's employ
+- Bhasin did not know about this, and Can-Am misled him by telling him repeatedly that Hrynew was under an obligation to treat any information he reviewed confidentially
+- Can-Am threatened to terminate the agreement if he didn't let Hrynew audit his records
+- In the end Bhasin lost the contract, and most of his sales agents were taken by Hrynew
+- Trial judge found that Can-Am breached an implied term of good faith as Hrynew intentionally induced the nonrenewal of the contract and acted in conspiracy with Can-Am
+- At the SCC Bhasin argued the same thing, and that Can-Am used its discretionary power to end the agreement to effectively expropriate his business
+- Did have an entire agreement clause, but he argued this should not exclude the implied obligation of good faith performance
+- Judge rejected this argument, saying that the facts did not suggest that Can-Am had breached the implied term of good faith performance
+### Analysis
+- Court decided to make two steps to resolve the issues with the common law
+	- First, need to recognize that the principle of good faith performance underpins the common law of contracts
+	- Second, need to recognize that this principle gives rise to a common law duty to act honestly in the performance of contractual obligations
+- Can't sue on the basis of the principle itself, it's just the underlying reason for a bunch of existing duties and rules of contract law
+- Identified three broad types of situations where the principle of good faith performance was the underlying reason for the result of a case
+	- For the cooperation requirement, we can look at *Dynamic Transport v Ok Detailing*
+		- In this case, two parties were waiting for land to be subdivided, but neither party actually asked for the subdivision because the contract didn't specify that
+		- Court found that the vendor had to do it because they were the only one with the info and capabilities to do so
+		- Breached their duty to cooperate to make the contract work
+	- For the discretionary requirement, can look at *Mitsui & Co v RBC*
+		- Involved an agreement to lease a helicopter with an option to buy it at the fair market value chosen by the lessor
+		- SCC held that the lessor had to act in good faith when setting the price
+	- For the evading duties requirement, can look at *Mason v Freedman*
+		- Seller was trying to repudiate a land deal because of a defect in title, but the seller had taken no steps to try and fix the title defect
+		- Agreement let the seller repudiate if they were unable or unwilling to do this, court said he still needed to make reasonable efforts
+		- Because he brought about the conditions that let to the termination of the contract, he was ending the contract capriciously or arbitrarily
+- 
