@@ -1,3 +1,4 @@
+- Incomplete, needs to be finished
 - TWU wanted to open a law school which would require students and faculty to adhere to a religious code of conduct, which included prohibitions against extramarital sex
 - LSBC did not recognize the proposed law school, issue was whether this decision violated the s. 2(a) rights of TWU
 - Court found that the decision balanced the limitation on the Charter right and the objective of LSBC appropriately

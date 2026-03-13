@@ -1,0 +1,79 @@
+### [[Ktunaxa Nation v BC]]
+- Issue in this case was a ski resort was being built on a mountain that was sacred to the Ktunaxa Nation, as it was the home of the Grizzly Bear Spirit
+- By displacing the Grizzly Bear Spirit, this action would effectively eliminate Ktunaxa belief as it would destroy their main source of spiritual attachment
+- Court ultimately held that this was not a violation of s. 2(a), because s. 2(a) only protects the expression of belief, not the object of belief itself
+- Concurring opinion rejected this concept, saying that where the grounds of a religious practice are rendered null, this is a restriction on the ability to express belief
+### Mapping Exercise
+- First, does the situation fall within the scope of s. 2(a)?
+	- Court says in *Ktunaxa* that it protects the freedom to hold religious beliefs and the freedom to manifest beliefs
+	- Also protects freedom of conscience, does not have to be explicitly religious
+	- Only case that we have seen engage this point is *Ktunaxa*, that case failed to prove interference because the claim was outside the scope of s. 2(a)
+	- State also has a duty to remain neutral on religious issues, this was first brought up in [[Mouvement Laique Quebecois v Saguenay]]
+- Second, is there an infringement of s. 2(a)
+	- Two step process
+	- First step, need to show sincerity of belief in a belief or practice that has a nexus with religion
+		- For this step, the court will not make people prove the validity of their religion
+		- Also doesn't have to be a widespread belief or practice
+		- As long as it is honestly held and has a nexus with religion, it's ok
+	- Second, need to show an interference with the practice or belief that is not non-trivial or insubstantial
+		- Examples of a non-trivial interference is an economic burden placed on the claimants, shown in [[R v Big M Drug Mart]] and [[Alberta v Hutterian Brethren of Wilson Colony]]
+			- In the latter case, the burden was found to be non-trivial, and the same thing was decided in [[Law Society of BC v Trinity Western]]
+		- Classic example of interference is [[R v Edwards Books and Art]], in that case there was interference because of competitive pressure
+			- Interference can be direct, but also done indirectly through effects
+		- Example of a case where there was no interference was [[SL v Commission scolaire des Chenes]]
+			- Teaching Catholic children about religion neutrally does not interfere with the right to pass your religion on to your children
+		- Can also have cases where the issue is a violation of state neutrality on religion
+			- Classic example of this is *Big M*, as well as *Saguenay*
+				- Should go to *Saguenay* for any neutrality claim, that's the standard
+				- Same case also considered *Zylerberg* and *Freitag*
+				- Interference in this case was a regular prayer before council meetings, interfered because it created pressure to conform
+					- Also required people to make an expression of their faith
+- If an infringement is proven, then the state has to justify it
+- This part depends on whether it's a law or an administrative decision
+	- If it's a law, need to apply the *Oakes* test
+		- First step, need to show a pressing and substantial objective
+			- If the objective is purely to infringe s. 2(a), then this test doesn't need to be applied, it automatically fails (*Big M*)
+		- Second step, need to show a rational connection
+		- Third step, need to show minimal impairment
+			- This is where *Edwards Books* fails, the legislature had the option of creating a less impairing alternative
+		- Final step, need to show proportionality
+			- Most extensive analysis on this is from *Hutterian Brethren*
+				- Made a distinction between cases where the interference removes a meaningful choice from the claimant, and where only costs are imposed
+				- Also showed that the court will give deference to legislature
+	- If it's an administrative decision, need to do a *Dore* analysis
+		- Examples for this are [[Loyola High School v Quebec]] and *TWU*
+### [[R v Keegstra|Purposes of the Freedom of Expression]]
+- Court says that freedom of expression has multiple purposes, can be instrumental purposes or intrinsic purposes
+- Instrumental argument is that freedom of expression enables the marketplace of ideas, only true ideas will succeed and false ideas will be weeded out
+	- This also enables democracy, need freedom of expression for free political debate
+	- Can see this from pre-Charter cases where courts pointed to the importance of this can look at [[Antecedents of the Charter#Switzman v Elbling|Switzman v Elbling]]
+- As for the intrinsic arguments, this is more tied to the importance of individual identity
+	- Freedom of expression is required for people to express themselves freely, as well as for people to hear all sides of an argument and make a decision on their own
+	- This protects individual freedoms, and shows respect for the abilities of individuals
+### [[RWDSU v Dolphin Delivery]]
+- Picketing is a protected form of freedom of expression under s. 2(b) because it's communicative
+- Even though the intention behind the picketing was to induce other workers to breach their contract with their employers, it's still protected expression
+- Language is also a protected form of speech because it's a way to communicate ideas, it's a form of expression in and of itself
+- Advertising is also communication, and is protected for the same reasons, the court established this in [[Irwin Toy v Quebec (s. 2(b))]]
+- However, violence is not a protected form of expression because it violates the harm principle
+- There are limits on the freedom of expression, and it ends where you are limiting the ability of others to express themselves as well
+### [[Irwin Toy v Quebec (s. 2(b))]]
+- Issue with this case was a law limiting advertising targeted at children
+- Shows that there is a distinction based on what the purpose of legislation is
+- If the purpose is to regulate speech on it's face, can go straight to s. 1
+- However, if the regulation only happens in the effects, then the claimant has to prove that their speech is protected under s. 2(b)
+	- Need to show that they are advancing the freedom of protection
+#### Deference
+- Court says that the legislature will get deference in three situations
+	- First, where it is trying to mediate between groups
+		- Engaged in this case, trying to mediate between consumers and advertisers
+	- Second, where it is protecting vulnerable groups
+		- This is the main one engaged here, the legislation was aimed at protecting kids
+	- Third, where it is assessing competing social science evidence
+		- Also relevant here, competing evidence about what age kids have to be to distinguish between real and false information
+		- Court said they would defer to the age limit imposed by the state, don't have the capability to challenge the exact line drawn
+### Summary
+- Need to know how to break down a s. 2(a) problem
+- Need to identify the scope of protection offered by s. 2(b)
+- Need to distinguish between purpose and effects-based speech limits
+- Need to identify and apply the *Irwin Toy* deference factors

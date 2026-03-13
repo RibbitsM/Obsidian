@@ -1,0 +1,115 @@
+### History of Aboriginal Title
+- Talking about Aboriginal title, we'll get into more detail in property
+- History of Aboriginal title dates back to *Calder*, where the Nisga'a nation went to the SCC to establish Aboriginal title of Nisga'a land
+- Created the concept of Aboriginal title as a part of Canadian law, but title was not found in that case, *Delgamuukw* was the first case where it was really fleshed out
+- That case was mostly significant in terms of setting out the content of Aboriginal title and the requirements
+- Claim made by the Gitxsan and Wet'suwet'en nations
+- Important because it actually brought Indigenous law into the court, chiefs came to testify
+- Got the sense that the court was uncomfortable with accepting oral testimony as evidence
+- Case was dismissed at trial, judge quoted Leviathan in his reasons lol
+- Ultimate argument was that any title to the land was long extinguished
+- After that decision the NDP came in and the environment really changed
+- Hired a different cast of lawyers to take a different approach and be more lenient in their arguments to accept more evidence
+- Also when the BC treaty process was starting out when people were more hopeful about that
+- Government took the position that there were some self-governance rights, but still disagreed on several points
+- BCCA was concerned the process was not adversarial enough and hired more people to argue against the title claim
+- Once we get to the SCC, the court is really seeing the need to sue this case to articulate the principles of aboriginal title and reject the reasoning of the lower courts
+- A lot of things were decided based on procedural matters on evidence and pleadings
+- Problem is that you're doing a case in an area where the law is very underdeveloped
+- Case was ultimately sent back because of these issues, final decision is technically *obiter*
+#### Key Points
+- Court pointed out that oral evidence needs to be given the same weight as more accepted kinds of evidence like anthropological or historical studies
+- Before this, a lot of oral evidence was blocked by the law of hearsay
+- Can't do that in this case because of the honour of the Crown, otherwise you're basically ignoring the existence of the Indigenous oral legal system
+- Also established the *sui generis* nature of Aboriginal title, and what to do when there is infringement of Aboriginal title
+- Parties did not go back to trial, the nations went into the BC treaty process instead, did not end up getting a treaty or a declaration of Aboriginal title
+## [[Tsilhqot'in Nation v BC]]
+- Another case of a nation located in interior BC, west of Williams Lake
+- Pretty sparsely inhabited, relatively small population with a mix of fee simple land holders and Tshilqot'in nation members
+- Fee simple owners generally supported the claim
+### History of Tshilqot'in
+- Language is part of the Dene language family, different from the coastal nations
+- There was a major insurgency in the nation in the 1860s, one of the chiefs led warriors to attack road building crews that the Tshilqot'in objected to
+- Main concerns were with abuse of Indigenous workers and community members
+- Leaders were captured by the local police, tried for murder and hanged in Quesnel
+- Good example of the nation trying to defend their territory, strong evidence
+- In 1983, the BC government started granting forest licenses, the nation objected and formed a blockade, the issue eventually went to court
+- In 1998, the pleadings were amended to seek a declaration of Aboriginal title after *Delgamuukw*
+- Trial was in 2002, lasting a long ass time
+- Trial didn't end until 2007, the trial judge found Aboriginal title but there were procedural issues
+- Also found Aboriginal rights using [[R v Van der Peet (ATR)]] throughout the territory
+- BCCA overturned the title finding, said it could only be established in certain village sites
+- When it went to the SCC, the court was unanimous in finding Aboriginal title
+### Nature and Source of Title
+- Carried over a lot of stuff from *Delgamuukw*
+- It's a *sui generis* right, meaning that it's a different kind of interest in land from freehold or leasehold interests in normal property law
+- Same label that the government has applied to treaty rights in the past
+- It's an inalienable right, only the Crown can take it away
+- These are also communally held rights, arise from prior occupation of the land
+- This is where the main test comes from, how do you prove prior occupation
+- Grounded in both Indigenous perspectives on the law as well as the common law
+- Relevant time period for determining prior occupation is before the assertion of Crown sovereignty, which depends on the part of Canada you're in
+- Court in *Delgamuukw* chose this for a few reasons
+	- First, Aboriginal title comes from the relationship between Indigenous law and the common law
+		- It's a burden on the Crown's title to the land
+		- Crown did not gain the title until they asserted sovereignty, this is where Aboriginal title arises because a burden can't predate the underlying title
+		- This is the common law perspective on the matter, Tshilqot'in believe they always had the title before sovereignty was asserted
+		- Based on the doctrine of discovery, it's the underlying basis for this argument
+	- Court claims to have rejected the idea of *terra nullius*, but clearly it's still around
+### Proof of Aboriginal Title
+- Three requirements from *Delgamuukw* that get expanded on here
+	- Sufficiency of Occupation
+		- Look at the cultural context, but also need to bring in the common law
+		- Not just limited to village sites, lower courts erred here
+		- At common law the land has to be intensively used and cultivated, but this is not how land use works in the Indigenous context
+		- This inconsistent with [[R v Marshall]], written before this case about a Mi'kmaq land claim on the East coast
+	- Continuity of Occupation
+		- Does not have to be an unbroken chain of continuity between the former and current practices and traditions
+		- Going back to *Van der Peet*, relationship to land can be disrupted over time
+	- Exclusivity of Occupation
+		- This is where we look to see evidence of the claimant requiring permission for use of their land, excluding other groups from their territory
+		- Need historical intention and capacity to control the land
+		- Can be established by proof of full exclusion or a need for permission
+- These are all issues of fact, need to defer to the lower courts here absent a palpable and overriding error
+- Need to take a culturally sensitive approach
+- Trial judge easily found evidence of sufficient occupation, mainly in the village sites
+- The land was cultivated, not in the agricultural sense but there was intensive gathering and ranging of domestic animals
+- Also had a network of trials for hunting, fishing and gathering throughout the territory
+- Archaeological evidence and historical evidence supported this, as well as the oral evidence
+- Also found exclusivity was established, especially in the time after settling where the Tshilqot'in set up checkpoints to control the incoming surveyors and traders
+### Content of Aboriginal Ttile
+- Two important aspects of Aboriginal title
+- First is the right to the exclusive use and occupation of the land, not limited to traditional or distinctive uses of the land
+- It's a beneficial interest in the land, title holders have the right to the benefits in the land including right to the use and enjoyment
+- Crown loses the beneficial interest in the land
+- However, this is collective title so it cannot be sued in any way that would limit the use of the land for succeeding generations, determined on a case by case basis
+- Unclear why the court felt the need to say this, little paternalistic
+- In summary, these two things are the incidents of title
+- In more detail, ownership rights are similar to how fee simple works, can determine the use of the land, can enjoy and occupy it, and derive economic benefits from the land
+- Right to control how the land is used means the government and others need to get the consent of the title holders
+- Only way to use the land without consent is to justify it under s. 35
+### Justification for Infringement
+- Test is specifically for justifying infringements on title, not rights
+- Still use the *Sparrow* test, but modified for the situation of Aboriginal title and informed by [[R v Gladstone]] and *Delgamuukw*
+- Recall that *Gladstone* modified the test for infringement by including considerations of how the land is used by groups other than the Indigenous nation
+- Overall, the test was relaxed to allow more infringements
+- Also recall how Aboriginal rights have priority, but it depends on the nature of the right
+- Today, this is rarely applied because of how the duty to consult showed up
+- This is proven title, much stronger than even a proven Aboriginal right so the test is stricter
+- As usual, the honour of the Crown is at stake here, but the fiduciary duty also applies when it doesn't normally, because there is a recognized legal interest
+- Stricter version has a full *Oakes* type analysis of proportionality
+- Needs to be in accordance with the duty to consult, and justified on the basis of a compelling and substantial public interest
+- Applies to both the provincial and federal government
+- Requirement for consultation is always going to be at the highest end of the spectrum here
+- Incursion must be rationally connected or necessary to achieve the objective
+- Incursion has to be minimally impairing, and the benefits cannot be outweighed by the negative impact on Aboriginal title interests
+- Points specifically to the development of agriculture, conservation, and the development of natural resources as examples of valid objectives
+### Effect in Practice
+- If you have an unproven claim, the duty to consult applies
+- After title is established, Crown must seek consent
+- If consent is not granted, then the Crown needs to fulfill the duty to consult
+- For the intrusion to still happen at this point, needs to be justified under s. 35
+- In this case, the duty was breached by issuing forest licenses, and a remedy is required
+- Going forward, there will be even higher duties placed on the government
+- Also important to note that the treaty process does not recognize Aboriginal title
+- 

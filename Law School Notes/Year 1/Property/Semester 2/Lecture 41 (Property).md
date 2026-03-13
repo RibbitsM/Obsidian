@@ -1,0 +1,58 @@
+- Recall that those on title because of their fraud do not hold indefeasible title
+- This is statutory law under the *LTA* at s. 23(2)(i)
+- A registered fee simple interest acquired in good faith and for good consideration is valid even if the the transfer instrument was void under s. 25.1(2)
+- Where a charged is created with a void instrument, the interest of the registered holder is always susceptible to the claim of the person wrongfully deprived
+- We know this because of how s. 26(1) was interpreted in *Credit Foncier*
+- A charge acquired from a registered holder of the fee simple is subject to a claim of the person wrongfully deprived if the fee simple holder does not have indefeasible title
+- This was established in *Gill v Bucholtz*, also based on s. 25.1(1)
+### Example Question
+- First, Ringo agrees to transfer to Paul and allows him to move in ahead of the transfer, creating an equitable right
+- Comes in the form of a constructive trust created by the contract of sale
+- Before the transfer goes through, the land value increases and Ringo accepts a higher offer from another buyer
+- Second buyer does not have notice of the original equitable right
+- Second offer is completed before the first offer
+- Conflict is between a prior equitable and subsequent legal right
+- Second buyer (John) will prevail if Paul has participated in fraud, or if he did not have reasonable notice
+- Recall that you need to be a bona fide purchaser for value without notice
+- Paul did not participate in fraud, but John did not have reasonable notice of Paul's equitable interest, unless the facts indicate that he could have had constructive notice
+- Recall that notice can be actual, implied, or constructive, does John have notice?
+- We know that there's no actual notice, and there's no agent involved so we can't have implied notice, but given that Paul is currently occupying the land, he should have constructive notice
+- Reasonable to expect John to inspect the land before buying it, and inquire into why Paul is occupying the land and find the prior contract of sale
+- Attempting to defeat  a prior equitable interest that he had notice of here would be equitable fraud
+### Abolition of Notice
+- Statutory framework for unregistered notices is s. 29
+- States that except for the cause of fraud you have participated in, someone dealing with a registered owner to transfer land or deal with a charge is not affected by notice
+- Only exceptions are an interest in land with pending registration and a lease or lease agreement for a period of less than 3 years as long as there is actual occupation
+- Main issue is the "except in the case of fraud" part, does this include equitable fraud?
+- Most other title registration statutes have a provision specifying that knowledge of a trust or unregistered interest is not fraud on it's own, BC's doesn't
+- A case called *Jager the Cleaner v Li's Investments* held that s. 29 had indeed abolished the doctrine of notice
+- Notice of an unregistered interest was not considered fraud under s. 29
+- However, in another case called *Woodwest Developments v Met-Tec Installations*, the court held the opposite, that s. 29 does include equitable fraud
+- Fact that the plaintiff had notice of an unregistered lease before the contract was signed raises questions as to whether they were acting in a bona fide manner
+- As soon as the interest was registered, the plaintiff tried to use the *LTA* to evict the defendant
+### [[Szabo v Janeil]]
+- Two adjoining lots, Lot A and Lot 109
+- There was a water line crossing Lot 109 and going into Lot A, the owners of each lot agreed to grant easements on each others lots, one for the existing water line and the other for hydro
+- Lot A owner registered the hydro easement, but the 109 owner did not register theirs
+- Later, another party purchased Lot 109, issue was whether they acquire that interest while burdened by the unregistered easement or not
+- Two questions to answer here, was there fraud and was there notice?
+- The purchasers were aware of the water line and knew there were discussions regarding the water line but not the details on the agreement to exchange easements
+- Overall, the court held that there was notice, knowing the water line was there is enough
+- Constructive notice, you're expected to look into why there's a water line crossing your property and what the basis is for it
+#### Presence of Fraud
+- Once we know this, need to know if this amounted to fraud or not
+- Court ultimately sided with the approach from *Jager the Cleaner*
+- Notice of an unregistered interest may be fraud, as long as there is some element of dishonesty in the conduct of the purchaser
+- Need to determine whether this is present based on the facts of the case
+- Overall, fraud cannot be presumed based on notice of unregistered interests, but it can be proven based on a number of factors
+- Seems like courts are more likely to find fraud in three scenarios
+	- One, where there is actual notice
+	- Second, where the purchaser had notice before signing the contract of purchase and sale
+	- Third, where the prior unregistered interest is in fee simple
+- In *Szabo*, the court found no evidence of fraud on the part of the buyers, and they received the property unencumbered by the unregistered easement
+- Main issue with all this is that there's no indication in the statute itself that notice can be considered fraud, and certainly no indication of these factors
+- Makes things much more difficult to determine without digging into the common law
+- Section 29 makes no distinction between different kinds of unregistered interests, timing, or the kind of notice given
+### Notice and the Assurance Fund
+- Does the party who loses out in these cases have a claim against the assurance fund?
+- No claim against the assurance fund when it comes to s. 29

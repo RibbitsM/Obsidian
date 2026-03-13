@@ -1,0 +1,36 @@
+- Plaintiff was the widow of William Smith who was employed as a galvanizer by the defendant
+- His job involved removing galvanized items from a tank of 400 C melted metal
+- Normally, the items would be lowered in with a crane but the crane operator didn't have a corrugated shelter and just had to hide behind a wall about 5 feet from the item
+- Known to be a dangerous position, and these men were generally given corrugated iron to use as temporary shelter, which they had a ton of
+- By making a little roof with the metal, the operator can stand with their back to the wall and operate the chains controlling the crane
+- However, this meant that they could not see the item and had to reach their hand outside of the shelter to reach the chains
+- Supervisor would stand far away and instruct them on what to do
+- William Smith was doing this, and when he either turned around to look at the supervisor or look at what he was doing, got hit in the face with a splatter of molten metal
+- Got a burn on his lip which was treated soon after and did not heal, but ulcerated and turned into cancer which killed him
+- He was already prone to cancer from working in the gas industry and might have had some underlying condition
+### Analysis
+- Judge held that there was a clear danger of molten metal hitting the crane operator, and any reasonable employer could foresee this could cause serious damage
+- Protections given to the crane operator were obviously insufficient and make-shift, even though the shelter would be ok as long as the operator stayed behind the shield
+- But it was only a matter of time before someone accidentally made a wrong move and got injured, that was what happened here
+- Many other similar companies gave their crane operators permanent shelters with windows so they are completely safe and can see what they're doing
+- Concluded that negligence is clearly made out here
+### Causation
+- Real question to address is whether the cancer and death were caused by the burn
+- Three main possibilities here
+	- First, the cancer was caused by the burn itself without some kind of underlying condition
+		- This is pretty unlikely, but it's still possible
+	- Second, the cancer existed long before the incident but was never noticed
+	- Third, the husband's time working in the gasworks made them susceptible to cancer and the burn triggered the cancer
+- Found that on a balance of probabilities, the third option is the most likely
+- Means that the husband may not have ever developed cancer if he did not have his lip burned
+- Definitely likely that he would have gotten cancer anyway, but the burn was definitely a contributing factor to the death
+### Damages
+- Regarding the issue of damages, court needs to consider [[Wagon Mound No 2]]
+- Argues that the court in that case did not consider the application of the "thin-skull" rule when it came to determining damages
+- Common law has pretty consistently held that we take the victim as we find them
+- If you take the decision in *Wagon Mound* literally, then that case would have completely overruled the thin skull rule
+- But this is probably not the case, as they did mention there's a distinction between assigning liability for unforeseen damage of a different kind and for more extensive damage
+- Given the circumstances, this is clearly a case where we need to apply the thin-skull rule
+- Test is whether the defendants could have reasonable foreseen the injury the plaintiff suffered, which in this case was the burn
+- The amount of damage suffered from that burn depends on the characteristics and the constitution of the victim
+- Overall, damages were awarded for the death, but were limited substantially because the husband may have gotten cancer anyway

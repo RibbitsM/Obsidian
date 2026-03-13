@@ -1,0 +1,36 @@
+- Respondents ran a ship building and repairing business in the Port of Sydney, and owned a wharf they used for their business
+- There was one boat moored at this wharf called the Corrimal that the respondents were refitting it using oxy-acetylene torches
+- At this time there was a oil-burning ship called the S.S. Wagon Mound chartered by the appellants moored on another wharf about 600 feet from the respondents' wharf
+- Appellants servants let a bunch of bunkering oil spill into the bay, which spread all across the surface of the surrounding water
+- Appellants did not try to disperse the oil and just sailed away
+- Respondents noticed this and told the workers to stop welding, asked the manager of the other wharf if they could safely carry on the work
+- Manager said it was ok because he didn't think bunkering oil could burn in open air, could keep working as long as no flammable material fell off the wharf
+- Two days later, the oil ignited and burned the respondents' wharf and the ship they were working on
+- Trial judge found that it was because a piece of debris under the dock had some flammable material on it that was ignited by sparks coming from the welding
+- Importantly, he found that the appellants could not have reasonably known that oil would still catch fire even when on top of water
+- Also found that the respondents had suffered damage on top of the fire come from oil congealing on their slipways
+- Issue is whether the respondents are liable for the fire damages
+### Analysis
+- Court first considered [[In Re Polemis and Furness, Withy & Co]], said it's no longer good law
+- Unreasonable and unjust to punish the defendant for all consequences for any slight act of negligence that could lead to trivial foreseeable damage
+- Proper principle is that people should only be liable for the probable consequences of their acts, not all consequences
+- Rationale behind this is that the probable consequences will also be the only reasonably foreseeable consequences
+- Real issue for remoteness is where we draw the line for what people are liable for
+- *Polemis* says they should be liable for all direct consequences of their actions, court in this case says they should only be liable for the reasonably foreseeable consequences
+- By taking the latter approach, we can avoid the mess that is trying to prove causation
+- Keep in mind that we only consider what's reasonably foreseeable for the purposes of establishing negligence, not assessing damages
+- Recall that the core elements of negligence are a duty owed to the defendant, a breach of that duty, and some damage done
+- There can only be liability if the damage is done, negligence does not come from the act but from the consequences
+### Example
+- For example, if A sues B for carelessly spilling oil that causes a fire, it's important to know what duty B owed to A, but the liability will only be for the fire
+- We can't just isolate the liability and ask first whether they are liable and only consider the damage they are liable for afterwards
+- If B's liability depends on the reasonable foreseeability of the damage, how do we determine the damages outside of just looking at what damage occurred?
+- If that damage was unforeseeable, them how do we make compensation payable?
+- Different from if B's act was shown to be negligent and caused foreseeable damage to A
+- To hold B liable for the consequences, no matter how unforeseen as long as they are liable at the same time for some other damage is ridiculous
+- If the unforeseeable damage was experienced by both A and C, but the foreseeable damage was to A alone, that would mean only A can recover
+- Overall, it seems that the fact that B is liable for foreseeable damages is irrelevant to the question of whether B is liable for the unforeseen damages
+- These should be considered two different claims considered separately, depending on the foreseeability of the damages
+### Conclusion
+- Overall, the test for remoteness is whether the harm was reasonable foreseeable
+- Appeal allowed

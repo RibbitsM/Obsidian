@@ -1,0 +1,70 @@
+- If you're successful in making a claim you get an unencumbered interest because there was no fraud
+- Person holding the unregistered interest can only claim if there was no fraud
+- If you're unsuccessful and get an encumbered interest because there was fraud, then they can't make an assurance fund claim because they committed fraud
+- Because of this, there is no assurance claim for an unregistered interest under s. 29
+- Other issue we talked about was how BC should deal with notice under the *LTA*
+- If we want to facilitate the easy transfer of instruments, we should abolish notice
+- But if we do this, it will increase the number of unfair outcomes
+- Doug says that the most important thing is having a clear rule, we need to know whether or not notice applies, otherwise it's the worst of both options
+## Aboriginal Title and Title Registration
+- Section 282 allows for the registration of caveats
+- These are temporary notices that you are making a claim against a registered interest
+- Person claiming under an unregistered interest incapable of immediate registration like a contract of person and sale can make a caveat
+- A caveat freezes any action on title, once it's lodged it will prohibit registration of a dealing with the land absolutely, or to the extent mentioned in the caveat
+- Under s. 288(1), as long as the caveat is lodged, the registrar cannot register another instrument affecting the land
+- They are time limited tho, under s. 293(1), a caveat lapses after 2 months
+- If you want to keep it going, you need to register a certificate of pending litigation under s. 215(1) which lasts until the matter is resolved or the certificate is removed
+- Effect is the same, under s. 216(1) you can't do anything on title if there is a certificate of pending litigation registered
+- Under s. 35(1), the date of the application to register land is when land is deemed to be registered for the purposes of priority
+- If a caveat or certificate is registered, then if their claim is then established they, can take priority from the time the caveat was registered
+### Skeetchestn and Secwepemc v Kamloops Land Title Registrar
+- Kamlands was trying to take some land from the Agricultural Land Reserve, the reserve rejected this but was overruled by the BC government
+- Plaintiffs challenged this decision, starting an Aboriginal title claim to the land
+- That claim can coexist with ranch land, but not with a more intensive development
+- Because they were claiming an interest in land, they then filed a certificate of pending litigation against the land
+- Meant that they couldn't do anything because they couldn't mortgage the land to fund development
+- Issue was whether or not the Skeetchestn can do this
+- If the plaintiff succeeded, they would be entitled to a registrable interest in the lands, but is Aboriginal title a registrable interest?
+- We know for sure that it's a property interest under common law, but was it contemplated to fit within the title registration system?
+- Nothing in the legislative history considers that this was intended, thus the appellants have no right to register a certificate of pending litigation
+- One judge argued that Aboriginal title is "upstream" of indefeasible title, and title registration is "downstream" of the certificate
+- Also needed to resolve what we do about the people who had indefeasible title on land that was subject to a claim of aboriginal title
+- As a result, the developer could then build their golf course
+- In the end, the province made the "6 Mile Settlement Agreement" to create a protected land area right next to the golf course jointly managed by the Skeetchestn and BC Parks
+### [[Cowichan Tribes v Canada AG]]
+- First case was an example of title registration being used as a shield, this case is more about Richmond using it as a sword
+- Land at issue here is on Lulu Island in Richmond, Cowichan got a recognition of Aboriginal title over a small portion of land on the island
+- That declaration includes fee simple lands including a golf course and some private residences
+- About 150 private fee simple lots in the range, including some city and federal lands
+- No declaration the the private titles were void, only said the city and federal lands were void
+- Court held that Aboriginal title and fee simple can coexist
+- Proceedings were between the Cowichan and the fed/Richmond
+- During the trial, it was considered whether the private owners should be given formal notice, and the judge said no because there was no demand from the Cowichan
+- All they wanted was a declaration of Aboriginal title, didn't want to make them void
+- Soon after the ruling, Richmond sent out a letter on their own saying that there was a declaration of Aboriginal title on their lands
+- Mayor depicted this as an attack on private property and a threat to Canadian law
+- One private owner filed to reopen the case because they weren't informed on the proceedings and were not invited to the hearings
+- Lot of uncertainty regarding what is going to happen with the private land
+### Decision
+- Cited ss. 23 and 25 of the *LTA*, saying they couldn't have Aboriginal title on the land because they already had indefeasible title to the land
+- Section 25(2) prevents action for the recovery of land against indefeasible title
+- Court adopted the argument from the *Skeetchestn* case, saying that the *LTA* does not involve Aboriginal title
+- Because the Torrens system only deals with interests coming from a Crown grant, this doesn't apply because Aboriginal title doesn't come from the Crown
+- Second argument was if s. 23(2) applied here it would be extinguishing Aboriginal title, and provincial laws cannot do this even if there was clear and plain intention, which there was not
+- Third argument was that even if s. 23(2) applies and we ignore extinguishment, it still wouldn't work because it would be an unjustifiable infringement under s. 35
+- Pointed to the tests from [[Tsilhqot'in Nation v BC]] and [[R v Sparrow]]
+- This would deny the Cowichan the right to use their preferred means to exercise the right
+- How can we think about this decision using the justifying theories for property
+- Since the goal of the Torrens system is to maximize transfers, there's no real logic in having any interest in land that's not marketable like Aboriginal title
+### Wolastoqey v NB and Canada
+- This nation is currently suing the province for a huge land claim, which consists mostly of privately held land for resource extraction
+- Seven private parties sued the Wolastoqey, court said they were only involved because they hold fee simple land that may be burdened by Aboriginal title
+- Couldn't do this, no direct legal relationship and it's a case between Wolastoqey and the Crown
+- Since the honour of the Crown only works between the Indigenous groups and the Crown, you can't use Aboriginal title against private parties to get private remedies
+- Wolastoqey wanted to sue the private parties for trespass
+- This is also a practical argument, we can't have 100,000 individual lawsuits to resolve this
+- Also tried to register their land under the regional Land Title Office, Crown used the same argument from *Skeetchestn*
+- Went to the NBCA early last year, and court said that fee simple and Aboriginal title cannot coexist
+- Since the initial 2024 case, smaller private owners wanted to be added to the proceedings arguing the interests can't coexist
+- Interesting to see if the same arguments from *Cowichan* are going to come back here
+- Main issue right now is whether Wolastoqey can sue private parties or just the Crown, once that's resolved then the title claim can proceed

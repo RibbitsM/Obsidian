@@ -1,1 +1,41 @@
-- oopsies
+### Implied Terms
+- As a part of interpretation, courts may need to fill in "gaps" within an agreement
+- Can happen where the parties didn't give complete expression to the agreement they came to
+- Usually happens because the parties only agreed on what they deemed to be the essential terms of an agreement
+- Also could be because they did not foresee a particular point of difficulty or conflict
+- This is a well-established practice and implied terms are an important source of contractual obligations
+- However, the court will not make the agreement for the parties, implied terms are used sparingly and with great caution
+- Court set out a couple rules for this in *G Ford Homes v Draft Masonry*
+- Implied terms cannot be inconsistent with the contract
+- Based on the presumed intentions of the parties, determined by the circumstances and background of the contract, as well as the existing terms
+- Can be divided into three different categories
+	- Implied terms regarding custom or usage
+	- Implied terms that are necessary or obviously required (terms implied in fact)
+	- Implied terms to ensure the agreement is fair and reasonable (terms implied in law)
+- The first two categories are based on the presumed intentions of the parties, the third one is based more on public policy and precedent
+### Custom or Usage
+- Come from established customs or usage of common terms in specific trades and commercial contexts
+- To qualify, the custom or usage had to be notorious
+- In a case called *Georgia Construction v Pacific Great Railway*, the custom was a method for calculating charges for a specific kind of work in the railway industry
+- Court dismissed this argument, saying the custom was not well-known enough to assume that anyone making a contract for this reason would intend to use this method
+- In another case called *David v Arnott-Smith Timber*, a contract for the purchase of lumber didn't specify the amount of any of the types of lumber they were ordering
+- Lumber that was actually supplied was mostly of the lower quality types specified
+- Technically met the specifications of the contract, but the court held that there was an implied term to send a fair proportion of all the types of lumber requested
+### Implied in Fact
+- Implied based on the presumed intentions of the parties, same as the previous category
+- Usually said to be necessary or obvious given the circumstances
+- There are two different tests for determining whether a term can be implied in fact
+	- First is the officious bystander test from *Shirlaw v Southern Foundries*
+		- If a bystander would have suggested the provision for inclusion in the agreement during drafting both parties would have accepted it without question
+		- This is the test for establishing a *prima facie* implied term, can be rebutted
+	- Second is the business efficacy test from *The Moorcock*
+		- In cases where both parties are businessmen, the term would have been included to provide for the efficacy of the transaction??
+- These two tests are widely used, and generally considered to be synonymous with each other
+### Implied in Law
+- Canadian case for this is *London Drugs v Kuehne & Nagel*, allows for the court to imply terms the parties clearly did not intend as a matter of policy
+- These kinds of implied terms are legal incidents of specific kinds of contracts
+- For example, in *Liverpool City Council* there was an implied term put in a tenancy agreement that the landlord agreed to keep the common parts of the building in good repair
+- Tenancy agreement could have functioned without the term, but it was necessary to the fair functioning of the agreement given the relationship between the parties
+- In another case called *Machtinger v HOJ Industries*, the issue was whether an employer was obliged to give employees reasonable notice when terminating an indefinite employment
+- This kind of obligation was deemed necessary to the relationship between employers and employees
+- Attaching this kind of legal incident is basically imposing a legal duty on the parties

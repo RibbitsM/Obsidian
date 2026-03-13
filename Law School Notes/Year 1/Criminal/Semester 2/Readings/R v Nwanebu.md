@@ -1,0 +1,31 @@
+- Accused convicted of possession of a passport not issued to him, using that passport to enter Canada, and misrepresenting his identity to Canadian officials
+- Appeals the decision as the trial judge erred in rejecting the defence of necessity by failing to apply the modified objective standard
+- Needed to consider that he was in imminent peril with no legal alternative due to the PTSD he experienced caused by violence he was subjected to in Nigeria
+- Accused was from a small village in Igbo territory in Nigeria, his ethnic group has been systematically discriminated against by the government
+- Member of a political group advocating for Igbo independence, and the government has tortured, killed, and used violence to support protests from this group
+- Accused was arrested twice on his way to a rally for this group and was tortured both times, he escaped being executed on the second occasion
+- Couldn't get his passport because the police were hunting for him, got smuggled into Canada and given a different passport and say he was coming in for a business deal
+- Detained at the border and denied entry, stuck to his story that he was a businessman and said he did not fear going back to Nigeria and was here for business
+- Told his legal aid counsel that his name was the name of the guy who smuggled him there, and said he would be killed by an opposing tribe if he went back
+- At this point, he could not make a refugee claim because he was already excluded
+- Didn't disclose his true identity until the criminal charges were laid and the hearing started
+### Defence of Necessity
+- Recall that the defence acts as an excuse, not a justification
+- First two elements are assessed on a modified objective standard, need to believe reasonably you face imminent peril and have no reasonable legal alternative
+- Courts will look at the circumstances and ability of the accused when determining this
+- In this case, the experience of persecution, torture, and attempted assassination the accused had with the Nigerian government is crucial
+- Trial judge accepted this evidence, his sister corroborated that he was beaten, hung from a ceiling fan, and was severely injured by the interrogation
+- Was driven into the bush on the second time after being beaten and told to run while the police shot at him
+- Forensic psychologist diagnosed him with depression, anxiety, and PTSD as a result of the torture, giving him a lasting fear of police
+- Trial judge found no imminent peril because he was coached on what to tell the authorities, which would mean he was no longer panicking
+- Also, the danger he was in ended when he changed planes in Frankfurt
+- Had two legal ways out, to stay in Frankfurt or to tell the officials his situation when he got to Canada
+### Imminent Peril
+- Trial judge did not properly apply the modified objective standard here
+- Need to look at the reasonableness of his fear of imminent peril through the lens of his past experience and the evidence that this gave him PTSD
+-  This affected his ability to evaluate his situation, the fact that he was not actually in immediate danger is not relevant
+- Also relief on some irrelevant evidence, didn't matter that he was educated and had been coached on what to say when he arrived in Canada
+### Reasonable Legal Alternatives
+- For the same reasons, the trial judge erred in failing to determine the reasonableness of this element of the defence
+- Judge applied the objective test without considering personal circumstances
+- Overall, appeal allowed

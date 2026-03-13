@@ -1,0 +1,54 @@
+- Need to read Nwanebu, Willis, and maybe Ryan for thursday
+- Recall that necessity is a common law defence with three elements:
+	- Need an imminent and urgent peril
+	- Cannot have a reasonable legal alternative
+	- Need proportionality between the harm caused and avoided
+- Common law defence of duress is basically the same, except you replace the imminent and urgent peril with a threat of death or serious bodily harm
+- However, there are actually two different forms of duress because s. 17 of the *Criminal Code* details a different, statutory defence of duress
+- This version of duress excuses liability where a person commits a defence under compulsion by immediate threats issued by someone who was present while the offence was committed
+- This only applies to people who are not a party to a conspiracy or association
+- Also a whole bunch of offences where the defence doesn't apply including sexual assault, piracy, murder, high treason, etc.
+- In a case called *Paquette*, the SCC held that the common law defence lives on outside of the statutory version, and applies only to parties
+- If you are charged as a principal, can only use the statutory defence but if you're charged as a party, you can use the common law defence instead
+- Because of this unique status, the requirements of duress will depend on which version of the defence you are using
+- No matter which version you are using, will need to prove it on a balance of probabilities and it will provide a complete acquittal if successful
+### [[R v Hibbert]]
+- This is the leading case on the application of the common law defence of duress
+- Principal offender was a drug dealer named Bailey who was seeking to kill another drug dealer and enlisted the help of Hibbert, the accused in this case
+- Needed Hibbert to lure the victim into the lobby of his apartment building, and threatened to kill him instead if he did not comply
+- Hibbert did as he was told, and Bailey shot and killed the victim
+- Court held that duress does not negate *mens rea*, as the acts committed are still intentional even though they may be against the will of the accused
+- It affects the motive, but your actions are not accidental, still intentional
+- Admit that some offences that have motive requirements may be negated by duress, but outside of those cases duress operates as an excuse
+- Second question for the court was about the safe avenue of escape requirement
+- Court confirmed that this is the same as necessity, you're using a modified objective test to see if the accused had a reasonable legal alternative to complying with the threats
+- Need to put up an ordinary amount of resistance, but you're not expected to be a hero
+### Statutory v Common Law
+- Statutory defence has been widely criticized for being too restrictive, especially compared to the common law version
+- If you're an aider or abettor to an offence, the common law defence is available in all situations with the possible exception of murder
+- If you're the principal and you've committed an offence not listed in s. 17, you only have access to the statutory defence
+- If you have committed an offence listed in s. 17, you get nothing
+### [[R v Ruzic]]
+- Offence in this case was importing narcotics into Canada
+- Claimed she was compelled into smuggling heroin by a criminal paramilitary soldier in Belgrade who threatened to kill her mother if she did not comply
+- Could not have gotten help from the police because they were corrupt and ineffective, this was during the peak of the Yugoslav wars in the 90s
+- Argued at trial that the immediacy and presence requirements of s. 17 violated s. 7 of the Charter as she could be imprisoned in a situation against the principles of fundamental justice
+- PFJ in this case was a novel one, that the criminal law should not punish morally involuntary actions
+- This is different from being morally blameless, as the *actus reus* and *mens rea* are still met
+- Because no reasonable person would be expected to withstand this threat, she argued that her actions were not the result of any real choice
+- Court agreed, holding that this was a PFJ
+- May be cases where the threatener is not present, but the threat is still real enough to make the actions of the accused morally involuntary
+- Because of this, s. 17 in its current form does seem to violate s. 7 of the Charter
+- In the end, Ruzic was acquitted as the court believed that all elements of the common law defence were met
+- Court also needed to deal with the issue of what to do with s. 17
+- Don't really want to strike down the entire section, because parts of it are constitutional and are also best left to the discretion of Parliament
+- Decision here was that s. 17 should be read down until Parliament has the time to actually amend the legislation
+- Because of this, s. 17 in the *Code* is still the same today but functions differently
+- In practice, the statutory defence of duress is the same as the common law defence, the only difference is with the listed exceptions to the statutory defence in s. 17
+- Can think of the listed offences as a shortcut for a proportionality requirement made by Parliament, these offences are severe enough that they will never be proportionate
+- Main exception here is arson, it's the only listed offence that does not involve equal or greater harm to the victim compared to the threat issued to the accused
+- Robbery is also a notable one, this can be done just by committing theft while holding a weapon, no harm required
+- Can begin to see how the same s. 7 argument from *Ruzic* can be re-applied here
+- Likely possible to commit some of these listed offences while still meeting the proportionality requirement of the defence
+- However, it's still possible that this will be saved under s. 1, especially for some of the more severe offences like murder
+- Also a couple notable offences that aren't on the list like manslaughter and kidnapping

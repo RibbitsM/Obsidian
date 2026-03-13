@@ -1,0 +1,33 @@
+- Issue in this case was that a ski resort was being built on territory considered sacred by the Ktunuxa people
+- They informed the resort of this fact and they made some changes to their development plan, but the changes were not enough to satisfy the Ktunaxa
+- We covered this briefly in ATR, the duty to consult was met here but we're dealing with the s. 2(a) issue for this course
+- Specific decision being disputed was the signing of the development agreement by the Minister
+- Issue relevant to us was whether this decision violated s. 2(a)
+- Argue that the development will drive Grizzly Bear Spirit from Qat'muk, their sacred ground
+- Since this spirit is central to Ktunaxa beliefs, this will effectively remove the basis of their beliefs, and the Minister erred by not considering this
+- Court found that this was immaterial, claim was outside the scope of s. 2(a)
+### Scope of the Freedom of Religion
+- Recall that s. 2(a) protects the freedom to hold religious beliefs and the freedom to manifest religious beliefs
+- This interpretation is supported by several international agreements on the subject
+- To establish an infringement, need to prove a sincere belief and an interference that is non-trivial and substantial with a practice or belief
+- Undisputed that the Ktunaxa believe sincerely in the Grizzly Bear Spirit, and that the development will drive it from Qat'muk
+- Ktunaxa then need to show that the Ministers decision needs to interfere with their freedom to believe in the Spirit, or the freedom to manifest that belief
+- However, they are claiming that s. 2(a) protects the presence of the Grizzly Bear Spirit in Qat'muk, which it does not
+- Charter only protects the freedom to worship, not the object of worship itself
+- To extend s. 2(a) in this way would invite judicial scrutiny of deeply held personal beliefs, which the court is not qualified to do
+- Previously held in [[Syndicat Northwest v Amselem]] that they can't do this
+- Freedom of religion under s. 2(a) does have a communal aspect, and this action will indeed destroy the communal aspect of Ktunaxa belief
+- However, this aspect of s. 2(a) does not extend beyond the freedom to hold and manifest beliefs
+- Unnecessary to consider whether the Minister's decision struck a reasonable balance
+### Concurring Opinion
+- Argued that the right to religious freedom was infringed on by this decision
+- Where a religious belief no longer provides spiritual fulfillment, that person cannot act according to their religious beliefs or practices as they are no longer religious
+- Also interferes with the ability to pass on religious practices to future generations, which has previously been protected in [[Loyola High School v Quebec]]
+- Therefore, where the spiritual significance of religious beliefs is taken away by state action, that is an interference with the ability to act in accordance with those beliefs
+- Majorities argument means that as long as the ability to conduct ceremonies remains, that's ok even if those ceremonies no longer carry any meaning
+- This is an unacceptable interpretation of s. 2(a)
+- Also risks excluding Indigenous religious freedom claims related to land from being protected under s. 2(a)
+- If state action that impacts land can sever the connection to the divine and cannot be a violation of s. 2(a), this imposes a significant burden on Indigenous beliefs
+- Pretty clear that if we take the opinion that removing meaning from religious practices is an infringement of s. 2(a), there is an infringement in this case
+- However, the decision was reasonable in the circumstances since it limited the right as little as reasonable possible
+- Overall, agreed with the majority that this decision was correct

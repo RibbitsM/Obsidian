@@ -1,0 +1,65 @@
+### [[R v Nwanebu]]
+- This case dealt with an accused who entered Canada with a false passport on false premises to escape ethnic violence in Nigeria
+- Asked if he wanted to make a refugee claim, said no and stuck to his fake story
+- When he was taken to trial, revealed his true identity and raised the defence of necessity as he could no longer go through the refugee process
+- Went to the BCCA, trial judge rejected the defence of necessity although the case bore a significant similarity to *Ruzic*
+- Same argument was made that the accused could have sought help on his way to Canada after leaving Nigeria, or could have got help in Vancouver after arriving
+- No longer in imminent peril after he left Nigeria, so the elements are no longer present
+- BCCA overturned this decision on the grounds that the trial judge did not apply a modified objective test, and only relied on the objective tests
+- Real test was whether the accused reasonably believed that they were in imminent peril and had no legal alternatives, informed by his PTSD and experiences of violence
+- This is the main important part of this case, the need to consider the circumstances of the accused similar to a case like [[R v Lavallee]]
+- 
+### Duress and Murder
+- Recall that duress is both a common law and statutory defence, s. 17 applies only to principals, parties to an offence can rely on the common law defence
+- Statutory version was stricter compared to the common law, but the two were determined to be equivalent in [[R v Ruzic]]
+- Immediacy and presence requirements were read out, so now the two defences are the same except the s. 17 version is not available for a specific list of offences
+### [[R v Willis]]
+- Situation where the accused raised the defence of duress as a principal to the offence of murder
+- Court pointed out that there is an ongoing and intense debate over whether duress applied to murder
+- House of Lords initially held that it was available for parties but not principals, but later overruled that and said it was never available
+- In some US jurisdictions, it can be used for sentencing but not the decision itself, similar to the defence of provocation
+- Recall that when *Paquette* was decided and distinguished the statutory and common law defences, we still had the felony murder provision overruled in [[R v Martineau]]
+- Created the possibility that you could be found guilty for murder despite only being a party to a violent crime that ended in murder, now unconstitutional because no subjective foresight
+- In Canada, some appellate decisions have adopted this distinction between principals and parties and said the common law defence extends to murder (Example is *Aravena*)
+	- Accused in that case were lookouts for a murder
+### Constitutional Argument
+- But what about the argument that s. 7 is unconstitutional for limiting the defence for murder?
+- Appeal court in this case said that murder is distinct enough that we can consider this on it's own, and that there was no s. 7 violation here
+- Effectively saying there is no possible way to take a life while being morally involuntary
+- One of the main arguments they advanced for this was that you pretty much always have some sort of alternative way out
+- For example, you can attack the person threatening you and raise self defence
+- Pointed out that this is ultimately a test of character, if you have to accept death or accept the punishment for killing another person, that's moral decision
+	- Need to deal with the consequences if you cannot make the correct decision here
+- Another important note is that we typically do not allow duress in circumstances where the accused consciously chose to join a criminal organization
+- Murder will also never meet the proportionality requirement, because a certain killing of an innocent victim will not outweigh and uncertain chance of death
+- Can never know whether or not rescue may be right around the corner
+- It's also not certain that giving in to the threat will save you, in this case the accused committed the murder and was still in debt
+- A particularly important argument is that accepting the defence here will inevitably lead to the killing of the most vulnerable parties
+	- Court drew an analogy to the classic case of *Dudley v Stephens*, in that case the person who was killed was the cabin boy, the most vulnerable party
+	- This kind of argument also applies to necessity, like in the case of [[R v Latimer]]
+### [[R v Ryan]]
+- Accused was being threatened by their husband, went to the police but they didn't intervene because it was a family law case
+- Concluded that her only option left was to get her husband killed
+- RCMP found out, and sent a fake hitman that she talked to and got arrested for trying to hire someone to kill her husband
+- Charged with counselling to commit a murder, no murder or even attempted murder
+- Two sections of the *Criminal Code* dealing with this, s. 464 is where the murder is not committed (which applies here), and the punishment is the same as attempted murder
+- Counselling an offence that is committed is being a party to murder under s. 22, you're basically abetting a murder
+- Since the accused was charged under s. 464, then theoretically the statutory defence of duress is available to her
+- Crown challenge the facts, saying that what she claimed was not what happened
+- Acquitted at trial based on the facts, on appeal the Crown say that duress can't apply even if the facts are true
+	- Reasoning for this was that duress is about making a threat, need to avoid the consequences of the threat through your actions
+- Case ultimately went to the SCC, which held that duress does not apply in this case, because the threatener needs to be compelling you to commit the defence
+- Did clarify the elements of the defence, and basically confirm that the elements of the statutory and common law defence are now equivalent after *Ruzic*
+- Don't deal with any of the statutory exceptions, facts don't demand it
+### Alternative Defences
+- One main possibility is self defence, to do this we would have to accept that seeking assistance from others to defend yourself
+- However, self defence is statutory, and the current statute does not allow this
+- Raises the question of whether this should be covered under the common law
+- Other possible alternative could be necessity, as there is no requirement there for the accused to be compelled to do something, just reacting to an emergency
+- Court upholds the acquittal anyway, even though there were no applicable defences
+- Always open to the court to impose a stay of proceedings if convicting the accused would be an abuse of process
+- Given that the police did not help her, and instead sent in an officer undercover to arrest her for attempting to fix her situation
+- Crown also didn't try to argue duress was inapplicable until the case was appealed, which was another point suggesting this was an abuse of process
+- Very controversial case, the husband went very public about everything claiming that the accused was not abused and was falsifying her claims
+- Actually ended up getting custody of the daughter because the accused was in jail
+- Also raised the issue of whether there should be an available defence in these circumstances

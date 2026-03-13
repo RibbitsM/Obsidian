@@ -1,0 +1,34 @@
+- Plaintiff was injured in a car accident, suffering neck, shoulder, and back injuries
+- At the time, she was working at an auto parts company and regularly loaded and unloaded heavy objects
+- Got workers comp benefits and a rehabilitation program, which included a series of exercises after warming up on a cardio machine
+- Initially warmed up on a exercise bike, but there was one time she tried to use an elliptical
+- Felt a "pop" in her knee and suffered continuous pain in the knee ever since
+- Issue is whether the defendant is liable for the knee injury
+- Medical evidence clearly shows that the knee injury is completely disconnected from the neck and back injuries suffered in the accident
+- Court found the defendant liable, as but for the accident, she would not have been on the elliptical machine and would not have suffered the injury
+### Law
+- Starting point is [[Athey v Leonati]], which holds that as long as the defendant is part of the cause of the injury, they are liable even though their act alone didn't cause the injury
+- Defence argued there was no materially contributing cause, and the injury was a result of an unrelated intervening event and is unforeseeable and too remote for damages
+- Pointed to a similar case where a lady fell on a walk she was told to go on as therapy for recovery from a similar car accident
+- Claimed that she fell because she experienced a sudden headache caused by her injuries
+- Judge did not believe the headache story, said that she probably just slipped and fell, found no negligence causing harm
+- Court distinguished this case because the only evidence linking the injury and accident in that case was the headache, which was rejected by the court
+- Because of that, the *Leonati* principle did not apply in that case
+- Can also distinguish other related cases, as most of those plaintiffs were acting unreasonably when they sustained their injuries
+- No evidence the plaintiff here acted unreasonably
+### Papp v Leclerc and Deibert v Giddings
+- Plaintiff raised the case of *Papp v Leclerc* where a plaintiff got surgery after a car accident and suffered an injury during the surgery unrelated to the accident
+- Court held that since the defendant couldn't prove otherwise, the chain of causation was not broken in this case
+- Also mentioned a case called *Deibert v Giddings* where the same thing happened but the plaintiff was injured by a physiotherapist instead of a doctor
+- Judge held that the injury was a reasonably foreseeable consequence of the treatment
+- Where a tortfeasor causes injury causing the victim to seek medical attention, they assume liability for any risks of reasonably foreseeable medical errors
+- Defendant seeks to distinguish these cases on two grounds
+	- First, *Papp* is distinguished because the injury from the surgery was a common complication following surgeries
+	- Second, *Deibert* is distinguished because the plaintiff's injury was exacerbated by the treatment, wasn't a new injury
+### Conclusion
+- Despite this, the judge concluded that the injury was still a foreseeable consequence of the accident
+- The training regime was reasonable, and she acted reasonable in following the program
+- Injury cannot be attributed to any contributory negligence on her part
+- Not unforeseeable that someone can be injured through physiotherapy, even if the injury is unrelated to the original one because of the inherent risks of medical treatment
+- Looked at some expert evidence and concluded the knee injury is probably not permanent but there's no clear prognosis
+- Assigned 41k in damages (holy shit)

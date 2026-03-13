@@ -1,0 +1,9 @@
+- One of the primary justifications for free expression is the idea that freedom is crucial for promoting the free flow of ideas to facilitate democracy
+- Means that within the protections for free speech, the most important kind of speech we should be protecting is political speech
+- Idea is that we should protect the marketplace of ideas to make sure only the most valuable and most true succeed and reach into the democratic process
+- However, there is not guarantee that true ideas will always succeed in this arena, this cannot be the only justification for free speech
+- Don't need a utilitarian reason to protect it, the idea of free expression and the ability of the individual to form their own beliefs is valuable on its own
+- But this approach is too broad, cannot be firmly enforced under the Charter
+- True idea seems to be somewhere in the middle, or all of them at once
+- Because of this complexity, we should not assign a single way to justify a limit on the freedom of speech, it will vary from case to case
+- Depending on the facts, we can change what rationale for free speech we look at

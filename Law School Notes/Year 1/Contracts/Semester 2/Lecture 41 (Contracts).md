@@ -1,0 +1,31 @@
+- Recall that there are three main situations where agreements involved good faith obligations prior to the decision in *Bhasin*
+- First is in the employment context where the employer terminates employment
+	- Employer cannot engage in bad faith conduct in performing the dismissal
+	- Employee can recover damages if the manner of the dismissal was in bad faith
+- Second is when it comes to insurance contracts
+	- Implied duty for the insurer to deal with the claim of the insured fairly
+	- Insured also has to act in good faith by disclosing any material facts
+- Third is when it comes to tendering processes
+- Given this fairly piecemeal approach, the common law would benefit from recognizing a general organizing principle of good faith in performing contracts
+- Need to distinguish between the general underlying principle and the detailed rules that allow us to actually work out the facts
+- The organizing principle is a rule on its own, but can be used to underpin more specific doctrines to help the law develop in a principled way
+- General principle is that during performance, parties need to have "appropriate regard" for the interests of their contracting partner(s)
+- Don't need to act to serve those interests in all cases, just that you can't act in bad faith to undermine those interests
+- Similar to a fiduciary duty, but you do not need to put the interests of the other party first
+- Claims of good faith will generally not succeed with they don't fall within one of the categories where Canadian law has already recognized the application of good faith
+### Duty of Honest Performance
+- This is a new duty, distinct from the existing three categories of good faith
+- Recall that the issue in this case was a limited time but infinitely renewable employment contract
+- Doesn't fall into the existing category of indefinite employment contracts
+- New duty would require parties to not lie or knowingly mislead the other party about matters directly linked to the performance of the contract
+- If Can-Am had not misled Bhasin regarding their intentions, he could have taken steps to preserve his business and they harm he suffered by Can-Am's breach
+- Hrynew was not involved in making these misleading statements and did not encourage Can-Am to do this, so he was not liable for inducing a breach of contract
+- Can-Am was the only party that used unlawful means to breach the duty, so the claim for conspiracy failed as well
+- Based damages on the fact that Bhasin could have avoided most of the harm he suffered if he had been given accurate and honest information
+### Outcome
+- This decision did not determine that good faith performance should be applied generally
+- Need for "appropriate regard" is just an underlying principle, there's no rule requiring parties to actually do this
+- The specific rules of good faith performance are the three pre-existing rules and the new rule of honest performance
+- Also did not impose a duty to **negotiate** in good faith, just to **perform** the contract in good faith
+- New duty of honesty is not the same as a duty of disclosure
+- Also indirectly suggested that the right to terminate an employment agreement may not be a discretionary power that needs to be exercised in good faith

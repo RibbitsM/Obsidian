@@ -1,0 +1,26 @@
+- Appellants were husband and wife who were customers at the respondents' restaurant in Kingston Ontario
+- They were sitting at the counter when a flash fire occurred on one of the grills, which are equipped with fire extinguishers
+- Fire was extinguished almost immediately, and the fire caused no damage
+- However, the hissing sound of the fire extinguisher led one of the patrons to shout that there was a gas leak and the restaurant was going to explode
+- In the resulting panic, the wife was pushed from her seat and injured
+- Appellant sued, claiming general and special damages, trial judge accepted this argument as the flash fire was caused by a negligent failure to clean the grill
+- Concluded that the panic could have been foreseen due to the explosive hissing noise caused by the automatic fire extinguishers
+- Court of Appeal unanimously overturned this decision, saying that the person guilty of negligently causing the fire could not have anticipated the subsequent acts
+- Argued that the random patron causing a panic was an intervening act
+- Case appealed to the SCC, which agreed with the Court of Appeal
+- The automatic extinguisher was best in class, and designed for this precise situation and it performed its function excellently
+- Appears that the injuries suffered by the wife were a result of the patron starting the panic after the extinguisher had already done its job
+- Unfair to say that this was within the risk created by allowing grease to accumulate on the grill
+- Appeal dismissed
+### Dissenting Opinion
+- Argue that any reasonable person would know the grill might catch fire and that the fire extinguisher's noise may cause a panic
+- Events unfolded incredibly quickly, the timeline was a few minutes in total from the fire starting to the time of the injury
+- Wife testified to hearing someone next to her call out "gas" after she had been watching the fire for about a minute, causing an immediate panic
+- The stove that caught fire was gas powered, and it was only natural for someone to recognize this and call out "gas" after hearing a hissing noise coming from the stove
+- Someone, maybe the same person who said "gas" also said "it's going to explode"
+- Trial judge pointed out that even if this is negligence, there was an intervening factor that was outside of the control of the respondents
+- However, this kind of panicked response is entirely foreseeable, especially in an emergency situation like this, even the owners were running around the restaurant at the time
+- Agree with the trial judge that the person who shouted "gas" was acting in a foreseeable manner given the circumstances
+- Citing Fleming, an intervening act will not clear a defendant's responsibility if the act was "part of the ordinary course of things"
+- Overall, the plaintiffs should have a right of action, even if the person initiating the panic was acting negligently
+- Appeal allowed

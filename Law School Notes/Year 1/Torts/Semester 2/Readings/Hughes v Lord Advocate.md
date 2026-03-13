@@ -1,0 +1,26 @@
+- Post Office employees were working on some telephone cables, the closest house was about 400 yards away, and the employees had never been bothered by any children
+- Removed a manhole cover and went down to work on the cables, leaving a shelter tent above the manhole with warning lights around it
+- Left the site for a break around 5 pm, removed the ladder from the manhole before leaving and pulled a tarp over the shelter entrance
+- Appellant (8) and his uncle (10) came walking down the road and went into the shelter, bringing the ladder, some rope, one warning light, and a tin can with them
+- Went down to explore the manhole, and somehow the lamp was knocked into the manhole, causing a violent explosion which make the appellant fall into the manhole
+- Sustained severe burning injuries, particularly on his hands after climbing out on the hot ladder
+- Explanation was that the lamp falling vaporized some of the paraffin inside it which was detonated by the lamp light
+### Reid
+- Held that the workers were at fault for leaving the manhole unattended, this would not have happened if they did not do this
+- Trial judge held the appellant still can't recover damages even though all other elements are met, because their injuries were not reasonably foreseeable
+- Challenges this finding, arguing that he suffered burning injuries, which we could reasonably expect to happen after leaving the lamps unattended
+- Tent was dark so it makes sense the boys would bring it with them, and if the lamp broke that could definitely cause serious burns
+- Unexpected that the damages would be as bad as they were, but the defendant is liable even if the extent of the damage was not foreseeable
+- Can only escape liability if the damage was of a different kind from the foreseeable harm
+- Cause of the accident was the lamp, which was a known source of danger here
+- The fact that the lamp exploded when falling was so unlikely that it would have been unforeseeable, same with the boy falling in the manhole afterwards
+- Accident may have happened in an unforeseeable way, but it was still caused by a known source of danger, so appeal should be allowed
+### Guest
+- Lower court found that the accident was not reasonable foreseeable
+- To establish a chain of causation, don't need all the details leading to the accident to be reasonably foreseeable
+- As long as the accident is of a type that a reasonable person could have foresaw it, the precise circumstances don't matter
+- Lower courts put too much emphasis on the fact that the mechanisms leading to the explosion were so incredibly unlikely
+- Real test is whether the paraffin igniting outside the lamp would be a foreseeable consequence of leaving the tent unattended
+- There were a number of ways that this situation could have gone wrong for the appellants, any situation where they play with the lamp could cause this
+- All the steps leading up to the explosion seemed to be foreseeable, but that was only one way the boys could have been burned
+- Any of these situations would result in the same kind of injury, so the explosion is immaterial to the chain of causation
