@@ -1,0 +1,10 @@
+- Exclusion theory of property mainly focuses on the relationships between the owners and non-owners
+- What happens inside the "black box" of property is irrelevant
+- In reality, there are two different kinds of property, exclusion property and governance property
+- Exclusion theory applies to the former kind, but the latter has multiple owners and needs regulation between those owners
+- No property is one kind or another, most exist on a spectrum between those two extremes
+- Multiple owners can be concurrent, sequential, or combined which will determine where they fall on that spectrum
+- Most examples are concurrent estates like marital property, condos, leaseholds, corporate partnerships, and trusts
+- Governance property is not the same as common property, but they do overlap where there is a limited-access regime
+- Thesis of the article is that governance property is now the dominant mode of ownership, meaning the right to exclude is no longer central
+- Side claim is that GP ownership contributes more to virtues like community, cooperation, and trust

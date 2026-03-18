@@ -1,0 +1,90 @@
+- Recall the core elements of negligence
+- Presence of a duty of care, breach of the standard of care, damages suffered, and factual and legal causation of the harm by the defendant
+- Once all of these elements have been established, at this point the defendant can raise a defence
+- Basic form of a defence is to argue that one or more elements should not be met
+- This is how pretty much every causation and remoteness case works, arguing that for some reason or another, the elements of negligence were not met
+- Can apply to other elements as well, for example public bodies often challenge the assertion that they owe the plaintiff a duty of care
+- Three main areas of focus at common law
+	- First is contributory negligence, which suggests that the plaintiff somehow contributed to the negligence causing harm to them, can limit damages
+	- Second is voluntary assumption of risk, if the plaintiff invited the harm somehow, the defendant will not be liable (find Latin term)
+	- Third is injury based on illegality, arguing that no liability arises out of the base cause because plaintiff acted illegally (find Latin term)
+## Contributory Negligence
+- Main focus of this defence is "quid pro quo", if the plaintiff is demanding that others take reasonable care to avoid causing harm, they must also take care to not harm themselves
+- Every person has an implicit duty to take care of themselves in ordinary life
+- Only a partial defence, use to serve as a complete defence
+- Limits the liability of the defendant based on the extent of the plaintiff's negligence
+- For example, if the plaintiff is responsible for 25% of the loss, the defendant will have to pay 25% less in damages
+### [[Butterfield v Forester]]
+- Happened during a time where contributory negligence was a complete defence
+- Defendant blocked the road with a pole to repair his house, plaintiff left a pub and was riding very fast along the road and hit the pole
+- Wasn't drunk, but the court found that a person who was riding ordinarily would have been able to notice and avoid the pole
+- This was the instruction given to the jury, found that the fault was entirely on the plaintiff
+- Can't avail yourself of a dangerous situation that another person has created
+- Defendant being in the wrong does not give others the right to act without ordinary care and injure themselves or others
+- This is the general reasoning, the defendant's lack of care does not absolve the plaintiff of their own negligence at common law
+- Also ties into the underlying principle of the crumbling skull rule, we will not try to put the plaintiff in a better position than they would be in without the defendant's negligence
+- However, the *BC Negligence Act* dictates that the courts will apportion liability according the the relative fault of both parties
+- This is written in s. 1, and s. 2 states that where relative fault is too difficult to determine, then you apportion liability equally
+## Voluntary Assumption of Risk
+- Latin phrase is *volenti non fit injuria*
+- Occurs in cases where the plaintiff is deemed to have consented to the risk of harm
+- Example would be joining a boxing contest, you are assuming the risk of getting punched in the face and cannot sue anyone for that
+- Usually relate to drunk driving cases, can't sue because you voluntarily got in the car knowing that the driver was intoxicated
+- This is also pretty similar to contributory negligence, but because it is a complete defence, the defendant can choose it over contributory negligence when both apply
+- Also a more difficult defence to prove, very difficult
+### [[Dube v Labar]]
+- Two co-workers were drinking and took the plaintiff's car in the morning, both were drunk
+- Went to go look for the defendant's car, driving around town while drunk
+- At some point they got into an argument and switched drivers, the defendant soon overturned the car and injured both of them
+- Knew that each other were drinking, they had both been drinking and driving around all morning
+- At trial, two defences were put to the jury, both contributory negligence and *volenti non fit injuria*
+- Found that it's available to a driver on principle, they chose to enter the car
+- However, this defence is a "bilateral exchange of terms" governing an activity, must have been an express or implied bargain between the parties giving up the right of action for negligence
+- Just because they knew they were engaging in a risky activity, does not mean that the circumstances suggest that they were waiving their right to sue
+- Real question is whether the plaintiff intentionally have real consent to assume the risks of their activity with no possibility of compensation
+- Focus is really on this mutual agreement between the plaintiff and the defendant, it is often construed very restrictively
+- Precedent has shown that the knowledge of the risk alone is not enough
+- Overall, there are four elements
+	- Plaintiff had knowledge of the risk
+	- Expressly or implicitly accepted the risk of harm
+	- Intended to waive their ability to sue for compensation
+	- Understood that the defendant assumed no responsibility to exercise due care
+- In drunk driving cases like these, *volenti* is generally not available as the only elements that can be proven are the knowledge and acceptance of the risk
+- In the end, the plaintiff's appeal was dismissed
+## Illegality
+- Latin phrase is *ex turpi causa non oritur actio*
+- Core principle is that the plaintiffs who suffer injury resulting from their illegal conduct cannot claim compensation
+### [[Hall v Hebert]]
+- Plaintiff owned a really cool car, drove to a party with the defendant
+- After the party, both of them drive to a baseball field and drank more beers
+- Defendant asked to drive the car, plaintiff let him but the car went out of control, rolled down a hill and have the plaintiff many head injuries
+- Plaintiff knew that the defendant had drank a lot but did not consider him impaired
+- Raised *ex turpi causa* at trial, judge said that the only common enterprise was drinking alcohol, which was illegal conduct that happened before the defendant drove the car
+- Because the illegal conduct was not directly related to the action, compensated plaintiff
+- On appeal, the court found that no duty of care was owed to the defendant, and *ex turpi* was available as the plaintiff should not be compensated for their criminality
+- Case finally went to the SCC, which held that the *[[Cooper v Hobart|Anns]]* test should apply here
+- Whether or not *ex turpi* should apply to the case will be considered under the second stage of the test, while looking at policy considerations
+- Ruled that there was no reason to prevent the plaintiff from recovering here, appeal allowed
+- Argued that reasonable members of the community would not object to recovery here
+#### Concurring Judgement
+- Argued that recovery should be barred by illegality in very limited circumstances, purpose of the defence is to preserve the integrity of the legal system
+- This becomes an issue where the plaintiff recovering damages would allow them to profit from their illegal activities or avoid criminal penalties
+- When we talk about "profits" here, we're talking about direct pecuniary awards
+- Can imagine circumstances where you are issued a fine for a crime, but can pay it off via compensation from a civil case
+- Or, they could sue for lost wages as a result of being imprisoned for their actions
+- Law will not give with its right hand what it takes with its left hand
+- Rejected the argument that we can consider this under policy considerations, as the defence is more grounded in the need to avoid abuse of process, not policy considerations
+- Courts also deny recovery for specific kinds of damages because allowing the request for recovery would be considered profiting from the crime
+- Main example for this are claiming future earnings based on an illegal occupation and exemplary/punitive damages, which are usually imposed to punish a defendant
+- The law compensates for personal injury suffered so the plaintiff should get only the value of the injuries they suffered to prevent them from profiting in these situations
+- Otherwise, we would be effectively allowing the plaintiff to evade the consequences of the criminal law
+#### Issues With the Majority Decision
+- We should still allow claims for injury even when it was caused by illegal activities, because the duty of care extends to all people, not just those who are acting morally and legally
+- The duty of care focuses on the relationship between the plaintiff and defendant, different from an analysis based on the character of the plaintiff
+- Morality and legality is an external consideration in this analysis
+- Some types of defences like *volenti* do deal with the relationship between the parties, but defences like *ex turpi* focuses only on the actions of one party
+- Additionally, subsuming illegality into the duty analysis creates the issue of reversing the burden of proof
+- Plaintiff has to establish the valid cause of action, and the defence is establishing *ex turpi*
+- When we slot this into the policy consideration part, then the burden switches
+- It also makes things way more complicated when you have an action in both tort and contract
+- This would allow the burden to shift depending on which action is being argued at the time, whether the tort action or the contract action

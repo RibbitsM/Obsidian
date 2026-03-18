@@ -1,0 +1,11 @@
+- Shared access to food and areas for obtaining food is the primary moral standard for Coast Salish communities
+- Traditional to cooperate across tribe and language differences to share access to resources
+- Rights to hunt and fish can come from family relationships, previous residence, and inter-tribal/family agreements
+- Extends affiliation beyond band membership and into the realm of extended family and ancestral title
+- Community for the Salish is determined both by kin networks and the modern political bodies representing villages and tribes
+- Family ties can change over time in response to marriages, adoptions, moving residences, and other life events
+- This is not an open commons system, just a flexible notion of what "community" means
+- Many of these life choices are made intentionally to develop new connections and resources or make ties between communities
+- Modern version ties individuals too closely to just one area
+- State does not recognize the systems of land tenure used on the ground and demands affiliation with one group only, no dual citizenship system for bands
+- 

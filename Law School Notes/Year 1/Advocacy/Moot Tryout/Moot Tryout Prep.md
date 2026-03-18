@@ -1,0 +1,51 @@
+#### The Province of British Columbia and the City of Vancouver should not continue to subsidize the ‘Celebration of Lights’, a three-day firework festival.
+- Main argument is likely economic, the increasing production costs have rendered the festival non-viable
+- Whole argument hinges on the balancing between the need to distribute government funding appropriately and the benefit granted to the public
+- Organizers argued that the event brings in $4 million in economic activity annually
+- Can argue that this is a natural result of the economic situation
+- Where production costs are continually increasing, the government in within its right to switch it's priorities elsewhere, and unfortunately events are first on the cut list
+- We should respect their decisions, the government has the capacity and information to look at the pros and cons of this decision and determine the costs outweigh the benefits
+- Can start by outlining the costs and benefits of the festival and argue that the costs are too great
+- Framing of the argument should be based on a cost-benefit analysis, lets argue from the standpoint of the government
+- Couple main points we can focus on
+- First is the lack of support from other groups like private businesses and the federal government
+- Second is the overall condition of the economy and the need for austerity measures during an economic crisis
+- Third is that the government does not have any valid incentives to support the project
+#### Benefits
+- Two main things that people are arguing in support here
+- First is the social benefit, people like having a free firework festival they can gather and watch every year, plus it's been going on for 30 years
+	- Can argue that this is countered by social drawbacks
+	- Also this is a sunk costs fallacy, the amount of time it's been going on is immaterial
+- Second is the economic benefit, it draws in people to the city and generates revenue for businesses
+	- This is the hardest part, because there is no clear answer to whether the festival is a net financial positive for the government
+	- Event organizer does explicitly argue that cutting the event will hurt the governments tax base more than it benefits them
+	- Probably the best you can do is argue that there are more efficient ways for the government to generate revenue other than funding the festival
+#### Costs
+- Most obvious issue is the monetary costs
+- Event budget has spiked 35% since COVID because of inflation, tariffs, and the general suckiness of the global economy
+- Cost for the government seems to be around $300k per year or more
+- Another major issue is the lack of support from private sponsors, the government should not be expected to shoulder the burden themselves when there are better alternatives
+- Can see the opposition to this after the Vancouver City Council approved $2 million for a one-time fireworks festival a couple weeks ago
+- The most pressing concern for the government right now is dealing with the affordability crisis
+- This means freezing municipal property taxes, and setting an austerity budget that cuts programs not essential for affordability
+- Arts and culture programs are certainly desirable, but they should not come at the expense of general affordability
+- The federal government has also cut support for the event, which is outside the control of the province and the city
+- Support is dropping away on all fronts, so it is a pragmatic decision for the province and city to follow suit
+	- Can argue that they could lead the charge and try and rally support by making a significant contribution
+	- Not sure that this would actually work, and the government can't really afford to take that risk right now
+- Can also briefly consider the social costs, show that the show comes with drawbacks as well
+	- Puts a pretty significant burden on public safety as well, every year they have to deal with drunk and disorderly spectators
+	- Also an increased focus on public safety during events after the Lapu Lapu festival attack
+	- Every year the city tries to encourage people to take public transit, but traffic is still significantly hampered
+	- Issues with mismanagement as well, especially when it comes to the availability of porta potties
+	- Animal activists have also consistently pushed for a ban on fireworks in BC
+	- Stresses out and harms wildlife, plus the debris is often never collected and is eaten by marine life
+	- Also have been concerns raised that fireworks degrade air quality, UBC professor Michael Bauer mentions that studies show increases in cardiovascular deaths on days when firework events are happening
+- When it comes to incentives for the government, there are two main things to consider
+- First, it might actually increase tax revenue
+	- Main argument for this is advanced by the event organizers
+	- Government clearly does not agree with this assessment, and they likely have the greater capacity to properly assess this
+- Second, the public supports the festival
+	- Turns the festival into a bargaining chip for politicians
+	- Government may be more inclined to support public events on election years, this is what Sim is doing right now
+	- If the government is not willing to provide long-term support, it's better to drop the project altogether

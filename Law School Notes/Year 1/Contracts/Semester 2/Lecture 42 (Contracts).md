@@ -1,0 +1,52 @@
+### C. M. Callow v Zollinger
+- One of the first cases considering the duty of honest performance post-*Bhasin*
+- In this case, a group of condo corps called Baycrest started a 2 year maintenance contract and a separate summer maintenance contract with a maintenance company called Callow
+- Winter contract has a clause allowing Baycrest to terminate the agreement if Callow did not provide satisfactory service
+- Also allowed the agreement to be terminated for any reason with 10 day notice
+- Baycrest decided to terminate the agreement in early 2013 but didn't tell Callow
+- Callow negotiated with Baycrest, and believed the contract would be renewed for another two years, they indicated that they were satisfied with Callow's performance
+	- Court agreed that he reasonably believed that Baycrest would renew
+- Went above and beyond on the summer contract for no additional cost to hopefully encourage Baycrest to renew the winter agreement
+- Baycrest gave the notice of termination in September, in accordance with the decision that they had already made at the start of the year
+- Callow sued, arguing that Baycrest acted dishonestly and breached the duty of honest performance
+- Baycrest argued that they complied with the contract and not telling him certain things did not amount to dishonesty
+#### Decision
+- This case was actually even clearer than *Bhasin*, as Baycrest explicitly misled Callow by telling them that everything was fine and they were looking forward to renewing
+- Majority of the SCC found a breach of the duty of honest performance, and thus the contract
+- They had actively and consciously misled Callow regarding their satisfaction with the contract
+- Baycrest did not have to tell Callow when they made the decision to not renew, but they did have a duty to tell him when he explicitly asked them about it
+- By indicating that the contract would be renewed when they had no intention of doing so, this breached the duty of honest performance
+- Awarded damages for the value of the winter agreement for one year, and for the value of equipment Callow would not have leased if he knew the contract would not be renewed
+- Also awarded a small amount of money for an unpaid invoice on the summer contract
+### Wastech Services v Greater Vancouver Sewerage and Drainage
+- Relates to how good faith performance applies to the exercise of contractual discretion
+- If you can prove that the exercise of the contract was unreasonable or arbitrary, may have a claim for a breach of good faith
+- Wastech was a garbage disposal company had a long-standing contract with Metro, Crown corp for waste disposal in Vancouver
+- Agreement was that Wastech would remove and transport waste to three facilities
+- Wastech would be paid differently depending on which facility they were asked to take the waste to, depending on the driving distance
+- Did not guarantee that Wastech would make a certain profit in any year, and Metro had absolute discretion over which facility the waste went to
+- In 2011, waste destinations were reallocated to move some waste to a closer disposal facility, meaning Wastech would not reach its target operating profit
+- Argued that Metro breached good faith by using its discretion to reduce their costs to a point where Wastech had no possibility of meeting its targets
+- Started at an arbitrator and eventually went up to the SCC
+#### Decision
+- Court ruled in favour of Metro
+- Reinforced that you need to exercise discretion unreasonably, meaning in a manner disconnected from the underlying purpose of the discretion
+- Parties should exercise the discretion in accordance with the purposes for which the discretion was granted under the contract, if not it's a breach of good faith
+- If the discretion was used in a way consistent with the purpose, them that activity will likely be reasonable given the nature of the agreement within the parties
+- Even though the contract gave Metro absolute discretion, this is still limited by the duty of honest performance which you can't contract out of
+- Overall, Metro's exercise of discretion was reasonable considering the purpose of the discretion
+- They did not act arbitrarily or maliciously, the only thing they did was try to reduce their costs within the bounds of the discretion granted to them by the contract
+- No guaranteed minimum of the amount of waste that needs to be allocated, the purpose of the discretion was intended to maximize flexibility and minimize costs
+- There was also an existing framework to adjust payments to reach a negotiated level of profitability, but no express promise of a certain level of profit
+- Metro's decisions were informed by their goals of maximizing efficiency, preserving site capacity, and running the system in a cost-effective way
+- Wastech was effectively asking for a benefit they did not bargain for, which was a guaranteed level of profitability under the contract
+- Also was not in the contract, either implied or expressly
+### Recap
+- *Bhasin* recognized that several existing doctrines from contract law come from the underlying principle that contracts should be performed in good faith
+- Relates to things like unconscionability, certain contracts like employment, insurance, and tendering contracts, and other relates scenarios
+- Parties cannot sue on the basis of the underlying principle, you need to rely on one of the existing doctrines or try and recognize a new one
+- *Bhasin* also created a new doctrine stating that parties cannot lie or knowingly mislead each other about matters directly linked to the performance of the contract
+- According to *Callow*, this duty is a general doctrine and not a term of the contract so the parties cannot contract out of it even if they do it explicitly
+- According to *Wastech*, the same rule applies for the duty to exercise contractual discretion reasonably, can't be contracted out of
+- So far, these are the only good faith rules that have this status but there's probably more
+- 

@@ -1,0 +1,57 @@
+- Incident in this case was a car accident where the trial judge awarded damages for mental injury without expert testimony
+- Claimed that the appellant experienced a personality change after the accident, but did not have a recognized psychiatric condition
+- BCCA reversed, holding that you need a recognized condition
+- SCC held that claimants do not require claimants to show a recognized psychiatric illness to recover, and the courts should not start doing this
+- Should have the same standard as the one for physical injuries, which generally does not require expert evidence
+- Requiring expert evidence here would further the ideas that mental injury is lesser than physical injury
+### Mental Injury
+- Liability requires a duty of care, a breach of that duty of care, and damage that was caused in fact and in law by that breach
+- Only issue in this case was whether there was damage here
+- Specific issue is whether it's necessary to provide expert evidence or proof of a recognized psychiatric condition
+- Early common law did not generally allow recovery for mental harm, it was seen as imaginary harm
+- Even after this ban was lifted, suspicion remained and fear of physical injury was usually still required
+- One of the first recoverable mental injuries was "nervous shock" which was only claimable by certain classes of people
+- Need to consider the physical proximity to the original incident, and the ways that shock was caused
+- Also distinguished between people actually involved in the incident and people who witnessed the incident
+- This approach was really hard to apply and didn't have much of a sound foundation, was mostly disregarded
+### Mustapha v Culligan
+- The SCC did not use either of these approaches, instead they focused on the core elements of negligence
+- Each of these elements can potentially disqualify people from recovering
+- First, not all claimants will have the relationship of proximity to the defendant necessary to establish a duty of care
+- Also, not all conduct causing mental harm is a breach of the standard of care
+- Likely the most crucial distinction here is that not all mental disturbances meet the standard of "damage"
+- Court held that you need a serious and prolonged disturbance above the normal annoyances of life
+- Finally, not all mental injury will be caused by the conduct of the defendant
+- This is the element that *Mustapha* failed on, the damage was too remote compared to the defendant's breach
+- Shows that even where all the other elements are established, we still need to consider if the mental injury was reasonably foreseeable
+- Same requirement applies to physical and mental injury here
+- Based on this case, we can see that the elements of negligence are already enough to determine what is and is not mental injury
+- Concerns about symptoms being subjective or fake can be determined by the triers of fact who already have to deal with issues of credibility
+- Also, the requirement of a duty of care means that the decision in *Mustapha* implies a common law duty to take reasonable care to avoid causing foreseeable mental injury
+- Don't need to restructure the analysis of duty of care to include these weird considerations for nervous shock
+- [[Donoghue v Stevenson]] version of proximity is enough
+### Recognized Psychiatric Illness
+- Recall that the main issue was a requirement of a recognized psychiatric illness
+- This likely came from an English case called *Hinz v Berry* where Lord Denning explicitly required this
+- This has been adopted fairly widely despite some resistance, this is the threshold for injury in the UK, Australia, and new Zealand
+- Effectively places the determination of mental injury in the hands of the psychiatric industry
+- Means that what qualifies as mental injury is anything in the DSM or the ICD (the WHO version)
+- This is an inherently suspect way to determine legal liability, courts should not be concerned with diagnoses, just the symptoms and effects
+- Also, this raises the question of whether you need to be able to reasonably foresee a specific psychiatric illness
+- We should not be relying on a legally irrelevant classification scheme designed for medical applications
+- This has previously been justified for requiring some level of objectivity to prevent indeterminate liability, but this is probably an overstated concern
+- The DSM and ICD are also constantly changing, for example homosexuality used to be a mental disorder in both
+### Conclusion
+- Overall, it seems that just applying the elements of negligence will be enough to avoid indeterminate liability
+- Where medical knowledge is expanding and changing so much, it doesn't really make sense to distinguish between physical and psychological injuries with different tests
+- Nervous system is a part of the body too, and there is usually a physical disturbance associated with mental injuries
+- It is true that mental injury is often harder to prove objectively in court, and must go beyond mere psychological upset
+- The serious, prolonged, and above normal annoyance requirement is not a distinct treatment of mental vs physical injury, it's just part of proving what mental injury is
+- Expert evidence can certainly be useful for determining if there is a mental injury, and in some cases not doing so will make your case fall short
+- However, as a matter of law, it is not required as evidence
+- Trier of fact always has the choice of finding that the non-expert evidence is enough to prove mental injury on a BOP, or that the defendant has rebutted the claim
+### Application
+- Finding of fact was made that the appellant suffered psychological injuries including personality change and cognitive difficulties
+- This has harmed his close personal relationships, and these findings have not been challenged on appeal
+- No legal error in the treatment of this evidence, and the symptoms seem to fit the requirements from *Mustapha*
+- Overall, the appeal should be allowed

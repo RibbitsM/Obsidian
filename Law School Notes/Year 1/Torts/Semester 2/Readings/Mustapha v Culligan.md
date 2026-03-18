@@ -1,0 +1,21 @@
+- Plaintiff sued for psychiatric injury after replacing an empty water bottle and seeing a dead fly in an unopened replacement bottle
+- Became obsessed with this event and was very concerned for the health of his family that had been drinking this brand for 15 years
+- As a result, he developed a major depressive disorder and an associated phobia and anxiety
+- Court did not allow the lawsuit 
+### [[Saadati v Moorhead#Mustapha v Culligan|Analysis]]
+- Refer to the link for most of the analysis
+- Court noted that psychological injury is distinct from mere psychological upset
+- Mental injury requires a serious trauma or illness, not just disgust, anxiety, agitation or other mental states less than injury
+- Established that the standard for mental injury is a serious and prolonged disturbance above the ordinary annoyances, anxieties, and fears of regular society
+- Referred to [[Wagon Mound No 1]] as the standard for remoteness, and applied the reasonable foreseeability test
+- Main issue was whether the standard was objective or modified objective, found that it was a purely objective test
+- Rationale for this is that the question is what a person of ordinary fortitude would have suffered in the circumstances
+- Unreasonable to find reasonable foreseeability because the plaintiff was unusually susceptible to mental injury
+- Line for compensable damages has been clearly drawn at reasonable foreseeability, and it should stay there
+- However, we can tweak the requirement a bit where the defendant knew that the plaintiff was particularly vulnerable
+### Application
+- This exception does not apply, as there was no evidence that the Culligan company knew of Mustapha's heightened sensibilities
+- To secure compensation, Mustapha would have had to show it was foreseeable that a person of ordinary fortitude would have reacted in the way that he did when seeing flies in an unopened bottle of water
+- Trial judge applied a subjective standard taking into account the plaintiff's previous history and circumstances
+- This was an error of law, the proper standard was reasonable foreseeability on an objective standard
+- Therefore, his claim must fail

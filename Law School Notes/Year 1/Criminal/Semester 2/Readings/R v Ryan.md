@@ -1,1 +1,2 @@
-- to do
+- Issue is whether a wife threatened by her abusive husband can rely on the defence of duress when she tried to have him killed
+- 

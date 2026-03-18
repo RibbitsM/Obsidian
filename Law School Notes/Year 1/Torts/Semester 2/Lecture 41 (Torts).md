@@ -1,0 +1,119 @@
+### [[Hughes v Lord Advocate]]
+- Recall that this was the case where the kid fell down the manhole after a lantern caused an explosion
+- Manhole had been left covered with a tent with warning lamps around it by two workers who were on their break
+- Two kids went into the tent, bringing the lamp to explore the manhole
+- One accidentally dropped the lamp down the manhole, caused a huge explosion that caused them to fall into the manhole and incur severe burns and other injuries
+- Initial trial said the harm was not foreseeable, went to the House of Lords
+- Court focused on the type of injury, they were injured by burns
+- Even though the extent of the damage was not foreseeable, the defendants could have foreseen that the plaintiffs could have been injured by fire
+- Tent was dark, boys would have taken the lamp with them or otherwise would have been tempted to mess with it
+- Principle is that as long as the type of harm experienced by the plaintiff was foreseeable, the extent of the damage doesn't matter
+- An intervening event or new factor could have been the cause of the accident, but there was no intervening act here
+- Lamp was a known source of danger, and while it behaved unpredictably, it was foreseeable that the boys would injure themselves with fire by breaking the lamp
+- Unforeseeability of the manner in which the incident occurred is not a defence, as long as the type of the injury was foreseeable
+- Don't need to be able to foresee the precise way the accident happened, it's sufficient if the accident was of the type a reasonable person could have foreseen
+- The unique manner in which the accident occurred was a non-essential element in the dangerous situation caused by the paraffin lamp
+- Same goes with the extent of the harm, explosion was immaterial
+- Real question was whether the igniting of the paraffin outside the lamp a foreseeable consequence of the defendants' breach of duty
+### Lessons
+- Always focus on the original injury, and the type of the injury
+	- Think about [[Smith v Leech Brain]], don't need to predict how the burn became cancer
+	- Do not focus on the extent of damage or the precise manner of its occurrence
+### Intervening Acts
+- How would this case have panned out if after the workers left the manhole, something or someone introduced a new element of the case?
+- Someone walking down the street moves a lamp, or removes the tarp, revealing the manhole
+- These actions would encourage the plaintiffs to go explore the manhole, may be a novel intervening act that breaks the chain of causation
+- Could also be someone pushing the child into the manhole, anything that creates a risk
+- Defendants still had a duty that was breached, failing to meet the standard of care
+- But if the third party's actions were a break in the chain of causation, may be able to escape liability
+- Recall that we call this a *novus actus interveniens*, may make the injuries too remote for the plaintiffs to seek compensation
+- There are three main effects of an intervening act
+	- Relieves the defendant of liability for the injury
+	- Defeats the plaintiffs claim
+	- Constitutes a complete defence for the defendant
+- These are all pretty much the same thing, but it's good to consider them separately
+- Principle is that it's unfair to hold the defendant liable in these circumstances, despite the fact that the defendant still breached their duty of care
+- If it's a case where there is still injury based on the defendants conduct and the plaintiff's condition was later worsened by a third party, only liable for the original damages
+- However, if the intervening act is still within the foreseeable risk created by the defendant's negligence, then it will not break the chain of causation
+- Think about *Larsen v Wilson*, the injury caused by the physiotherapy program was within the foreseeable risk, because it follows that a car accident victim would need physiotherapy
+#### Second Accident
+- In this scenario, the negligence has already occurred and injury created, but then the plaintiff is injured again after the accident
+- Can be an accident while exercising, or complications from a necessary surgery
+- Test for this is reasonable foreseeability, coming from [[Wagon Mound No 1]]
+### [[Bradford v Kanellos]]
+- Husband and wife were eating at a restaurant, when a stove in the kitchen caught fire after too much grease accumulated on the grill
+- Automatic fire extinguisher activated immediately, but another person in the restaurant heard the hissing noise from the extinguisher shouted "gas"
+- Another person, or the same person, then shouted "it's going to explode", everybody panicked and in the resulting chaos, the wife was knocked to the ground and injured
+- Defendant acknowledged that they had been negligent in allowing the grease to accumulate on the grill, but they had taken steps to prevent injury from a fire
+- Argued that the person causing the panic was a *novus actus interveniens*
+- However, the trial court found that this exclamation was a foreseeable consequence of a fire starting in a restaurant kitchen
+- Therefore, the panic was within the risk created by the defendants' breach
+- On appeal and at the SCC, the court rejected this argument, saying it wasn't foreseeable
+- Defendant had already got the initial situation under control by the time the wife was injured
+- Act of the restaurant patron was an intervening act, and the wife's injuries were attributed to them, not the restaurant
+- Makes no sense to punish the restaurant for having a well-functioning extinguisher
+### Dissent
+- Argued that a reasonable person would understand that people would panic in a situation like this, so the injury was entirely foreseeable
+- This was a natural consequence of the events, the noise did sound like a gas leak and you had just seen a fire erupt from a stove
+- As long as the intervening event was part of the natural course of things, causation preserved
+- Doesn't matter if the intervener was acting negligently or not
+- In that case, the plaintiff has the choice of suing the initial defendant or the intervener
+- Overall ratio is that the actions of a third party need to be reasonably foreseeable to preserve the chain of causation
+### [[Larsen v Wilson]]
+- Plaintiff was injured in a car accident, suffering neck, shoulder, and back tissue injuries
+- These injuries cleared up, but the plaintiff injured herself while warming up for a physiotherapy exercise program she was doing for the original injuries
+- Medical evidence showed that this injury was completely disconnected
+- Court pointed to [[Athey v Leonati]] to how that the defendant does not need to be the sole cause of the injury, liable even though their act alone was not enough for the injury]
+- This is a classic example of an injury being worsened
+- Court said it doesn't matter if the cause of the injury was non-tortious, as long as the injury was a reasonably foreseeable consequence, can establish liability
+- Plaintiff pointed to a case called *Papp v Leclerc* where the plaintiff had to get surgery after a car accident and suffered an unrelated injury from the surgery
+- Held that any tortfeasor causing injury to a person that leads them to seek medical help needs to assume the inherent risk of any complications
+- There is always a risk of medical error, even if the doctor does not act negligently
+	- If they did act negligently, defendant would only be liable for the original injury and the doctor is liable for the injuries they caused
+- **Cite this case on the exam if you need to make this point**
+- Court put special importance on the fact that the plaintiff's exercise regimen was entirely reasonable, and the injury came from no carelessness on their part
+- Doesn't matter that the injury was unrelated to the original injury, you had to go to a physiotherapist to get treatment **because** of the original injury
+- Also pointed to another similar case called *Deibert v Giddings* where a plaintiff was injured during physiotherapy after a car accident
+- In that case, their original injury was exacerbated, but this principle still applies
+- Overall, the plaintiff injuring their knee during physiotherapy is part of the inherent risks and dangers of medical treatment
+## Mental Injury
+### [[Mustapha v Culligan]]
+- Canadian law imposes liability for foreseeable mental injury
+- Question in this case was whether mental injury was a reasonably foreseeable consequence of the defendant's breach
+- Plaintiff had been using bottled water from the defendant for years, and one day found a dead fly in a replacement water bottle
+- Became extremely worried about the health of himself and his family, and developed anxiety and a depressive disorder
+- Court found that this injury was not reasonably foreseeable, the damages were too remote
+- Defendant owed the plaintiff a duty of care, they were a customer ([[Donoghue v Stevenson]])
+- Standard of care breached, need to make sure your product is not contaminated
+- Damage was proven, the plaintiff suffered from significant psychological disturbances
+- Court found that this rose to the level of personal injury, not just mere disgust
+- Said that compensable injuries need to be serious and prolonged, can't just be minor or transient disturbances that are part of ordinary life
+- The depressive disorder suffered by the defendant did qualify as a personal injury
+#### Causation
+- Causation was also established, the negligence of the defendant caused the injury in fact, but was there causation under the law?
+- Going back to [[Wagon Mound No 1]], injury needs to be reasonably foreseeable
+- When applying this test, we need to consider the objective person of ordinary fortitude, we're not considering the subjective situation of the plaintiff
+- Therefore, what would a person of ordinary fortitude would have done in this situation
+- Held that the law expects reasonable fortitude from all people, and will not impose liability for unusual and relatively extreme reactions to minor disturbances
+- How was the defendant to have known that this breach would cause psychological injury
+- Where the defendant did have knowledge of the plaintiffs sensibilities (actual or constructive), then we can loosen the test a little
+- No evidence of this kind of knowledge, injury still not reasonably foreseeable
+- Because the plaintiff's reaction was so unusual and specific to him, could not establish foreseeability of harm
+- Attempt made to apply a subjective test, and consider the previous history of the plaintiff who was obsessed with cleanliness
+- This claim failed, we need to use the ordinary person test
+- Thin-skull rule still technically applies here, the question is solely what the defendant could have foreseen
+- Certain things are foreseeable, and that will include mental injury in some cases
+- Remember that we are focusing on the foreseeability of the type of harm
+### [[Saadati v Moorhead]]
+- Plaintiff experienced psychological injuries as a result of a car accident
+- Claimed the accident caused personality changes and cognitive difficulties, but this was based on ordinary testimony, had no recognized medical harm
+- Defendant found liable at trial, but was overturned on appeal
+- Question was whether or not the plaintiff needs to prove a medically recognized illness or condition with expert evidence to establish harm
+- SCC rejected the arguments made on appeal
+- Said that the plaintiff only needs to show evidence of a serious and prolonged disturbance above the level of ordinary harms based on the decision from *Mustapha*
+- Don't need to provide expert evidence to recover for mental injury, can recover harm for mental harm not identified in the DSM or ICD
+- Occurrence of the mental injury still needs to be proven on a BOP
+- Defendant does not need to foresee the precise psychiatric illness, as long as they could have foreseen that mental injury would result
+- Court also raised concerns that we should treat mental and physical harm similarly, if we do not require expert evidence for physical harm, should not need it for mental harm
+- Don't want to perpetuate scepticism on the validity of mental injuries
+- As long as the injury is serious and prolonged and above the level of disturbances or annoyances in ordinary life, it's good enough for harm

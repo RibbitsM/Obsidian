@@ -1,0 +1,42 @@
+- Two kinds of co-ownership: joint tenancy and tenancy in common
+- Joint tenancy is based on the idea that two or more people are owning the same interest together
+- Each person holds the whole interest jointly and nothing separately
+- Creates something called the four unities
+	- Unity of possession shows that each tenant is entitled concurrently to possession of the land
+	- Unity of interest means that each tenant has the same interest in terms of extent, nature, and duration
+	- Unity of title means that each tenant's title is derived from the same document or source
+	- Unity of time means that each tenant's title must vest at the same time, doesn't apply to tenancies created by will or conveyance through a use
+		- Example would be a gift to two unborn children, don't need to be born at the same time to get it
+- Right of survivorship is the right of surviving tenants to take the interest of a deceased joint tenant
+	- This does not actually transfer any interest, the joint tenancy just lives on with one less person
+### Tenancy in Common
+- Joint tenancy can be converted into tenancy in common through the process of severance
+	- This basically just means there is no right of survivorship
+- Severance cannot be effected by will, joint tenants can't devise their interest in the property through their will
+- Other difference with tenancy in common is that it only requires the unity of possession
+- In this system, the tenants have distinct and separate interests
+- As mentioned earlier, tenants in common lack the right of survivorship, you can pass on a common tenancy via a will
+### Other Forms of Co-Ownership
+- Two main kinds, tenancy by the entireties, and coparcenary
+- Both of these pretty much don't exist anymore
+- The first one used to apply to married persons, because at the time married couples were considered to be a single person under the law
+- This kind of tenancy was unseverable, meaning the right of survivorship could not be defeated
+- Explicitly abolished in some jurisdictions, and others did this through implied means like diminishing the unity of married couples
+- Coparcenary is where land was granted by will to multiple people
+- This is explicitly banned in Ontario, these cases create a tenancy in common instead
+## Common Law Presumptions
+- We presume joint tenancy at common law as long as the four unities are met and there is no clear intention to create tenancy in common
+- Three cases where equity presumes a tenancy in common
+	- First example is where multiple people advance money on a mortgage
+	- Second is where business partners hold property together, presumed to be tenancy in common
+	- Third is where the price of the property is paid unequally
+		- This creates shares in the property proportionate to how much each party paid
+- When we apply statutory law, this would mean that the parties are legally joint tenants but hold the title intrust for themselves as tenants in common based on the price proportions
+- Where there is equal contribution but the title is under one party alone, seems that A would hold the title in trust for both of them
+- However, we don't know if this is joint or common tenancy
+- Australian law says that they are tenancies in common, can argue that this is how it works in Ontario because of s. 13 of the *Conveyancing and Law of Property Act*
+- This provision specifies that where land is granted to multiple people, presume that they are joint tenants
+- However, s. 14 says that where land is vested to multiple people who are beneficially entitled, presume tenancy in common
+- Same thing happens when multiple people get land through length of possession
+- Section 13 only applies to land, so the common law presumption is not actually altered
+- Where there is a gift of both land and chattel, presume joint tenancy for the chattel and tenancy in common for the land

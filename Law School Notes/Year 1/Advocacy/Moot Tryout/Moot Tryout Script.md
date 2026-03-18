@@ -1,0 +1,52 @@
+- The Province of British Columbia and the City of Vancouver should not continue to subsidize the ‘Celebration of Lights’, a three-day firework festival
+- The appropriate way to consider this issue is to look at the costs and benefits of the festival
+- Costs outweigh the benefits for the following reasons
+- First, the economy is in a crisis, and austerity measures are being put into place
+- Second, the festival is losing support from private businesses and the federal government
+- Third, the government lacks a valid incentive to support the project
+#### Economic Conditions
+- Regarding the first issue, the Canadian economy is currently experiencing a major affordability crisis
+- Means that the government is imposing austerity measures and cutting back heavily on things like arts and culture
+- Can see this in the recent Vancouver budget, which focused on freezing property taxes and cutting programs to increase affordability
+- Unfortunate truth is that arts and culture programs are not the priority right now, affordability is the main concern
+	- Can argue that the festival is a net economic positive for the city
+	- This argument is mainly being advanced by the event organizers, they have an obvious bias in this situation
+		- Also conflicting evidence on the amount of tax revenue, some say it raises $4 million annually, some say it was $264 million over 5 years, much higher
+	- Government would not have made this decision without considering this, if it truly did increase tax revenue they would have little reason to oppose it
+	- Without clear evidence that they did this analysis improperly, we shouldn't question this aspect of the decision
+- Undeniable that these program create social benefits, but they have to take a backseat to economic concerns in a crisis situation
+#### Lack of Support
+- While the contribution from the city and province has not historically been very high, other actors are already pulling out
+- If the province and city continue to subsidize the event, they're going to have to make up for that significant gap in funding
+- Can't do this because of the previously mentioned austerity measures
+- Couple weeks ago, the city council approved funding for a smaller, one time fireworks festival that triggered significant backlash
+- Councillors were speaking out against the decision, pointing out that this was a misappropriation of funds when staff is getting cut
+- The business model of the celebration already failed, and the city has committed itself to austerity
+	- If they ask a question about this, go to the political bargaining chip argument
+- Pragmatic decision in this situation is to follow the other actors in withdrawing funding and diverting it elsewhere
+	- Can argue that if the province/city led the fight, then others would follow suit
+	- Not clear that this actually work, can't afford to take the risk
+#### Government Incentives
+- First incentive for the government is that it will increase tax revenue
+- Same argument as before applies here, unclear whether this is true and the government is the expert on the matter
+- Second is that the public supports the festival
+	- Seems to be true overall, but there are still people who have concerns
+	- First is the complaints about the overcrowding
+	- Consistent issues with people being unable to get around, lack of formal spectator areas creates further issues
+	- Second is the public safety concerns
+	- No major incidents, but the police still have to deal with drunk and disorderly conduct every year
+	- Also the costs of event safety have risen dramatically because of concern surrounding a repeat of the Lapu Lapu incident
+	- Finally, there are significant concerns regarding the environmental impact of the festival
+	- Animal activists point out that the noises stress out and harm pets and wildlife, and even outright kill birds from the blasts
+	- Also evidence that fireworks degrade air quality, UBC professor Michael Bauer points out it increases cardiovascular deaths
+- Besides this, public support simply turns the festival into a political bargaining chip that can be pulled out on election years
+	- This is what Ken Sim is doing right now and it's messing with the the budget, committed $2 million for one show
+- Even if the government does agree to fund it one year, unlikely that they would be willing to commit to long-term support
+- Better to drop the project altogether if it's not getting the support that it actually needs
+### Conclusion
+- The benefits of the festival are clearly outweighed by the costs
+- In a situation like Canada is in now, we have to focus on making pragmatic economic decisions
+- The festival is not financially viable, and everyone involved except for the organizers seems to recognize this
+- Money is better diverted to other programs
+- While it does seem the public supports the festival overall, this support is still hampered by lingering concerns
+- The Province of British Columbia and the City of Vancouver should not continue to subsidize the ‘Celebration of Lights’, a three-day firework festival

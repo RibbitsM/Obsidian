@@ -1,0 +1,7 @@
+- First issue is whether the four unities rule is still important
+- Points out that the unities of title, interest, and time are pretty much useless in the modern land system
+- Unity of time is already weakened to allow for joint tenancies created by will, and unity of interest can be broken to make unequal sized interests in joint tenancy
+- Removing these three eliminates all distinctions between joint tenancy and tenancy in common except for the right of survivorship
+- In light of this, the BCLI also recommends just referring to co-ownership with and without the right of survivorship
+- Can apply this retroactively so any transfers to joint tenants just create co-ownership with survivorship
+- 

@@ -1,0 +1,41 @@
+- Basic standard for damages in contracts is expectancy damages, or compensatory damages
+- Basically same as torts, seeks to put the plaintiff in the position they would have been in without the breach of contract
+- Other options are court orders like specific performance or injunctions
+- This is only the starting point, can calculate damages in many different ways
+- Also, we're assuming that the established issue is a breach of contract, recall that regardless of the type of breach, can sue for expectancy damages
+- Granted, some kind of breaches will be so minor that the expected profit is nominal, but generally these kinds of cases are just not brought to court
+- Also multiple ways to calculate damages other than expectancy:
+	- Reliance damages are based on expenses incurred in reliance on the contract
+		- Main reason to use these is where expectation damages cannot be proven, usually the second best option that lawyers will go for
+	- Restitution is where the breaching party has to give the plaintiff back some benefit that they were granted due to performance of the contract
+		- Especially important for cases where vitiating factors are at play
+	- Disgorgement is giving back to the plaintiff profits the breaching party generated through a breach of contract
+		- This is pretty rare, really only happens where the breaching party got some kind of profit specifically through breaching the contract
+	- Punitive damages, similar to torts, are awarded to denounce particularly malicious conduct
+		- Mainly applies in the employment context, can be awarded if the employer breached their good faith obligations and terminated an employee maliciously
+	- Finally, penalties/liquidated damages apply where contracts have a term that specifies a set amount of compensation available in the event of a breach
+		- Courts will not always follow these clauses, but generally as long as the damages amount is reasonable and not arbitrary, courts will honour them
+## Expectancy Principle
+- This is by far the most important standard when it comes to determining damages
+- Core idea behind the principle is proving the plaintiff with a monetary equivalent to performance and restoring them to their original position
+- Difficult to do in some cases because it's an inherently forward-looking principle
+- Classic statement of the principle comes from *Robinson v Harman*
+### Examples
+- For example, say you are trying to build a house and paid 3 million dollars and expected to recoup 1 million through the contract, damages will be 1 million
+- Paid the original builder 2 million, they dipped out and you needed to pay an additional million to get a new builder to finish the job
+- This is the principle behind calculating damages for wrongful dismissal, you were expected to work during the notice period so damages are based on wages earned during the notice period
+- Where a seller refuses to deliver some goods, then the damages are based on the difference between the contract price and the market price to get the goods elsewhere
+- If the goods were being bought to resell, then the supplier may be liable for any loss of profits created by their failure to perform the contract
+- Applies to a failure to deliver the goods, or for delivering defective goods
+- In many cases, plaintiffs will have to bring in expert evidence to support these claims, especially when they were dealing in a specialized industry
+- However, you can still make an argument without this evidence, may be more difficult
+### Breach on Buyer Side
+- Where the buyer of goods breaches the contract, seller needs to show that they would have made profit on that specific contract
+- Need to first show that the contract price with the buyer was higher than the market price
+- If they can show this, then the seller can recover the difference between the prices
+- However, where the contract and market price is the same, can't show a clear profit
+- Even in these cases, if the seller has access to a supply of goods more than the potential demand, can still recover some profit they may have made on that sale
+- Easy example for this is with car dealers, even if a deal to sell a car fell through and they sold the same car the next day, they could have sold two cars instead of one
+- Dealer lost a "volume in sales", and can recover the profit for selling two cars, not one
+- Also applies where you get a commission on the sale, same principle
+- Keep in mind that this only really applies when you have that mismatch between supply and demand, if you can sell all your goods regardless, you suffered no loss

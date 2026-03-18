@@ -1,0 +1,46 @@
+- One of the main issues with [[R v Ryan]] is that her case seems to demand some kind of defence, yet her actions don't fit neatly into necessity, duress, or self-defence
+- Accused ultimately chose to frame her case through the lens of duress, and the court doesn't really object to this choice, only the facts of the case
+- Not until the case goes to appeal where the courts start to mention that this is outside of duress, since duress requires a threat **to** commit a certain offence
+- Ryan may have been forced into hiring the hitman, but she made that choice herself, nobody was specifically forcing her to do that
+- Doesn't fit self-defence either, mainly because you have to be the one defending yourself
+- Raises the question of why self-defence is a justification, while duress and necessity are excuses
+- Traditionally, there was a difference between a justification and an excuse because an excuse would only limit your sentence from death to time served, while justification got an acquittal
+- Self-defence is a justification because you effectively did no wrong, your actions were only committed to prevent harm
+- Duress and necessity acknowledge that what you did was wrong, but due to the factors of human frailty the court says that you should not be punished regardless
+- Self-defence is also codified, while necessity is purely common law and duress is a weird mix of the common law and statutory elements
+- Is it wrong to allow the narrow defences of duress and necessity to serve as a backup for the more broad codified defence of self-defence?
+- In the end, the court found that as long as we believe the story of the accused, they should still be convicted because they committed a crime, and have no available defence
+- Recall that they did not actually convict, and deemed the case to be an abuse of process
+- Another major issue was that the Crown was really trying to challenge the findings of fact to argue that the accused was never abused, the court did not like that at all
+### QnA
+- Use the definition of duress in *Ryan* for the elements of duress
+- Seven requirements listed in that case
+	- Must be a threat of death or bodily harm against the accused
+	- Accused must believe the threat is carried out
+	- Offence cannot be on the list of excluded offences
+	- Accused cannot be a party to a criminal association which would subject them to compulsion
+	- Cannot have a safe avenue of escape
+	- Must be a close temporal connection between the threat and the offence
+	- Harm inflicted must be proportionate to the harm threatened
+## Exam Practice
+- When you get to the essay questions, remember to pick one and only answer that
+- Also don't sacrifice time on the essay questions, make sure you have at least the recommended time to answer the questions
+- Biggest mistake here is focusing too much on opinion, the focus should be on the policy debate the question is referencing
+- Explain what you know about the topic, for example explain how the defence of automatism works and show how it has been applied in the past
+- Not looking for any particular answer, just looking for a good explanation of the issue and debate surrounding the issue
+- Opinion does have a place in your answer, but need to balance that with the content
+- Recall that the purpose of these kinds of questions is to show your knowledge
+- Still need to come to a conclusion in the end, but the focus is more on explaining the debate
+### Exam Question 1
+- Issue is whether a drunk lady can be charged for theft after picking up a closed engagement ring box off the ground after its owner was injured
+- Main defence is going to be intoxication, theft is a specific intent offence so it can apply
+- Need to list out the elements of theft, see if they can be proven on the facts, and then list the elements of intoxication and see if it has an air of reality
+- Only case we have that applies here is [[R v Tatton]], most of the other ones dealt with extreme intoxication
+- Will also need to prove that theft is a specific intent offence, stated pretty clearly in the *Code*
+- Can tie the defence of intoxication to challenge the existence of *mens rea*
+- The defence, if successful, would grant an acquittal given there is no included offence here
+- This is also a common law defence btw, extreme intoxication is statutory
+- Could also argue mistake of fact, accused may not have known that the ring box belonged to the guy who got hit by the bus
+- In terms of what we need to know, would be important to know how intoxicated she was
+- Also, anything relevant to intention to deprive would be important, did she see that it fell out of his pocket, and what was she going to do with it?
+- 

@@ -65,7 +65,7 @@
 - In this case, we know that hospitals are not considered part of the government because of the decision in *Stoffman*
 	- This was another retirement age case regarding VGH
 - In that case, hospitals in the province had a variety of retirement policies, but in this case it's different
-- The *Hospital Insurance Act*is designed to give services to the public, and those services are determined by the government
+- The *Hospital Insurance Act* is designed to give services to the public, and those services are determined by the government
 - Basically uses hospitals as a vehicle for delivering a range of medical services paid for by the government
 - Based on the private insurance model, but is more like a government service
 - For the Medical Services Commission, the government was basically delegating their power to determine what's medically required
@@ -87,4 +87,3 @@
 - Majority held that Dolphin was not actually related to Purolator, and the injunction was reasonable limit on the right to picket (s. 2(b))
 - Also decided on the issue of whether the Charter applies to the common law
 - Said that yes it does, but it doesn't apply when it comes to litigation between private parties
-- 

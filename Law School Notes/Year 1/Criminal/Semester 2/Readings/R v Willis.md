@@ -1,1 +1,91 @@
-- to do
+- Accused was convicted for first degree murder for killing a woman named Kaila Tran
+- Accused was facing death threats related to a drug debt, and was threatened into killing Ms. Tran by the drug dealers
+- Raised the defence of duress, arguing that the prohibition under s. 17 was an infringement of s. 7, unsuccessful at trial
+- Issue for this case is whether the prohibition against raising duress for murder as a principal or co-principal is a violation of s. 7
+- Accused had quit university to sell cocaine in Manitoba, at one point he was caught by the police and had a shipment of cocaine seized
+- Went into debt to the criminal organization, and could not pay it off
+- Family told him to go to the police but he refused even after being shot at and beat up by members of the criminal organization
+- Kingpin also threatened his family implicitly, but still did not call the police or warn his family
+- Decided to kill Ms. Tran instead, this didn't even clear his debt
+## Constitutionality of Section 17
+- Section 17 is basically codifying the common law rule that duress does not apply to murder
+- Initially, the House of Lords allowed this in a case called *Lynch*, but later overruled that decision unanimously in *Howe*, the law hasn't changed since
+- Still some cases from appeal courts in Alberta, BC, and Ontario that allow this
+- There is no consensus on how duress works for murder, there have been multiple reasonable discussions that came to different conclusions
+### Trial Judge's Decision
+- Rejected the argument is inconsistent with the PFJ of moral involuntariness for three reasons
+	- First, this principle also deals with proportionality, and this is never proportional
+	- Second, human life is inviolable and has intrinsic value, we must protect the sanctity of life
+	- Third, there is wide societal consensus that duress doesn't excuse murder
+- Declined to follow an Ontario case called *Aravena* where three accused were lookouts and cleaned up the scene of a mass murder
+- Court of Appeal argued that duress could apply here, and made an *obiter* comment saying that the s. 17 exception is probably also unconstitutional
+### Hale's Definition
+- Argues that in a kill or be killed situation, you have two legal options if you cannot escape
+- Either attack your threatener in self-defence or sacrifice your life
+- If you don't make one of these choices, you can be convicted for murder
+- Based on the principle of moral absolutism, no one may take a life except in self-defence
+- This principle was reflected in *Dudley and Stephens*, the boat cannibals case
+- Court in that case said necessity was not available, and relied partly on Hale's reasoning
+- Basically took the view that a person cannot murder an innocent person to avoid harm
+- Main problem is that the person deciding to commit murder is granted the power to determine whose lives are worth living and whose are not
+### Other Common Law Jurisdictions
+- Four main approaches to the relationship between duress and murder
+- England and some parts of Australia rely entirely on the common law and Hale's rule
+- New Zealand, other parts of Australia, and the US have codified Hale's rule into law
+- Some US jurisdictions allow duress for felony murder, which is the same way that Canada worked until felony murder was removed in *R v Logan*
+- Third option is to allow duress for any offence, this is how Texas and West Australia work
+- Final option is a hybrid approach, making it a partial defence like provocation
+- Shows that Hale's rule is still relevant, and any reform of the rule has mainly been done by the legislatures, not the courts
+### Purpose of the Challenged Law
+- Seems that the purpose was to codify Hale's rule as law, but what exactly does that mean
+- We know that there is a general prohibition against allowing people to balance a life against another life
+- As mentioned in *Dudley and Stephens*, this ultimately means that the most vulnerable person in the situation will be the one who loses out in that balancing act
+- This is the point of the law, to protect the vulnerable and prevent people from judging the value of the lives of others
+- Self-defence is different because the victim invited the factors leading to their death
+- Overall, seems that the purpose is to prevent anyone from being able to decide who should live or die, with the exception of self-defence
+- Recall from [[R v Ruzic]] that a lack of a defence will not violate s. 7 if that defence would excuse the very evil which the offence seeks to punish
+- Can argue that the harm caused is the same harm the offence of murder prohibits
+- Court says that this does not decide the appeal, but shows that the prohibition is probably not overbroad or a violation of moral involuntariness
+### Proportionality
+- Recall that to determine if the PFJ was violated, we need to see if the accused had any realistic choice whether or not to break the law
+- Seems that they do, in a "kill or be killed" situation you generally always have the option of self-defence, or sacrificing yourself
+- This is also assuming you have no way to look for escape or contact law enforcement
+- Can also argue that no reasonable person would fight back or sacrifice themselves, they would take the easiest path to preserving their life
+- However, this ignores the possibility that other options are usually available
+- Overall, the accused has not advanced evidence showing a lack of a realistic choice
+- Second thing to consider is the proportionality between harm inflicted and benefit gained
+- Trial judge did not err in considering this, it's a core part of moral involuntariness
+- Also did not err by considering competing social interests in this section instead of the s. 1 analysis, you can do this
+- When considering proportionality, need to take into account the fact that murder is a unique crime carrying the highest stigma and punishment afforded by law
+- Difficult to argue that the certain death of an innocent victim is a proportionate response to an uncertain threat of death
+- Also important to note that even after the killing, the accused was still at risk showing that choosing murder may not even dispel the threat
+- Court pointed to an ICTY case where the dissent argued that the accused saving their life at the expense of a victim will never be proportional
+- To determine this would require the judge to say that the death of one person was better than the death of another
+- Only exceptions come from the conjoined twins case, necessity applies in three cases
+	- First, where there is no question of choosing who has to die
+	- Second, where the innocent third party was somehow imperiling the lives of others
+	- Third, where the victim was destined to die regardless
+- These principles really only apply where the danger is natural, don't work for duress
+- Can also not argue that an innocent person will inevitably die in a duress case
+- Overall, the gap between the certain harm resulting from murder and the uncertain possibilities of a threat is too great
+- Trial judge was correct in saying that killing an innocent person can never satisfy the proportionality requirement of moral involuntariness
+- Therefore, s. 17 does not deprive a principal or co-principal charged with murder of their s. 7 rights
+## Issue Two
+- Crown argues that the verdict would be the same even if s. 17 was unconstitutional because there was no air of reality to the defence
+- Only relevant requirements here are no safe avenue of escape and no voluntary exposure to risk of duress by criminal association
+### Safe Avenue of Escape
+- Accused claimed that contacting the police was not a feasible option
+- Not enough, because this is assessed on a modified objective standard
+- Any reasonable person would have seriously considered going to the police
+- Accused had plenty of time to seek protection from law enforcement, and there is no reason to believe that this protection would be ineffective
+- Also pretty clear that he had other options too, there was a guy named Sunil Patel who had debt with the same organization and just left Winnipeg to avoid the debt
+- Accused also talked to his friend about other ways they could raise money after committing the  murder, showing that he always had options
+- Reasonable person would have tried this before killing someone
+### Exposure to Risk by Criminal Association
+- Generally, any person participating in a criminal association with the knowledge that their involvement could lead to coercion or threats can't argue duress
+- This is determined on a subjective standard
+- Also not available to someone who voluntarily puts themselves in harm's way
+- Defence was rejected in a similar case with another drug debt
+- Accused knew that his associates were violent, and still stayed with them
+- Accept the Crown's argument that the accused exposed himself to the risk of duress and cannot raise the defence of duress
+- Appeal dismissed

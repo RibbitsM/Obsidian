@@ -8,7 +8,6 @@
 - BCCA overturned this decision on the grounds that the trial judge did not apply a modified objective test, and only relied on the objective tests
 - Real test was whether the accused reasonably believed that they were in imminent peril and had no legal alternatives, informed by his PTSD and experiences of violence
 - This is the main important part of this case, the need to consider the circumstances of the accused similar to a case like [[R v Lavallee]]
-- 
 ### Duress and Murder
 - Recall that duress is both a common law and statutory defence, s. 17 applies only to principals, parties to an offence can rely on the common law defence
 - Statutory version was stricter compared to the common law, but the two were determined to be equivalent in [[R v Ruzic]]

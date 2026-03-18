@@ -1,0 +1,45 @@
+- Mary Robb sued to declare she was the sole owner of 38 shares in the capital of Ocean Towers Limited and the leasehold interest in an apartment called Suite 501 owned by Ocean Towers
+- George Robb and Teresa Ann Rob were the children of Mary's deceased husband under a former marriage
+- Claim that they are entitled to the assets of the deceased
+- Issue is whether Mary's interest in the shares and Suite 501 as a co-owner with the deceased was joint or common tenancy
+- Building where Suite 501 is a co-op, because the units were being sold before the *Strata Title Act* was created
+	- In these buildings, the "owner" of a suite can't hold the fee simple
+	- Building is owned by a company wholly owned by the residents of the building through shares
+	- Company gives long term leases to its shareholders according to the suites they purchased
+	- Residents purchase the shares and lease at the same time, only payments are to cover taxes and operating causes
+- Suite 501 was leased to Mr. Becker for 50 years alongside 38 shares in the building company
+- Becker sold the interest and shares to a couple called the Camerons, the Robbs bought them from their estate after they died
+- Mary paid the full amount, lease was assigned to both, same with the shares and did not indicate joint or common tenancy
+- Seems that the intention may have been joint tenancy, as the conveying solicitor wrote a note saying the couple would take the property jointly
+- Also, a year after the purchase, Mr. Robb transferred Mary a property he owned in California, consideration was Mary purchasing Suite 501 and naming him as a co-owner
+- Mr. Robb left all his assets to Mary, if the interest was joint tenants, then Mary has right of survivorship and the children do not have a claim
+- If it was tenancy in common, then they are distributed according to Mr. Robb's estate
+### Analysis
+- At common law, only joint tenancy allows survivorship
+- Equity prefers tenancy in common when it comes to real property, here we have real property (lease) and chattel (shares)
+- Reason for this is meanly because tenancy in common enables equality more than joint tenancy
+- Recall that equity prefers tenancy in common in three situations
+	- First, where parties pay inequally
+	- Second, where co-owners are mortgagees
+	- Third, where the parties are business partners
+- Here, Mr. Robb made no contribution at the time of the purchase, but did contribute after the fact by transferring the California property
+- Overall, it seems that at common law, joint tenancy prevails
+- Only possible exception is unequal contribution of price, can't infer that the California property transfer led to a transfer of half the property from Mary to Mr. Robb as a tenant in common
+- Rebuts the presumption that Mr. Robb was holding the interest in trust for Mary
+- Court finds that the Robbs did not hold the shares and lease in unequal proportions, no basis for tenancy in common
+#### Statutory Issues
+- Section 11 of the *Property Law Act* states that land transferred or devised in fee simple, charged, or contracted to be sold to 2 or more people is presumed to be tenancy in common
+- The children argued that the word "charged" should extend to the assignment of leases
+- Section 8 of the *Interpretation Act* requires all remedial acts to be given liberal interpretation to achieve its goals
+- Goal of s. 11 is to incorporate equity's dislike of joint tenancy
+- Only relevant case relates to a similar provision in Ontario
+- In this case, a husband died before a purchase was completed, unclear if wife had right of survivorship or not
+- Ontario equivalent applies to grants, conveyances, or demises of fee simple or any lesser estate to multiple people
+- ONCA held that the agreement did not grant, convey, or devise
+- This was a literal interpretation of the text of the provision
+- Also relevant that Ontario allows "fee simple or any less interest", BC version doesn't have this
+- Applying the same approach here, we would have to read in additional words to include assignment of a charge in the word "charged"
+- This goes beyond the literal interpretation used in the Ontario case, which is fairly analogous to this case
+### Conclusion
+- Overall, s. 11(1) does not apply to the assignment of the lease, so the common law presumption of joint tenancy applies
+- Means that Mary had a right of survivorship, and is the sole legal and beneficial owner of both the shares and the lease

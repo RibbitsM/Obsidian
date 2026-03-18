@@ -25,7 +25,7 @@
 - Means that the husband may not have ever developed cancer if he did not have his lip burned
 - Definitely likely that he would have gotten cancer anyway, but the burn was definitely a contributing factor to the death
 ### Damages
-- Regarding the issue of damages, court needs to consider [[Wagon Mound No 2]]
+- Regarding the issue of damages, court needs to consider [[Wagon Mound No 1]]
 - Argues that the court in that case did not consider the application of the "thin-skull" rule when it came to determining damages
 - Common law has pretty consistently held that we take the victim as we find them
 - If you take the decision in *Wagon Mound* literally, then that case would have completely overruled the thin skull rule
