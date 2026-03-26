@@ -1,1 +1,1 @@
-- to do, likel
+- First half of remoteness

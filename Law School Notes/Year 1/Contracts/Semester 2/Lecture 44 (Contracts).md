@@ -1,0 +1,32 @@
+### XTL Inc v FPS Food Process Solutions
+- While expectation damages are the norm for breach of contract, plaintiffs can be awarded reliance damages instead to compensate for resources wasted under the contract
+- Plaintiff can generally get either expectation or reliance damages, but not both
+- Expectation damages are the benefit they would have received, while reliance damages are the costs they would have incurred
+- To recover the benefits you have to pay the costs, and to recover costs, need to forgo benefits
+- Stated by Lord Denning in *Anglia Television v Reed*, need to choose which one would be most beneficial
+- Usually want to pick reliance damages if you didn't lose profits or can't prove them
+- *R G McLean v Canadian Vickers* established that the purchase price of a contract is a debit against the plaintiff, only excess damages exceeding the purchase price will be allowed
+### McRae v Commonwealth Disposals Commission
+- This case dealt with a bunch of ships that were wrecked near New Guinea during WWII
+- Defendant was empowered to dispose of the ships and sold the rights to the ships to salvors who could salvage the ships and sell whatever they found
+- This is basically a chance to make a profit, you don't know if what you find will outweigh the costs spent to salvage the ship
+- Plaintiff bought the rights to a wrecked oil tanker, but their salvage ship sank on its way to the location of the tanker
+- Chartered another ship and went back to the location, but there was no tanker there
+- High Court of Australia held that the defendant breached an implied promise that there would be a tanker at the location they provided
+- Plaintiff couldn't prove that they would have made a profit, so they sought reliance damages 
+- Defendant argued that they might have wasted that money even if there was a tanker there
+- Court ultimately held that the plaintiff made a *prima facie* case for recovery by showing that they made these expenses based on the promise that there was a tanker there
+- Also, the absence of a tanker made it certain that these expenses would be wasted
+- Defendant then needed to prove that if there was a tanker there then their expenses still would have been wasted but they couldn't prove this, decision for the plaintiff
+### Implications
+- Where a breach prevents the plaintiff from being able to prove profitability, onus shifts to the defendant to prove whether the agreement would have been profitable
+- If they can't prove otherwise, plaintiff can recover for wasted expenditures
+- Doesn't apply to all expenses, *McRae* only allowed recovery for the expenses that were tied to this specific salvage mission
+- Didn't apply to things that would have been useful in the future, like how they bought salvage equipment and refitted their ship for the salvage mission
+- Could recover expenses for crew wages, the fee paid to the defendant, ship stores depleted on the voyage, and other travel and administrative expenses
+- Generally, plaintiffs cannot claim depreciation of capital for reliance damages unless the depreciation is attributable to the specific venture (*Bowlay Logging v Domtar*)
+- Can also recover for opportunity costs, the plaintiff was allowed to recover profits that they would have made if they didn't have to convert one of their ships for the salvage mission
+- This was a loss incurred in reliance on the contract, so it counts for reliance damages
+- If we didn't allow recovery for opportunity costs, then we're not actually restoring the original position
+- Unclear whether you can also claim for expenses incurred before the contract was made
+- *Anglia Television v Reed* established that if the defendant knows the plaintiff made expenses prior to entering the contract, if a failure to perform wastes those expenses, may recover

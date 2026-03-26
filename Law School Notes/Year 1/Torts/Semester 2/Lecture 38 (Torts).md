@@ -1,5 +1,15 @@
 ### [[Ediger v Johnston]]
-- to do
+- Plaintiff was a child who suffered brain damage caused by bradycardia (sustained drop in HR) during birth
+- Doctor tried to perform a mid-level forceps delivery during birth, fairly risky procedure that is known to cause bradycardia by pinching the umbilical cord
+- Did not have staff on standby to perform an emergency C-section 
+- Doctor left to arrange this after failing the forceps delivery, baby went into bradycardia soon after and persisted for 18 minutes until birth
+- Theory was that the forceps moved the baby's head, which caused the umbilical cord to become compressed after the next contraction
+- Trial judge found that the doctor breached the standard of care by not having staff for the C-section available on standby
+- Causation was established using the but for test
+- If the mother was properly informed of the risks of the forceps delivery, she would have chosen a C-section instead, avoiding the injury
+- Important to note that the court could not actually determine how the cord was compressed, the displacement thing was just a theory
+- Overall inference was that the mid-level forceps delivery likely lead to the bradycardia
+- Decision was overturned on appeal because they found
 ### [[McGhee v National Coal Board]]
 - Recall that Reid argued that the plaintiff will only succeed if they can prove that the defendant caused or materially contributed to the injury
 - Distinguished this from material contributions to the **risk**

@@ -1,0 +1,50 @@
+- Section 21 of the *Criminal Code* sets out the principles of party liability
+- Principal is also a party, all people who commit an offence, and aid or abet with the commission of an offence are equally liable
+- Aiding means to assist with the commission of the offence, abetting means encouraging or inciting the commission of the offence
+- Also has an intent requirement, need to know or be reckless in determining that your assistance or encouragement will lead to the commission of an offence
+- Only need to know about the act itself, not that the act was illegal
+- Section 21(2) is the common intention provision, don't need to worry about it on the exam but it essentially deals with co-principals planning to commit an offence together
+### [[R v Briscoe (Aiding and Abetting)]]
+- Looked at this case already to deal with wilful blindness, it's the one where the guy drove a girl to a golf course and one of his companions sexually assaulted and killed her
+- Issue for this lecture is what Briscoe's involvement was in the offence, and how that translates into party liability
+- Did a couple notable things, he picked the crime scene and drove them there, also handed the principal a weapon (which wasn't used) and held the victim and told her to shut up
+- *Actus reus* is very simple to prove, just the driving alone is enough to be assistance
+- Problem comes from the *mens rea*, the accused's argument mostly relied on denying any knowledge of the intention of the other parties
+- Court identifies two components of the *mens rea*, intention and knowledge
+- "Does or omits to do anything **for the purpose** of aiding"
+- In order to intentionally assist an offence, you need to know what you're assisting in
+- Don't need to know the specifics, but you should be able to know that you are facilitating a murder (in this case)
+- Court says that you don't need a desire for the crime to happen, purpose and desire are not the same thing
+- If you rent a car to someone for $100 and you know they're going to rob a bank with it, can't argue that your purpose was to make $100
+- Whether you desire the outcome or not, the knowledge is what's important
+- Question for the court was whether Briscoe knew or was wilfully blind to the fact that the assistance he was rendering was for the purpose of killing the victim
+- This case did not determine whether recklessness qualifies here, and the SCC never has
+- ONCA case called *Roach* says recklessness isn't enough, and the SCC has said recklessness isn't enough for counselling an offence under s. 22(1)
+- Seems to indicate that recklessness isn't enough for party liability
+### [[R v Fraser]]
+- Charged with aiding and abetting the robbery of a man named Billy
+- Recall that robbery is effectively theft plus assault, accused was acquitted of theft but convicted of the included offence of common assault
+- Also recall that theft is a specific intent offence, while assault is general intent, and the defence of intoxication only applies to specific intent offences
+- Question in this case is whether this still works this way when you're charged as a party
+- Recall that for parties, you're proving the *mens rea* under s. 21, not theft or assault
+- Is s. 21 a specific or general intent offence?
+- If it is a specific intent offence, then the defence of intoxication can be used to grant Fraser a full acquittal, even though he's technically being charged for a general intent offence
+- Court found that s. 21 is specific intent, looked at the text of the offence, especially the phrase "for the purpose of"
+- Therefore, intoxication was an applicable defence, and the accused proved all the elements
+- Acquitted
+### [[R v Dunlop and Sylvester]]
+- Case involved a teenage girl who was sexually assaulted by members of a motorcycle gang at a dump, victim named the two defendants as principal offenders
+- Dunlop and Sylvester argued that they were there at the time, but were not involved in the sexual assault, only there to bring the other gang members beer
+- Said they saw a man and a woman having sex on the ground, watched for a bit and then left
+- Based on this evidence, the trial judge charged the jury on party liability, despite the fact that the victim claimed they were principal offenders
+- Jury found the accused guilty, but provided no reasons for this
+- On appeal, they argued there was no evidence to charge the jury on party liability, if the jury believed their evidence they were not guilty of anything
+- Majority agreed, it was an error of law to charge the jury on party liability
+- Court drew a line between aiding and abetting, and just being present at the scene of the crime, these are not the same thing
+- You will not be charged as a party if you only happened to be there when the crime occurred
+- Without any evidence that you actually did something to assist or encourage, doesn't count
+- Is this really true? We generally don't convict omissions unless there is a duty to act, but you can argue that not doing anything can be interpreted as abetting
+- Can also argue that there is a bit of a knowledge component, they definitely knew why their fellow gang members brought the victim to the dump
+- With group sexual assaults especially, the case is very different compared to just seeing someone get beat up on the road
+- This is very much a group activity, and you're still a participant even if you were not actually involved in the physical sexual acts
+- Overall, the ratio of this case is the fact that mere presence is not enough for party liability

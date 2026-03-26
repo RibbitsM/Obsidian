@@ -41,6 +41,7 @@
 - This was also before [[Dore v Barreau du Quebec]] so we were using the *Oakes* test
 ### [[Canada AG v Bedford]]
 - Issue was with the laws against prostitution in Canada, three different prohibitions
+- s. 210 makes it an offence to keep or be in a bawdy‑house; s. 212(1)(_j_) prohibits living on the avails of prostitution; and, s. 213(1)(_c_) prohibits communicating in public for the purposes of prostitution.
 - Combined, these laws did not outlaw prostitution, but did make it a much more dangerous profession to undertake
 - Again, this raises the issue of choice as the Crown argues that there is no causal connection because the harm is caused by the choice of the prostitutes themselves
 - State is not causing the harm creating from johns and pimps, but because of the situation most prostitutes find themselves in, they do not have a choice

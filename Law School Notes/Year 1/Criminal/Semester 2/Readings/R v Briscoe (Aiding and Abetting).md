@@ -1,0 +1,24 @@
+- Already discussed the facts in [[R v Briscoe]], accused was charged with aiding and abetting the murder of a 13-yo girl killed by Mr. Laboucan at a golf course
+- Crown theorized that Laboucan was the mastermind, Briscoe's contribution was driving the group to and from the crime scene, threatening the victim, holding her down, etc.
+- Argued he had actual knowledge of or was wilfully blind of the plan
+- Trial judge accepted this theory, named four ways that Briscoe aided
+	- Drove them to the crime scene
+	- Chose a secluded place to commit the crime
+	- Opened the trunk for Laboucan and gave him a tool, not used to kill the victim
+	- Held down the victim and told her to be quiet
+- Issue was with *mens rea*, we covered this last sem
+### Analysis
+- Canadian law does not distinguish between principal offenders and parties when it comes to liability, all are equally liable
+- Section 21(1) established that every one is a party who commits the offence, does or omits to do anything to aid the commission, or abets a person committing it
+- *Actus reus* of aiding and abetting is doing or omitting to do something that helps or encourages the principal to commit the offence
+- These are distinct concepts, aiding means helping, and abetting means encouraging or instigating someone to do the crime
+- *Actus reus* is clearly established in this case, but we also need *mens rea*, meaning the assistance had to be for the purpose of aiding the principal
+- Two components here, intent and knowledge
+- Accused must intend to assist the principal, do not need to determine if they desired for the offence to be successfully committed, determined this is [[R v Hibbert]]
+- Purpose does not equal desire, we should focus on the intent
+- Aider also needs to know that the principal intends to commit the crime, but not precisely how it will be committed
+- This is pretty much common sense, to intend to help someone with some act, you need to know they are committing that act first
+- This also applies to the requirements of first degree murder
+- Accused will only be liable if they did something to aid the principal in a planned and deliberate murder, for the purpose of aiding that murder
+- Means that for purpose, need to know the murder was planned and deliberate, either explicitly or constructively
+- In this case, willful blindness was enough for knowledge, accused was convicted on retrial

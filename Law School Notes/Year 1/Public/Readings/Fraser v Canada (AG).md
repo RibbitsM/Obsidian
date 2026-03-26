@@ -9,7 +9,7 @@
 - To prove a *prima facie* violation of s. 15(1), the claimant has to prove that the law/action in question distinguished on enumerated or analogous grounds and imposed burdens or denies benefits in a way that reinforces disadvantages
 - Appellants aren't arguing that the pension policy is explicitly based on sex, but rather that the policy disproportionately affects women with children
 - This is an example of something called adverse impact discrimination which is where a neutral law disproportionately affects a protected group
-- Instead of singling out members of thar group, the law disadvantages them
+- Instead of singling out members of that group, the law disadvantages them
 - Important part of the substantive equality movement, moves away from the previous focus on more explicit forms of discrimination
 - Much more prevalent form of discrimination and arguably much more insidious
 - By addressing issues like this, the courts can strike at the core of the equality mission

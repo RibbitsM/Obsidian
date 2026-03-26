@@ -1,0 +1,74 @@
+- Condos can be thought of as a private form of government that gives the owners the right to manage common property and govern uses of private property
+- Pretty extensive regimes for these kinds of developments
+- Can think of condos as a level of government under the municipal government, gaining its authority from statute
+- Private because the right to participate depends on you buying land in the condo, and democratic because owners can vote about the affairs and elect a board/council
+- Many argue that this is not actually democracy because of the strict restrictions on participation
+- Article focuses on a conflict between owners in a strata property in the DTES based on altercations between a pharmacy in the building and the residents
+- Raises the question of who has the right to live in the neighbourhood
+- Condo developments have been a flashpoint amid the discussion on what to do with the DTES
+- Focus of this article is on condos as governing entities
+- Proportion of people living in condos in Vancouver is very high, the highest in Canada
+- Basic structure of a condo is several parcels of land individually owned within a community with rule making and enforcing power for land use
+- Moving home governance to these private institutions is a product of the ongoing privatization of public services
+- People who live in condos are more likely to support privatization
+### Omnicare Pharmacy
+- This is a small pharmacy on Cordova St that mainly sells prescribed medicines with a small waiting area
+- Located right next to the entrance to the condo building
+- Residential and commercial units are separated within the strata development, which is fairly common in BC
+- BC created Canada's first statutory condo regime in 1966, and allows owners to subdivide land into strata lots
+- Most important aspect of this is the ability to distinguish between strata lots and common areas
+- Governance structure is based on a corporate model, the owners are kind of like shareholders in the strata corporation
+- At Carrall Station, residential owners have one vote each, commercial owners have from 0.66 to 1.2 votes based on floor area, and have about 6.77 in total compared to 74 residential votes
+- Members of the strata council are bound to act honestly and in good faith and have the care, diligence, and skill of a reasonably prudent person
+- Strata corporations must have bylaws, and a set of standard bylaws will apply if they don't make their own
+- Usually, there is a general provision restricting activities considered nuisances or hazards
+- Also usually specific rules on noise, smoking, guest activities, pets, renting, etc.
+### Local Context
+- DTES stands in stark contrast to Gastown which is solidly a tourist district, usually in disrepair and populated by homeless shelters, social services buildings, and non-market housing
+- Drugs and the war on drugs have significantly damaged this community, and open drug use and trading is common
+- Currently being devastated by overdose deaths, and has been in a crisis for many years
+### Omnicare vs The Owners
+- Omnicare is there to serve the DTES, and many of its customers are there for methadone to prevent opioid dependence
+- Residents in Carrall Station have consistently complained about the pharmacy due to noise, loitering, garbage and human waste, damage to property, and verbal abuse/threats
+- Residential owners changed the bylaws and started imposing fines on the pharmacy
+- Made a rule in 2001 making owners responsible for their visitors and one in 2004 preventing new pharmacies from opening in the building (Omnicare could stay)
+- Added one in 2006 preventing use of lots for purposes involving traffic, loitering and noise during quiet hours
+- Levied thousands of dollars against the pharmacy based on the laws
+- Owner of Omnicare went to the courts to stop them, got a court order cancelling the fines against the pharmacy
+- Issue went back to the courts in 2016, residents complained about noises starting around 6 am
+	- Also complained about loitering, people spitting free coffee on the common property, people peeing on the walls, yelling at people, lying down or sleeping, and trying to enter Carrall
+- Pharmacy argued the bylaws were invalid because amending them requires a 75% supermajority between the owners
+- Where a strata is mixed commercial/residential, you need 75% approval from both categories
+- Court ruled that allowing the residential owners to amend bylaws without commercial consent nullified the commercial owners democratic rights
+- *Strata Property Act* cannot allow the courts to override the democratic rights set out in the Act
+- One of the fines was initially valid, but had procedural issues
+- Commercial owners in Carrall had only one representative, and none of the strata council decisions since 2001 were valid because they needed at least two representatives
+- Initially, the Carrall bylaws required two commercial representatives
+- Judge also pointed to the fact that the nuisances were not really the fault of the Pharmacy, it's part of living in the DTES
+- What would not be allowed in other neighbourhoods is acceptable here
+### Carrall Station and Exclusion
+- Problems in the DTES began when the main stabilizing presence in the neighbourhood, the Japanese-Canadian community, was removed to internment camps
+- Employment opportunities is the area disappeared and Vancouver turned to service/professional sectors not extractive industries
+- Can think about the DTES as a place of vice and decay that needs to be reformed, or whether it was the only remaining refuge for the people the rest of the city had left behind
+- Conflict really came into focus when landlords started evicting tenants to turn their rooms into hotels for Expo 86
+- Over time, property values all around the DTES have skyrocketed and condos have been a major part of this
+- Condos are a major part of gentrification and the general move away from industrialism and towards more profitable middle class industries
+- Over time, the DTES has been remarkably resilient to gentrification and has sought to keep prices low
+- As rich people move into neighbourhoods, there will be more spaces that cater to them and exclude the people who lived there before
+- This is the process that led to the construction of condos like Carrall Station in the DTES as a weird transition between Gastown and the DTES
+- Struggle is less between condo owners and more about the existence of condos themselves
+- Need to recognize the power of condo authorities to affect and transform the public environment around it
+### Private Governance and the City
+- Statutory condo regimes are essentially a public delegation of private governing power
+- They also have a natural public aspect to them due to their power to make rules, even though participation is limited to owners
+- Example of this is the conflict in [[Syndicat Northwest v Amselem]]
+- Dissenting opinion in that car argued that Condo governance is a private contract, and the Charter should not apply to it
+- This argument is pretty unconvincing, both municipalities and condos are very similar in many ways
+- Both have statutory authority, have defined territories, elect officers and bureaucracies, collect taxes, provide services, and can make and enforce rules
+- Australian law has already labelled condos as comparable to municipalities
+- Main difference is that condos are based on property interests and are thus private, while municipalities are public
+- In the end, Omnicare is still an ongoing concern for Carrall and has tried to limit the harm to owners but is still surviving
+- This an exceptional outcome, condo governance is generally designed to protect owners over the wide community
+- In this case, the law protected a business serving the surrounding community first
+- Struggle over the DTES is going to continue, both in the condo conversation and in broader politics
+- Province needs to recognize the role of the statutory condo regime here

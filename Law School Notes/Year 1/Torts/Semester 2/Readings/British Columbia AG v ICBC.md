@@ -1,0 +1,13 @@
+- Appeal from a BCCA judgement where the attorney general was held vicariously liable for damages after a driver died in a crash during a police chase
+- A 14 year old girl stole a car and led an RCMP constable on a street chase, at some point she hit a car driven by the victim, killing her in the collision
+- Victim's family sued the girl and the attorney general, BCSC found the girl 90% at fault and the police officer 10% at fault
+- Section 4(2) of the *Negligence Act* allows multiple defendants at fault for the same damage to be jointly and severally liable
+- Under the *Police Act*, the attorney general is liable for torts committed by police officers under s. 11, the officers are not considered liable
+- Main issue was who should pay compensation, the girl was an uninsured driver so it could be either ICBC or the attorney general
+- Lower courts found that the AG was jointly and severally liable with the girl, ICBC had to pay for the portion of damages caused by the girl
+- Court of Appeal held that the AG was not entitled to contribution from ICBC
+- Current proceedings were just to see who pays the damages, in the meantime the family was paid out by the AG
+- AG argued that the main issue is his liability under the *Police Act*
+- Court found that the AG is liable for anything that would normally be imposed on the officer if they were not immune under s. 21 of the *Police Act*
+- If the officer would have been jointly and severally liable, then so is the AG
+- Therefore, the victim is entitled to full compensation from the AG

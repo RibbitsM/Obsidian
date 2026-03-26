@@ -1,0 +1,10 @@
+- Guignard set up a sign criticizing his insurance provider after an insurance dispute
+- Ordered to remove the sign because a local by-law banned signs outside of industrial areas
+- We know that companies have a right to advertise as a part of freedom of expression
+- Consumers also have this right, which includes the right to express frustration or displeasure with a product/service
+- Not derived from commercial speech, it's more about spreading information and expression of opinion
+- Court has previously shown the importance of signs as a method of communication in *Ramsden v Peterborough*
+- By law here is severely limiting Guignard's freedom to express his displeasure with his insurance company
+- Sign was also the most effective means he could have used, other options would be too private or too expensive
+- Only appropriate remedy was a declaration that the provisions of the bylaw are invalid
+- Suspended declaration of invalidity for 6 months

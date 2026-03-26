@@ -1,0 +1,57 @@
+- Issue is whether joint tenancy title was severed on three lots in Calgary owned by a couple as joint tenants
+- Couple divorces in 1969, the lots were their family home and an adjacent vacant lot
+- Settlement agreement gave the wife possession of the family home for life, leased to her for nominal ret but she had to pay for repairs/upkeep
+- Husband agreed to sell the vacant lot, and the wife could use the proceeds to spend on the family home
+- Their son had a mental disability, husband agreed to pay $100 monthly to support him, secured the payments against his interest in the family home
+- In 1974, wife was diagnosed with cancer and decided to sell part of the property to get money for the son
+- Executed a trust saying she held her interests in the lots in trust for her son
+- Basically tried to transfer her half of the interest to the son
+- In her will, her only significant assets were the lots, and gave all her property to her two daughters as executors and trustees
+- Their job was to pay income to the son during his life, and to divide the residue equally between them if the son dies first, or otherwise divide the share among the surviving children
+- Tried to partition the lots, but died before it was heard
+- Husband filed caveats claiming that he was now the sole owner by right of survivorship
+- Thus, there would be no property to support the trust
+- Daughters argued that the joint tenancy was severed before the wife died
+### Analysis
+- Timeline of the case is as follows:
+	- First, the settlement agreement divided the house title in two, husband leased the lot as a charge on his interest for the life of the wife
+	- Second, the trust deed declared the wife as holding the lots in trust for her son, executed transfers to her son not registered until her death
+	- Third, her will was executed on the same day
+	- Finally, the action for partition was brought
+- *Burgess v Rawnsley* deals with how joint tenancy can be severed, there are three main ways:
+	- First, an act of either person operating on their own share can create a severance
+		- Right of survivorship is conditional on no severance taking place under the share being claimed
+	- Second, can be severed by mutual agreement
+	- Third, severance can happen through any dealing sufficient to show that the interests were mutually treated as tenancy in common
+- Onus of proving severance is on whoever alleges it
+- Court found that the actions here did not amount to severance
+- Argument was that the sale of the vacant lot inferred a severance of joint tenancy for the home
+- However, it seems that the wife felt like she needed more since she executed the trust deed and tried to partition the lots
+- Husband did not consider that joint tenancy was severed
+### Lease
+- Also argued that creating the lease violated the unity of possession, creating a severance
+- Does one joint tenant granting a lease to another tenant sever joint tenancy?
+- Halsbury says no, at least for a tenancy of a couple years
+- Conflicting evidence here, an article suggests the opposite because the lease is intended to be binding after the death of the lessor
+- This is inconsistent with the right of survivorship
+- But in this case, the lease was for life, and would terminate upon the death of the wife and if the husband did first, she would get the land in fee simple
+- No inconsistency with survivorship here
+- Overall, seems like the lease did not sever tenancy
+### Mortgage
+- Next thing to consider is whether the maintenance money charged as a mortgage against the husband's interest was severance
+- Same reasoning applies here, this charge does not affect how survivorship works so it's not really an issue
+### Trust and Will
+- Wife declared that she was severing the joint tenancy in the trust deed, but the husband did not know about this
+- *Burgess v Rawnsley* established that an uncommunicated declaration does not count as severance
+- Agreed with the trial judge that the only severance was in the trust to the son
+- Presumption of advancement applies, so this was a valid gift of the beneficial interest in the land to the son
+- This gift does sever joint tenancy
+- Wife's lawyer was supposed to hold the land until she died and then register them, but this was not effective delivery so the gift is compete
+- Seems that the wife did not intend to make a gift, only wanted to expedite the process of conveying her estate
+- No real evidence that the execution of the will can sever joint tenancy
+- BCCA has previously held where joint tenants executed wills leaving property to each other, this was common intention of severance
+- This is not what happened here, if the title wasn't severed then the will could not give the interests to the son because survivorship takes precedent over the will
+### Conclusion
+- Finally, the action for partition did not sever the title but bringing an action alone is not enough for severance
+- Overall, the law seems to show that the declaration of one party of their sole intention to sever without evidence of acceptance by the other tenants is not severance
+- Only act severing the titles was the gift to the son when the wife declared she was holding the land in trust for him

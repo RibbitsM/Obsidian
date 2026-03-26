@@ -1,0 +1,22 @@
+- Look at [[R v JSR]] for the facts, this was the case about the shootout on Yonge St on Boxing Day
+- Once the court had determined that JSR could at least go to trial for manslaughter, needed to see what his liability is
+- Section 229(b) does not apply, as his actions were intentional
+### Liability as a Party
+- Recall that there are three options for party liability
+- Can be an aider, an abettor, or can form a common intention with another person to commit an unlawful act and assist each other in carrying out that act
+- For the first two options, you need a crime committed by another person to help with
+- Theoretically, if the northbound shooter killed the victim, to make them liable for murder they would have to be intending to kill JSR
+- Illogical for JSR to be an aider/abettor to his own attempted murder
+- Also need proof that the accessory intended to assist the principal, no evidence JSR intended to assist the northbound shooter at all
+- We already know that JSR and the northbound shooter's joint actions caused the death of the victim
+- However, this is not the same as the test for party liability, a joint activity is not the same as common intention
+- In fact, the intention of the two parties was to kill each other
+- Overall, it seems very unlikely that JSR could be found liable under s. 21
+### Liability for Culpable Homicide
+- Recall that under s. 229(c), culpable homicide is murder where the accused does anything they know or ought to know is likely to cause death, and does cause death
+- Court found that based on the existing principles of this offence and the evidence, JSR can likely be committed for murder under s. 229(c)
+	- Acted for an unlawful reason, to kill the northbound shooter
+	- Did something, engaged in a frenzied shootout
+	- Knew was likely to cause death, fired his gun multiple times on a crowded street
+	- Caused the death of a human, substantially contributed to the death of the victim
+- Overall, appeal dismissed and JSR was committed for trial on second degree murder

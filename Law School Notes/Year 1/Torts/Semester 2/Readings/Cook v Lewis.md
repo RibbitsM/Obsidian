@@ -1,1 +1,31 @@
-- the one where three hunters are in the woods, unclear who shot the plaintiff
+- Plaintiff went hunting with his brother and four guys named Fitzgerald, Cook, Wagstaff, and Akenhead
+- Cook, Akenhead, and Wagstaff were walking in a line when their hunting dog found some grouse
+- Fitzgerald pointed to a clump of trees and called out a warning, at the same time a couple grouse flew up in front of the dog
+- Thinking that Fitzgerald was pointing out the grouse, Cook shot at the grouse, Akenhead didn't hear the warning but also shot
+- Both shots were at almost the same time
+- Immediately after, a scream came from the trees Fitzgerald was pointing too where the plaintiff had been hiding, he had been shot in the face and lost an eye
+- Both Cook and Akenhead claimed they were not firing in the plaintiff's direction
+- Theory was that either or both had shot him, and both should be liable
+- Cook claimed he only shot once, and in a direction where he could not have hit the plaintiff, also said there was a third shot coming from an unidentified third person
+- Akenhead claimed he fired to the right, so he could not have hit the plaintiff
+- At trial, the jury were unable to find which defendant fired the shot harming the plaintiff
+### Analysis
+- General rule for criminal law is where we know that one of two people committed an offence but it's unclear which one it is, neither can be convicted
+- Should be applicable to tort law as well, unless there are special circumstances preventing it
+- Plaintiff claims that Akenhead and Cook were in a joint enterprise, so each was responsible for the actions of the other person
+- No case showing that people hunting together makes them liable for each others acts
+- However, you can argue that since both fired in the general direction of the plaintiff, then each of them breached their duty of care for the plaintiff
+- Comes from a case called *Summers v Tice* where the burden was shifted to the defendants after the plaintiff proved all elements except harm for both defendants
+- Injured party has been put in the unfair position of determining which defendant harmed them
+- Court held that if the jury found that the plaintiff was hurt by either defendant, both should be liable as they were equally guilty of negligence towards him
+- We already have the principle where if the defendant is guilty of negligence, they're liable for the consequences of the act regardless of that was foreseeable
+- Follows that we can allow liability where the complicating element is something that the defendant knows or ought to have known
+- Basically, depending on facts we do not know, either defendant could be guilty or not guilty
+- Defendant may know which one is guilty, but they're not going to share that info
+- Not only have they harmed the plaintiff, now they're barring them from compensation
+- In these cases, the burden should be shifted onto the defendant
+- If both defendants are negligent, but you can't segregate the consequences of those negligent actions for some reason, the onus should shift to the defendant
+- Each defendant knows of or expected the shooting by the other, and both participated in creating the confusion barring recovery
+### Dissenting Opinion
+- Focused pretty much entirely on the argument that because the defendants were hunting together, they should be jointly liable
+- Without a finding that one or the other is liable, action was dismissed properly

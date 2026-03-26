@@ -47,4 +47,3 @@
 - Also essential to personal identity, and cannot be easily changed
 - Individuals have limited but not exclusive control over their marital status
 - Raises the issue of whether or not being unhoused counts as an analogous ground
-- 

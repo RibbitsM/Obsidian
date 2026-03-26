@@ -1,0 +1,141 @@
+- Appellant was a Mi'kmaq Indian, arrested for catching and attempting to sell eels without a permit and with an improper net
+- Evidence shows that the Mi'kmaq have harvested and traded fish including eels long before European contact
+- Argue that this practice is protected by treaty rights
+- Relevant treaty was the Treaty of Peace and Friendship signed at Halifax in 1760
+- At the time, the Mi'kmaq were allies of the French King, and the British were in the process of expelling the Acadians
+- During this period the British were trying to reassert control over the Maritimes, this is why they offered the Mi'kmaq a treaty
+- Allowing this appeal is the least we can do to uphold the honour of the Crown in its dealings with the Mi'kmaq
+- Previous cases have shown that they have a right to fish for food, the appellant argues the treaty extends this to fishing for trade
+- Court found that the 1760 treaty affirms the right of the M'ikmaq to hunt, fish, gather, and trade those products for "necessaries"
+- Crown did not attempt to justify limits placed on this right, argues that the right does not exist
+## Analysis
+- Starting point is looking at the words of the treaty, makes things complicated because several agreements were signed with individual villages and never consolidated
+- We're using the Halifax one as the best example
+- There is only one line reserved for trade matters, promises to only trade with the truckhouses managed by the Crown
+- A truckhouse is a trading post, and this promise pretty much never came to pass as the govt stopped using licensed traders a few years later
+- Trial judge argued this was more than a negative promise, it granted the positive right to bring things to trade at truckhouses
+- Court of Appeal argued this was a mechanism of peace, and disappeared with the vanishing of the truckhouses
+- Clear that the words of the text alone do not support the interpretation that this grants positive rights
+- Court views the treaty right as extending to securing "necessaries", which arguably the appellant was doing by selling the eels
+### Evidentiary Sources
+- Court of Appeal said we can only use extrinsic evidence for interpretation if there are ambiguities
+- Three reasons why this approach is wrong
+	- First, extrinsic evidence can be used even in modern contract law to show the written document is not the entire agreement
+	- Second, Court had made it clear that historical/cultural context of a treaty can be used even without ambiguity
+	- Third, it would be unconscionable to ignore oral terms where a treaty was made verbally and written up later by the Crown
+- This strict approach to treaty interpretation has maybe been used once and is clearly not super common
+- The nature of how these treaties were concluded, as well as the context of the honour of the Crown means we cannot interpret them using only the text
+- Crown is obligated to look at the possible interpretations of the common intention and pick the best one for reconciliation
+- Mi'kmaq had previously been at war with the British and signed a treaty in 1752 that granted them hunting, fishing, and trading rights
+- However, evidence seems to show that this treaty was voided by further violence between the British and the Mi'kmaq
+### Findings of Fact
+- Only issues of contention related to the historical record
+- Recall that findings of fact require a palpable and overriding error to be overturned
+- Trial judge found that the treaties recognized and accepted the Mi'kmaq way of life and wanted it to continue
+- However, this is inconsistent with their argument that the 1760 treaty was the entire agreement
+- Court of Appeal made things worse by arguing that ordinary principles of treaty interpretation don't apply to peace and friendship treaties
+- Argued that these principles were designed for land cession treaties, which these were not
+- However, the result was largely the same as the Mi'kmaq have arguably experienced some of the worst land cession
+- Further findings of fact make it clear that the Mi'kmaq treaty was made with two main intentions in mind
+- First, to establish peace with the Mi'kmaq, and second, to allow them to sustain themselves economically without Crown assistance
+- Evidence also showed that the Mi'kmaq made peace on the same conditions as the Maliseet and Passamaquody
+- Those treaties started with a request for a truckhouse first, showing that the govt limitation on trade was in response to the agreement for a truckhouse
+- Future negotiations set prices for these truckhouses, and six in total were constructed around Halifax
+- As time went on, this system turned out to be ineffective as the govt traders were pretty corrupt
+- Overall, seems that the truckhouse system was pretty good for the Mi'kmaq, and the trade clause would not have worked without an implicit right trap, fish, and hunt for the Mi'kmaq
+### Expert Evidence
+- Courts have been criticized by historians for taking a "cut and paste" approach to the historical record
+- Unfortunately, this is a natural consequence of the fact that the Court is here to give answers, not an academic study
+- Expert brought by the Crown pretty much admitted that the Mi'kmaq had the right to fish, hunt, and gather for trade
+- Found that this was implicit in the British's recognition that the Mi'kmaq could live in their traditional ways
+- Defence experts also agreed with this claim, not within the right of the trial judge to say the appellant's claim had no basis
+- Overall, we should be giving effect to the common intention of the parties, not just the text of the 1760 document
+### Ascertaining the Terms of the Treaty
+- Hunting and fishing rights were not affected by this agreement, at the time this was taken as a given
+- Recall from contracts that the [[Lecture 37 (Contracts)|officious bystander]] test allows us to imply terms that would be necessary to ensure the efficacy of the contract
+- Naturally, for this contract to work, the Mi'kmaq would need the right to hunt and fish to trade
+- This strategy of implying necessary terms of a treaty has been done in the past in other cases like *Sioui* and *Sundown*
+- For example, implying the right to carry a gun or build shelters as included in the right to hunt
+- Dissent argues that the Mi'kmaq had no special right compared to other groups in the region
+- This may be true in terms of what the right contains, but treaty rights are still distinct from general rights
+- Again, this approach is reinforced by previous cases
+- Appellant does not need to show that the treaty gave him preferential trading rights, only treaty trading rights
+- Prior to the creation of s. 35(1) these rights were not special, but now they are given special protections
+### Honour of the Crown
+- Recall that the honour of the Crown is always at stake where the Crown is dealing with Indigenous peoples
+- Also know that it applies specifically to determining treaty rights because of *Taylor and Williams*
+- Established that no appearance of "sharp dealing" when it comes to determining the content of treaties is allowed
+- Any ambiguities should be interpreted against the drafters of the treaty and in favour of the Indigenous group(s)
+- Interpreting this text as turning a demand for trade into merely a restriction on trade is inconsistent with the honour of the Crown
+- Interpretation of the lower courts leaves the Mi'kmaq with little more than an empty shell of a treaty promise
+- We know that we are not thinking of treaty rights as "frozen in time", so the removal of the truckhouse system is not really an issue
+- Crown argues that this was a solution to a temporary problem, but the Mi'kmaq now relied on the British for powder, shot, and other goods after the French left
+- Substance of the treaty is not the literal promise of a truckhouse, but a right to trade pelts and fish for the necessaries of life
+### Limited Scope of the Treaty Right
+- Crown raised concerns that recognizing a treaty right will allow for excessive exploitation of natural resources
+- However, this is not an unlimited right like the Crown suggests, it's the right to trade for "necessaries", which we can understand as meaning a "moderate livelihood"
+- This is similar to the proposed right of sustenance from [[R v Gladstone]]
+- Catch limits that allow for a moderate livelihood can be set by regulation without violating the treaty right
+### Application
+- For the accused to not be charged, he would have had to get a fishing license, which is under the absolute discretion of the Minister
+- Recall that for the [[R v Sparrow]] test you need to see if the limit is unreasonable, imposes undue hardship, or denies the right holders their preferred means of exercising a right
+- Discretionary licensing schemes like this have previously been found to infringe aboriginal rights
+- Regulations on fishing infringe the appellant's treaty rights and are of no effect unless justified under the [[R v Badger]] test
+- Charge for fishing with an improper net is also a *prima facie* infringement, can't limit methods of Indigenous hunting
+- Appellant caught an sold the eels to support himself and his wife, licensing system interfered with his right to fish for trading purposes and the right to trade for sustenance
+- Overall, appeal allowed and an acquittal entered
+## Dissenting Opinion
+- Argue that the treaties gave rise to a limited right to bring goods to British trade outlets as long as the regime was in force
+- Did not give a freestanding right to trade outside of the truckhouse regime, no existing right to trade that applies to the appellant
+- Trial judge held that the provision of truckhouses was a prerequisite for the Mi'kmaq's ability to trade under the treaty
+- British did not intend to convey a right to trade beyond what was explicitly stated in the 1760 treaty
+- Court of Appeal found there was no right to trade established at all, including no right to bring goods to truckhouses
+- These treaties made trade at the truckhouses permissible, but did not give the Mi'kmaq a right to do so
+### Appellant's Argument
+- Main issue whether the appellant has a treaty right exempting them from the legislation they were charged under
+- Appellant claims the Mi'kmaq got a general right to trade, and alternatively, a right to truckhouses
+- If there's general trading rights, federal legislation do not accommodate this right, not justified under s, 35, entitled to an acquittal
+- If there is a right to truckhouses, the government has breached this obligation, and appellant is acquitted for the same reason
+- Appellant does not argue for an aboriginal right, only treaty rights
+### Discussion
+- Recall the principles for treaty interpretation
+- First issue is the argument that peace treaties are interpreted differently from land cession treaties
+- Second issue is whether extrinsic evidence can be used to interpret aboriginal treaties, seems pretty clear that this is a yes
+- Only case hinting to accept this argument is *Horse*, but this has since been pretty clearly overruled
+- Means we have two steps to treaty interpretation
+- First, you look at the meaning of the words on their face to find a preliminary framework of what the treaty means
+- Second, consider the different options of what the treaty could mean in the historical and cultural context
+- Trial judge found there was no misunderstanding between the parties that trade would be done according to the trade clause
+- No error in his approach here
+### General Right to Trade
+- Trial judge rejected the idea of the treaty granting a general right to trade
+- Recall that all inhabitants of the province had a general right to trade, no treaty was required to grant that right
+- However, only rights conferred by treaty are protected under s. 35
+- Core of the trade clause was an obligation to only trade with the British, words do not confer a general right
+- When it comes to the cultural and historical considerations, there does not seem to have been any misunderstanding here
+- The Mi'kmaq did mainly speak French but some members of their population spoke English and understood the British importance of the written word, and the differences between the treaties
+- These were primarily peace treaties, signed in response to the French defeat in Nova Scotia, and the Mi'kmaq were dependent on trade for goods like firearms and gunpowder
+- British did not feel safe in Nova Scotia and wanted security against the Mi'kmaq
+- Concerns of both parties were pretty immediate, best representation of the common intention was an obligation to provide truckhouses and an obligation to only use those trading posts
+- These concessions and lack of a more comprehensive agreement is a result of the need for peace on both sides
+- British normally would not make this kind of agreement because establishing truckhouses was pretty expensive for them
+- Both parties understood that the "right to bring goods" was limited to the existence of the truckhouse system
+- Also shown by the pre-treaty negotiations and post-treaty conduct
+- The Maliseet and Passamaquody treaties went similarly, and the Mi'kmaq were informed about these agreements
+- Additionally, soon after the treaty the British removed the truckhouses and no longer required the Mi'kmaq to exclusively trade with them
+- This was confirmed by a meeting between two Maliseet members and the Nova Scotia Lieutenant Governor in 1768
+- Overall, the historical record does not support the inference that the purpose of the treaty was to promote self-sufficiency for the Mi'kmaq
+- Trial judge did not err in his interpretation of the treaty right
+### 1752 Treaty
+- Recall that this treaty does grant a broad right of trade
+- However, this treaty was later displaced by the treaties of 1760-61 which dispose with this general right
+- Overall, this does not affect the trial judge's conclusion that the treaties did not grant a general right of trade
+- Even when considering the appellant's argument that the treaty creates an independent right to a government outlet for trade, this is not supported by the trial judge's findings
+- The right to trade at a truckhouse was collateral to the obligation to exclusively trade with the British, both rights were breached
+- Can argue that granting this right would shift the onus to the Crown to justify why they have not provided trading outlets
+- However, to rely on a treaty right as a defence to a charge, the claimant must first establish a treaty right that protects the activities they were engaged in
+- Only at this point does the onus shift to the Crown
+- Can't do this if the original treaty right is undefined in scope and has no modern counterpart
+- Overall, the trial judge did not err in concluding the only right here was the right to bring goods to a truckhouse, which ended with the end of the truckhouse regime
+- There was no Crown breach, and no accommodation or justification required
+- Appeal dismissed

@@ -1,0 +1,67 @@
+### Recap
+- [[Schachter v Canada]] set out three main remedies: reading in, reading down, and severance
+- Also have the option of immediately striking down legislation or suspending the declaration
+- For reading in, the classic case for this is [[Vriend v Alberta]], they saw a clear omission in the *IRPA* and they "read in" the protection for sexual orientation
+- Severance is the one where you have the option of immediate or delayed severance
+- Important to also flag the difference between ss. 52 and 24
+- Difference is broadly between laws of general application (52) and government actions (24)
+- Most of what we're doing rn relates to s. 52, we'll cover s. 24 later on
+- *Schachter* is the foundational case for s. 52 even though it was later modified
+- Court considers two main things when it comes to remedies, respect for the role of the legislature and respect for the purposes of the Charter
+- Decided not to read in, mainly because that would interfere with the legislative objectives
+- Main justification was that the result of reading in would greatly expand the scope of who could claim under the act and put pressure on the budget
+- Courts shouldn't be able to do this, leave the fixing up to the legislature
+- Also some current debate going on about how suspended declarations work with s. 33
+- Might be able to argue that where a law is found unconstitutional but is protected under s. 33, you can issue a suspended declaration that lasts until the s. 33 protections are lifted
+### Reading In vs Severance
+- Why did the courts read in in *Vriend*, but chose to sever in [[M v H]]?
+- Rationale for *Vriend* was that there was a clear omission, but the court also pointed out that reading in here would not really significantly affect the budget or scope of the act
+- Pointed out that although the exclusion of sexual orientation was intentional on the part of the legislature, reading it in is not actually contrary to the overall goals of the *IRPA*
+- Everyone who currently benefits under the act will continue to benefit
+- Court isn't taking on any abilities that would interfere with the role of the legislature
+- Still need to deal directly with the issue that sexual orientation was deliberately excluded
+- Would the legislature really have accepted this with the reading in?
+- Courts pointed to the fact that the Alberta Human Rights Panel was asked to review the *IRPA* and they said they needed to add sexual orientation
+- Legislature ignored this recommendation, said that the court case would deal with it
+- Effectively means that the legislature actually chose to defer to the courts here
+- Court probably could have done a delayed declaration to sever instead
+- Because of how weird this case is, might not be good precedent for reading in
+### [[M v H]]
+- Court decided to not read in here, though they had the option to do so
+- Knew exactly what the problem was, it was with the definition of "spouse"
+- All you need to do is replace the phrase "man and woman" with "two persons"
+- Issue was that this was a definition, so reading in here would create new inconsistencies because of how multiple parts of the act use the definition of "spouse"
+- Also provisions that deal with opt-outs that don't depend on the definition of spouse, so if we read in here, suddenly same-sex couples wouldn't be able to use the opt out provisions
+- Overall, to make this consistent you need to rework the whole regime, so the court decided to make a suspended declaration to let the legislature do that
+- Also some financial implications, because some of the affected provisions deal with compensation
+- There would also be some significant ripple effects across other pieces of legislation in Ontario that rely on the *Family Law Act*
+- Since reading in might deny people of their benefits, we should make a suspended declaration
+- In the end, this is what happened, the legislature made an omnibus act that changed the definition of "spouse" across multiple pieces of legislation and reworked them
+- *M v H* and *Vriend* deal with all the factors from *Schachter*, the role of the legislature vs courts, the purposes of the Charter, need to preserve benefits for the public, etc.
+## [[Ontario v G]]
+- Previous cases dealt mostly with what parts of the law are affected by the remedy
+- How surgical do we want to get with our remedies?
+- This case deals more with the temporal issues, what's the difference between an immediate vs a suspended declaration, and when should we use these remedies?
+- Rationally speaking, why would we allow unconstitutional laws to stay on the books
+- Need to look at what negative effects might result from an immediate declaration
+- Court gave some examples like the *Manitoba Language Rights* case, where almost all the laws of Manitoba were deemed unconstitutional for being enacted in English only
+- Immediate declaration would basically start the Purge in Manitoba, so they suspended it
+- This is one of the situations we might suspend declarations, threats to the rule of law
+- Other example was *Swain* which dealt with NCRMD offenders, didn't want to make the law immediately invalid because it would release potentially dangerous people into the public
+- If an immediate declaration creates a risk to public safety, should probably delay it
+- Finally, the law in *Schachter* was underinclusive, and if you declared the whole law immediately invalid, a bunch of people would lose the benefits they got under that law
+- This is the categorical approach, before the present case this is how the courts generally justified suspended declarations of invalidity
+- Can argue that it's more of a catch-all, don't want to create too much uncertainty
+### Balanced Approach
+- Court opted to make a new approach for suspended declarations
+- In the current case, striking down the law requiring people to be listed on a sex offender registry might negatively affect the public interest
+- Even though the current law hurts NCRMD people, public interest says we should keep it until the legislature can come up with a constitutional alternative
+- Also tried to remedy this a little by granting s. 24(1) exemptions
+- G was deemed to be exempt from the registry laws, because the threat posed by him personally was pretty limited, he had a spotless record
+- Generally speaking, individual exemptions for suspended declarations are justified partly because of the resources expended by the people who bring these cases
+- As long as there's no significant reasons to do otherwise, the claimants should at least personally benefit from their efforts to get the law declared unconstitutional
+- No contradiction between the exemption and the reasons for the suspension
+- If G was dangerous, we would not have granted the exemption
+### Summary
+- Should be able to identify a variety of constitutional remedies and the rationales for them
+- Also need to be able to understand why courts will issue exemptions in some cases

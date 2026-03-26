@@ -1,0 +1,52 @@
+- BC initially called condominium properties "strata", also called strata lots or co-owned property
+- All of these terms are describing holding a chunk of private property alongside a share of the common property of a building and a share or vote in the governing body
+- Usually takes the form of a strata corporation, governed by a mix of property and corporate law
+- Chances are, if you own land in Vancouver, you're going to own a condo
+- Not limited to just the inner city, similar patterns are popping up in Lougheed Town Center in Burnaby and all across Canada, though Vancouver has the largest proportion of condo residence across Canada by a significant margin
+- Well on its way to becoming the norm for home ownership in Canada
+- What is this doing to our understandings of ownership and government?
+- Purpose built rentals are pretty rare now in Vancouver, all the new structures are mostly condo buildings that are being bought out by investors for renting and speculation
+- Can create issues because it's much easier for a condo owner to evict you compared to a corporate owner because they can claim that they're moving in
+### Different Forms of Condos
+- You can also have bare land strata properties where the individual units are lots with houses on them, and the common areas are things like roads, marinas, golf courses, etc.
+- These communities are generally built on the American model, and have very restrictive bylaws on who can live there and what they can do with their property
+- Idea is to cater to a very specific group and create a community designed for them
+- This pattern of condo development is also very common across the world, especially in places like New York where compact vertical development is pretty much required
+- For a long time, these kinds of buildings were co-ops, but now they are mostly condos
+- In Spain, home ownership is the highest across Europe, and is mainly built on a condo model
+- The Burj Khalifa is also a condo property, though it's mixed development with a bunch of commercial properties like hotels
+- China uses a similar model, but relies mainly on long-term rentals instead of fee simple
+- South America uses this model for low-income ownership instead of state-owned rental properties, and Ethiopia is doing a very similar thing for subsidized housing
+- Need to win a lottery to get the right to purchase a unit
+- Legal architecture is the same whether you're in a quasi-retirement community in interior BC, a luxury skyscraper in NYC, or low-income housing in Addis Ababa
+### Bylaws and Condo Powers
+- Condo owners have pretty significant powers, used to be able to create adults-only developments where all residents had to be 19+
+- Later on, this was abolished but you can still make housing for seniors only
+- Owners are the ones who have the power to vote, not tenants
+## [[Condo Government and the Right to Live in the City|Omnicare v The Owners]]
+- Case dealt with a dispensing pharmacy that operates out of a condo building called Carrall Station between the DTES and Gastown
+- Pretty common development with ground-level commercial properties and residential housing above the stores
+- 8 commercial properties and 74 residential lots
+- Carrall exists at the space in between the gentrified tourist areas of Gastown and the DTES which has been devastated over the years by poverty, the drug crisis, and colonialism
+- When you do a title search of an individual strata lot, those lots are registered and taxed separately from the property as a whole
+- Omnicare Pharmacy owns strata lot 4 in fee simple, and also owns a share in the common property defined on Form 1 of the strata plan
+- Their share is defined by their unit entitlement, based on unit size and determines their contribution to property taxes and other matters
+- Also gives them 0.8 of one vote in the strata corporation under Form 3
+- Most of the customers of Omnicare are there to get methadone prescriptions to help with opioid addictions, and line up at 6 am an hour before the pharmacy opens to get it
+- This blocks the entrance to Carrall Station, which is right next door, and many bring their belongings and leave garbage near the entrance
+- Customers also got into altercations with the condo owners and verbally abused them, owners sought to amend the bylaws to prevent this
+- Started soon after Omnicare moved in, in 2001 the strata council amended the bylaws to make owners responsible for the conduct of their visitors, in this case the pharmacy customers
+### Strata Property Act
+- Under the *Strata Property Act*, s. 3 makes the strata corporation responsible for managing and maintaining the common property, but they do not own it like with a co-op
+- Elected executive is responsible for making sure its responsibilities under the Act are met, and also create and enforce the strata property bylaws
+- These bylaws can apply to private or common property alike
+- Started imposing fines on Omnicare for violating the bylaws, took the matter to court
+- The *Strata Property Act* sets out a standard list of bylaws that apply unless different bylaws are filed to the land title office
+- Amendments to be these bylaws can be changed, but have to be approved at an annual or special general meeting where the most important things happen
+- To amend a bylaw, you need a supermajority of 75%, based on the owners that show up
+- This is a democratic government, albeit one limited to private owners, but why not only require a majority vote, that's what the budget approval means
+- If it's a mixed use property, you need 75% for both the residential and commercial parts of the property, in this case there was only one vote for the residents
+- Because of this, the court threw out the amended bylaws because they didn't split the votes
+### Implications
+- This case is interesting mainly because it shows how condos are another set of governments that affect owners inside the property, but also the city in general
+- Strata property is basically creating hundreds of private local governments providing many of the same functions that the local government does

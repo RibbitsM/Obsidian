@@ -1,0 +1,32 @@
+### [[Harper v Canada AG]]
+- Case deals with spending limits on political advertising during elections for ordinary citizens
+- These are pretty strict limits, $3000 per riding for $150,000 nationwide
+- Main question is whether this is actually an effective limit on free speech
+- Very effective in restricting access to mail campaigns, broadcast tv advertising and major newspapers
+- However, it does not limit a lot of other forms of communication like interviews, text messages/robocalls, spreading flyers, community organizing, and social media
+- Political speech lies at the core of freedom of expression, but the Court in this case still deferred to the legislature
+- Couple of reasons for this, one is because of how important the purpose is
+- What the legislature is doing is limiting speech during elections to actually uphold the freedom of speech, limiting some aspects and enabling others
+- Court points out the need for spending limits to ensure that a single candidate isn't going to be overwhelmed by messaging from third parties
+- Argues that third parties are usually single issue focused, and have much lower costs
+### [[Montreal v 2952-1366 Quebec Inc]]
+- Dealt with the issue of what locations are protected by s. 2(b)
+- Developed a test for telling whether a location is a public space where you would expect freedom of speech to be protected
+- Focuses mainly on the historical and actual use of the place
+	- Has freedom of speech historically been protected here?
+	- Is this somewhere where the function of the place enables freedom of expression?
+		- For example, a lot of govt property is actually private, like offices and Crown corps
+- Speech in this case was a club with "exotic dancers" blasting music out of speakers onto the street
+- Banned under a local bylaw restricting noise pollution, justification was self-fulfillment
+- Case was tied into [[Greater Vancouver Transportation Authority]], which involved political advertising on public transit vehicles
+- Clear difference here, political speech is more protected than loudly advertising your technically legal strip club
+- In the present case, this law was considered minimally impairing, mainly because regulating noise is really hard to do without banning specific kinds of noise
+- Again, giving deference to the city
+- Proportionate because the speech was not particularly important, and it's probably reasonable to give the people on the street a quieter and more peaceful environment
+- In *GVTA*, the legislation was not rationally connected or minimally impairing, mainly because of the historical use of public transportation as an area for expression
+- Clearly defined important form of speech here, no rational connection between the goal of creating a welcoming environment and the limit on this speech
+- No real evidence that allowing political advertising will harm this goal, any advertising that would be discriminatory or harmful are already banned under other laws
+### Summary
+- Explain why political speech is high value
+- Explain why in *Harper*, the legislature was given deference for limiting political speech
+- Articulate the test for speech on public property and fit it into s. 2(b)

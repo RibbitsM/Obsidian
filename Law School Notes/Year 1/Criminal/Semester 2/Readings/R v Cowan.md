@@ -1,0 +1,21 @@
+- Accused was arrested in connection to a robbery of a Subway in Saskatchewan, had the same shoes as one of the robbers
+- Crown argued that the accused was either the principal offender who had a knife and threatened the employees, or an accomplice who was standing watch outside
+- Cowan denied committing the robbery but admitted to giving people advice on how to commit a robbery earlier that day
+- Trial judge had a reasonable doubt of whether he committed the robbery
+- Said he could only be convicted as a party if the Crown established that his friends committed the robbery
+- Court of Appeal said this was an error, only issue was whether Cowan was a party to the offence
+- Case ultimately went to the SCC
+### Analysis
+- Found that the trial judge erred by finding that the Crown was required to prove that Cowan's friends committed the offence to find him guilty as a party
+- Recall that the *Criminal Code* does not distinguish between principal offenders and parties to an offence
+- If the accused is tried alone and there's evidence multiple people were involved in the offence, don't need to prove who the other people are to find the accused guilty as a party
+- *Actus reus* of abetting requires that the accused did something to encourage the principal to commit the offence
+- *Mens rea* requires intent and knowledge, abettor intended to abet the principal and knew they intended to commit the offence
+- Crown does not need to prove who the principal is, or what their specific role in the commission of the offence was
+### Application
+- Based on these principles, it's clear that the Crown was not required to prove that Cowan's friends committed the offence to prove he was an accessory
+- Only needed to prove that one of the people that Cowan encouraged participated in the offence as a principal or party
+- Also, as long as Cowan committed the necessary act with the requisite intent, it doesn't matter who the principal was
+- Overall, ss. 21 and 22 do not create multiple offences, they are only alternate paths to the same destination
+- Whether you rob a store as a principal or party, you are guilty of robbery
+- Cowan's appeal dismissed, new trial ordered

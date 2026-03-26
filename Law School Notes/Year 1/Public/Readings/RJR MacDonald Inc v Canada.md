@@ -1,0 +1,20 @@
+- *Tobacco Products Control Act* bans tobacco advertising and requires mandatory health warnings on tobacco products
+- Government admitted that the mandatory warning infringe s. 2(b)
+- Dissent wanted the court to defer to the legislature for s. 1, saying that Parliament created a difficult compromise between smokers, non-smokers, and businesses
+- Pointed out that tobacco advertising is a relatively unimportant form of speech
+- Reducing smoking is a pressing/substantial objective, rational connection met, and so was minimal impairment
+- A partial ban on advertising could be  been imposed instead
+- Finally, the dissent found that the ban was proportionate, compared the health warnings to labels on hazardous products
+### Majority
+- Allowed for some deference, but said the government needs to have good reason for using its preferred means
+- Also pointed out that this isn't really a social policy issue, we're dealing with criminal law and should be less generous
+- Test failed at minimal impairment, because there was not enough evidence to support a full ban on advertising
+- Informational advertising should be okay, as well as ads comparing brands to encourage existing smokers to switch
+- Most important objective was deterring non-smokers
+- Another issue was that the AG had done a study on alternatives to a total ban but didn't show the results
+- Seems pretty clear that they hurt their case and they were hiding them
+- Finally, commercial expression is still important because of the detrimental effect on the consumers
+- Also didn't establish proportionality, main issue here was the "compelled expression" of the health warnings
+- Without a clear label showing these warnings were issued by the govt, basically forced companies to say smoking will kill you
+- Legislation was changed in 1997 to allow informative and brand-preference advertising limited to adult publications
+- Also required health warnings, but they were attributed to specific people or bodies

@@ -1,0 +1,19 @@
+- Accused was convicted of assault and appealed claiming the trial judge failed to consider intoxication while determining if the accused was a party to the offence
+- Accused and five others were charged with robbery, assaulting a man named Billy with intent to steal from him
+- Group met Billy outside a hotel, and asked them to buy wine for them
+- He did, and the group went with Billy to a hill to drink it
+- While standing on the hill and drinking the wine, three of the group members assaulted Billy, threw him down the hill, and Fraser began going through Billy's pockets
+- Witness saw this, accused was arrested a block away with Billy's watch in his pocket
+- Argument was that he was too intoxicated to form the intent to steal
+- Trial judge said the jury needs to consider drunkenness to determine if anyone had the intent to steal
+- All acquitted for robbery, convicted of assault
+- Accused submits that the trial judge should have instructed on considering drunkenness for assault as well
+- However, this is a general intent offence that drunkenness does not apply to, but does intention to aid and abet count?
+### Analysis
+- The language in s. 21(1)(b) includes the phrase "for the purpose of", which generally indicates specific intent
+- Court in a previous case has made a distinction between intention in relation to purpose, and intent unrelated to purpose
+- For s. 21(1)(b), the Crown needs to prove knowledge of the circumstances of the offence, but not that they knew it was illegal
+- Seems to show that this provision requires specific intent, same applies for s. 21(1)(c)
+- For someone one to abet with an offence, they must know/understand what they are abetting
+- Drunkenness would only be a defence here if the person was intoxicated enough to be incapable of understanding the actions and purpose of the principal
+- Regardless, it's still possible to apply the defence

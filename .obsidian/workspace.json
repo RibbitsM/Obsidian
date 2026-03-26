@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38a4a759da0daf6a",
+            "id": "f4e9a75e52d878ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law School Notes/Year 1/Torts/Semester 2/Lecture 41 (Torts).md",
+                "file": "Law School Notes/Year 1/Criminal/Semester 2/Lecture 44 (Crim).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 41 (Torts)"
+              "title": "Lecture 44 (Crim)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "severance",
+                "query": "\"Ontario v G",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law School Notes/Year 1/Torts/Semester 2/Lecture 41 (Torts).md",
+                "file": "Law School Notes/Year 1/Criminal/Semester 2/Lecture 44 (Crim).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 41 (Torts)"
+              "title": "Backlinks for Lecture 44 (Crim)"
             }
           },
           {
@@ -170,34 +170,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "38a4a759da0daf6a",
+  "active": "f4e9a75e52d878ba",
   "lastOpenFiles": [
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 40 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 39 (Torts).md",
-    "Law School Notes/Year 1/Property/Semester 2/Lecture 43 (Property).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 41 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 36 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 37 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 35 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 34 (Torts).md",
-    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 43 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 31 (Contracts).md",
-    "Law School Notes/Year 1/Public/Readings/R v Butler.md",
-    "Law School Notes/Year 1/Public/Readings/Irwin Toy v Quebec (s. 2(b)).md",
-    "Law School Notes/Year 1/Public/Readings/RWDSU v Dolphin Delivery.md",
+    "Law School Notes/Year 1/Public/Lecture 2 (Public).md",
+    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 44 (Crim).md",
+    "Law School Notes/LSLAP and PBSC/LSLAP Intake Notes.md",
+    "Law School Notes/Year 1/Public/Lecture 22 (Public).md",
+    "Law School Notes/Year 1/Public/Readings/Ontario v G.md",
+    "Law School Notes/Year 1/Public/Readings/Schachter v Canada.md",
+    "Law School Notes/Year 1/Public/Lecture 18 (Public).md",
     "Law School Notes/Year 1/Public/Lecture 19 (Public).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 42 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 38 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 25 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 26 (Torts).md",
+    "Law School Notes/Year 1/Public/Lecture 21 (Public).md",
+    "Law School Notes/Year 1/Public/Lecture 20 (Public).md",
+    "Law School Notes/Year 1/Public/Lecture 17 (Public).md",
+    "Law School Notes/Year 1/Public/Lecture 16 (Public).md",
+    "Law School Notes/Year 1/Public/Lecture 15 (Public).md",
+    "Law School Notes/Year 1/Public/Lecture 14 (Public).md",
+    "Law School Notes/Year 1/Torts/Semester 2/Lecture 28 (Torts).md",
+    "Law School Notes/Year 1/Torts/Semester 2/Lecture 29 (Torts).md",
+    "Law School Notes/Year 1/Torts/Semester 2/Lecture 30 (Torts).md",
+    "Law School Notes/Year 1/Torts/Semester 2/Lecture 31 (Torts).md",
     "Law School Notes/Year 1/Torts/Semester 2/Lecture 27 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Cook v Lewis.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Mustapha v Culligan.md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Saadati v Moorhead.md",
-    "Law School Notes/Year 1/Torts/Semester 1/Exam Prep (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 1/Lecture 23 (Torts).md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/Ontario Law Reform Commission.md",
-    "Law School Notes/Year 1/Property/Semester 2/Readings/BCLI Report on Joint Tenancy.md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/Cooper v Hobart.md",
+    "Law School Notes/Year 1/Public/Lecture 9 (Public).md",
+    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 45 (Contracts).md",
+    "Law School Notes/Year 1/Torts/Semester 2/Readings/Athey v Leonati.md",
+    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 44 (Contracts).md",
+    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 43 (Contracts).md",
+    "Law School Notes/Year 1/Public/Readings/Chaoulli v Quebec.md",
     "Law School Notes/Year 1/Advocacy/Moot Tryout",
     "Law School Notes/Year 1/Property/Semester 2/Untitled",
     "Law School Notes/Year 1/Contracts/Untitled",

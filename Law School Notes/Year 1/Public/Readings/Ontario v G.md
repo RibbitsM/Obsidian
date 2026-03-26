@@ -1,0 +1,90 @@
+- Discussed this case briefly [[Lecture 9 (Public)|already]]
+- Issue was if a sex offender registry having different rules for those found NCRMD violated s. 15
+- Couldn't be removed from the registry or exempted from reporting, ordinary offenders could
+- Issue was what to do, suggested that the law should be struck down after a 12-month suspended declaration
+- Suspensions should only be granted where an identifiable public interest is endangered by an immediate declaration
+- Also need the harm to the public to outweigh the impacts of delaying the suspension
+- Should also be able to grant individual exemptions during the suspended period under s. 24(1)
+### Review of Schachter
+- Whole point of the decision in [[Schachter v Canada]] was that we should be flexible when it comes to issuing remedies for Charter issues
+- Guiding principles in that case were respect for the legislature and the purpose of the Charter
+- First, you need to find the extent of the inconsistency
+- Next, you need to determine what kind of declaration you're issuing
+- Generally, tailored remedies are only given if the legislature would have passed the law with the modifications
+- Majority in that case said that we don't consider the role of the court and legislature for suspended declarations, only the impact on the public
+- Finally, the court also said that we should rarely be mixing s. 52 remedies with individual remedies under s. 24
+- Most of this is still good law, but some stuff has changed over time
+- Rules for determining the extent of inconsistencies were based on an old version of the *Oakes* test, and the statements about delayed declarations and mixing remedies have been criticized
+### Form/Breadth of Section 52(1) Declarations
+- To determine inconsistency under the first step, we need to look at how it violates the Charter, and how it failed to be justified under s. 1
+- Important to note that today, the *Oakes* test focuses on justifying the infringement rather than justifying the law as a whole
+- Breadth of the remedy awarded will generally match the extent of the breach
+- Doing this will protect the rights of those directly affected, as well as the rights of those not directly affected by the law
+- Also need to consider that while the public should not be subjected to unconstitutional laws, they are also owed the benefits of whatever is still constitutional
+- For the second step, remedies less than a full declaration of invalidity should be allowed whenever possible, only a few cases where a whole act is struck down
+- Reading down, reading in, and severance should be used to make sure the good parts of the law are preserved and available to the public
+- Have to be careful not to overtake the role of the legislature when changing laws
+- Shouldn't give tailored remedies if it will mess with the goal of the law as a whole
+- Overall goal is going to be creating a remedy that doesn't impede on the role of the legislature and preserves the parts of the law that are still constitutional
+- Definitely some cases where an immediate declaration of invalidity would create concerns substantial enough to outweigh the problems caused by keeping the law, about 23 of 90
+- Approach in *Schachter* was to classify cases into the categories of threats to rule of law, public safety, or underinclusive benefits
+- Depending on these classifications, different remedies would be granted
+- Cases after *Schachter* have mostly ignored these categories and granted delays for multiple different things, prompting criticism for suspending without sufficient explanation
+#### Rationale for Suspending Declarations
+- Court doesn't explicitly have the authority to do this, but you can argue that it's an unwritten permission in the Constitution
+- Idea first emerged to protect against emergencies, the *Manitoba Language Rights* case made almost all of Manitoba's laws unconstitutional in 1985 for being only English
+- No way we could just declare them all immediately invalid, needed to suspend it
+- Justification for this was the rule of law, having a legal vacuum would violate that
+- First time this was done in a Charter case was *Swain*, where automatic detention for people held NCRMD was deemed unconstitutional
+- Suspended it to avoid having to free people who might be a danger to the public
+- Category of threats to rule of law was based on *Manitoba*, threats to public safety was based on *Swain*, and third category was a response to *Schachter* itself
+- Since, courts have either denied delays because they don't fall into a category, or have not given an explanation at all
+#### Principled Approach
+- Govt bears the onus of showing a compelling public interest for a suspension
+- These interests should not be limited to a list, but should be related to a Constitutional principle like that the public is entitled to benefits of the law
+- Seems that over time, this is how justifications for suspensions have evolved
+- Another important principle seems to be that the courts and legislature have different roles and competencies
+- Allowing the legislature to do their jobs is a consideration for granting a suspension, but only if the govt can prove that an immediate declaration would significantly impair legislation
+- A suspended declaration will not affect the constitutional options for the legislature
+- Example would be in [[M v H]] where the courts suspended because they did not know how to deal with defining "spouses" except on a case by case basis
+- Instead, they wanted to give the legislature more room to make a solution
+- However, suspending the declaration does not actually change this because the legislature had to remake the provision no matter what
+- In some cases, an immediate declaration could actually narrow the options available to the legislature by creating legal rights
+#### Categorical vs Balancing Approach
+- Majority argues that the present case is one where the legal rights caused by an immediate declaration might undermine the legislature's policy choices
+- This is still just a relevant consideration, not enough to justify it on its own
+- Still need to balance the benefits and harms against the remedial principles
+- Includes the principles that the Charter should be safeguarded with effective remedies and that the public should have constitutional legislation
+- Also need to consider the significance of the infringement, especially for ongoing infringements and cases where criminal liability is at stake
+- Balancing approach is not necessarily easier to justify with, it just ties things to the underlying principles more closely
+- We still have a strong interest in immediate declarations
+- Principled balancing approach will actually be stricter than a categorical one because you need to justify any suspensions
+- Government also has the onus of justifying the time limit as well, no default time period
+- Overall, should not grant suspension unless not doing so would endanger a public interest that outweighs the need for immediate constitutional compliance and an immediate remedy
+- Court needs to consider how this will affect the public, and whether it would affect the ability of the legislature to fix the policy
+- Set the time limit long enough to give legislature time for an effective solution, no longer
+### Individual Remedies
+- Section 24(1) remedies should vindicate the rights of the claimants, conform to separation of powers, be fair to the person it's ordered against, and be flexible to meet different cases
+- Need to consider the nature of the violation and the situation and experience of the claimant
+- Seems clear that it's fine to grant individual remedies during a suspension
+- Example would be giving worker disability benefits for chronic pain during a time where provisions were invalid for excluding chronic pain
+- Court has also done similar things with giving acquittals for pending unconstitutional offences
+- Preventing individual remedies during suspensions removes flexibility, which is something we want to preserve and is encouraged by the Charter
+- Need a compelling reason to deny an individual an immediately effective remedy
+- We want to encourage litigation that will identify which laws are unconstitutional, and not all people affected are going to have the resources to make those claims
+- Exemptions from suspensions are often necessary to balance interests
+### General Remedial Principles
+- Can see that individual and broad remedies have a lot in common
+- Focus is on safeguarding rights and giving remedies that give meaning to the Charter
+- Legal stability is also a consistent factor, want to keep the good laws
+- Also ties in to the fact that we want to respect the role of the legislature
+- Boils down to four foundational principles:
+	- Charter should be protected via effective remedies
+	- Public has an interest in constitutionally compliant laws
+	- Public is entitled to the benefit of legislation
+	- Courts and legislature have distinct roles
+### Conclusion
+- This case deals with an ongoing threat to public safety, but the legislature's ability to deal with this issue would be restricted by an immediate declaration
+- Overall, the balance shifts towards granting a suspension
+- Court also granted an exemption for the claimant
+- Separate judgement rejected this approach, pointed to importance of rule of law for sticking to the categorical approach

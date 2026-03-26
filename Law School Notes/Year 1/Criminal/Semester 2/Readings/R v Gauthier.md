@@ -1,0 +1,76 @@
+- Individuals who intend to commit a crime may change their minds and avoid liability by adjusting their intention
+- Issues in this case where whether a trial judge can charge the jury on compatible defences and when the trial judge can instruct on the defence of abandonment
+- Accused and her spouse are charged as parties to the murder of their three children, convicted on three counts of first-degree murder
+- Argues that the trial judge erred by not instructing the jury on the defence of abandonment
+- Accused's family struggled emotionally and financially, accused had suffered a sexual assault and her husband was depressed and struggled to find work
+- Filed for bankruptcy in Oct 2008 and a few months later, refilled her and her husband's prescriptions early and donated he best clothes to a friend
+- Husband intended to make a murder-suicide pact, and the accused claimed she rejected it after helping him type out some documents regarding the pact
+- That evening, the family watched a movie together, accused claimed her husband poisoned the drinks with the anti-anxiety meds
+- Called an ambulance saying her left wrist was slit and her husband had killed their three children, made a reference to the pact
+- When the first responders arrived, only the accused was left alive
+### Lower Court Trials
+- Accused claimed that she was in a dissociative state that day and could not have formed the specific intent to commit the murders
+- Alternatively, she argued she abandoned the common purpose of killing the children by telling her husband that she didn't want to do it
+- Crown's theory was that she was a party, given that they had planned a murder-suicide pact and she supplied the murder weapon
+- By not acting to prevent the children from being poisoned, she aided her husband in the murders
+- Trial judge gave three options to the jury: first degree murder, second degree murder, or acquittal
+- Pointed out that abandonment is usually only used for s. 21(2) and is likely not available for s. 21(1)
+- Did not charge the jury with the defence
+### Analysis
+- Issues are whether the trial judge erred in excluding the defence of abandonment, and whether the defence met the air of reality test
+- Well-established that any defence with an air of reality should go to the jury, done to prevent jurors from being confused
+- Means that the trial judge must charge the jury on any relevant defences whether they have been raised or not, but also that they cannot charge them of defences lacking an air of reality
+- Burden on the accused is only evidentiary
+### Incompatible Defences
+- In a previous case called *R v Wu*, the Court said that the judge doesn't have to instruct on any defences that are incompatible with the principal theory of the defence
+- This is basically an affirmation of the existing rule that the trial judge cannot instruct on defences which lack sufficient evidence
+- We should not be relying on this principle, it's *obiter dictum* anyway and is mostly confusing
+- Can imagine a scenario where the accused uses an alibi and says they were in a different city while Crown witnesses claim they saw the accused at the scene of the crime, highly intoxicated
+- In this situation, the alibi and intoxication defences are incompatible, but if they both have an air of reality on the facts, the jury should hear them
+- While this may be confusing, there does not seem to be a cardinal rule against instructing the jury on two defences that may be incompatible based on some subset of the facts
+### Defence of Abandonment
+- This defence has been rarely raised, and was first used in 1940 in a case called *R v Whitehouse*
+- Case was concerned with how the defence applies to the offence of participation in a crime under s. 21(2)
+- Test has three essential elements:
+	- Intention to abandon the unlawful purpose
+	- Timely communication of abandonment
+	- Notice communicated to the others engaged in the unlawful purpose must be unequivocal
+- Reason we have this defence is to ensure only morally guilty people are punished, and to encourage people to withdraw from criminal activities
+- Scope of the defence varies from case to case depending on the circumstances, the kind of offence, and participation of the accused
+### Section 21(2) vs Section 21(1)
+- Also important to note that the law treats common intenders differently from aiders and abettors
+- Recall that s. 21(2) makes forming an intention to carry out an unlawful purpose in common with others an offence punishable by the same penalty as the principal
+- Liability depends on the decision to participate and the promise of future contribution of resources needed to achieve it
+- Intention to withdraw from this purpose can be enough, as abandoning the purpose in time will remove those resources
+- Aiding and abetting is different because they provide concrete acts that help or encourage the offender in some way
+- Culpability in this case comes from their acts of contribution, under s, 21(2) the contribution doesn't happen until the offence is committed
+- Author has explained the difference by comparing it to releasing an arrow from a bow and hoping it misses
+- As long as the arrow still hits the victim, the withdrawal of intent had no effect on the eventual results
+- In a previous case called *Fournier*, the accused hired someone to kill her husband, and tried to cancel the murder at the last second by leaving the killer a message on their phone
+- Acts of abandonment were not proportional to the acts supporting the commission of the offence, found guilty
+### Application
+- Defence does apply to s. 21(1), but it must be modified to take into consideration the degree of participation in the crime
+- New elements of the defence are as follows:
+	- Need intention to abandon unlawful purpose
+	- Need timely communication of abandonment to the person who wished to continue
+	- Communication must provide unequivocal notice
+	- Accused must take reasonable steps to cancel out the effects of the participation in a manner proportional to their participation
+- In some cases, communication alone will be enough even under s. 21(1), but in other circumstances, more will be needed
+- Overall, abandonment should only be left with the jury where the evidence shows that the former party to the offence took steps to neutralize the effects of their participation
+- Defence in this case did not have an air of reality
+- Accused had written several documents which included evidence that the couple intended to kill their children and then themselves
+- Appellant purchased the medication causing the children's deaths, seems unclear what evidence justifies putting the defence of abandonment before the jury
+- Only relevant testimony was the claims of the accused that the afternoon before the killings she told her husband she no longer intended to participate and ripped up the papers
+- Also believed from her husband's expression that he agreed with her
+- This evidence is still not enough to create an air of reality?
+- She would have had to have hidden or destroyed the medication to undo her act of supplying her husband with the murder weapon
+- Overall, the defence of abandonment failed the air of reality test, and the trial judge was not required to charge the jury on it
+- Appeal dismissed
+### Dissenting Opinion
+- Argues that the trial judge should have instructed on abandonment if the appellant either abandoned her earlier intention or had adequately communicated her change of heart to her husband
+- These are the only essential elements of the defence of abandonment
+- There is evidence that the jury could conclude meant that she had abandoned the suicide pact, or at least raise a reasonable doubt
+- Accused should be given a new trial 
+- Additional requirements for the defence suggested by the majority are unnecessary for policy and precedent reasons
+- Modifications should only be applicable on a retrial even if we endorse them, otherwise the accused did not get a fair trial
+- Overall, appeal should be allowed, convictions set aside, and a new trial ordered

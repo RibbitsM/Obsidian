@@ -1,0 +1,36 @@
+- Accused was charged with killing his ex-wife, convicted of first degree murder and appealed the conviction
+- Crown's theory was that Thatcher killed her personally, or alternatively got someone else to do it for him and was guilty as a party
+- Thatcher argued that the trial judge did not tell the jury that for a guilty verdict, they all had to agree on one theory of why they were guilty
+- Accused was a successful businessman and politician, involved in bitter child support and custody proceedings with his ex-wife Wilson
+- He was obsessed with the divorce, and had stated multiple times to multiple people that he was going to kill her
+- Two years before her death, Wilson was shot in the shoulder through her kitchen window by a rifle
+- She didn't lay charges and agreed to give up custody of one of her sons and accept a smaller property settlement
+- In January of 1983, she was beaten and shot to death in her garage
+- Thatcher had purchased a gun in Florida of the same kind used to kill the victim, and a credit card receipt with his name on it was found near the garage
+- Also, a government car that Thatcher had borrowed was staking out the garage days before
+- Evidence that he had tried to hire hitmen in the past, and that the man leaving the scene of the crime did not look like Thatcher
+- Thatcher relied on an alibi from his two sons and his friends, denied ordering the shooting
+### Jury Charge
+- Explained that the accused could be convicted either for committing the offence himself, or by hiring someone to do it
+- Told the jury that Thatcher would be equally guilty if he committed murder personally, or if he aided or abetted the murder
+- Also said that just because the Crown cannot prove that someone else killed Wilson, that does not mean you can't find Thatcher guilty as an accessory
+- Jury found the accused guilty of first degree murder
+### Analysis
+- Defence argued there was no evidence to support the theory that Thatcher ordered the killing, this just isn't true
+- Thatcher had a clear motive, he was connected to the murder weapon, and he had delivered a car and revolver on the day of the murder
+- Alibi evidence is also consistent with this theory
+- There is actually very strong evidence connecting Thatcher to the crime, though it doesn't seem like he personally did it
+- Crown does not need to identify the exact person who killed Wilson to presume that Thatcher had something to do with it
+- Previously established that where someone is being tried alone and there's evidence multiple people were involved, can instruct the jury on s. 21
+### Jury Unanimity
+- Point of s. 21 is to make aiding, abetting, and personally committing an offence legally irrelevant
+- This is clearly distinguished from more specific accessory related provisions like ss. 421 and 423
+- Because of this, both forms of participation in the offence can be considered as the same method of incurring criminal liability
+- Unnecessary to specify the nature of the accused's participation in the offence in the charge
+- Overall, it does not matter if the jury agreed on whether the accused personally committed the offence or not
+- Jurors each had three different options: Thatcher personally killed the victim, he aided/abetted in the killing, or he is innocent
+- If any of them had a reasonable doubt that he was innocent, he should be acquitted but clearly no juror did this
+- Given that there is no legal difference between the remaining options, either one should lead to a guilty verdict
+- Can argue that these theories are factually inconsistent, but that's really only true about the alibi
+- Can imagine some situations where a lack of jury unanimity like this would cause difficulties, but not here
+- Appeal dismissed

@@ -1,0 +1,52 @@
+### [[R v Thatcher]]
+- Recall that this case was the one where the accused was a politician who either killed his ex-wife or ordered someone to have her killed
+- He was pretty open about wanting her killed, and there was already one attempt on her life before she was ultimately beaten and killed in her garage
+- Strong evidence tying Thatcher to the crime, a receipt with his name on it was found near the crime scene and a car stalking her house was tied to the provincial government
+- Also, Thatcher had a gun that was the same kind as the one used in the shooting
+- On the other hand, Thatcher had an alibi and the descriptions of the perpetrator did not match his appearance
+- Some evidence did consist that he could have helped someone else do it by giving them the gun and the car, and he had talked about this in the past
+- Crown said that the jury should find him guilty either by doing it himself, or as a party by aiding the actual perpetrator, equally guilty either way
+- Judge charged the jury on these two possibilities and they found him guilty based on one of the two theories
+- On appeal, defence argued that the jury did not have to be unanimous on which theory they chose, each jury member may have a reasonable doubt on whether he was a principal or party
+- Jury needs to be unanimous on that too, not just the final decision
+- SCC rejected this argument and upheld the conviction, saying that either way Thatcher is guilty of murder and the way the jury got there didn't matter
+- Whole point of s. 21 is to remove the distinction between principal and party, to not use it this way would violate that core purpose
+- Also true that jurors are allowed to reject or accept different pieces of evidence, as long as they come to the same verdict unanimously
+- We also don't know what the jurors accepted or rejected, they don't have to give reasons
+### [[R v Cowan]]
+- This was the case where a guy was charged with robbing a Subway, the Crown raised evidence supporting their theory that the accused was the principal
+- Also raised evidence that earlier that day, he had given advice on how to commit a robbery to two of his friends, so he could be charged as an aider instead
+- Trial judge was not convinced that he was the principal, and said that for him to be charged as an aider, they would have to find that one of the people he talked to committed the offence
+- Acquitted him on that basis since they didn't know who the robbers were
+- Appealed based on the issue of whether we need to know who the people committing the offence were to charge someone as an aider/abettor
+- If we retry the accused, is being accused as a principal or party, or just as a party?
+- Court said you don't need to know who the principal is to convict
+- Only need to prove that he aided someone in the commission of the crime
+- Tracks with the decision from *Thatcher*, didn't need to know who the hitman was
+- Second issue was a bit more complicated, should the accused get to keep the privilege of being acquitted as a principal?
+- SCC rejected this, recall that party liability makes everything the same so we should have a retrial on everything
+- This seems to be a bit of a split from the principal where if you're acquitted of one offence among several, you keep that acquittal on retrial
+- Same goes for when you're acquitted of a larger offence and tried for an included offence
+- Draws a distinction because you're not acquitted of an offence, just a pathway to conviction
+- Open for the Crown to reargue that the accused was a principal
+- Two ratios for this case, that a retrial applies to parties and principals, and that you don't need to prove identity of the principal to find someone guilty as an aider/abettor
+### [[R v JSR (Aiding and Abetting)]]
+- Recall that we already looked at this case for [[R v JSR|causation]], it was the case about a shootout in Toronto on Yonge St where the victim was caught in the crossfire
+- Crown argued that JSR was guilty based on transferred intent under s. 229
+- Court of Appeal rejected this argument because s. 229(b) requires you to do something by accident or mistake, and JSR was acting entirely intentionally
+- This is a pretty restrictive reading of the section
+- Court also rejected the argument that he can't be charged as a party, because he was not trying to assist the northbound shooter
+- They had clearly opposing intentions, they were trying to kill each other not engaging in a common purpose together
+- SCC ultimately held that he was guilty, s. 229 does apply here as all the elements are met, and the Court of Appeal interpreted it too narrowly
+### R v Vu
+- Dealt with a case where a UBC student was kidnapped and held for ransom
+- Transferred to multiple different houses, and the accused in this case participated in his confinement in one of the houses
+- Can he be convicted of kidnapping as an aider?
+- We know he can be convicted of unlawful confinement, but kidnapping is a more serious offence that requires movement of the victim
+- Vu argued that the movement had already happened, he was only confining him
+- Crown argued that kidnapping is a "continuing offence" like in [[Fagan v Commissioner of Metropolitan Police]]
+- True that legally speaking you need movement for kidnapping, but factually speaking the offence continues until the victim is released
+- Vu was guilty of kidnapping, not just unlawful confinement
+- Difference between the legal definition and the factual reality
+- This is also different from being an accessory after the fact, which only applies if the offence has actually ended at the point the helper comes into play
+- In this case, there was still at least one ongoing offence (unlawful confinement)
