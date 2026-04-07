@@ -50,4 +50,3 @@
 - This is still law today, a condition cannot be waived if it is fully in the hands of a third party, even if the fulfillment of that condition only benefits one party
 - Rationale is that neither party has promised to enforce the contract yet, the existence of the contract is dependent on the decision of the third party
 - Case also raises the issue of what a "false" condition precedent would be
-- 

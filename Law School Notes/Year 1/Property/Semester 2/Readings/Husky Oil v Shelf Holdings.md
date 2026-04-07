@@ -1,0 +1,38 @@
+- Issue is whether the title of the defendant to a section of land is subject to an easement for Husky
+- Husky built a pipeline across the land, Shelf is asking for a removal of the easement from its title and damages
+- Argue that the Inspector of Land Titles wrongfully registered the easement before Shelf owned the land
+- Trial judge held that the easement filed by Husky is not an easement under the *Land Titles Act*, it was not an interest in land giving Husky exclusive use of the pipeline land
+- Therefore, Shelf should get title free of Husky's claim
+### Analysis
+- Court held that the interest conveyed by the grant of easement is a right-of-way, not an interest granting exclusive rights
+- Husky only has the right to occupation for a pipeline, owner is not divested of any property rights
+- Primary point of reference should be the contract creating the Grant of Easement
+- Husky paid some money to the grantor (Peregrym Farms) in exchange for a right-of-way to build and maintain a pipeline
+- Also came with a bunch of conditions on what they can do like drilling, erecting walls, clearing timber, etc.
+- Recall that there are four requirements for something to be an easement
+	- Need a grantee and a grantor
+	- Easement needs to accommodate the grantee
+	- Grantee and grantor have to be different people
+	- Easement must be able to form the subject matter of the grant?
+- Only issue here is the fourth requirement
+- Three questions used for determining this requirement
+	- Is the right too vague?
+	- Is the grant inconsistent with the possession of the grantor?
+	- Is it just a right of recreation without any benefits?
+- Main issue here is on the second question
+- Any easement will interfere with the grantor to some extent, and will grant some interest to the grantee
+### Application
+- Overall, it seems that whatever privileges Husky got did not detract from the rights of Peregryn
+- Intention of the contract was to give Husky a benefit subject to their agreement on some terms and conditions
+- Shelf/Peregryn cannot interfere with the subsoil or erect any works that block the right-of-way
+- Otherwise, they can do pretty much whatever they want
+- This is supposed to be farmland, so the use of land on the surface is the most important, and that's not really messed with
+- Husky needs to compensate Shelf for any damages to crops, pastures, livestock, etc. and cannot fence off the right-of-way
+- This, Shelf can still cultivate the land and graze cattle there
+- This is pretty much full use of all the land with some small limitations
+- Husky also needs to restore the land when they leave, so the right-of-way will revert to Shelf when it's no longer needed
+- Seems to confirm that this is just an easement
+- Overall, seems like this was not conveying any interest in land to Husky
+- All they got was the privilege of using this right-of-way, Shelf still has a high degree of possession and control with minimal interference
+- This is all pretty common practice for giving easements for pipelines
+- Grant to Husky is a valid and enforceable easement

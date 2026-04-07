@@ -16,8 +16,8 @@
 		- Also doesn't have to be a widespread belief or practice
 		- As long as it is honestly held and has a nexus with religion, it's ok
 	- Second, need to show an interference with the practice or belief that is not non-trivial or insubstantial
-		- Examples of a non-trivial interference is an economic burden placed on the claimants, shown in [[R v Big M Drug Mart]] and [[Alberta v Hutterian Brethren of Wilson Colony]]
-			- In the latter case, the burden was found to be non-trivial, and the same thing was decided in [[Law Society of BC v Trinity Western]]
+		- Examples of a trivial interference is an economic burden placed on the claimants, shown in [[R v Big M Drug Mart]] and [[Alberta v Hutterian Brethren of Wilson Colony]]
+			- In the latter case, the burden was found to be trivial, and the same thing was decided in [[Law Society of BC v Trinity Western]]
 		- Classic example of interference is [[R v Edwards Books and Art]], in that case there was interference because of competitive pressure
 			- Interference can be direct, but also done indirectly through effects
 		- Example of a case where there was no interference was [[SL v Commission scolaire des Chenes]]

@@ -1,0 +1,45 @@
+## Culos Development v Baytalan
+- Example of a recent case (2025) where specific performance was granted as a remedy
+- Baytalan approached Culos to ask if they wanted to buy a property in Kelowna to be used to develop social housing
+- Parties agreed to an option to purpose in March 2020
+- Final version of the contract specified that the purchase prices was either $1.3 million or the market value of the property, whichever was higher
+- Culos had a year to use the option, with an optional 6 month extension
+- Did some pre-development activities like getting the property rezoned and made a proposal to BC Housing, incurred a bunch of costs in preparation
+- Culos got an appraisal that said the property value was 1.5 mil in 2020, but in August 2021 he got his own appraisal which valued the property at 3.9 mil
+- Culos tried to use the option and Baytalan pretty much just avoided him to keep the price rising before he had to sell the property
+- In December 2021 when Culos finally tried to complete the purchase, Baytalan refused and Culos sued for specific performance
+- In the end, the appraisal value the property was based on was Culos' evaluation of 1.5 mil
+### Analysis
+- Trial judge found there was a binding contract, and Baytalan breached the contract
+- Rejected the claim for specific performance, said the property was not unique and awarding damages would be more appropriate
+- Culos appealed arguing that SP was the proper remedy
+- BCCA accepted this argument, saying that the trial judge relied too much on evidence supplied by Baytalan's appraiser and that he focused too much on using the property for investment
+	- Investment properties are generally ineligible for SP, but just because Culos would make a profit from the property does not mean it was not unique
+- Trial judge also wanted Culos to provide substitutes for the property, which is not required
+- Court pointed to the legal history of SP for land cases, placing emphasis on the fact that it was an equitable remedy designed to avoid injustices
+- General rule was that the buyer is entitled to SP because the land is property with a fixed location and a special value
+- No longer the case under Canadian common law, *Semelhago* established that since property is mainly used as an investment, should be treated like a consumer product
+- Instead, for land transactions we rely mainly on the inadequacy of damages
+- When looking at adequacy of damages, the focus is on the availability of substitutes but also just uniqueness in general
+- As long as the property is especially useful for its purpose, do not need to also prove that there are no possible alternatives
+- Standard is not that the property is incomparable, just need to show uniqueness
+- Because of the work that Culos had already put into this land, makes it unique
+- Property is unique where you can't easily get an equivalent, need to show that by providing evidence like Culos did, sunk costs can be good evidence
+- Also, the fact that the land was being used for non-profit housing was relevant because that's not a super common use for land
+### Failure to Consider Relevant Evidence
+- Trial judge erred in saying Culos has no evidence of a lack of an easy substitute
+- The fact that he had already been preparing to build here by submitting a rezoning application, doing some investigations and designing the building made it unique
+- Shows that the courts will not just look at the land itself, but also other activities related to the land
+- Court of appeal also found evidence of uniqueness from Baytalan's appraiser who submitted a report to support his case
+	- Evidence showed it was a good location and the area lacked multifamily housing
+- Trial judge did not take a lot of this evidence into account
+- Found that this evidence was highly relevant to determining if there was a good substitute, and the trial judge erred by saying otherwise
+### Undue Focus on Investment Purposes
+- No presumption of replaceability or investment property cases
+- Culos' goal was to profit, but it was also intended for social housing and there were factors showing that the property was not necessarily replaceable
+- Can't be replaced because of the substantial investments both of money and time poured into the property before the purchase was even attempted
+- Pre-development work can be considered a unique feature of land as long as the completion and necessity of that work makes it harder to find an alternative
+- No reason to expect that all this work could be replicated quickly and cheaply
+- Reasonable to assume that doing this would require a lot more time, money, and coordination
+- Just because a property is planned to be used for investment doesn't mean you can ignore other factors that show that the property is actually quite unique
+- Overall, we can look at factors other than just the physical characteristics of the land when assessing uniqueness, and investment purposes does not create presumption against SP

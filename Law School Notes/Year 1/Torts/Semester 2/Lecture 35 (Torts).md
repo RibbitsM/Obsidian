@@ -43,12 +43,12 @@
 - Factory flooded, after draining the water the floor was still slippery, they sawdusted the floor but didn't have enough sawdust
 - Employee slipped on a part of the floor with no sawdust, injured themselves and sued
 - Defendant was not liable because the cost would be shutting down the plant
-- Based the decision on *Wagon Mount*, because burden was greater than the PL, defendant did not need to take maximum amount of care
+- Based the decision on *Wagon Mound*, because burden was greater than the PL, defendant did not need to take maximum amount of care
 - Overall, cost of avoiding risk completely was too high, the injury was an acceptable cost
 - Plaintiff didn't establish that a reasonably prudent employer would have shut down the factory
 - Probably the biggest example of the impact of the learned hand formula
 ## Rule of Statutes
-- Where a plaintiff is injured where a statutory obligation has been breaches, is the breach the basis for a negligence action?
+- Where a plaintiff is injured where a statutory obligation has been breached, is the breach the basis for a negligence action?
 - Basically, does a breach of statute impact the reasonability assessment
 - Statutes impose a duty and penalty for the breach, but does not explicitly say this impacts a civil action
 ### [[R v Sask Wheat Pool]]

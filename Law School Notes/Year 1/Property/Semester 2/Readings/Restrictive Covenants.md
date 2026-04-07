@@ -1,0 +1,99 @@
+- Law of covenants has developed in a pretty confusing and technical way, with a bunch of seemingly opposing decisions
+- Also tie in to a bunch of social questions, for example covenants can be used to supplement public planning laws
+- This is the mechanism for creating planned communities
+- Comes from privity of contract but it's slightly different
+- Applies even in the absence of privity of contract/estate, these are equity rules first and foremost
+- Circumstances where a burden of a covenant will run with the land is crucially important
+	- Will not run with the land under the law, but will under equity
+- Also, remedies for breach of these covenants are usually injunctions, which is an equitable remedy
+- Shows the importance of equitable principles here
+### Burdens in Equity
+- [[Tulk v Moxhay]] was the first case to clearly establish that burdens of covenants can run with the land in equity
+- Decision was mostly based on the idea that a buyer with notice should be bound in conscience
+- Now we have more requirements, specifically four requirements:
+	- Covenant has to be negative, courts will not only enforce restrictive covenants
+		- Negative covenants are any agreement where the obliged party can follow them by doing nothing
+		- This limitation has been confirmed in Canadian law
+	- Burden must be intended to run with the servient land, and land must be sufficiently described in the covenant
+		- Reason for this is that we want to make sure that the promise was not intended to only apply to the covenantor
+	- Burden must be taken for the benefit of the dominant lands, which also have to be sufficiently described
+		- This comes from the laws of [[Lecture 46 (Property)|easements]], need a dominant and servient property
+		- Don't need to be adjacent, being close is enough
+		- Dominant tenement also doesn't have to be freehold, covenants can be tied to leases or even mortgages
+		- We know this applies in Canada because of *Galbraith*, and the covenant needs to "touch and concern" the dominant tenement
+		- Previously, restricting to residential uses or preserving use of amenities is fine, but limiting who can buy the land is not
+		- Reasoning for this requirement seems to be balancing freedoms, need a good reason for imposing burdens
+	- Equity needs to be prepared to enforce the covenant
+		- Starting point for this is the requirement of notice
+		- Recall the priorities under equity, not enforceable in conflict between prior equitable and subsequent legal interests if the latter did not have notice
+- Questions of notice are also now affected by statute
+- However, other equitable principles can also be relevant
+### Benefits in Equity
+- Three ways to transmit a benefit
+	- Annexation
+	- Contractual assignment
+	- Building scheme
+#### Annexation
+- Benefit of a covenant can be annexed to run automatically with the benefited land
+- Benefit must touch and concern the land, and it also has to be annexed in a way that runs with the land
+- Should probably have "annexation" in the words of the covenant and a clear indication that the benefit passes to all successors
+- Under the Ontario *Conveyancing and Law of Property Act*, covenants are made with the heirs and assigns as if they were expressly named
+- Transferees of the benefited lands don't need notice of the benefit to get it under common law, different from the burden
+- English law may allow implied annexation even where the original document does not expressly state that the benefit runs with the land
+- Canadian law generally does not allow this because of *Galbraith*
+- If the land is not identified in the covenant, can't do anything
+- Holder of the burden needs to know who might try and enforce the promise
+- Unclear whether we can imply annexation if the land is mentioned but it doesn't say if the burden runs with it
+#### Assignment
+- Benefit of a restrictive covenant can be expressly assigned
+- Will be effective against the original covenantor, and can also be effective against a subsequent purchaser getting the benefit, assuming the burden also run with the land
+- Express assignment is only needed if there's no annexation?
+#### Building Schemes
+- Common strat is to create restrictive covenants in bulk using a commercial complex or a residential development
+- Rules we already talked about apply individually to every restrictive covenant set out in the building scheme
+- Building schemes are essentially "local laws" where each other has common burdens and benefits
+- This methods lets developers do this without painstakingly drafting covenants for every individual lot
+- Means that lot owners can enforce covenants regardless of when they were acquired, both early and late purchasers have benefits good against each other
+- Need for prerequisites for a building scheme
+	- First, titles to all the properties need to come from the same seller
+	- Second, vendor needs to lay out the parcels subject to restrictions consistent with a general development scheme
+		- Can still have some minor variations for special lots
+	- Third, restrictions have to be intended for the benefit of all the parcels of land under the scheme
+	- Fourth, affected parcels have to be purchased on the understanding that the restrictions will benefit all other parcels
+		- Also need to clearly define the area of the scheme
+- English law has relaxed some of these requirements, especially the first two elements
+- In Ontario at least, all these requirements are required
+- Even if the scheme fails, covenants may still be enforceable if all the other rules are followed
+### Conclusion
+- Recall that equity dominates here because of the use of injunctions and the law's refusal to enforce burdens against future buyers
+- Though contract law doesn't usually allow assignment of burdens, you can transfer benefits, which can be enforced
+- Not possible under common law, but is allowed under statute
+- Even without clear contractual assignment, benefits can run at law if it's been annexed to the land
+- For annexation, covenant needs to touch and concern dominant lands, be intended to run, and at common law the transferee needs to get the whole interest of the original benefit-holder
+- With all these elements, can automatically pass on benefits
+## Termination
+- Even where the requirements for covenants running with the land are met, validity can still be challenged
+- Examples, covenants can place unacceptable restraints on alienation, or can be contrary to statute
+- Example of the latter would be covenants discriminating based on race or religion which goes against the Ontario *Human Rights Code*
+- Doctrines related to restraint of trade have limited application to restrictive covenants
+- Mainly because the party getting the property subject to a restriction is not relinquishing a right they already had, they had no previous right to be there and no right to carry on a specific business
+- Will apply if a party with a present right to do business surrenders that right under a restrictive covenant
+- These are pretty rare cases, and restrictions can still be unenforceable if they are too unreasonable
+- Restrictive covenants can theoretically last forever, as they are not vested rights and aren't subject to the rule against perpetuities
+- Can still be terminated if all the parties agree or if the covenant has an inbuilt time limit
+- Under the Ontario *Land Titles Act*, a covenant with no fixed expiry date expires 40 years after registration
+- For a fixed expiration time, registrar can remove it starting 10 years after the stated expiration date
+- Where the benefitted and burdened lands become owned by the same person, covenant is extinguished unless it's part of a building scheme
+- In the latter case, covenants are only suspended and can later be revived
+- General principles of equitable relief apply when enforcing restrictive covenants
+	- These principles include delay and acquiescence
+	- For acquiescence, the enforcing party is stopped if there were past breaches severe enough to deprive the covenants of their purpose
+	- If the locale has changed enough to make enforcement pointless, remedies can also be denied
+- Statutes also have other grounds for termination
+	- Section 61 of the Ontario *Conveyancing and Law of Property Act* lets covenants be discharged/modified by court orders
+- This is pretty broad discretion, case law has established that courts can use this where restrictions are spent or otherwise have no value
+- Also can be used if the impact of the order on the benefitting parties will be negligible
+	- Usually based on changes in market value
+- Overall, the discretion here is not as broad as it seems
+- Second provision is in the *Land Titles Act*, and allows modification or discharge if it will be beneficial to the enforcing parties
+	- Seems different, but used the same way as s. 61

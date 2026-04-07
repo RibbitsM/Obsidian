@@ -1,0 +1,15 @@
+- Covenants based on sale of land that the purchaser and their assigns will refrain from using land in a specific way will be enforced against all subsequent buyers with notice
+- Doesn't matter if it's a covenant running with the land
+- This is the case about [[Lecture 46 (Property)|Leicester Square]] we already talked about
+- Covenant said that the park needs to be maintained and preserved for the use of the surrounding inhabitants
+- Defendant wanted to build on the garden, and the plaintiff filed for an injunction to stop them
+- Argument was that since the covenant didn't run with the land, it should not be enforceable
+- Court rejected this argument, otherwise it would be impossible for someone to sell part of their land while ensuring that the rest of their land remains valuable
+- Price of the land should also be affected by the covenant
+- If there was just an agreement and no covenant, the court would enforce it against anyone who purchased with notice
+- If an equity is attached to a property, no one buying the property with notice of the equity can end up in a different position
+- Previous cases back up this line of reasoning
+- Claimant did point to a case called [[The Irreversibility of Commodification|Keppell v Bailey]] which dealt with a covenant and whether a buyer should be bound by it
+- This was the case that established *numerus clausus*
+- However, the majority here argued that the decision in that case was not intended to make equities not run with the land
+- Motion should be dismissed

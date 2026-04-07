@@ -1,0 +1,60 @@
+- Instead of claiming damages, can also sue for specific performance/injunction
+- Both are equitable remedies instead of compensatory ones
+- Requires the party in breach to perform the contract, injunction requires the breaching party to refrain from doing something they promised not to do under the contract
+- Usually only available in exceptional circumstances, generally when damages are inadequate
+- Plaintiff needs to show that damages aren't enough
+- Can also be unavailable if the court would have to supervise a long-term or complex performance of the contract
+- Reason for this is that it would be kind of a waste of judicial resources
+- Also not available to either party if it was only available to one party
+- Reason is that it would be unfair, called the doctrine of mutuality but is a fairly uncommon principle in contract law
+- Similarly SP can be denied if it would be unfair for some reason, either granted to a plaintiff who is unworthy for some reason or it would impose undue hardship
+- Key question is really the inadequacy of damages
+### Inadequacy of Damages
+- This is what happened in *Beswick v Beswick*, which was a [[Lecture 18 (Contracts)|privity]] case we already looked at
+- Nephew promised to look after his uncle's widow as consideration for selling his business to him
+- Nephew refused to comply, aunt couldn't sue because of privity of contract
+- Uncle's estate sued, but damages weren't sufficient because the estate wasn't actually harmed by this, only the aunt was
+- Therefore, the proper remedy should be specific performance
+- Where damages are inadequate, court may order SP either for a current breach or a prospective future breach of contract
+- Often, this is where the defendant threatens to breach in the future
+- Court can order in advance to force the defendant to go through with the contract
+### Land Transactions
+- Land transaction cases are one of the easiest cases to prove the need for SP
+- If the property being bought is subjectively or objectively unique or valuable in some way to the purchaser, the court may find damages inadequate and order SP instead
+- Part of the general rule that land has a special status under the law
+- Plaintiff needs to show that the land would be better justice than money
+- SCC established that not all real estate is unique, not a hard presumption
+- Still need to prove that damages would be inadequate, it's not a done deal if it's land
+- Established in a 1996 SCC case called *Semelhago v Paramadevan*
+- Recent ONCA cited this case, and said that if there's a readily available substitute for the land, then specific performance will not be granted
+- Court needs to assess the uniqueness of the property to the buyer, including the characteristics of the property, circumstances of the transaction, and the intentions of the buyer
+### Goods Transactions
+- Buyer can usually get a substitute for goods, so SP is generally not used here
+- Expectancy damages would let them easily buy a replacement, presumption for goods transactions is damages, not SP
+- If you can still show that damages are insufficient, can still get SP
+- Damages for goods transactions where seller breaches are determined based on the difference between the contract and market price, so you ensure they can get substitutes
+- Same goes for if the buyer breaches the contract
+- In an old case called *Falcke v Gray*, plaintiff got SP for a contract to buy two big jars that were unique and special enough that you can't get a substitute
+### Other Limitations
+- As mentioned earlier, courts will not supervise the parties over long-term
+- Example for this is where the contract is a promise to carry on a business
+- Other example could be for construction agreements, also long-term/complex enough for the court to not want to step in
+- Next limitation is unfairness, which was also mentioned earlier
+- Court has broad discretion here, determine this based on two main categories
+- First is where the conduct of the plaintiff shows that it would be unfair to give them SP, usually because they were acting in bad faith
+- Second is where allowing SP would put an unfair burden on either party
+- Example is *Henderson v Thompson*, which was a case where the defendant was brought into the agreement based on a misrepresentation
+- Next limitation is just general public policy concerns
+- Especially in employment cases, the court will not order SP because the parties clearly already have a toxic relationship and should not be working together
+- Requiring an unwilling employee to serve a plaintiff employer is a limit of the employee's freedom of action, court will not do this
+- Broadly applies to service contracts as well, don't want to basically allow contracts of slavery
+- On the other hand, wrongful dismissal cases will not allow SP, which would force the employer to take back an employee they clearly don't trust anymore
+- Final limitation is delays, if the plaintiff spent too long getting the remedy, can't get SP
+- Called the equitable defence of laches, applies generally to cases with delays
+- Need to show delay as well as some sort of change of position that would make it inequitable to require SP from the defendant
+- Plaintiffs intended to abandon their rights under the contract
+- Mainly happens where one parties has changed positions or circumstances make it so that requiring SP at this point would be unfair
+- These limitations pretty much only arise if you can't show that damages are adequate
+### Conclusion
+- Overall, few breach of contract cases end in specific performance
+- Burden of proving inadequacy of damages is usually too high

@@ -1,0 +1,74 @@
+- Next unit is on non-possessory interests, these are basically any interests that don't come with the right of possession
+- Also called incorporeal hereditaments
+- Three main kinds: easements, covenants, and profit a prendre
+- This class is about easements
+### Easements
+- Already know that easements are not just binding on the people that make them, can also run with the land
+- Can think of an easement as a right-of-way, this is the most common form of easement
+- Comes in the form of the right to use land to walk across, to use a ditch to drain water, to build a pipeline, to use a neighbour's kitchen or bathroom, etc.
+- Recall that these are rights attached to property, not attached to people
+- Property receiving the benefit of the easement is called the "dominant tenement", and the property the easement is placed on is called the "servient tenement"
+### Positive v Negative
+- There are two different kinds of easements, positive and negative easements
+- Positive easements are the one's we've already talked about, giving people the rights to do something like walk or drive across property
+- Negative easements are just restrictions on what the servient owner can do
+- Example was the right to have light through a window, meaning the servient owner cannot build anything obstructing that light
+- Another example is the right to create a nuisance, a sawmill can ask for an easement allowing them to make noises or create smells
+- The servient owner is restricted in the sense that they can't bring an action for nuisance here
+- Negative easements are generally much less common
+### Ellenborough Park
+- Involved a property on the Bristol Channel in Westin-Super-Mare
+- Dispute regarded a park and a bunch of housing units constructed around it by a developer
+- Granted the purchasers of the units the right to use the park for recreation
+- During WWII, the War Office started using the park because it was next to the beach, and had to compensate people whose property interests were affected
+- Compensated the developers who owned the park, the unit owners argued that they should also be compensated because of their easements on the park
+### Easement Test
+- Court set out four requirements for determining whether something is an easement
+	- Need a dominant and servient tenement
+		- Means that you can't have an easement not attached to a property that's benefitting
+		- Rationale for this is that to justify a burden, someone needs to benefit from it
+	- Easement has to accommodate the dominant tenement
+		- Means that the right has to be reasonably necessary for the betterment of the dominant tenement, ties in to the first requirement
+		- Need to determine this based on the facts, does having access to the park benefit the people living in the housing units?
+	- Dominant and servient tenements cannot be owned by the same person
+		- This has also been abrogated by statute, s. 18(7) of the *Property Law Act* establishes that people can make easements to themselves
+		- Main concern for this is that sellers can set up easements before selling properties
+	- Right must be capable of forming the subject matter of the grant
+		- Three subrequirements, can't be too vague, can't grant a mere right of recreation, and cannot extinguish a possessory interest
+			- Vagueness is just to make sure that all parties can understand what is meant
+			- Recreation requirement indicates that you need some kind of utility, court in this case said that having access to a park does have utility
+				- Threshold for this is pretty low, no real examples of failing this part
+			- Most important one is the extinguishing possessory interest bit
+- The first requirement has been adjusted by statute, under s. 218(1) of the *LTA*, you're allowed to make an easement to the govt or companies without a dominant tenement
+- Main reason for this is that most easements now are statutory right-of-ways which don't have a dominant tenement because they're attached to the government
+- In this case, requiring the park to stay as a garden does not interfere with possession
+- It is limited in some sense, but is not enough to mess with the right of exclusive possession
+- Owner can also use it as a park, they just have to keep it as a park
+- In the end, the surrounding owners were entitled to compensation because of their easements
+- Also shows that the benefitting tenement does not have to be adjacent to the servient one
+### [[Husky Oil v Shelf Holdings]]
+- Case dealt with a pipeline right-of-way going across farmland that was sold to a new owner
+- Issue was whether or not this was an easement, if it was then it would run with the land and the new owner would be bound by it
+- Hinged on the exclusive possession requirement, if it did mess with exclusive possession then it would not be an easement
+- Court said no, the only interference was with the subsoil and restrictions on building on it, owners could still do any farming activities above the pipeline
+- Gave the servient tenement a high degree of control with only minimal interference from the dominant tenement
+- If it was a possessory interest, Husky would need a freehold or leasehold interest
+#### [[Shelf Holdings Revisited]]
+- Lady named Thompson wrote an opinion on this case, pointed out that the farmer would not have exclusive possession because there's a physical pipeline there
+- Can't really use the land around a pipeline because of all the safety issues, and it's clearly exclusive possession of the subsoil where the pipeline is placed
+- Also argued that it wasn't clear that the easement would be necessary for the betterment of the dominant tenement
+- Court never identified this, but presumably it's the land where the oil refinery is
+- Does this even make sense? It seems like the benefit is really going to Husky, not any specific piece of land
+- This can be limited by statute, but it's clear whether this is the case
+- Likely that the courts are implicitly supporting oil and energy corporations by not addressing these issues and assuming pipelines can be easements
+- Part of the broader pattern of Alberta strictly protecting property rights until those protections affect the interests of the oil industry
+- If they wanted to follow the common law, they would have to individually contract with each landowner and get a freehold or leasehold interest
+### [[Robinson v Pipito]]
+- Dealt with two neighbouring properties owned by the same person, put an easement on one property and then sold it
+- Court invalidated the easement under s. 35 of the *Property Law Act* which allows the court to modify or cancel a registered easement for being invalid
+- Dominant owner had significant rights, they could use the land for farming and recreation, collect timber and gravel, and the servient owner could not interfere with any of these
+- Dominant owner has essentially unlimited access and prevented the servient owner from building anything because that would interfere with the access
+- Easement was also huge, it covered about 80% of the servient property
+- This kind of easement might be ok if it was only on a small area, but this was pretty egregious and limited the servient owner from using the land almost entirely
+- Court of Appeal confirmed that this was an invalid easement, it was too large and with too many restrictions, the possession of the servient owner was effectively eliminated
+- Recall that under s. 26(2), registration of a charge does not mean that the charge is enforceable, so there's no issue with invalidating the easement

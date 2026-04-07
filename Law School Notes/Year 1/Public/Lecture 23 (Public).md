@@ -1,0 +1,77 @@
+### Recap
+- *Butler* is listed as a reading in case, court was saying that if there was a risk of the provision being read too broadly, becomes unconstitutional
+- Unclear why this would be reading in and not reading down
+- Excluding interpretations that would make a law too broad is reading in?
+### Section 24
+- Need to talk about when courts will or will not provide retroactive remedies
+- In *R v Ferguson*, claimant argued that applying a mandatory minimum sentence would be unfair in his case
+- Court considered the reasons for why you would not give an exception here
+- Claimant had no basis for earning an exemption, main reason to not give it here was that it would interfere with the role of the legislature
+- Recall that in [[Vriend v Alberta]], the legislature deferred to the courts, but in this case mandatory minimums are expressly included to avoid the use of judicial discretion
+- Applying an individual remedy would clearly go against this intention
+- Court also went further and said that if you're going to grant an exemption to a law of general application, should only do this under s. 52 instead of s. 24
+- If you're granting an exemption here, it should be to a class of people, not an individual
+- In the case of *R v Sharpe*, they gave a broad exemption to anything created personally by the accused and not shared and private recordings of legal sex
+- By reading in, they created exceptions for a class of people that includes the individual
+- This was the CP case btw
+- We want individuals to know how the law will apply to them with some certainty
+- Risk that judges may overapply the law if they don't know that individual exemptions have been given in the past, s. 52 is better for precedent reasons
+- We want legislature to have a decent idea of what will be constitutional or not, granting too many s. 24 remedies muddies the waters here
+- Court didn't grant an exemption to an otherwise valid piece of legislation because it will create confusion, especially due to the intention to limit judicial discretion
+- Seems that there is a pretty strict bar to s. 24 remedies if a law is mostly valid under s. 52
+- In *Ontario v G* they granted a s. 24 remedy because they found the law was invalid, and also because of the impending suspended declaration
+- Suspended declarations are one of the clearest cases where an exemption is warranted, due to the investment the claimant made
+- Also won't create uncertainty because the law is going to eventually be invalid anyway
+- What if we had a scenario where the court says the law is invalid but they don't issue a suspension, and they don't want to give a s. 24 exemption
+- Kind of pointless to give a s. 24 exemption, law is already immediately invalid
+### [[Canada AG v Hislop]]
+- Case dealt with the temporal effects of declarations of invalidity
+- Parliament declared post-[[M v H]] that it would allow same sex partners to receive death benefits under the CPP
+- This was part of the sweeping amendments in the aftermath of that case
+- However, these amendments were not retroactive, claimants argued it should be effective dating back to 1985 which was when s. 15 came into force
+- Can argue that the law was invalid back in 1985, since s. 15 was there since then meaning that the exclusions for same-sex couples were invalid at that point
+- Called a "Blackstonian" approach, courts interpret the true state of the law
+- Court introduced a couple factors to consider here
+	- Most important one is how the law developed, is the current decision reflecting a longstanding development or is it a sudden and dramatic shift?
+	- If that kind of understanding of the law only arose recently, shouldn't go back
+	- If the govt has relied on the current law reasonably, unreasonable to punish them for only using the law as it was understood at the time
+	- Other factor is the fairness to the claimant, did they get a benefit?
+	- Final factors are acting in good faith and respecting the role of legislature
+- Argument is that the understanding of the law we have today did not exist in 1985, so we should not be extending benefits back based on our current understanding
+- Can argue that these factors give the government too much benefit
+- Only factor in favour of the claimant is the fairness
+- Can point to the fact that the claimants here did not really personally benefit from the decision in *M v H*, just because reform happened doesn't necessarily undo the harm they faced
+- Court compared the case to *Miron*, which was the one where marital status was recognized as an analogous ground under s. 15
+- Very similar, dealt with benefits under insurance policies
+- Distinction here is that in *Miron*, the claimant was seeking one specific benefit, but *M v H* created a pretty wide range of new benefits for same-sex couples
+- Need to consider how the claimant is getting the benefit, will play into the fairness element
+- Court also made a distinction between tax legislation and benefit legislation
+- In a case called *Kingfisher* where the govt unconstitutionally collected taxes, the only possible remedy was to give that money back
+- This is different from benefits-granting cases where legislature has a range of options in which you can extend benefits like [[Schachter v Canada]]
+- Might intrude on the legislative roles for the court to choose one method for compensation
+- *Miron* was also distinguished because it was not a new development in the law, it was part of a broader shift towards expanding the definition of "spouse"
+- In *M v H*, the legislature could not have known there was a better option for their definition
+- Is a substantial change in the law the determining factor for these cases? It seems that it will carry over into all the other elements like reasonable reliance
+### [[Little Sisters Book and Art Emporium v Canada]]
+- Problem here was the government action, don't need a s. 52 remedy because the law is valid
+- Court gave a declaration under s. 24 that the way the law had been applied was constitutional
+- Contrast between a s. 52 and s. 24 remedy here
+- Also a contrast between declaratory relief and a more intrusive remedy
+- Dissent in this case argued that without a s. 52 remedy the declaration probably won't be enough because Customs has a long history of creating violations like this
+- Courts often give a lot of deference when it comes to s. 24 remedies
+- Trying to do more than a declaration might step on the toes of legislature
+- However, is this appropriate if it seems that a declaration won't do anything?
+- The claimants had to put in a lot of work here, and the only way to enforce a declaration is for them to do all this again for a new claim
+- Would a more intrusive remedy be good in this situation?
+- Court could have just invalidated the law, but this would have knock-on effects
+- Considering how many failures there were in this case, can we fix this through s. 52?
+- Overall it seems that the problem was not legislative, it was administrative
+- When determining whether s. 24 or s. 52 is more appropriate, it can be good to look at whether the problems were with the law itself or its application
+- How can we distinguish this from [[Canada v PHS Community Services]]?
+- In that case, the court gave a *mandamus* requiring the minister to grant the exemption to Insite
+### Summary
+- Identify and apply factors for determining the following:
+	- Whether to give a constitutional exemption
+	- Whether to give prospective or retroactive relief
+	- Whether to order s. 52 or s. 24 remedies
+	- Whether to give declaratory or substantial remedies

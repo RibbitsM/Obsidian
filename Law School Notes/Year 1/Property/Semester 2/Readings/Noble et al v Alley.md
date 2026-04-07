@@ -1,0 +1,13 @@
+- Appellant sold land that was part of a summer resort development
+- Purchaser was also appealing
+- Deed came with a covenant that specified that the lands cannot be sold to anyone who's not white, including Jews
+- Court argued that [[Tulk v Moxhay]] loosened the doctrine for covenants, and we should allow the appeal
+- Covenants need to touch and concern the land to be enforceable
+- This covenant is unrelated to land, only deals with transfers
+- It's also not annexed to land, just to transfer because it doesn't apply to other kinds of transfer like inheritance
+- If the grantee married a non-white person and had a kid, their kid could still get the land
+- Also no standard for determining who is and is not white, does being mixed race count?
+### Dissenting Opinion
+- Only questions argued at trial were whether the covenant is enforceable based on public policy
+- Main issue here should only be whether it's permissible based on *Tulk v Hoxhay*, which was not raised as an issue here
+- Since the majority of the appeal court did not consider this point of law, can't consider it here, respect their discretion

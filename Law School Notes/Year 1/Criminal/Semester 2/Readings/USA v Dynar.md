@@ -1,0 +1,89 @@
+- Issue was whether or not the accused could be extradited to the US
+- Dynar was a Canadian citizens subjected to a failed sting operation by the FBI, was indicted with Cohen, who is also a Canadian citizen
+- Both were charged in Nevada with one count of attempted money laundering
+- Dynar got into negotiations with an FBI informant and offered to launder their drug money for a commission
+- Cohen also met an IRS special agent pretending to be an associate of the informant
+- FBI aborted the operation, never gave Cohen or Dynar any money
+- Relevant provisions for this case are the Canadian equivalents to the law that the pari was charged under
+- Section 462.31(1) of the *Criminal code* prevents money laundering, so does a similar offence under s. 19.2(1) of the *Narcotic Control Act*
+- Also need to consider ss. 24(1) and 24(2) as well as s. 465(1)(c) for party liability
+- Issue for the court is whether Dynar's conduct would be an offence if it happened in Canada
+- Main issue is that what they were trying to do was effectively impossible
+### Analysis
+- Court found that Dynar's conduct would be a criminal attempt and criminal conspiracy
+- Under s. 18(1)(b) of the *Extradition Act*, an accused can be extradited if their conduct would have still been a crime if committed in Canada
+- Dynar would not have been guilty in Canada if they completed the offence, because laundering money that was not actually proceeds of crime is not an offence
+- Both of the relevant laws mentioned earlier also require knowledge that the money you are laundering was the proceeds of crime
+- Knowledge requirement pretty clearly means that the money has to actually be illegitimate
+- The money in this case came from the US undercover agents, it was not proceeds of crime and he could not have known that it was the proceeds of crime
+- However, he may still be guilty of an attempt
+### Attempts
+- Section 24(1) establishes what is required for an attempt
+- Seems that it doesn't matter if the attempt could succeed or not
+- We have enough evidence to show that Dynar intended to launder money and took steps beyond mere preparation to achieve this goal
+- Should be enough to prove an attempt under s. 24(1)
+- Defence argues that s. 24(1) only criminalizes attempts to commit factually impossible crimes
+	- Example of this would be trying to steal from someone who has no money
+	- This is still clearly an attempted theft
+- These are different from legally impossible crimes, which are attempts that even if they were completed, would have resulted in no crime
+- Showed that Parliament created s. 24(1) based on an English provision overruling a House of Lords decision that allowed factual impossibility as a defence
+- Also argued that if they intended to also cover legally impossible crimes, they would have specified this like some US and UK statutes do
+- Can also make the argument that since s. 24(1) says it applies to acts whether or not they were possible "under the circumstances", this limits it to factually impossible attempts
+- Any other attempt impossible under the circumstances is implied to be possible under some other set of circumstances
+- Laws are generally not included in the definition of what "circumstances" include
+### Factually v Legally Impossible
+- These are fairly convincing arguments, but Canadian law does not really recognize a category of legally impossible crimes
+- Dynar attempted to do the impossible, but went beyond committing an imaginary crime
+- Can characterize this as doing something that was factually impossible
+- This is defined as an attempt whose completion is thwarted by outside circumstances
+- However, this attempt could potentially succeed without this intervention
+- Legally impossible attempts would not be a crime even if done successfully
+- Scholarship has defined legally impossible attempts as those where the goals of the actor are completed but some part of the *actus reus* is missing
+- Example would be smuggling something into Canada for a reward but discovering that what you were smuggling was sugar, not drugs
+- When it comes to defining factually impossible attempts, mistaken beliefs don't make a difference
+- Mistaken beliefs are always considered part of the actor's intent, otherwise a bunch of crimes like sexual assault become extremely hard to prosecute
+- Example of the sugar smuggler would be an imaginary crime, you believe what you're doing (smuggling sugar) is a crime even when it's legal
+	- However, if you believed you were smuggling drugs, you would have *mens rea* but not the *actus reus*, might be enough for an attempt?
+- Section 24(1) has intent to commit an offence as one of the requirements, so a case like this would not be an attempt because you do not have intent to commit a recognized offence
+- This follows with the purpose of having attempts which is to discourage committing offences
+- While these people may show a willingness to break what they think is the law, as long as their actions were legal, this isn't particularly concerning
+- Overall, only attempts to commit imaginary crimes are outside s. 24(1)
+- What Dynar tried to do was attempt to commit a crime and was only stopped by chance, this qualifies under s. 24(1)
+### Knowledge
+- Both of the relevant offences require knowledge that the money being laundered is the proceeds of crime
+- However, this is not part of the *mens rea*
+- Knowledge is true belief for legal purposes, which has the components of truth and belief
+	- Belief is subjective, but truth is fully objective
+- Has previously been established that truth of knowledge is not considered part of *mens rea*
+- The *actus reus* of money laundering requires the accused to hold a true belief that the money they are dealing with is the proceeds of crime
+- Can even see this in other offences, to be convicted for murder you need a true belief that the person you are killing is alive
+- An insane person who thinks they are attacking a mannequin will not be convicted
+- Committing an offence successfully will always require some circumstances to align, but these are kept separate from the *mens rea*, including truth of belief
+- When it comes to determining if there's been an attempt, absence of a circumstance doesn't matter
+- This is fine, attempts are always going to be incomplete so we can be missing some components of the *actus reus*
+- Accused also argued that even if this is true, he did not have the requisite *mens rea* because he only intended to make money by performing a service, regardless of whose money it was
+- This argument confuses motivation with intention, any number of crimes could be defined by the motivation to make money regardless of the means
+- We know that Dynar believed he was laundering drug money, and that's what matters
+- The victims of crime generally do not care what the motivations of the perpetrator was, the main issue is with their conduct
+- Same principle applies to impossible attempts, you should be convicted for attempting to be a criminal even if chance prevents you from completing your intention
+### Conclusion
+- Dynar committed an attempt to launder money, and should be extradited
+- Appeal allowed and cross-appeal dismissed, lower decision restored
+## Concurring Opinion
+- Agree with the majority that he should be extradited, but disagree that this is an attempt
+- Should not be a criminal attempt to do acts that if completed, would not amount to an offence in Canada
+- Issue in the appeal can be addressed without getting into possible and impossible attempts, as some elements of the offence are already missing
+- Imagine a guy who buys some stuff at a very low price, and reports it to the police believing the goods were stolen
+- Turns out they weren't, he just got a good deal
+- If we read s. 24 literally, he would be guilty for attempted possession of stolen goods
+- How can we have an attempt without an underlying offence capable of being committed
+- Accused cannot "know" what he's laundering is the proceeds of crime unless they are actually proceeds of crime, cannot "know" what is not true
+- Majority argued that you can be convicted of attempting to launder what you thought was the proceeds of crime
+- However, there is no underlying offence here, and thus no attempt
+- Also raises issue with the decision to argue knowledge is part of the *actus reus*
+- Criminal law should not be patrolling people's thoughts, that's what this is essentially doing
+- Also allows the Crown to shortcut convictions
+- In the stolen goods example, the court would be inferring from the low purchase price of the goods that the accused believed they were stolen
+- Removes the need to prove they were actually stolen, leading to an unjust result
+- Can go even further with the hypotheticals, would we convict someone of murder for sticking pins in a voodoo doll if they genuinely believe it will kill the victim?
+- Overall, following the majorities conception of impossible crimes leads to confusing results and absurdity, and should be discarded

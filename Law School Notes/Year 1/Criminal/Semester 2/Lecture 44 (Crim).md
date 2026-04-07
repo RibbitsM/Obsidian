@@ -1,1 +1,73 @@
-- 
+- Last thing to cover for defences is the defence of abandonment
+- Applies where a party to a crime wants to leave and "abandon" their intention to commit the offence
+- This is hard to define because on one hand we want to encourage people to withdraw from criminal activities, but we also want to be able to charge people as parties
+### [[R v Gauthier]]
+- Raises the issue of inconsistent theories similarly to [[R v Thatcher]]
+- Case was about a woman who planned to commit a murder-suicide with her husband, killing their three kids and then themselves
+- She argued that she changed her mind and the husband went through with it, she was the only survivor
+- Raised a sort of dissociative state defence, similar to automatism
+- Relevant issue for us was that abandonment was usually used for common intention under s. 21(2), not aiders/abettors under s. 21(1)
+- Court held that it can be available under s. 21(1), and you need a few things for this
+- First, you need an intention to abandon the offence
+- Second, you need to communicate that intention to the other parties
+- Third, the communication has to be unequivocal, need clear indication of abandonment
+	- These are the only elements for the existing version under s. 21(2)
+	- Court suggested that there's an additional fourth element needed for s. 21(1)
+- Fourth, need to take reasonable steps to counteract the participation of the accused
+	- Can't just back out of the offence, you also need to try and undo whatever you have already done to facilitate the offence
+#### Rationale
+- Section 21(2) is the common intention provision, under that section the only thing you're doing is sharing an intention to commit a crime
+- However, s. 21(1) requires the accused to actually do something in order to be liable, so to negate this you should need to undo that action
+- Can't just give somebody a gun and later change your mind and regret that decision, you need to take steps to mitigate the harm you already called
+- Also makes sense that depending on the seriousness of the offence, will need more to negate your actions
+- In a case called *Fournier*, a woman hired a contract killer to kill her husband, and gave him the husband's location and paid him
+- Tried to cancel the hit the day it was carried out by leaving a message on his answering machine
+- Court said that this was not enough, likely would at least need to make sure that the hitman knew the hit was being cancelled, might also need to warn the husband
+#### Application
+- Court ultimately found that this case failed on the final element of abandonment
+- At the very least, she would have needed to get rid of the pills she bought that were ultimately used to kill the children and the husband
+- There was a dissent here, argued that the only essential elements were those for s. 21(2)
+- This is a complete defence, and can theoretically apply to any offence where you're a party
+## Attempts
+- Another example of inchoate liability, where you can be liable for not meeting all the elements of an offence
+- An attempt is always an included offence, and if the Crown cannot prove all elements, they may be able to convict for an attempt instead
+- Can also charge someone solely for an attempt
+- Exception is attempted murder, which also has its own provision and sentencing scheme
+- Attempts are generally punished less severely than completed offences, and this is explicitly stated in s. 463 of the *Criminal Code*
+- Basically gives you a discount on the maximum penalty, for example if you commit an indictable offence with life imprisonment the max is 14 years
+- For offences with a numerical maximum, the maximum will be half of the completed offence
+- How do we justify this seemingly arbitrary reduction in penalties for offences?
+- Recognizes that the accused is still guilty, but the harm that was actually caused is less and the reduction in penalty recognizes that reduction in harm
+- Court also has some leeway here, someone who only made an attempt because they got unlucky and missed a shot or something will be penalized more harshly
+### Mens Rea and Actus Reus
+- Under s. 24, an attempt is where anyone who has the intent to commit an offence and does something to carry out that intention is guilty of an attempt
+- This is true whether or not it was actually possible to commit the offence (s. 24(1))
+- Question of whether an act by a person with intent to commit an offence is too remote or more than mere preparation is a question of law (s. 24(2))
+- *Mens rea* for attempts is an intent to commit a completed offence
+- *Actus reus* is an act beyond mere preparation to commit an offence
+- Thinking about committing an offence or preparing to commit an offence is not an attempt, need to get somewhere in between preparation and actually doing it
+- Again, we want to encourage people to not commit crimes, there is a threshold where you can change your mind and back out before criminal liability applies
+- Main goal of attempts is to convict people where something happens to frustrate the efforts of an accused to commit an offence, so the *actus reus* isn't fulfilled but they still had intent
+- You can aid or abet an attempt, but you can't really attempt to aid or abet
+- Aider or abettor will still get the reduction in sentence given to the principal
+### [[R v Ancio]]
+- Complicated case because this was attempted murder, but it was also attempted felony murder because this was before we removed those provisions
+- Court held that recklessness was not enough for attempted murder, need intent to kill
+- Attempts are not lesser forms of the offence, should have the same *mens rea*, we don't want to call an accidental killing a murder
+- At the time, recklessness was sufficient for murder because of a case called *Lajoie* and this is still true, s. 229 allows for recklessness for murder
+- Thus, the standard for attempted murder is actually higher than murder itself
+- You need intent to commit the completed offence of murder, which is a higher standard than recklessness
+- SCC has never addressed the issue of whether recklessness counts for attempts to commit other offences, but it's probably the same
+### [[R v Sorrell and Bondett]]
+- Defendants were trying to commit a robbery by holding up a chicken restaurant in Kingston, and showed up right around when the store closed
+- Idea was that they could go when there was nobody there, and take the money from the day
+- Knocked on the door but the store had closed early, manager wouldn't let them in
+- As they gave up and walked away, one of the employees noticed they were wearing balaclavas and had guns, so they called the police on them
+- Both were arrested, issue was whether they could be guilty of attempting to rob the store
+- Trial judge acquitted them, issue was whether or not this was based on a lack of intent which would be a question of fact, or a lack of an act beyond preparation, which is a question of law
+- Court of Appeal found that the actions of the accused were clearly more than preparation
+- Can consider that they were intending to rob the store as soon as they showed up, and they had also taken the steps of dressing up as robbers and going to the store with guns
+- All of this was enough to go beyond mere preparation and attempt the robbery
+- Also shows that there was intent, they went to all this trouble for something clearly
+- Don't need to actually get to the point of threatening people and demanding money
+- Next class will be on [[USA v Dynar]]

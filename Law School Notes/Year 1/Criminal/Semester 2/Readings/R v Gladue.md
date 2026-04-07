@@ -1,0 +1,70 @@
+- Already discussed the Gladue principles in [[R v Ipeelee]]
+- Appeal is centered around s. 718.2(e) which specifies that all reasonable alternatives to imprisonment should be considered, especially for Indigenous offenders
+- Appellant was born in Alberta, Cree mom died in a car accident when she was still young, raised with her siblings by her Metis father
+- Appellant later started dating the victim when she was 17, had a daughter together and moved to Nanaimo where they lived with the appellants father and two of her siblings in townhouses
+- On her 19th birthday she became suspicious that the victim was cheating on her with her older sister Tara, and said that she wanted to test Beaver by getting her friend to hit on him
+- Tara left the party and the victim followed, appellant became furious and went to go find them, eventually finding them leaving Tara's suite
+- She suspected that they had been having sex, the two went back to their suite and began to fight, victim called her fat and ugly
+- Neighbour heard the yelling, and when he went outside, he saw the appellant run out her suite and saw the victim banging on the door of Tara's suite
+- Appellant chased him with a large knife, witness heard him shriek and saw him collapse in a pool of blood, the appellant had stabbed him in the heart
+- Witness said that the appellant did not appear to have known what she did, she was also fairly drunk, about 3x the legal limit
+### Trial History
+- Appellant was charged with 2nd degree murder, plead guilty to manslaughter
+- Also evidence that she had stabbed the victim before he ran
+- Appellant had abused the victim while she was pregnant with their daughter, and it seemed like she had been in a physical fight on the night of the stabbing
+- Trial judge did not find that the accused was a battered or fearful wife
+- Accused was released on bail, took counselling for alcohol and drug use, and completed Grade 10 and started Grade 11
+- Appellant was diagnosed with hyperthyroidism which created exaggerated reactions to emotional situations, and received medical treatment to reduce the effects
+- Appellant apologized for her actions at the sentencing hearing, and her counsel did not address the fact that she was Indigenous
+- Sentenced to three years in prison and prohibited for owning weapons for 10 years
+- Trial judge considered the age of the accused, and her lack of a criminal record outside of one conviction for impaired driving
+- Her good behaviour since the offence was also a mitigating factor, as well as the fact that she was provoked and had an underlying medical condition that caused her to overreact
+- Also named several aggravating circumstances, mostly that she had stabbed him in the suite and then chased him down to kill him when he ran
+- It was also clear that she intended to harm him, she had said as much earlier that night
+- Trial judge refrained from suspending the sentence or imposing a conditional sentence
+- Noted that the appellant was Indigenous, but were living off-reserve and thus should not receive any special consideration
+### BCCA
+- Most relevant ground of appeal was that the trial judge did not consider her status as an Indigenous offender, and showed evidence of her efforts to reconnect with the Cree
+- Court dismissed the appeal by a 2:1 majority
+### Analysis
+- Issue is what the proper interpretation of s. 718.2(e) is
+- It seems to be more than a re-affirmation of sentencing principles, it directly orders sentencing judges to treat Indigenous offenders differently to address their overincarceration
+- This does not affect the duty to impose a sentence suitable for the offence and the offender 
+- Aboriginal offenders are imprisoned just as much as non-Aboriginal offenders for serious and violent crimes
+- Only changes the frame of analysis for what a proper sentence is for Aboriginal offenders
+- As a general principle, the goal of s. 718.2(e) is to make sure imprisonment is the last resort when it comes to penal sanctions
+- The meaning of the portion referring to Aboriginal offenders is that judges should pay particular attention to the unique circumstances of Aboriginal offenders
+- Seems to suggest that imprisonment is a less useful sanction for these offenders
+- Appellant's counsel argued this doesn't actually change the law as courts have considered the circumstances of Aboriginal offenders in the past
+- Section 718 does restate some of the basic sentencing goals, but the last two parts are new which are aimed at repairing the harms suffered by individuals victims and the community
+- The general principle underlying the two new sections as well as s. 718.2(d) is restorative justice, which usually involves some sort of restitution and reintegration
+- Also shows the need for offenders to take responsibility for their actions
+- Seems that the intention is to shift the sentencing principles away from imprisonment
+### Context of Section 718.2(e)
+- Also seems that the government's position when these amendments were being considered was that these new sections were supposed to be remedial in nature
+- We can also look at the social context surrounding the new provisions. especially the social issues that prompted the creation of s. 718.2(e)
+- The point of the section is to address overincarceration in Canada, especially the disproportionate incarceration of Aboriginal peoples
+- Side goal is to give the judges more flexibility and authority to use restorative justice methods when it comes to sentencing Aboriginal offenders
+- Parties and interveners generally agree on all this, the main point of contention is over how the sentencing provisions should be applied in practice
+- Canada has one of the highest incarceration rates in the world, just behind the US in terms of prison population per capita
+- Canadian courts have also been imprisoning offenders at an increasing rate recently
+- Imprisonment in penitentiaries was originally created as an alternative death, flogging, or imprisonment in a local jail
+- Penitentiaries were seen as a place for deterrence and rehabilitation
+- However, this quickly proved to be ineffective, which has been noted very recently by courts
+	- Imprisonment should be limited to the most serious offences, given that incarceration has largely failed to reduce the crime rate and should be used with caution
+- Also noted in a report from the Canadian Sentencing Commission on sentencing reform
+	- Pointed to the fact that Canada imprisons more people than any other western democracy outside of the US
+	- Several other committees have pointed out that imprisonment should only be used as a last resort for those convicted of serious offences
+- Another committee said similar things, noting high recidivism rates among those imprisoned and that using imprisonment for such a wide range of offences is ineffective
+- As long as offenders do not pose a danger to others, should consider alternatives
+### Overrepresentation of Indigenous Canadians
+- This is a problem in general, but especially in Indigenous communities
+- Has also been consistently brought up by several commissions, the proportion of Indigenous people in Canada is insanely mismatched compared to the prison population
+- Also growing, and will get worse in the future
+- This is also only the tip of the iceberg, this pattern persists in other parts of the criminal justice system
+- Seems that the criminal justice system has consistently failed the Indigenous community
+- A lot of this is attributed to differing Indigenous views on how justice should work
+- Reasonable to assume that Parliament took all this into account when doing the sentencing reforms, s. 718.2(e) should be used to find better alternatives
+- This is also just one source of the problem, there are obviously many other factors than just bias at sentencing, but this is something that the courts have control over
+### Framework of Analysis
+- 

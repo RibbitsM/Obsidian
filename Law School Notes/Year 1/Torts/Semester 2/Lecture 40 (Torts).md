@@ -1,1 +1,56 @@
-- First half of remoteness
+- The primary question of remoteness is what the extent of the defendant's liability is for the harmful results of their negligent actions, assuming factual causation is present
+- Hinges mainly on reasonable foreseeability
+- Role of remoteness is to establish the limits on the liability of the defendant, and to draw the distinction between factual and legal causation
+### [[In Re Polemis and Furness, Withy & Co]]
+- Plaintiffs were ship-owners who chartered a steamship to the defendants
+- Steamship did its delivery, but hit some rough weather, creating a substantial amount of gas vapour in the bottom of the ship by the time they docked
+- While unloading the cargo, some employees of the defendants knocked down a plank being used for unloading
+- Plank fell into the cargo hold, igniting a spark that set the gas vapour on fire, destroying the ship in a huge explosion
+- Arbitrators found the explosion was caused by the employees' negligence
+- Defendant argued the damages were too remote, issue was referred to court
+- Court found that it didn't matter whether the defendant could have foreseen the extent of the damage, only the type of damage
+- Lord Warrington argued that reasonable foreseeability is needed to establish negligence in the first place
+- As long as the harm was the direct consequence of defendant's negligence, the damages will not be too remote
+- Lord Scrutton also focused on the type of damage, saying that even if the damage was not the kind that you would expect, still not too remote
+- If the act was negligent, doesn't matter if you couldn't foresee the precise consequences
+- This precedent is not really followed anymore, the court was essentially saying that as long as you can directly link the negligence and harm, never too remote
+- Means that if the court finds that your actions created some foreseeable harm, also liable for any other harm created, no matter how unexpected
+### [[Wagon Mound No 1]]
+- Same facts as in [[Lecture 35 (Torts)#Wagon Mound No 2|Wagon Mound No 2]]
+- Trial court found that the defendants could not have reasonably foreseen that the oil on the water could be set on fire by the welding equipment
+- Court overturned *Polemis and Furness*, saying it's unfair to hold people liable for the full consequences of their actions if they created even a trivial foreseeable harm
+- Instead, we should only hold people liable for the "probable consequences" of their actions
+- To be guilty of negligence, either the type or kind of harm caused by the defendants actions needs to be reasonably foreseeable
+- Based on the moral principles behind negligence
+- Unfair to hold someone liable for unpredictable damage caused by their actions just because the damage was a direct consequence of their actions
+- Also unfair to let someone escape liability if they could have foreseen that damage would result from their actions
+#### Thin-Skull Principle
+- Seems that the court is rejecting this principle here, is it wrong to hold someone liable for damages when the injury was aggravated by an underlying condition?
+- Key point in *Wagon Mound No 1* is that only the **type** of injury needs to be reasonably foreseeable, the **extent** of the damage is irrelevant
+- Therefore, even if the extent of the damage was not reasonably foreseeable, defendant can still be liable as long as the type of damage was
+### [[Smith v Leech Brain]]
+- Plaintiff was the widow of the victim, who worked for the defendant as a galvanizer
+- His job was to use a crane to removed galvanized items from a tank of molten metal
+- Crane operator had no permanent shelter, instead they stood behind a wall and put a sheet of corrugated metal over them to hide under
+- Can't see what you're doing from under the sheet, need another person giving you callouts
+- One day, he tried to turn around to look while lowering a large item into the vat, and got hit in the face with a glob of molten metal
+- Burn did not heal, later turned into an ulcer and developed into cancer, died three years after the accident
+- He had worked in the gas industry before becoming a galvanizer, so he was already prone to cancer
+- Possible that an underlying condition was triggered by the burn, becoming cancer, or that he would have eventually got cancer anyway
+- Court found that the employer was clearly negligent in not giving their workers proper protection, especially given the industry standards at the time
+- Determined that the injury was not too remote, as the defendant only had to foresee that the victim would suffer a burn, not that it would also become cancer
+- Did say that damages should be reduced due to the risk of the victim developing cancer regardless, based on the crumbling-skull rule
+- Also affirmed the view that *Wagon Mound* did not remove the thin-skull rule
+### Stephenson v Waite Tileman
+- Workman's hand was slashed on a wire rope, the hand swelled up between days and the plaintiff became severely ill
+- Apparently, they had contracted a rare and unknown virus that entered the wound and damaged their central nervous system
+- Jury found that the initial cut was foreseeable, but not the illness
+- Defendant argued that foreseeability of the ultimate consequences was a question of law, so it should have been decided by the judge
+- Court agreed, this question should not have been given to the jury
+- This was a thin-skull case, but different from what we've seen before
+	- Normally, the injury will be worsened by a pre-existing condition
+	- In this case, there was no pre-existing condition, but the injury exposed the plaintiff to a risk of further injuries
+- Court said there should be liable in both of these situations
+- Overall, if the victim is either especially susceptible or was injured by a new risk/susceptibility arising from their injury, these both affect the **extent** of injury
+- When we consider foreseeability, **we are only looking at the original injury**
+- As long as the type. kind, or character of the injury was foreseeable, can be liable

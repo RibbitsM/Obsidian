@@ -1,0 +1,110 @@
+### Test for Treaty Rights
+- First test was for Aboriginal rights only, in [[R v Van der Peet]], updated version for Metis is in [[R v Powley]]
+- Mainly deals with interpretation of the treaty, since we have a document to work off of
+- Cases we studied for treaty rights were [[R v Badger]] and [[R v Marshall]]
+- In *Badger*, court identified four different principles
+	- Treaties are solemn promises
+	- Honour of the Crown is always at stake
+	- Any ambiguities must be resolved in favour of the Indigenous group
+	- Crown has the onus of proving extinguishment
+- *Marshall* had a majority and dissenting opinion, McLachlan rejected the claim
+- However, in the dissent she stated nine principles of interpretation that the majority agreed with, pretty much just an expansion of the first three principles from *Badger*
+- Focuses on how treaty interpretation should try and give form to the common intention of the parties when the treaty was signed
+- Should pick the interpretation that best reconciles the positions of both parties
+- Determines that we can look at outside evidence for treaty interpretation
+- Also talks about how we need to consider how both parties viewed the meaning of the treaty
+- Trying to avoid technical interpretations of treaties, focusing on intentions
+- Does mention that despite the broad discretion for interpretation, can't go against the words of the treaty directly
+- Specifically points out that we can't view these as frozen rights
+- McLachlan also talks about how we need a two step test for applying treaty rights
+	- First, you look at what the words say directly on their face
+		- Need to still consider potential ambiguities
+		- Goal is to establish a preliminary framework for the meaning of the treaty
+	- Second, you need to consider the historical and cultural context
+		- This is where you look at outside evidence to determine the intentions of the parties
+- First step is intended to determine the boundaries of what the interpretation can be, and then the second step fleshes it out with context to help choose the best interpretation
+- This approach has since been embraced by the majority of the SCC
+### Ontario AG v Restoule
+- New case that dealt with the Robinson Huron and Superior Treaties
+- Issue was whether the Crown failed to fulfill their promise to increase annual payments to the signatories of the treaties
+- Annuities have not been increased since 1875, stopped at $4 per person per year
+- Court implemented McLachlan's two-stage approach to treaty interpretation here
+- Indigenous groups have complained about this approach because it starts with the written agreement and limits the final solution to what the written treaty permits
+- Say that the real agreement was the oral agreement, should be focusing on that
+- We shouldn't be requiring ambiguities for oral evidence to be admissible
+- Court did allow this, said that oral evidence is always somewhat relevant
+- Some have criticized this decision for relegating oral evidence until after the two step test is finished, but arguably it's considered in the second test
+### Haida Nation and Mikisew Cree
+- This was a case where the duty to consult was triggered by a potential interference with the treaty right to hunt via the construction of a winter road
+- Shows that you don't just need Aboriginal title or rights to trigger duty to consult
+- Need to determine where the claim falls on the spectrum of remedies, depending on the seriousness of the impact and the strength of the claim/right/treaty being messed with
+- When you have a treaty right, you're going to have a strong right pretty much every time, it's not up for debate like a pending title claim
+- However, treaty rights tend to be more specific and limited
+- In [[Clyde River v Petroleum Geo-Services]] we got a good explanation of this
+- On an exam, probably need to consider both duty to consult and justification of infringement
+- Just because courts tend to ignore *Sparrow* now doesn't mean we should too
+- Rationale for this is that the duty to consult can head off problems before they emerge
+- In the trial decision for *Mikisew Cree*, the judge relied on a case called *Halfway River* saying any interference with the right to hunt *prima facie* infringes treaty rights
+- Higher decisions said we should focus more on the duty to consult instead of infringement
+### Yahey v British Columbia
+- Case dealt with violations of Treaty 8 rights based on a number of things, the triggering decision was something to do with extractive industries
+- Over time there had been so many different things authorized on treaty 8 land, court held that we need to consider the cumulative impact of these decisions
+- This was significant, first time that the court has recognized this kind of cumulative impact
+- Crown argued they need to make a right impossible to establish infringement, court held that all you need is a meaningful negative impact
+- Other cases where the court denied cumulative impact were *Chippewas of the Thames* and *Rio Tinto*, both dealt with past decisions regarding extractive industries
+- In those cases, they said a new event is needed to "trigger" the D2C
+- This was present in *Chippewas of the Thames*, but the court said the impact of the new decision was not enough to trigger a high level accommodation
+- Couldn't rely on the past impact the pipeline had caused, only the present impact
+- Recall that the government can rely on regulatory bodies to fulfill the duty to consult, but the Crown is always ultimately responsible
+	- Need to have both procedural and remedial powers to actually fulfill D2C
+- *Yahey* also said that we need to go beyond the duty to consult and look at infringement
+- Court issued a declaration preventing the province from authorizing further activities the infringe the rights of the Blueberry First nation
+- Did it through a *Sparrow* analysis, overall very rare
+- On an exam, we should address both D2C and infringement considering this new move back towards infringement
+### Exam Tips
+- Always start by looking at the scope and nature of the right, is there an existing right? what kind?
+- Apply the *Van der Peet* test and [[Tsilhqot'in Nation v BC]]
+- Look for clear and plain intention to extinguish
+- Then, you can come to the question of whether the right has been infringed
+	- Can happen by denying preferred means of exercising the right
+- If it's treaty, then use the [[R v Badger]] test instead
+- At this point, the burden shifts to the govt to justify the infringement
+- What's the objective? probably conservation but can also be safety or regional fairness
+- *Sparrow* test works a little differently with Aboriginal title because there's more at stake, harder for the government to justify infringement here
+- Recall that the D2C came from the question in *Sparrow* of whether the means chosen by the government were consistent with the honour of the Crown
+- Can go straight to duty to consult at this point, but do infringement too if it's relevant
+- Probably best structure is to do D2C within the *Sparrow* test at the point where you need to consider if the govt consulted
+- Afterwards can consider other stuff like alternate options for the govt and if there was compensation
+### Remedies
+- Always consider remedies unless stated otherwise
+- Can get a declaration that duties have been breached or rights violated
+- Can also get orders made like in *Yahey*
+- In that case we got a ban on all further authorizations of infringements, but stayed for 6 months
+- Courts are usually fine with issuing declarations, will be hesitant to give more
+- In *Restoule*, the court found that the honour of the Crown was not upheld and issued a three-part remedy to the affected nations
+	- Two or three different separate breaches
+	- Needed compensation for the failure to pay annuities
+	- Crown was supposed to consider raising annuities based on multiple factors, court ultimately found that this had never been considered
+	- Crown now needs to sit down with the affected parties to discuss raising it
+	- If there's no agreement in 6 months then we can go back to court to adjudicate
+	- This is nice, otherwise the nations would need to start a whole new court case, but now the govt is building this into the remedies
+- Probably going to see more approaches like this in the future
+### Metis Rights
+- Court used a modified version of the *Van der Peet* test in *Powley*
+- It's depicted as a ten-part test, but it's a combination of the normal Aboriginal rights test with some special modifications for the Metis
+- Need to characterize the right first always
+- Court will not always characterize rights in the way the claimants do, will try to narrow it down
+- This is how we end up with fishing/hunting for food rights, court is limiting a broader claimed right to do this as a livelihood
+- Recall that in *Pamajewon*, the court had to deal with gambling on Indigenous reserves, the nation characterized it as the right to self-government, court limited it to regulating gambling
+- In *Sappier* and *Gray*, courts were dealing with the right of the Maliseet to gather logs to make furniture, again had differing characterizations of the right
+- Claimants wanted a broad right to just gather lumber, court interpreted it as the right to gather lumber for subsistence only, not commercial reasons
+- Main issue at this point was the need for a distinctive practice, court found that this was not the intent, don't need a unique curiosity
+- Additional step in Metis rights cases is with the pre-contact element of infringement
+- Obviously court can't use contact as the cutoff, instead they replaced it with effective assertion of Crown control
+- In that case, they found that 1850 was the key point where Crown asserted control
+- Also had some other elements like showing continuity between historical and contemporary Metis communities
+- Important case because it finally brought the government to the negotiating table with Metis
+- Most of those other elements were devoted to determining who is Metis and who isn't
+- Court kind of delegated this to Metis political organizations
+- Another characterization issue here, court found that it was not a species-specific right and identified it as a broader right to hunt any game
+- *Powley* is a good test case here because the claimant had been so active in the Metis community

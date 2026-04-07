@@ -1,0 +1,73 @@
+- Bring questions for next week
+	- What counts as reading down? We have cases where the law was found to not be a violation, but the court interpreted the law very differently to achieve this
+- When distinguishing between cases based on the remedies ordered, there are a number of things we can look at
+	- What were the available options for the court?
+	- What was the urgency of the issue/infringement?
+	- Was there a significant risk of interfering with the legislature?
+	- What was the nature and severity of the harm?
+### [[Doucet-Boudreau v Nova Scotia]]
+- Background is that for a long time, the government has been ignoring the Acadian and other French communities in Nova Scotia when it comes to s. 23 of the Charter
+- This is the section that provides for French language education
+- Current government knew about these obligations, but made an intentional choice to not prioritize this issue, dragged their feet on making French schools
+- Issue was whether the trial judge was within their right to make an order giving the court jurisdiction over reporting hearings for progress on building these schools
+- Alternative would be to issue a declaration, this is the ordinary remedy for this situation
+- Main point of disagreement between the majority and dissent was whether this remedy was "appropriate and just" as required under s. 24(1)
+- Court provided four main factors to think about here
+	- Vindication of the claimant's rights
+		- Prevents the claimants from having to make a new claim to contest further delays
+	- Addressing the circumstances that created the violation
+		- Important circumstance here was the past delays
+	- Respect for the functions of the judiciary
+		- Majority said this was respectful, dissent argued you can't impose injunctions on the executive branch, messes with the balance of powers
+		- Majority also argued that the courts have the power to do this, similar to a bunch of other remedies for bankruptcy and pretrial injunctions
+			- Courts have used supervisory powers in the past
+	- Employs fair means to vindicate the rights
+		- Means chosen were fair to the government, reporting order was clear enough that the govt knew what they had to do
+- If you have circumstances that might warrant a more comprehensive remedy, need to look and see if these factors are satisfied
+- Can argue that this order was not clear, dissent pointed out that the reporting order was not very detailed and it seemed that the trial judge didn't even know what it implied
+	- Made conflicting statements on whether he could make further orders
+	- Requirements of evidence were also not clear, parties did not know they had to file affidavits until right before the first hearing
+### [[Vancouver v Ward]]
+- Issue in this case is if you can order damages under s. 24(1)
+- Claimant has the burden of proving functional justification for damages
+	- Includes proving need for compensation, vindication of rights, and a need to deter the government from further violations
+- Then, the government can argue that there are countervailing factors
+	- Includes showing an alternative remedy, and an interference with the state
+- Next issue is determining the quantum of damages
+- Court found that the claimant was strip searched which is a pretty serious infringement
+- Officers should have understood there was no need to do this here
+- Mere declaration would not have satisfied the need for compensation, and given the seriousness of the infringement there's no interference with the govt
+- Given the circumstances, claimant should be given compensation
+- All the functional justifications are met here
+- Also no real countervailing factors
+- Case also talks about the quantum of damages, don't need to know this
+	- Court found that there was no serious physical/psychological injury, and the conduct of the officers was not really malicious
+	- Should award moderate damages, also seized his car but returned it after they realized there was no need to search it
+- These are the kinds of considerations for assessing damages
+### Mapping Remedies
+- Start with s. 52
+- Used usually for legislation, you have roughly 5 options
+- Can immediately declare the law invalid, suspend the declaration, read in, read down, or sever
+- Established in [[Schachter v Canada]]
+	- This was a severance case, reading in would interfere with the legislature
+- When it comes to reading in, reading down, and severance, you're effectively changing the legislation and need to respect the role of the legislature
+- Need to consider role of legislature, the fact that public is entitled to the benefit of the law, compliance with the constitution, and the need to safeguard rights ([[Ontario v G]])
+- Also need to respect the purposes of the Charter, factor that favours the claimants
+	- Example of reading in would be [[Vriend v Alberta]], in that case the court read in the protections for sexual orientation
+		- Didn't strike down to preserve the benefits, and role of the courts was not an issue because the legislature deferred
+		- Also advanced the legislative objective, safeguarded rights, and complied with Charter
+	- Example of reading down would be [[R v Butler]], they didn't actually say the law violated the Charter but they interpreted the law in a way that follows the Charter
+		- We don't have an explicit case for reading down, but we know it's an option
+- When it comes to deciding between reading in/down and severing, the main issue is deference to the legislature
+	- In *Vriend*, the legislature deferred to the courts, so they could read in
+	- But in [[M v H]], the issue was too complicated for the courts and making changes would affect budgets and require a lot of retooling, severance was more appropriate
+		- Keep the law to preserve benefits, reading in would distort legislation
+- Where you choose to sever or declare a law invalid, also need to consider whether an immediate or suspended declaration of invalidity would be more appropriate
+	- Example of a full immediate striking down case is [[R v Big M Drug Mart]]
+- Relevant case for this is *Ontario v G*
+	- Balancing factors are the need to preserve public interest/safety, and ensure constitutional compliance
+		- In this case, they wanted a suspended declaration to preserve public safety, don't want to immediately release potentially dangerous people
+- Also need to consider if we can give s. 24 exemptions under a suspended declaration
+	- In *Ontario v G*, they did this because the claimant had a clean record
+	- Need to make sure the exemptions don't undermine the purpose of suspending the declaration, in this case it was the need to keep the public safe
+- On an exam, don't need to consider all possible remedies, choose your preferred remedy and make an argument for why it's appropriate based on the *Ontario v G* factors

@@ -1,0 +1,118 @@
+- Basic technique for sentencing is to first look at the *Code* to find the maximum and potentially minimum penalty to see the range of options
+- Will also show the options for non-imprisonment sentences
+- Harder part is narrowing that range down into what the particular sentence should be
+- One way to do this is to look at how offenders in similar cases have been sentenced
+	- Look at the offence, the facts of the case, and circumstances of the offender
+- This is not always successful, no two cases will be identical of course
+- When trying to close in on a final sentence, best option is to look at the principles of sentencing in the *Criminal Code* under s. 718
+- General principles are protecting society, respecting the law, and maintaining a just, peaceful, and safe society
+- Also has some more specific principles
+	- To denounce unlawful conduct and the harm caused to victims/community
+	- Separate offenders from society when necessary
+	- Assist in rehabilitating offenders
+	- Provide reparations for harm done
+	- Promote a sense of responsibility in offenders and acknowledge harm done
+- These factors can be emphasized or deemphasized based on the arguments made by the defence and prosecution
+- Not all of these factors will necessarily point in the same way
+- Also differ depending on the kind of crime, was it a violent crime? an economic crime?
+- There are also certain things the judges can consider in determining the kind of sentence, as well as aggravating and mitigating factors
+- Section 718.2 has a list of factors and specifies that sentences should be increased or reduced based on these factors
+	- Example of aggravating factor would be offences motivated by bias or prejudice
+		- Also applies where the victim is particularly vulnerable
+	- Principle of parity, should have similar sentences for similar crimes/offenders
+	- Principle of totality, consecutive sentences should have a reasonable total
+	- Offenders should not be deprived of liberty if less restrictive options are appropriate
+	- Should consider non-imprisonment options whenever possible, especially for Indigenous offenders
+- Under s. 718.1, the *Code* establishes that the core principle of sentencing is proportionality
+	- Sentence needs to be proportionate to the gravity of the offence and the offender's degree of responsibility
+	- Factors for this can include both the offence and the offender
+	- What was the harm done? How responsible was the offender? Are they a repeat offender?
+### [[R v M(L)]]
+- Deals with the issue of when it's appropriate to issue a maximum sentence
+- This was a particularly heinous case of sexual assault and child pornography where the accused was sentenced to the maximum sentence for sexual assault and consecutive sentences
+- Imprisoned for 15 years in total, supervised in the community for 10 years afterwards
+- Quebec Court of Appeal reduced the sentence to 9 years, appealed to the SCC
+- Majority chose to reinstate the trial judge's sentence
+- Talked about how we should only overturn sentences where the trial judge has made an error in principle and the trial sentence was clearly unreasonable
+- In the case law, you often see the statement that the maximum sentence is reserved for the worst offence and the worst offender
+- Problem with this is that there is no clear definition of the "worst", in pretty much any situation the judges can always imagine something worse
+- Means that in effect, the maximum sentence will never be imposed
+- The real question is not that the offence was the worst imaginable outcome, it's whether the sentence imposed by the trial judge was a fit sentence
+- What's the point of having a maximum sentence if we never use it
+- In this case, the maximum sentence was appropriate given the facts of the case
+- Also, the period of supervision after release is separate from the imprisonment sentence, and should not be considered when determining the length of imprisonment
+- This is a measure imposed for the safety of the public, unrelated to rehabilitation
+- Another important factor for sentencing is the presence or absence of remorse
+### [[R v Gladue]]
+- Starting point for this case is that Canada has a very high rate of incarceration compared to similar countries, except for the US of course
+- Pretty consistent concern expressed about this, and many of the sentencing provisions were modified in 1996-7 to try and remedy this issue
+- One of these new additions was the addition of a new penalty called a conditional sentence
+- Sounds like a conditional discharge but it's not
+- Also called conditional sentences of imprisonment or conditional sentence orders (CSO)
+- Means that you get imprisoned in the community, usually through house arrest
+- Doesn't apply for offences with minimum penalties or offences where the accused was sentenced to 2 years or more, and is unavailable for some violent offences
+- This is a constant issue of political discourse, especially the offences it's available for
+- Conditions of imprisonment are also relevant, is letting people not leave their house really conducive to rehabilitation?
+- Most of these orders still allow people to leave the house occasionally for work, church, social engagements, medical appointments etc.
+- In some cases this ends up looking not very different from normal life
+- This is where the political pushback becomes especially strong
+- Can also be sentenced for breaching a conditional sentence, this is the main way you exercise more control over the offender compared to a probation order
+#### Restorative Justice
+- Other rationale for these reforms was to step away from ordinary penalties and focus on methods that preserve community connections
+- These were definitely aimed at Indigenous offenders, but not limited to them
+- Most relevant is s. 718.2(e) which states that all alternative sanctions to imprisonment that are reasonable in the circumstances should be considered for all offenders, but especially Indigenous offenders
+### Facts
+- This case involved a woman who plead guilty to manslaughter after attacking her spouse and killing him with a knife
+- Accused was angry because the victim was cheating on her with her sister and was intoxicated, was the aggressor in the killing
+- However, the defence and the Crown did not agree on a sentence
+- Crown wanted 3-5 years, the defence wanted a conditional sentence
+- Defence pointed to several mitigating factors, especially her age, the fact she was pregnant at the time with her second child during the offence and pregnant again at sentencing
+- Victim had also assaulted her and verbally abused her
+- Also a bunch of background factors, had some medical conditions creating overreactions
+### Analysis
+- Judge asked if she was Indigenous at sentencing, defence counsel said yes but said that she did not grow up in an Indigenous community
+- Based on this information, the judge ignored the Indigenous factor in the case
+- On appeal to the SCC, the court focused on whether the judge erred in principle by failing to consider the relevant factor of the accused's Indigenous identity
+- Did find that this was an error, could have led to a different result
+- Explained at length the concerning disproportionality of Indigenous individuals incarcerated in Canada, especially for Indigenous women
+- Court pointed to factors like poverty, isolation, and overpolicing/underpolicing
+	- Latter factors apply to MMIWG as well as increased police scrutiny
+- Substance abuse issues and lack of employment were also crucial factors, as well as mental illness and intergenerational trauma
+- All of these outcomes are generally associated with criminal activity, but why should this be an issue for sentencing, we should be intervening earlier
+- However, the justice system does seem to be biased against Indigenous offenders at pretty much every step of the process
+- The bail system depends mainly on the likelihood of appearing at court
+- Need a surety without a criminal record to post bail, and generally speaking the more marginalized you are, the more likely the court will find you're unlikely to appear
+- Important to recognize the role that the justice system plays here
+- SCC sends a strong message that sentencing judges have an important role to play here, for example by reducing the rate of Indigenous people imprisoned for non-violent offences
+- Also need to consider the strong evidence that imprisonment is not causing rehabilitation for these offenders, it's overall pretty ineffective
+- It separates people from their local communities, and disrupts lives
+- New approach should focus on looking at restorative justice options and thinking more seriously about conditional offences
+- Generally, the more serious or violent an offence is, the less likely it is that the Indigenous or non-Indigenous status of the offender will be
+### [[R v Ipeelee and R v Ladue]]
+- In the years after *Gladue*, the numbers of Indigenous individuals imprisoned actually got substantially worse, especially for Indigenous women and children
+- Today, Indigenous people are imprisoned at a rate almost 10x non-Indigenous Canadians and tend to serve more of their sentences
+- These numbers will also get worse over time because of the higher birth rates in Indigenous communities, and age correlates negatively to likelihood of imprisonment
+- Shows that *Gladue* did not have the required impact
+- Both of these cases dealt with offenders who breached their long-term supervision orders
+- Both were long-time violent offenders, mostly assaults and sexual assaults
+- Generally, high sentences will be imposed in these kinds of cases
+- The breaches of the supervision orders were related to the consumption of alcohol/drugs
+- Raises the issue of criminalizing people for relapsing on long-term addictions
+- You're basically setting them up for re-imprisonment
+- SCC walks back some of their statements about violent offenders in *Gladue*, says it should not matter what the offence is when considering restorative justice
+- Also walked back the requirements of a causal connection between systemic factors like intergenerational trauma and the offence committed
+- This was important, because the availability of *Gladue* reports varied widely across the country, and participation in these reports was also inconsistent
+- A lot of offenders were unwilling to relive their traumatizing experiences and have them read out before the court
+### [[R v Cope]]
+- The most frequent victims of violent Indigenous offenders were women and children within the Indigenous community
+- In 2019, in response to the inquiry on MMIWG, s. 718.201 was added which requires sentencing to consider the vulnerability of female victims, especially Indigenous women
+- This creates particular challenges for cases where the offender and victim are both Indigenous
+- Present case has to deal with this exact issue
+- Offence was an extremely serious domestic assault where the accused had a lengthy prior record but also a number of mitigating factor
+- Also a vulnerable victim who was severely injured and did not participate in sentencing
+- What do we do in these kinds of cases?
+- We don't want to pressure victims into participating in these processes when they clearly don't want to, but this also reduces the effectiveness of these methods
+- Trial judge actually participated in the sentencing circle in this case, but wasn't recorded/public
+- Concern that this goes against the principle of open courts
+- We have a bunch of Indigenous courts in BC, and pretty much all of them use different processes, some focus on English processes and others rely mainly on elders
+- This case has not yet come to a decision, and there are many intervenors, most of them arguing on the side of the accused

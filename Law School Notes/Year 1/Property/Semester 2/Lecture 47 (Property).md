@@ -1,0 +1,68 @@
+- First thing to consider about covenants is about how it can be used for private land use planning
+- Since covenants can be used to restrict how land is used in the future, they have often been used to "zone" land, and existed prior to modern municipal zoning laws
+- Before the 20th century, land use planning was done by private parties
+- There are two main kinds of covenants, positive and restrictive
+- Former is where the person holding the burdened property is required to do something on the land like building a specific structure
+- Latter is a limitation on what you can do with the land, as a general rule a covenant is negative if you can fulfill it by doing nothing
+- In the US, both restrictive and positive covenants can run with the land, but in pretty much every other common law jurisdiction, only restrictive covenants do this
+- This is how the HOA works, they are created by positive covenants to require payment to the HOA and also impose restrictions on landowners
+### Restrictive Covenants
+- Similar to easements, you have burdened (servient) lands and benefited (dominant) lands
+- Burdens will not run with the land at law, but at equity, parties who were not part of the original agreement will be bound if they have notice
+### [[Tulk v Moxhay]]
+- This is the case dealing with Leicester Square
+- Context was that there was a owner who held a property including the garden, and he sold the land to someone else
+- Covenant required the new buyer to keep the garden intact and also keep a horse statue
+- This was binding, the issue was whether the person the buyer (Elms) sold it to (Moxhay) was also bound by the same agreement
+- There are a lot of these kinds of gardens in London, some of which still have gates that can be opened by a key belonging to one of the surrounding landowners
+- This case also had an element of an easement, don't need to worry about that here
+- Decided by the Court of Equity right before they were absorbed into the other courts
+- Lord Cottenham argued that this was not an issue of if the parties were bound by contract, we know that two parties to a contract will be bound by the agreement
+- The determining factor was notice, since Moxhay knew about the old agreement, he should also be bound by that agreement
+- Question is whether a buyer can use the land in a way inconsistent with a contract the seller was bound by, as long as they have notice
+- Problem with this is there's no real justification shown for why we assume that this contract is intended to run with the land
+- Does argue that it would be unfair if a purchaser can buy a land free of restrictive covenants and resell it for a significant profit
+	- Would this really happen? It seems that if the buyer knows the covenant only binds them they can just sell it for a higher price
+- Overall principle is that if equity is attached to the property by the owner, no one purchasing the land with notice can end up in a different situation than the buyer
+- Again, this is assuming the owner attached an equity
+### Keppell v Bailey
+- Around the same time, a very similar case regarding a covenant for an ironworks went to court
+- Owner agreed to buy limestone from a specific quarry and use a specific railroad to ship it
+- Issue was whether a new owner was bound by the same agreement
+- Court of equity here said no, it would be confusing if parties were allowed to invent new covenants that run with the land
+- This is where the doctrine of *numerus clausus* came from
+- We shouldn't be construing contracts as new kinds of property interests
+- Court in *Tulk v Moxhay* said that the Chancellor in *Keppell v Bailey* did not intend to state that the court of equity will not enforce an equity attached to land
+- The court of equity can do what it wants, limits on covenants under the law don't matter
+### [[Restrictive Covenants|Running of Burdens in Equity]]
+- There are four requirements for a burden to run with the land in equity
+- First, needs to be a negative restriction
+- Second, burden must be intended to run with the servient land
+	- Means that it's not just a one-time contract
+- Third, benefit must be for the benefit or protection of the dominant land
+	- Also has subrequirements
+	- Must enhance the dominant tenement
+		- Need to get an actual benefit to justify imposing a burden
+	- Must touch or concern the land
+		- Restricting land to a specific use is okay
+		- However, restrictions on how it can be sold are not ok
+		- Also, any restraint on trade, or a covenant to limit competition will be very strictly construed
+			- Can see this in practice, most planned developments only have one of each kind of commercial property like cafes, grocery stores, salons, etc.
+### [[Noble et al v Alley]]
+- Involves a holiday compound on Lake Huron called Beach O'Pines
+- Issue was with a restrictive covenant that stated that the land in this compound could only be sold to white people
+- Noble wanted to sell his land in the compound to Wolf who was Jewish
+- SCC invalidated the contract not because of public policy, but because it did not touch and concern land, only a restriction on alienation
+- This limit did not change anything about the land at all
+- Most of the opinions made an argument similar to this, no connection to land
+- Another one said it was void for uncertainty because there was no specification of how we define who is white and who isn't
+- Dissenting judge said that we needed a full hearing, the issue of touching and concerning land did not emerge until the SCC hearing
+- This is a bit of an unsatisfying conclusion, why not void it based on public policy?
+- There was another case right before this called *Re Drummond Wren* where land was subject to a similar restriction that land cannot be sold to "Jews or people of objectionable nationality"
+- Pretty easy to say that this is void for uncertainty, but the court in this case went further and argued that it was against public policy and the *Racial Discrimination Act*
+- Because this limitation was intended to create divisions between religious and ethnic groups, we should void the covenant based on public policy
+- We talked about striking down racist transfer terms already in [[Re Leonard Foundation Trust]]
+### Hunter Decision
+- This case dealt with a racist restriction on land in Duncan preventing it from being sold to Chinese or Japanese people
+- Was a pretty common thing around the time, but was still declared inoperative and could not be registered on title
+- No reasons given for doing this, continued to be used after this

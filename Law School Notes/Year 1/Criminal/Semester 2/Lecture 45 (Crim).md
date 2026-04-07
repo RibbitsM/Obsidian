@@ -1,0 +1,61 @@
+- Recall that last class we ran into the issue of whether attempts are specific or general intent
+- Not much info prior to the [[R v Ancio]] decision
+- It looks like attempts are specific intent, and the defence of intoxication is available, but there is no real precedent backing this up
+### [[USA v Dynar]]
+- Reason for the weird style of cause it because this is an extradition case, the prosecuting authority is the US trying to get Dynar extradited
+- This happens when you're alleged to have committed a crime outside of Canada and the accused is residing in Canada
+- The foreign government will want to have them extradited to face criminal charges
+- In Canada, we do not charge people for crimes committed outside of Canada with a couple exceptions like child sex tourism
+- Country where you committed the offence will have to request extradition
+- Canada has signed extradition treaties with a number of countries including the US, need to meet a couple of requirements to extradite
+- This has created some issues with the US where the accused is facing the death penalty
+- Canadian courts have consistently refused to extradite in these cases unless they get an assurance that the death penalty will not be imposed
+- One of the basic principles for extradition is double criminality, meaning the reason for extradition needs to be something that was also a crime in Canada
+- This is applied pretty broadly, just need an offence that applies, doesn't have to be exactly the same as the offence they're being extradited for
+### Facts
+- In this case, the conduct at issue was money laundering, which is handling the proceeds of crime and obscuring their criminal origins
+- Initial charge came from a sting operation where the FBI pretended to be criminals to bait Dynar into agreeing to launder money
+- Sting operation was aborted, but even if it was completed, that would not be a crime in Canada because here, you need to be laundering actual proceeds of crime
+- Money in this case would have come from the FBI, totally clean
+- Because the operation wasn't completed, US authorities argued that Dynar should be charged with an attempt to launder money instead
+- Issue was whether Dynar would be guilty of an attempt to launder money in Canada if the same situation arose with a sting operation
+- Under s. 24(1), attempting to commit an offence is a crime regardless of whether it was possible to complete the offence or not
+- Does this apply here? It would have been impossible for Dynar to complete the offence because they did not have access to any proceeds of crime to launder
+- Examples of cases where this kind of principle applies is where someone attempts to poison someone but does not use enough poison
+### Analysis
+- Defence here argued that this is a case where committing the offence was factually impossible, but this is a case where committing the offence is legally impossible
+- The issue is not with the factual circumstances, but with the underlying law
+- A legally impossible crime would be one where you have the intent to commit a crime, but even if you successfully did it, it would not be a crime
+- Think about planning to steal something from a store and going through with it, but the thing you "stole" was a free sample
+- Problem with this is that the thing making an attempt a crime is intention and belief
+- Can imagine a scenario where someone who was trying to use a voodoo doll to kill someone could be convicted for attempted murder
+- Argument for the majority is that since Dynar genuinely believed he was laundering the proceeds of crime, he's still guilty even though it was fine
+- Can argue that we still want to impose liability here because the accused has shown a willingness to break the law, even if it wasn't actually possible
+- Extradition is often a contentious issue, because the courts are forced to decide between letting someone who's committed a crime free in Canada, or extraditing them to face disproportionate and overly severe punishment
+### Sentencing
+- This is a pretty broad area of law, we're just looking at some basic principles
+- Happens after a finding of guilt, can be a plea or a verdict
+- In Canada, sentences are set by the trial judge, not the jury
+	- Only exception is in 2nd degree murder cases where the jury can offer an opinion on the period of parole eligibility
+- Separate sentencing hearing will be held where the Crown and defence can make arguments on what the appropriate sentence or range of sentences is appropriate
+- Can provide additional evidence here not used at trial
+- Examples of defence evidence can be the character of the accused or their remorseful actions
+- Goal is to present mitigating factors for a lower sentence
+- Crown can also introduce new evidence that shows aggravating features of the offence
+	- Can relate to the impact on the victim(s) or the prospects of rehabilitation
+	- Might also bring up the criminal record of the accused as evidence
+- If the Crown wants to rely on aggravating facts not proved at trial, need to prove these new facts beyond a reasonable doubt
+	- Established both in common law and the *Criminal Code*
+- Also common for the defence and prosecution to submit a joint submission, especially when the accused plead guilty 
+- Judges will pretty much always accept joint submissions unless the deal is really disproportionate
+- Criminal system pretty much relies on plea bargains, we try to avoid trials whenever possible
+- Place to start with what submission you're going to make is the *Criminal Code* which dictates the options for sentencing
+	- Every offence has a maximum penalty, some also have minimum penalties but most don't
+	- Charter will also be relevant when there is a minimum penalty
+- Assuming you know the outer range, there are also a number of parts of the Code that dictate other options for sentencing like fines, parole, probation/suspended sentences, etc.
+- Can also have conditional sentences (house arrest) and discharges (best possible outcome)
+- Not unusual to see a sentence for both imprisonment and probation, you can mix and match penalties, but you can never have more than two
+- Next thing to do is look at the principles of sentencing and make an argument over where within the possible range the sentence should land
+	- Relies heavily on looking at the common law for past sentences in similar cases
+	- Don't need to know everything about sentencing for the exam
+- For next class, read the sentencing provisions in the *Code* (s. 17 onwards)

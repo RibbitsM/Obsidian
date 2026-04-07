@@ -1,0 +1,9 @@
+- Criminal law case, dealt with whether the reasonable person test applies to the [[Lecture 29 (Crim)|defence of provocation]]
+- Dissent argued about issues surrounding whether children should be held to the same standard as adults
+- Argues that the legal approach should reflect the development of a child's ability to foresee things and make decisions
+- Different stages of development should logically lead to having a full appreciation of their actions once they reach adulthood
+- Uses the three-stage approach discussed in [[McHale v Watson]]
+- There is a cutoff point at some age where a child ceases to be assessed on the standard of their peers of a similar age, and is held to the universal standard
+- Should adjust the standard for provocation the same way, defendant would be expected to show the self-control possessed by the average 16 yo
+- This would meet the principle of holding all people to equal standards, the accused should be measured on the same standard expected of all children their age
+- Developmental process is embedded in the ordinary person test

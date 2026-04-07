@@ -55,7 +55,7 @@
 - Infringement here was a restriction on the students from accessing the optimal learning environment for them
 - Dissent focused mainly on the argument that the public interest requires diversity, and would be benefitted by allowing TWU to use the Covenant
 - Allows them to operate freely without imposing the state's beliefs
-- Is this distinguishable from *Loyola*
+- Is this distinguishable from *Loyola*?
 ### Summary
 - Identify and assess how courts address s. 1 issues under s. 2(a)
 - Understand how *Dore* works in s. 2(a)

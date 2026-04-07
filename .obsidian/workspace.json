@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4e9a75e52d878ba",
+            "id": "c42fcf8259e8a091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law School Notes/Year 1/Criminal/Semester 2/Lecture 44 (Crim).md",
+                "file": "Law School Notes/Year 1/Public/Lecture 3 (Public).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 44 (Crim)"
+              "title": "Lecture 3 (Public)"
+            }
+          },
+          {
+            "id": "64bb447e07d6396a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Law School Notes/Year 1/Public/Readings/Antecedents of the Charter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antecedents of the Charter"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Ontario v G",
+                "query": "\"civil procedure\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law School Notes/Year 1/Criminal/Semester 2/Lecture 44 (Crim).md",
+                "file": "Law School Notes/Year 1/Public/Lecture 3 (Public).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 44 (Crim)"
+              "title": "Backlinks for Lecture 3 (Public)"
             }
           },
           {
@@ -170,34 +184,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f4e9a75e52d878ba",
+  "active": "c42fcf8259e8a091",
   "lastOpenFiles": [
     "Law School Notes/Year 1/Public/Lecture 2 (Public).md",
-    "Law School Notes/Year 1/Criminal/Semester 2/Lecture 44 (Crim).md",
-    "Law School Notes/LSLAP and PBSC/LSLAP Intake Notes.md",
-    "Law School Notes/Year 1/Public/Lecture 22 (Public).md",
-    "Law School Notes/Year 1/Public/Readings/Ontario v G.md",
-    "Law School Notes/Year 1/Public/Readings/Schachter v Canada.md",
-    "Law School Notes/Year 1/Public/Lecture 18 (Public).md",
+    "Law School Notes/Year 1/Public/Lecture 1 (Public).md",
+    "Law School Notes/Year 1/Public/Lecture 25 (Public).md",
+    "Law School Notes/Year 1/Public/Readings/Antecedents of the Charter.md",
+    "Law School Notes/Year 1/Public/Lecture 23 (Public).md",
     "Law School Notes/Year 1/Public/Lecture 19 (Public).md",
-    "Law School Notes/Year 1/Public/Lecture 21 (Public).md",
-    "Law School Notes/Year 1/Public/Lecture 20 (Public).md",
-    "Law School Notes/Year 1/Public/Lecture 17 (Public).md",
-    "Law School Notes/Year 1/Public/Lecture 16 (Public).md",
-    "Law School Notes/Year 1/Public/Lecture 15 (Public).md",
-    "Law School Notes/Year 1/Public/Lecture 14 (Public).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 28 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 29 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 30 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 31 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Lecture 27 (Torts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Cooper v Hobart.md",
-    "Law School Notes/Year 1/Public/Lecture 9 (Public).md",
-    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 45 (Contracts).md",
-    "Law School Notes/Year 1/Torts/Semester 2/Readings/Athey v Leonati.md",
-    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 44 (Contracts).md",
-    "Law School Notes/Year 1/Contracts/Semester 2/Lecture 43 (Contracts).md",
-    "Law School Notes/Year 1/Public/Readings/Chaoulli v Quebec.md",
+    "Law School Notes/Year 1/Public/Lecture 24 (Public).md",
+    "Vancouver v Ward.md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 1 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 2 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 3 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 4 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 5 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 6 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 7 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 8 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 9 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Lecture 10 (Aboriginal).md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Van der Peet (ATR).md",
+    "Law School Notes/Year 1/Aboriginal/Readings/Clyde River v Petroleum Geo-Services.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/Tsilhqot'in Nation v BC.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/Haida Nation v BC (Minister of Forests).md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Gladstone.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Sparrow.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Powley.md",
+    "Law School Notes/Year 1/Aboriginal/Readings/R v Marshall.md",
     "Law School Notes/Year 1/Advocacy/Moot Tryout",
     "Law School Notes/Year 1/Property/Semester 2/Untitled",
     "Law School Notes/Year 1/Contracts/Untitled",

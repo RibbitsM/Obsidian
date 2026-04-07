@@ -63,7 +63,7 @@
 - Plaintiff was injured in a car accident, suffering neck, shoulder, and back tissue injuries
 - These injuries cleared up, but the plaintiff injured herself while warming up for a physiotherapy exercise program she was doing for the original injuries
 - Medical evidence showed that this injury was completely disconnected
-- Court pointed to [[Athey v Leonati]] to how that the defendant does not need to be the sole cause of the injury, liable even though their act alone was not enough for the injury]
+- Court pointed to [[Athey v Leonati]] to how that the defendant does not need to be the sole cause of the injury, liable even though their act alone was not enough for the injury
 - This is a classic example of an injury being worsened
 - Court said it doesn't matter if the cause of the injury was non-tortious, as long as the injury was a reasonably foreseeable consequence, can establish liability
 - Plaintiff pointed to a case called *Papp v Leclerc* where the plaintiff had to get surgery after a car accident and suffered an unrelated injury from the surgery

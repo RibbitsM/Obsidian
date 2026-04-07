@@ -1,0 +1,80 @@
+- Recall that covenants based on racist restrictions have historically been deemed invalid, either because they go against public policy (*Re Drummond Wren*) or because of vagueness ([[Noble et al v Alley]])
+- Can also give no reasons at all like in the CJ Hunter decision, but this is not recommended
+- Is this a good idea? Should courts be making these decisions based on public policy, or is it more appropriate to make these decisions based on the law?
+- A potential middle ground is to say that it goes against statute, BC has the *Human Rights Code* which prevents denial of the opportunity to buy property based on protected grounds
+- *Land Title Act* has similar language under s. 222, but has less protections
+### Running of the Burden in Equity
+- Most controversial part here is the burdened property, not the benefitted one
+- Recall the four main requirements for running in equity
+	- Must be negative
+	- Burden needs to be intended to run with servient land
+	- Must be for protection and benefit of dominant land
+		- Enhances dominant land
+		- Must touch or concern land
+			- Restricts general category of use is ok, restricts alienation is not
+			- Can restrain trade, needs to be very specific though
+	- General limitations on equity also apply like notice
+- Section 29 of the *LTA* will also determine if you're bound by the interest
+### Principles of Interpretation
+- Recall that restraints on trade are subject to strict rules of construction
+	- Not interpreted purposively, only strictly
+- This is also a general principle for the interpretation of restrictive covenants as a whole, clearly stated in *Kirk v Distacom Ventures*
+- Presumption for restrictive covenants is always that the landowner is free of restrictions
+- Adopted by the SCC in *Noble and Wolf v Alley*
+### Statutory Covenants
+- Under s. 219 of the *LTA*, covenants in favour of the Crown can be registered even if they violate some of the common law rules regarding covenants
+- Allows these special statutory covenants to be enforced against the burdened party even if the covenant is not annexed to the land owned by the benefitting party
+	- Remember that the covenantor is the burdened party, covenantee is the benefitted party
+- Means that a covenant doesn't need a benefitted party, Crown can enforce a burden without having any related benefitting land
+- Under s. 219(2), these covenants can also be positive and include provisions on the use of land, building on land, subdivision of land, and separate sale of parcels of land
+- Under s. 219(3), any person designated by the minister can have a s. 219(4) covenant
+- These s. 219(4) covenants can do anything covenants under s. 219(2) can do, but can also provide that a land or amenity can be protected, preserved, or maintained
+- Can be granted for natural, historical, cultural, scientific, or architectural value reasons
+- Usually used by conservation or cultural organizations
+### Statutory Changes and Building Schemes
+- Recently, BC has taken away some of the powers of communities with more that 5000 residents to do single-family zoning, and require multiple-family units, especially near transit hubs
+	- All properties are now zoned by default for at least 3-4 units
+- Have not addressed the private power to zone single-family residential areas using restrictive covenants, they only removed the public power to do this
+- Recall that this was the historical purpose of restrictive covenants, before public zoning became the dominant method of city planning
+- Main way to do this is through a building scheme, where a developer places restrictive covenants on all properties in their subdivision
+- In an old Ontario case called *Berry v Indian Park Assn*, the court explained these schemes
+- Once the scheme comes into force after properties have been sold, each property owner holds both the burden of the restrictions, and the benefits
+- All owners have a common interest in the enforcement of the building scheme
+- Common law basis for building schemes comes from *Elliston v Reacher*, which established four requirements for a valid building scheme
+- Looked at these in the [[Restrictive Covenants]] article
+	- First requirement is that properties need to come from a common vendor
+	- Need a subdivision plan with restrictions consistent with a general development scheme
+	- Restrictions must be intended for the benefit of all parcels
+	- Affected parcels have to be purchased on the understanding that the restrictions will benefit all other parcels
+- This is replicated in statute under s. 220(1) of the *LTA*
+- Under this provision, if a registered owner wants to sell or lease multiple parcels with a building scheme need to register a Declaration of Creation of Building Scheme
+	- This is registered as a charge on all the affected properties
+- Building schemes are defined as effectively private local zoning laws
+### Example
+- Tallest buildings in BC are all located in Brentwood, right next to a neighbourhood of single family homes protected by a private building scheme
+- Creates issues because not all of these residents want to keep this scheme
+- City needs more housing, and some owners want to develop their properties, but others are hesitant to change the character of the neighbourhood
+- Province removed public single family zoning, but this private scheme persists
+- How can you change or remove a private zoning scheme?
+- Two main ways to do this, either get the consensus of all the property owners, or apply to the courts for a court order changing/removing the scheme under s. 35 of the *Property Law Act*
+	- This statute allows a person holding an interest in land to apply to the provincial superior court for an order to change or modify a building scheme they're subject to
+- Can do this based on changes in the character of the land, neighbourhood, or other material circumstances that make the charge/interest obsolete
+	- Also if reasonable use of the land is impeded without practical benefit to others by the building scheme
+	- If the persons entitled to the benefit have expressly or impliedly agreed to cancel it
+	- Or if the change will not injure the benefit holders, and if the registered instrument is invalid, unenforceable, or has expired
+### [[Smith v Clearwater Park]]
+- The Smiths live in a single-family home in a community protected by a building scheme, and Clearwater is building a multifamily townhouse complex next to their house
+- When we look at the building scheme, no more than one dwelling for one family can be constructed on the property without the approval of the Grantor or Approving Officer
+- The Grantor in this case is Garibaldi Park Estates Limited (GPEL), the original owner of the neighbourhood lands that created the building scheme
+- Approving Officer is anyone that GPEL delegates their powers to
+- However, GPEL dissolved decades ago, and pretty much the whole building scheme is based on what GPEL does and does not approve of
+- Main goal of the building scheme was not to strictly limit development, but to give GPEL absolute control over the development of the neighbourhood
+- In the absence of any authority, the building scheme cannot be complied with and is obsolete
+- Clearwater got a court order to invalidate the building scheme and was allowed to build
+### Basis for Invalidating Building Schemes
+- What other options were there for invalidating this building scheme?
+- Recall that one is impeding reasonable use of land without practical benefit to others, but there seemed to be clear practical benefit here
+- Can argue that this building scheme was invalid under common law, because it did not actually create a mutual system of burdens and benefits
+- The only real benefits were to the developer, they had complete discretion on everything
+- Some of the residents may have agreed with the goals of GPEL, but they had no personal legal benefit under the building scheme
+- This would be invalid under s. 35(2)(e), which allows a court order where the registered instrument is invalid
