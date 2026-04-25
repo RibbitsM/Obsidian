@@ -6,8 +6,8 @@
 - Can apply to other elements as well, for example public bodies often challenge the assertion that they owe the plaintiff a duty of care
 - Three main areas of focus at common law
 	- First is contributory negligence, which suggests that the plaintiff somehow contributed to the negligence causing harm to them, can limit damages
-	- Second is voluntary assumption of risk, if the plaintiff invited the harm somehow, the defendant will not be liable (find Latin term)
-	- Third is injury based on illegality, arguing that no liability arises out of the base cause because plaintiff acted illegally (find Latin term)
+	- Second is voluntary assumption of risk, if the plaintiff invited the harm somehow, the defendant will not be liable (*volenti non fit injuria*)
+	- Third is injury based on illegality, arguing that no liability arises out of the base cause because plaintiff acted illegally (*ex turpi causa non oritur actio*)
 ## Contributory Negligence
 - Main focus of this defence is "quid pro quo", if the plaintiff is demanding that others take reasonable care to avoid causing harm, they must also take care to not harm themselves
 - Every person has an implicit duty to take care of themselves in ordinary life
@@ -18,6 +18,7 @@
 - Happened during a time where contributory negligence was a complete defence
 - Defendant blocked the road with a pole to repair his house, plaintiff left a pub and was riding very fast along the road and hit the pole
 - Wasn't drunk, but the court found that a person who was riding ordinarily would have been able to notice and avoid the pole
+	- Used the "last clear chance" doctrine, it's the plaintiff's fault if they had the last chance to avoid the injury
 - This was the instruction given to the jury, found that the fault was entirely on the plaintiff
 - Can't avail yourself of a dangerous situation that another person has created
 - Defendant being in the wrong does not give others the right to act without ordinary care and injure themselves or others

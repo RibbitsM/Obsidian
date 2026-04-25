@@ -1,0 +1,39 @@
+- Not going to have an exam question on *res ipsa loquitur*
+- Ask about the difference between drawing an inference and shifting the burden when it comes to factual uncertainty and *res ipsa loquitur*
+- If we have a question on the exam that asks you to fill a certain amount of lines, each sentence is equal to about 3-4 lines?
+- IRAC is less important for this exam, supposed to get straight to the point
+- This was a factual uncertainty case, supposed to recognize that immediately and explain why the facts of the case are uncertain
+	- When it comes to spotting the issue, what really matters isn't just correctly identifying what the issue was, you also need to explicitly name the rule
+	- Ireh really likes clear labelling, instead of just writing the answer, you should be signposting what part of the case you're dealing with at every point
+- If you have a case of factual uncertainty, you should explicitly say that instead of saying it was an issue with causation or remoteness
+- Once you identify this issue, then explain the principles and tests for factual causation based on *Athey v Leonati* and explain the but-for test
+- At this point, you should go on to discuss the potential challenges with the case and the strategies the court may use to resolve these
+	- Example would be the "robust and pragmatic approach" from *Snell v Farrell*
+- Explain these cases as an exception to the general rule for causation, which apply in cases of factual uncertainty, which is what we're dealing with here
+- Succinct writing is really important here, should be able to summarize all of the approaches in a couple sentences
+- Crucial points are the need for the robust/pragmatic approach, and the ability of the judge to make an inference in the absence of a clear factual connection
+- Don't want to introduce the thin-skull rule before you talk about the causation issues, that's a principle from remoteness, not causation
+	- We talked about it during factual causation, but it's supposed to be in remoteness
+- Causation in a vacuum generally means factual causation, remoteness and principles like thin-skull and crumbling-skull deal with legal causation
+- Should be framing the issue of the case as a question
+- Don't skip your steps, and never skip the explanation of the principles you used
+### Summary
+-  Clearly identify the issue as the very first thing you do, and explain the rules
+	- Even if she says she doesn't want IRAC, use it anyway lol
+- Headings make it easier to mark, she's marking all the exams very fast
+- Not just identifying the issue/principle, but also what part of the course it's from
+- If an issue won't affect the outcome, don't mention it
+	- She only wants to see writing on the issues that she intentionally put into the question
+	- Won't directly decrease your mark, but it will make your answer less succinct
+- For the second question, reason you can't raise illegality as a pre-emptive defence is because it would make the case "all or nothing"
+	- If it was raised later, could separate the heads of damages ([[Hall v Hebert]])
+- Exam is two fact patterns, and three sections of the exam
+- First two are fact patterns with two questions each, last section is an essay question
+- Strict word limits for most of the FP questions (two-three sentences)
+	- Issue identification and explanation of principles are the most important things
+	- Not always going to be from the same parts of the course
+- Essay question is probably be going to be policy-related, likely not something that we directly covered in lecture, but we might have talked about it
+- Two hour time limit for the whole exam, but it sounds like it'll actually be much shorter
+### Practice
+- In two to three sentences, explain the issue from the mock exam
+- The issues in this case are with causation and remoteness, specifically factual uncertainty and the thin skull/crumbling skull rules. The defendant has already conceded the elements of duty of care and standard of care, so the only remaining elements of negligence are causation and damages, and given that the plaintiff suffered severe physical harms, damages is easy to establish. Factual uncertainty is relevant because the facts do not show a clear causal connection between the defendant's actions and the final injury, and thin skull/crumbling skull rules are relevant due to the plaintiff's multiple underlying medical conditions.

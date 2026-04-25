@@ -1,4 +1,4 @@
-- In some circumstances, courts are willing to accept mistake of law if the accused was relying on incorrect legal advice
+ - In some circumstances, courts are willing to accept mistake of law if the accused was relying on incorrect legal advice
 - Similar to estoppel in contracts, requires some sort of misrepresentation
 - Used in lower courts for a long time, not recognized by the SCC until 2006
 ### [[City of Levis v Tetrault; City of Levis v 2629-4470 Quebec Inc]]

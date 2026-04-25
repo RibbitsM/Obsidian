@@ -1,6 +1,6 @@
 - Defendant (Barton) was charged with first degree murder of the victim, who he claimed he had paid for sex in a consensual encounter
 - Victim was found dead in the bathtub of Barton's hotel room after bleeding out from a perforation in her vaginal wall
-- Barton's defence relied on the defence of honest bust mistaken belief in consent
+- Barton's defence relied on the defence of honest but mistaken belief in consent
 - At trial, jury acquitted Barton of first degree murder and unlawful act manslaughter
 - Appealed, which ordered a new trial on first degree murder, and Barton appealed again to the SCC which ordered a new trial only on unlawful act manslaughter
 - Held that the trial judge erred by allowing evidence of the victim's past sexual activity into the trial, which goes against s. 276 of the *Criminal Code*

@@ -58,4 +58,4 @@
 - Next thing to do is look at the principles of sentencing and make an argument over where within the possible range the sentence should land
 	- Relies heavily on looking at the common law for past sentences in similar cases
 	- Don't need to know everything about sentencing for the exam
-- For next class, read the sentencing provisions in the *Code* (s. 17 onwards)
+- For next class, read the sentencing provisions in the *Code* (s. 718 onwards)

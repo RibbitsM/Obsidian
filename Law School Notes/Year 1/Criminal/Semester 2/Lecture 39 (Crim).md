@@ -11,7 +11,7 @@
 - In a case called *Paquette*, the SCC held that the common law defence lives on outside of the statutory version, and applies only to parties
 - If you are charged as a principal, can only use the statutory defence but if you're charged as a party, you can use the common law defence instead
 - Because of this unique status, the requirements of duress will depend on which version of the defence you are using
-- No matter which version you are using, will need to prove it on a balance of probabilities and it will provide a complete acquittal if successful
+- No matter which version you are using, will need to give it an air of reality and it will provide a complete acquittal if successful
 ### [[R v Hibbert]]
 - This is the leading case on the application of the common law defence of duress
 - Principal offender was a drug dealer named Bailey who was seeking to kill another drug dealer and enlisted the help of Hibbert, the accused in this case

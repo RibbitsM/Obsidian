@@ -9,7 +9,7 @@
 ## Aboriginal Title and Title Registration
 - Section 282 allows for the registration of caveats
 - These are temporary notices that you are making a claim against a registered interest
-- Person claiming under an unregistered interest incapable of immediate registration like a contract of person and sale can make a caveat
+- Person claiming under an unregistered interest incapable of immediate registration like a contract of purchase and sale can make a caveat
 - A caveat freezes any action on title, once it's lodged it will prohibit registration of a dealing with the land absolutely, or to the extent mentioned in the caveat
 - Under s. 288(1), as long as the caveat is lodged, the registrar cannot register another instrument affecting the land
 - They are time limited tho, under s. 293(1), a caveat lapses after 2 months

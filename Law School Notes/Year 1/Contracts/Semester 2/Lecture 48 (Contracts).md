@@ -1,0 +1,81 @@
+- Final exam is 2 hours, only one fact pattern about same length as in the past year exams
+### Facts
+- John recently got his pilot's license, wanted to lease a plane and contacted Take Flight to ask for a 12 month lease
+- John was new to this, director of Take Flight (Bill) sent him a standard form agreement for a lease
+- Agreement set a monthly lease amount of $5000, with 15k paid up front
+- Specified plane would be delivered in working condition within 1 week of the agreement, any party could terminate with 30 days notice
+- Bill did not mention that the standard form included a full release of liability
+- Bill said the plane was inspected, and attached the inspection report to the agreement, parties signed the agreement
+- John paid the 15k, and the plane was delivered within 1 week
+- However, several of the gauges on the plane were malfunctioning, and John could not fly safely at certain speeds/altitudes that the plane is supposed to be able to handle
+- Emailed Bill about the gauges, and asked some friends who told him that leasing companies usually provide free maintenance at the start of the lease
+- His friends also estimated the plane was worth about 3k per month
+- Bill promised to send technicians, never happened despite multiple further requests
+- John flew the plain twice a week for first 6 months, and rented a hangar for 1k per month and spent about 3k total on fuel
+- After paying for the sixth month, Bill sent John a notice to terminate with 30 days notice due to a manufacturer recall
+- John returned the plane, and when Bill emailed him to thank him, he accidentally attached an email chain with the maintenance manager
+- Emails revealed that the pre-delivery inspection was done carelessly, and if it was done properly, it would have found the issues with the gauges
+- Also showed there was no plan to send any technicians, and that another person wanted to lease the plane for more than John was paying
+- Seemed that they lied about the technicians to keep John on the hook until 6 months had passed and they can lease the plane to the other guy for a higher price
+- John quickly found out who now has the plane, and found that it was the same person mentioned in the email chain
+- Also discovered that there was no manufacturer recall
+### Question
+- Discuss contractual implications, including:
+	- Any claims available to John
+	- Damages he might be entitled to
+	- Alternate ways that John could have conducted himself
+### Answers
+- Obvious claims are for breach of contract
+	- For breach of contract, need to determine if it's a repudiatory breach or not
+	- Breach would be based on the term specifying that the plane would be delivered in good working condition
+		- Did the poor working condition of the plane substantially remove his benefit from the contract?
+		- Debatable, probably not a repudiatory breach
+	- Overall, seems like there was at least a breach of an express term
+- Could argue there was an implied term to fix the plane, which you can establish based on industry custom
+	- Might be challenging to make the custom argument
+	- Other option is to argue that it was implied based on the business efficacy or officious bystander test
+	- Any reasonable person would expect the lessor to fix the plane at no additional cost if it was delivered in a defective state
+		- This is likely the stronger argument for an implied term
+- If you conclude there was an implied term, fairly simple to establish that the implied term was breached
+	- When considering if this was a repudiatory breach, need to consider if the breach substantially removed the value of the contract
+		- Gonna have to base this on the fact that John could not fly the plane to its full manufacturer capacity
+		- Probably not a repudiatory breach
+- Since he continued to fly the plane and didn't take any actions to end the contract seems like he may have accepted the breach
+- In any case, it seems clear he could seek damages, either for the breach of the airworthiness term or based on the implied term
+	- We know he overpaid at least 2k per month
+	- At minimum he gets 12k damages for overpaying 2k per month for 6 months
+- Want to look at the damages flowing from each breach, but could not claim damages from both the express and implied term
+	- Damages calculation is the same, based on the reduced value of the plane
+- Third issue we need to talk about is the exclusion of liability clause
+	- Can John even sue for the breaches of contract?
+	- Might be able to argue the clause was too broad and onerous, and his attention was not brought to the exclusion clause
+	- Can likely void it based on the precedent of *Tilden Rent-A-Car*
+	- Failing this, need to consider the test from *Tercon*
+		- Does clause apply to the situation?
+			- It applies here, extremely broad
+		- Was it unconscionable?
+			- Probably can establish this here, we have evidence showing inequality of bargaining power
+				- Also used a standard form agreement, similar to the example of *Uber v Heller*
+			- Pretty clear this is unfair, the clause blocks absolutely all claims against Take Flight
+			- Seems likely that you can establish unconscionability
+		- Any policy reasons?
+			- Seems like there may be a public safety issue, Take Flight knowingly provided a plane that violated Transport Canada regulations, and lied about fixing it
+			- Could be quasi-criminal conduct
+			- Even absent unconscionability, seems like you could dispose of the clause on this basis
+- Final category of claim is good faith (*Bhasin*)
+- Two main issues here, misleading info about performance, and abuse of a clause with discretion
+	- For the duty of honest performance, can base this on the statements about sending maintenance workers
+		- Very clear that they were actively lying to John about sending maintenance workers to keep him paying
+	- For abuse of a discretionary power, based on the decision to end the agreement early
+		- Take Flight claimed it was being used due to a manufacturer recall, actually done to make a profit
+		- Not really much debate here, pretty clear that this was used for an improper purpose
+			- Can argue that the clause says it can be used for any reason, but courts likely wouldn't accept this
+			- Goes against the purpose of good faith performance
+		- Still have the option to lump this into the duty of honest performance
+- Good faith claims can lead to damages, based mainly on the same standard as breach of contract damages
+	- If the dishonesty about the technicians hadn't happened, then the implied term wouldn't have been breached
+	- Can probably use the same damage calculations
+- For the abuse of discretion part, John presumably would have kept renting the plane for 6 more months
+	- Probably only nominal damages here
+- Lot of overlap when it comes to damages here
+	- 

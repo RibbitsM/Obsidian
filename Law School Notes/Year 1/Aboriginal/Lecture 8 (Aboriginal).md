@@ -41,7 +41,7 @@
 - Crown argued that this would lead to excessive exploitation, as this would effectively be a commercial right to trade
 - Does not have the same internal limits as the right to food
 - Court pointed to a term from the treaty negotiations saying that the truck houses were required to give the Mi'kmaq the "necessaries of life"
-- Interpreted this to mean a right to fish enough to give themselves a moderate livelihood, similar to McLachlan's argument in [[R v Gladstone]]
+- Interpreted this to mean a right to fish enough to give themselves a moderate livelihood, similar to McLachlin's argument in [[R v Gladstone]]
 - This argument had been in the jurisprudence, but never adopted by the majority
 - Does not mean that this is an unfettered commercial right, it can be regulated by the government to make sure it stays moderate
 - These regulations would not be violations of the right because they are part of the right itself
@@ -62,7 +62,7 @@
 ## Marshall #2
 - Pretty unique decision in the sense that it was clarifying an earlier ruling
 - As soon as the decision was made, Indigenous fishers began using this new right to fish for lobster, which was much more lucrative than eel
-- Non-Indigenous fishermen became extremely upset about this, violence erupted with boats and churches being built
+- Non-Indigenous fishermen became extremely upset about this, violence erupted with boats and churches being burnt
 - At the time the DFO did not really have any sort of response to the ruling, they were caught off guard by the SCC ruling
 - Similar to a lot of what we're seeing now with the Cowichan decision
 - Intervenor in the initial case applied for a rehearing and asked for a stay of judgement

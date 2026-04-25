@@ -1,0 +1,25 @@
+- Remember that saying there is no available remedy is also an option
+- Put case names in italics if you have the time
+- Very important to consider all possible pathways to an answer, remember you're expected to identify **all** relevant issues
+- Also some opinion-based questions in the fact pattern sections
+	- For these kinds of question, your goal is to persuade the reader
+- Don't say that you need more facts to make your decision
+- Best way to cite cases is to take the decision from the case as the principle of law, and weave that principle into your answer
+- Obviously need to cite your cases, you'll lose marks for including less cases
+- This includes textbooks, should be citing these as sources as well
+- Approach for essay questions should be the same as an essay on any exam, need an intro, some body paragraphs, and a conclusion
+- Stick to the sentence requirements, but don't make your sentences unreasonably long
+- Should be hitting the max length, or at least getting close
+- Goal is to use about 5-7 sentences to explain how you feel about a legal issue
+	- Not a lengthy essay, so don't waste your space
+- Sections 1 and 2 have 2 questions each, Section 3 is just one essay question
+- Short form case names are fine
+- q1. Identify the issues arising in 2 sentences
+- q2. in 4-6 sentences, advise a party on something
+- Not addressing anything in first semester on the exam, ignore it if it looks like a first-semester issue
+- Also ignoring parts of 2nd semester
+	- Not going to have a question on standard of care
+	- Don't need to address proof of negligence either
+	- Duty to the unborn is excluded, but duty of care is general isn't
+	- Nonfeasance is also excluded from the final exam
+	- Everything else is probably on the exam in some form

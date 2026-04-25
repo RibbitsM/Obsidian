@@ -1,1 +1,113 @@
-- powley
+- Metis rights are expressly affirmed in s. 35, as they are included under the definition of "aboriginal people" in s. 35(2)
+- Also there's a common theme in Canadian history of Metis rights being ignored even compared to Indigenous groups
+- Geographic range of the Metis was mainly in the "Old North West" which was pretty much everything past Lower Canada where govt controls were much weaker
+- Within this area there were about three different but also interconnected Metis "groups", although they were more like geographies or economies
+	- Not really distinct cultures, just different ways of life
+- Voyageurs were the first group, mainly made up of fur traders in the boreal forest areas
+- In the prairie regions of Canada, mixes of French and English Metis hunted buffalo primarily and did a lot of trade in pemmican
+- Final group was in Manitoba, fished on Lake Manitoba and Lake Winnipeg
+- These trading economies were all interconnected, and served as one long chain of trade from Lower Canada to the northwest regions of Canada
+- Different groups also had distinct languages, French Metis patois was different from the English dialects
+- As the government began to expand into these regions and expanded the CPR railroad, they made treaties with the Aboriginal groups, but not the Metis
+### Metis Rights
+- Need to consider who the Metis are, what rights they have, and how those rights are recognized
+- Generally used to refer to people with mixed Indigenous and French/Scottish/English descent
+- Historically excluded from regimes intended to benefit "Indians", and instead received "scrip" instead of treaties and reserves as compensation
+	- Scrip was basically just a document that entitled you to either some land or some money
+	- Dealing with scrip was also very complicated and led to a bunch of fraud
+	- Lots of litigation about issues with this scrip system
+- Government did recognize them as a distinct community with rights they needed to address, but did not negotiate with them in the same way as the Metis
+- Defining SCC case for defining Metis rights is [[R v Powley]]
+### Background to Powley
+- Metis have historically been quite organized, working in political collectives
+- Near Sault Ste Marie, mica was found in a mine and contracts to development the mica was given to a bunch of companies without consent from the Metis and Anishinaabe
+	- This was in 1849, they were willing to fight off the miners unless a treaty was signed giving them something in exchange for the mining rights
+- Robinson was hired as the treaty commissioner, and went to the Metis and Anishinaabe to sign the Robinson Huron Treaty in order to settle the mining rights issues
+- Well documented that Robinson orally promised the Metis to protect their lands outside the treaty, but never did it
+	- Robinson also personally bought up Metis land to resell it for a profit
+- Descendant of Powley was Lesage, one of the key Metis figures involved in these negotiations
+## [[R v Powley]]
+- Hunting case, similar to previous cases like [[R v Badger]]
+- Powley and his son shot a moose near Sault Ste Marie, and were charged under the Ontario *Game and Fish Act* for shooting the moose without a license
+- Aren't classified as "Indians" under the *Indian Act*, so the rights under the Robinson Huron treaty didn't apply to them
+	- Also, the legislative regime exempted all status Indians from needing a hunting license
+- Crown claimed there was no Metis right to hunt, Powley said there was one under s. 35
+- Court makes it very clear, as well as the submissions from Metis lawyers, that they weren't just talking about Metis people as an ethnicity, but as a distinct culture
+	- Metis are explicitly included in s. 35, so all they have to do is figure out that the claimant belongs to Metis community, not who is and who is not Metis
+- Too many different variations and different subgroups of Metis to distinguish and name
+- Key part of the case was setting out criteria for who qualifies as "Metis"
+- There are 10 factors listed for finding Metis rights, but 6 of them are just the factors from *Sparrow*, only four of them address Metis rights specifically
+### Existence of a Metis Right
+- For this, you apply a modified version of the [[R v Van der Peet (ATR)]] test
+- Main difference is that we can't use "pre-contact" as a cutoff time since the Metis did not exist at this point, this has been a recognized issue since *Van der Peet* was decided
+- Crown said the goal of this original test was to show continuity between pre-contact and pre-European influence and modern da
+	- Because of this, in order to claim a right they have to show that it originated from an Indigenous culture that affected the heritage of that Metis
+	- Effectively, this is saying there is no such thing as just Metis rights, they need to inherit them from a pre-existing Indigenous nation
+- SCC rejected this argument and instead, the court chose to use the time of "effective Crown control" as the cutoff time
+	- In Sault Ste Marie, this happened around 1850
+- Reasoning for this is that the Metis have distinct rights, should not be derivative of Aboriginal rights
+	- Practice, custom, or tradition only needs to belong to the Metis, not their pre-contact ancestors, still needs to be distinct
+- Metis rights are specifically characterized, same as in an Aboriginal rights case
+	- Crown tried to narrow the right down from hunting for food, to only hunting moose
+	- Powleys argued that the Metis hunted all kinds of game, and subsistence hunting were a key part of the Metis culture and lifestyle
+	- They did hunt moose, but that was not always a solid source of food, and they would just hunt whatever was in season and not depleted at the time
+	- Court accepted this argument, finding that the Metis had broad hunting practices
+	- Characterized the hunting practice as part of a "flexible subsistence economy"
+- Right was also bounded by location, it was the right to hunt around Sault Ste Marie specifically
+- Other requirement inherited from *Van der Peet* was continuity, which took the form here of needing continuity of practice with a historic Metis community
+- Crown argued that many Metis had gone under the Robinson Huron treaty instead, the Crown said that this did not affect continuity, still many non-treaty Metis left
+### Who is Metis?
+- Main concern for this is that the court would impose some kind of blood quantum rule or tie Metis membership to Indigenous ancestry
+- Instead, the test is based around self-identification and acceptance by the Metis community
+	- Self-identification should not be recent, you should have been viewing yourself as Metis and engaging in Metis communities for a while
+	- For the acceptance requirement, participation in community events and membership in a Metis organization is helpful, but not really required
+		- Court will not scrutinize this too much, let the Metis police this
+- Court also required genealogical connection to Metis ancestors, but did not determine this in court, instead they relied on membership in Metis organizations to determine this
+	- Tried to make membership requirements more standardized for Metis organizations to deal with this, has had some success
+- Reason for tying rights to the community leads into the idea that s. 35 rights are held communally by a historic community, and we should tie people to that community
+- Fact that the community became less visible over time was the fault of the government for not recognizing them, shouldn't make it harder for them to claim rights now
+	- Metis community went "underground" for a very long time
+	- Part of this was due to government neglect, but also outright racism and exclusion
+- Determined that this is different from just verifying membership to an Indian band, but that should not mean their rights are not recognized in the same way
+### Application
+- Is hunting for food in the Sault Ste Marie area crucial to the local Metis community pre-contact?
+	- Court said yes, trial judge properly found that this was a long-standing and continuous practice of the Metis in the area
+- Now we know the nature of the right and established it, need to see if it was extinguished
+- Crown argued the Robinson Huron Treaty did this, but the court pointed out that Robinson said he would exclude them from the treaty and talk to them outside that context
+	- Not extinguishment, no clear and plain intention
+- There was also a clear infringement of the right, considering that all Metis rights are denied in general
+	- Goes beyond even limiting beyond preferred means
+- Crown raised conservation as the justification for infringement, as usual for these cases
+- No real evidence provided to say that moose were a protected population
+- Means chose to achieve the objective was therefore not found, and even if moose were scarce, then the Metis should get priority given that this seems to just be a food right
+- Already Anishinaabe hunting rights in the region, and before the govt can come up with specific regulations for the Metis, they can just use that framework
+	- Crown was concerned about this because it's harder to identify who is Metis
+- Way to resolve this was mainly just to standardize the issuing process for Metis identification cards offered by Metis organizations across Canada
+### Other Issues
+- Open question was who actually speaks for the Metis communities, Crown said that this was something the Metis need to discuss amongst themselves
+- Since, there have been a couple negotiations with the Metis National Council and the provincially based suborganizations
+- Finally, this case recognized that the Crown does owe a duty to the Metis, but it's unclear whether this duty is the same kind as with Indigenous and Inuit groups
+## Manitoba Metis Federation
+- This was a claim brought on the behalf of the Red River Metis, arguing that the *Manitoba Act* itself was a result of negotiations between the Crown and Louis Riel and the Red River Rebellion
+- Pointed out that several aspects of the *Manitoba Act* were never fulfilled
+	- Under s. 31, Crown pledged to give 1.4 million acres of land for the benefit of Metis families, as the land became available
+		- This was a crucial part of the initial agreement that was never met
+	- Under s. 32, existing land holdings of Metis adults would also be confirmed
+- Original decision was dismissed mainly on procedural matters, including limitations
+- The SCC decision found that the Crown failed to fulfil the promise under s. 31, leading to a violation of the honour of the Crown
+	- Did not impose a fiduciary duty, but did engage the honour of the Crown
+- Not restricted by limitation dates, honour of the Crown allows the court to issue a declaration that the Crown failed to fulfil the terms of s. 31
+#### Reconciliation
+- Court talked about how the honour of the Crown comes from the assertion of sovereignty over and *de facto* control of lands formerly held by Indigenous peoples
+	- Origin point is the Royal Proclamation
+- Can make an analogy between this kind of constitutional promise and treaty promises
+- Recall that a core principle of treaty interpretation is that they are intended to create obligations and should be treated with solemnity
+	- Both treaty and constitutional promises are made the for the purpose of reconciling Aboriginal interests with Crown sovereignty
+- This appeal is about the promises given in the *Manitoba Act*, which is a constitutional document
+- Metis people agreed to surrender their claims, and agreed to join Canada, and the Crown made promises to encourage this, and then broke these promises
+- Requested remedy was the declaration, not compensation, as part of a n ongoing goal of getting reconciliation under s. 35
+	- Main goal of Metis rights cases is to get them a place at the negotiating table, and this decision finally affirmed that to some extent
+- As long as this kind of grievance exists, reconciliation between the Metis and the Crown is unfinished
+- In 2016, a framework agreement for reconciliation was signed, and two years ago the MMF was recognized as the government of the Red River Metis
+	- Didn't give them land rights, but some self-government is nice
+	- Lets them make laws about citizenship in the Red River Metis

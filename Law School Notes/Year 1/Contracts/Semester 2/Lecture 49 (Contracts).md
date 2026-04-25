@@ -1,0 +1,47 @@
+### Facts
+- Tony Smith bought a property, wanted to tear down the house there and build a new home there
+- Found a builder online, talked to the owner to discuss what to do with the property
+- He picked a preset design option offered by the building company
+- Formal agreement included specifications of the design, what materials will be used, and the measurements/dimensions
+- Company has discretion to use alternative materials to complete the project on time
+- Cost is $2 mill, paid in two installments, one halfway thru building and one at the end
+- Also included a limitation of liability clause that limited damages to $10k, Tony's attention was brought to the clause
+- After seeing the formal agreement, Tony asks for another meeting where they talk about the driveway and backyard
+- Dimensions of the backyard and driveway aren't mentioned in the formal agreement, Anne (building company owner) mentions them in a separate email to Tony
+- After about 6 months have passed, Tony pays the first installment and goes to visit the construction site
+- Discovers that the building company is using the wrong materials and design features, and that the backyard and the driveway are smaller than expected
+- Gets a property inspector to look at it, who concludes that the materials being used aren't in the agreement and the backyard and driveway were both 25% smaller than promised
+- Builder argued that the agreement let
+### Answer
+- First express term to deal with is the agreement that RenoPro will attempt to only use the material listed for the "Classic" option
+	- Need to consider whether this is an innominate term or a condition, will determine if Tony was justified in walking away from the contract or not
+	- Term was likely breached by the decision to use materials outside of the "Classic" option
+- Also need to consider that this term also gives RenoPro discretion to use alternative materials for construction
+	- Reason given for using alternate materials is that it will save time, but it seems more likely it was done for cost-cutting
+	- Can argue that this is a breach of the term, as the discretion to use alternate materials is intended to be used for time reasons
+	- Might also want to bring in industry standards here to determine if a proposed substitute is ok
+- Assuming this is breached, is this a condition or an innominate term?
+	- Likely not a condition, mainly because of the breadth of this provision, both in terms of the powers it grants and the many ways that it can be breached
+- When you need to duplicate analysis like this, just say that you refer to what you wrote earlier
+- Next thing to consider is if the discussion between Tony and Anne regarding the backyard and driveway dimensions is part of the contract
+	- Seems likely that it is, seems to be a clear intention between the parties to include this in the contract
+	- Even without being able to prove common intention, it should be part of the contract anyway because the size of the backyard and driveway were key representations inducing Tony into agreeing to the contract
+	- Based on a case called *Dick Bentley* from [[Lecture 34 (Contracts)|misrepresentation]]
+- Determining whether this is a condition or an innominate term is pretty difficult, there's some conflicting arguments
+	- Can say that the size of the driveway and backyard was clearly important to Tony,  this was what induced him to sign
+	- Also, 25% is a very substantial chunk of the property
+	- However, it would be pretty hard to argue that just having a smaller driveway/backyard removes all your enjoyment or value from the contract
+- Even if Tony can establish a breach, still need to consider if the court will uphold the exclusion clause or not
+	- Multiple ways you can go with this, but overall it seems likely that RenoPro could have their exclusion clause voided for public policy reasons
+	- Inspector told Tony that the hybrid houses that RenoPro were building had never been tested for safety standards
+- Also need to consider any potential good faith claims here
+	- Seems likely that you could argue that RenoPro abused their discretion under the building materials provision
+	- This is an abuse of discretion because this provision is only supposed to be used to speed up construction
+- There's also a general claim for breach of the duty of honest performance based on the fact that RenoPro agreed to build Tony a "Classic" house and instead built a hybrid
+- Tony also has options when it comes to determining damages, facts let you calculate both cost of performance and diminution of value
+	- Best option is probably cost of performance, diminution of value would be more relevant if Tony only discovered the defects after moving into the house, and stayed with it
+	- Had to pay 1 mill extra to get the house built, largest expense
+	- He also needed alternate accommodation for himself and his family, and paid to hire the house inspector
+	- Full damages is about 1 mil plus about 8000 bucks
+	- Most vulnerable expense to being not included is the inspector
+	- Can argue it's a necessary expense if you lack that expertise

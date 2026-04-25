@@ -1,0 +1,73 @@
+### Notes
+- Dealing with a law, prevents spending more than 10k on advertising that criticizes the resource policies of Alberta (s. 2(b))
+- Stated goal from the Premier is that it protects political debate in Alberta
+- Research shows that this bars launching any effective digital and traditional campaign, similar to [[Harper v Canada AG]] you can do other things
+	- Suggested methods are limited online ads or one newspaper ad, but a viral online clip can be much more efficient
+- On the other hand, organizations supporting resource policy have unlimited spending
+- Delaney is a minister of a religious group (s. 2(a)) that only accepts women and requires its members to spread the truth about climate change
+- Launched an advertising campaign against Alberta resource policies
+- Used a scientific report that shows that where debate on environmental policy is limited by ad spending limits, legislatures do not act to affect climate change
+- Also shows evidence of the harm created by climate change (s. 7), and that any benefits of this policy are outweighed by long-term harms
+- Also pointed out that women are uniquely affected by climate change (s. 15)
+- Delaney noted that because the advertising law silences the Gaian Church, it places a disproportionate burden on women who want to criticize the govt
+- Writes an editorial about this, pointed to the gendered dimensions of the issue
+### Answer
+- **Analyze all Charter issues arising from the facts, do not address remedies**
+- Starting with identifying the issues, there is only one government action/law that could be causing Charter issues here, which is the Law
+- Based on the facts, the Law can potentially be challenged under s. 15, s. 7, s. 2(a), and s. 2(b)
+#### Section 15
+- The members of the Gaian Church can make a claim that the Law discriminates against them based on their gender and religion
+	- Basis for this is their argument that the Law is targeting an all-female organization, and that climate change disproportionately affects women
+	- Also, the Gaian Church is devoted to spreading climate change
+- In order to determine whether this claim would be successful, apply the *R v Sharma* test for s. 15
+- First, need to determine if the claimant can show a disproportionate effect on enumerated or analogous grounds, either explicitly or in its effects
+	- Don't need to deal with analogous grounds, gender is enumerated
+	- The Law does not make an explicit distinction, the words and purpose of the law indicate that it is targeting political groups
+	- This is an adverse effects discrimination case
+	- Argument is that this law hastens climate change, which has a disproportionate negative effect on women
+	- Also, since the Gaian Church is all women, they are disproportionately affected by the Law
+	- The Gaians can raise the uLeth study as evidence that this law will increase the severity of climate change, which disproportionately affects women
+	- Compare this case to *Fraser*, *Vriend*, and *Sharma*
+	- In the end, probably not enough evidence
+- Fails at step 1 most likely
+- On the actual exam, I should probably keep going, at least hypothetically
+#### Section 7
+- Those affected by climate change-related diseases can make a claim that the Law violates their rights to life and security under s. 7
+	- Basis for this is the ULeth study that indicates that this law could worsen their illnesses or bring about a premature death
+- Life is engaged because of the increased risk of premature death, security is engaged because of the illness itself
+- As long as the court is convinced by this study, should be able to show causation between the Law and the violation of s. 7
+	- May also need evidence of actual harm, not hypothetical
+	- Can compare this to *PHS* and *Bedford*
+	- Realistically, the challenge would fail at this step
+- Next thing to consider is if the Law violates any PFJs
+	- The purpose of the law is to silence political opposition regarding resource extraction, can argue that this is overbroad
+		- This is clearly not an intended effect of the law
+	- Not arbitrary because its purpose is not undermined, but may be GD considering that the benefits are outweighed by the downsides
+- Probably violates one or more of the core PFJs
+- Substantial and compelling objective will probably be to stop attacks on the Albertan government by wealthy elites
+- Likely fails the proportionality analysis for same reasons why it's GD
+- This challenge could actually be successful, given they can actually establish causation
+#### Section 2(a)
+- Yes, this law is within the scope of s. 2(a)
+	- This is an interference claim, not a neutrality claim
+- The Gaians have a sincere belief that they need to spread the truth about climate change and this has a nexus with religion
+- Need to determine if there was a non-trivial or substantial interference
+	- This one is debatable, we know that the Law would prevent the Gaians from launching a large campaign about climate change, but doesn't totally block it
+	- Gaians can still exercise their beliefs by launching smaller campaigns
+	- Need to analogize to cases like *Edwards* and *Hutterian Brethren*
+- Even if there is an infringement, probably would be saved under s. 1 in a similar was as *Hutterian Brethren* given that this just puts a cap on the campaigns the Gaians can pursue
+- Possible that they could argue that this interferes with the ability to protect the earth against those who threaten her, which is another Gaian belief
+	- Because the oil interests have unlimited funds, this law puts a serious limit on the Gaians being able to challenge them on the same terms
+	- Likely a more convincing argument
+#### Section 2(b)
+- This is basically just *Harper* except with a worse justification
+- Only reason that case was even slightly constitutional was because keeping elections neutral was such an important objective
+- Crown will try and argue that this promotes political debate by raising up disadvantaged voices
+- Critical issue is that this only blocks advertising from one side
+- Pretty clearly an unjustified violation
+- The communication would be protected under s. 2(b), and the law creates an infringement in effect, same as *Harper*
+	- For the justification, just argue democracy
+- Court could potentially argue that they should defer to the legislature because this law protects vulnerable populations
+	- No mediating between groups or conflicting social science tho
+- Also the speech it's restricting is political, almost the highest value possible
+- Likely not saved under s. 1, distinguished from *Harper* mainly due to the differences in the kind of speech

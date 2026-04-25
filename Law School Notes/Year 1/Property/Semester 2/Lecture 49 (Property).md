@@ -1,0 +1,53 @@
+- Prepare questions for Doug by thursday
+- How does a resulting trust work when a beneficial interest is not fully disposed of?
+	- I know the fee simple reverts to the person who initially created the trust, but do they get the legal and beneficial interests, or just the latter?
+- Difference between institutional and remedial trusts, isn't an institutional trust also just a remedy?
+- How does priority work for caveats under s. 31?
+- What happens if you have two owners of a property, one is a tenant in common and the other is a joint tenant?
+### Exam
+- Very similar to the past exams, probably 4 questions, maybe 5
+	- Breakdown will probably be 3 fact patterns and one essay
+- 3.5 hours (LONG)
+- Each question is worth about the same, roughly 45 mins per question
+	- Graded by question, marks on other questions don't affect the other grades
+- Probably most important thing is issue identification, there's usually only 2-3 issues per question so it's important that you're in the right place
+	- Also means you shouldn't be shotgunning the questions, pick your issues and spend a lot of time on each of them
+	- Issues can come from multiple topics, not necessarily all in the same spot
+- Answers do not have to be long, only use as much space as you need
+	- Succinct answers are good, easy to understand and easy to grade
+	- No formal word limit per question
+- Identify the issue, apply the law, and state your conclusion
+	- Remember to actually give an answer
+	- No more wishy-washy answers, even if it's unclear you should give a definite answer
+	- Some questions will have real answers, others can go either way
+- Some past exams will have content that isn't in this course
+	- If you're not sure if it's course content, ask a classmate about it
+- IRAC is useful, but not necessarily required 
+	- You should at least be thinking with IRAC, even if you're not writing with it
+- You don't need to write out the text of statutes, but make it clear what the source of the rule is
+	- If you know the section number, put it in (means I need to put this in my CAN)
+	- However, paraphrasing statutes is totally fine unless you need the precise wording
+	- Also fine to use acronyms for statute names like *LTA* and *PLA*
+- Also going to be a little bit of first-term content, probably in the policy/essay answer
+### Review/Questions
+- If one party gifts part of their whole interest to another party to form a co-ownership arrangement, the other party holds it as a resulting trust for the original owner
+	- Original owner holds half legally, other owner holds half in equity
+- If the same thing happens with a joint tenancy, it's still possible but the transfer needs to be of the same interest the original owner holds
+	- If it was a resulting trust, one of the equities fails because one has legal interest and other has a beneficial interest
+	- Both parties need to have the same kind of interest for a joint tenancy
+- In the title registration system, the distinction between legal and equitable mortgages doesn't matter, just look at how the interests are ranked under title
+	- Second mortgagee would still be effectively taking an equitable right to redeem, but the difference between a legal and equitable mortgage is irrelevant
+- If a legal and beneficial interest are separated, legal owner is the trustee, holding for the benefit of the person holding the beneficial interest
+	- Only thing the legal owner has is a duty to make sure the beneficial owner gets what they are entitled to
+	- Beneficial owner will have whatever rights that were specified in the trust, legal owner may not have those rights depending on the terms, they just hold it for the beneficial owner
+	- Trustee is in a fiduciary relationship, their purpose is to help the beneficial owner
+	- If the trustee dies, their heirs might not want to take on the obligations of a trustee, there's no other value in taking the legal interest
+### Previous Exam
+- For the essay question, there are going to be several small questions that make it up
+- Should be answering all of the small questions as part of the process of making your final answer, and these will also help with structuring your answer
+#### Question 1
+- In this exam, the essay question was about indefeasibility and charges
+- Need to look at how the *LTA* deals with indefeasibility, and how this differs from the Platonic ideal of a Torrens system
+	- As part of this, you need to identify how an ideal Torrens system works, how the *LTA* works, and what a middle ground between those two systems could be
+	- Main part of the question is to explain which of three options you prefer
+		- Remember the point of the exam is to assess your understanding of course content, it's fine to bring other stuff in, but try to connect it to course content

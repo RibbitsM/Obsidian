@@ -82,3 +82,5 @@
 		- How do we deal with financial compensation?
 			- Addressed in [[Judicial Independence#PEI Provincial Court Judges Reference|PEI Provincial Judges]], also had to develop a doctrinal test
 		- *Supreme Court Act Reference* also touches on issues of constitutional interpretation
+### Questions for Kong
+- What case supports the individual focus for finding violations of PFJs? (it's *Bedford*)

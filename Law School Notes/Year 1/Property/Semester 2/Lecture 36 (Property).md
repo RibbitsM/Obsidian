@@ -17,8 +17,8 @@
 - Land code itself gives law-making power to determine use, zoning, transfer, leasing etc. of land
 - Similar to the powers granted to municipal governments regarding land
 - Band councils may be able to expropriate reserve land provided that compensation is given, and be able to establish their own land registration systems
-- The Musqueam Land Code specifically mentions that this law is based on the inherent right of self-government of the Band
-- Technically not called reserve land anymore, when it's subject to a land code, it's called First Nation Land
+- The Musqueam Land Code specifically mentions that this law is based on the inherent right of self-government of the Band (s. 3)
+- Technically not called reserve land anymore, when it's subject to a land code, it's called First Nation Land (s. 4)
 - Musqueam Land Code came into operation in 2017, the Squamish made a land code as well, but the community refused to ratify it so it failed the community vote
 - Tsleil-Waututh also made a land code, one of many in BC
 - Also a lot of heavy lifting done in the band bylaws, the land code deals with broad principles, and most of the fine details like zoning and registration are done in the bylaws
